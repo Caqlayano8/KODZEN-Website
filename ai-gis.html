@@ -1,0 +1,422 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI-GIS Infrastructure System — KODZEN TEKNOLOJİ</title>
+  <meta name="description" content="AI destekli GIS ve altyapı yönetim sistemi. Harita tabanlı elektrik dağıtım, SCADA entegrasyonu, yapay zeka analizi. KODZEN TEKNOLOJİ.">
+  <!-- SEO & Open Graph -->
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Çağlayan Kurtoğlu — KODZEN TEKNOLOJİ">
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <link rel="canonical" href="https://kodzen.io/ai-gis.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AI-GIS Infrastructure System — KODZEN TEKNOLOJİ">
+  <meta property="og:description" content="Elektrik altyapı yönetiminin akıllı çözümü. GIS, SCADA, AI analiz ve OSM entegrasyonu.">
+  <meta property="og:url" content="https://kodzen.io/ai-gis.html">
+  <meta property="og:image" content="https://kodzen.io/images/og-kodzen.jpg">
+  <meta property="og:site_name" content="KODZEN TEKNOLOJİ">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AI-GIS Infrastructure System — KODZEN TEKNOLOJİ">
+  <meta name="twitter:description" content="Elektrik altyapı yönetiminin akıllı çözümü. GIS, SCADA, AI analiz.">
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJİ</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Ürünler</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>
+            <li><a class="dropdown-item" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>
+            <li><a class="dropdown-item" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>
+            <li><a class="dropdown-item" href="viralbotpro.html"><i class="bi bi-play-circle me-2 text-primary-kodzen"></i>ViralBot Pro</a></li>
+          <li><a class="dropdown-item" href="siparis.html"><i class="bi bi-bag-heart me-2" style="color:#f7931e"></i>Siparım — Yemek Platformu</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="webgelistirme.html">Web Hizmetleri</a></li>
+        <li class="nav-item"><a class="nav-link" href="siberguvenik.html">Siber Güvenlik</a></li>
+        <li class="nav-item"><a class="nav-link" href="scada.html">SCADA</a></li>
+        <li class="nav-item"><a class="nav-link" href="fiyatlar.html">Fiyatlar</a></li>
+        <li class="nav-item" data-nav="galeri"><a class="nav-link" href="galeri.html">Galeri</a></li>
+        <li class="nav-item"><a class="nav-link" href="demo.html">Demo</a></li>
+        <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+      </ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- PAGE HERO -->
+<section class="page-hero">
+  <div class="container">
+    <div class="row align-items-center gy-4">
+      <div class="col-lg-7" data-aos="fade-right">
+        <span class="page-hero-label"><i class="bi bi-map me-2"></i>GIS & SCADA Platformu</span>
+        <h1>AI-GIS Infrastructure<br><span class="gradient-text">System</span></h1>
+        <p class="mt-3">Elektrik Altyapı Yönetiminin Akıllı Çözümü — Direkler, trafolar, hatlar ve sokak lambalarını tek ekranda yönetin.</p>
+        <div class="d-flex gap-3 flex-wrap mt-4">
+          <a href="demo.html" class="btn-primary-kodzen"><i class="bi bi-play-circle"></i> Demo Talep Et</a>
+          <a href="#ozellikler" class="btn-ghost-kodzen"><i class="bi bi-list-check"></i> Özellikleri Gör</a>
+        </div>
+      </div>
+      <div class="col-lg-5" data-aos="fade-left">
+        <div class="row g-3">
+          <div class="col-6">
+            <div class="info-card text-center py-4">
+              <div style="font-size:2rem;color:var(--primary)" class="mb-2"><i class="bi bi-map"></i></div>
+              <div style="font-size:1.4rem;font-weight:800;color:#fff">7</div>
+              <div style="font-size:0.78rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px">Dil Desteği</div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="info-card text-center py-4">
+              <div style="font-size:2rem;color:var(--primary)" class="mb-2"><i class="bi bi-cpu"></i></div>
+              <div style="font-size:1.4rem;font-weight:800;color:#fff">AI</div>
+              <div style="font-size:0.78rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px">Analiz Motoru</div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="info-card text-center py-4">
+              <div style="font-size:2rem;color:var(--primary)" class="mb-2"><i class="bi bi-wifi-off"></i></div>
+              <div style="font-size:1.4rem;font-weight:800;color:#fff">Offline</div>
+              <div style="font-size:0.78rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px">Mod Desteği</div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="info-card text-center py-4">
+              <div style="font-size:2rem;color:var(--primary)" class="mb-2"><i class="bi bi-shield-check"></i></div>
+              <div style="font-size:1.4rem;font-weight:800;color:#fff">4</div>
+              <div style="font-size:0.78rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px">Sürüm</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ÜRÜN ÖZETİ -->
+<section class="bg-section-alt">
+  <div class="container">
+    <div class="row align-items-center gy-5">
+      <div class="col-lg-6" data-aos="fade-right">
+        <div class="section-tag"><i class="bi bi-info-circle"></i> Ürün Özeti</div>
+        <h2 class="section-title">Ne Yapar?</h2>
+        <p class="text-muted mb-4">AI-GIS Infrastructure System, elektrik dağıtım şirketleri ve belediyeler için geliştirilmiş, harita tabanlı altyapı yönetim sistemidir.</p>
+        <ul class="check-list">
+          <li><i class="bi bi-check-circle-fill"></i> Elektrik direkleri, trafolar ve hatların harita üzerinde yönetimi</li>
+          <li><i class="bi bi-check-circle-fill"></i> Sokak lambalarının konumsal takibi ve durum izleme</li>
+          <li><i class="bi bi-check-circle-fill"></i> Yapay zeka destekli altyapı analizi ve raporlama</li>
+          <li><i class="bi bi-check-circle-fill"></i> OpenStreetMap ile canlı harita verisi entegrasyonu</li>
+          <li><i class="bi bi-check-circle-fill"></i> 7 farklı dil desteği (Türkçe, İngilizce, Arapça dahil)</li>
+          <li><i class="bi bi-check-circle-fill"></i> Üçlü onay sistemi ile veri güvenilirliği</li>
+          <li><i class="bi bi-check-circle-fill"></i> Offline çalışma modu — internet olmadan da kullanım</li>
+          <li><i class="bi bi-check-circle-fill"></i> GPS tabanlı saha personel takibi</li>
+        </ul>
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <div class="hero-code-card">
+          <div class="code-card-header">
+            <span class="code-dot red"></span><span class="code-dot yellow"></span><span class="code-dot green"></span>
+            <span class="code-card-title">ai_gis_api.py</span>
+          </div>
+          <div class="code-card-body">
+            <div class="code-line"><span class="code-num">1</span><span class="code-kw">from </span><span class="code-teal">fastapi</span><span class="code-kw"> import </span><span>FastAPI</span></div>
+            <div class="code-line"><span class="code-num">2</span><span class="code-kw">from </span><span class="code-teal">gis_engine</span><span class="code-kw"> import </span><span>InfraManager</span></div>
+            <div class="code-line"><span class="code-num">3</span><span></span></div>
+            <div class="code-line"><span class="code-num">4</span><span>app = </span><span class="code-fn">FastAPI</span><span>()</span></div>
+            <div class="code-line"><span class="code-num">5</span><span>gis = </span><span class="code-fn">InfraManager</span><span>(osm=</span><span class="code-kw">True</span><span>)</span></div>
+            <div class="code-line"><span class="code-num">6</span><span></span></div>
+            <div class="code-line"><span class="code-num">7</span><span class="code-comment"># Elektrik direği ekle</span></div>
+            <div class="code-line"><span class="code-num">8</span><span>@app.</span><span class="code-fn">post</span><span>(</span><span class="code-str">"/api/poles"</span><span>)</span></div>
+            <div class="code-line"><span class="code-num">9</span><span class="code-kw">async def </span><span class="code-fn">add_pole</span><span>(data: </span><span class="code-teal">PoleSchema</span><span>):</span></div>
+            <div class="code-line"><span class="code-num">10</span><span>&nbsp;&nbsp;</span><span class="code-kw">return </span><span class="code-kw">await </span><span>gis.</span><span class="code-fn">create_asset</span><span>(data)</span></div>
+            <div class="code-line"><span class="code-num">11</span><span></span></div>
+            <div class="code-line"><span class="code-num">12</span><span class="code-comment"># AI analiz motoru</span></div>
+            <div class="code-line"><span class="code-num">13</span><span>@app.</span><span class="code-fn">get</span><span>(</span><span class="code-str">"/api/ai/analyze"</span><span>)</span></div>
+            <div class="code-line"><span class="code-num">14</span><span class="code-kw">async def </span><span class="code-fn">analyze</span><span>():</span></div>
+            <div class="code-line"><span class="code-num">15</span><span>&nbsp;&nbsp;</span><span class="code-kw">return </span><span class="code-kw">await </span><span>gis.</span><span class="code-fn">ai_insights</span><span>()</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ÖZELLİKLER -->
+<section id="ozellikler">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-stars"></i> Özellikler</div>
+      <h2 class="section-title">Güçlü <span class="highlight">Özellikler</span></h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-map"></i></div>
+          <h6>Gerçek Zamanlı Harita</h6>
+          <p>Leaflet.js ile interaktif, canlı güncellenen altyapı haritası</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="60">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-cpu"></i></div>
+          <h6>AI Analiz</h6>
+          <p>Yapay zeka ile arıza tespiti, bakım önerisi ve risk analizi</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="120">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-globe"></i></div>
+          <h6>OSM Entegrasyonu</h6>
+          <p>OpenStreetMap canlı veri ile güncel harita altyapısı</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="180">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-translate"></i></div>
+          <h6>7 Dil Desteği</h6>
+          <p>Türkçe, İngilizce, Arapça, Rusça ve daha fazlası</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-wifi-off"></i></div>
+          <h6>Offline Mod</h6>
+          <p>İnternet olmadan çalışma, senkronizasyon desteği</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="60">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-file-earmark-bar-graph"></i></div>
+          <h6>Raporlama</h6>
+          <p>PDF/Excel rapor çıktısı, dashboard ve istatistikler</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="120">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-geo-alt"></i></div>
+          <h6>GPS Takip</h6>
+          <p>Saha personelinin gerçek zamanlı GPS konum takibi</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="180">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-patch-check"></i></div>
+          <h6>Üçlü Onay</h6>
+          <p>Kritik değişiklikler için 3 kademeli onay sistemi</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SÜRÜMLER -->
+<section class="bg-section-alt">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-layers"></i> Sürümler</div>
+      <h2 class="section-title">Dağıtım <span class="highlight">Seçenekleri</span></h2>
+    </div>
+    <div class="table-responsive" data-aos="fade-up">
+      <table class="table-dark-kodzen w-100">
+        <thead>
+          <tr>
+            <th>Özellik</th>
+            <th>Standart</th>
+            <th>Demo</th>
+            <th>Offline</th>
+            <th>SaaS</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Harita Görüntüleme</td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+          </tr>
+          <tr>
+            <td>Varlık Yönetimi</td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+          </tr>
+          <tr>
+            <td>AI Analiz</td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+          </tr>
+          <tr>
+            <td>Offline Çalışma</td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+          </tr>
+          <tr>
+            <td>Çok Kullanıcı</td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+          </tr>
+          <tr>
+            <td>7 Dil</td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+          </tr>
+          <tr>
+            <td>SaaS Bulut</td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-dash-circle cross"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- TEKNOLOJİLER -->
+<section>
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-stack"></i> Teknolojiler</div>
+      <h2 class="section-title">Kullanılan <span class="highlight">Teknolojiler</span></h2>
+    </div>
+    <div class="text-center" data-aos="fade-up">
+      <span class="tech-badge"><i class="bi bi-filetype-py"></i> Python</span>
+      <span class="tech-badge">FastAPI</span>
+      <span class="tech-badge">PostgreSQL</span>
+      <span class="tech-badge">PostGIS</span>
+      <span class="tech-badge">Redis</span>
+      <span class="tech-badge">Leaflet.js</span>
+      <span class="tech-badge">Docker</span>
+      <span class="tech-badge">OpenStreetMap</span>
+      <span class="tech-badge">Nginx</span>
+      <span class="tech-badge">JWT Auth</span>
+      <span class="tech-badge">REST API</span>
+      <span class="tech-badge">WebSocket</span>
+    </div>
+  </div>
+</section>
+
+<!-- DEMO CTA -->
+<section class="cta-banner">
+  <div class="container text-center position-relative" style="z-index:1" data-aos="zoom-in">
+    <h2 class="fs-1 fw-900 mb-3 text-white">AI-GIS'i Deneyin</h2>
+    <p class="fs-5 mb-4 text-white opacity-90">14 günlük ücretsiz demo ile altyapı yönetim sisteminizi bugün kurun.</p>
+    <a href="demo.html" class="btn-cta-white"><i class="bi bi-calendar-check"></i> Demo Talep Et</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-4">
+        <div class="footer-brand">
+          <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+          <div style="font-size:.6rem;letter-spacing:4px;color:var(--text-dim);text-transform:uppercase;font-weight:600;margin-top:2px">TEKNOLOJİ</div>
+        </div>
+        <p class="footer-desc">Yazılım geliştirme, GIS/SCADA altyapı sistemleri ve kurumsal BT çözümleri.</p>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Ürünler</div>
+        <ul class="footer-links">
+          <li><a href="ai-gis.html">AI-GIS System</a></li>
+          <li><a href="whatsypzck.html">WhatsYpzck</a></li>
+          <li><a href="ckmesaj.html">CKmesaj</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Sayfalar</div>
+        <ul class="footer-links">
+          <li><a href="index.html">Ana Sayfa</a></li>
+          <li><a href="webgelistirme.html">Web Hizmetleri</a></li>
+          <li><a href="fiyatlar.html">Fiyatlar</a></li>
+          <li><a href="galeri.html">Galeri</a></li>
+          <li><a href="demo.html">Demo</a></li>
+          <li><a href="siberguvenik.html">Siber Güvenlik</a></li>
+          <li><a href="scada.html">SCADA</a></li>
+          <li><a href="temalar.html">Temalar</a></li>
+          <li><a href="iletisim.html">İletişim</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <div class="footer-heading">İletişim</div>
+        <div class="footer-contact-item"><i class="bi bi-geo-alt"></i> Artvin, Türkiye</div>
+        <div class="footer-contact-item"><i class="bi bi-telephone"></i> <a href="tel:05458966096">0545 896 6096</a></div>
+        <div class="footer-contact-item"><i class="bi bi-envelope"></i> <a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+      </div>
+    </div>
+    <hr class="footer-divider">
+    <div class="footer-bottom">
+      <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOLOJİ</span> — Tüm hakları saklıdır.</p>
+    <p class="footer-copy mb-0 mt-1"><a href="privacy.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Gizlilik Politikası</a> &nbsp;|&nbsp; <a href="terms.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Kullanım Koşulları</a></p>
+    </div>
+  </div>
+</footer>
+
+<!-- LIVE CHAT -->
+<div class="live-chat-widget">
+  <a id="liveChatBtn" href="https://wa.me/905458966096" target="_blank" class="chat-toggle-btn" title="WhatsApp">
+    <span class="pulse-ring"></span>
+    <i class="bi bi-whatsapp"></i>
+  </a>
+</div>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/transitions.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "AI-GIS Infrastructure System",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "description": "Elektrik altyapı yönetiminin akıllı çözümü. GIS, SCADA, AI analiz, OSM entegrasyonu.",
+  "provider": {"@type": "Organization", "name": "KODZEN TEKNOLOJİ", "url": "https://kodzen.io"}
+}
+</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>
+

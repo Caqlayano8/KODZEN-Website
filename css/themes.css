@@ -1,0 +1,327 @@
+/* =====================================================
+   KODZEN TEKNOLOJİ — 7 Günlük Tema Sistemi
+   Her gün otomatik olarak değişir. Admin panelinden override edilebilir.
+   
+   Temalar:
+   Paz(0): cosmic-purple  — Kozmik Mor (derin uzay, yapay zeka)
+   Pzt(1): matrix         — Matrix Yeşil (hacker, terminal, kod)
+   Sal(2): midnight-blue  — Gece Mavisi (kurumsal, derin deniz)
+   Çar(3): light-pro      — Fantastik Galaksi (koyu mor, yıldızlı)
+   Per(4): crimson        — Kızıl Enerji (güç, enerji, dinamizm)
+   Cum(5): cyber-gold     — Siber Altın (premium, başarı)
+   Cmt(6): default        — KODZEN Teal (ana tema)
+   ===================================================== */
+
+/* ── TEMA 1: Matrix Yeşil (Pazartesi) ── */
+[data-theme="matrix"] {
+  --primary: #00ff41;
+  --primary-dark: #00cc34;
+  --primary-glow: rgba(0, 255, 65, 0.15);
+  --bg-darkest: #000500;
+  --bg-dark: #030a03;
+  --bg-darker: #071007;
+  --bg-card: #081508;
+  --bg-card2: #0a1c0a;
+  --border: rgba(0, 255, 65, 0.08);
+  --border-teal: rgba(0, 255, 65, 0.25);
+  --text-main: #ccffcc;
+  --text-muted: #7acc7a;
+  --text-dim: #3d7a3d;
+  --shadow: 0 4px 24px rgba(0,0,0,0.7);
+  --shadow-teal: 0 4px 24px rgba(0, 255, 65, 0.2);
+}
+[data-theme="matrix"] .navbar { background: rgba(3,10,3,0.95) !important; }
+[data-theme="matrix"] .hero-code-card { border-color: rgba(0,255,65,0.2); }
+[data-theme="matrix"] .brand-brain { color: #00ff41 !important; }
+[data-theme="matrix"] .text-primary-kodzen { color: #00ff41 !important; }
+[data-theme="matrix"] body::before {
+  content: '';
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,255,65,0.01) 2px, rgba(0,255,65,0.01) 4px);
+  pointer-events: none; z-index: 0;
+}
+
+/* ── TEMA 2: Gece Mavisi (Salı) ── */
+[data-theme="midnight-blue"] {
+  --primary: #3b82f6;
+  --primary-dark: #2563eb;
+  --primary-glow: rgba(59, 130, 246, 0.15);
+  --bg-darkest: #020814;
+  --bg-dark: #050f1f;
+  --bg-darker: #071428;
+  --bg-card: #0a1a35;
+  --bg-card2: #0d2040;
+  --border: rgba(59, 130, 246, 0.1);
+  --border-teal: rgba(59, 130, 246, 0.25);
+  --text-main: #dbeafe;
+  --text-muted: #93c5fd;
+  --text-dim: #3b82f6;
+  --shadow: 0 4px 24px rgba(0,0,0,0.5);
+  --shadow-teal: 0 4px 24px rgba(59, 130, 246, 0.25);
+}
+[data-theme="midnight-blue"] .navbar { background: rgba(5,15,31,0.97) !important; border-bottom-color: rgba(59,130,246,0.15) !important; }
+[data-theme="midnight-blue"] .brand-brain { color: #3b82f6 !important; }
+[data-theme="midnight-blue"] .text-primary-kodzen { color: #60a5fa !important; }
+[data-theme="midnight-blue"] .btn-primary-kodzen { background: linear-gradient(135deg, #3b82f6, #1d4ed8) !important; }
+
+/* ── TEMA 3: Fantastik Mor-Turkuaz (Çarşamba) ── */
+[data-theme="light-pro"] {
+  --primary: #c084fc;
+  --primary-dark: #a855f7;
+  --primary-glow: rgba(192, 132, 252, 0.2);
+  --bg-darkest: #04020e;
+  --bg-dark: #07041a;
+  --bg-darker: #0d0826;
+  --bg-card: #110d30;
+  --bg-card2: #160f38;
+  --border: rgba(192, 132, 252, 0.12);
+  --border-teal: rgba(192, 132, 252, 0.3);
+  --text-main: #f0e6ff;
+  --text-muted: #c4b5fd;
+  --text-dim: #7c5cbf;
+  --shadow: 0 4px 28px rgba(0,0,0,0.7);
+  --shadow-teal: 0 4px 28px rgba(192, 132, 252, 0.3);
+}
+
+/* Arkaplan: Galaksi gradient */
+[data-theme="light-pro"] body {
+  background: radial-gradient(ellipse at 20% 20%, #1a0533 0%, #07041a 40%, #04020e 100%) !important;
+  color: #f0e6ff !important;
+}
+
+/* Yıldızlı arka plan efekti */
+[data-theme="light-pro"] body::before {
+  content: '';
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background-image:
+    radial-gradient(1px 1px at 15% 25%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 45% 10%, rgba(255,255,255,0.5) 0%, transparent 100%),
+    radial-gradient(1.5px 1.5px at 70% 35%, rgba(200,150,255,0.8) 0%, transparent 100%),
+    radial-gradient(1px 1px at 85% 15%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 30% 60%, rgba(255,255,255,0.4) 0%, transparent 100%),
+    radial-gradient(2px 2px at 60% 70%, rgba(150,100,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 90% 80%, rgba(255,255,255,0.5) 0%, transparent 100%),
+    radial-gradient(1.5px 1.5px at 10% 85%, rgba(200,150,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 50% 50%, rgba(255,255,255,0.3) 0%, transparent 100%),
+    radial-gradient(1px 1px at 75% 90%, rgba(255,255,255,0.4) 0%, transparent 100%);
+  pointer-events: none; z-index: 0;
+}
+
+/* Nebula glow efekti */
+[data-theme="light-pro"] body::after {
+  content: '';
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background:
+    radial-gradient(ellipse 60% 40% at 80% 10%, rgba(120,50,200,.15) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 30% at 10% 90%, rgba(0,196,160,.08) 0%, transparent 60%),
+    radial-gradient(ellipse 40% 50% at 50% 50%, rgba(80,0,180,.07) 0%, transparent 70%);
+  pointer-events: none; z-index: 0;
+}
+
+/* Navbar */
+[data-theme="light-pro"] .navbar {
+  background: rgba(7,4,26,0.92) !important;
+  backdrop-filter: blur(20px) !important;
+  border-bottom: 1px solid rgba(192,132,252,0.2) !important;
+  box-shadow: 0 2px 20px rgba(120,50,200,.2) !important;
+}
+[data-theme="light-pro"] .navbar .navbar-nav .nav-link { color: #c4b5fd !important; }
+[data-theme="light-pro"] .navbar .navbar-nav .nav-link:hover {
+  color: #e879f9 !important;
+  background: rgba(192,132,252,0.1) !important;
+}
+[data-theme="light-pro"] .navbar .dropdown-menu {
+  background: #110d30 !important;
+  border: 1px solid rgba(192,132,252,0.2) !important;
+  box-shadow: 0 12px 40px rgba(0,0,0,.7) !important;
+}
+[data-theme="light-pro"] .navbar .dropdown-item { color: #c4b5fd !important; }
+[data-theme="light-pro"] .navbar .dropdown-item:hover {
+  background: rgba(192,132,252,0.12) !important; color: #e879f9 !important;
+}
+
+/* Başlıklar — parlak efekt */
+[data-theme="light-pro"] h1 { color: #f0e6ff !important; text-shadow: 0 0 30px rgba(192,132,252,.4); }
+[data-theme="light-pro"] h2, [data-theme="light-pro"] h3, [data-theme="light-pro"] h4 { color: #e9d5ff !important; }
+
+/* Highlight */
+[data-theme="light-pro"] .highlight, [data-theme="light-pro"] .text-primary-kodzen { color: #e879f9 !important; }
+[data-theme="light-pro"] .brand-brain { color: #c084fc !important; filter: drop-shadow(0 0 8px rgba(192,132,252,.6)); }
+
+/* Butonlar */
+[data-theme="light-pro"] .btn-primary-kodzen {
+  background: linear-gradient(135deg, #9333ea, #7c3aed) !important;
+  color: #fff !important;
+  box-shadow: 0 4px 20px rgba(147,51,234,.4) !important;
+}
+[data-theme="light-pro"] .btn-primary-kodzen:hover {
+  background: linear-gradient(135deg, #a855f7, #8b5cf6) !important;
+  box-shadow: 0 6px 28px rgba(168,85,247,.5) !important;
+}
+[data-theme="light-pro"] .btn-outline-kodzen {
+  border-color: rgba(192,132,252,.5) !important;
+  color: #c084fc !important;
+}
+[data-theme="light-pro"] .btn-outline-kodzen:hover {
+  background: rgba(192,132,252,.1) !important;
+}
+
+/* Kartlar */
+[data-theme="light-pro"] .product-card, [data-theme="light-pro"] .cv-job,
+[data-theme="light-pro"] .service-item, [data-theme="light-pro"] .gallery-item {
+  background: linear-gradient(135deg, #110d30, #0d0826) !important;
+  border-color: rgba(192,132,252,.18) !important;
+  box-shadow: 0 4px 24px rgba(0,0,0,.5), inset 0 1px 0 rgba(192,132,252,.08) !important;
+}
+[data-theme="light-pro"] .product-card:hover, [data-theme="light-pro"] .service-item:hover {
+  border-color: rgba(192,132,252,.4) !important;
+  box-shadow: 0 8px 40px rgba(147,51,234,.25) !important;
+}
+
+/* Section etiketleri */
+[data-theme="light-pro"] .section-tag {
+  background: rgba(147,51,234,.12) !important;
+  color: #c084fc !important;
+  border-color: rgba(192,132,252,.25) !important;
+}
+
+/* Bölüm arkaplanları */
+[data-theme="light-pro"] .bg-section-alt {
+  background: radial-gradient(ellipse at 50% 50%, #0d0826 0%, #07041a 100%) !important;
+}
+
+/* Footer */
+[data-theme="light-pro"] .footer {
+  background: linear-gradient(180deg, #0d0826 0%, #04020e 100%) !important;
+  border-top: 1px solid rgba(192,132,252,.15) !important;
+}
+[data-theme="light-pro"] .footer * { color: #7c5cbf !important; }
+[data-theme="light-pro"] .footer a:hover { color: #c084fc !important; }
+
+/* Hero kod kartı */
+[data-theme="light-pro"] .hero-code-card {
+  background: rgba(17,13,48,.8) !important;
+  border-color: rgba(192,132,252,.25) !important;
+  box-shadow: 0 0 40px rgba(120,50,200,.2) !important;
+}
+
+/* Tech badge */
+[data-theme="light-pro"] .tech-badge {
+  background: rgba(147,51,234,.15) !important;
+  color: #c084fc !important;
+  border: 1px solid rgba(192,132,252,.2) !important;
+}
+
+/* Servis ikonları */
+[data-theme="light-pro"] .service-icon-box {
+  background: linear-gradient(135deg, rgba(147,51,234,.2), rgba(124,58,237,.1)) !important;
+  color: #c084fc !important;
+  box-shadow: 0 0 20px rgba(147,51,234,.2) !important;
+}
+
+/* Input ve form */
+[data-theme="light-pro"] input, [data-theme="light-pro"] textarea, [data-theme="light-pro"] select {
+  background: rgba(17,13,48,.8) !important;
+  border-color: rgba(192,132,252,.25) !important;
+  color: #f0e6ff !important;
+}
+
+/* WhatsApp butonu rengi */
+[data-theme="light-pro"] .chat-toggle-btn {
+  box-shadow: 0 4px 20px rgba(37,211,102,.3), 0 0 20px rgba(147,51,234,.2) !important;
+}
+
+/* Scrollbar */
+[data-theme="light-pro"] ::-webkit-scrollbar-track { background: #07041a !important; }
+[data-theme="light-pro"] ::-webkit-scrollbar-thumb { background: rgba(147,51,234,.4) !important; }
+[data-theme="light-pro"] ::-webkit-scrollbar-thumb:hover { background: rgba(192,132,252,.6) !important; }
+
+
+/* ── TEMA 4: Kızıl Enerji (Perşembe) ── */
+[data-theme="crimson"] {
+  --primary: #ef4444;
+  --primary-dark: #dc2626;
+  --primary-glow: rgba(239, 68, 68, 0.15);
+  --bg-darkest: #0a0303;
+  --bg-dark: #100505;
+  --bg-darker: #160808;
+  --bg-card: #1c0a0a;
+  --bg-card2: #200d0d;
+  --border: rgba(239, 68, 68, 0.1);
+  --border-teal: rgba(239, 68, 68, 0.25);
+  --text-main: #fee2e2;
+  --text-muted: #fca5a5;
+  --text-dim: #7f1d1d;
+  --shadow: 0 4px 24px rgba(0,0,0,0.6);
+  --shadow-teal: 0 4px 24px rgba(239, 68, 68, 0.25);
+}
+[data-theme="crimson"] .navbar { background: rgba(16,5,5,0.97) !important; }
+[data-theme="crimson"] .brand-brain { color: #ef4444 !important; }
+[data-theme="crimson"] .text-primary-kodzen { color: #f87171 !important; }
+[data-theme="crimson"] .btn-primary-kodzen { background: linear-gradient(135deg, #ef4444, #dc2626) !important; }
+[data-theme="crimson"] .highlight { color: #f87171 !important; }
+[data-theme="crimson"] .product-badge { background: rgba(239,68,68,0.15) !important; color: #f87171 !important; border-color: rgba(239,68,68,0.3) !important; }
+
+/* ── TEMA 5: Siber Altın (Cuma) ── */
+[data-theme="cyber-gold"] {
+  --primary: #f59e0b;
+  --primary-dark: #d97706;
+  --primary-glow: rgba(245, 158, 11, 0.15);
+  --bg-darkest: #08070a;
+  --bg-dark: #0d0c12;
+  --bg-darker: #121018;
+  --bg-card: #18151f;
+  --bg-card2: #1c1924;
+  --border: rgba(245, 158, 11, 0.1);
+  --border-teal: rgba(245, 158, 11, 0.25);
+  --text-main: #fef3c7;
+  --text-muted: #fcd34d;
+  --text-dim: #78350f;
+  --shadow: 0 4px 24px rgba(0,0,0,0.5);
+  --shadow-teal: 0 4px 24px rgba(245, 158, 11, 0.25);
+}
+[data-theme="cyber-gold"] .navbar { background: rgba(13,12,18,0.97) !important; }
+[data-theme="cyber-gold"] .brand-brain { color: #f59e0b !important; }
+[data-theme="cyber-gold"] .text-primary-kodzen { color: #fbbf24 !important; }
+[data-theme="cyber-gold"] .btn-primary-kodzen { background: linear-gradient(135deg, #f59e0b, #d97706) !important; color: #000 !important; }
+[data-theme="cyber-gold"] .highlight { background: linear-gradient(135deg, #f59e0b, #fbbf24) !important; -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; }
+[data-theme="cyber-gold"] .product-badge { background: rgba(245,158,11,0.15) !important; color: #fbbf24 !important; }
+[data-theme="cyber-gold"] .section-tag { background: rgba(245,158,11,0.1) !important; color: #fbbf24 !important; border-color: rgba(245,158,11,0.3) !important; }
+
+/* ── TEMA 6: Kozmik Mor (Pazar) ── */
+[data-theme="cosmic-purple"] {
+  --primary: #a855f7;
+  --primary-dark: #9333ea;
+  --primary-glow: rgba(168, 85, 247, 0.15);
+  --bg-darkest: #05030f;
+  --bg-dark: #080516;
+  --bg-darker: #0d0820;
+  --bg-card: #110d28;
+  --bg-card2: #16122f;
+  --border: rgba(168, 85, 247, 0.1);
+  --border-teal: rgba(168, 85, 247, 0.25);
+  --text-main: #f3e8ff;
+  --text-muted: #c4b5fd;
+  --text-dim: #6d28d9;
+  --shadow: 0 4px 24px rgba(0,0,0,0.6);
+  --shadow-teal: 0 4px 24px rgba(168, 85, 247, 0.25);
+}
+[data-theme="cosmic-purple"] .navbar { background: rgba(8,5,22,0.97) !important; }
+[data-theme="cosmic-purple"] .brand-brain { color: #a855f7 !important; }
+[data-theme="cosmic-purple"] .text-primary-kodzen { color: #c084fc !important; }
+[data-theme="cosmic-purple"] .btn-primary-kodzen { background: linear-gradient(135deg, #a855f7, #7c3aed) !important; }
+[data-theme="cosmic-purple"] .highlight { color: #c084fc !important; }
+[data-theme="cosmic-purple"] .product-badge { background: rgba(168,85,247,0.15) !important; color: #c084fc !important; border-color: rgba(168,85,247,0.3) !important; }
+[data-theme="cosmic-purple"] body {
+  background-image: radial-gradient(ellipse at 20% 50%, rgba(168,85,247,0.03) 0%, transparent 50%),
+                    radial-gradient(ellipse at 80% 20%, rgba(59,130,246,0.03) 0%, transparent 50%);
+}
+
+/* ── Tema İsim Etiketleri (Admin panel için) ── */
+.theme-label-matrix       { color: #00ff41; }
+.theme-label-midnight-blue{ color: #3b82f6; }
+.theme-label-light-pro    { color: #0066cc; }
+.theme-label-crimson      { color: #ef4444; }
+.theme-label-cyber-gold   { color: #f59e0b; }
+.theme-label-cosmic-purple{ color: #a855f7; }
+.theme-label-default      { color: #00c4a0; }

@@ -1,0 +1,776 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Örnek Site Temaları & Web Tasarım Portföyü | KODZEN TEKNOLOJİ</title>
+  <meta name="description" content="KODZEN TEKNOLOJİ hazır web sitesi temaları. Kurumsal, restoran, e-ticaret, sağlık, hukuk ve daha fazla sektör için profesyonel site tasarımları.">
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <link rel="canonical" href="https://kodzen.io/temalar.html">
+
+  <!-- Bootstrap 5 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <!-- AOS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+
+  <!-- External CSS -->
+  <link rel="stylesheet" href="css/style.css">
+
+  <style>
+    .theme-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: all 0.3s ease;
+    }
+    .theme-card:hover {
+      border-color: var(--border-teal);
+      transform: translateY(-6px);
+      box-shadow: 0 12px 40px rgba(0,0,0,.5);
+    }
+    .theme-preview {
+      position: relative;
+      height: 200px;
+      overflow: hidden;
+    }
+    .theme-mini {
+      width: 100%; height: 100%;
+    }
+    .theme-mini-navbar {
+      display: flex; align-items: center;
+      justify-content: space-between;
+      padding: 8px 12px; height: 28px;
+    }
+    .theme-overlay {
+      position: absolute; inset: 0;
+      background: rgba(0,0,0,0.5);
+      display: flex; align-items: center; justify-content: center;
+      opacity: 0; transition: opacity 0.3s;
+    }
+    .theme-card:hover .theme-overlay { opacity: 1; }
+    .theme-preview-btn {
+      background: var(--primary); color: #000;
+      font-weight: 700; padding: 8px 20px;
+      border-radius: 8px; text-decoration: none;
+      font-size: .85rem;
+    }
+    .theme-info { padding: 16px; }
+    .theme-category-badge {
+      display: inline-block; font-size: .68rem; font-weight: 700;
+      letter-spacing: 1px; text-transform: uppercase;
+      background: var(--primary-glow); border: 1px solid var(--border-teal);
+      color: var(--primary); padding: 3px 10px; border-radius: 20px;
+      margin-bottom: 8px;
+    }
+    .theme-name { font-weight: 800; font-size: .95rem; color: #fff; margin-bottom: 4px; }
+    .theme-desc { font-size: .78rem; color: var(--text-muted); margin-bottom: 10px; }
+    .theme-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 12px; }
+    .theme-tags span {
+      font-size: .68rem; background: rgba(255,255,255,.06);
+      border: 1px solid var(--border); border-radius: 4px;
+      padding: 2px 7px; color: var(--text-dim);
+    }
+    .theme-footer-row { display: flex; gap: 8px; }
+    .btn-sm { font-size: .78rem !important; padding: 6px 12px !important; }
+    .filter-btn {
+      background: var(--bg-card); border: 1px solid var(--border);
+      color: var(--text-muted); font-size: .82rem; font-weight: 600;
+      padding: 7px 16px; border-radius: 8px; cursor: pointer;
+      transition: all .2s; margin: 0 4px 8px;
+    }
+    .filter-btn.active, .filter-btn:hover {
+      background: var(--primary-glow); border-color: var(--border-teal); color: var(--primary);
+    }
+  </style>
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg" id="mainNavbar">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <span class="brand-logo-text">KODZEN<span class="brand-brain"> {🧠}</span></span>
+        <span class="brand-sub">TEKNOLOJİ</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Ürünler</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>
+            <li><a class="dropdown-item" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>
+            <li><a class="dropdown-item" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>
+            <li><a class="dropdown-item" href="viralbotpro.html"><i class="bi bi-play-circle me-2 text-primary-kodzen"></i>ViralBot Pro</a></li>
+          <li><a class="dropdown-item" href="siparis.html"><i class="bi bi-bag-heart me-2" style="color:#f7931e"></i>Siparım — Yemek Platformu</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="webgelistirme.html">Web Hizmetleri</a></li>
+        <li class="nav-item"><a class="nav-link" href="siberguvenik.html">Siber Güvenlik</a></li>
+        <li class="nav-item"><a class="nav-link" href="scada.html">SCADA</a></li>
+        <li class="nav-item"><a class="nav-link" href="fiyatlar.html">Fiyatlar</a></li>
+        <li class="nav-item" data-nav="galeri"><a class="nav-link" href="galeri.html">Galeri</a></li>
+        <li class="nav-item"><a class="nav-link" href="demo.html">Demo</a></li>
+        <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+      </ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="page-hero" style="padding:80px 0 50px">
+    <div class="container text-center">
+      <span class="page-hero-label"><i class="bi bi-palette me-2"></i>Web Tasarım Portföyü</span>
+      <h1 data-aos="fade-up" style="font-size:clamp(2rem,5vw,3.2rem);font-weight:900">Hazır Site <span class="gradient-text">Temaları</span></h1>
+      <p class="mx-auto mt-3 mb-0" data-aos="fade-up" data-aos-delay="60" style="max-width:580px;color:var(--text-muted);font-size:1.05rem">
+        10 farklı sektör için profesyonel, özelleştirilebilir web sitesi şablonları. Her tema tam responsive ve modern tasarımlıdır.
+      </p>
+    </div>
+  </section>
+
+  <!-- STATS ROW -->
+  <section style="padding:0 0 20px">
+    <div class="container">
+      <div class="row g-3 justify-content-center text-center">
+        <div class="col-6 col-md-3"><div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:16px"><div style="font-size:1.8rem;font-weight:900;color:var(--primary)">10</div><div style="font-size:.8rem;color:var(--text-muted)">Hazır Tema</div></div></div>
+        <div class="col-6 col-md-3"><div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:16px"><div style="font-size:1.8rem;font-weight:900;color:var(--primary)">8</div><div style="font-size:.8rem;color:var(--text-muted)">Sektör</div></div></div>
+        <div class="col-6 col-md-3"><div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:16px"><div style="font-size:1.8rem;font-weight:900;color:var(--primary)">100%</div><div style="font-size:.8rem;color:var(--text-muted)">Responsive</div></div></div>
+        <div class="col-6 col-md-3"><div style="background:var(--bg-card);border:1px solid var(--border);border-radius:12px;padding:16px"><div style="font-size:1.8rem;font-weight:900;color:var(--primary)">∞</div><div style="font-size:.8rem;color:var(--text-muted)">Özelleştirme</div></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FILTER BAR -->
+  <section style="padding:10px 0 30px">
+    <div class="container">
+      <div class="text-center">
+        <button class="filter-btn active" data-filter="all">Tümü</button>
+        <button class="filter-btn" data-filter="kurumsal">Kurumsal</button>
+        <button class="filter-btn" data-filter="eticaret">E-ticaret</button>
+        <button class="filter-btn" data-filter="saglik">Sağlık</button>
+        <button class="filter-btn" data-filter="restoran">Restoran & Otel</button>
+        <button class="filter-btn" data-filter="hukuk">Hukuk</button>
+        <button class="filter-btn" data-filter="egitim">Eğitim</button>
+        <button class="filter-btn" data-filter="saas">SaaS & App</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- THEME CARDS GRID -->
+  <section style="padding:20px 0 60px">
+    <div class="container">
+      <div class="row g-4">
+
+        <!-- Card 1 - TechCorp Yazılım (Kurumsal) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+          <div class="theme-card" data-category="kurumsal">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#0a0f1a">
+                <div class="theme-mini-navbar" style="background:rgba(0,0,0,0.7)">
+                  <div style="width:60px;height:6px;background:#00c4a0;border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:#00c4a0;border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(255,255,255,.2);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-01-kurumsal.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">Kurumsal</div>
+              <h5 class="theme-name">TechCorp Yazılım</h5>
+              <p class="theme-desc">Yazılım şirketleri için modern dark tema. Hizmetler, portföy, iletişim.</p>
+              <div class="theme-tags">
+                <span>Dark Tema</span><span>Kurumsal</span><span>Bootstrap</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-01-kurumsal.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 2 - Lezzet Sarayı Restaurant (Restoran) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="60">
+          <div class="theme-card" data-category="restoran">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#1a0a00">
+                <div class="theme-mini-navbar" style="background:rgba(0,0,0,0.8)">
+                  <div style="width:60px;height:6px;background:#d4a017;border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:#d4a017;border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(255,255,255,.2);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-02-restoran.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">Restoran</div>
+              <h5 class="theme-name">Lezzet Sarayı Restaurant</h5>
+              <p class="theme-desc">Premium Türk restoranı için warm gold tema. Menü, şef, rezervasyon.</p>
+              <div class="theme-tags">
+                <span>Gold Tema</span><span>Restoran</span><span>Serif Font</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-02-restoran.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 3 - ModaStore (E-ticaret, light theme) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="120">
+          <div class="theme-card" data-category="eticaret">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#f8f9fa">
+                <div class="theme-mini-navbar" style="background:#fff">
+                  <div style="width:60px;height:6px;background:#6c3fd4;border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:#6c3fd4;border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(0,0,0,.1);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-03-eticaret.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">E-ticaret</div>
+              <h5 class="theme-name">ModaStore</h5>
+              <p class="theme-desc">Moda e-ticaret için minimal beyaz tema. Ürünler, indirimler, sepet.</p>
+              <div class="theme-tags">
+                <span>Beyaz Tema</span><span>E-ticaret</span><span>Moda</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-03-eticaret.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 4 - SağlıkPlus Klinik (Sağlık, light theme) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+          <div class="theme-card" data-category="saglik">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#f0f9ff">
+                <div class="theme-mini-navbar" style="background:#fff">
+                  <div style="width:60px;height:6px;background:#0ea5e9;border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:#0ea5e9;border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(0,0,0,.1);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-04-saglik.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">Sağlık</div>
+              <h5 class="theme-name">SağlıkPlus Klinik</h5>
+              <p class="theme-desc">Medikal klinik için temiz mavi-beyaz tema. Doktorlar, hizmetler, randevu.</p>
+              <div class="theme-tags">
+                <span>Açık Tema</span><span>Sağlık</span><span>Profesyonel</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-04-saglik.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 5 - Creative Studio ARES (Kurumsal/Ajans) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="60">
+          <div class="theme-card" data-category="kurumsal">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#0a0a0a">
+                <div class="theme-mini-navbar" style="background:#000">
+                  <div style="width:60px;height:6px;background:#ff3366;border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:#ff3366;border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(255,255,255,.2);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-05-ajans.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">Ajans</div>
+              <h5 class="theme-name">Creative Studio ARES</h5>
+              <p class="theme-desc">Dijital ajans için bold siyah-pembe tema. Portföy, hizmetler, iletişim.</p>
+              <div class="theme-tags">
+                <span>Dark Tema</span><span>Ajans</span><span>Bold</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-05-ajans.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 6 - Grand Palace Hotel (Restoran/Otel) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="120">
+          <div class="theme-card" data-category="restoran">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#1a1208">
+                <div class="theme-mini-navbar" style="background:rgba(0,0,0,0.8)">
+                  <div style="width:60px;height:6px;background:#c9a84c;border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:#c9a84c;border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(255,255,255,.2);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-06-otel.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">Otel</div>
+              <h5 class="theme-name">Grand Palace Hotel</h5>
+              <p class="theme-desc">5 yıldızlı lüks otel için gold dark tema. Odalar, olanaklar, rezervasyon.</p>
+              <div class="theme-tags">
+                <span>Lüks</span><span>Otel</span><span>Gold</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-06-otel.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 7 - QuickApp (SaaS/App) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+          <div class="theme-card" data-category="saas">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#090b1a">
+                <div class="theme-mini-navbar" style="background:rgba(0,0,0,0.8)">
+                  <div style="width:60px;height:6px;background:linear-gradient(90deg,#7c3aed,#00c4a0);border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:linear-gradient(90deg,#7c3aed,#00c4a0);border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(255,255,255,.2);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-07-mobil-app.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">Mobil App</div>
+              <h5 class="theme-name">QuickApp - Mobil Uygulama</h5>
+              <p class="theme-desc">Mobil uygulama landing page. Gradient tema, özellikler, fiyatlandırma.</p>
+              <div class="theme-tags">
+                <span>Gradient</span><span>App Landing</span><span>Pricing</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-07-mobil-app.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 8 - Kılıç & Demir Hukuk (Hukuk) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="60">
+          <div class="theme-card" data-category="hukuk">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#0d0d0d">
+                <div class="theme-mini-navbar" style="background:rgba(0,0,0,0.9)">
+                  <div style="width:60px;height:6px;background:#8b7355;border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:#8b7355;border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(255,255,255,.2);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-08-hukuk.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">Hukuk</div>
+              <h5 class="theme-name">Kılıç & Demir Hukuk</h5>
+              <p class="theme-desc">Hukuk bürosu için ciddi dark gold tema. Uzmanlık alanları, avukat profilleri.</p>
+              <div class="theme-tags">
+                <span>Dark Tema</span><span>Hukuk</span><span>Profesyonel</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-08-hukuk.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 9 - EduTech (Eğitim, light theme) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="120">
+          <div class="theme-card" data-category="egitim">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#f8fafc">
+                <div class="theme-mini-navbar" style="background:#fff">
+                  <div style="width:60px;height:6px;background:#7c3aed;border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(0,0,0,.2);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:#7c3aed;border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(0,0,0,.1);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(0,0,0,.08);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-09-egitim.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">Eğitim</div>
+              <h5 class="theme-name">EduTech - Online Eğitim</h5>
+              <p class="theme-desc">Online eğitim platformu için açık mor tema. Kurslar, öğrenciler, fiyatlar.</p>
+              <div class="theme-tags">
+                <span>Açık Tema</span><span>Eğitim</span><span>Platform</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-09-egitim.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Card 10 - CloudSync SaaS (SaaS) -->
+        <div class="col-lg-4 col-md-6" data-aos="fade-up">
+          <div class="theme-card" data-category="saas">
+            <div class="theme-preview">
+              <div class="theme-mini" style="background:#050a14">
+                <div class="theme-mini-navbar" style="background:rgba(0,0,0,0.8)">
+                  <div style="width:60px;height:6px;background:linear-gradient(90deg,#2563eb,#06b6d4);border-radius:3px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                    <div style="width:20px;height:4px;background:rgba(255,255,255,.3);border-radius:2px"></div>
+                  </div>
+                </div>
+                <div style="padding:12px 10px">
+                  <div style="width:70%;height:10px;background:linear-gradient(90deg,#2563eb,#06b6d4);border-radius:4px;margin-bottom:6px;opacity:.9"></div>
+                  <div style="width:50%;height:6px;background:rgba(255,255,255,.2);border-radius:3px;margin-bottom:14px"></div>
+                  <div style="display:flex;gap:6px">
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                    <div style="flex:1;height:40px;background:rgba(255,255,255,.07);border-radius:6px"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="theme-overlay">
+                <a href="../Örnek Site Temaları/tema-10-startup.html" target="_blank" class="theme-preview-btn">
+                  <i class="bi bi-eye"></i> Önizle
+                </a>
+              </div>
+            </div>
+            <div class="theme-info">
+              <div class="theme-category-badge">SaaS</div>
+              <h5 class="theme-name">CloudSync SaaS</h5>
+              <p class="theme-desc">B2B SaaS startup için minimal dark blue tema. Features, pricing, FAQ.</p>
+              <div class="theme-tags">
+                <span>Dark Tema</span><span>SaaS</span><span>Startup</span>
+              </div>
+              <div class="theme-footer-row">
+                <a href="../Örnek Site Temaları/tema-10-startup.html" target="_blank" class="btn-outline-kodzen btn-sm">
+                  <i class="bi bi-eye"></i> Demo
+                </a>
+                <a href="demo.html" class="btn-primary-kodzen btn-sm">
+                  <i class="bi bi-palette"></i> Bize Özel Yap
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA SECTION -->
+  <section style="padding:60px 0">
+    <div class="container">
+      <div class="text-center cta-box" style="background:var(--bg-card);border:1px solid var(--border-teal);border-radius:20px;padding:50px 30px" data-aos="fade-up">
+        <div class="section-tag mx-auto mb-3"><i class="bi bi-palette me-2"></i>Özel Tasarım</div>
+        <h2 style="font-weight:900;font-size:clamp(1.5rem,4vw,2.4rem);margin-bottom:12px">Kendi Temanızı <span class="gradient-text">Oluşturalım</span></h2>
+        <p style="color:var(--text-muted);max-width:520px;margin:0 auto 28px;font-size:1rem">
+          Size özel tasarım için Demo talep edin. Markanıza uygun, özgün web sitesi tasarlıyoruz.
+        </p>
+        <div class="d-flex gap-3 justify-content-center flex-wrap">
+          <a href="demo.html" class="btn-primary-kodzen"><i class="bi bi-palette"></i> Demo Talep Et</a>
+          <a href="iletisim.html" class="btn-outline-kodzen"><i class="bi bi-chat-dots"></i> İletişime Geç</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container">
+      <div class="row g-4">
+        <div class="col-lg-4">
+          <div class="footer-brand">
+            <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {🧠}</span></span>
+            <div style="font-size:.6rem;letter-spacing:4px;color:var(--text-dim);text-transform:uppercase;font-weight:600;margin-top:2px">TEKNOLOJİ</div>
+          </div>
+          <p class="footer-desc">Yazılım geliştirme, GIS/SCADA altyapı sistemleri ve kurumsal BT çözümleri.</p>
+          <div class="social-links mt-3">
+            <a href="https://github.com/Caqlayano8" target="_blank" class="social-link"><i class="bi bi-github"></i></a>
+            <a href="mailto:kurtoqluo8@gmail.com" class="social-link"><i class="bi bi-envelope"></i></a>
+            <a href="https://wa.me/905458966096" target="_blank" class="social-link"><i class="bi bi-whatsapp"></i></a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-lg-2">
+          <div class="footer-heading">Ürünler</div>
+          <ul class="footer-links">
+            <li><a href="ai-gis.html">AI-GIS System</a></li>
+            <li><a href="whatsypzck.html">WhatsYpzck</a></li>
+            <li><a href="ckmesaj.html">CKmesaj</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-6 col-lg-2">
+          <div class="footer-heading">Sayfalar</div>
+          <ul class="footer-links">
+            <li><a href="index.html">Ana Sayfa</a></li>
+            <li><a href="webgelistirme.html">Web Hizmetleri</a></li>
+            <li><a href="siberguvenik.html">Siber Güvenlik</a></li>
+            <li><a href="scada.html">SCADA</a></li>
+            <li><a href="temalar.html">Temalar</a></li>
+            <li><a href="fiyatlar.html">Fiyatlar</a></li>
+            <li><a href="galeri.html">Galeri</a></li>
+            <li><a href="demo.html">Demo</a></li>
+            <li><a href="iletisim.html">İletişim</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-4">
+          <div class="footer-heading">İletişim</div>
+          <div class="footer-contact-item"><i class="bi bi-geo-alt"></i> Artvin, Türkiye</div>
+          <div class="footer-contact-item"><i class="bi bi-telephone"></i> <a href="tel:05458966096">0545 896 6096</a></div>
+          <div class="footer-contact-item"><i class="bi bi-envelope"></i> <a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+          <div class="footer-contact-item"><i class="bi bi-github"></i> <a href="https://github.com/Caqlayano8" target="_blank">github.com/Caqlayano8</a></div>
+        </div>
+      </div>
+      <hr class="footer-divider">
+      <div class="footer-bottom">
+        <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOLOJİ</span> — Tüm hakları saklıdır.</p>
+        <p class="footer-copy mb-0 mt-1"><a href="privacy.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Gizlilik Politikası</a> &nbsp;|&nbsp; <a href="terms.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Kullanım Koşulları</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Live Chat Widget -->
+  <div class="live-chat-widget">
+    <a id="liveChatBtn" href="https://wa.me/905458966096" target="_blank" class="chat-toggle-btn" title="WhatsApp">
+      <span class="pulse-ring"></span>
+      <i class="bi bi-whatsapp"></i>
+    </a>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/transitions.js"></script>
+
+  <script>
+    AOS.init({ duration: 700, once: true });
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', function () {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        const cat = this.dataset.filter;
+        document.querySelectorAll('.theme-card').forEach(card => {
+          if (cat === 'all' || card.dataset.category === cat) {
+            card.style.display = '';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+      });
+    });
+  </script>
+
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>

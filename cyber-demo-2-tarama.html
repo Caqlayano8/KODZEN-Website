@@ -1,0 +1,891 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ağ Güvenlik Tarayıcı Simülasyonu — KODZEN</title>
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="vendor/bootstrap-icons/font/bootstrap-icons.min.css" rel="stylesheet" />
+  <style>
+    :root {
+      --bg-primary:   #0d1117;
+      --bg-secondary: #161b22;
+      --bg-card:      #1c2230;
+      --bg-terminal:  #0a0e17;
+      --bg-input:     #0d1117;
+      --border:       #30363d;
+      --teal:         #00c4a0;
+      --teal-dark:    #009e82;
+      --teal-glow:    rgba(0,196,160,0.18);
+      --red:          #f43f5e;
+      --orange:       #fb923c;
+      --yellow:       #fbbf24;
+      --green:        #22c55e;
+      --text-primary: #e6edf3;
+      --text-secondary:#8b949e;
+      --text-muted:   #484f58;
+      --term-green:   #39d353;
+      --term-yellow:  #f9c74f;
+      --term-red:     #ff6b6b;
+      --term-dim:     #6e7681;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      background-image:
+        radial-gradient(ellipse at 10% 15%, rgba(0,196,160,0.05) 0%, transparent 50%),
+        radial-gradient(ellipse at 90% 85%, rgba(244,63,94,0.04) 0%, transparent 50%);
+    }
+
+    /* ── Header ── */
+    .site-header {
+      background: rgba(22, 27, 34, 0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+    }
+    .site-header .inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .logo-block { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+    .logo-icon {
+      width: 38px; height: 38px;
+      background: linear-gradient(135deg, var(--teal), #00a896);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.1rem; color: #fff; font-weight: 800; letter-spacing: -1px;
+      box-shadow: 0 0 16px rgba(0,196,160,0.4);
+    }
+    .logo-name { font-size: 1.1rem; font-weight: 700; color: var(--text-primary); }
+    .logo-name span { color: var(--teal); }
+    .header-title {
+      font-size: .85rem; font-weight: 500; color: var(--text-secondary);
+      background: rgba(0,196,160,0.08);
+      border: 1px solid rgba(0,196,160,0.2);
+      padding: 4px 12px; border-radius: 20px;
+    }
+    .back-link {
+      display: flex; align-items: center; gap: 6px;
+      color: var(--teal); font-size: .85rem; font-weight: 500;
+      text-decoration: none; transition: opacity .2s;
+    }
+    .back-link:hover { opacity: .75; color: var(--teal); }
+
+    /* ── Page ── */
+    .page-body { padding: 3rem 1.5rem 5rem; }
+
+    /* ── Main card ── */
+    .main-card {
+      max-width: 820px;
+      margin: 0 auto;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 2.5rem;
+      box-shadow: 0 8px 48px rgba(0,0,0,0.45), 0 0 0 1px rgba(255,255,255,0.03);
+      animation: fadeIn .5s ease;
+    }
+
+    /* ── Card header ── */
+    .card-header-block {
+      display: flex; align-items: flex-start; justify-content: space-between;
+      flex-wrap: wrap; gap: 1rem;
+      margin-bottom: 1.75rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .card-header-block h1 { font-size: 1.5rem; font-weight: 700; }
+    .card-header-block h1 span { font-size: 1.8rem; }
+    .disclaimer-badge {
+      background: rgba(251,191,36,0.1);
+      border: 1px solid rgba(251,191,36,0.3);
+      color: var(--yellow);
+      font-size: .78rem; font-weight: 500;
+      padding: 5px 12px; border-radius: 20px;
+      display: inline-flex; align-items: center; gap: 6px;
+      flex-shrink: 0;
+    }
+
+    /* ── Input row ── */
+    .scan-input-row {
+      display: flex; gap: 12px; margin-bottom: 1.5rem;
+    }
+    .scan-input-row input {
+      flex: 1;
+      background: var(--bg-input);
+      border: 1.5px solid var(--border);
+      border-radius: 12px;
+      color: var(--text-primary);
+      font-size: 1rem;
+      font-family: 'JetBrains Mono', monospace;
+      padding: 13px 18px;
+      outline: none;
+      transition: border-color .25s, box-shadow .25s;
+    }
+    .scan-input-row input:focus {
+      border-color: var(--teal);
+      box-shadow: 0 0 0 3px var(--teal-glow);
+    }
+    .scan-input-row input::placeholder { color: var(--text-muted); font-family: 'JetBrains Mono', monospace; }
+
+    .btn-teal {
+      background: linear-gradient(135deg, var(--teal), var(--teal-dark));
+      color: #fff; border: none; border-radius: 12px;
+      padding: 13px 26px; font-size: .95rem; font-weight: 600;
+      font-family: 'Inter', sans-serif; cursor: pointer; white-space: nowrap;
+      display: flex; align-items: center; gap: 8px;
+      transition: transform .15s, box-shadow .2s;
+      box-shadow: 0 4px 20px rgba(0,196,160,0.25);
+    }
+    .btn-teal:hover { transform: translateY(-1px); box-shadow: 0 6px 28px rgba(0,196,160,0.38); }
+    .btn-teal:active { transform: translateY(0); }
+    .btn-teal:disabled { opacity: .5; cursor: not-allowed; transform: none; }
+
+    /* ── Progress bar ── */
+    .progress-section { margin-bottom: 1.25rem; }
+    .progress-label {
+      display: flex; justify-content: space-between;
+      font-size: .8rem; color: var(--text-secondary);
+      margin-bottom: 6px;
+    }
+    .progress-track {
+      height: 6px; background: var(--bg-input);
+      border-radius: 99px; overflow: hidden;
+      border: 1px solid var(--border);
+    }
+    .progress-fill {
+      height: 100%; border-radius: 99px;
+      background: linear-gradient(90deg, var(--teal), #00a896);
+      width: 0%;
+      transition: width .4s linear;
+      box-shadow: 0 0 8px rgba(0,196,160,0.5);
+    }
+
+    /* ── Terminal ── */
+    .terminal-wrap {
+      background: var(--bg-terminal);
+      border: 1px solid #1e2736;
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 0;
+    }
+    .terminal-titlebar {
+      background: #141923;
+      padding: 8px 14px;
+      display: flex; align-items: center; gap: 8px;
+      border-bottom: 1px solid #1e2736;
+    }
+    .terminal-titlebar .dot {
+      width: 12px; height: 12px; border-radius: 50%;
+    }
+    .dot-red   { background: #ff5f57; }
+    .dot-yellow{ background: #febc2e; }
+    .dot-green { background: #28c840; }
+    .terminal-titlebar .term-title {
+      font-size: .75rem;
+      color: var(--text-muted);
+      font-family: 'JetBrains Mono', monospace;
+      margin-left: 6px;
+    }
+    .terminal-body {
+      padding: 1.1rem 1.4rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: .82rem;
+      line-height: 1.8;
+      min-height: 260px;
+      max-height: 340px;
+      overflow-y: auto;
+    }
+    .terminal-body::-webkit-scrollbar { width: 5px; }
+    .terminal-body::-webkit-scrollbar-track { background: transparent; }
+    .terminal-body::-webkit-scrollbar-thumb { background: #30363d; border-radius: 99px; }
+
+    .log-line { display: flex; gap: 10px; align-items: flex-start; }
+    .log-ts   { color: var(--term-dim); flex-shrink: 0; }
+    .log-msg  { color: var(--term-green); }
+    .log-msg.warn  { color: var(--term-yellow); }
+    .log-msg.error { color: var(--term-red); }
+    .log-msg.info  { color: #7dd3fc; }
+    .log-msg.dim   { color: var(--term-dim); }
+    .log-cursor {
+      display: inline-block;
+      width: 8px; height: 14px;
+      background: var(--term-green);
+      vertical-align: middle;
+      animation: blink 1s step-end infinite;
+    }
+
+    /* ── Section divider ── */
+    .section-divider {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 2rem 0;
+    }
+    .section-title {
+      font-size: .78rem; font-weight: 600;
+      text-transform: uppercase; letter-spacing: .1em;
+      color: var(--text-muted);
+      margin-bottom: 1.1rem;
+    }
+
+    /* ── Score circle ── */
+    .score-circle-wrap {
+      display: flex; flex-direction: column; align-items: center;
+      padding: 1rem 0 .5rem;
+    }
+    .score-circle {
+      width: 130px; height: 130px;
+      border-radius: 50%;
+      border: 6px solid var(--orange);
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      box-shadow: 0 0 32px rgba(251,146,60,0.2);
+      margin-bottom: .85rem;
+      position: relative;
+    }
+    .score-circle::before {
+      content: '';
+      position: absolute; inset: -12px;
+      border-radius: 50%;
+      border: 1px solid rgba(251,146,60,0.1);
+    }
+    .score-number {
+      font-size: 2.4rem; font-weight: 800;
+      color: var(--orange); line-height: 1;
+    }
+    .score-denom {
+      font-size: .9rem; color: var(--text-muted); margin-top: 2px;
+    }
+    .score-label {
+      font-size: 1rem; font-weight: 600;
+      color: var(--orange);
+    }
+    .score-sub {
+      font-size: .82rem; color: var(--text-secondary); margin-top: 4px;
+    }
+
+    /* ── Port table ── */
+    .port-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .88rem;
+    }
+    .port-table thead th {
+      background: rgba(255,255,255,0.03);
+      color: var(--text-muted);
+      font-size: .75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      text-align: left;
+    }
+    .port-table tbody td {
+      padding: 11px 14px;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+      vertical-align: middle;
+    }
+    .port-table tbody tr:last-child td { border-bottom: none; }
+    .port-table tbody tr:hover { background: rgba(255,255,255,0.02); }
+    .port-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+    .badge-open {
+      background: rgba(34,197,94,0.12);
+      color: var(--green);
+      border: 1px solid rgba(34,197,94,0.25);
+      padding: 2px 10px; border-radius: 20px;
+      font-size: .78rem; font-weight: 600;
+    }
+    .risk-low    { color: var(--green);  font-size: .84rem; }
+    .risk-medium { color: var(--yellow); font-size: .84rem; }
+    .risk-high   { color: var(--red);    font-size: .84rem; }
+    .risk-note   { font-size: .75rem; color: var(--text-muted); margin-top: 2px; }
+
+    /* ── SSL cards ── */
+    .ssl-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 10px;
+    }
+    .ssl-item {
+      background: rgba(255,255,255,0.025);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 14px;
+      display: flex; align-items: flex-start; gap: 10px;
+    }
+    .ssl-icon {
+      font-size: 1.1rem; flex-shrink: 0; margin-top: 1px;
+    }
+    .ssl-icon.ok    { color: var(--green); }
+    .ssl-icon.fail  { color: var(--red); }
+    .ssl-content {}
+    .ssl-name { font-size: .88rem; font-weight: 600; color: var(--text-primary); }
+    .ssl-status {
+      font-size: .78rem; margin-top: 3px;
+    }
+    .ssl-status.ok   { color: var(--green); }
+    .ssl-status.fail { color: var(--red); }
+    .ssl-note { font-size: .75rem; color: var(--text-muted); margin-top: 2px; }
+
+    /* ── Recommendation cards ── */
+    .reco-list { display: flex; flex-direction: column; gap: 10px; }
+    .reco-card {
+      border-radius: 12px;
+      padding: 14px 16px;
+      display: flex; align-items: flex-start; gap: 12px;
+      border: 1px solid;
+    }
+    .reco-card.high {
+      background: rgba(244,63,94,0.06);
+      border-color: rgba(244,63,94,0.2);
+    }
+    .reco-card.medium {
+      background: rgba(251,191,36,0.05);
+      border-color: rgba(251,191,36,0.2);
+    }
+    .reco-dot {
+      width: 10px; height: 10px; border-radius: 50%;
+      flex-shrink: 0; margin-top: 5px;
+    }
+    .reco-dot.high   { background: var(--red); box-shadow: 0 0 8px rgba(244,63,94,0.5); }
+    .reco-dot.medium { background: var(--yellow); box-shadow: 0 0 8px rgba(251,191,36,0.4); }
+    .reco-text { font-size: .88rem; color: var(--text-primary); line-height: 1.5; }
+    .reco-text strong { color: inherit; }
+
+    /* ── Export button ── */
+    .btn-outline {
+      background: none;
+      border: 1.5px solid var(--border);
+      border-radius: 10px;
+      color: var(--text-secondary);
+      font-size: .9rem;
+      font-family: 'Inter', sans-serif;
+      font-weight: 500;
+      padding: 11px 22px;
+      cursor: pointer;
+      display: inline-flex; align-items: center; gap: 8px;
+      transition: border-color .2s, color .2s, background .2s;
+    }
+    .btn-outline:hover {
+      border-color: var(--teal);
+      color: var(--teal);
+      background: rgba(0,196,160,0.06);
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center;
+      padding: 2.5rem 1rem 1.5rem;
+      color: var(--text-muted);
+      font-size: .8rem;
+    }
+    .site-footer a { color: var(--teal); text-decoration: none; }
+    .footer-back {
+      display: inline-flex; align-items: center; gap: 6px;
+      color: var(--teal); font-size: .88rem; font-weight: 500;
+      text-decoration: none; margin-bottom: 1rem;
+    }
+    .footer-back:hover { opacity: .75; color: var(--teal); }
+
+    /* ── Visibility helpers ── */
+    .phase { display: none; }
+    .phase.active { display: block; }
+
+    /* ── Animations ── */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .fade-in { animation: fadeIn .45s ease both; }
+
+    /* ── Spin loader ── */
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .spinner {
+      display: inline-block;
+      width: 16px; height: 16px;
+      border: 2px solid rgba(255,255,255,0.2);
+      border-top-color: #fff;
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .main-card { padding: 1.5rem; }
+      .scan-input-row { flex-direction: column; }
+      .card-header-block { flex-direction: column; }
+    }
+  </style>
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
+<header class="site-header">
+  <div class="inner">
+    <a href="index.html" class="logo-block">
+      <div class="logo-icon">KZ</div>
+      <span class="logo-name">KODZEN <span>TEKNOLOJİ</span></span>
+    </a>
+    <span class="header-title"><i class="bi bi-radar me-1"></i>Ağ Güvenlik Tarayıcı</span>
+    <a href="siberguvenik.html" class="back-link">
+      <i class="bi bi-arrow-left"></i> Siber Güvenlik
+    </a>
+  </div>
+</header>
+
+<!-- ═══════════════════════  MAIN  ═══════════════════════ -->
+<main class="page-body">
+  <div class="main-card">
+
+    <!-- Card header -->
+    <div class="card-header-block">
+      <div>
+        <h1><span>🌐</span> Ağ Güvenlik Tarayıcı Simülasyonu</h1>
+        <p style="font-size:.88rem;color:var(--text-secondary);margin-top:.4rem;">
+          Hedef sistem üzerinde simüle edilmiş güvenlik analizi gerçekleştirin
+        </p>
+      </div>
+      <span class="disclaimer-badge">
+        <i class="bi bi-exclamation-triangle-fill"></i>
+        Bu araç simülasyon amaçlıdır — Gerçek tarama yapmaz
+      </span>
+    </div>
+
+    <!-- Scan input -->
+    <div class="scan-input-row">
+      <input type="text" id="targetInput" value="example.com"
+             placeholder="example.com veya 192.168.1.1"
+             autocomplete="off" spellcheck="false" />
+      <button class="btn-teal" id="scanBtn" type="button">
+        <i class="bi bi-play-fill"></i> Taramayı Başlat
+      </button>
+    </div>
+
+    <!-- PHASE: Scanning -->
+    <div class="phase" id="phaseScan">
+      <div class="progress-section">
+        <div class="progress-label">
+          <span id="progressLabel">Tarama başlatılıyor…</span>
+          <span id="progressPct">0%</span>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" id="progressFill"></div>
+        </div>
+      </div>
+
+      <div class="terminal-wrap">
+        <div class="terminal-titlebar">
+          <div class="dot dot-red"></div>
+          <div class="dot dot-yellow"></div>
+          <div class="dot dot-green"></div>
+          <span class="term-title">kodzen-scanner — bash</span>
+        </div>
+        <div class="terminal-body" id="termBody">
+          <span class="log-cursor"></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- PHASE: Results -->
+    <div class="phase" id="phaseResults">
+
+      <!-- A: Score -->
+      <hr class="section-divider" style="margin-top:0" />
+      <p class="section-title"><i class="bi bi-shield-half me-1"></i>Güvenlik Skoru</p>
+      <div class="score-circle-wrap">
+        <div class="score-circle">
+          <span class="score-number">62</span>
+          <span class="score-denom">/ 100</span>
+        </div>
+        <span class="score-label">Orta Güvenlik</span>
+        <span class="score-sub">Bazı riskler tespit edildi — aşağıdaki önerilere bakın</span>
+      </div>
+
+      <!-- B: Ports -->
+      <hr class="section-divider" />
+      <p class="section-title"><i class="bi bi-diagram-3 me-1"></i>Port Tarama Sonuçları</p>
+      <div style="overflow-x:auto;border-radius:12px;border:1px solid var(--border);">
+        <table class="port-table">
+          <thead>
+            <tr>
+              <th>Port</th>
+              <th>Servis</th>
+              <th>Durum</th>
+              <th>Risk Düzeyi</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><span class="port-num">80</span></td>
+              <td>HTTP</td>
+              <td><span class="badge-open">Açık</span></td>
+              <td>
+                <div class="risk-low"><i class="bi bi-check-circle-fill me-1"></i>Düşük</div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="port-num">443</span></td>
+              <td>HTTPS</td>
+              <td><span class="badge-open">Açık</span></td>
+              <td>
+                <div class="risk-low"><i class="bi bi-check-circle-fill me-1"></i>Düşük</div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="port-num">22</span></td>
+              <td>SSH</td>
+              <td><span class="badge-open">Açık</span></td>
+              <td>
+                <div class="risk-high"><i class="bi bi-exclamation-circle-fill me-1"></i>Yüksek</div>
+                <div class="risk-note">Kapatılması veya VPN arkasına alınması önerilir</div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="port-num">3389</span></td>
+              <td>RDP</td>
+              <td><span class="badge-open">Açık</span></td>
+              <td>
+                <div class="risk-high"><i class="bi bi-exclamation-circle-fill me-1"></i>Yüksek</div>
+                <div class="risk-note">Kapatılması önerilir — brute-force riski yüksek</div>
+              </td>
+            </tr>
+            <tr>
+              <td><span class="port-num">8080</span></td>
+              <td>HTTP-Alt</td>
+              <td><span class="badge-open">Açık</span></td>
+              <td>
+                <div class="risk-medium"><i class="bi bi-dash-circle-fill me-1"></i>Orta</div>
+                <div class="risk-note">Gerekli değilse kapatın</div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- C: SSL & Headers -->
+      <hr class="section-divider" />
+      <p class="section-title"><i class="bi bi-lock me-1"></i>SSL &amp; HTTP Güvenlik Başlıkları</p>
+      <div class="ssl-grid">
+        <div class="ssl-item">
+          <span class="ssl-icon ok"><i class="bi bi-shield-check-fill"></i></span>
+          <div class="ssl-content">
+            <div class="ssl-name">SSL Sertifikası</div>
+            <div class="ssl-status ok">✅ Geçerli — Let's Encrypt</div>
+            <div class="ssl-note">89 gün geçerlilik süresi kaldı</div>
+          </div>
+        </div>
+        <div class="ssl-item">
+          <span class="ssl-icon fail"><i class="bi bi-shield-x-fill"></i></span>
+          <div class="ssl-content">
+            <div class="ssl-name">X-Frame-Options</div>
+            <div class="ssl-status fail">❌ Eksik</div>
+            <div class="ssl-note">Clickjacking saldırılarına açık</div>
+          </div>
+        </div>
+        <div class="ssl-item">
+          <span class="ssl-icon fail"><i class="bi bi-shield-x-fill"></i></span>
+          <div class="ssl-content">
+            <div class="ssl-name">Content-Security-Policy</div>
+            <div class="ssl-status fail">❌ Eksik</div>
+            <div class="ssl-note">XSS saldırılarına karşı savunmasız</div>
+          </div>
+        </div>
+        <div class="ssl-item">
+          <span class="ssl-icon ok"><i class="bi bi-shield-check-fill"></i></span>
+          <div class="ssl-content">
+            <div class="ssl-name">HSTS</div>
+            <div class="ssl-status ok">✅ Mevcut</div>
+            <div class="ssl-note">Strict-Transport-Security aktif</div>
+          </div>
+        </div>
+        <div class="ssl-item">
+          <span class="ssl-icon fail"><i class="bi bi-shield-x-fill"></i></span>
+          <div class="ssl-content">
+            <div class="ssl-name">X-Content-Type-Options</div>
+            <div class="ssl-status fail">❌ Eksik</div>
+            <div class="ssl-note">MIME sniffing saldırısına açık</div>
+          </div>
+        </div>
+        <div class="ssl-item">
+          <span class="ssl-icon fail"><i class="bi bi-shield-x-fill"></i></span>
+          <div class="ssl-content">
+            <div class="ssl-name">Referrer-Policy</div>
+            <div class="ssl-status fail">❌ Eksik</div>
+            <div class="ssl-note">Bilgi sızıntısı riski mevcut</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- D: Recommendations -->
+      <hr class="section-divider" />
+      <p class="section-title"><i class="bi bi-clipboard-check me-1"></i>Güvenlik Önerileri</p>
+      <div class="reco-list">
+        <div class="reco-card high">
+          <div class="reco-dot high"></div>
+          <div class="reco-text">
+            <strong>SSH portunu (22) kapatın veya VPN arkasına alın.</strong>
+            İnternete açık SSH portları otomatik kaba kuvvet saldırılarının birincil hedefidir.
+            Fail2ban veya benzeri araçlarla da koruma sağlanabilir.
+          </div>
+        </div>
+        <div class="reco-card high">
+          <div class="reco-dot high"></div>
+          <div class="reco-text">
+            <strong>RDP portunu (3389) kapatın veya güçlü firewall kuralı ekleyin.</strong>
+            RDP, fidye yazılımı saldırılarının en yaygın giriş noktasıdır.
+            Yalnızca güvenilir IP adreslerine izin verin.
+          </div>
+        </div>
+        <div class="reco-card medium">
+          <div class="reco-dot medium"></div>
+          <div class="reco-text">
+            <strong>HTTP güvenlik başlıklarını ekleyin</strong> (CSP, X-Frame-Options, X-Content-Type-Options).
+            Web sunucusu konfigürasyonuna birkaç satır eklenerek XSS ve Clickjacking riskleri büyük ölçüde azaltılır.
+          </div>
+        </div>
+      </div>
+
+      <!-- E: Export -->
+      <hr class="section-divider" />
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;">
+        <p style="font-size:.84rem;color:var(--text-secondary);">
+          <i class="bi bi-file-earmark-text me-1"></i>
+          Raporu indirerek güvenlik ekibinizle paylaşabilirsiniz.
+        </p>
+        <button class="btn-outline" id="exportBtn" type="button">
+          <i class="bi bi-download"></i> Raporu İndir (.txt)
+        </button>
+      </div>
+
+    </div><!-- /.phaseResults -->
+
+  </div><!-- /.main-card -->
+</main>
+
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
+<footer class="site-footer">
+  <div>
+    <a href="siberguvenik.html" class="footer-back">
+      <i class="bi bi-arrow-left-circle"></i> Siber Güvenlik Sayfasına Dön
+    </a>
+  </div>
+  <p>© 2025 <strong>KODZEN TEKNOLOJİ</strong> — Tüm hakları saklıdır.</p>
+  <p style="margin-top:4px;font-size:.75rem;">
+    Bu simülasyon yalnızca eğitim amaçlıdır. Gerçek ağ taraması yapılmaz, veri gönderilmez.
+  </p>
+</footer>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script>
+/* ─── Elements ─── */
+const scanBtn      = document.getElementById('scanBtn');
+const targetInput  = document.getElementById('targetInput');
+const phaseScan    = document.getElementById('phaseScan');
+const phaseResults = document.getElementById('phaseResults');
+const termBody     = document.getElementById('termBody');
+const progressFill = document.getElementById('progressFill');
+const progressPct  = document.getElementById('progressPct');
+const progressLbl  = document.getElementById('progressLabel');
+const exportBtn    = document.getElementById('exportBtn');
+
+/* ─── Log lines definition ─── */
+function buildLogLines(target) {
+  const now = new Date();
+  function ts(offsetSec) {
+    const d = new Date(now.getTime() + offsetSec * 1000);
+    return d.toTimeString().slice(0, 8);
+  }
+  return [
+    { t: ts(0),  msg: `Tarama başlatıldı → Hedef: ${target}`,          cls: 'info'  },
+    { t: ts(1),  msg: 'DNS çözümleme yapılıyor…',                       cls: ''      },
+    { t: ts(2),  msg: `DNS çözümlendi: 93.184.216.34`,                  cls: ''      },
+    { t: ts(3),  msg: 'Port taraması başlatıldı (Top 1000)…',           cls: ''      },
+    { t: ts(4),  msg: 'Port  80  (HTTP)          — AÇIK',               cls: ''      },
+    { t: ts(5),  msg: 'Port 443  (HTTPS)         — AÇIK',               cls: ''      },
+    { t: ts(6),  msg: 'Port  22  (SSH)           — AÇIK  ⚠  Dikkat!',  cls: 'warn'  },
+    { t: ts(7),  msg: 'Port 3389 (RDP)           — AÇIK  ⚠  Dikkat!',  cls: 'warn'  },
+    { t: ts(8),  msg: 'Port 8080 (HTTP-Alt)      — AÇIK',               cls: ''      },
+    { t: ts(9),  msg: 'Port  21  (FTP)           — KAPALI',             cls: 'dim'   },
+    { t: ts(10), msg: 'Port  25  (SMTP)          — KAPALI',             cls: 'dim'   },
+    { t: ts(11), msg: 'SSL sertifikası kontrol ediliyor…',              cls: 'info'  },
+    { t: ts(12), msg: 'SSL: Let\'s Encrypt — GEÇERLİ (89 gün kaldı)',  cls: ''      },
+    { t: ts(13), msg: 'HTTP güvenlik başlıkları kontrol ediliyor…',     cls: 'info'  },
+    { t: ts(14), msg: 'HSTS: MEVCUT ✓',                                 cls: ''      },
+    { t: ts(15), msg: 'X-Frame-Options: EKSİK  ✗',                      cls: 'error' },
+    { t: ts(16), msg: 'Content-Security-Policy: EKSİK  ✗',              cls: 'error' },
+    { t: ts(17), msg: 'X-Content-Type-Options: EKSİK  ✗',               cls: 'error' },
+    { t: ts(18), msg: '────────────────────────────────',               cls: 'dim'   },
+    { t: ts(19), msg: 'Tarama tamamlandı. Güvenlik skoru: 62/100',      cls: 'info'  },
+  ];
+}
+
+/* ─── Render a single log line ─── */
+function appendLog(line) {
+  const el = document.createElement('div');
+  el.className = 'log-line fade-in';
+  el.innerHTML = `<span class="log-ts">[${line.t}]</span><span class="log-msg ${line.cls}">${line.msg}</span>`;
+  // Remove cursor, add line, re-add cursor
+  const cursor = termBody.querySelector('.log-cursor');
+  if (cursor) cursor.remove();
+  termBody.appendChild(el);
+  const cur = document.createElement('span');
+  cur.className = 'log-cursor';
+  termBody.appendChild(cur);
+  termBody.scrollTop = termBody.scrollHeight;
+}
+
+/* ─── Scan simulation ─── */
+let scanning = false;
+
+function startScan() {
+  if (scanning) return;
+  const target = targetInput.value.trim() || 'example.com';
+  scanning = true;
+
+  // Reset UI
+  phaseResults.classList.remove('active');
+  termBody.innerHTML = '<span class="log-cursor"></span>';
+  progressFill.style.width = '0%';
+  progressPct.textContent  = '0%';
+  progressLbl.textContent  = 'Tarama başlatılıyor…';
+
+  // Show scan phase
+  phaseScan.classList.add('active');
+
+  // Update button
+  scanBtn.disabled = true;
+  scanBtn.innerHTML = '<span class="spinner"></span> Taranıyor…';
+
+  const lines = buildLogLines(target);
+  const totalLines = lines.length;
+  const DELAY = 800; // ms between lines
+  const totalTime = totalLines * DELAY;
+
+  lines.forEach((line, i) => {
+    setTimeout(() => {
+      appendLog(line);
+      const pct = Math.round(((i + 1) / totalLines) * 100);
+      progressFill.style.width = pct + '%';
+      progressPct.textContent  = pct + '%';
+      if (i < totalLines - 1) {
+        const msgs = [
+          'DNS çözümleniyor…', 'Port taranıyor…', 'SSL kontrol ediliyor…',
+          'Başlıklar analiz ediliyor…', 'Sonuçlar derleniyor…'
+        ];
+        progressLbl.textContent = msgs[Math.min(Math.floor(i / 4), msgs.length - 1)];
+      } else {
+        progressLbl.textContent = 'Tarama tamamlandı';
+      }
+    }, i * DELAY);
+  });
+
+  // Show results after all lines
+  setTimeout(() => {
+    scanning = false;
+    scanBtn.disabled = false;
+    scanBtn.innerHTML = '<i class="bi bi-arrow-clockwise"></i> Yeniden Tara';
+    phaseResults.classList.add('active');
+    phaseResults.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }, totalLines * DELAY + 400);
+}
+
+scanBtn.addEventListener('click', startScan);
+targetInput.addEventListener('keydown', e => { if (e.key === 'Enter') startScan(); });
+
+/* ─── Export ─── */
+exportBtn.addEventListener('click', () => {
+  const target = targetInput.value.trim() || 'example.com';
+  const now = new Date().toLocaleString('tr-TR');
+
+  const report = `
+╔══════════════════════════════════════════════════════════════╗
+║        KODZEN TEKNOLOJİ — Ağ Güvenlik Tarama Raporu        ║
+╚══════════════════════════════════════════════════════════════╝
+
+Tarih/Saat  : ${now}
+Hedef       : ${target}
+Güvenlik Skoru: 62 / 100  (Orta)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PORT TARAMA SONUÇLARI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Port   Servis      Durum    Risk
+-----  ----------  -------  -----------------------------------
+80     HTTP        AÇIK     Düşük ✓
+443    HTTPS       AÇIK     Düşük ✓
+22     SSH         AÇIK     YÜKSEK ✗  (VPN arkasına alın)
+3389   RDP         AÇIK     YÜKSEK ✗  (Kapatılması önerilir)
+8080   HTTP-Alt    AÇIK     Orta  !   (Gerekli değilse kapatın)
+21     FTP         KAPALI   -
+25     SMTP        KAPALI   -
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SSL & HTTP GÜVENLİK BAŞLIKLARI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[✓] SSL Sertifikası          : Geçerli (Let's Encrypt, 89 gün)
+[✓] HSTS                     : Mevcut
+[✗] X-Frame-Options          : EKSİK — Clickjacking riski
+[✗] Content-Security-Policy  : EKSİK — XSS riski
+[✗] X-Content-Type-Options   : EKSİK — MIME sniffing riski
+[✗] Referrer-Policy          : EKSİK — Bilgi sızıntısı riski
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GÜVENLİK ÖNERİLERİ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[YÜKSEK] SSH portunu (22) kapatın veya VPN arkasına alın.
+         İnternete açık SSH portları brute-force saldırılarının
+         birincil hedefidir. Fail2ban kullanın.
+
+[YÜKSEK] RDP portunu (3389) kapatın veya sadece güvenilir IP
+         adreslerine izin veren firewall kuralı ekleyin.
+         RDP, fidye yazılımı saldırılarının en yaygın giriş noktasıdır.
+
+[ORTA]   HTTP güvenlik başlıklarını (CSP, X-Frame-Options,
+         X-Content-Type-Options) web sunucusu konfigürasyonuna ekleyin.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOT: Bu rapor simülasyon amaçlıdır. Gerçek tarama değildir.
+     KODZEN TEKNOLOJİ — https://kodzen.com.tr
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+`.trim();
+
+  const blob = new Blob([report], { type: 'text/plain;charset=utf-8' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href     = url;
+  a.download = `kodzen-guvenlik-raporu-${target.replace(/[^a-z0-9]/gi, '_')}.txt`;
+  a.click();
+  URL.revokeObjectURL(url);
+});
+</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>

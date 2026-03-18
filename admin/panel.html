@@ -1,0 +1,765 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Paneli — KODZEN TEKNOLOJİ</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/admin.css">
+</head>
+<body>
+
+<div class="admin-layout">
+
+  <!-- ══ SIDEBAR ══ -->
+  <aside class="admin-sidebar">
+    <div class="sidebar-logo">
+      <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <div>
+        <div class="sidebar-logo-name">KODZEN <span>TEKNOLOJİ</span></div>
+        <div class="sidebar-logo-sub">Admin Paneli</div>
+      </div>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-nav-label">Menü</div>
+
+      <button class="sidebar-nav-item active" data-section="dashboard">
+        <i class="bi bi-speedometer2"></i> Dashboard
+      </button>
+      <button class="sidebar-nav-item" data-section="gallery">
+        <i class="bi bi-images"></i> Galeri Yönetimi
+      </button>
+      <button class="sidebar-nav-item" data-section="demos">
+        <i class="bi bi-person-check"></i> Demo Talepleri
+        <span id="demoCount" class="badge-teal ms-auto" style="font-size:0.68rem"></span>
+      </button>
+      <button class="sidebar-nav-item" data-section="messages">
+        <i class="bi bi-envelope"></i> Mesajlar
+        <span id="msgCount" class="badge-blue ms-auto" style="font-size:0.68rem"></span>
+      </button>
+
+      <div class="sidebar-nav-label mt-2">Site Yönetimi</div>
+      <button class="sidebar-nav-item" data-section="visibility">
+        <i class="bi bi-eye"></i> Sayfa & Bölüm Yönetimi
+      </button>
+      <button class="sidebar-nav-item" data-section="themes">
+        <i class="bi bi-palette"></i> Temalar
+      </button>
+      <button class="sidebar-nav-item" data-section="ticker">
+        <i class="bi bi-newspaper"></i> Haber Bandı
+      </button>
+      <button class="sidebar-nav-item" data-section="settings">
+        <i class="bi bi-gear"></i> Ayarlar
+      </button>
+      <a href="../index.html" class="sidebar-nav-item" style="color:var(--text-dim)">
+        <i class="bi bi-house"></i> Siteye Dön
+      </a>
+      <button class="sidebar-nav-item logout" id="logoutBtn">
+        <i class="bi bi-box-arrow-right"></i> Çıkış Yap
+      </button>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div class="sidebar-user">
+        <div class="sidebar-user-avatar"><i class="bi bi-shield-check"></i></div>
+        <div>
+          <div class="sidebar-user-name">Admin</div>
+          <div class="sidebar-user-role">Süper Yönetici</div>
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- ══ MAIN ══ -->
+  <main class="admin-main">
+
+    <!-- Top Bar -->
+    <div class="admin-topbar">
+      <div>
+        <div class="topbar-title" id="topbarTitle">Dashboard</div>
+        <div class="topbar-subtitle">KODZEN TEKNOLOJİ Yönetim Paneli</div>
+      </div>
+      <div class="topbar-actions">
+        <span class="topbar-badge"><i class="bi bi-circle-fill me-1" style="font-size:0.5rem;color:#27c93f"></i>Çevrimiçi</span>
+      </div>
+    </div>
+
+    <div class="admin-content">
+
+      <!-- ══ DASHBOARD ══ -->
+      <div id="section-dashboard" class="admin-section active">
+
+        <!-- Stat Cards -->
+        <div class="row g-3 mb-4">
+          <div class="col-sm-6 col-xl-3">
+            <div class="stat-card">
+              <div class="stat-icon teal"><i class="bi bi-images"></i></div>
+              <div>
+                <div class="stat-num" id="statGallery">0</div>
+                <div class="stat-label">Galeri Öğeleri</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-xl-3">
+            <div class="stat-card">
+              <div class="stat-icon blue"><i class="bi bi-person-check"></i></div>
+              <div>
+                <div class="stat-num" id="statDemos">0</div>
+                <div class="stat-label">Demo Talepleri</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-xl-3">
+            <div class="stat-card">
+              <div class="stat-icon purple"><i class="bi bi-envelope"></i></div>
+              <div>
+                <div class="stat-num" id="statMessages">0</div>
+                <div class="stat-label">Mesajlar</div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-xl-3">
+            <div class="stat-card">
+              <div class="stat-icon orange"><i class="bi bi-box-seam"></i></div>
+              <div>
+                <div class="stat-num">3</div>
+                <div class="stat-label">Ürünler</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Recent tables -->
+        <div class="row g-4">
+          <div class="col-xl-6">
+            <div class="admin-card">
+              <div class="admin-card-header">
+                <span class="admin-card-title"><i class="bi bi-person-check"></i> Son Demo Talepleri</span>
+                <button class="btn-icon" onclick="showSection('demos')" title="Tümünü Gör">
+                  <i class="bi bi-arrow-right"></i>
+                </button>
+              </div>
+              <div class="table-responsive">
+                <table class="admin-table">
+                  <thead>
+                    <tr>
+                      <th>Ad</th>
+                      <th>Şirket</th>
+                      <th>E-posta</th>
+                      <th>Ürün</th>
+                      <th>Tarih</th>
+                    </tr>
+                  </thead>
+                  <tbody id="recentDemosTbody"></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-6">
+            <div class="admin-card">
+              <div class="admin-card-header">
+                <span class="admin-card-title"><i class="bi bi-envelope"></i> Son Mesajlar</span>
+                <button class="btn-icon" onclick="showSection('messages')" title="Tümünü Gör">
+                  <i class="bi bi-arrow-right"></i>
+                </button>
+              </div>
+              <div class="table-responsive">
+                <table class="admin-table">
+                  <thead>
+                    <tr>
+                      <th>Ad</th>
+                      <th>E-posta</th>
+                      <th>Konu</th>
+                      <th>Tarih</th>
+                    </tr>
+                  </thead>
+                  <tbody id="recentMsgsTbody"></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ GALERİ YÖNETİMİ ══ -->
+      <div id="section-gallery" class="admin-section">
+
+        <!-- Add Form -->
+        <div class="admin-card mb-4">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-plus-circle"></i> Yeni Galeri Öğesi Ekle</span>
+          </div>
+          <div class="admin-card-body">
+            <div id="addGalleryAlert" style="display:none"></div>
+            <form id="addGalleryForm">
+              <div class="row g-3">
+                <div class="col-md-6">
+                  <label class="admin-form-label">Başlık *</label>
+                  <input type="text" id="gTitle" class="admin-form-control" placeholder="Galeri öğesi başlığı" required>
+                </div>
+                <div class="col-md-3">
+                  <label class="admin-form-label">Tür *</label>
+                  <select id="gType" class="admin-form-control admin-form-select" required>
+                    <option value="">-- Seçin --</option>
+                    <option value="image">Resim</option>
+                    <option value="video">Video</option>
+                  </select>
+                </div>
+                <div class="col-md-3">
+                  <label class="admin-form-label">Kategori *</label>
+                  <select id="gCategory" class="admin-form-control admin-form-select" required>
+                    <option value="">-- Seçin --</option>
+                    <option value="ai-gis">AI-GIS</option>
+                    <option value="whatsypzck">WhatsYpzck</option>
+                    <option value="ckmesaj">CKmesaj</option>
+                    <option value="genel">Genel</option>
+                  </select>
+                </div>
+                <div class="col-12">
+                  <label class="admin-form-label">URL * <small style="color:var(--text-dim)">(resim için direkt URL, video için YouTube embed URL)</small></label>
+                  <input type="url" id="gUrl" class="admin-form-control" placeholder="https://..." required>
+                </div>
+                <div class="col-12">
+                  <button type="submit" class="btn-admin-primary"><i class="bi bi-plus-lg"></i> Ekle</button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <!-- Gallery Table -->
+        <div class="admin-card">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-images"></i> Galeri Öğeleri</span>
+          </div>
+          <div class="table-responsive">
+            <table class="admin-table">
+              <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Başlık</th>
+                  <th>Tür</th>
+                  <th>Kategori</th>
+                  <th>URL</th>
+                  <th>Aksiyonlar</th>
+                </tr>
+              </thead>
+              <tbody id="galleryAdminTbody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ DEMO TALEPLERİ ══ -->
+      <div id="section-demos" class="admin-section">
+        <div class="admin-card">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-person-check"></i> Demo Talepleri</span>
+            <span class="topbar-badge" id="demoCountBadge"></span>
+          </div>
+          <div class="table-responsive">
+            <table class="admin-table">
+              <thead>
+                <tr>
+                  <th>Ad Soyad</th>
+                  <th>Şirket</th>
+                  <th>E-posta</th>
+                  <th>Telefon</th>
+                  <th>Ürün</th>
+                  <th>Tarih</th>
+                  <th>İşlem</th>
+                </tr>
+              </thead>
+              <tbody id="demosTbody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ MESAJLAR ══ -->
+      <div id="section-messages" class="admin-section">
+        <div class="admin-card">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-envelope"></i> Mesajlar</span>
+          </div>
+          <div class="table-responsive">
+            <table class="admin-table">
+              <thead>
+                <tr>
+                  <th>Ad Soyad</th>
+                  <th>E-posta</th>
+                  <th>Konu</th>
+                  <th>Tarih</th>
+                  <th>İşlemler</th>
+                </tr>
+              </thead>
+              <tbody id="messagesTbody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ GÖRÜNÜRLÜK ══ -->
+      <div id="section-visibility" class="admin-section">
+        <div class="admin-card" style="max-width:700px">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-eye"></i> Sayfa & Bölüm Yönetimi</span>
+          </div>
+          <div class="admin-card-body">
+            <p style="color:var(--text-dim);font-size:.85rem;margin-bottom:1.2rem">Ana sayfadaki bölümleri ve navigasyon linklerini göster/gizle.</p>
+            <h6 style="color:var(--primary);margin-bottom:.8rem"><i class="bi bi-layout-text-sidebar"></i> Ana Sayfa Bölümleri</h6>
+            <div id="sectionToggles" class="d-flex flex-column gap-2 mb-4"></div>
+            <h6 style="color:var(--primary);margin-bottom:.8rem"><i class="bi bi-link-45deg"></i> Navigasyon Linkleri</h6>
+            <div id="navToggles" class="d-flex flex-column gap-2 mb-3"></div>
+            <button class="btn-admin-primary" onclick="saveVisibility()"><i class="bi bi-check-lg"></i> Kaydet</button>
+            <div id="visAlert" style="display:none;margin-top:8px"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ TEMALAR ══ -->
+      <div id="section-themes" class="admin-section">
+        <div class="admin-card" style="max-width:800px">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-palette"></i> 7 Günlük Tema Yönetimi</span>
+          </div>
+          <div class="admin-card-body">
+            <p style="color:var(--text-dim);font-size:.85rem;margin-bottom:1.2rem">Her gün için tema ayarlayın veya kalıcı tema seçin.</p>
+            <div class="admin-form-group">
+              <label class="admin-form-label">Kalıcı Tema Seç (tüm günleri ezer)</label>
+              <div class="d-flex align-items-center gap-2">
+                <select id="themeOverride" class="admin-form-control admin-form-select" style="max-width:300px">
+                  <option value="">— Günlük Otomatik (Varsayılan) —</option>
+                  <option value="dark">🌑 Koyu (Her Gün)</option>
+                  <option value="cyber">🟢 Cyber (Her Gün)</option>
+                  <option value="midnight">🔵 Midnight (Her Gün)</option>
+                  <option value="ocean">🌊 Okyanus (Her Gün)</option>
+                  <option value="forest">🌲 Orman (Her Gün)</option>
+                  <option value="sunset">🌅 Gün Batımı (Her Gün)</option>
+                  <option value="light-pro">🌌 Fantastik Galaksi (Her Gün)</option>
+                </select>
+                <button class="btn-admin-primary" onclick="saveThemeOverride()"><i class="bi bi-check-lg"></i> Uygula</button>
+              </div>
+            </div>
+            <hr>
+            <h6 style="color:var(--primary);margin-bottom:.8rem">Günlük Tema Takvimi</h6>
+            <div class="row g-2" id="dayThemes"></div>
+            <div id="themeAlert" style="display:none;margin-top:8px"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ HABER BANDI ══ -->
+      <div id="section-ticker" class="admin-section">
+        <div class="admin-card" style="max-width:700px">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-newspaper"></i> Canlı Haber Bandı Ayarları</span>
+          </div>
+          <div class="admin-card-body">
+            <div class="admin-form-group d-flex align-items-center gap-3">
+              <label class="admin-form-label mb-0">Haber Bandı Göster</label>
+              <div class="form-check form-switch mb-0">
+                <input class="form-check-input" type="checkbox" id="tickerVisible" style="width:2.5em;height:1.3em">
+                <label class="form-check-label" for="tickerVisible" id="tickerVisibleLbl">Kapalı</label>
+              </div>
+            </div>
+            <div class="admin-form-group">
+              <label class="admin-form-label">Hız (1=Çok Hızlı, 5=Yavaş)</label>
+              <div class="d-flex align-items-center gap-3">
+                <input type="range" id="tickerSpeed" min="1" max="5" step="1" value="3" class="form-range" style="max-width:300px">
+                <span id="tickerSpeedLbl" class="topbar-badge">3</span>
+              </div>
+              <small class="text-muted">Mevcut: <span id="tickerSpeedDesc">Normal</span></small>
+            </div>
+            <hr>
+            <div class="admin-form-group">
+              <label class="admin-form-label">Haber Metinleri</label>
+              <div id="tickerItemsList"></div>
+              <div class="d-flex gap-2 mt-2">
+                <input type="text" id="tickerNewItem" class="admin-form-control" placeholder="Yeni haber ekle..." style="flex:1">
+                <button class="btn-admin-primary" onclick="addTickerItem()"><i class="bi bi-plus-lg"></i> Ekle</button>
+              </div>
+            </div>
+            <button class="btn-admin-primary mt-2" onclick="saveTickerSettings()"><i class="bi bi-check-lg"></i> Kaydet</button>
+            <div id="tickerAlert" style="display:none;margin-top:8px"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ AYARLAR ══ -->
+      <div id="section-settings" class="admin-section">
+        <div class="admin-card" style="max-width:600px">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-gear"></i> Site Ayarları</span>
+          </div>
+          <div class="admin-card-body">
+            <div id="settingsAlert" style="display:none"></div>
+            <form id="settingsForm">
+              <div class="admin-form-group">
+                <label class="admin-form-label" for="sPhone">Telefon</label>
+                <input type="text" id="sPhone" class="admin-form-control" placeholder="05458966096">
+              </div>
+              <div class="admin-form-group">
+                <label class="admin-form-label" for="sWhatsapp">WhatsApp Numarası (uluslararası)</label>
+                <input type="text" id="sWhatsapp" class="admin-form-control" placeholder="905458966096">
+              </div>
+              <div class="admin-form-group">
+                <label class="admin-form-label" for="sEmail">E-posta</label>
+                <input type="email" id="sEmail" class="admin-form-control" placeholder="ornek@email.com">
+              </div>
+              <div class="admin-form-group">
+                <label class="admin-form-label" for="sAddress">Adres</label>
+                <input type="text" id="sAddress" class="admin-form-control" placeholder="Artvin, Türkiye">
+              </div>
+              <div class="admin-form-group">
+                <label class="admin-form-label" for="sLiveChatMsg">Canlı Destek Mesajı</label>
+                <textarea id="sLiveChatMsg" class="admin-form-control" rows="3" placeholder="Merhaba! Size nasıl yardımcı olabiliriz?"></textarea>
+              </div>
+              <button type="submit" class="btn-admin-primary"><i class="bi bi-check-lg"></i> Ayarları Kaydet</button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /admin-content -->
+  </main>
+</div>
+
+<!-- ── Edit Gallery Modal ── -->
+<div class="modal fade admin-modal" id="editGalleryModal" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"><i class="bi bi-pencil me-2"></i>Galeri Öğesini Düzenle</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <form id="editGalleryForm">
+          <input type="hidden" id="editGalleryId">
+          <div class="admin-form-group">
+            <label class="admin-form-label">Başlık</label>
+            <input type="text" id="editGTitle" class="admin-form-control" required>
+          </div>
+          <div class="row g-3">
+            <div class="col-6">
+              <div class="admin-form-group mb-0">
+                <label class="admin-form-label">Tür</label>
+                <select id="editGType" class="admin-form-control admin-form-select">
+                  <option value="image">Resim</option>
+                  <option value="video">Video</option>
+                </select>
+              </div>
+            </div>
+            <div class="col-6">
+              <div class="admin-form-group mb-0">
+                <label class="admin-form-label">Kategori</label>
+                <select id="editGCategory" class="admin-form-control admin-form-select">
+                  <option value="ai-gis">AI-GIS</option>
+                  <option value="whatsypzck">WhatsYpzck</option>
+                  <option value="ckmesaj">CKmesaj</option>
+                  <option value="genel">Genel</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="admin-form-group mt-3">
+            <label class="admin-form-label">URL</label>
+            <input type="url" id="editGUrl" class="admin-form-control" required>
+          </div>
+          <div class="d-flex gap-2 mt-2">
+            <button type="submit" class="btn-admin-primary"><i class="bi bi-check-lg"></i> Kaydet</button>
+            <button type="button" class="btn-admin-outline" data-bs-dismiss="modal">İptal</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── View Message Modal ── -->
+<div class="modal fade admin-modal" id="viewMessageModal" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"><i class="bi bi-envelope me-2"></i>Mesaj Detayı</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row g-2 mb-3">
+          <div class="col-6">
+            <div style="font-size:0.72rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:3px">Gönderen</div>
+            <div style="color:#fff;font-weight:600" id="viewMsgName"></div>
+          </div>
+          <div class="col-6">
+            <div style="font-size:0.72rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:3px">E-posta</div>
+            <div id="viewMsgEmail" style="color:var(--primary)"></div>
+          </div>
+          <div class="col-8">
+            <div style="font-size:0.72rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:3px">Konu</div>
+            <div style="color:#fff;font-weight:600" id="viewMsgSubject"></div>
+          </div>
+          <div class="col-4">
+            <div style="font-size:0.72rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:3px">Tarih</div>
+            <div style="color:var(--text-dim);font-size:0.82rem" id="viewMsgDate"></div>
+          </div>
+        </div>
+        <div style="background:var(--bg-darker);border:1px solid var(--border);border-radius:10px;padding:16px">
+          <div style="font-size:0.72rem;color:var(--text-dim);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px">Mesaj</div>
+          <div id="viewMsgBody" style="color:var(--text-muted);line-height:1.7;white-space:pre-wrap;font-size:0.9rem"></div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn-admin-outline" data-bs-dismiss="modal">Kapat</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../js/data.js"></script>
+<script src="../js/admin.js"></script>
+<script>
+// ── Görünürlük Yönetimi ──
+(function initVisibility() {
+  var SECTION_ITEMS = [
+    {key:'section_hizmetler', label:'Hizmetler Bölümü'},
+    {key:'section_urunler',   label:'Ürünler Bölümü'},
+    {key:'section_galeri',    label:'Galeri Bölümü'},
+    {key:'section_sertifikalar', label:'Sertifikalar Bölümü'},
+    {key:'section_iletisim',  label:'İletişim Bölümü'},
+    {key:'section_cta',       label:'CTA Banner'},
+  ];
+  var NAV_ITEMS = [
+    {key:'nav_urunler',  label:'📦 Ürünler (Dropdown)'},
+    {key:'nav_galeri',   label:'🖼️ Galeri'},
+    {key:'nav_fiyatlar', label:'💰 Fiyatlar'},
+    {key:'nav_iletisim', label:'✉️ İletişim'},
+    {key:'nav_demo',     label:'🎮 Demo'},
+    {key:'nav_webhizmet',label:'🌐 Web Hizmetleri'},
+    {key:'nav_scada',    label:'⚙️ SCADA'},
+  ];
+  var vis = {};
+  try { vis = JSON.parse(localStorage.getItem('kodzen_visibility') || '{}'); } catch(e){}
+
+  function makeToggle(item, container) {
+    var row = document.createElement('div');
+    row.className = 'd-flex align-items-center justify-content-between p-2 rounded';
+    row.style.background = 'rgba(255,255,255,.04)';
+    var val = vis[item.key] !== false;
+    row.innerHTML = '<span style="font-size:.9rem">' + item.label + '</span>' +
+      '<div class="form-check form-switch mb-0">' +
+        '<input class="form-check-input" type="checkbox" id="vis_' + item.key + '"' + (val?' checked':'') + ' style="width:2.2em;height:1.2em">' +
+        '<label class="form-check-label" for="vis_' + item.key + '">' + (val?'Görünür':'Gizli') + '</label>' +
+      '</div>';
+    row.querySelector('input').addEventListener('change', function() {
+      this.nextElementSibling.textContent = this.checked ? 'Görünür' : 'Gizli';
+    });
+    container.appendChild(row);
+  }
+
+  var sc = document.getElementById('sectionToggles');
+  var nc = document.getElementById('navToggles');
+  if (sc) SECTION_ITEMS.forEach(function(i){ makeToggle(i,sc); });
+  if (nc) NAV_ITEMS.forEach(function(i){ makeToggle(i,nc); });
+
+  window.saveVisibility = function() {
+    var allKeys = SECTION_ITEMS.concat(NAV_ITEMS);
+    allKeys.forEach(function(item) {
+      var el = document.getElementById('vis_' + item.key);
+      if (el) vis[item.key] = el.checked;
+    });
+    localStorage.setItem('kodzen_visibility', JSON.stringify(vis));
+    var a = document.getElementById('visAlert');
+    if (a) { a.style.display='block'; a.className='alert alert-success'; a.textContent='✅ Görünürlük ayarları kaydedildi!'; setTimeout(function(){a.style.display='none';},3000); }
+  };
+})();
+
+// ── Tema Yönetimi ──
+(function initThemes() {
+  var DAY_NAMES = ['Pazar','Pazartesi','Salı','Çarşamba','Perşembe','Cuma','Cumartesi'];
+  var DAY_THEMES = ['dark','midnight','cyber','light-pro','ocean','forest','sunset'];
+  var THEME_LABELS = {
+    'dark':'🌑 Koyu','cyber':'🟢 Cyber','midnight':'🔵 Midnight',
+    'ocean':'🌊 Okyanus','forest':'🌲 Orman','sunset':'🌅 Gün Batımı','light-pro':'🌌 Fantastik Galaksi'
+  };
+  var THEME_COLORS = {
+    'dark':'#1e293b','cyber':'#001a0e','midnight':'#0a0a1a',
+    'ocean':'#0a1628','forest':'#0a1a0a','sunset':'#1a0a0a','light-pro':'#07041a'
+  };
+  var ALL_THEMES = ['dark','cyber','midnight','ocean','forest','sunset','light-pro'];
+
+  var container = document.getElementById('dayThemes');
+  if (!container) return;
+
+  var override = localStorage.getItem('kodzen_theme_override') || '';
+  var themeOverrideEl = document.getElementById('themeOverride');
+  if (themeOverrideEl) themeOverrideEl.value = override;
+
+  DAY_NAMES.forEach(function(day, i) {
+    var col = document.createElement('div');
+    col.className = 'col-6 col-md-4 col-lg-3';
+    var theme = DAY_THEMES[i];
+    var color = THEME_COLORS[theme] || '#1a1a2e';
+    col.innerHTML = '<div class="p-2 rounded" style="background:' + color + ';border:1px solid rgba(255,255,255,.15)">' +
+      '<div style="font-size:.75rem;color:#94a3b8;margin-bottom:4px">' + day + '</div>' +
+      '<select class="admin-form-control admin-form-select" id="dayTheme_' + i + '" style="font-size:.78rem;padding:3px 6px">' +
+        ALL_THEMES.map(function(t){ return '<option value="'+t+'"'+(t===theme?' selected':'')+'>'+THEME_LABELS[t]+'</option>'; }).join('') +
+      '</select>' +
+    '</div>';
+    container.appendChild(col);
+  });
+
+  window.saveThemeOverride = function() {
+    var sel = document.getElementById('themeOverride');
+    if (sel) localStorage.setItem('kodzen_theme_override', sel.value);
+    var a = document.getElementById('themeAlert');
+    if (a) { a.style.display='block'; a.className='alert alert-success'; a.textContent='✅ Tema ayarı kaydedildi! Sayfayı yenileyin.'; setTimeout(function(){a.style.display='none';},3000); }
+  };
+})();
+</script>
+<script>
+// ── Haber Bandı Section ──
+(function initTickerAdmin() {
+  var cfg = {};
+  try { cfg = JSON.parse(localStorage.getItem('kodzen_ticker') || '{}'); } catch(e){}
+  var tickerItems = [];
+  try { tickerItems = JSON.parse(localStorage.getItem('kodzen_ticker_items') || '[]'); } catch(e){}
+
+  var vis = document.getElementById('tickerVisible');
+  var visLbl = document.getElementById('tickerVisibleLbl');
+  var spd = document.getElementById('tickerSpeed');
+  var spdLbl = document.getElementById('tickerSpeedLbl');
+  var spdDesc = document.getElementById('tickerSpeedDesc');
+  var speedNames = {1:'Çok Hızlı',2:'Hızlı',3:'Normal',4:'Yavaş',5:'Çok Yavaş'};
+
+  if (vis) {
+    vis.checked = cfg.visible !== false;
+    visLbl.textContent = vis.checked ? 'Açık' : 'Kapalı';
+    vis.addEventListener('change', function() {
+      visLbl.textContent = vis.checked ? 'Açık' : 'Kapalı';
+    });
+  }
+  if (spd) {
+    spd.value = cfg.speed || 3;
+    spdLbl.textContent = spd.value;
+    spdDesc.textContent = speedNames[spd.value] || 'Normal';
+    spd.addEventListener('input', function() {
+      spdLbl.textContent = spd.value;
+      spdDesc.textContent = speedNames[spd.value] || 'Normal';
+    });
+  }
+
+  renderTickerItems();
+
+  function renderTickerItems() {
+    var list = document.getElementById('tickerItemsList');
+    if (!list) return;
+    list.innerHTML = '';
+    tickerItems.forEach(function(item, i) {
+      var row = document.createElement('div');
+      row.className = 'd-flex align-items-center gap-2 mb-2';
+      row.innerHTML = '<input type="text" class="admin-form-control" value="' + item.replace(/"/g,'&quot;') + '" onchange="tickerItems[' + i + ']=this.value">' +
+        '<button class="btn btn-sm btn-danger" onclick="removeTickerItem(' + i + ')"><i class="bi bi-trash"></i></button>';
+      list.appendChild(row);
+    });
+  }
+
+  window.addTickerItem = function() {
+    var inp = document.getElementById('tickerNewItem');
+    if (inp && inp.value.trim()) {
+      tickerItems.push(inp.value.trim());
+      inp.value = '';
+      renderTickerItems();
+    }
+  };
+
+  window.removeTickerItem = function(i) {
+    tickerItems.splice(i, 1);
+    renderTickerItems();
+  };
+
+  window.saveTickerSettings = function() {
+    var newCfg = {
+      visible: vis ? vis.checked : true,
+      speed: spd ? parseInt(spd.value) : 3
+    };
+    localStorage.setItem('kodzen_ticker', JSON.stringify(newCfg));
+    if (tickerItems.length > 0) {
+      localStorage.setItem('kodzen_ticker_items', JSON.stringify(tickerItems));
+    }
+    var alertEl = document.getElementById('tickerAlert');
+    if (alert) {
+      alert.style.display = 'block';
+      alert.className = 'alert alert-success';
+      alert.textContent = '✅ Haber bandı ayarları kaydedildi!';
+      setTimeout(function() { alert.style.display = 'none'; }, 3000);
+    }
+  };
+})();
+</script>
+<script>
+// ── Visibility Section ──
+(function initVisibilityAdmin() {
+  var SECTIONS = [
+    { key: 'section_hizmetler',    label: '🔧 Ana Sayfa: Hizmetler Bölümü' },
+    { key: 'section_urunler',      label: '📦 Ana Sayfa: Ürünler/Projeler Bölümü' },
+    { key: 'section_galeri',       label: '🖼️ Ana Sayfa: Galeri Bölümü' },
+    { key: 'section_sertifikalar', label: '🏅 Ana Sayfa: Sertifikalar Bölümü' },
+    { key: 'section_cta',          label: '📣 Ana Sayfa: İletişim CTA Bölümü' },
+    { key: 'section_iletisim',     label: '✉️ Ana Sayfa: İletişim Formu Bölümü' },
+  ];
+  var NAV_ITEMS = [
+    { key: 'nav_urunler',   label: '📦 Navbar: Ürünler Dropdown' },
+    { key: 'nav_galeri',    label: '🖼️ Navbar: Galeri' },
+    { key: 'nav_fiyatlar',  label: '💰 Navbar: Fiyatlar' },
+    { key: 'nav_iletisim',  label: '✉️ Navbar: İletişim' },
+    { key: 'nav_demo',      label: '🎮 Navbar: Demo' },
+    { key: 'nav_scada',     label: '⚙️ Navbar: SCADA' },
+    { key: 'nav_webhizmet', label: '🌐 Navbar: Web Hizmetleri' },
+  ];
+
+  var vis = {};
+  try { vis = JSON.parse(localStorage.getItem('kodzen_visibility') || '{}'); } catch(e){}
+  // defaults
+  var DEFAULTS = { nav_galeri: true, section_galeri: true };
+  [SECTIONS, NAV_ITEMS].forEach(function(arr){ arr.forEach(function(item){ if(vis[item.key]===undefined) vis[item.key]=DEFAULTS[item.key]!==undefined?DEFAULTS[item.key]:true; }); });
+
+  function makeToggle(item, container) {
+    var isOn = vis[item.key] !== false;
+    var row = document.createElement('div');
+    row.className = 'd-flex align-items-center justify-content-between p-2 rounded';
+    row.style.cssText = 'background:var(--surface2,#1a1a2e);border:1px solid var(--border,#333)';
+    row.innerHTML = '<span style="font-size:.85rem;color:var(--text,#e0e0e0)">' + item.label + '</span>'
+      + '<div class="form-check form-switch mb-0"><input class="form-check-input" type="checkbox" id="tog_'+item.key+'"' + (isOn?' checked':'') + ' style="cursor:pointer"></div>';
+    container.appendChild(row);
+  }
+
+  var secCont = document.getElementById('sectionToggles');
+  var navCont = document.getElementById('navToggles');
+  if (secCont) SECTIONS.forEach(function(s){ makeToggle(s, secCont); });
+  if (navCont) NAV_ITEMS.forEach(function(n){ makeToggle(n, navCont); });
+
+  window.saveVisibility = function() {
+    var newVis = {};
+    [SECTIONS, NAV_ITEMS].forEach(function(arr){
+      arr.forEach(function(item){
+        var el = document.getElementById('tog_'+item.key);
+        newVis[item.key] = el ? el.checked : true;
+      });
+    });
+    localStorage.setItem('kodzen_visibility', JSON.stringify(newVis));
+    var alert = document.getElementById('visAlert');
+    if (alert) {
+      alert.style.display='block';
+      alert.innerHTML='<div class="alert alert-success p-2 mb-0"><i class="bi bi-check-circle me-1"></i> Kaydedildi! Sayfayı yenileyince etkili olur.</div>';
+      setTimeout(function(){ alert.style.display='none'; }, 3000);
+    }
+  };
+})();
+</script>
+</body>
+</html>

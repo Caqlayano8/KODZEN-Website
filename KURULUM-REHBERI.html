@@ -1,0 +1,308 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>KODZEN TEKNOLOJİ — Hosting Kurulum Rehberi</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', Arial, sans-serif; background: #fff; color: #1a1a1a; padding: 40px; max-width: 900px; margin: 0 auto; }
+    @media print { body { padding: 20px; } .no-print { display: none; } }
+    h1 { font-size: 2.2rem; color: #00c4a0; border-bottom: 3px solid #00c4a0; padding-bottom: 12px; margin-bottom: 8px; }
+    .subtitle { color: #666; font-size: 1rem; margin-bottom: 32px; }
+    h2 { font-size: 1.4rem; color: #0d1117; background: #f0fdf4; border-left: 4px solid #00c4a0; padding: 10px 16px; margin: 28px 0 16px; border-radius: 0 8px 8px 0; }
+    h3 { font-size: 1.1rem; color: #1a1a1a; margin: 18px 0 8px; }
+    p { line-height: 1.7; margin-bottom: 12px; color: #333; }
+    ul, ol { padding-left: 22px; margin-bottom: 14px; }
+    li { line-height: 1.8; color: #333; }
+    code { background: #f1f5f9; border: 1px solid #e2e8f0; border-radius: 4px; padding: 2px 6px; font-family: 'Courier New', monospace; font-size: .9rem; color: #e11d48; }
+    .code-block { background: #0d1117; color: #e2e8f0; border-radius: 10px; padding: 18px 22px; font-family: 'Courier New', monospace; font-size: .88rem; line-height: 1.7; margin: 14px 0; overflow-x: auto; }
+    .code-block .green { color: #28c840; }
+    .code-block .teal { color: #00c4a0; }
+    .code-block .yellow { color: #fbbf24; }
+    .code-block .red { color: #f43f5e; }
+    .code-block .blue { color: #60a5fa; }
+    .note { background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px; padding: 14px 18px; margin: 14px 0; }
+    .note strong { color: #92400e; }
+    .tip { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 8px; padding: 14px 18px; margin: 14px 0; }
+    .tip strong { color: #065f46; }
+    .warning { background: #fff1f2; border: 1px solid #fecdd3; border-radius: 8px; padding: 14px 18px; margin: 14px 0; }
+    .warning strong { color: #be123c; }
+    table { width: 100%; border-collapse: collapse; margin: 14px 0; }
+    th { background: #0d1117; color: #e2e8f0; padding: 10px 14px; text-align: left; font-size: .9rem; }
+    td { border-bottom: 1px solid #e2e8f0; padding: 9px 14px; font-size: .9rem; }
+    tr:nth-child(even) td { background: #f8fafc; }
+    .badge { display: inline-block; background: #00c4a0; color: #000; border-radius: 20px; padding: 2px 10px; font-size: .78rem; font-weight: 700; }
+    .badge-blue { background: #60a5fa; }
+    .badge-yellow { background: #fbbf24; }
+    .step-num { display: inline-block; width: 30px; height: 30px; background: #00c4a0; color: #000; border-radius: 50%; text-align: center; line-height: 30px; font-weight: 800; font-size: .9rem; margin-right: 8px; }
+    .header-bar { background: #0d1117; color: #fff; padding: 20px 30px; border-radius: 12px; margin-bottom: 32px; display: flex; justify-content: space-between; align-items: center; }
+    .logo-text { font-size: 1.5rem; font-weight: 900; color: #00c4a0; }
+    .logo-sub { font-size: .82rem; color: #94a3b8; }
+    .date-text { font-size: .82rem; color: #94a3b8; }
+    .toc { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px 24px; margin-bottom: 28px; }
+    .toc h3 { margin-bottom: 10px; color: #0d1117; }
+    .toc ol { margin: 0; }
+    .toc li { margin: 4px 0; }
+    .toc a { color: #00c4a0; text-decoration: none; }
+    .file-tree { background: #0d1117; color: #e2e8f0; border-radius: 10px; padding: 18px 22px; font-family: 'Courier New', monospace; font-size: .85rem; line-height: 1.8; margin: 14px 0; }
+    .file-tree .dir { color: #60a5fa; }
+    .file-tree .html { color: #00c4a0; }
+    .file-tree .css { color: #a78bfa; }
+    .file-tree .js { color: #fbbf24; }
+    .file-tree .other { color: #94a3b8; }
+    footer { margin-top: 48px; padding-top: 20px; border-top: 2px solid #e2e8f0; text-align: center; color: #94a3b8; font-size: .85rem; }
+    .print-btn { position: fixed; bottom: 24px; right: 24px; background: #00c4a0; color: #000; border: none; border-radius: 12px; padding: 14px 24px; font-size: 1rem; font-weight: 700; cursor: pointer; box-shadow: 0 4px 20px rgba(0,196,160,.4); }
+  </style>
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+<div class="header-bar">
+  <div>
+    <div class="logo-text">⚡ KODZEN TEKNOLOJİ</div>
+    <div class="logo-sub">kodzen.io — Yazılım, BT &amp; GIS Çözümleri</div>
+  </div>
+  <div class="date-text">Hosting Kurulum Rehberi<br>Sürüm 1.0 — Mart 2026</div>
+</div>
+
+<h1>Hosting Kurulum Rehberi</h1>
+<p class="subtitle">KODZEN TEKNOLOJİ resmi websitesi — kodzen.io için tam kurulum ve yayınlama kılavuzu</p>
+
+<div class="toc">
+  <h3>📋 İçindekiler</h3>
+  <ol>
+    <li><a href="#gereksinimler">Sistem Gereksinimleri</a></li>
+    <li><a href="#dosya-yapisi">Dosya Yapısı</a></li>
+    <li><a href="#cpanel">cPanel ile Kurulum</a></li>
+    <li><a href="#ftp">FTP ile Kurulum</a></li>
+    <li><a href="#netlify">Netlify (Ücretsiz) ile Kurulum</a></li>
+    <li><a href="#github-pages">GitHub Pages ile Kurulum</a></li>
+    <li><a href="#domain">Domain Ayarları (kodzen.io)</a></li>
+    <li><a href="#ssl">SSL Sertifikası</a></li>
+    <li><a href="#test">Kurulum Sonrası Testler</a></li>
+    <li><a href="#sorun-giderme">Sorun Giderme</a></li>
+    <li><a href="#sayfa-listesi">Sayfa Listesi</a></li>
+  </ol>
+</div>
+
+<h2 id="gereksinimler">1. Sistem Gereksinimleri</h2>
+<p>KODZEN websitesi tamamen <strong>statik HTML/CSS/JavaScript</strong> tabanlıdır. Herhangi bir sunucu taraflı dil (PHP, Python, Node.js vb.) gerektirmez.</p>
+<table>
+  <tr><th>Gereksinim</th><th>Minimum</th><th>Önerilen</th></tr>
+  <tr><td>Hosting Türü</td><td>Statik dosya hosting</td><td>SSD Statik / CDN</td></tr>
+  <tr><td>Depolama</td><td>50 MB</td><td>200 MB+</td></tr>
+  <tr><td>Bant Genişliği</td><td>1 GB/ay</td><td>10 GB+/ay</td></tr>
+  <tr><td>SSL/HTTPS</td><td>Zorunlu</td><td>Let's Encrypt (ücretsiz)</td></tr>
+  <tr><td>PHP</td><td>Gerekmez</td><td>—</td></tr>
+  <tr><td>Veritabanı</td><td>Gerekmez</td><td>—</td></tr>
+  <tr><td>Node.js</td><td>Gerekmez</td><td>—</td></tr>
+</table>
+<div class="tip"><strong>💡 İpucu:</strong> Netlify veya GitHub Pages kullanırsanız hosting ücretsizdir ve SSL otomatik olarak sağlanır.</div>
+
+<h2 id="dosya-yapisi">2. Dosya Yapısı</h2>
+<p>Tüm site dosyaları tek bir klasördedir. Hostinge yüklenecek klasörün yapısı:</p>
+<div class="file-tree">
+<span class="dir">KODZEN-Website/</span><br>
+├── <span class="html">index.html</span>              &lt;-- Ana sayfa<br>
+├── <span class="html">ai-gis.html</span>             &lt;-- AI-GIS Altyapı<br>
+├── <span class="html">ckmesaj.html</span>            &lt;-- CK Mesaj (WhatsApp)<br>
+├── <span class="html">whatsypzck.html</span>         &lt;-- WhatsYpzck<br>
+├── <span class="html">webgelistirme.html</span>      &lt;-- Web Geliştirme<br>
+├── <span class="html">scada.html</span>              &lt;-- SCADA Sistemleri<br>
+├── <span class="html">siberguvenik.html</span>       &lt;-- Siber Güvenlik<br>
+├── <span class="html">temalar.html</span>            &lt;-- Site Temaları<br>
+├── <span class="html">fiyatlar.html</span>           &lt;-- Fiyat Listesi<br>
+├── <span class="html">galeri.html</span>             &lt;-- Galeri<br>
+├── <span class="html">iletisim.html</span>           &lt;-- İletişim<br>
+├── <span class="html">demo.html</span>               &lt;-- Demo Talebi<br>
+├── <span class="html">scada-demo.html</span>         &lt;-- SCADA Demo<br>
+├── <span class="html">cyber-demo-1-sifre.html</span> &lt;-- Şifre Analiz Demo<br>
+├── <span class="html">cyber-demo-2-tarama.html</span>&lt;-- Ağ Tarama Demo<br>
+├── <span class="other">sitemap.xml</span>             &lt;-- Google SEO<br>
+├── <span class="other">robots.txt</span>              &lt;-- Arama motoru<br>
+├── <span class="dir">css/</span><br>
+│   ├── <span class="css">style.css</span>            &lt;-- Ana stil dosyası<br>
+│   └── <span class="css">admin.css</span>            &lt;-- Admin paneli stili<br>
+├── <span class="dir">js/</span><br>
+│   ├── <span class="js">main.js</span>              &lt;-- Ana JavaScript<br>
+│   ├── <span class="js">transitions.js</span>       &lt;-- Sayfa geçişleri<br>
+│   ├── <span class="js">data.js</span>              &lt;-- Veri/form işlemleri<br>
+│   └── <span class="js">admin.js</span>             &lt;-- Admin paneli JS<br>
+├── <span class="dir">images/</span><br>
+│   └── <span class="other">logo.png</span>             &lt;-- KODZEN logosu<br>
+├── <span class="dir">vendor/</span>                  &lt;-- Tüm kütüphaneler (offline)<br>
+│   ├── <span class="dir">bootstrap/css/</span><br>
+│   │   └── <span class="css">bootstrap.min.css</span><br>
+│   ├── <span class="dir">bootstrap/js/</span><br>
+│   │   └── <span class="js">bootstrap.bundle.min.js</span><br>
+│   ├── <span class="dir">bootstrap-icons/font/</span><br>
+│   │   ├── <span class="css">bootstrap-icons.min.css</span><br>
+│   │   ├── <span class="other">bootstrap-icons.woff2</span><br>
+│   │   └── <span class="other">bootstrap-icons.woff</span><br>
+│   ├── <span class="dir">aos/</span><br>
+│   │   ├── <span class="css">aos.css</span><br>
+│   │   └── <span class="js">aos.js</span><br>
+│   └── <span class="dir">fonts/</span><br>
+│       ├── <span class="css">local-fonts.css</span>  &lt;-- Inter + JetBrains Mono<br>
+│       └── <span class="other">font_0.ttf ... font_9.ttf</span><br>
+└── <span class="dir">admin/</span><br>
+    ├── <span class="html">login.html</span>           &lt;-- Admin giriş<br>
+    └── <span class="html">panel.html</span>           &lt;-- Admin paneli<br>
+</div>
+
+<div class="warning"><strong>⚠️ Önemli:</strong> Tüm dosyalar ve klasörler birlikte yüklenmelidir. Tek bir dosya eksik olursa sayfalar bozulabilir.</div>
+
+<h2 id="cpanel">3. cPanel ile Kurulum (Paylaşımlı Hosting)</h2>
+<p>Turhost, Natro, Guzel Hosting gibi Türk hosting sağlayıcılarında:</p>
+<ol>
+  <li><span class="step-num">1</span> Hosting panelinize giriş yapın (genellikle <code>siteniz.com/cpanel</code>)</li>
+  <li><span class="step-num">2</span> <strong>Dosya Yöneticisi</strong> (File Manager) bölümüne girin</li>
+  <li><span class="step-num">3</span> <code>public_html</code> klasörünü açın</li>
+  <li><span class="step-num">4</span> <strong>Yükle</strong> (Upload) butonuna tıklayın</li>
+  <li><span class="step-num">5</span> <code>KODZEN-Website</code> klasörü içindeki <strong>TÜM dosya ve klasörleri</strong> seçin (klasörün kendisini değil, içindekileri!)</li>
+  <li><span class="step-num">6</span> Yükleme tamamlandığında <code>public_html/</code> içinde index.html görünmeli</li>
+  <li><span class="step-num">7</span> Tarayıcıda <code>kodzen.io</code> adresini açın</li>
+</ol>
+<div class="note"><strong>📌 Not:</strong> <code>public_html</code> içinde başka dosyalar varsa, önce yedek alın. KODZEN dosyaları mevcut dosyaların üzerine yazılabilir.</div>
+
+<div class="code-block">
+<span class="green"># ZIP ile toplu yükleme (cPanel File Manager):</span><br>
+<span class="teal">1.</span> KODZEN-Website klasörünü ZIP dosyasına sıkıştırın<br>
+<span class="teal">2.</span> cPanel &gt; Dosya Yöneticisi &gt; public_html<br>
+<span class="teal">3.</span> "Yükle" ile ZIP dosyasını yükleyin<br>
+<span class="teal">4.</span> ZIP dosyasına sağ tıklayın &gt; "Çıkar" (Extract)<br>
+<span class="teal">5.</span> Çıkan KODZEN-Website/ klasörü içindeki dosyaları <span class="yellow">public_html/ kökünüze taşıyın</span>
+</div>
+
+<h2 id="ftp">4. FTP ile Kurulum</h2>
+<p>FileZilla veya WinSCP programı ile:</p>
+<ol>
+  <li><span class="step-num">1</span> FileZilla'yı açın: <code>Dosya &gt; Site Yöneticisi</code></li>
+  <li><span class="step-num">2</span> Yeni Site ekleyin:<br>
+    — Protokol: FTP veya SFTP<br>
+    — Sunucu: hosting firmanızın FTP adresi (örn: <code>ftp.kodzen.io</code>)<br>
+    — Kullanıcı adı ve şifre: hosting panelinizden</li>
+  <li><span class="step-num">3</span> Bağlandıktan sonra sağ panelde <code>public_html</code> klasörünü açın</li>
+  <li><span class="step-num">4</span> Sol panelde <code>KODZEN-Website</code> klasörünü açın</li>
+  <li><span class="step-num">5</span> Sol paneldeki tüm dosya ve klasörleri seçip sağa sürükleyin</li>
+  <li><span class="step-num">6</span> Tüm yükleme tamamlanana kadar bekleyin (~5-10 dakika)</li>
+</ol>
+
+<h2 id="netlify">5. Netlify ile Kurulum (Önerilen — Ücretsiz)</h2>
+<p><span class="badge">ÜCRETSİZ</span> <span class="badge badge-blue">SSL OTOMATİK</span> <span class="badge badge-yellow">HIZLI CDN</span></p>
+<ol>
+  <li><span class="step-num">1</span> <a href="https://app.netlify.com">app.netlify.com</a> adresine gidin ve üye olun (GitHub ile de olabilir)</li>
+  <li><span class="step-num">2</span> "Add new site" &gt; "Deploy manually" seçin</li>
+  <li><span class="step-num">3</span> <code>KODZEN-Website</code> klasörünü sürükleyip bırakın (drag and drop)</li>
+  <li><span class="step-num">4</span> Netlify otomatik olarak yayına alacak (xxxxx.netlify.app)</li>
+  <li><span class="step-num">5</span> "Site settings" &gt; "Domain management" &gt; "Add custom domain"</li>
+  <li><span class="step-num">6</span> <code>kodzen.io</code> yazın ve domain ayarlarını yapın (aşağıya bakın)</li>
+</ol>
+<div class="tip"><strong>💡 En Kolay Yöntem!</strong> Netlify ile 5 dakikada yayında olursunuz. SSL otomatik, CDN otomatik, ücretsiz.</div>
+
+<h2 id="github-pages">6. GitHub Pages ile Kurulum (Ücretsiz)</h2>
+<ol>
+  <li><span class="step-num">1</span> GitHub hesabınıza giriş yapın</li>
+  <li><span class="step-num">2</span> Yeni repository oluşturun: <code>kodzen-io-website</code> (public)</li>
+  <li><span class="step-num">3</span> KODZEN-Website içindeki tüm dosyaları bu repo'ya push edin</li>
+  <li><span class="step-num">4</span> Repo &gt; Settings &gt; Pages &gt; Branch: main, / (root)</li>
+  <li><span class="step-num">5</span> "Save" — site birkaç dakikada yayına girer</li>
+  <li><span class="step-num">6</span> Custom domain için: Pages ayarlarında <code>kodzen.io</code> ekleyin</li>
+</ol>
+
+<h2 id="domain">7. Domain Ayarları (kodzen.io)</h2>
+<p>Domain sağlayıcınızın DNS yönetim panelinde aşağıdaki kayıtları ekleyin:</p>
+<table>
+  <tr><th>Tür</th><th>Ad</th><th>Değer</th><th>TTL</th></tr>
+  <tr><td><strong>A</strong></td><td>@</td><td>Hosting IP adresiniz</td><td>3600</td></tr>
+  <tr><td><strong>CNAME</strong></td><td>www</td><td>kodzen.io</td><td>3600</td></tr>
+  <tr><td><strong>A</strong></td><td>@</td><td>75.2.60.5 (Netlify)</td><td>3600</td></tr>
+  <tr><td><strong>CNAME</strong></td><td>www</td><td>apex-loadbalancer.netlify.com</td><td>3600</td></tr>
+</table>
+<div class="note"><strong>📌 Not:</strong> DNS değişiklikleri 1-48 saat içinde etkin olur. Sabırlı olun.</div>
+
+<h2 id="ssl">8. SSL Sertifikası (HTTPS)</h2>
+<ul>
+  <li><strong>Netlify/GitHub Pages:</strong> Otomatik, ücretsiz Let's Encrypt SSL</li>
+  <li><strong>cPanel:</strong> AutoSSL özelliğini etkinleştirin (genelde ücretsiz)</li>
+  <li><strong>Manuel:</strong> Let's Encrypt &gt; Certbot aracı ile ücretsiz SSL alınabilir</li>
+</ul>
+<div class="warning"><strong>⚠️ Zorunlu:</strong> Google, HTTPS olmayan siteleri arama sonuçlarında geri sıralara atar. SSL mutlaka etkinleştirilmelidir.</div>
+
+<h2 id="test">9. Kurulum Sonrası Testler</h2>
+<p>Site yayına girdikten sonra şu kontrolleri yapın:</p>
+<ol>
+  <li><span class="step-num">1</span> <code>kodzen.io</code> → Ana sayfa açılıyor mu?</li>
+  <li><span class="step-num">2</span> <code>kodzen.io/ai-gis.html</code> → AI-GIS sayfası çalışıyor mu?</li>
+  <li><span class="step-num">3</span> <code>kodzen.io/fiyatlar.html</code> → Fiyatlar sayfası açılıyor mu?</li>
+  <li><span class="step-num">4</span> Navbar linkleri tüm sayfalarda çalışıyor mu?</li>
+  <li><span class="step-num">5</span> Logo görünüyor mu? (<code>images/logo.png</code>)</li>
+  <li><span class="step-num">6</span> İletişim formu çalışıyor mu?</li>
+  <li><span class="step-num">7</span> <code>https://</code> ile açılıyor mu? (SSL aktif mi?)</li>
+  <li><span class="step-num">8</span> Mobil görünüm düzgün mü? (Chrome DevTools → F12 → Mobil mod)</li>
+</ol>
+
+<div class="code-block">
+<span class="green"># Hızlı test araçları:</span><br>
+<span class="teal">PageSpeed:</span>     https://pagespeed.web.dev/<br>
+<span class="teal">SSL Kontrol:</span>   https://www.ssllabs.com/ssltest/<br>
+<span class="teal">SEO Kontrol:</span>   https://www.seobility.net/<br>
+<span class="teal">W3 Validator:</span> https://validator.w3.org/<br>
+<span class="teal">Broken Links:</span> https://www.deadlinkchecker.com/
+</div>
+
+<h2 id="sorun-giderme">10. Sorun Giderme</h2>
+<table>
+  <tr><th>Sorun</th><th>Çözüm</th></tr>
+  <tr><td>Sayfa açılmıyor (404)</td><td>index.html, public_html köküne yüklendi mi kontrol edin</td></tr>
+  <tr><td>CSS yüklenmiyor</td><td>vendor/ klasörü tam yüklendi mi kontrol edin</td></tr>
+  <tr><td>Logo görünmüyor</td><td>images/logo.png dosyasının yüklendiğini kontrol edin</td></tr>
+  <tr><td>Türkçe karakterler bozuk</td><td>Tüm HTML dosyaları UTF-8 encoding ile kaydedilmiştir. FTP programınızın encoding ayarını UTF-8 yapın</td></tr>
+  <tr><td>HTTPS çalışmıyor</td><td>cPanel'de AutoSSL'i etkinleştirin veya Netlify kullanın</td></tr>
+  <tr><td>Font yüklenmiyor</td><td>vendor/fonts/ klasörünün tüm ttf dosyalarıyla birlikte yüklendiğini kontrol edin</td></tr>
+  <tr><td>Animasyonlar çalışmıyor</td><td>vendor/aos/ klasörünün yüklendiğini kontrol edin</td></tr>
+</table>
+
+<h2 id="sayfa-listesi">11. Sayfa Listesi</h2>
+<table>
+  <tr><th>URL</th><th>Açıklama</th><th>SEO Önceliği</th></tr>
+  <tr><td>kodzen.io/</td><td>Ana Sayfa</td><td>⭐⭐⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/webgelistirme.html</td><td>Web Geliştirme Hizmetleri</td><td>⭐⭐⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/siberguvenik.html</td><td>Siber Güvenlik</td><td>⭐⭐⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/ai-gis.html</td><td>AI-GIS Altyapı Sistemleri</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/scada.html</td><td>SCADA Sistemleri</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/ckmesaj.html</td><td>CK Mesaj WhatsApp Otomasyonu</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/fiyatlar.html</td><td>Fiyat Listesi</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/temalar.html</td><td>Site Temaları</td><td>⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/iletisim.html</td><td>İletişim</td><td>⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/demo.html</td><td>Demo Talebi</td><td>⭐⭐⭐</td></tr>
+  <tr><td>kodzen.io/galeri.html</td><td>Galeri</td><td>⭐⭐</td></tr>
+</table>
+
+<div class="tip">
+<strong>🚀 Google'da İlk Sıraya Çıkmak İçin:</strong>
+<ol style="margin-top:8px">
+  <li>Siteyi yayına aldıktan sonra <a href="https://search.google.com/search-console">Google Search Console</a>'a ekleyin</li>
+  <li>sitemap.xml URL'sini Search Console'a gönderin: <code>kodzen.io/sitemap.xml</code></li>
+  <li>"URL İnceleme" ile tüm sayfaları Google'a manuel bildirin</li>
+  <li>Google My Business hesabı açın ("KODZEN TEKNOLOJİ" — Artvin)</li>
+  <li>İlk 3-7 gün içinde Google indekslemeye başlar</li>
+</ol>
+</div>
+
+<footer>
+  <p><strong>KODZEN TEKNOLOJİ</strong> — Çağlayan Kurtoğlu</p>
+  <p>🌐 kodzen.io | © 2026 Tüm Hakları Saklıdır</p>
+  <p style="margin-top:8px;font-size:.78rem">Bu belge KODZEN TEKNOLOJİ tarafından hazırlanmıştır. İzinsiz kullanılamaz.</p>
+</footer>
+
+<button class="print-btn no-print" onclick="window.print()">🖨️ PDF Olarak Kaydet</button>
+
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>

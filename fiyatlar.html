@@ -1,0 +1,633 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fiyat Listesi — Web Tasarım, SEO & Yazılım Hizmetleri | KODZEN TEKNOLOJİ</title>
+  <meta name="description" content="Yazılım geliştirme fiyatları: web tasarım, mobil uygulama, yapay zeka, GIS paket fiyatları. KODZEN TEKNOLOJİ uygun fiyatlı çözümler.">
+  <!-- SEO & Open Graph -->
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Çağlayan Kurtoğlu — KODZEN TEKNOLOJİ">
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <link rel="canonical" href="https://kodzen.io/fiyatlar.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Fiyat Listesi — Web Tasarım, SEO & Yazılım | KODZEN TEKNOLOJİ">
+  <meta property="og:description" content="Şeffaf fiyatlandırma. Web tasarım, SEO, Google Ads ve özel yazılım hizmetlerinde net fiyatlar.">
+  <meta property="og:url" content="https://kodzen.io/fiyatlar.html">
+  <meta property="og:image" content="https://kodzen.io/images/og-kodzen.jpg">
+  <meta property="og:site_name" content="KODZEN TEKNOLOJİ">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Fiyat Listesi | KODZEN TEKNOLOJİ">
+  <meta name="twitter:description" content="Web tasarım, SEO ve yazılım hizmetlerinde şeffaf fiyatlandırma.">
+  <!-- Bootstrap 5 -->
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <!-- AOS -->
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .price-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 2rem;
+      height: 100%;
+      transition: transform .2s, border-color .2s;
+    }
+    .price-card:hover { transform: translateY(-4px); border-color: var(--primary); }
+    .price-card.featured {
+      border-color: var(--primary);
+      background: linear-gradient(160deg, rgba(0,229,157,.08), var(--bg-card));
+    }
+    .price-amount {
+      font-size: 2rem;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+    }
+    .price-from { font-size: .75rem; color: var(--text-muted); }
+    .price-feat-list { list-style: none; padding: 0; margin: 0; }
+    .price-feat-list li {
+      padding: .35rem 0;
+      color: var(--text-muted);
+      font-size: .875rem;
+      border-bottom: 1px solid rgba(255,255,255,.04);
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
+    .price-feat-list li::before { content: "✓"; color: var(--primary); font-weight: 700; flex-shrink: 0; }
+    .faq-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: .75rem;
+    }
+    .faq-q {
+      padding: 1rem 1.25rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .faq-a {
+      padding: 0 1.25rem 1rem;
+      color: var(--text-muted);
+      font-size: .9rem;
+      display: none;
+    }
+    .faq-item.open .faq-a { display: block; }
+    .faq-item.open .faq-arrow { transform: rotate(180deg); }
+    .faq-arrow { transition: transform .2s; color: var(--primary); }
+  </style>
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+<!-- ── NAVBAR ── -->
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJİ</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Ürünler</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>
+            <li><a class="dropdown-item" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>
+            <li><a class="dropdown-item" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>
+            <li><a class="dropdown-item" href="viralbotpro.html"><i class="bi bi-play-circle me-2 text-primary-kodzen"></i>ViralBot Pro</a></li>
+          <li><a class="dropdown-item" href="siparis.html"><i class="bi bi-bag-heart me-2" style="color:#f7931e"></i>Siparım — Yemek Platformu</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="webgelistirme.html">Web Hizmetleri</a></li>
+        <li class="nav-item"><a class="nav-link" href="siberguvenik.html">Siber Güvenlik</a></li>
+        <li class="nav-item"><a class="nav-link" href="scada.html">SCADA</a></li>
+        <li class="nav-item"><a class="nav-link" href="fiyatlar.html">Fiyatlar</a></li>
+        <li class="nav-item" data-nav="galeri"><a class="nav-link" href="galeri.html">Galeri</a></li>
+        <li class="nav-item"><a class="nav-link" href="demo.html">Demo</a></li>
+        <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+      </ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- ── HERO ── -->
+<section class="hero" id="hero" style="padding-bottom:3rem">
+  <div class="container text-center">
+    <div data-aos="fade-up">
+      <div class="hero-badge mx-auto" style="display:inline-flex">
+        <span class="dot"></span>
+        Şeffaf & Adil Fiyatlandırma
+      </div>
+      <h1 class="hero-title mt-3">Şeffaf <span class="teal">Fiyatlandırma</span></h1>
+      <p class="hero-desc mx-auto" style="max-width:600px">
+        Gizli ücret yok. Proje kapsamınıza göre net fiyatlar.
+      </p>
+      <div class="p-3 d-inline-block mt-2" style="background:rgba(255,193,7,.08);border:1px solid rgba(255,193,7,.3);border-radius:8px;font-size:.875rem;color:#ffc107">
+        <i class="bi bi-info-circle me-1"></i> Tüm fiyatlar KDV hariçtir. Proje kapsamına göre özel teklif alabilirsiniz.
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── SECTION 1: Web Tasarım ── -->
+<section class="section" id="web-tasarim">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-badge">Web Tasarım</div>
+      <h2 class="section-title">Web Sitesi <span class="teal">Paketleri</span></h2>
+    </div>
+    <div class="row g-4 justify-content-center">
+      <!-- Başlangıç -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="price-card">
+          <h5 style="color:var(--text-primary);font-weight:700">Başlangıç</h5>
+          <div class="price-from mt-1">başlayan fiyatla</div>
+          <div class="price-amount mt-1">₺12.900</div>
+          <hr style="border-color:var(--border)">
+          <ul class="price-feat-list">
+            <li>5 sayfaya kadar</li>
+            <li>Responsive (mobil uyumlu) tasarım</li>
+            <li>Temel SEO kurulumu</li>
+            <li>İletişim formu</li>
+            <li>SSL sertifikası</li>
+            <li>Google Analytics kurulumu</li>
+            <li>1 yıl teknik destek</li>
+          </ul>
+          <a href="iletisim.html" class="btn-outline-kodzen w-100 text-center mt-4 d-block">Teklif Al</a>
+        </div>
+      </div>
+      <!-- Kurumsal -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="price-card featured">
+          <div class="d-flex justify-content-between align-items-start">
+            <h5 style="color:var(--text-primary);font-weight:700">Kurumsal</h5>
+            <span class="badge" style="background:var(--primary);color:#000;font-size:.7rem">ÖNERİLEN</span>
+          </div>
+          <div class="price-from mt-1">başlayan fiyatla</div>
+          <div class="price-amount mt-1">₺24.900</div>
+          <hr style="border-color:rgba(0,229,157,.3)">
+          <ul class="price-feat-list">
+            <li>15 sayfaya kadar</li>
+            <li>Özel UI/UX tasarımı</li>
+            <li>Gelişmiş SEO paketi</li>
+            <li>CMS (içerik yönetim) paneli</li>
+            <li>Blog / Haber modülü</li>
+            <li>Çoklu dil desteği</li>
+            <li>Performans optimizasyonu</li>
+            <li>2 yıl teknik destek</li>
+          </ul>
+          <a href="iletisim.html" class="btn-primary-kodzen w-100 text-center mt-4 d-block">Teklif Al</a>
+        </div>
+      </div>
+      <!-- AI Premium -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="price-card">
+          <div class="d-flex justify-content-between align-items-start">
+            <h5 style="color:var(--text-primary);font-weight:700">AI Premium</h5>
+            <span class="badge" style="background:rgba(0,184,255,.2);color:#00b8ff;font-size:.7rem">AI</span>
+          </div>
+          <div class="price-from mt-1">başlayan fiyatla</div>
+          <div class="price-amount mt-1">₺44.900</div>
+          <hr style="border-color:var(--border)">
+          <ul class="price-feat-list">
+            <li>Sınırsız sayfa</li>
+            <li>AI Chatbot entegrasyonu</li>
+            <li>Gelişmiş analitik & dashboard</li>
+            <li>Kişiselleştirilmiş kullanıcı deneyimi</li>
+            <li>API entegrasyonları</li>
+            <li>Öncelikli geliştirme</li>
+            <li>3 yıl teknik destek</li>
+          </ul>
+          <a href="iletisim.html" class="btn-outline-kodzen w-100 text-center mt-4 d-block">Teklif Al</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── SECTION 2: E-Ticaret ── -->
+<section class="section" id="eticaret" style="background:var(--bg-card)">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-badge">E-Ticaret</div>
+      <h2 class="section-title">E-Ticaret <span class="teal">Paketleri</span></h2>
+    </div>
+    <div class="row g-4 justify-content-center">
+      <!-- Temel -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="price-card" style="background:var(--bg-dark)">
+          <h5 style="color:var(--text-primary);font-weight:700">Temel E-Ticaret</h5>
+          <div class="price-from mt-1">başlayan fiyatla</div>
+          <div class="price-amount mt-1">₺29.900</div>
+          <hr style="border-color:var(--border)">
+          <ul class="price-feat-list">
+            <li>100 ürüne kadar</li>
+            <li>Ödeme entegrasyonu (iyzico/Stripe)</li>
+            <li>Stok yönetimi</li>
+            <li>Sipariş takip sistemi</li>
+            <li>Temel SEO paketi</li>
+          </ul>
+          <a href="iletisim.html" class="btn-outline-kodzen w-100 text-center mt-4 d-block">Teklif Al</a>
+        </div>
+      </div>
+      <!-- Büyüme -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="price-card featured" style="background:linear-gradient(160deg,rgba(0,229,157,.1),var(--bg-dark))">
+          <div class="d-flex justify-content-between align-items-start">
+            <h5 style="color:var(--text-primary);font-weight:700">Büyüme</h5>
+            <span class="badge" style="background:var(--primary);color:#000;font-size:.7rem">POPÜLER</span>
+          </div>
+          <div class="price-from mt-1">başlayan fiyatla</div>
+          <div class="price-amount mt-1">₺52.900</div>
+          <hr style="border-color:rgba(0,229,157,.3)">
+          <ul class="price-feat-list">
+            <li>500 ürüne kadar</li>
+            <li>Çoklu ödeme yöntemi</li>
+            <li>Gelişmiş filtre & arama</li>
+            <li>E-mail pazarlama entegrasyonu</li>
+            <li>Müşteri paneli</li>
+            <li>Gelişmiş SEO paketi</li>
+          </ul>
+          <a href="iletisim.html" class="btn-primary-kodzen w-100 text-center mt-4 d-block">Teklif Al</a>
+        </div>
+      </div>
+      <!-- Enterprise -->
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="price-card" style="background:var(--bg-dark)">
+          <h5 style="color:var(--text-primary);font-weight:700">Enterprise</h5>
+          <div class="price-from mt-1">başlayan fiyatla</div>
+          <div class="price-amount mt-1">₺89.900</div>
+          <hr style="border-color:var(--border)">
+          <ul class="price-feat-list">
+            <li>Sınırsız ürün</li>
+            <li>Özel entegrasyonlar (ERP/CRM)</li>
+            <li>Multi-vendor marketplace</li>
+            <li>AI ürün öneri motoru</li>
+            <li>Gelişmiş analitik & raporlama</li>
+          </ul>
+          <a href="iletisim.html" class="btn-outline-kodzen w-100 text-center mt-4 d-block">Teklif Al</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── SECTION 3: SEO & Google Ads ── -->
+<section class="section" id="seo-ads">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-badge">SEO & Reklam</div>
+      <h2 class="section-title">SEO & Google Ads <span class="teal">Paketleri</span></h2>
+      <p class="section-desc">Aylık sabit ücretlerle düzenli büyüme.</p>
+    </div>
+    <div class="row g-4">
+      <!-- SEO Temel -->
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="price-card text-center">
+          <i class="bi bi-search" style="font-size:2rem;color:var(--primary)"></i>
+          <h6 style="color:var(--text-primary);font-weight:700;margin-top:.75rem">SEO Temel</h6>
+          <div class="price-amount my-2">₺3.500<span style="font-size:.9rem;font-weight:400;color:var(--text-muted)">/ay</span></div>
+          <ul class="price-feat-list text-start mt-3">
+            <li>10 anahtar kelime</li>
+            <li>Aylık raporlama</li>
+            <li>On-page optimizasyon</li>
+            <li>Google Search Console</li>
+          </ul>
+          <a href="iletisim.html" class="btn-outline-kodzen w-100 text-center mt-3 d-block" style="font-size:.85rem">Başla</a>
+        </div>
+      </div>
+      <!-- SEO Pro -->
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="80">
+        <div class="price-card featured text-center">
+          <div class="d-flex justify-content-center mb-1">
+            <span class="badge" style="background:var(--primary);color:#000;font-size:.7rem">EN POPÜLER</span>
+          </div>
+          <i class="bi bi-graph-up-arrow" style="font-size:2rem;color:var(--primary)"></i>
+          <h6 style="color:var(--text-primary);font-weight:700;margin-top:.75rem">SEO Pro</h6>
+          <div class="price-amount my-2">₺6.500<span style="font-size:.9rem;font-weight:400;color:var(--text-muted)">/ay</span></div>
+          <ul class="price-feat-list text-start mt-3">
+            <li>30 anahtar kelime</li>
+            <li>Haftalık rapor</li>
+            <li>Teknik SEO + içerik üretimi</li>
+            <li>Backlink çalışması</li>
+            <li>Rakip analizi</li>
+          </ul>
+          <a href="iletisim.html" class="btn-primary-kodzen w-100 text-center mt-3 d-block" style="font-size:.85rem">Başla</a>
+        </div>
+      </div>
+      <!-- Google Ads -->
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="160">
+        <div class="price-card text-center">
+          <i class="bi bi-google" style="font-size:2rem;color:var(--primary)"></i>
+          <h6 style="color:var(--text-primary);font-weight:700;margin-top:.75rem">Google Ads</h6>
+          <div class="price-amount my-2">₺4.000<span style="font-size:.9rem;font-weight:400;color:var(--text-muted)">/ay</span></div>
+          <p style="font-size:.75rem;color:var(--text-muted)">+ reklam bütçesi</p>
+          <ul class="price-feat-list text-start mt-2">
+            <li>Hesap kurulumu</li>
+            <li>Kampanya yönetimi</li>
+            <li>Haftalık optimizasyon</li>
+            <li>Dönüşüm takibi</li>
+            <li>Aylık rapor</li>
+          </ul>
+          <a href="iletisim.html" class="btn-outline-kodzen w-100 text-center mt-3 d-block" style="font-size:.85rem">Başla</a>
+        </div>
+      </div>
+      <!-- Kombine -->
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="240">
+        <div class="price-card text-center" style="border-color:rgba(0,184,255,.4);background:linear-gradient(160deg,rgba(0,184,255,.07),var(--bg-card))">
+          <div class="d-flex justify-content-center mb-1">
+            <span class="badge" style="background:rgba(0,184,255,.2);color:#00b8ff;font-size:.7rem">TASARRUF</span>
+          </div>
+          <i class="bi bi-stars" style="font-size:2rem;color:#00b8ff"></i>
+          <h6 style="color:var(--text-primary);font-weight:700;margin-top:.75rem">SEO + Google Ads</h6>
+          <div style="font-size:1.8rem;font-weight:800;color:#00b8ff;margin:.5rem 0">₺9.500<span style="font-size:.9rem;font-weight:400;color:var(--text-muted)">/ay</span></div>
+          <div style="font-size:.75rem;color:var(--primary)">₺4.000 indirim</div>
+          <ul class="price-feat-list text-start mt-3">
+            <li>Her ikisinin tam paketi</li>
+            <li>Öncelikli destek</li>
+            <li>Birleşik raporlama</li>
+          </ul>
+          <a href="iletisim.html" class="btn-outline-kodzen w-100 text-center mt-3 d-block" style="font-size:.85rem;border-color:#00b8ff;color:#00b8ff">Başla</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── SECTION 4: Özel Yazılım ── -->
+<section class="section" id="ozel-yazilim" style="background:var(--bg-card)">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-badge">Özel Geliştirme</div>
+      <h2 class="section-title">Özel <span class="teal">Yazılım Projeleri</span></h2>
+      <p class="section-desc">Proje bazlı fiyatlandırma — kapsam belirlendikten sonra net teklif verilir.</p>
+    </div>
+    <div class="row g-4">
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="p-4 text-center" style="background:var(--bg-dark);border:1px solid var(--border);border-radius:var(--radius);height:100%">
+          <i class="bi bi-phone" style="font-size:2.5rem;color:var(--primary)"></i>
+          <h6 style="color:var(--text-primary);font-weight:700;margin-top:1rem">Mobil Uygulama</h6>
+          <p style="color:var(--text-muted);font-size:.8rem">iOS + Android</p>
+          <div style="color:var(--primary);font-weight:700;font-size:1.1rem">₺65.000 — ₺200.000+</div>
+          <a href="iletisim.html" class="btn-outline-kodzen mt-3 d-block text-center" style="font-size:.8rem">Teklif Al</a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="80">
+        <div class="p-4 text-center" style="background:var(--bg-dark);border:1px solid var(--border);border-radius:var(--radius);height:100%">
+          <i class="bi bi-cloud-arrow-up" style="font-size:2.5rem;color:var(--primary)"></i>
+          <h6 style="color:var(--text-primary);font-weight:700;margin-top:1rem">SaaS / Web Uygulaması</h6>
+          <p style="color:var(--text-muted);font-size:.8rem">Cloud & multi-tenant</p>
+          <div style="color:var(--primary);font-weight:700;font-size:1.1rem">₺45.000 — ₺150.000+</div>
+          <a href="iletisim.html" class="btn-outline-kodzen mt-3 d-block text-center" style="font-size:.8rem">Teklif Al</a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="160">
+        <div class="p-4 text-center" style="background:var(--bg-dark);border:1px solid var(--border);border-radius:var(--radius);height:100%">
+          <i class="bi bi-robot" style="font-size:2.5rem;color:var(--primary)"></i>
+          <h6 style="color:var(--text-primary);font-weight:700;margin-top:1rem">AI/ML Entegrasyonu</h6>
+          <p style="color:var(--text-muted);font-size:.8rem">GPT, Claude, özel modeller</p>
+          <div style="color:var(--primary);font-weight:700;font-size:1.1rem">₺20.000 — ₺80.000+</div>
+          <a href="iletisim.html" class="btn-outline-kodzen mt-3 d-block text-center" style="font-size:.8rem">Teklif Al</a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="240">
+        <div class="p-4 text-center" style="background:var(--bg-dark);border:1px solid var(--border);border-radius:var(--radius);height:100%">
+          <i class="bi bi-plugin" style="font-size:2.5rem;color:var(--primary)"></i>
+          <h6 style="color:var(--text-primary);font-weight:700;margin-top:1rem">API & Entegrasyon</h6>
+          <p style="color:var(--text-muted);font-size:.8rem">ERP, CRM, üçüncü parti API</p>
+          <div style="color:var(--primary);font-weight:700;font-size:1.1rem">₺15.000 — ₺60.000+</div>
+          <a href="iletisim.html" class="btn-outline-kodzen mt-3 d-block text-center" style="font-size:.8rem">Teklif Al</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── SECTION 5: Tüm Paketlerde ── -->
+<section class="section" id="dahil">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-badge">Her Pakette</div>
+      <h2 class="section-title">Tüm Paketlerde <span class="teal">Bunlar Dahil</span></h2>
+    </div>
+    <div class="row g-3" data-aos="fade-up">
+      <div class="col-6 col-md-3">
+        <div class="d-flex align-items-center gap-2 p-3" style="background:var(--bg-card);border:1px solid var(--border);border-radius:8px">
+          <i class="bi bi-shield-check" style="color:var(--primary);font-size:1.2rem;flex-shrink:0"></i>
+          <span style="color:var(--text-muted);font-size:.85rem">Güvenli HTTPS/SSL</span>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="d-flex align-items-center gap-2 p-3" style="background:var(--bg-card);border:1px solid var(--border);border-radius:8px">
+          <i class="bi bi-phone" style="color:var(--primary);font-size:1.2rem;flex-shrink:0"></i>
+          <span style="color:var(--text-muted);font-size:.85rem">Mobil uyumlu</span>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="d-flex align-items-center gap-2 p-3" style="background:var(--bg-card);border:1px solid var(--border);border-radius:8px">
+          <i class="bi bi-speedometer2" style="color:var(--primary);font-size:1.2rem;flex-shrink:0"></i>
+          <span style="color:var(--text-muted);font-size:.85rem">Hızlı yükleme</span>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="d-flex align-items-center gap-2 p-3" style="background:var(--bg-card);border:1px solid var(--border);border-radius:8px">
+          <i class="bi bi-bar-chart" style="color:var(--primary);font-size:1.2rem;flex-shrink:0"></i>
+          <span style="color:var(--text-muted);font-size:.85rem">Google Analytics</span>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="d-flex align-items-center gap-2 p-3" style="background:var(--bg-card);border:1px solid var(--border);border-radius:8px">
+          <i class="bi bi-cloud-check" style="color:var(--primary);font-size:1.2rem;flex-shrink:0"></i>
+          <span style="color:var(--text-muted);font-size:.85rem">Yedekleme sistemi</span>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="d-flex align-items-center gap-2 p-3" style="background:var(--bg-card);border:1px solid var(--border);border-radius:8px">
+          <i class="bi bi-headset" style="color:var(--primary);font-size:1.2rem;flex-shrink:0"></i>
+          <span style="color:var(--text-muted);font-size:.85rem">7/24 teknik destek</span>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="d-flex align-items-center gap-2 p-3" style="background:var(--bg-card);border:1px solid var(--border);border-radius:8px">
+          <i class="bi bi-code-square" style="color:var(--primary);font-size:1.2rem;flex-shrink:0"></i>
+          <span style="color:var(--text-muted);font-size:.85rem">Kaynak kodu teslimi</span>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="d-flex align-items-center gap-2 p-3" style="background:var(--bg-card);border:1px solid var(--border);border-radius:8px">
+          <i class="bi bi-mortarboard" style="color:var(--primary);font-size:1.2rem;flex-shrink:0"></i>
+          <span style="color:var(--text-muted);font-size:.85rem">Eğitim & devir teslim</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── FAQ ── -->
+<section class="section" id="faq" style="background:var(--bg-card)">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-badge">SSS</div>
+      <h2 class="section-title">Sık Sorulan <span class="teal">Sorular</span></h2>
+    </div>
+    <div class="row justify-content-center" data-aos="fade-up">
+      <div class="col-lg-8">
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">Fiyatlar neden bu kadar geniş aralıkta? <i class="bi bi-chevron-down faq-arrow"></i></div>
+          <div class="faq-a">Her projenin kapsamı, özellik sayısı ve karmaşıklığı farklıdır. Basit bir kurumsal site ile AI entegrasyonlu SaaS uygulamasının maliyeti doğal olarak büyük farklılık gösterir. Net fiyat için proje kapsamınızı bizimle paylaşın.</div>
+        </div>
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">Peşin ödeme mi gerekiyor? <i class="bi bi-chevron-down faq-arrow"></i></div>
+          <div class="faq-a">Projeler için %30 ön ödeme, geri kalanı proje tesliminde alınmaktadır. Büyük projeler için aşamalı ödeme planları da uygulanmaktadır.</div>
+        </div>
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">SEO çalışmaları ne zaman sonuç verir? <i class="bi bi-chevron-down faq-arrow"></i></div>
+          <div class="faq-a">SEO organik bir süreçtir. Rekabet düzeyine göre değişmekle birlikte ortalama 3-6 ayda ilk sayfa sonuçları görülmektedir. Yeni sitelerde bu süre biraz daha uzayabilir.</div>
+        </div>
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">Google Ads için minimum reklam bütçesi nedir? <i class="bi bi-chevron-down faq-arrow"></i></div>
+          <div class="faq-a">Etkili sonuç alabilmek için minimum 2.000 TL/ay reklam bütçesi önerilmektedir. Yönetim ücreti bu bütçenin dışındadır. Bütçe artıkça ROAS oranı genellikle iyileşmektedir.</div>
+        </div>
+        <div class="faq-item" onclick="toggleFaq(this)">
+          <div class="faq-q">Fiyatlara KDV dahil mi? <i class="bi bi-chevron-down faq-arrow"></i></div>
+          <div class="faq-a">Hayır. Belirtilen tüm fiyatlar KDV hariçtir. Fatura kesiminde yasal KDV oranı eklenmektedir.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA ── -->
+<section class="section" id="cta">
+  <div class="container">
+    <div class="text-center p-5" style="background:linear-gradient(135deg,rgba(0,229,157,.1),rgba(0,184,255,.08));border:1px solid rgba(0,229,157,.25);border-radius:var(--radius)" data-aos="fade-up">
+      <h2 class="section-title mb-3">Özel <span class="teal">Teklif İste</span></h2>
+      <p style="color:var(--text-muted);max-width:500px;margin:0 auto 2rem">Projenizi anlatın, 24 saat içinde detaylı teklif hazırlayalım.</p>
+      <div class="d-flex gap-3 justify-content-center flex-wrap">
+        <a href="iletisim.html" class="btn-primary-kodzen">
+          <i class="bi bi-envelope-paper"></i> Teklif Formu
+        </a>
+        <a href="https://wa.me/905458966096?text=Merhaba%2C%20fiyat%20teklifi%20almak%20istiyorum." target="_blank" class="btn-whatsapp">
+          <i class="bi bi-whatsapp"></i> WhatsApp'tan Yaz
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── FOOTER ── -->
+<footer class="footer">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-4">
+        <div class="footer-brand">
+          <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+          <div style="font-size:.6rem;letter-spacing:4px;color:var(--text-dim);text-transform:uppercase;font-weight:600;margin-top:2px">TEKNOLOJİ</div>
+        </div>
+        <p class="footer-desc">Yazılım geliştirme, GIS/SCADA altyapı sistemleri ve kurumsal BT çözümleri.</p>
+        <div class="social-links mt-3">
+          <a href="https://github.com/Caqlayano8" target="_blank" class="social-link" title="GitHub"><i class="bi bi-github"></i></a>
+          <a href="mailto:kurtoqluo8@gmail.com" class="social-link" title="E-posta"><i class="bi bi-envelope"></i></a>
+          <a href="https://wa.me/905458966096" target="_blank" class="social-link" title="WhatsApp"><i class="bi bi-whatsapp"></i></a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Ürünler</div>
+        <ul class="footer-links">
+          <li><a href="ai-gis.html">AI-GIS System</a></li>
+          <li><a href="whatsypzck.html">WhatsYpzck</a></li>
+          <li><a href="ckmesaj.html">CKmesaj</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Sayfalar</div>
+        <ul class="footer-links">
+          <li><a href="index.html">Ana Sayfa</a></li>
+          <li><a href="webgelistirme.html">Web Hizmetleri</a></li>
+          <li><a href="fiyatlar.html">Fiyatlar</a></li>
+          <li><a href="galeri.html">Galeri</a></li>
+          <li><a href="demo.html">Demo</a></li>
+          <li><a href="siberguvenik.html">Siber Güvenlik</a></li>
+          <li><a href="scada.html">SCADA</a></li>
+          <li><a href="temalar.html">Temalar</a></li>
+          <li><a href="iletisim.html">İletişim</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <div class="footer-heading">İletişim</div>
+        <div class="footer-contact-item"><i class="bi bi-geo-alt"></i> Artvin, Türkiye</div>
+        <div class="footer-contact-item"><i class="bi bi-telephone"></i> <a href="tel:05458966096">0545 896 6096</a></div>
+        <div class="footer-contact-item"><i class="bi bi-envelope"></i> <a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+        <div class="footer-contact-item"><i class="bi bi-github"></i> <a href="https://github.com/Caqlayano8" target="_blank">github.com/Caqlayano8</a></div>
+      </div>
+    </div>
+    <hr class="footer-divider">
+    <div class="footer-bottom">
+      <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOLOJİ</span> — Tüm hakları saklıdır.</p>
+      <p class="footer-copy mb-0">Geliştirici: <span>Çağlayan Kurtoğlu</span></p>
+    <p class="footer-copy mb-0 mt-1"><a href="privacy.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Gizlilik Politikası</a> &nbsp;|&nbsp; <a href="terms.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Kullanım Koşulları</a></p>
+    </div>
+  </div>
+</footer>
+
+<!-- ── LIVE CHAT ── -->
+<div class="live-chat-widget">
+  <a id="liveChatBtn" href="https://wa.me/905458966096" target="_blank" class="chat-toggle-btn" title="WhatsApp ile İletişim">
+    <span class="pulse-ring"></span>
+    <i class="bi bi-whatsapp"></i>
+  </a>
+</div>
+
+<!-- Scripts -->
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/transitions.js"></script>
+<script>
+  function toggleFaq(el) {
+    el.classList.toggle('open');
+  }
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Web Tasarım & Yazılım Hizmetleri Fiyat Listesi",
+  "provider": {
+    "@type": "Organization",
+    "name": "KODZEN TEKNOLOJİ",
+    "url": "https://kodzen.io"
+  },
+  "description": "Web tasarım, SEO, Google Ads ve özel yazılım geliştirme hizmetleri fiyat listesi.",
+  "areaServed": "TR"
+}
+</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>

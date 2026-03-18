@@ -1,0 +1,436 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CKmesaj — Gerçek Zamanlı Mesajlaşma | KODZEN TEKNOLOJİ</title>
+  <meta name="description" content="CKmesaj — Gerçek zamanlı mesajlaşma platformu. Web, Android ve iOS. Socket.IO, SMS doğrulama, QR eşleştirme.">
+  <!-- SEO & Open Graph -->
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Çağlayan Kurtoğlu — KODZEN TEKNOLOJİ">
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <link rel="canonical" href="https://kodzen.io/ckmesaj.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="CKmesaj — Gerçek Zamanlı Mesajlaşma | KODZEN TEKNOLOJİ">
+  <meta property="og:description" content="CKmesaj — Gerçek zamanlı mesajlaşma platformu. Web, Android ve iOS. Socket.IO, SMS doğrulama.">
+  <meta property="og:url" content="https://kodzen.io/ckmesaj.html">
+  <meta property="og:image" content="https://kodzen.io/images/og-kodzen.jpg">
+  <meta property="og:site_name" content="KODZEN TEKNOLOJİ">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="CKmesaj — Gerçek Zamanlı Mesajlaşma | KODZEN TEKNOLOJİ">
+  <meta name="twitter:description" content="CKmesaj — Gerçek zamanlı mesajlaşma platformu. Web, Android ve iOS. Socket.IO, SMS doğrulama.">
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJİ</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Ürünler</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>
+            <li><a class="dropdown-item" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>
+            <li><a class="dropdown-item" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>
+            <li><a class="dropdown-item" href="viralbotpro.html"><i class="bi bi-play-circle me-2 text-primary-kodzen"></i>ViralBot Pro</a></li>
+          <li><a class="dropdown-item" href="siparis.html"><i class="bi bi-bag-heart me-2" style="color:#f7931e"></i>Siparım — Yemek Platformu</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="webgelistirme.html">Web Hizmetleri</a></li>
+        <li class="nav-item"><a class="nav-link" href="siberguvenik.html">Siber Güvenlik</a></li>
+        <li class="nav-item"><a class="nav-link" href="scada.html">SCADA</a></li>
+        <li class="nav-item"><a class="nav-link" href="fiyatlar.html">Fiyatlar</a></li>
+        <li class="nav-item" data-nav="galeri"><a class="nav-link" href="galeri.html">Galeri</a></li>
+        <li class="nav-item"><a class="nav-link" href="demo.html">Demo</a></li>
+        <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+      </ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- PAGE HERO -->
+<section class="page-hero">
+  <div class="container">
+    <div class="row align-items-center gy-4">
+      <div class="col-lg-7" data-aos="fade-right">
+        <span class="page-hero-label"><i class="bi bi-chat-dots me-2"></i>Mesajlaşma Platformu</span>
+        <h1><span class="gradient-text">CKmesaj</span></h1>
+        <p class="mt-3 fs-5">Gerçek Zamanlı Mesajlaşma Platformu — Web, Android ve iOS'ta kesintisiz iletişim deneyimi.</p>
+        <div class="d-flex gap-3 flex-wrap mt-4">
+          <a href="demo.html" class="btn-primary-kodzen"><i class="bi bi-play-circle"></i> Demo Talep Et</a>
+          <a href="#ozellikler" class="btn-ghost-kodzen"><i class="bi bi-list-check"></i> Özellikleri Gör</a>
+        </div>
+      </div>
+      <div class="col-lg-5" data-aos="fade-left">
+        <div class="row g-3">
+          <div class="col-4">
+            <div class="info-card text-center py-4">
+              <div style="font-size:1.8rem;color:var(--primary)" class="mb-2"><i class="bi bi-globe"></i></div>
+              <div style="font-size:0.85rem;font-weight:700;color:#fff">Web</div>
+            </div>
+          </div>
+          <div class="col-4">
+            <div class="info-card text-center py-4">
+              <div style="font-size:1.8rem;color:var(--primary)" class="mb-2"><i class="bi bi-android2"></i></div>
+              <div style="font-size:0.85rem;font-weight:700;color:#fff">Android</div>
+            </div>
+          </div>
+          <div class="col-4">
+            <div class="info-card text-center py-4">
+              <div style="font-size:1.8rem;color:var(--primary)" class="mb-2"><i class="bi bi-apple"></i></div>
+              <div style="font-size:0.85rem;font-weight:700;color:#fff">iOS</div>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="info-card">
+              <div class="d-flex gap-2 flex-wrap justify-content-center py-2">
+                <span class="tech-badge">TypeScript</span>
+                <span class="tech-badge">Socket.IO</span>
+                <span class="tech-badge">React Native</span>
+                <span class="tech-badge">Expo</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ÜRÜN ÖZETİ -->
+<section class="bg-section-alt">
+  <div class="container">
+    <div class="row align-items-center gy-5">
+      <div class="col-lg-6" data-aos="fade-right">
+        <div class="section-tag"><i class="bi bi-info-circle"></i> Ürün Özeti</div>
+        <h2 class="section-title">CKmesaj <span class="highlight">Nedir?</span></h2>
+        <p class="text-muted mb-4">CKmesaj, gerçek zamanlı mesajlaşma altyapısı sunan, web ve mobil platformlarda çalışan modern bir iletişim platformudur.</p>
+        <ul class="check-list">
+          <li><i class="bi bi-check-circle-fill"></i> Socket.IO ile anlık, düşük gecikmeli mesajlaşma</li>
+          <li><i class="bi bi-check-circle-fill"></i> SMS ile telefon numarası doğrulama sistemi</li>
+          <li><i class="bi bi-check-circle-fill"></i> QR kod ile cihaz eşleştirme</li>
+          <li><i class="bi bi-check-circle-fill"></i> Profil yönetimi ve hikaye paylaşımı</li>
+          <li><i class="bi bi-check-circle-fill"></i> Grup sohbet oluşturma ve yönetimi</li>
+          <li><i class="bi bi-check-circle-fill"></i> Admin paneli ile platform yönetimi</li>
+          <li><i class="bi bi-check-circle-fill"></i> Web, Android ve iOS tam uyumluluk</li>
+          <li><i class="bi bi-check-circle-fill"></i> JWT ile güvenli kimlik doğrulama</li>
+        </ul>
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <div class="hero-code-card">
+          <div class="code-card-header">
+            <span class="code-dot red"></span><span class="code-dot yellow"></span><span class="code-dot green"></span>
+            <span class="code-card-title">server.ts</span>
+          </div>
+          <div class="code-card-body">
+            <div class="code-line"><span class="code-num">1</span><span class="code-kw">import </span><span>{ Server } </span><span class="code-kw">from </span><span class="code-str">'socket.io'</span></div>
+            <div class="code-line"><span class="code-num">2</span><span class="code-kw">import </span><span>express </span><span class="code-kw">from </span><span class="code-str">'express'</span></div>
+            <div class="code-line"><span class="code-num">3</span><span></span></div>
+            <div class="code-line"><span class="code-num">4</span><span class="code-kw">const </span><span class="code-teal">io</span><span> = </span><span class="code-kw">new </span><span class="code-fn">Server</span><span>(server, {</span></div>
+            <div class="code-line"><span class="code-num">5</span><span>&nbsp;&nbsp;cors: { origin: </span><span class="code-str">'*'</span><span> }</span></div>
+            <div class="code-line"><span class="code-num">6</span><span>})</span></div>
+            <div class="code-line"><span class="code-num">7</span><span></span></div>
+            <div class="code-line"><span class="code-num">8</span><span class="code-teal">io</span><span>.</span><span class="code-fn">on</span><span>(</span><span class="code-str">'connection'</span><span>, (socket) => {</span></div>
+            <div class="code-line"><span class="code-num">9</span><span>&nbsp;&nbsp;socket.</span><span class="code-fn">on</span><span>(</span><span class="code-str">'message'</span><span>, (msg) => {</span></div>
+            <div class="code-line"><span class="code-num">10</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="code-teal">io</span><span>.</span><span class="code-fn">to</span><span>(msg.room).</span><span class="code-fn">emit</span><span>(msg)</span></div>
+            <div class="code-line"><span class="code-num">11</span><span>&nbsp;&nbsp;})</span></div>
+            <div class="code-line"><span class="code-num">12</span><span>})</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ÖZELLİKLER -->
+<section id="ozellikler">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-stars"></i> Özellikler</div>
+      <h2 class="section-title">Temel <span class="highlight">Özellikler</span></h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-lightning"></i></div>
+          <h6>Real-time (Socket.IO)</h6>
+          <p>Milisaniye gecikmeli anlık mesajlaşma altyapısı</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="60">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-phone"></i></div>
+          <h6>SMS Doğrulama</h6>
+          <p>Twilio entegrasyonu ile SMS OTP doğrulama</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="120">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-qr-code"></i></div>
+          <h6>QR Eşleştirme</h6>
+          <p>WhatsApp benzeri QR kod ile cihaz bağlama</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="180">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-person-circle"></i></div>
+          <h6>Profil & Hikaye</h6>
+          <p>Kişiselleştirilebilir profil ve 24 saatlik hikayeler</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-people"></i></div>
+          <h6>Grup Sohbet</h6>
+          <p>Grup oluşturma, yönetici atama, üye yönetimi</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="60">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-speedometer2"></i></div>
+          <h6>Admin Panel</h6>
+          <p>Kullanıcı, içerik ve platform yönetim paneli</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="120">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-devices"></i></div>
+          <h6>Cross-Platform</h6>
+          <p>Web tarayıcı, Android APK ve iOS App Store</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="180">
+        <div class="feature-card">
+          <div class="fi"><i class="bi bi-lock"></i></div>
+          <h6>Güvenli Auth</h6>
+          <p>JWT token tabanlı güvenli kimlik doğrulama</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MİMARİ -->
+<section class="bg-section-alt">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-diagram-3"></i> Mimari</div>
+      <h2 class="section-title">Monorepo <span class="highlight">Yapısı</span></h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="info-card h-100">
+          <h6><i class="bi bi-browser-chrome me-2"></i>Web (web/)</h6>
+          <ul class="check-list">
+            <li><i class="bi bi-check-circle-fill"></i> React + Vite</li>
+            <li><i class="bi bi-check-circle-fill"></i> TypeScript</li>
+            <li><i class="bi bi-check-circle-fill"></i> Socket.IO Client</li>
+            <li><i class="bi bi-check-circle-fill"></i> Tailwind CSS</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3" data-aos="fade-up" data-aos-delay="60">
+        <div class="info-card h-100">
+          <h6><i class="bi bi-phone me-2"></i>Mobil (mobile/)</h6>
+          <ul class="check-list">
+            <li><i class="bi bi-check-circle-fill"></i> React Native</li>
+            <li><i class="bi bi-check-circle-fill"></i> Expo</li>
+            <li><i class="bi bi-check-circle-fill"></i> TypeScript</li>
+            <li><i class="bi bi-check-circle-fill"></i> Expo Push</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3" data-aos="fade-up" data-aos-delay="120">
+        <div class="info-card h-100">
+          <h6><i class="bi bi-server me-2"></i>Sunucu (server/)</h6>
+          <ul class="check-list">
+            <li><i class="bi bi-check-circle-fill"></i> Node.js + Express</li>
+            <li><i class="bi bi-check-circle-fill"></i> Socket.IO</li>
+            <li><i class="bi bi-check-circle-fill"></i> MongoDB</li>
+            <li><i class="bi bi-check-circle-fill"></i> PM2 + Nginx</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3" data-aos="fade-up" data-aos-delay="180">
+        <div class="info-card h-100">
+          <h6><i class="bi bi-share me-2"></i>Ortak (shared/)</h6>
+          <ul class="check-list">
+            <li><i class="bi bi-check-circle-fill"></i> TypeScript Types</li>
+            <li><i class="bi bi-check-circle-fill"></i> Yardımcı Fonksiyon</li>
+            <li><i class="bi bi-check-circle-fill"></i> Socket Events</li>
+            <li><i class="bi bi-check-circle-fill"></i> API Şemaları</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PLATFORM UYUMU -->
+<section>
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-check-all"></i> Platform Uyumu</div>
+      <h2 class="section-title">Desteklenen <span class="highlight">Platformlar</span></h2>
+    </div>
+    <div class="table-responsive" data-aos="fade-up">
+      <table class="table-dark-kodzen w-100">
+        <thead>
+          <tr>
+            <th>Platform</th>
+            <th>Mesajlaşma</th>
+            <th>Bildirimler</th>
+            <th>Medya Paylaşım</th>
+            <th>Durum</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><i class="bi bi-browser-chrome me-2 text-primary-kodzen"></i>Web (Tarayıcı)</td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><span class="badge-teal">Aktif</span></td>
+          </tr>
+          <tr>
+            <td><i class="bi bi-android2 me-2 text-primary-kodzen"></i>Android</td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><span class="badge-teal">Aktif</span></td>
+          </tr>
+          <tr>
+            <td><i class="bi bi-apple me-2 text-primary-kodzen"></i>iOS</td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><i class="bi bi-check-circle-fill check"></i></td>
+            <td><span class="badge-teal">Aktif</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="text-center mt-4" data-aos="fade-up">
+      <span class="tech-badge">TypeScript</span>
+      <span class="tech-badge">Node.js</span>
+      <span class="tech-badge">React</span>
+      <span class="tech-badge">React Native</span>
+      <span class="tech-badge">Expo</span>
+      <span class="tech-badge">Socket.IO</span>
+      <span class="tech-badge">Express</span>
+      <span class="tech-badge">MongoDB</span>
+      <span class="tech-badge">Twilio</span>
+      <span class="tech-badge">PM2</span>
+      <span class="tech-badge">Nginx</span>
+    </div>
+  </div>
+</section>
+
+<!-- DEMO CTA -->
+<section class="cta-banner">
+  <div class="container text-center position-relative" style="z-index:1" data-aos="zoom-in">
+    <h2 class="fs-1 fw-900 mb-3 text-white">CKmesaj'ı Deneyin</h2>
+    <p class="fs-5 mb-4 text-white opacity-90">Gerçek zamanlı mesajlaşma altyapısını kendi ekibinizde test edin.</p>
+    <a href="demo.html" class="btn-cta-white"><i class="bi bi-calendar-check"></i> Demo Talep Et</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-4">
+        <div class="footer-brand">
+          <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+          <div style="font-size:.6rem;letter-spacing:4px;color:var(--text-dim);text-transform:uppercase;font-weight:600;margin-top:2px">TEKNOLOJİ</div>
+        </div>
+        <p class="footer-desc">Yazılım geliştirme, GIS/SCADA altyapı sistemleri ve kurumsal BT çözümleri.</p>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Ürünler</div>
+        <ul class="footer-links">
+          <li><a href="ai-gis.html">AI-GIS System</a></li>
+          <li><a href="whatsypzck.html">WhatsYpzck</a></li>
+          <li><a href="ckmesaj.html">CKmesaj</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Sayfalar</div>
+        <ul class="footer-links">
+          <li><a href="index.html">Ana Sayfa</a></li>
+          <li><a href="webgelistirme.html">Web Hizmetleri</a></li>
+          <li><a href="fiyatlar.html">Fiyatlar</a></li>
+          <li><a href="galeri.html">Galeri</a></li>
+          <li><a href="demo.html">Demo</a></li>
+          <li><a href="siberguvenik.html">Siber Güvenlik</a></li>
+          <li><a href="scada.html">SCADA</a></li>
+          <li><a href="temalar.html">Temalar</a></li>
+          <li><a href="iletisim.html">İletişim</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <div class="footer-heading">İletişim</div>
+        <div class="footer-contact-item"><i class="bi bi-geo-alt"></i> Artvin, Türkiye</div>
+        <div class="footer-contact-item"><i class="bi bi-telephone"></i> <a href="tel:05458966096">0545 896 6096</a></div>
+        <div class="footer-contact-item"><i class="bi bi-envelope"></i> <a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+      </div>
+    </div>
+    <hr class="footer-divider">
+    <div class="footer-bottom">
+      <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOLOJİ</span> — Tüm hakları saklıdır.</p>
+    <p class="footer-copy mb-0 mt-1"><a href="privacy.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Gizlilik Politikası</a> &nbsp;|&nbsp; <a href="terms.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Kullanım Koşulları</a></p>
+    </div>
+  </div>
+</footer>
+
+<!-- LIVE CHAT -->
+<div class="live-chat-widget">
+  <a id="liveChatBtn" href="https://wa.me/905458966096" target="_blank" class="chat-toggle-btn" title="WhatsApp">
+    <span class="pulse-ring"></span>
+    <i class="bi bi-whatsapp"></i>
+  </a>
+</div>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/transitions.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "CKmesaj",
+  "applicationCategory": "CommunicationApplication",
+  "operatingSystem": "Web, Android, iOS",
+  "description": "Gerçek zamanlı mesajlaşma platformu. Socket.IO, SMS doğrulama, QR eşleştirme.",
+  "provider": {"@type": "Organization", "name": "KODZEN TEKNOLOJİ", "url": "https://kodzen.io"}
+}
+</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>
+

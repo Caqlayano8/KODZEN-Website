@@ -1,0 +1,512 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SCADA & Endüstriyel Otomasyon Sistemleri | KODZEN TEKNOLOJİ</title>
+  <meta name="description" content="SCADA sistemleri ve endüstriyel otomasyon. GIS entegrasyonlu altyapı yönetimi. KODZEN TEKNOLOJİ Artvin Türkiye.">
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <link rel="canonical" href="https://kodzen.io/scada.html">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Çağlayan Kurtoğlu — KODZEN TEKNOLOJİ">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SCADA & Endüstriyel Otomasyon Sistemleri | KODZEN TEKNOLOJİ">
+  <meta property="og:description" content="KODZEN TEKNOLOJİ SCADA sistemleri, endüstriyel otomasyon, elektrik altyapı izleme ve GIS entegrasyon çözümleri.">
+  <meta property="og:url" content="https://kodzen.io/scada.html">
+  <meta property="og:image" content="https://kodzen.io/images/og-kodzen.jpg">
+  <meta property="og:site_name" content="KODZEN TEKNOLOJİ">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SCADA & Endüstriyel Otomasyon | KODZEN TEKNOLOJİ">
+  <meta name="twitter:description" content="Yapay zeka destekli SCADA sistemleriyle endüstriyel süreçlerinizi optimize edin.">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .stat-mini {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px 14px;
+      font-size: .82rem;
+      color: var(--text-muted);
+    }
+    .stat-mini span {
+      color: var(--primary);
+      font-weight: 800;
+      margin-right: 4px;
+    }
+  </style>
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJİ</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Ürünler</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>
+            <li><a class="dropdown-item" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>
+            <li><a class="dropdown-item" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>
+            <li><a class="dropdown-item" href="viralbotpro.html"><i class="bi bi-play-circle me-2 text-primary-kodzen"></i>ViralBot Pro</a></li>
+          <li><a class="dropdown-item" href="siparis.html"><i class="bi bi-bag-heart me-2" style="color:#f7931e"></i>Siparım — Yemek Platformu</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="webgelistirme.html">Web Hizmetleri</a></li>
+        <li class="nav-item"><a class="nav-link" href="siberguvenik.html">Siber Güvenlik</a></li>
+        <li class="nav-item"><a class="nav-link" href="scada.html">SCADA</a></li>
+        <li class="nav-item"><a class="nav-link" href="fiyatlar.html">Fiyatlar</a></li>
+        <li class="nav-item" data-nav="galeri"><a class="nav-link" href="galeri.html">Galeri</a></li>
+        <li class="nav-item"><a class="nav-link" href="demo.html">Demo</a></li>
+        <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+      </ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- ══════════════════ HERO ══════════════════ -->
+<section class="page-hero" style="padding:100px 0 60px">
+  <div class="container">
+    <div class="row align-items-center g-5">
+      <div class="col-lg-6" data-aos="fade-right">
+        <span class="page-hero-label"><i class="bi bi-cpu me-2"></i>Endüstriyel Otomasyon</span>
+        <h1 style="font-size:clamp(2rem,5vw,3.4rem);font-weight:900;margin:16px 0">
+          SCADA & <span class="gradient-text">Endüstriyel</span> Otomasyon
+        </h1>
+        <p style="color:var(--text-muted);font-size:1.1rem;margin-bottom:28px">
+          Altyapınızı Anlık İzleyin, Uzaktan Kontrol Edin. Yapay zeka destekli SCADA sistemleriyle endüstriyel süreçlerinizi optimize edin.
+        </p>
+        <div class="d-flex flex-wrap gap-3 mb-4">
+          <a href="scada-demo.html" class="btn-primary-kodzen">
+            <i class="bi bi-display"></i> SCADA Demo'yu Aç
+          </a>
+          <a href="#teklif" class="btn-outline-kodzen">
+            <i class="bi bi-envelope"></i> Teklif Al
+          </a>
+        </div>
+        <div class="d-flex flex-wrap gap-3">
+          <div class="stat-mini"><span>12+</span> Aktif Sistem</div>
+          <div class="stat-mini"><span>Gerçek</span> Zamanlı</div>
+          <div class="stat-mini"><span>AI</span> Destekli</div>
+          <div class="stat-mini"><span>GIS</span> Entegre</div>
+        </div>
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <!-- Industrial visual — CSS-drawn SCADA screen -->
+        <div style="background:#070b0f;border:1px solid rgba(0,196,160,.2);border-radius:16px;padding:20px;font-family:'JetBrains Mono',monospace">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:16px;border-bottom:1px solid rgba(255,255,255,.07);padding-bottom:12px">
+            <div style="width:10px;height:10px;background:#f43f5e;border-radius:50%"></div>
+            <div style="width:10px;height:10px;background:#fbbf24;border-radius:50%"></div>
+            <div style="width:10px;height:10px;background:#22c55e;border-radius:50%"></div>
+            <span style="color:var(--text-dim);font-size:.75rem;margin-left:8px">SCADA Kontrol Merkezi v3.2</span>
+          </div>
+          <div style="color:#00c4a0;font-size:.8rem;line-height:2">
+            <div>STATUS: <span style="color:#22c55e">● AKTİF</span></div>
+            <div>İSTASYON: <span style="color:#fff">12/12 ONLINE</span></div>
+            <div>ALARM: <span style="color:#f43f5e">2 AKTİF ALARM</span></div>
+            <div>GÜÇ: <span style="color:#fbbf24">2.4 MW</span></div>
+            <div>VOLTAJ: <span style="color:#fff">34.5 kV</span></div>
+            <div style="margin-top:8px;padding-top:8px;border-top:1px solid rgba(255,255,255,.07)">
+              <span style="color:#94a3b8">[14:23:01]</span> TF-04 voltaj uyarısı<br>
+              <span style="color:#94a3b8">[14:18:47]</span> TF-03 akım uyarısı<br>
+              <span style="color:#94a3b8">[14:10:00]</span> Sistem başlatıldı
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════ DEMO BANNER ══════════════════ -->
+<section style="padding:40px 0">
+  <div class="container">
+    <div data-aos="fade-up" style="background:linear-gradient(135deg,rgba(0,196,160,.12),rgba(0,196,160,.03));border:1px solid var(--border-teal);border-radius:20px;padding:40px;display:flex;align-items:center;gap:30px;flex-wrap:wrap">
+      <div style="font-size:4rem">🖥️</div>
+      <div style="flex:1;min-width:200px">
+        <div class="section-tag mb-2"><i class="bi bi-display me-1"></i>Canlı Demo</div>
+        <h3 style="font-weight:900;margin-bottom:8px">SCADA Kontrol Merkezi Demo</h3>
+        <p style="color:var(--text-muted);margin:0">Gerçek zamanlı istasyon izleme, alarm yönetimi, voltaj grafikleri ve daha fazlasını canlı olarak deneyimleyin.</p>
+      </div>
+      <a href="scada-demo.html" class="btn-primary-kodzen" style="white-space:nowrap">
+        <i class="bi bi-display"></i> Demoyu Aç
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════ HİZMETLER ══════════════════ -->
+<section>
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-cpu me-1"></i>Hizmetler</div>
+      <h2 class="section-title">SCADA <span class="highlight">Hizmetlerimiz</span></h2>
+      <p class="section-subtitle mx-auto">Elektrik altyapısından üretim tesislerine, endüstriyel otomasyon çözümlerimiz.</p>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card h-100">
+          <div class="feature-icon-box">
+            <i class="bi bi-server"></i>
+          </div>
+          <h5 class="feature-title">SCADA Kurulumu</h5>
+          <p class="feature-desc">Turnkey SCADA sistem kurulumu, konfigürasyon ve devreye alma. Sahaya özel mühendislik çözümleri.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="60">
+        <div class="feature-card h-100">
+          <div class="feature-icon-box">
+            <i class="bi bi-cpu"></i>
+          </div>
+          <h5 class="feature-title">PLC Programlama</h5>
+          <p class="feature-desc">Siemens, Allen Bradley, Schneider PLC programlama ve optimizasyon. Endüstriyel kontrol mantığı geliştirme.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="120">
+        <div class="feature-card h-100">
+          <div class="feature-icon-box">
+            <i class="bi bi-display"></i>
+          </div>
+          <h5 class="feature-title">HMI Tasarımı</h5>
+          <p class="feature-desc">Operatör dostu, kullanıcı arayüzü ve vizualizasyon tasarımı. Sezgisel kontrol panelleri.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card h-100">
+          <div class="feature-icon-box">
+            <i class="bi bi-wifi"></i>
+          </div>
+          <h5 class="feature-title">Uzak İzleme</h5>
+          <p class="feature-desc">7/24 uzaktan izleme, alarm yönetimi ve anlık bildirim sistemi. Mobil ve web erişimi.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="60">
+        <div class="feature-card h-100">
+          <div class="feature-icon-box">
+            <i class="bi bi-map"></i>
+          </div>
+          <h5 class="feature-title">GIS Entegrasyon</h5>
+          <p class="feature-desc">Coğrafi bilgi sistemleri ile SCADA entegrasyonu, altyapı haritalama ve mekansal analiz.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="120">
+        <div class="feature-card h-100">
+          <div class="feature-icon-box">
+            <i class="bi bi-tools"></i>
+          </div>
+          <h5 class="feature-title">Bakım & Destek</h5>
+          <p class="feature-desc">Periyodik bakım, sistem güncellemeleri ve teknik destek hizmetleri. Uzun vadeli ortaklık.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════ SEKTÖRLER ══════════════════ -->
+<section class="bg-section-alt">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-building me-1"></i>Sektörler</div>
+      <h2 class="section-title">Uygulandığı <span class="highlight">Sektörler</span></h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card h-100 text-center">
+          <div class="feature-icon-box mx-auto" style="background:rgba(251,191,36,.06);border:1px solid rgba(251,191,36,.15)">
+            <i class="bi bi-lightning-charge" style="color:#fbbf24"></i>
+          </div>
+          <h5 class="feature-title">Elektrik Dağıtımı</h5>
+          <p class="feature-desc">Trafo merkezleri, iletim hatları, dağıtım şebekeleri ve enerji yönetim sistemleri.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="60">
+        <div class="feature-card h-100 text-center">
+          <div class="feature-icon-box mx-auto" style="background:rgba(96,165,250,.06);border:1px solid rgba(96,165,250,.15)">
+            <i class="bi bi-droplet" style="color:#60a5fa"></i>
+          </div>
+          <h5 class="feature-title">Su & Atıksu</h5>
+          <p class="feature-desc">Su arıtma tesisleri, pompa istasyonları, depo yönetimi ve kanalizasyon sistemleri.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="120">
+        <div class="feature-card h-100 text-center">
+          <div class="feature-icon-box mx-auto" style="background:rgba(249,115,22,.06);border:1px solid rgba(249,115,22,.15)">
+            <i class="bi bi-fire" style="color:#f97316"></i>
+          </div>
+          <h5 class="feature-title">Doğalgaz</h5>
+          <p class="feature-desc">Boru hatları, basınç regülasyonu, gaz dağıtım ağları ve güvenlik sistemleri.</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="180">
+        <div class="feature-card h-100 text-center">
+          <div class="feature-icon-box mx-auto" style="background:rgba(168,85,247,.06);border:1px solid rgba(168,85,247,.15)">
+            <i class="bi bi-gear" style="color:#a855f7"></i>
+          </div>
+          <h5 class="feature-title">Üretim Tesisi</h5>
+          <p class="feature-desc">Fabrika otomasyonu, proses kontrolü, kalite izleme ve üretim hattı yönetimi.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════ AVANTAJLAR ══════════════════ -->
+<section>
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-patch-check me-1"></i>Avantajlar</div>
+      <h2 class="section-title">Neden <span class="highlight">KODZEN SCADA?</span></h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="feature-card h-100 text-center">
+          <div class="feature-icon-box mx-auto">
+            <i class="bi bi-speedometer2"></i>
+          </div>
+          <h5 class="feature-title">Gerçek Zamanlı İzleme</h5>
+          <p class="feature-desc">Tüm istasyonlarınızı milisaniye hassasiyetiyle anlık olarak izleyin. Veri gecikmesi yok, kesintisiz akış.</p>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="60">
+        <div class="feature-card h-100 text-center">
+          <div class="feature-icon-box mx-auto">
+            <i class="bi bi-phone"></i>
+          </div>
+          <h5 class="feature-title">Uzaktan Kontrol</h5>
+          <p class="feature-desc">Sahaya çıkmadan, web veya mobil üzerinden sisteminizi kontrol edin. Her yerden tam erişim.</p>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="120">
+        <div class="feature-card h-100 text-center">
+          <div class="feature-icon-box mx-auto">
+            <i class="bi bi-bell"></i>
+          </div>
+          <h5 class="feature-title">Alarm Yönetimi</h5>
+          <p class="feature-desc">Yapay zeka destekli anomali tespiti ve öncelikli alarm yönetimi. Kritik olaylara anında tepki.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════ SCADA DEMO CTA ══════════════════ -->
+<section class="bg-section-alt">
+  <div class="container">
+    <div class="text-center" data-aos="fade-up" style="padding:20px 0">
+      <div class="section-tag mx-auto mb-4"><i class="bi bi-display me-1"></i>Canlı Demo</div>
+      <h2 class="section-title">SCADA Sisteminizi <span class="highlight">Modernize Edin</span></h2>
+      <p class="section-subtitle mx-auto" style="max-width:520px">Canlı SCADA demo panelimizle gerçek zamanlı izleme, alarm yönetimi ve veri görselleştirme özelliklerini keşfedin.</p>
+      <a href="scada-demo.html" class="btn-primary-kodzen mt-3" data-aos="fade-up" data-aos-delay="60" style="font-size:1rem;padding:14px 36px">
+        <i class="bi bi-display"></i> SCADA Demo'yu Aç
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════ TEKLİF FORMU ══════════════════ -->
+<section id="teklif">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-envelope me-1"></i>Teklif</div>
+      <h2 class="section-title">SCADA Teklifi <span class="highlight">İste</span></h2>
+      <p class="section-subtitle mx-auto">Projenizin detaylarını paylaşın, size özel çözüm suналım. İlk değerlendirme ücretsizdir.</p>
+    </div>
+    <div class="row g-5 justify-content-center">
+      <div class="col-lg-7" data-aos="fade-right">
+        <div class="form-card">
+          <form id="scadaForm" novalidate>
+            <div class="row g-3">
+              <div class="col-sm-6">
+                <label class="form-label-dark">Ad Soyad *</label>
+                <input type="text" id="scadaName" class="form-control-dark" placeholder="Adınız Soyadınız" required>
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-dark">E-posta *</label>
+                <input type="email" id="scadaEmail" class="form-control-dark" placeholder="ornek@email.com" required>
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-dark">Telefon</label>
+                <input type="tel" id="scadaPhone" class="form-control-dark" placeholder="0555 000 0000">
+              </div>
+              <div class="col-sm-6">
+                <label class="form-label-dark">Hizmet Türü</label>
+                <select id="scadaService" class="form-control-dark">
+                  <option value="">Seçiniz</option>
+                  <option>SCADA Kurulumu</option>
+                  <option>PLC Programlama</option>
+                  <option>HMI Tasarımı</option>
+                  <option>Uzak İzleme</option>
+                  <option>GIS Entegrasyon</option>
+                  <option>Bakım & Destek</option>
+                </select>
+              </div>
+              <div class="col-12">
+                <label class="form-label-dark">Proje Detayları</label>
+                <textarea id="scadaMsg" class="form-control-dark" rows="4" placeholder="Projenizin kapsamını, mevcut altyapınızı ve beklentilerinizi kısaca açıklayın..."></textarea>
+              </div>
+              <div class="col-12">
+                <button type="submit" class="btn-primary-kodzen w-100 justify-content-center" style="padding:14px;font-size:1rem">
+                  <i class="bi bi-send"></i> Teklif Talep Et
+                </button>
+              </div>
+            </div>
+          </form>
+          <div id="scadaSuccess" style="display:none;background:rgba(0,196,160,.08);border:1px solid rgba(0,196,160,.25);border-radius:10px;padding:16px;margin-top:16px;text-align:center;color:#00c4a0">
+            <i class="bi bi-check-circle-fill fs-4 d-block mb-2"></i>
+            <strong>Talebiniz alındı!</strong><br><small style="color:var(--text-muted)">24 saat içinde sizinle iletişime geçeceğiz.</small>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4" data-aos="fade-left">
+        <div class="info-card mb-4">
+          <h5 style="font-weight:800;color:#fff;margin-bottom:16px"><i class="bi bi-patch-check-fill me-2" style="color:var(--primary)"></i>Neden KODZEN SCADA?</h5>
+          <div style="display:flex;flex-direction:column;gap:12px">
+            <div style="display:flex;gap:10px;align-items:flex-start"><span style="color:#00c4a0;font-size:1rem;margin-top:1px">✔</span><span style="font-size:.87rem;color:var(--text-muted)">Endüstriyel standartlara uygun (IEC 61850, DNP3, Modbus)</span></div>
+            <div style="display:flex;gap:10px;align-items:flex-start"><span style="color:#00c4a0;font-size:1rem;margin-top:1px">✔</span><span style="font-size:.87rem;color:var(--text-muted)">GIS entegrasyonu ile coğrafi altyapı görüntüleme</span></div>
+            <div style="display:flex;gap:10px;align-items:flex-start"><span style="color:#00c4a0;font-size:1rem;margin-top:1px">✔</span><span style="font-size:.87rem;color:var(--text-muted)">Yapay zeka ile anomali tespiti ve öngörücü bakım</span></div>
+            <div style="display:flex;gap:10px;align-items:flex-start"><span style="color:#00c4a0;font-size:1rem;margin-top:1px">✔</span><span style="font-size:.87rem;color:var(--text-muted)">Mobil ve web tabanlı uzaktan erişim</span></div>
+            <div style="display:flex;gap:10px;align-items:flex-start"><span style="color:#00c4a0;font-size:1rem;margin-top:1px">✔</span><span style="font-size:.87rem;color:var(--text-muted)">7/24 teknik destek ve bakım hizmetleri</span></div>
+          </div>
+        </div>
+        <div style="background:rgba(0,196,160,.07);border:1px solid rgba(0,196,160,.2);border-radius:14px;padding:20px">
+          <div style="font-size:.72rem;letter-spacing:2px;text-transform:uppercase;color:var(--primary);font-weight:700;margin-bottom:10px">Hızlı İletişim</div>
+          <a href="tel:05458966096" style="display:flex;align-items:center;gap:8px;color:#fff;text-decoration:none;font-weight:600;margin-bottom:8px"><i class="bi bi-telephone-fill" style="color:var(--primary)"></i>0545 896 6096</a>
+          <a href="https://wa.me/905458966096?text=Merhaba%2C%20SCADA%20sistemleri%20hakk%C4%B1nda%20teklif%20almak%20istiyorum." target="_blank" style="display:flex;align-items:center;gap:8px;background:#25d366;color:#fff;font-weight:700;padding:10px 14px;border-radius:8px;text-decoration:none;font-size:.9rem"><i class="bi bi-whatsapp"></i>WhatsApp'tan Yaz</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════ WHATSAPP BAR ══════════════════ -->
+<section style="padding:40px 0">
+  <div class="container">
+    <div style="background:rgba(37,211,102,.07);border:1px solid rgba(37,211,102,.2);border-radius:16px;padding:24px 32px">
+      <div class="row align-items-center g-3">
+        <div class="col-lg-8 d-flex align-items-center gap-4">
+          <div style="width:64px;height:64px;min-width:64px;background:rgba(37,211,102,.15);border:2px solid rgba(37,211,102,.35);border-radius:18px;display:flex;align-items:center;justify-content:center;font-size:2rem;color:#25d366">
+            <i class="bi bi-whatsapp"></i>
+          </div>
+          <div>
+            <div class="section-tag mb-2" style="background:rgba(37,211,102,.1);border-color:rgba(37,211,102,.3);color:#25d366"><i class="bi bi-headset"></i> Canlı Destek</div>
+            <h3 style="font-weight:800;margin:0 0 6px">SCADA Danışmanlık Hattı</h3>
+            <p style="color:var(--text-muted);margin:0;font-size:.9rem">Destek hattımız <strong style="color:#fff">09:00 – 18:00</strong> saatleri arasında aktiftir · <a href="tel:05458966096" style="color:#fff;font-weight:700">0545 896 6096</a></p>
+          </div>
+        </div>
+        <div class="col-lg-4 text-lg-end">
+          <a href="https://wa.me/905458966096?text=Merhaba, SCADA sistemleri hakkında bilgi almak istiyorum." target="_blank" style="display:inline-flex;align-items:center;gap:10px;background:#25d366;color:#fff;font-weight:700;font-size:1rem;padding:14px 32px;border-radius:12px;text-decoration:none;white-space:nowrap">
+            <i class="bi bi-whatsapp fs-5"></i> WhatsApp'ta Yaz
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════ FOOTER ══════════════════ -->
+<footer class="footer">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-4">
+        <div class="footer-brand">
+          <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+          <div style="font-size:.6rem;letter-spacing:4px;color:var(--text-dim);text-transform:uppercase;font-weight:600;margin-top:2px">TEKNOLOJİ</div>
+        </div>
+        <p class="footer-desc">Yazılım geliştirme, GIS/SCADA altyapı sistemleri ve kurumsal BT çözümleri.</p>
+        <div class="social-links mt-3">
+          <a href="https://github.com/Caqlayano8" target="_blank" class="social-link"><i class="bi bi-github"></i></a>
+          <a href="mailto:kurtoqluo8@gmail.com" class="social-link"><i class="bi bi-envelope"></i></a>
+          <a href="https://wa.me/905458966096" target="_blank" class="social-link"><i class="bi bi-whatsapp"></i></a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Ürünler</div>
+        <ul class="footer-links">
+          <li><a href="ai-gis.html">AI-GIS System</a></li>
+          <li><a href="whatsypzck.html">WhatsYpzck</a></li>
+          <li><a href="ckmesaj.html">CKmesaj</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Sayfalar</div>
+        <ul class="footer-links">
+          <li><a href="index.html">Ana Sayfa</a></li>
+          <li><a href="webgelistirme.html">Web Hizmetleri</a></li>
+          <li><a href="siberguvenik.html">Siber Güvenlik</a></li>
+          <li><a href="scada.html">SCADA</a></li>
+          <li><a href="temalar.html">Temalar</a></li>
+          <li><a href="fiyatlar.html">Fiyatlar</a></li>
+          <li><a href="galeri.html">Galeri</a></li>
+          <li><a href="demo.html">Demo</a></li>
+          <li><a href="iletisim.html">İletişim</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <div class="footer-heading">İletişim</div>
+        <div class="footer-contact-item"><i class="bi bi-geo-alt"></i> Artvin, Türkiye</div>
+        <div class="footer-contact-item"><i class="bi bi-telephone"></i> <a href="tel:05458966096">0545 896 6096</a></div>
+        <div class="footer-contact-item"><i class="bi bi-envelope"></i> <a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+        <div class="footer-contact-item"><i class="bi bi-github"></i> <a href="https://github.com/Caqlayano8" target="_blank">github.com/Caqlayano8</a></div>
+      </div>
+    </div>
+    <hr class="footer-divider">
+    <div class="footer-bottom">
+      <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOJİ</span> — Tüm hakları saklıdır.</p>
+    <p class="footer-copy mb-0 mt-1"><a href="privacy.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Gizlilik Politikası</a> &nbsp;|&nbsp; <a href="terms.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Kullanım Koşulları</a></p>
+    </div>
+  </div>
+</footer>
+
+<!-- LIVE CHAT -->
+<div class="live-chat-widget">
+  <a id="liveChatBtn" href="https://wa.me/905458966096" target="_blank" class="chat-toggle-btn" title="WhatsApp">
+    <span class="pulse-ring"></span>
+    <i class="bi bi-whatsapp"></i>
+  </a>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/transitions.js"></script>
+<script>
+document.getElementById('scadaForm').addEventListener('submit', function(e) {
+  e.preventDefault();
+  KodzenData.addDemoRequest({
+    name:    document.getElementById('scadaName').value,
+    email:   document.getElementById('scadaEmail').value,
+    phone:   document.getElementById('scadaPhone').value,
+    product: 'SCADA — ' + (document.getElementById('scadaService').value || 'Genel'),
+    message: document.getElementById('scadaMsg').value
+  });
+  document.getElementById('scadaSuccess').style.display = 'block';
+  this.reset();
+});
+</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>

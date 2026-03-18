@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TikTok Bağlantısı | KODZEN TEKNOLOJİ</title>
+  <link rel="stylesheet" href="../../../vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../../vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="../../../css/style.css">
+  <style>
+    body { display: flex; align-items: center; justify-content: center; min-height: 100vh; background: #0a0a1a; }
+    .callback-card { background: #1a1a2e; border: 1px solid #333; border-radius: 16px; padding: 48px; text-align: center; max-width: 480px; width: 100%; }
+    .spinner-tiktok { width: 56px; height: 56px; border: 4px solid #333; border-top-color: #00f2ea; border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto 24px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+<div class="callback-card">
+  <div id="loadingState">
+    <div class="spinner-tiktok"></div>
+    <h4 class="text-white mb-2">TikTok Bağlantısı Tamamlanıyor</h4>
+    <p class="text-muted">ViralBot Pro uygulamasına yönlendiriliyorsunuz...</p>
+  </div>
+  <div id="successState" style="display:none;">
+    <div class="mb-3" style="font-size:56px;">✅</div>
+    <h4 class="text-white mb-2">Bağlantı Başarılı!</h4>
+    <p class="text-muted">ViralBot Pro uygulamasına dönebilirsiniz.</p>
+    <small class="text-muted">Bu pencereyi kapatabilirsiniz.</small>
+  </div>
+  <div id="errorState" style="display:none;">
+    <div class="mb-3" style="font-size:56px;">❌</div>
+    <h4 class="text-white mb-2">Bağlantı Hatası</h4>
+    <p class="text-muted" id="errorMsg">Bir sorun oluştu. Lütfen tekrar deneyin.</p>
+  </div>
+</div>
+
+<script>
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const code = params.get('code');
+  const state = params.get('state');
+  const error = params.get('error');
+
+  if (error) {
+    document.getElementById('loadingState').style.display = 'none';
+    document.getElementById('errorState').style.display = 'block';
+    document.getElementById('errorMsg').textContent = 'TikTok erişimi reddedildi: ' + error;
+    return;
+  }
+
+  if (code) {
+    // Try to send to localhost (ViralBot Pro app)
+    fetch('http://localhost:8080/callback?code=' + encodeURIComponent(code) + '&state=' + encodeURIComponent(state || ''))
+      .then(() => {
+        document.getElementById('loadingState').style.display = 'none';
+        document.getElementById('successState').style.display = 'block';
+        setTimeout(() => window.close(), 3000);
+      })
+      .catch(() => {
+        // App may have already received it via redirect
+        document.getElementById('loadingState').style.display = 'none';
+        document.getElementById('successState').style.display = 'block';
+        setTimeout(() => window.close(), 3000);
+      });
+  } else {
+    document.getElementById('loadingState').style.display = 'none';
+    document.getElementById('errorState').style.display = 'block';
+    document.getElementById('errorMsg').textContent = 'Yetkilendirme kodu bulunamadı.';
+  }
+})();
+</script>
+</body>
+</html>

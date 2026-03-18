@@ -1,0 +1,556 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SCADA Kontrol Merkezi — KODZEN AI-GIS Demo</title>
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg:        #070b0f;
+      --bg-card:   #0d1117;
+      --bg-card2:  #111820;
+      --border:    rgba(255,255,255,.07);
+      --teal:      #00c4a0;
+      --red:       #f43f5e;
+      --yellow:    #fbbf24;
+      --blue:      #60a5fa;
+      --muted:     #94a3b8;
+      --dim:       #4a5568;
+    }
+    body { background: var(--bg); color: #e2e8f0; font-family: 'Inter', sans-serif; font-size: .9rem; padding-top: 58px; }
+
+    /* ── HEADER ── */
+    .scada-header {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+      background: #0a0f18;
+      border-bottom: 1px solid rgba(0,196,160,.15);
+      height: 58px;
+      display: flex; align-items: center; padding: 0 20px;
+      gap: 16px;
+    }
+    .scada-header .logo-area { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+    .scada-header .logo-text { font-weight: 900; font-size: 1rem; color: var(--teal); letter-spacing: 1px; }
+    .scada-header .logo-sub  { font-size: .65rem; color: var(--muted); margin-top: 2px; }
+    .scada-header .divider   { width: 1px; height: 28px; background: var(--border); }
+    .scada-header .page-title{ font-weight: 700; font-size: .85rem; color: #cbd5e1; }
+    .clock-box { flex: 1; text-align: center; font-size: .82rem; color: var(--muted); }
+    .clock-box .time-val { font-size: 1.1rem; font-weight: 700; color: #fff; font-variant-numeric: tabular-nums; }
+    .header-right { display: flex; align-items: center; gap: 14px; flex-shrink: 0; }
+    .badge-active { background: rgba(34,197,94,.12); border: 1px solid rgba(34,197,94,.3); color: #22c55e; padding: 4px 12px; border-radius: 20px; font-size: .72rem; font-weight: 700; }
+    .back-link { color: var(--muted); text-decoration: none; font-size: .78rem; transition: color .2s; }
+    .back-link:hover { color: var(--teal); }
+
+    /* ── STATS ROW ── */
+    .stats-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; padding: 14px 16px; }
+    .stat-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 10px; padding: 14px 18px;
+      display: flex; align-items: center; gap: 14px;
+    }
+    .stat-icon { width: 38px; height: 38px; border-radius: 9px; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; flex-shrink: 0; }
+    .stat-value { font-size: 1.45rem; font-weight: 900; line-height: 1; }
+    .stat-label { font-size: .68rem; color: var(--muted); margin-top: 3px; text-transform: uppercase; letter-spacing: .8px; }
+    .c-teal   { color: var(--teal); }
+    .c-red    { color: var(--red); }
+    .c-yellow { color: var(--yellow); }
+    .c-blue   { color: var(--blue); }
+    .bg-teal   { background: rgba(0,196,160,.1); }
+    .bg-red    { background: rgba(244,63,94,.1); }
+    .bg-yellow { background: rgba(251,191,36,.1); }
+    .bg-blue   { background: rgba(96,165,250,.1); }
+
+    /* ── MAIN LAYOUT ── */
+    .main-panels { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 0 16px 12px; }
+    .bottom-panels { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 0 16px 12px; }
+    .panel-card {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 12px; padding: 18px;
+    }
+    .panel-card.alarm-card { border-color: rgba(244,63,94,.25); }
+    .panel-title { font-size: .78rem; font-weight: 800; text-transform: uppercase; letter-spacing: 1.2px; color: var(--muted); margin-bottom: 14px; display: flex; align-items: center; gap: 8px; justify-content: space-between; }
+    .panel-title .ts { font-size: .7rem; font-weight: 400; color: var(--dim); text-transform: none; letter-spacing: 0; }
+
+    /* ── MAP ── */
+    .grid-map { position: relative; background: #080d12; border-radius: 8px; padding: 20px; min-height: 240px; overflow: hidden; }
+    .backbone { position: absolute; top: 50%; left: 20px; right: 20px; height: 3px; background: linear-gradient(90deg, rgba(0,196,160,.5) 0%, rgba(0,196,160,.2) 50%, rgba(244,63,94,.5) 100%); transform: translateY(-50%); border-radius: 2px; }
+    .node-col { position: absolute; top: 0; display: flex; flex-direction: column; align-items: center; height: 100%; }
+    .vert-line { width: 2px; background: var(--dim); flex: 1; }
+    .node-circle {
+      width: 42px; height: 42px; border-radius: 50%;
+      border: 2px solid; display: flex; align-items: center; justify-content: center;
+      font-size: .62rem; font-weight: 800; flex-shrink: 0; position: relative;
+      background: var(--bg-card2);
+    }
+    .node-square {
+      width: 36px; height: 36px; border-radius: 6px;
+      border: 2px solid; display: flex; align-items: center; justify-content: center;
+      font-size: .58rem; font-weight: 800; flex-shrink: 0;
+      background: var(--bg-card2);
+    }
+    .node-green  { border-color: var(--teal);   color: var(--teal); }
+    .node-yellow { border-color: var(--yellow); color: var(--yellow); }
+    .node-red    { border-color: var(--red);    color: var(--red); }
+    .node-red.pulsing { animation: pulse-glow 1.4s ease-in-out infinite; }
+    @keyframes pulse-glow {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(244,63,94,.6); }
+      50%       { box-shadow: 0 0 0 10px rgba(244,63,94,0); }
+    }
+    .node-teal-glow { animation: pulse-glow-teal 2.5s ease-in-out infinite; }
+    @keyframes pulse-glow-teal {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(0,196,160,.4); }
+      50%       { box-shadow: 0 0 0 8px rgba(0,196,160,0); }
+    }
+    .node-icon { position: absolute; top: -8px; right: -8px; font-size: .65rem; }
+    .map-layout { display: flex; justify-content: space-around; align-items: stretch; height: 220px; }
+    .map-col { display: flex; flex-direction: column; align-items: center; }
+    .map-col .vert-line-up   { flex: 1; width: 2px; background: var(--dim); }
+    .map-col .vert-line-down { flex: 1; width: 2px; background: var(--dim); }
+    .map-row-spacer { height: 16px; }
+    .map-legend { display: flex; gap: 16px; margin-top: 14px; flex-wrap: wrap; }
+    .legend-item { display: flex; align-items: center; gap: 6px; font-size: .72rem; color: var(--muted); }
+    .legend-dot { width: 9px; height: 9px; border-radius: 50%; }
+
+    /* ── TABLE ── */
+    .data-table { width: 100%; border-collapse: collapse; }
+    .data-table th { font-size: .67rem; text-transform: uppercase; letter-spacing: .8px; color: var(--dim); padding: 6px 8px; border-bottom: 1px solid var(--border); text-align: left; }
+    .data-table td { padding: 8px 8px; border-bottom: 1px solid rgba(255,255,255,.04); font-size: .78rem; font-variant-numeric: tabular-nums; }
+    .data-table tr:last-child td { border-bottom: none; }
+    .data-table tr:hover td { background: rgba(255,255,255,.02); }
+    .status-badge { display: inline-block; padding: 2px 9px; border-radius: 20px; font-size: .67rem; font-weight: 700; }
+    .badge-normal { background: rgba(0,196,160,.12); color: var(--teal); border: 1px solid rgba(0,196,160,.25); }
+    .badge-warn   { background: rgba(251,191,36,.12); color: var(--yellow); border: 1px solid rgba(251,191,36,.25); }
+    .badge-alarm  { background: rgba(244,63,94,.12); color: var(--red); border: 1px solid rgba(244,63,94,.25); animation: blink-alarm 1s step-end infinite; }
+    @keyframes blink-alarm { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+    .station-name { font-weight: 600; color: #cbd5e1; }
+
+    /* ── ALARM PANEL ── */
+    .alarm-item {
+      background: var(--bg-card2); border-radius: 8px; padding: 12px 14px; margin-bottom: 10px;
+      border-left: 3px solid;
+    }
+    .alarm-item.high  { border-color: var(--red); }
+    .alarm-item.mid   { border-color: var(--yellow); }
+    .alarm-time { font-size: .68rem; color: var(--dim); margin-top: 4px; }
+    .alarm-msg  { font-size: .78rem; color: #cbd5e1; margin-top: 4px; }
+    .alarm-priority { font-size: .67rem; font-weight: 800; padding: 1px 8px; border-radius: 4px; display: inline-block; margin-bottom: 4px; }
+    .ap-high { background: rgba(244,63,94,.15); color: var(--red); }
+    .ap-mid  { background: rgba(251,191,36,.15); color: var(--yellow); }
+
+    /* ── SVG CHART ── */
+    .chart-wrap { background: #080d12; border-radius: 8px; padding: 14px; }
+
+    /* ── CONTROLS ── */
+    .controls-row { display: flex; gap: 10px; padding: 0 16px 12px; flex-wrap: wrap; }
+    .btn-scada {
+      padding: 9px 20px; border-radius: 8px; border: 1px solid; font-size: .8rem;
+      font-weight: 700; cursor: pointer; transition: all .2s; display: inline-flex; align-items: center; gap: 6px;
+      background: transparent;
+    }
+    .btn-scada-teal  { border-color: var(--teal);   color: var(--teal); }
+    .btn-scada-teal:hover  { background: rgba(0,196,160,.12); }
+    .btn-scada-red   { border-color: var(--red);    color: var(--red); }
+    .btn-scada-red:hover   { background: rgba(244,63,94,.12); }
+    .btn-scada-blue  { border-color: var(--blue);   color: var(--blue); }
+    .btn-scada-blue:hover  { background: rgba(96,165,250,.12); }
+
+    /* ── TOAST ── */
+    #toast-area { position: fixed; bottom: 24px; right: 24px; z-index: 9999; display: flex; flex-direction: column; gap: 8px; }
+    .scada-toast {
+      background: #161d28; border: 1px solid var(--border); border-radius: 10px;
+      padding: 12px 18px; font-size: .8rem; color: #e2e8f0;
+      box-shadow: 0 8px 32px rgba(0,0,0,.5);
+      display: flex; align-items: center; gap: 10px;
+      animation: toast-in .3s ease-out;
+      min-width: 260px;
+    }
+    @keyframes toast-in { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+
+    /* ── FOOTER ── */
+    .scada-footer { text-align: center; padding: 14px; font-size: .72rem; color: var(--dim); border-top: 1px solid var(--border); margin-top: 4px; }
+
+    @media (max-width: 900px) {
+      .main-panels, .bottom-panels { grid-template-columns: 1fr; }
+      .stats-row { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 500px) {
+      .stats-row { grid-template-columns: 1fr 1fr; }
+      .scada-header .page-title { display: none; }
+      .clock-box .date-val { display: none; }
+    }
+  </style>
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+<!-- ══════════════════ HEADER ══════════════════ -->
+<header class="scada-header">
+  <div class="logo-area">
+    <div>
+      <div class="logo-text">KODZEN <span style="color:#60a5fa">{🧠}</span></div>
+      <div class="logo-sub">TEKNOLOJİ</div>
+    </div>
+    <div class="divider"></div>
+    <div class="page-title">SCADA Kontrol Merkezi</div>
+  </div>
+  <div class="clock-box">
+    <div class="time-val" id="liveClock">--:--:--</div>
+    <div class="date-val" id="liveDate" style="font-size:.72rem;color:var(--dim)"></div>
+  </div>
+  <div class="header-right">
+    <span class="badge-active">🟢 SİSTEM AKTİF</span>
+    <a href="siberguvenik.html" class="back-link"><i class="bi bi-arrow-left me-1"></i>Ana Siteye Dön</a>
+  </div>
+</header>
+
+<!-- ══════════════════ STATS ROW ══════════════════ -->
+<div class="stats-row">
+  <div class="stat-card">
+    <div class="stat-icon bg-teal"><i class="bi bi-broadcast c-teal"></i></div>
+    <div>
+      <div class="stat-value c-teal">12</div>
+      <div class="stat-label">Aktif İstasyon</div>
+    </div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-icon bg-red"><i class="bi bi-exclamation-triangle-fill c-red"></i></div>
+    <div>
+      <div class="stat-value c-red">2</div>
+      <div class="stat-label">Aktif Alarm</div>
+    </div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-icon bg-yellow"><i class="bi bi-lightning-charge-fill c-yellow"></i></div>
+    <div>
+      <div class="stat-value c-yellow">2.4 <span style="font-size:.8rem;font-weight:400">MW</span></div>
+      <div class="stat-label">Toplam Güç</div>
+    </div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-icon bg-blue"><i class="bi bi-activity c-blue"></i></div>
+    <div>
+      <div class="stat-value c-blue">34.5 <span style="font-size:.8rem;font-weight:400">kV</span></div>
+      <div class="stat-label">Şebeke Voltajı</div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════ MAIN PANELS ══════════════════ -->
+<div class="main-panels">
+
+  <!-- LEFT: Sistem Haritası -->
+  <div class="panel-card">
+    <div class="panel-title">
+      <span><i class="bi bi-diagram-3 me-1"></i>Sistem Haritası</span>
+    </div>
+    <div class="grid-map">
+      <div class="backbone"></div>
+      <div class="map-layout">
+
+        <!-- TF-01 -->
+        <div class="map-col">
+          <div class="vert-line-up" style="background:var(--teal);opacity:.5"></div>
+          <div class="node-circle node-green node-teal-glow" title="TF-01 Merkez — Normal">
+            T
+            <span class="node-icon" style="color:var(--teal)"><i class="bi bi-check-circle-fill"></i></span>
+          </div>
+          <div style="font-size:.58rem;color:var(--teal);margin:4px 0;font-weight:700">TF-01</div>
+          <div class="vert-line-down" style="background:var(--teal);opacity:.5"></div>
+          <div class="node-square node-green" style="margin-top:4px" title="SS-01">S<br><span style="font-size:.5rem">SS-01</span></div>
+        </div>
+
+        <!-- TF-02 -->
+        <div class="map-col">
+          <div class="vert-line-up" style="background:var(--teal);opacity:.5"></div>
+          <div class="node-circle node-green node-teal-glow" title="TF-02 Kuzey — Normal">
+            T
+            <span class="node-icon" style="color:var(--teal)"><i class="bi bi-check-circle-fill"></i></span>
+          </div>
+          <div style="font-size:.58rem;color:var(--teal);margin:4px 0;font-weight:700">TF-02</div>
+          <div class="vert-line-down" style="background:var(--teal);opacity:.5"></div>
+          <div class="node-square node-green" style="margin-top:4px" title="SS-02">S<br><span style="font-size:.5rem">SS-02</span></div>
+        </div>
+
+        <!-- TF-03 -->
+        <div class="map-col">
+          <div class="vert-line-up" style="background:var(--yellow);opacity:.6"></div>
+          <div class="node-circle node-yellow" title="TF-03 Güney — Uyarı">
+            T
+            <span class="node-icon" style="color:var(--yellow)"><i class="bi bi-exclamation-triangle-fill"></i></span>
+          </div>
+          <div style="font-size:.58rem;color:var(--yellow);margin:4px 0;font-weight:700">TF-03</div>
+          <div class="vert-line-down" style="background:var(--yellow);opacity:.5"></div>
+          <div class="node-square node-yellow" style="margin-top:4px" title="SS-03">S<br><span style="font-size:.5rem">SS-03</span></div>
+        </div>
+
+        <!-- TF-04 -->
+        <div class="map-col">
+          <div class="vert-line-up" style="background:var(--red);opacity:.7"></div>
+          <div class="node-circle node-red pulsing" title="TF-04 Batı — ALARM">
+            T
+            <span class="node-icon" style="color:var(--red)"><i class="bi bi-exclamation-octagon-fill"></i></span>
+          </div>
+          <div style="font-size:.58rem;color:var(--red);margin:4px 0;font-weight:700;animation:blink-alarm 1s step-end infinite">TF-04</div>
+          <div class="vert-line-down" style="background:var(--red);opacity:.5"></div>
+          <div class="node-square node-red" style="margin-top:4px" title="SS-04">S<br><span style="font-size:.5rem">SS-04</span></div>
+        </div>
+
+      </div><!-- /map-layout -->
+    </div><!-- /grid-map -->
+    <div class="map-legend">
+      <div class="legend-item"><div class="legend-dot" style="background:var(--teal)"></div> Normal</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--yellow)"></div> Uyarı</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--red)"></div> Alarm</div>
+      <div class="legend-item"><div class="legend-dot" style="background:var(--dim)"></div> Kesici</div>
+    </div>
+  </div>
+
+  <!-- RIGHT: Anlık Veri Tablosu -->
+  <div class="panel-card">
+    <div class="panel-title">
+      <span><i class="bi bi-table me-1"></i>Anlık Veri Tablosu</span>
+      <span class="ts">Son güncelleme: <span id="tableTs">--:--:--</span></span>
+    </div>
+    <div style="overflow-x:auto">
+      <table class="data-table" id="dataTable">
+        <thead>
+          <tr>
+            <th>İstasyon</th>
+            <th>Voltaj (kV)</th>
+            <th>Akım (A)</th>
+            <th>Güç (kW)</th>
+            <th>Durum</th>
+          </tr>
+        </thead>
+        <tbody id="dataTableBody"></tbody>
+      </table>
+    </div>
+  </div>
+
+</div><!-- /main-panels -->
+
+<!-- ══════════════════ BOTTOM PANELS ══════════════════ -->
+<div class="bottom-panels">
+
+  <!-- LEFT: Alarm Paneli -->
+  <div class="panel-card alarm-card">
+    <div class="panel-title">
+      <span><i class="bi bi-bell-fill c-red me-1"></i>Alarm Paneli 🔴</span>
+      <span class="ts" style="color:var(--red)">2 Aktif</span>
+    </div>
+    <div class="alarm-item high">
+      <span class="alarm-priority ap-high"><i class="bi bi-exclamation-octagon-fill me-1"></i>YÜKSEK ÖNCELİK</span>
+      <div class="alarm-msg"><strong style="color:#fff">TF-04 Batı İstasyonu</strong> — Voltaj limiti aşıldı: <strong style="color:var(--red)">28.7 kV</strong> (alt limit: 30 kV)</div>
+      <div class="alarm-time"><i class="bi bi-clock me-1"></i>Saat: 14:23:15</div>
+    </div>
+    <div class="alarm-item mid">
+      <span class="alarm-priority ap-mid"><i class="bi bi-exclamation-triangle-fill me-1"></i>ORTA ÖNCELİK</span>
+      <div class="alarm-msg"><strong style="color:#fff">TF-03 Güney İstasyonu</strong> — Akım uyarısı: <strong style="color:var(--yellow)">142A</strong> (uyarı eşiği: 135A)</div>
+      <div class="alarm-time"><i class="bi bi-clock me-1"></i>Saat: 14:18:47</div>
+    </div>
+    <div style="margin-top:10px;font-size:.72rem;color:var(--dim);text-align:center">
+      <i class="bi bi-info-circle me-1"></i>Tüm alarmlar kayıt altındadır.
+    </div>
+  </div>
+
+  <!-- RIGHT: Voltaj Grafiği -->
+  <div class="panel-card">
+    <div class="panel-title">
+      <span><i class="bi bi-graph-up me-1"></i>Voltaj Grafiği <span style="font-weight:400;color:var(--dim)">(Son 10 Ölçüm)</span></span>
+    </div>
+    <div class="chart-wrap">
+      <svg id="voltChart" viewBox="0 0 480 160" width="100%" preserveAspectRatio="xMidYMid meet" style="display:block">
+        <!-- Grid lines -->
+        <defs>
+          <pattern id="gridPat" width="48" height="32" patternUnits="userSpaceOnUse">
+            <path d="M 48 0 L 0 0 0 32" fill="none" stroke="rgba(255,255,255,.05)" stroke-width="1"/>
+          </pattern>
+        </defs>
+        <rect width="480" height="160" fill="url(#gridPat)" rx="0"/>
+        <!-- Y-axis labels -->
+        <text x="6" y="22"  fill="#4a5568" font-size="10">36</text>
+        <text x="6" y="54"  fill="#4a5568" font-size="10">34</text>
+        <text x="6" y="86"  fill="#4a5568" font-size="10">32</text>
+        <text x="6" y="118" fill="#4a5568" font-size="10">30</text>
+        <text x="6" y="150" fill="#4a5568" font-size="10">28</text>
+        <!-- H-grid lines -->
+        <line x1="26" y1="16"  x2="476" y2="16"  stroke="rgba(255,255,255,.06)" stroke-width="1" stroke-dasharray="4,4"/>
+        <line x1="26" y1="48"  x2="476" y2="48"  stroke="rgba(255,255,255,.06)" stroke-width="1" stroke-dasharray="4,4"/>
+        <line x1="26" y1="80"  x2="476" y2="80"  stroke="rgba(255,255,255,.06)" stroke-width="1" stroke-dasharray="4,4"/>
+        <line x1="26" y1="112" x2="476" y2="112" stroke="rgba(255,255,255,.06)" stroke-width="1" stroke-dasharray="4,4"/>
+        <line x1="26" y1="144" x2="476" y2="144" stroke="rgba(255,255,255,.06)" stroke-width="1" stroke-dasharray="4,4"/>
+        <!-- Chart area: drawn by JS -->
+        <polyline id="chartLine" points="" fill="none" stroke="#00c4a0" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <polyline id="chartLineAlarm" points="" fill="none" stroke="#f43f5e" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <g id="chartDots"></g>
+      </svg>
+    </div>
+    <div style="display:flex;gap:16px;margin-top:10px;font-size:.7rem;color:var(--muted)">
+      <span><span style="color:var(--teal)">──</span> Normal aralık</span>
+      <span><span style="color:var(--red)">──</span> Alarm aralığı (&lt;30kV)</span>
+    </div>
+  </div>
+
+</div><!-- /bottom-panels -->
+
+<!-- ══════════════════ CONTROLS ══════════════════ -->
+<div class="controls-row">
+  <button class="btn-scada btn-scada-teal" onclick="showToast('bi-broadcast','Tüm istasyonlar izleme modunda','var(--teal)')">
+    <i class="bi bi-broadcast"></i> Tümünü İzle
+  </button>
+  <button class="btn-scada btn-scada-red" onclick="showToast('bi-bell-slash-fill','Alarmlar sıfırlandı','var(--red)')">
+    <i class="bi bi-bell-slash-fill"></i> Alarm Sıfırla
+  </button>
+  <button class="btn-scada btn-scada-blue" onclick="showToast('bi-file-earmark-bar-graph','Rapor oluşturuluyor...','var(--blue)')">
+    <i class="bi bi-file-earmark-bar-graph"></i> Rapor Al
+  </button>
+</div>
+
+<!-- ══════════════════ FOOTER ══════════════════ -->
+<div class="scada-footer">
+  © 2026 KODZEN TEKNOLOJİ — SCADA Demo | <em>Bu demo simülasyon amaçlıdır, gerçek sistem verisi içermez.</em>
+</div>
+
+<!-- ══════════════════ TOAST AREA ══════════════════ -->
+<div id="toast-area"></div>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script>
+/* ── DATA ── */
+const stations = [
+  { id:'TF-01', name:'TF-01 Merkez',   volt:34.5,  curr:125, pow:4.3, status:'NORMAL' },
+  { id:'TF-02', name:'TF-02 Kuzey',    volt:33.8,  curr:118, pow:3.9, status:'NORMAL' },
+  { id:'TF-03', name:'TF-03 Güney',    volt:31.2,  curr:142, pow:4.4, status:'UYARI'  },
+  { id:'TF-04', name:'TF-04 Batı',     volt:28.7,  curr:167, pow:4.7, status:'ALARM'  },
+  { id:'SS-01', name:'SS-01 Doğu',     volt:11.2,  curr:89,  pow:1.0, status:'NORMAL' },
+  { id:'SS-02', name:'SS-02 Merkez',   volt:10.8,  curr:94,  pow:1.0, status:'NORMAL' },
+  { id:'SS-03', name:'SS-03 Kuzey',    volt:10.5,  curr:97,  pow:1.0, status:'UYARI'  },
+  { id:'SS-04', name:'SS-04 Güney',    volt:10.1,  curr:102, pow:1.0, status:'NORMAL' },
+];
+const baseVals = stations.map(s => ({ volt: s.volt, curr: s.curr, pow: s.pow }));
+
+/* ── CLOCK ── */
+function updateClock() {
+  const now = new Date();
+  const pad = n => String(n).padStart(2,'0');
+  document.getElementById('liveClock').textContent =
+    `${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+  const days = ['Pazar','Pazartesi','Salı','Çarşamba','Perşembe','Cuma','Cumartesi'];
+  const months = ['Oca','Şub','Mar','Nis','May','Haz','Tem','Ağu','Eyl','Eki','Kas','Ara'];
+  document.getElementById('liveDate').textContent =
+    `${days[now.getDay()]}, ${now.getDate()} ${months[now.getMonth()]} ${now.getFullYear()}`;
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+/* ── TABLE ── */
+function fluc(base, pct = 0.02) {
+  return base * (1 + (Math.random() * 2 - 1) * pct);
+}
+function renderTable() {
+  const tbody = document.getElementById('dataTableBody');
+  tbody.innerHTML = '';
+  stations.forEach((s, i) => {
+    const v = fluc(baseVals[i].volt).toFixed(1);
+    const c = Math.round(fluc(baseVals[i].curr));
+    const p = fluc(baseVals[i].pow).toFixed(1);
+    const badgeClass = s.status === 'NORMAL' ? 'badge-normal' : s.status === 'UYARI' ? 'badge-warn' : 'badge-alarm';
+    tbody.innerHTML += `<tr>
+      <td class="station-name">${s.name}</td>
+      <td>${v}</td>
+      <td>${c}</td>
+      <td>${p}</td>
+      <td><span class="status-badge ${badgeClass}">${s.status}</span></td>
+    </tr>`;
+  });
+  const pad = n => String(n).padStart(2,'0');
+  const now = new Date();
+  document.getElementById('tableTs').textContent =
+    `${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+}
+renderTable();
+setInterval(renderTable, 3000);
+
+/* ── CHART ── */
+// Map voltage → y coordinate (28kV=144, 36kV=16)
+function voltToY(v) {
+  return 144 - ((v - 28) / 8) * 128;
+}
+let chartData = [34.5, 34.3, 34.6, 33.9, 33.5, 32.1, 30.8, 29.5, 28.7, 29.0];
+
+function renderChart() {
+  const xStep = 450 / 9;
+  const xStart = 28;
+  const alarmThreshold = 30;
+
+  const normalPts = [];
+  const alarmPts  = [];
+  let lastNormal = null;
+
+  chartData.forEach((v, i) => {
+    const x = xStart + i * xStep;
+    const y = voltToY(v);
+    if (v >= alarmThreshold) {
+      if (alarmPts.length && lastNormal === null) {
+        // transition back to normal — add bridging point
+        normalPts.push(`${x},${y}`);
+      }
+      normalPts.push(`${x},${y}`);
+      lastNormal = { x, y };
+    } else {
+      if (lastNormal) {
+        alarmPts.push(`${lastNormal.x},${lastNormal.y}`);
+        lastNormal = null;
+      }
+      alarmPts.push(`${x},${y}`);
+    }
+  });
+
+  document.getElementById('chartLine').setAttribute('points', normalPts.join(' '));
+  document.getElementById('chartLineAlarm').setAttribute('points', alarmPts.join(' '));
+
+  // Dots
+  const dotsG = document.getElementById('chartDots');
+  dotsG.innerHTML = '';
+  chartData.forEach((v, i) => {
+    const x = xStart + i * xStep;
+    const y = voltToY(v);
+    const color = v < alarmThreshold ? '#f43f5e' : '#00c4a0';
+    dotsG.innerHTML += `<circle cx="${x}" cy="${y}" r="3.5" fill="${color}" stroke="#080d12" stroke-width="1.5"/>`;
+  });
+}
+renderChart();
+
+function updateChart() {
+  // Shift old values and add new fluctuated TF-04 value
+  chartData.shift();
+  const last = chartData[chartData.length - 1];
+  const next = Math.max(27, Math.min(35, last + (Math.random() - 0.48) * 0.8));
+  chartData.push(parseFloat(next.toFixed(1)));
+  renderChart();
+}
+setInterval(updateChart, 3000);
+
+/* ── TOAST ── */
+function showToast(icon, msg, color) {
+  const area = document.getElementById('toast-area');
+  const t = document.createElement('div');
+  t.className = 'scada-toast';
+  t.innerHTML = `<i class="bi ${icon}" style="color:${color};font-size:1rem"></i><span>${msg}</span>`;
+  area.appendChild(t);
+  setTimeout(() => { t.style.transition = 'opacity .4s'; t.style.opacity = '0'; setTimeout(() => t.remove(), 400); }, 3000);
+}
+</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>

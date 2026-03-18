@@ -1,0 +1,735 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Şifre Güvenlik Analizi — KODZEN Güvenlik Araçları</title>
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="vendor/bootstrap-icons/font/bootstrap-icons.min.css" rel="stylesheet" />
+  <style>
+    :root {
+      --bg-primary: #0d1117;
+      --bg-secondary: #161b22;
+      --bg-card: #1c2230;
+      --bg-input: #0d1117;
+      --border: #30363d;
+      --border-focus: #00c4a0;
+      --teal: #00c4a0;
+      --teal-dark: #009e82;
+      --teal-glow: rgba(0, 196, 160, 0.18);
+      --text-primary: #e6edf3;
+      --text-secondary: #8b949e;
+      --text-muted: #484f58;
+      --red: #ef4444;
+      --orange: #f97316;
+      --yellow: #eab308;
+      --lime: #84cc16;
+      --green: #22c55e;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      background-image:
+        radial-gradient(ellipse at 20% 10%, rgba(0,196,160,0.06) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 90%, rgba(0,196,160,0.04) 0%, transparent 50%);
+    }
+
+    /* ── Header ── */
+    .site-header {
+      background: rgba(22, 27, 34, 0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .site-header .inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      height: 64px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .logo-block { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+    .logo-icon {
+      width: 38px; height: 38px;
+      background: linear-gradient(135deg, var(--teal), #00a896);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.1rem; color: #fff; font-weight: 800; letter-spacing: -1px;
+      box-shadow: 0 0 16px rgba(0,196,160,0.4);
+    }
+    .logo-name { font-size: 1.1rem; font-weight: 700; color: var(--text-primary); }
+    .logo-name span { color: var(--teal); }
+    .header-title {
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+      background: rgba(0,196,160,0.08);
+      border: 1px solid rgba(0,196,160,0.2);
+      padding: 4px 12px;
+      border-radius: 20px;
+    }
+    .back-link {
+      display: flex; align-items: center; gap: 6px;
+      color: var(--teal); font-size: 0.85rem; font-weight: 500;
+      text-decoration: none;
+      transition: opacity .2s;
+    }
+    .back-link:hover { opacity: .75; color: var(--teal); }
+
+    /* ── Page body ── */
+    .page-body {
+      padding: 3rem 1.5rem 5rem;
+    }
+
+    /* ── Main card ── */
+    .main-card {
+      max-width: 600px;
+      margin: 0 auto;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 2.5rem;
+      box-shadow: 0 8px 48px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,255,255,0.03);
+    }
+    .card-header-block {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .card-header-block .icon-wrap {
+      font-size: 2.8rem;
+      margin-bottom: .75rem;
+      display: block;
+    }
+    .card-header-block h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: .4rem;
+    }
+    .card-header-block p {
+      font-size: .9rem;
+      color: var(--text-secondary);
+    }
+
+    /* ── Input group ── */
+    .input-group-custom {
+      position: relative;
+      margin-bottom: 1.5rem;
+    }
+    .input-group-custom input {
+      width: 100%;
+      background: var(--bg-input);
+      border: 1.5px solid var(--border);
+      border-radius: 12px;
+      color: var(--text-primary);
+      font-size: 1.1rem;
+      font-family: 'Inter', sans-serif;
+      padding: 14px 52px 14px 18px;
+      letter-spacing: .05em;
+      outline: none;
+      transition: border-color .25s, box-shadow .25s;
+    }
+    .input-group-custom input:focus {
+      border-color: var(--teal);
+      box-shadow: 0 0 0 3px var(--teal-glow);
+    }
+    .input-group-custom input::placeholder { color: var(--text-muted); }
+    .toggle-eye {
+      position: absolute;
+      right: 14px; top: 50%;
+      transform: translateY(-50%);
+      background: none; border: none;
+      color: var(--text-secondary);
+      font-size: 1.2rem;
+      cursor: pointer;
+      padding: 4px;
+      transition: color .2s;
+    }
+    .toggle-eye:hover { color: var(--teal); }
+
+    /* ── Strength meter ── */
+    .strength-section { margin-bottom: 1.5rem; }
+    .strength-bar-track {
+      height: 8px;
+      background: var(--bg-input);
+      border-radius: 99px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      margin-bottom: .75rem;
+    }
+    .strength-bar-fill {
+      height: 100%;
+      border-radius: 99px;
+      width: 0%;
+      transition: width .5s cubic-bezier(.4,0,.2,1), background-color .4s ease;
+    }
+    .strength-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .strength-label {
+      font-size: .9rem;
+      font-weight: 600;
+    }
+    .strength-score {
+      font-size: .82rem;
+      color: var(--text-secondary);
+    }
+
+    /* ── Crack time ── */
+    .crack-time-box {
+      background: rgba(0,196,160,0.05);
+      border: 1px solid rgba(0,196,160,0.15);
+      border-radius: 12px;
+      padding: 1rem 1.25rem;
+      text-align: center;
+      margin-bottom: 1.5rem;
+      transition: border-color .3s;
+    }
+    .crack-time-box .crack-label {
+      font-size: .8rem;
+      color: var(--text-secondary);
+      margin-bottom: .3rem;
+    }
+    .crack-time-box .crack-value {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--teal);
+      transition: color .4s;
+    }
+
+    /* ── Checklist ── */
+    .checklist-section {
+      margin-bottom: 1.75rem;
+    }
+    .checklist-section h3 {
+      font-size: .82rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--text-muted);
+      margin-bottom: .85rem;
+    }
+    .check-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 7px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+      font-size: .88rem;
+      color: var(--text-secondary);
+      transition: color .25s;
+    }
+    .check-item:last-child { border-bottom: none; }
+    .check-item.passed { color: var(--text-primary); }
+    .check-icon {
+      width: 22px; height: 22px;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      font-size: .75rem;
+      flex-shrink: 0;
+      transition: background .25s, color .25s;
+    }
+    .check-icon.fail {
+      background: rgba(239,68,68,0.12);
+      color: #ef4444;
+    }
+    .check-icon.pass {
+      background: rgba(34,197,94,0.15);
+      color: #22c55e;
+    }
+
+    /* ── Buttons ── */
+    .btn-teal {
+      background: linear-gradient(135deg, var(--teal), var(--teal-dark));
+      color: #fff;
+      border: none;
+      border-radius: 12px;
+      padding: 13px 24px;
+      font-size: .95rem;
+      font-weight: 600;
+      font-family: 'Inter', sans-serif;
+      cursor: pointer;
+      width: 100%;
+      display: flex; align-items: center; justify-content: center; gap: 8px;
+      transition: transform .15s, box-shadow .2s, opacity .2s;
+      box-shadow: 0 4px 20px rgba(0,196,160,0.25);
+      margin-bottom: 1rem;
+    }
+    .btn-teal:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 6px 28px rgba(0,196,160,0.38);
+    }
+    .btn-teal:active { transform: translateY(0); }
+
+    /* ── Generated password ── */
+    .gen-password-box {
+      display: none;
+      background: var(--bg-input);
+      border: 1.5px solid var(--teal);
+      border-radius: 12px;
+      padding: 12px 16px;
+      margin-top: -4px;
+      margin-bottom: 1rem;
+      font-size: .95rem;
+      font-family: monospace;
+      letter-spacing: .07em;
+      color: var(--teal);
+      word-break: break-all;
+      animation: fadeIn .35s ease;
+      position: relative;
+    }
+    .gen-password-box .copy-btn {
+      position: absolute;
+      right: 10px; top: 50%;
+      transform: translateY(-50%);
+      background: none; border: none;
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-size: 1rem;
+      padding: 4px;
+      transition: color .2s;
+    }
+    .gen-password-box .copy-btn:hover { color: var(--teal); }
+
+    /* ── Tips ── */
+    .tips-section { margin-top: .5rem; }
+    .tips-toggle {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      color: var(--text-secondary);
+      font-size: .88rem;
+      font-family: 'Inter', sans-serif;
+      padding: 10px 16px;
+      width: 100%;
+      text-align: left;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: space-between;
+      transition: border-color .2s, color .2s;
+    }
+    .tips-toggle:hover { border-color: var(--teal); color: var(--text-primary); }
+    .tips-toggle .chevron {
+      transition: transform .3s;
+    }
+    .tips-toggle.open .chevron { transform: rotate(180deg); }
+    .tips-body {
+      display: none;
+      background: rgba(255,255,255,0.02);
+      border: 1px solid var(--border);
+      border-top: none;
+      border-radius: 0 0 10px 10px;
+      padding: 1rem 1.25rem;
+      animation: fadeIn .3s ease;
+    }
+    .tip-item {
+      display: flex;
+      gap: 10px;
+      padding: 7px 0;
+      font-size: .86rem;
+      color: var(--text-secondary);
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+    }
+    .tip-item:last-child { border-bottom: none; }
+    .tip-item .tip-num {
+      background: rgba(0,196,160,0.12);
+      color: var(--teal);
+      font-weight: 700;
+      font-size: .75rem;
+      width: 22px; height: 22px;
+      border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center;
+      padding: 2.5rem 1rem 1.5rem;
+      color: var(--text-muted);
+      font-size: .8rem;
+    }
+    .site-footer a { color: var(--teal); text-decoration: none; }
+    .site-footer a:hover { text-decoration: underline; }
+    .footer-back {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--teal);
+      font-size: .88rem;
+      font-weight: 500;
+      text-decoration: none;
+      margin-bottom: 1rem;
+    }
+    .footer-back:hover { opacity: .75; color: var(--teal); }
+
+    /* ── Animations ── */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .main-card { animation: fadeIn .5s ease; }
+
+    /* ── Empty state ── */
+    .empty-note {
+      text-align: center;
+      font-size: .82rem;
+      color: var(--text-muted);
+      padding: .5rem 0 .25rem;
+    }
+  </style>
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+
+<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
+<header class="site-header">
+  <div class="inner">
+    <a href="index.html" class="logo-block">
+      <div class="logo-icon">KZ</div>
+      <span class="logo-name">KODZEN <span>TEKNOLOJİ</span></span>
+    </a>
+
+    <span class="header-title"><i class="bi bi-shield-lock me-1"></i>Güvenlik Araçları</span>
+
+    <a href="siberguvenik.html" class="back-link">
+      <i class="bi bi-arrow-left"></i> Siber Güvenlik
+    </a>
+  </div>
+</header>
+
+<!-- ═══════════════════════  MAIN  ═══════════════════════ -->
+<main class="page-body">
+  <div class="main-card">
+
+    <!-- Title -->
+    <div class="card-header-block">
+      <span class="icon-wrap">🔐</span>
+      <h1>Şifre Güvenlik Analizi</h1>
+      <p>Şifrenizin ne kadar güvenli olduğunu öğrenin</p>
+    </div>
+
+    <!-- Password Input -->
+    <div class="input-group-custom">
+      <input type="password" id="pwdInput" placeholder="Şifrenizi buraya girin…" autocomplete="off" spellcheck="false" />
+      <button class="toggle-eye" id="toggleEye" type="button" title="Göster/Gizle">
+        <i class="bi bi-eye" id="eyeIcon"></i>
+      </button>
+    </div>
+
+    <!-- Strength Bar -->
+    <div class="strength-section">
+      <div class="strength-bar-track">
+        <div class="strength-bar-fill" id="strengthBar"></div>
+      </div>
+      <div class="strength-meta">
+        <span class="strength-label" id="strengthLabel" style="color:var(--text-muted)">Şifre girin…</span>
+        <span class="strength-score" id="scoreDisplay">Güvenlik Skoru: 0 / 100</span>
+      </div>
+    </div>
+
+    <!-- Crack Time -->
+    <div class="crack-time-box" id="crackBox">
+      <div class="crack-label">Tahmini Kırılma Süresi</div>
+      <div class="crack-value" id="crackValue">—</div>
+    </div>
+
+    <!-- Checklist -->
+    <div class="checklist-section">
+      <h3><i class="bi bi-list-check me-1"></i>Güvenlik Kriterleri</h3>
+
+      <div class="check-item" id="chk-minLength">
+        <div class="check-icon fail" id="icon-minLength"><i class="bi bi-x"></i></div>
+        <span>En az 8 karakter</span>
+      </div>
+      <div class="check-item" id="chk-goodLength">
+        <div class="check-icon fail" id="icon-goodLength"><i class="bi bi-x"></i></div>
+        <span>En az 12 karakter (daha iyi)</span>
+      </div>
+      <div class="check-item" id="chk-hasUpper">
+        <div class="check-icon fail" id="icon-hasUpper"><i class="bi bi-x"></i></div>
+        <span>Büyük harf içeriyor (A-Z)</span>
+      </div>
+      <div class="check-item" id="chk-hasLower">
+        <div class="check-icon fail" id="icon-hasLower"><i class="bi bi-x"></i></div>
+        <span>Küçük harf içeriyor (a-z)</span>
+      </div>
+      <div class="check-item" id="chk-hasNumber">
+        <div class="check-icon fail" id="icon-hasNumber"><i class="bi bi-x"></i></div>
+        <span>Rakam içeriyor (0-9)</span>
+      </div>
+      <div class="check-item" id="chk-hasSpecial">
+        <div class="check-icon fail" id="icon-hasSpecial"><i class="bi bi-x"></i></div>
+        <span>Özel karakter içeriyor (!@#$%^&amp;*)</span>
+      </div>
+      <div class="check-item" id="chk-notCommon">
+        <div class="check-icon fail" id="icon-notCommon"><i class="bi bi-x"></i></div>
+        <span>Yaygın şifre değil</span>
+      </div>
+    </div>
+
+    <!-- Generate Button -->
+    <button class="btn-teal" id="generateBtn" type="button">
+      <i class="bi bi-magic"></i> Güçlü Şifre Oluştur
+    </button>
+
+    <!-- Generated Password Display -->
+    <div class="gen-password-box" id="genPwdBox">
+      <span id="genPwdText"></span>
+      <button class="copy-btn" id="copyBtn" title="Kopyala"><i class="bi bi-clipboard"></i></button>
+    </div>
+
+    <!-- Tips -->
+    <div class="tips-section">
+      <button class="tips-toggle" id="tipsToggle" type="button">
+        <span><i class="bi bi-lightbulb me-2"></i>Güvenli Şifre İpuçları</span>
+        <i class="bi bi-chevron-down chevron"></i>
+      </button>
+      <div class="tips-body" id="tipsBody">
+        <div class="tip-item">
+          <span class="tip-num">1</span>
+          <span>Şifreniz en az <strong>12 karakter</strong> uzunluğunda olsun; uzun şifreler kırılması çok daha zor olur.</span>
+        </div>
+        <div class="tip-item">
+          <span class="tip-num">2</span>
+          <span>Farklı hesaplar için <strong>farklı şifreler</strong> kullanın; bir şifre ele geçirilirse diğerleri güvende kalsın.</span>
+        </div>
+        <div class="tip-item">
+          <span class="tip-num">3</span>
+          <span>Doğum tarihi, isim veya telefon numarası gibi <strong>kişisel bilgileri</strong> şifrenizde kullanmayın.</span>
+        </div>
+        <div class="tip-item">
+          <span class="tip-num">4</span>
+          <span>Önemli hesaplarınızın şifrelerini her <strong>3 ayda bir</strong> düzenli olarak değiştirin.</span>
+        </div>
+        <div class="tip-item">
+          <span class="tip-num">5</span>
+          <span>Tüm şifrelerinizi güvenle saklamak için bir <strong>şifre yöneticisi</strong> (Bitwarden, 1Password vb.) kullanın.</span>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /.main-card -->
+</main>
+
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
+<footer class="site-footer">
+  <div>
+    <a href="siberguvenik.html" class="footer-back">
+      <i class="bi bi-arrow-left-circle"></i> Siber Güvenlik Sayfasına Dön
+    </a>
+  </div>
+  <p>© 2025 <strong>KODZEN TEKNOLOJİ</strong> — Tüm hakları saklıdır.</p>
+  <p style="margin-top:4px;font-size:.75rem;">Bu araç eğitim amaçlıdır. Hiçbir veri sunucuya gönderilmez.</p>
+</footer>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script>
+/* ─── Data ─── */
+const commonPasswords = [
+  '123456','password','qwerty','abc123','letmein','iloveyou','admin',
+  'welcome','monkey','dragon','master','sunshine','princess','football',
+  '654321','123456789','password1','pass','test','1234','12345','123123',
+  '111111','000000','qwerty123','admin123','root','toor','login','guest'
+];
+
+const strengthConfig = [
+  { max: 20,  label: 'Çok Zayıf', color: '#ef4444' },
+  { max: 40,  label: 'Zayıf',     color: '#f97316' },
+  { max: 60,  label: 'Orta',      color: '#eab308' },
+  { max: 80,  label: 'Güçlü',     color: '#84cc16' },
+  { max: 100, label: 'Çok Güçlü', color: '#22c55e' }
+];
+
+/* ─── Analysis ─── */
+function analyzePassword(pwd) {
+  let score = 0;
+  const checks = {
+    minLength:  pwd.length >= 8,
+    goodLength: pwd.length >= 12,
+    hasUpper:   /[A-Z]/.test(pwd),
+    hasLower:   /[a-z]/.test(pwd),
+    hasNumber:  /[0-9]/.test(pwd),
+    hasSpecial: /[!@#$%^&*()\-_=+\[\]{};':"\\|,.<>\/?`~]/.test(pwd),
+    notCommon:  !commonPasswords.includes(pwd.toLowerCase())
+  };
+
+  if (checks.minLength)  score += 15;
+  if (checks.goodLength) score += 10;
+  if (pwd.length >= 16)  score += 10;
+  if (checks.hasUpper)   score += 15;
+  if (checks.hasLower)   score += 10;
+  if (checks.hasNumber)  score += 15;
+  if (checks.hasSpecial) score += 20;
+  if (checks.notCommon)  score += 5;
+
+  let crackTime;
+  if      (score < 20) crackTime = 'birkaç saniyede kırılır';
+  else if (score < 35) crackTime = '3 dakikada kırılır';
+  else if (score < 50) crackTime = '2 saatte kırılır';
+  else if (score < 65) crackTime = '1 haftada kırılır';
+  else if (score < 80) crackTime = '5 yılda kırılır';
+  else                 crackTime = '100+ yılda kırılamaz 🛡️';
+
+  return { score, checks, crackTime };
+}
+
+/* ─── Generate password ─── */
+function generatePassword() {
+  const upper   = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+  const lower   = 'abcdefghijklmnopqrstuvwxyz';
+  const digits  = '0123456789';
+  const special = '!@#$%^&*';
+  const all     = upper + lower + digits + special;
+
+  // Guarantee at least one of each category
+  let pwd = [
+    upper  [Math.floor(Math.random() * upper.length)],
+    lower  [Math.floor(Math.random() * lower.length)],
+    digits [Math.floor(Math.random() * digits.length)],
+    special[Math.floor(Math.random() * special.length)]
+  ];
+  for (let i = 4; i < 16; i++) {
+    pwd.push(all[Math.floor(Math.random() * all.length)]);
+  }
+  // Shuffle
+  for (let i = pwd.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pwd[i], pwd[j]] = [pwd[j], pwd[i]];
+  }
+  return pwd.join('');
+}
+
+/* ─── DOM helpers ─── */
+const pwdInput    = document.getElementById('pwdInput');
+const toggleEye   = document.getElementById('toggleEye');
+const eyeIcon     = document.getElementById('eyeIcon');
+const strengthBar = document.getElementById('strengthBar');
+const strengthLbl = document.getElementById('strengthLabel');
+const scoreDisp   = document.getElementById('scoreDisplay');
+const crackValue  = document.getElementById('crackValue');
+const genPwdBox   = document.getElementById('genPwdBox');
+const genPwdText  = document.getElementById('genPwdText');
+const copyBtn     = document.getElementById('copyBtn');
+const tipsToggle  = document.getElementById('tipsToggle');
+const tipsBody    = document.getElementById('tipsBody');
+
+function setCheck(key, passed) {
+  const icon = document.getElementById('icon-' + key);
+  const item = document.getElementById('chk-'  + key);
+  if (passed) {
+    icon.className = 'check-icon pass';
+    icon.innerHTML = '<i class="bi bi-check"></i>';
+    item.classList.add('passed');
+  } else {
+    icon.className = 'check-icon fail';
+    icon.innerHTML = '<i class="bi bi-x"></i>';
+    item.classList.remove('passed');
+  }
+}
+
+function getStrengthCfg(score) {
+  for (const cfg of strengthConfig) {
+    if (score <= cfg.max) return cfg;
+  }
+  return strengthConfig[strengthConfig.length - 1];
+}
+
+function updateUI(pwd) {
+  if (!pwd) {
+    strengthBar.style.width = '0%';
+    strengthBar.style.backgroundColor = '';
+    strengthLbl.textContent = 'Şifre girin…';
+    strengthLbl.style.color = 'var(--text-muted)';
+    scoreDisp.textContent   = 'Güvenlik Skoru: 0 / 100';
+    crackValue.textContent  = '—';
+    crackValue.style.color  = 'var(--teal)';
+    ['minLength','goodLength','hasUpper','hasLower','hasNumber','hasSpecial','notCommon']
+      .forEach(k => setCheck(k, false));
+    return;
+  }
+
+  const { score, checks, crackTime } = analyzePassword(pwd);
+  const cfg = getStrengthCfg(score);
+
+  strengthBar.style.width           = score + '%';
+  strengthBar.style.backgroundColor = cfg.color;
+  strengthLbl.textContent           = cfg.label;
+  strengthLbl.style.color           = cfg.color;
+  scoreDisp.textContent             = `Güvenlik Skoru: ${score} / 100`;
+  crackValue.textContent            = `Bu şifre tahminen: ${crackTime}`;
+  crackValue.style.color            = cfg.color;
+
+  Object.entries(checks).forEach(([k, v]) => setCheck(k, v));
+}
+
+/* ─── Events ─── */
+pwdInput.addEventListener('input', () => updateUI(pwdInput.value));
+
+toggleEye.addEventListener('click', () => {
+  const hidden = pwdInput.type === 'password';
+  pwdInput.type     = hidden ? 'text' : 'password';
+  eyeIcon.className = hidden ? 'bi bi-eye-slash' : 'bi bi-eye';
+});
+
+document.getElementById('generateBtn').addEventListener('click', () => {
+  const pwd = generatePassword();
+  genPwdText.textContent = pwd;
+  genPwdBox.style.display = 'block';
+  // Also fill input and analyze
+  pwdInput.type = 'text';
+  eyeIcon.className = 'bi bi-eye-slash';
+  pwdInput.value = pwd;
+  updateUI(pwd);
+  pwdInput.focus();
+});
+
+copyBtn.addEventListener('click', () => {
+  const text = genPwdText.textContent;
+  if (!text) return;
+  navigator.clipboard.writeText(text).then(() => {
+    copyBtn.innerHTML = '<i class="bi bi-clipboard-check"></i>';
+    setTimeout(() => { copyBtn.innerHTML = '<i class="bi bi-clipboard"></i>'; }, 2000);
+  }).catch(() => {
+    // fallback
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    document.body.removeChild(ta);
+    copyBtn.innerHTML = '<i class="bi bi-clipboard-check"></i>';
+    setTimeout(() => { copyBtn.innerHTML = '<i class="bi bi-clipboard"></i>'; }, 2000);
+  });
+});
+
+tipsToggle.addEventListener('click', () => {
+  const open = tipsBody.style.display === 'block';
+  tipsBody.style.display = open ? 'none' : 'block';
+  tipsToggle.classList.toggle('open', !open);
+  if (!open) tipsToggle.style.borderRadius = '10px 10px 0 0';
+  else       tipsToggle.style.borderRadius = '10px';
+});
+</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>

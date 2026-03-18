@@ -1,0 +1,869 @@
+﻿﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KODZEN TEKNOLOJİ — Yazılım, BT & GIS Çözümleri</title>
+  <meta name="description" content="KODZEN TEKNOLOJİ — Yapay Zeka, GIS/SCADA, Web Tasarım ve Yazılım Geliştirme uzmanı. Artvin merkezli teknoloji şirketi. Projenizi hayata geçirelim: AI, Python, React, Node.js, siber güvenlik.">
+  <!-- Google Search Console Doğrulama -->
+  <meta name="google-site-verification" content="8M4byk1zIglBtfZo5iramhxeg-gOcMRGMfF4V6WZZg4">
+  <!-- SEO & Open Graph -->
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Çağlayan Kurtoğlu — KODZEN TEKNOLOJİ">
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <link rel="canonical" href="https://kodzen.io/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="KODZEN TEKNOLOJİ — Yazılım, BT & GIS Çözümleri">
+  <meta property="og:description" content="Yazılım geliştirme, GIS/SCADA altyapı sistemleri, WhatsApp otomasyonu ve kurumsal BT çözümleri. Artvin, Türkiye.">
+  <meta property="og:url" content="https://kodzen.io/">
+  <meta property="og:image" content="https://kodzen.io/images/og-kodzen.jpg">
+  <meta property="og:site_name" content="KODZEN TEKNOLOJİ">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="KODZEN TEKNOLOJİ — Yazılım, BT & GIS Çözümleri">
+  <meta name="twitter:description" content="Yazılım geliştirme, GIS/SCADA altyapı sistemleri ve kurumsal BT çözümleri.">
+  <!-- Bootstrap 5 -->
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <!-- AOS -->
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+<script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+<!-- ══ INTRO SCREEN ══ -->
+<div id="introScreen">
+  <!-- Background grid -->
+  <div class="intro-grid"></div>
+  <!-- Scan line -->
+  <div class="scan-line"></div>
+
+  <!-- Particle canvas -->
+  <canvas id="particleCanvas" class="intro-canvas"></canvas>
+
+  <!-- Robot Arms (SVG) -->
+  <div class="robot-arms-container">
+    <!-- Left arm -->
+    <div class="robot-arm left">
+      <svg viewBox="0 0 120 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="45" y="0" width="30" height="180" rx="15" fill="#00c4a0" opacity="0.8"/>
+        <rect x="30" y="160" width="60" height="20" rx="10" fill="#00a085"/>
+        <rect x="50" y="180" width="20" height="120" rx="10" fill="#00c4a0" opacity="0.7"/>
+        <rect x="20" y="280" width="80" height="18" rx="9" fill="#00a085"/>
+        <rect x="35" y="298" width="15" height="70" rx="7" fill="#00c4a0" opacity="0.6"/>
+        <rect x="70" y="298" width="15" height="70" rx="7" fill="#00c4a0" opacity="0.6"/>
+        <circle cx="60" cy="0" r="15" fill="#00c4a0"/>
+        <circle cx="60" cy="0" r="8" fill="#080c14"/>
+        <circle cx="60" cy="0" r="4" fill="#00ffe7"/>
+      </svg>
+    </div>
+    <!-- Right arm -->
+    <div class="robot-arm right">
+      <svg viewBox="0 0 120 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="45" y="0" width="30" height="180" rx="15" fill="#00c4a0" opacity="0.8"/>
+        <rect x="30" y="160" width="60" height="20" rx="10" fill="#00a085"/>
+        <rect x="50" y="180" width="20" height="120" rx="10" fill="#00c4a0" opacity="0.7"/>
+        <rect x="20" y="280" width="80" height="18" rx="9" fill="#00a085"/>
+        <rect x="35" y="298" width="15" height="70" rx="7" fill="#00c4a0" opacity="0.6"/>
+        <rect x="70" y="298" width="15" height="70" rx="7" fill="#00c4a0" opacity="0.6"/>
+        <circle cx="60" cy="0" r="15" fill="#00c4a0"/>
+        <circle cx="60" cy="0" r="8" fill="#080c14"/>
+        <circle cx="60" cy="0" r="4" fill="#00ffe7"/>
+      </svg>
+    </div>
+  </div>
+
+  <!-- Logo -->
+  <div class="intro-logo-area">
+    <div class="intro-logo-name glitch" data-text="KODZEN {&#129504;}" id="introLogoName">
+      KODZEN <span class="teal-brain">{&#129504;}</span>
+    </div>
+    <div class="intro-logo-sub" id="introLogoSub">TEKNOLOJİ — kodzen.io</div>
+  </div>
+
+  <!-- Terminal -->
+  <div class="intro-terminal">
+    <div class="intro-terminal-header">
+      <div class="intro-terminal-dot r"></div>
+      <div class="intro-terminal-dot y"></div>
+      <div class="intro-terminal-dot g"></div>
+      <span class="intro-terminal-title">kodzen_boot.sh</span>
+    </div>
+    <div id="introLines">
+      <!-- Lines injected by JS -->
+    </div>
+  </div>
+
+  <!-- Progress -->
+  <div class="intro-progress-wrap">
+    <div class="intro-progress-bar-bg">
+      <div class="intro-progress-bar-fill" id="introProgressFill"></div>
+    </div>
+    <div class="intro-progress-label">
+      <span>KODZEN TEKNOLOJİ — Sistem Başlatılıyor</span>
+      <span class="intro-progress-pct" id="introPct">0%</span>
+    </div>
+  </div>
+</div>
+
+<!-- ── NAVBAR ── -->
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJİ</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Ürünler</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>
+            <li><a class="dropdown-item" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>
+            <li><a class="dropdown-item" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>
+            <li><a class="dropdown-item" href="viralbotpro.html"><i class="bi bi-play-circle me-2 text-primary-kodzen"></i>ViralBot Pro</a></li>
+            <li><a class="dropdown-item" href="siparis.html"><i class="bi bi-bag-heart me-2" style="color:#f7931e"></i>Siparım</a></li>
+          </ul>
+        </li>
+        
+        <li class="nav-item" data-nav="webhizmet"><a class="nav-link" href="webgelistirme.html">Web Hizmetleri</a></li>
+        <li class="nav-item"><a class="nav-link" href="siberguvenik.html">Siber Güvenlik</a></li>
+        <li class="nav-item" data-nav="scada"><a class="nav-link" href="scada.html">SCADA</a></li>
+        <li class="nav-item" data-nav="fiyatlar"><a class="nav-link" href="fiyatlar.html">Fiyatlar</a></li>
+        <li class="nav-item" style="display:none" data-nav="galeri"><a class="nav-link" href="galeri.html">Galeri</a></li>
+        <li class="nav-item" data-nav="demo"><a class="nav-link" href="demo.html">Demo</a></li>
+        <li class="nav-item" data-nav="iletisim"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+      </ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- ── HERO ── -->
+<section class="hero" id="hero">
+  <!-- Glow orbs -->
+  <div class="hero-glow-orb orb1"></div>
+  <div class="hero-glow-orb orb2"></div>
+  <div class="container">
+    <div class="row align-items-center gy-5">
+      <div class="col-lg-6" data-aos="fade-right">
+        <div class="hero-badge">
+          <span class="dot"></span>
+          Artvin, Türkiye — Teknoloji & Yazılım Çözümleri
+        </div>
+        <h1 class="hero-title">
+          <span class="teal">KODZEN</span><br>
+          TEKNOLOJİ
+        </h1>
+        <div class="hero-typed-wrap">
+          <span id="typedText" style="color:var(--primary);font-weight:700"></span><span class="typed-cursor">|</span>
+        </div>
+        <p class="hero-desc">
+          10+ yıllık deneyimle yazılım geliştirme, GIS/SCADA altyapı sistemleri, WhatsApp otomasyonu ve kurumsal BT çözümleri sunuyoruz.
+        </p>
+        <div class="tech-badges">
+          <span class="tech-badge">Python</span>
+          <span class="tech-badge">React</span>
+          <span class="tech-badge">Node.js</span>
+          <span class="tech-badge">FastAPI</span>
+          <span class="tech-badge">GIS/SCADA</span>
+          <span class="tech-badge">AI/ML</span>
+          <span class="tech-badge">Docker</span>
+          <span class="tech-badge">WhatsApp Bot</span>
+        </div>
+        <div class="hero-btns">
+          <a href="#urunler" class="btn-primary-kodzen">
+            <i class="bi bi-grid-3x3-gap"></i> Ürünlerimizi Keşfet
+          </a>
+          <a href="demo.html" class="btn-outline-kodzen">
+            <i class="bi bi-play-circle"></i> Demo Talep Et
+          </a>
+        </div>
+        <div class="hero-stats">
+          <div class="hero-stat">
+            <span class="num">3</span>
+            <span class="lbl">Ürün</span>
+          </div>
+          <div class="hero-stat">
+            <span class="num">10+</span>
+            <span class="lbl">Yıl Deneyim</span>
+          </div>
+          <div class="hero-stat">
+            <span class="num">3</span>
+            <span class="lbl">Platform</span>
+          </div>
+          <div class="hero-stat">
+            <span class="num">SCADA</span>
+            <span class="lbl">/GIS</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
+        <div class="hero-code-card float-anim">
+          <div class="code-card-header">
+            <span class="code-dot red"></span>
+            <span class="code-dot yellow"></span>
+            <span class="code-dot green"></span>
+            <span class="code-card-title">kodzen_stack.py</span>
+          </div>
+          <div class="code-card-body">
+            <div class="code-line"><span class="code-num">1</span><span class="code-comment"># KODZEN TEKNOLOJİ — Ürün Yığını</span></div>
+            <div class="code-line"><span class="code-num">2</span><span></span></div>
+            <div class="code-line"><span class="code-num">3</span><span class="code-kw">class </span><span class="code-teal">KodzenProducts</span><span>:</span></div>
+            <div class="code-line"><span class="code-num">4</span><span>&nbsp;&nbsp;</span><span class="code-fn">ai_gis</span><span> = {</span></div>
+            <div class="code-line"><span class="code-num">5</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="code-str">"stack"</span><span>: [</span><span class="code-str">"Python"</span><span>, </span><span class="code-str">"FastAPI"</span><span>, </span><span class="code-str">"GIS"</span><span>],</span></div>
+            <div class="code-line"><span class="code-num">6</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="code-str">"type"</span><span>: </span><span class="code-str">"SCADA/Infrastructure"</span></div>
+            <div class="code-line"><span class="code-num">7</span><span>&nbsp;&nbsp;}</span></div>
+            <div class="code-line"><span class="code-num">8</span><span>&nbsp;&nbsp;</span><span class="code-fn">ckmesaj</span><span> = {</span></div>
+            <div class="code-line"><span class="code-num">9</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="code-str">"stack"</span><span>: [</span><span class="code-str">"React"</span><span>, </span><span class="code-str">"Node.js"</span><span>, </span><span class="code-str">"Socket.IO"</span><span>],</span></div>
+            <div class="code-line"><span class="code-num">10</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="code-str">"platform"</span><span>: </span><span class="code-str">"Web + Mobile"</span></div>
+            <div class="code-line"><span class="code-num">11</span><span>&nbsp;&nbsp;}</span></div>
+            <div class="code-line"><span class="code-num">12</span><span>&nbsp;&nbsp;</span><span class="code-fn">whatsypzck</span><span> = {</span></div>
+            <div class="code-line"><span class="code-num">13</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="code-str">"ai"</span><span>: [</span><span class="code-str">"GPT"</span><span>, </span><span class="code-str">"Gemini"</span><span>, </span><span class="code-str">"Claude"</span><span>],</span></div>
+            <div class="code-line"><span class="code-num">14</span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="code-str">"type"</span><span>: </span><span class="code-str">"WhatsApp CRM"</span></div>
+            <div class="code-line"><span class="code-num">15</span><span>&nbsp;&nbsp;}</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── HİZMETLER ── -->
+<section id="hizmetler" data-section="hizmetler" class="bg-section-alt">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-gear"></i> Hizmetler</div>
+      <h2 class="section-title">Sunduğumuz <span class="highlight">Çözümler</span></h2>
+      <p class="section-subtitle mx-auto">Yazılımdan altyapıya, güvenlikten danışmanlığa kapsamlı teknoloji hizmetleri.</p>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="service-card">
+          <div class="service-icon-box"><i class="bi bi-code-slash"></i></div>
+          <h5>Yazılım Geliştirme</h5>
+          <p>Web, mobil ve masaüstü uygulamalar. Modern teknolojilerle özel çözümler geliştiriyoruz.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="60">
+        <div class="service-card">
+          <div class="service-icon-box"><i class="bi bi-map"></i></div>
+          <h5>GIS Sistemleri</h5>
+          <p>Coğrafi bilgi sistemleri, harita entegrasyonu ve mekansal veri analizi çözümleri.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="120">
+        <div class="service-card">
+          <div class="service-icon-box"><i class="bi bi-whatsapp"></i></div>
+          <h5>WhatsApp Otomasyonu</h5>
+          <p>Kurumsal WhatsApp entegrasyonu, otomatik mesajlaşma ve CRM bağlantısı.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="service-card">
+          <div class="service-icon-box"><i class="bi bi-lightning-charge"></i></div>
+          <h5>SCADA & Enerji</h5>
+          <p>Elektrik altyapı yönetimi, SCADA sistemleri ve enerji varlık takip çözümleri.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="60">
+        <div class="service-card">
+          <div class="service-icon-box"><i class="bi bi-shield-check"></i></div>
+          <h5>Siber Güvenlik</h5>
+          <p>Güvenlik denetimi, lisans koruması, JWT auth ve API güvenlik çözümleri.</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="120">
+        <div class="service-card">
+          <div class="service-icon-box"><i class="bi bi-briefcase"></i></div>
+          <h5>BT Danışmanlığı</h5>
+          <p>Kurumsal BT altyapısı, sistem mimarisi ve dijital dönüşüm danışmanlığı.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── ÜRÜNLER ── -->
+<section id="urunler" data-section="urunler">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-box"></i> Ürünler</div>
+      <h2 class="section-title">KODZEN <span class="highlight">Ürün Ailesi</span></h2>
+      <p class="section-subtitle mx-auto">Her biri kendi alanında güçlü, entegre edilebilir yazılım platformları.</p>
+    </div>
+    <div class="row g-4">
+      <!-- AI-GIS -->
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="product-card">
+          <div class="kz-tooltip-box">Harita tabanlı elektrik altyapı yönetimi. GIS + AI + SCADA entegrasyonu.</div>
+          <div class="product-card-header">
+            <div class="product-badge">GIS & SCADA</div>
+            <h3>AI-GIS Infrastructure System</h3>
+            <p>Elektrik altyapı yönetiminin akıllı çözümü. Harita tabanlı, AI destekli.</p>
+          </div>
+          <div class="product-card-body">
+            <div class="feature-tags">
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Gerçek Zamanlı Harita</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>AI Analiz</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>OSM Entegrasyonu</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>7 Dil Desteği</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Offline Mod</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>GPS Takip</span>
+            </div>
+            <div class="mt-auto">
+              <div class="d-flex flex-wrap gap-1">
+                <span class="tech-badge">Python</span>
+                <span class="tech-badge">FastAPI</span>
+                <span class="tech-badge">Leaflet.js</span>
+                <span class="tech-badge">Docker</span>
+              </div>
+            </div>
+          </div>
+          <div class="product-card-footer">
+            <a href="ai-gis.html" class="btn-primary-kodzen w-100 justify-content-center">
+              <i class="bi bi-arrow-right-circle"></i> İncele
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- WhatsYpzck -->
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="80">
+        <div class="product-card">
+          <div class="kz-tooltip-box">WhatsApp toplu mesaj ve otomasyon. Pazarlama kampanyalarını kolaylaştırın.</div>
+          <div class="product-card-header">
+            <div class="product-badge">WhatsApp CRM</div>
+            <h3>WhatsYpzck</h3>
+            <p>Kurumsal WhatsApp otomasyonu, CRM ve yapay zeka entegrasyonu.</p>
+          </div>
+          <div class="product-card-body">
+            <div class="feature-tags">
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>7/24 Otomasyon</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Çoklu AI</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Admin Panel</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Arıza Yönetimi</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Audit Log</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Lisans Sistemi</span>
+            </div>
+            <div class="mt-auto">
+              <div class="d-flex flex-wrap gap-1">
+                <span class="tech-badge">Node.js</span>
+                <span class="tech-badge">MongoDB</span>
+                <span class="tech-badge">GPT/Gemini</span>
+              </div>
+            </div>
+          </div>
+          <div class="product-card-footer">
+            <a href="whatsypzck.html" class="btn-primary-kodzen w-100 justify-content-center">
+              <i class="bi bi-arrow-right-circle"></i> İncele
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- ViralBot Pro -->
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="120">
+        <div class="product-card">
+          <div class="kz-tooltip-box">TikTok ve Instagram büyüme otomasyonu. Viral içerik üretim desteği.</div>
+          <div class="product-card-header">
+            <div class="product-badge">Viral İçerik</div>
+            <h3>ViralBot Pro</h3>
+            <p>Yapay zeka ile otomatik Türkçe viral video üretimi ve sosyal medyaya otomatik paylaşım.</p>
+          </div>
+          <div class="product-card-body">
+            <div class="feature-tags">
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Groq AI</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>TikTok</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>YouTube</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Instagram</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>7/24 Otomasyon</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>FFmpeg Video</span>
+            </div>
+          </div>
+          <div class="product-card-footer">
+            <a href="viralbotpro.html" class="btn-primary-kodzen w-100 justify-content-center">
+              <i class="bi bi-arrow-right-circle"></i> İncele
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- CKmesaj -->
+        <div class="product-card">
+          <div class="kz-tooltip-box">Kurumsal mesajlaşma. WhatsApp Business API ile müşteri iletişimi.</div><div class="kz-tooltip-box">Kurumsal mesajlaşma. WhatsApp Business API entegrasyonu ile müşteri iletişimi.</div><div class="product-card-header"><div class="product-badge">Mesajlaşma</div>
+            <h3>CKmesaj</h3>
+            <p>Gerçek zamanlı mesajlaşma platformu. Web + Android + iOS.</p>
+          </div>
+          <div class="product-card-body">
+            <div class="feature-tags">
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Real-time Socket.IO</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>SMS Doğrulama</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>QR Eşleştirme</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Grup Sohbet</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Cross-Platform</span>
+              <span class="feature-tag"><i class="bi bi-check text-primary-kodzen"></i>Hikayeler</span>
+            </div>
+            <div class="mt-auto">
+              <div class="d-flex flex-wrap gap-1">
+                <span class="tech-badge">React</span>
+                <span class="tech-badge">React Native</span>
+                <span class="tech-badge">Socket.IO</span>
+              </div>
+            </div>
+          </div>
+          <div class="product-card-footer">
+            <a href="ckmesaj.html" class="btn-primary-kodzen w-100 justify-content-center">
+              <i class="bi bi-arrow-right-circle"></i> İncele
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── GALERİ PREVIEW ── -->
+<section class="bg-section-alt" id="galeri" style="display:none" data-section="galeri">
+  <div class="container">
+    <div class="d-flex align-items-end justify-content-between mb-5 flex-wrap gap-3" data-aos="fade-up">
+      <div>
+        <div class="section-tag"><i class="bi bi-images"></i> Galeri</div>
+        <h2 class="section-title mb-0">Ekran <span class="highlight">Görüntüleri</span></h2>
+      </div>
+      <a href="galeri.html" class="btn-outline-kodzen">
+        Tümünü Gör <i class="bi bi-arrow-right"></i>
+      </a>
+    </div>
+    <div class="row g-4" id="galleryGrid"></div>
+  </div>
+</section>
+
+<!-- ── SERTİFİKALAR & ROZETLER ── -->
+<section id="sertifikalar" data-section="sertifikalar" style="padding:80px 0;background:var(--bg-darkest)">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-patch-check"></i> Sertifikalar & Yetkinlikler</div>
+      <h2 class="section-title">Onaylı <span class="highlight">Teknoloji Yetkinlikleri</span></h2>
+      <p class="section-subtitle mx-auto">Endüstri standartlarında teknoloji bilgisi ve proje deneyimi.</p>
+    </div>
+
+    <!-- Sertifika kartları -->
+    <div class="row g-4 mb-5">
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="0">
+        <div class="cert-card">
+          <div class="cert-icon-wrap" style="background:linear-gradient(135deg,#4285f4,#34a853)">
+            <i class="bi bi-google"></i>
+          </div>
+          <div class="cert-body">
+            <div class="cert-title">Google IT Support</div>
+            <div class="cert-issuer">Google / Coursera</div>
+            <div class="cert-tags">
+              <span class="cert-tag">BT Altyapısı</span>
+              <span class="cert-tag">Sistem Yönetimi</span>
+            </div>
+          </div>
+          <div class="cert-footer">
+            <span class="cert-verified"><i class="bi bi-patch-check-fill"></i> Doğrulandı</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="80">
+        <div class="cert-card">
+          <div class="cert-icon-wrap" style="background:linear-gradient(135deg,#0078d4,#00bcf2)">
+            <i class="bi bi-microsoft"></i>
+          </div>
+          <div class="cert-body">
+            <div class="cert-title">Azure Fundamentals</div>
+            <div class="cert-issuer">Microsoft</div>
+            <div class="cert-tags">
+              <span class="cert-tag">Cloud</span>
+              <span class="cert-tag">DevOps</span>
+            </div>
+          </div>
+          <div class="cert-footer">
+            <span class="cert-verified"><i class="bi bi-patch-check-fill"></i> Doğrulandı</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="160">
+        <div class="cert-card">
+          <div class="cert-icon-wrap" style="background:linear-gradient(135deg,#764abc,#b794f4)">
+            <i class="bi bi-robot"></i>
+          </div>
+          <div class="cert-body">
+            <div class="cert-title">AI & ML Specialization</div>
+            <div class="cert-issuer">DeepLearning.AI</div>
+            <div class="cert-tags">
+              <span class="cert-tag">LLM / GPT</span>
+              <span class="cert-tag">ML Pipeline</span>
+            </div>
+          </div>
+          <div class="cert-footer">
+            <span class="cert-verified"><i class="bi bi-patch-check-fill"></i> Doğrulandı</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-lg-3" data-aos="fade-up" data-aos-delay="240">
+        <div class="cert-card">
+          <div class="cert-icon-wrap" style="background:linear-gradient(135deg,#00c4a0,#00ffe7)">
+            <i class="bi bi-shield-check"></i>
+          </div>
+          <div class="cert-body">
+            <div class="cert-title">Cybersecurity Essentials</div>
+            <div class="cert-issuer">Cisco Networking Academy</div>
+            <div class="cert-tags">
+              <span class="cert-tag">Network Sec</span>
+              <span class="cert-tag">Penetration</span>
+            </div>
+          </div>
+          <div class="cert-footer">
+            <span class="cert-verified"><i class="bi bi-patch-check-fill"></i> Doğrulandı</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Teknoloji Rozetleri / Skill Bar alanı -->
+    <div class="row g-4 align-items-center" data-aos="fade-up" data-aos-delay="100">
+      <div class="col-lg-6">
+        <h4 style="font-weight:800;margin-bottom:24px">Teknoloji Uzmanlığı</h4>
+        <div class="skill-row">
+          <div class="skill-info"><span>Python / FastAPI</span><span>95%</span></div>
+          <div class="skill-bar-bg"><div class="skill-bar-fill" data-width="95"></div></div>
+        </div>
+        <div class="skill-row">
+          <div class="skill-info"><span>JavaScript / TypeScript</span><span>90%</span></div>
+          <div class="skill-bar-bg"><div class="skill-bar-fill" data-width="90"></div></div>
+        </div>
+        <div class="skill-row">
+          <div class="skill-info"><span>GIS / SCADA / Leaflet.js</span><span>88%</span></div>
+          <div class="skill-bar-bg"><div class="skill-bar-fill" data-width="88"></div></div>
+        </div>
+        <div class="skill-row">
+          <div class="skill-info"><span>React / Node.js / Socket.IO</span><span>87%</span></div>
+          <div class="skill-bar-bg"><div class="skill-bar-fill" data-width="87"></div></div>
+        </div>
+        <div class="skill-row">
+          <div class="skill-info"><span>Docker / PostgreSQL / Redis</span><span>82%</span></div>
+          <div class="skill-bar-bg"><div class="skill-bar-fill" data-width="82"></div></div>
+        </div>
+        <div class="skill-row">
+          <div class="skill-info"><span>AI/ML Entegrasyonları</span><span>85%</span></div>
+          <div class="skill-bar-bg"><div class="skill-bar-fill" data-width="85"></div></div>
+        </div>
+      </div>
+
+      <div class="col-lg-6">
+        <!-- Tech logo grid -->
+        <div class="tech-logo-grid">
+          <div class="tech-logo-item" title="Python"><i class="bi bi-filetype-py"></i><span>Python</span></div>
+          <div class="tech-logo-item" title="React"><i class="bi bi-filetype-jsx"></i><span>React</span></div>
+          <div class="tech-logo-item" title="Node.js"><i class="bi bi-node-plus"></i><span>Node.js</span></div>
+          <div class="tech-logo-item" title="Docker"><i class="bi bi-box-seam"></i><span>Docker</span></div>
+          <div class="tech-logo-item" title="Database"><i class="bi bi-database"></i><span>PostgreSQL</span></div>
+          <div class="tech-logo-item" title="AI/ML"><i class="bi bi-cpu"></i><span>AI/ML</span></div>
+          <div class="tech-logo-item" title="Security"><i class="bi bi-shield-lock"></i><span>Güvenlik</span></div>
+          <div class="tech-logo-item" title="GIS"><i class="bi bi-map"></i><span>GIS/SCADA</span></div>
+          <div class="tech-logo-item" title="WhatsApp Bot"><i class="bi bi-whatsapp"></i><span>WA Bot</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── DEMO CTA ── -->
+<section class="cta-banner">
+  <div class="container text-center position-relative" style="z-index:1" data-aos="zoom-in">
+    <div class="section-tag mx-auto mb-3" style="background:rgba(255,255,255,0.15);border-color:rgba(255,255,255,0.3);color:#fff">
+      <i class="bi bi-rocket"></i> Demo
+    </div>
+    <h2 class="fs-1 fw-900 mb-3">Ürünlerimizi Deneyin</h2>
+    <p class="fs-5 mb-4 mx-auto" style="max-width:520px">14 günlük ücretsiz demo ile AI-GIS, WhatsYpzck veya CKmesaj'ı kendi ortamınızda test edin.</p>
+    <a href="demo.html" class="btn-cta-white">
+      <i class="bi bi-calendar-check"></i> Hemen Demo Talep Et
+    </a>
+  </div>
+</section>
+
+<!-- ── İLETİŞİM ── -->
+<section id="iletisim" data-section="iletisim">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-envelope"></i> İletişim</div>
+      <h2 class="section-title">Bizimle <span class="highlight">İletişime Geçin</span></h2>
+    </div>
+    <div class="row justify-content-center g-4">
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="0">
+        <div class="contact-info-item">
+          <div class="contact-icon"><i class="bi bi-geo-alt"></i></div>
+          <div>
+            <div class="label">Konum</div>
+            <div class="value">Artvin, Türkiye</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="60">
+        <div class="contact-info-item">
+          <div class="contact-icon"><i class="bi bi-telephone"></i></div>
+          <div>
+            <div class="label">Telefon</div>
+            <div class="value"><a href="tel:05458966096">0545 896 6096</a></div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="120">
+        <div class="contact-info-item">
+          <div class="contact-icon"><i class="bi bi-envelope"></i></div>
+          <div>
+            <div class="label">E-posta</div>
+            <div class="value"><a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 text-center mt-2" data-aos="fade-up">
+        <a href="https://wa.me/905458966096?text=Merhaba%2C%20KODZEN%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" class="btn-whatsapp me-3">
+          <i class="bi bi-whatsapp"></i> WhatsApp'tan Yazın
+        </a>
+        <a href="iletisim.html" class="btn-outline-kodzen">
+          <i class="bi bi-envelope-paper"></i> İletişim Formu
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── FOOTER ── -->
+<footer class="footer">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-4">
+        <div class="footer-brand">
+          <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+          <div style="font-size:.6rem;letter-spacing:4px;color:var(--text-dim);text-transform:uppercase;font-weight:600;margin-top:2px">TEKNOLOJİ</div>
+        </div>
+        <p class="footer-desc">Yazılım geliştirme, GIS/SCADA altyapı sistemleri ve kurumsal BT çözümleri.</p>
+        <div class="social-links mt-3">
+          <a href="https://github.com/Caqlayano8" target="_blank" class="social-link" title="GitHub"><i class="bi bi-github"></i></a>
+          <a href="mailto:kurtoqluo8@gmail.com" class="social-link" title="E-posta"><i class="bi bi-envelope"></i></a>
+          <a href="https://wa.me/905458966096" target="_blank" class="social-link" title="WhatsApp"><i class="bi bi-whatsapp"></i></a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Ürünler</div>
+        <ul class="footer-links">
+          <li><a href="ai-gis.html">AI-GIS System</a></li>
+          <li><a href="whatsypzck.html">WhatsYpzck</a></li>
+          <li><a href="ckmesaj.html">CKmesaj</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Sayfalar</div>
+        <ul class="footer-links">
+          <li><a href="index.html">Ana Sayfa</a></li>
+          <li><a href="webgelistirme.html">Web Hizmetleri</a></li>
+          <li><a href="fiyatlar.html">Fiyatlar</a></li>
+          <li><a href="galeri.html">Galeri</a></li>
+          <li><a href="demo.html">Demo</a></li>
+          <li><a href="siberguvenik.html">Siber Güvenlik</a></li>
+          <li><a href="scada.html">SCADA</a></li>
+          <li><a href="temalar.html">Temalar</a></li>
+          <li><a href="iletisim.html">İletişim</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <div class="footer-heading">İletişim</div>
+        <div class="footer-contact-item"><i class="bi bi-geo-alt"></i> Artvin, Türkiye</div>
+        <div class="footer-contact-item"><i class="bi bi-telephone"></i> <a href="tel:05458966096">0545 896 6096</a></div>
+        <div class="footer-contact-item"><i class="bi bi-envelope"></i> <a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+        <div class="footer-contact-item"><i class="bi bi-github"></i> <a href="https://github.com/Caqlayano8" target="_blank">github.com/Caqlayano8</a></div>
+      </div>
+    </div>
+    <hr class="footer-divider">
+    <div class="footer-bottom">
+      <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOLOJİ</span> — Tüm hakları saklıdır.</p>
+      <p class="footer-copy mb-0">Geliştirici: <span>Çağlayan Kurtoğlu</span></p>
+    <p class="footer-copy mb-0 mt-1"><a href="privacy.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Gizlilik Politikası</a> &nbsp;|&nbsp; <a href="terms.html" style="color:var(--primary);text-decoration:none;font-size:.8rem">Kullanım Koşulları</a></p>
+    </div>
+  </div>
+</footer>
+
+<!-- ── LIVE CHAT ── -->
+<div class="live-chat-widget">
+  <a id="liveChatBtn" href="https://wa.me/905458966096" target="_blank" class="chat-toggle-btn" title="WhatsApp ile İletişim">
+    <span class="pulse-ring"></span>
+    <i class="bi bi-whatsapp"></i>
+  </a>
+</div>
+
+<!-- Scripts -->
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/transitions.js"></script>
+<script>
+  // Render gallery preview (max 4 items)
+  document.addEventListener('DOMContentLoaded', function() {
+    if (typeof KodzenData !== 'undefined') {
+      renderGallery('all', 4);
+    }
+  });
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "KODZEN TEKNOLOJİ",
+  "url": "https://kodzen.io",
+  "logo": "https://kodzen.io/images/logo.png",
+  "description": "Yazılım geliştirme, GIS/SCADA sistemleri, akıllı web siteleri, SEO ve kurumsal BT çözümleri.",
+  "founder": {"@type": "Person", "name": "Çağlayan Kurtoğlu"},
+  "address": {"@type": "PostalAddress", "addressLocality": "Artvin", "addressCountry": "TR"},
+  "contactPoint": {"@type": "ContactPoint", "telephone": "+90-545-896-6096", "contactType": "customer service"},
+  "sameAs": ["https://github.com/Caqlayano8"]
+}
+</script>
+<!-- ══ INTRO SCRIPT ══ -->
+<script>
+(function() {
+  const screen = document.getElementById('introScreen');
+  const linesContainer = document.getElementById('introLines');
+  const progressFill = document.getElementById('introProgressFill');
+  const pctEl = document.getElementById('introPct');
+  const logoName = document.getElementById('introLogoName');
+  const logoSub = document.getElementById('introLogoSub');
+
+  // ── Particle canvas ──
+  const canvas = document.getElementById('particleCanvas');
+  const ctx = canvas.getContext('2d');
+  let particles = [];
+  function resizeCanvas() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  }
+  resizeCanvas();
+  window.addEventListener('resize', resizeCanvas);
+
+  class Particle {
+    constructor() { this.reset(); }
+    reset() {
+      this.x = Math.random() * canvas.width;
+      this.y = Math.random() * canvas.height;
+      this.r = Math.random() * 2 + 0.5;
+      this.speed = Math.random() * 0.5 + 0.2;
+      this.angle = Math.random() * Math.PI * 2;
+      this.alpha = Math.random() * 0.5 + 0.1;
+      this.color = Math.random() > 0.7 ? '#00c4a0' : '#60a5fa';
+    }
+    update() {
+      this.x += Math.cos(this.angle) * this.speed;
+      this.y += Math.sin(this.angle) * this.speed;
+      this.angle += (Math.random() - 0.5) * 0.05;
+      if (this.x < 0 || this.x > canvas.width || this.y < 0 || this.y > canvas.height) this.reset();
+    }
+    draw() {
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.r, 0, Math.PI * 2);
+      ctx.fillStyle = this.color;
+      ctx.globalAlpha = this.alpha;
+      ctx.fill();
+      ctx.globalAlpha = 1;
+    }
+  }
+  for (let i = 0; i < 120; i++) particles.push(new Particle());
+
+  let animId;
+  function animateParticles() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    particles.forEach(p => { p.update(); p.draw(); });
+    animId = requestAnimationFrame(animateParticles);
+  }
+  animateParticles();
+
+  // ── Terminal lines ──
+  const lines = [
+    { text: '$ <span class="cmd">./kodzen_boot --init</span>', delay: 200 },
+    { text: '<span class="ok">&#10004;</span> <span class="info">&#199;ekirdek sistem y&#252;kleniyor...</span>', delay: 500 },
+    { text: '<span class="ok">&#10004;</span> <span class="cmd">AI mod&#252;lleri ba&#351;lat&#305;l&#305;yor</span> <span class="dim">[GPT-4 &middot; Claude &middot; Gemini]</span>', delay: 800 },
+    { text: '<span class="ok">&#10004;</span> <span class="info">GIS/SCADA altyap&#305;s&#305; haz&#305;rlan&#305;yor...</span>', delay: 1100 },
+    { text: '<span class="ok">&#10004;</span> <span class="cmd">WhatsApp Bot servisi aktif</span> <span class="ok">&#9679; ONLINE</span>', delay: 1400 },
+    { text: '<span class="ok">&#10004;</span> <span class="info">G&#252;venlik duvar&#305; devreye al&#305;nd&#305;</span>', delay: 1700 },
+    { text: '<span class="warn">&#9654;</span> <span class="cmd">Web aray&#252;z&#252; olu&#351;turuluyor...</span>', delay: 2000 },
+    { text: '<span class="ok">&#10004;</span> <span class="info">Veritaban&#305; ba&#287;lant&#305;s&#305; kuruldu</span> <span class="dim">[PostgreSQL + MongoDB]</span>', delay: 2300 },
+    { text: '<span class="ok">&#10004;</span> <span class="cmd">G&#246;r&#252;nt&#252; render edildi</span> <span class="dim">[3840&#215;2160 @ 120fps]</span>', delay: 2600 },
+    { text: '<span class="ok">&#10004;</span> <span class="info">SEO optimizasyonu uyguland&#305;</span>', delay: 2900 },
+    { text: '<span class="ok">&#10004; S&#304;STEM HAZIR</span> &mdash; <span class="cmd">kodzen.io ba&#351;lat&#305;l&#305;yor...</span>', delay: 3200 },
+  ];
+
+  let progress = 0;
+  function animateProgress(target, duration) {
+    const start = progress;
+    const startTime = performance.now();
+    function step(now) {
+      const t = Math.min((now - startTime) / duration, 1);
+      progress = Math.round(start + (target - start) * t);
+      progressFill.style.width = progress + '%';
+      pctEl.textContent = progress + '%';
+      if (t < 1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+  }
+
+  // Show logo
+  setTimeout(() => {
+    logoName.classList.add('show');
+    logoSub.classList.add('show');
+  }, 100);
+
+  // Show terminal lines
+  lines.forEach((line, i) => {
+    setTimeout(() => {
+      const div = document.createElement('div');
+      div.className = 'intro-line';
+      div.innerHTML = '<span class="prompt">&#8250;</span> ' + line.text;
+      linesContainer.appendChild(div);
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => div.classList.add('show'));
+      });
+      // Animate progress
+      const pct = Math.round(((i + 1) / lines.length) * 100);
+      animateProgress(pct, 280);
+    }, line.delay);
+  });
+
+  // Finish and transition to site
+  setTimeout(() => {
+    cancelAnimationFrame(animId);
+    screen.classList.add('fade-out');
+    setTimeout(() => {
+      screen.style.display = 'none';
+      sessionStorage.setItem('kodzen_intro_done', '1');
+    }, 700);
+  }, 4200);
+})();
+</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+</body>
+</html>
+
+

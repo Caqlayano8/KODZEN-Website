@@ -1,0 +1,587 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Proje Talebi — KODZEN TEKNOLOJİ</title>
+  <meta name="description" content="KODZEN TEKNOLOJİ ile hayalinizdeki projeyi gerçeğe dönüştürün. Web tasarım, yapay zeka, mobil uygulama, SCADA, GIS projeleri için hemen talep oluşturun. Artvin, Türkiye.">
+  <meta name="keywords" content="yazılım geliştirme, web tasarım, yapay zeka, AI, machine learning, web design, software development, Webentwicklung, Künstliche Intelligenz, تطوير المواقع, الذكاء الاصطناعي, programlama, programming, Python, React, Node.js, GIS, SCADA, siber güvenlik, cybersecurity, mobil uygulama, mobile app, e-ticaret, e-commerce, dijital dönüşüm, digital transformation, KODZEN, Artvin, Türkiye, Turkey, veri analizi, data analytics, bulut çözümleri, cloud solutions, WhatsApp otomasyon, chatbot, makine öğrenmesi">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Çağlayan Kurtoğlu — KODZEN TEKNOLOJİ">
+  <link rel="canonical" href="https://kodzen.io/proje-talebi.html">
+  <link rel="alternate" hreflang="tr" href="https://kodzen.io/proje-talebi.html">
+  <link rel="alternate" hreflang="x-default" href="https://kodzen.io/proje-talebi.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Proje Talebi — KODZEN TEKNOLOJİ">
+  <meta property="og:description" content="Hayalinizdeki projeyi anlatın, biz gerçeğe dönüştürelim! Web tasarım, yapay zeka, GIS, SCADA, mobil uygulama projeleri.">
+  <meta property="og:url" content="https://kodzen.io/proje-talebi.html">
+  <meta property="og:image" content="https://kodzen.io/images/og-kodzen.jpg">
+  <meta property="og:site_name" content="KODZEN TEKNOLOJİ">
+  <meta property="og:locale" content="tr_TR">
+  <!-- Bootstrap 5 -->
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <!-- Bootstrap Icons -->
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <!-- AOS -->
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <!-- Google Fonts -->
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/themes.css">
+  <script src="js/theme.js"></script>
+  <style>
+    .proje-hero {
+      padding: 100px 0 60px;
+      background: linear-gradient(135deg, var(--bg-dark) 0%, #0a1628 50%, #0d1f2d 100%);
+      position: relative;
+      overflow: hidden;
+    }
+    .proje-hero::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(ellipse at 30% 40%, rgba(0,196,160,0.07) 0%, transparent 60%),
+                  radial-gradient(ellipse at 70% 60%, rgba(96,165,250,0.05) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .form-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 2.5rem;
+      box-shadow: 0 20px 60px rgba(0,0,0,.4);
+    }
+    .form-card:hover {
+      border-color: var(--border-teal);
+    }
+    .form-label {
+      color: var(--text-main);
+      font-weight: 600;
+      font-size: .9rem;
+      margin-bottom: .4rem;
+    }
+    .form-control, .form-select {
+      background: var(--bg-dark);
+      border: 1px solid var(--border);
+      color: var(--text-main);
+      border-radius: 10px;
+      padding: .75rem 1rem;
+      transition: border-color .3s, box-shadow .3s;
+    }
+    .form-control:focus, .form-select:focus {
+      background: var(--bg-dark);
+      color: var(--text-main);
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(0,196,160,.15);
+    }
+    .form-control::placeholder {
+      color: var(--text-dim);
+    }
+    textarea.form-control {
+      min-height: 160px;
+      resize: vertical;
+    }
+    .btn-submit {
+      background: linear-gradient(135deg, var(--primary), #00a085);
+      color: #fff;
+      border: none;
+      padding: 1rem 2.5rem;
+      border-radius: 12px;
+      font-weight: 700;
+      font-size: 1.05rem;
+      letter-spacing: .5px;
+      transition: all .3s;
+      width: 100%;
+    }
+    .btn-submit:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(0,196,160,.3);
+      color: #fff;
+    }
+    .success-banner {
+      display: none;
+      background: linear-gradient(135deg, rgba(0,196,160,.15), rgba(0,196,160,.05));
+      border: 1px solid var(--primary);
+      border-radius: 16px;
+      padding: 2rem;
+      text-align: center;
+      animation: fadeInUp .5s ease;
+    }
+    .success-banner.show { display: block; }
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .step-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: rgba(0,196,160,.15);
+      color: var(--primary);
+      font-weight: 700;
+      font-size: .9rem;
+      margin-right: .75rem;
+      flex-shrink: 0;
+    }
+    .info-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 1.5rem;
+      transition: all .3s;
+    }
+    .info-card:hover {
+      border-color: var(--border-teal);
+      transform: translateY(-3px);
+    }
+    .budget-options .form-check-input:checked {
+      background-color: var(--primary);
+      border-color: var(--primary);
+    }
+    .char-count {
+      font-size: .75rem;
+      color: var(--text-dim);
+      text-align: right;
+      margin-top: .25rem;
+    }
+    .char-count.warn { color: #f59e0b; }
+    .char-count.over { color: #ef4444; }
+  </style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJİ</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Ürünler</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>
+            <li><a class="dropdown-item" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>
+            <li><a class="dropdown-item" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>
+            <li><a class="dropdown-item" href="viralbotpro.html"><i class="bi bi-play-circle me-2 text-primary-kodzen"></i>ViralBot Pro</a></li>
+          <li><a class="dropdown-item" href="siparis.html"><i class="bi bi-bag-heart me-2" style="color:#f7931e"></i>Siparım — Yemek Platformu</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="webgelistirme.html">Web Hizmetleri</a></li>
+        <li class="nav-item"><a class="nav-link" href="siberguvenik.html">Siber Güvenlik</a></li>
+        <li class="nav-item"><a class="nav-link" href="scada.html">SCADA</a></li>
+        <li class="nav-item"><a class="nav-link" href="fiyatlar.html">Fiyatlar</a></li>
+        <li class="nav-item" data-nav="galeri"><a class="nav-link" href="galeri.html">Galeri</a></li>
+        <li class="nav-item"><a class="nav-link" href="demo.html">Demo</a></li>
+        <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+      </ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="proje-hero">
+  <div class="container text-center">
+    <div data-aos="fade-down">
+      <span class="badge bg-primary-soft text-primary-kodzen mb-3 px-3 py-2" style="background:rgba(0,196,160,.1);border-radius:20px;font-size:.85rem;">
+        <i class="bi bi-rocket-takeoff me-2"></i>Proje Talebi
+      </span>
+      <h1 class="display-5 fw-bold mb-3">
+        Hayalinizi <span style="color:var(--primary)">Gerçeğe</span> Dönüştürelim
+      </h1>
+      <p class="lead text-dim mx-auto" style="max-width:600px;">
+        Projenizi bize anlatın — web sitesi, mobil uygulama, yapay zeka, GIS, SCADA veya başka bir fikir. 
+        En kısa sürede size özel teklif hazırlayalım.
+      </p>
+    </div>
+    <!-- Step indicators -->
+    <div class="row justify-content-center mt-4 g-3" data-aos="fade-up" data-aos-delay="100">
+      <div class="col-auto">
+        <div class="d-flex align-items-center">
+          <span class="step-badge">1</span>
+          <span class="text-dim" style="font-size:.85rem;">Formu Doldurun</span>
+        </div>
+      </div>
+      <div class="col-auto d-flex align-items-center"><i class="bi bi-arrow-right text-dim"></i></div>
+      <div class="col-auto">
+        <div class="d-flex align-items-center">
+          <span class="step-badge">2</span>
+          <span class="text-dim" style="font-size:.85rem;">Talebinizi Gönderin</span>
+        </div>
+      </div>
+      <div class="col-auto d-flex align-items-center"><i class="bi bi-arrow-right text-dim"></i></div>
+      <div class="col-auto">
+        <div class="d-flex align-items-center">
+          <span class="step-badge">3</span>
+          <span class="text-dim" style="font-size:.85rem;">Teklif Alın</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FORM SECTION -->
+<section class="py-5">
+  <div class="container">
+    <div class="row g-5 align-items-start">
+
+      <!-- FORM -->
+      <div class="col-lg-7" data-aos="fade-right">
+        <div class="form-card">
+          <h4 class="fw-bold mb-4"><i class="bi bi-pencil-square me-2 text-primary-kodzen"></i>Proje Bilgileri</h4>
+
+          <!-- Success Banner -->
+          <div class="success-banner" id="successBanner">
+            <div style="font-size:3rem;">🚀</div>
+            <h4 class="fw-bold mt-2" style="color:var(--primary)">Projeniz Alındı!</h4>
+            <p class="text-dim mb-3">En kısa sürede sizinle iletişime geçeceğiz.</p>
+            <p class="mb-3" style="font-size:.9rem;color:var(--text-dim);">
+              Ortalama yanıt süresi: <strong style="color:var(--primary)">24 saat</strong> içinde
+            </p>
+            <div class="d-flex gap-2 justify-content-center flex-wrap">
+              <a href="index.html" class="btn btn-outline-primary-kodzen btn-sm">
+                <i class="bi bi-house me-1"></i>Ana Sayfaya Dön
+              </a>
+              <button onclick="resetForm()" class="btn btn-sm" style="background:rgba(0,196,160,.1);color:var(--primary);border:1px solid var(--border-teal);">
+                <i class="bi bi-plus-circle me-1"></i>Yeni Talep
+              </button>
+            </div>
+          </div>
+
+          <form id="projeForm">
+            <!-- Contact Info -->
+            <div class="row g-3 mb-3">
+              <div class="col-md-6">
+                <label class="form-label"><i class="bi bi-person me-1 text-primary-kodzen"></i>Ad Soyad *</label>
+                <input type="text" class="form-control" id="adSoyad" placeholder="Adınız ve soyadınız" required>
+              </div>
+              <div class="col-md-6">
+                <label class="form-label"><i class="bi bi-envelope me-1 text-primary-kodzen"></i>E-posta *</label>
+                <input type="email" class="form-control" id="email" placeholder="ornek@email.com" required>
+              </div>
+            </div>
+
+            <div class="mb-3">
+              <label class="form-label"><i class="bi bi-telephone me-1 text-primary-kodzen"></i>Telefon</label>
+              <input type="tel" class="form-control" id="telefon" placeholder="05XX XXX XX XX">
+            </div>
+
+            <div class="mb-3">
+              <label class="form-label"><i class="bi bi-briefcase me-1 text-primary-kodzen"></i>Proje Başlığı *</label>
+              <input type="text" class="form-control" id="projeBasligi" placeholder="Örn: Kurumsal web sitesi, WhatsApp botu, GIS sistemi..." required>
+            </div>
+
+            <!-- Project Category -->
+            <div class="mb-3">
+              <label class="form-label"><i class="bi bi-grid me-1 text-primary-kodzen"></i>Proje Kategorisi</label>
+              <select class="form-select" id="kategori">
+                <option value="">Kategori seçin...</option>
+                <option value="web">🌐 Web Sitesi & Web Uygulaması</option>
+                <option value="mobil">📱 Mobil Uygulama (iOS / Android)</option>
+                <option value="ai">🤖 Yapay Zeka & Otomasyon</option>
+                <option value="gis">🗺️ GIS / Harita Sistemi</option>
+                <option value="scada">⚙️ SCADA & Endüstriyel Otomasyon</option>
+                <option value="whatsapp">💬 WhatsApp Bot & CRM</option>
+                <option value="seo">📈 SEO & Dijital Pazarlama</option>
+                <option value="siber">🛡️ Siber Güvenlik</option>
+                <option value="diger">✨ Diğer / Özel Proje</option>
+              </select>
+            </div>
+
+            <!-- Project Description -->
+            <div class="mb-3">
+              <label class="form-label"><i class="bi bi-chat-text me-1 text-primary-kodzen"></i>Projenizi Anlatın *</label>
+              <textarea class="form-control" id="projeAciklama" 
+                placeholder="Hayalinizi yazıya dökün... 
+
+Ne yapmak istiyorsunuz? Hedef kitleniz kim? Hangi özellikler olsun? 
+Referans aldığınız siteler/uygulamalar var mı?
+Ne kadar detay verirseniz o kadar iyi teklif hazırlayabiliriz." 
+                required maxlength="2000"></textarea>
+              <div class="char-count" id="charCount">0 / 2000 karakter</div>
+            </div>
+
+            <!-- Budget -->
+            <div class="mb-3">
+              <label class="form-label"><i class="bi bi-currency-dollar me-1 text-primary-kodzen"></i>Bütçe Aralığı</label>
+              <select class="form-select" id="butce">
+                <option value="">Bütçe aralığı seçin...</option>
+                <option value="1000-3000">₺1.000 – ₺3.000 (Temel)</option>
+                <option value="3000-7000">₺3.000 – ₺7.000 (Standart)</option>
+                <option value="7000-15000">₺7.000 – ₺15.000 (Gelişmiş)</option>
+                <option value="15000-30000">₺15.000 – ₺30.000 (Kurumsal)</option>
+                <option value="30000+">₺30.000+ (Enterprise)</option>
+                <option value="belirsiz">Henüz bilmiyorum / Teklif istiyorum</option>
+              </select>
+            </div>
+
+            <!-- Timeline -->
+            <div class="mb-4">
+              <label class="form-label"><i class="bi bi-calendar3 me-1 text-primary-kodzen"></i>İstenen Teslim Süresi</label>
+              <select class="form-select" id="sure">
+                <option value="">Süre seçin...</option>
+                <option value="1hafta">1 Haftadan Az (Acil)</option>
+                <option value="2hafta">1 – 2 Hafta</option>
+                <option value="1ay">2 Hafta – 1 Ay</option>
+                <option value="3ay">1 – 3 Ay</option>
+                <option value="3ay+">3 Aydan Fazla</option>
+                <option value="esnek">Esnek / Görüşelim</option>
+              </select>
+            </div>
+
+            <!-- How did you hear -->
+            <div class="mb-4">
+              <label class="form-label"><i class="bi bi-megaphone me-1 text-primary-kodzen"></i>Bizi Nereden Duydunuz?</label>
+              <select class="form-select" id="kaynak">
+                <option value="">Seçin...</option>
+                <option value="google">Google Arama</option>
+                <option value="sosyal">Sosyal Medya</option>
+                <option value="tavsiye">Tavsiye / Referans</option>
+                <option value="reklam">Reklam</option>
+                <option value="diger">Diğer</option>
+              </select>
+            </div>
+
+            <button type="submit" class="btn-submit">
+              <i class="bi bi-send-fill me-2"></i>Proje Talebimi Gönder
+            </button>
+
+            <p class="text-center mt-3" style="font-size:.8rem;color:var(--text-dim);">
+              <i class="bi bi-lock me-1"></i>Bilgileriniz güvende — asla üçüncü taraflarla paylaşılmaz.
+            </p>
+          </form>
+        </div>
+      </div>
+
+      <!-- SIDEBAR INFO -->
+      <div class="col-lg-5" data-aos="fade-left">
+        <!-- Why KODZEN -->
+        <div class="info-card mb-4">
+          <h5 class="fw-bold mb-3"><i class="bi bi-star-fill me-2 text-warning"></i>Neden KODZEN?</h5>
+          <div class="d-flex flex-column gap-3">
+            <div class="d-flex align-items-start gap-3">
+              <i class="bi bi-check-circle-fill text-primary-kodzen mt-1" style="font-size:1.1rem;flex-shrink:0;"></i>
+              <div>
+                <div class="fw-semibold" style="font-size:.9rem;">10+ Yıl Deneyim</div>
+                <div class="text-dim" style="font-size:.8rem;">BT sistemleri, yazılım geliştirme ve GIS alanında uzman kadro</div>
+              </div>
+            </div>
+            <div class="d-flex align-items-start gap-3">
+              <i class="bi bi-check-circle-fill text-primary-kodzen mt-1" style="font-size:1.1rem;flex-shrink:0;"></i>
+              <div>
+                <div class="fw-semibold" style="font-size:.9rem;">Yapay Zeka Entegrasyonu</div>
+                <div class="text-dim" style="font-size:.8rem;">GPT-4, Claude, Gemini ile güçlendirilmiş akıllı çözümler</div>
+              </div>
+            </div>
+            <div class="d-flex align-items-start gap-3">
+              <i class="bi bi-check-circle-fill text-primary-kodzen mt-1" style="font-size:1.1rem;flex-shrink:0;"></i>
+              <div>
+                <div class="fw-semibold" style="font-size:.9rem;">Hızlı Teslimat</div>
+                <div class="text-dim" style="font-size:.8rem;">Çevik metodoloji ile zamanında, kaliteli teslim garantisi</div>
+              </div>
+            </div>
+            <div class="d-flex align-items-start gap-3">
+              <i class="bi bi-check-circle-fill text-primary-kodzen mt-1" style="font-size:1.1rem;flex-shrink:0;"></i>
+              <div>
+                <div class="fw-semibold" style="font-size:.9rem;">Destek & Bakım</div>
+                <div class="text-dim" style="font-size:.8rem;">Proje sonrası teknik destek ve güncelleme hizmetleri</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact Direct -->
+        <div class="info-card mb-4">
+          <h5 class="fw-bold mb-3"><i class="bi bi-headset me-2 text-primary-kodzen"></i>Direkt İletişim</h5>
+          <p class="text-dim" style="font-size:.85rem;">Formu doldurmak istemiyorsanız direkt ulaşabilirsiniz:</p>
+          <div class="d-flex flex-column gap-2">
+            <a href="https://wa.me/905458966096" target="_blank" class="d-flex align-items-center gap-2 text-decoration-none" style="color:var(--text-main)">
+              <i class="bi bi-whatsapp" style="color:#25d366;font-size:1.2rem;"></i>
+              <span style="font-size:.9rem;">+90 545 896 6096 (WhatsApp)</span>
+            </a>
+            <a href="mailto:kurtoqluo8@gmail.com" class="d-flex align-items-center gap-2 text-decoration-none" style="color:var(--text-main)">
+              <i class="bi bi-envelope" style="color:var(--primary);font-size:1.2rem;"></i>
+              <span style="font-size:.9rem;">kurtoqluo8@gmail.com</span>
+            </a>
+            <a href="iletisim.html" class="d-flex align-items-center gap-2 text-decoration-none" style="color:var(--text-main)">
+              <i class="bi bi-geo-alt" style="color:#f59e0b;font-size:1.2rem;"></i>
+              <span style="font-size:.9rem;">Artvin, Türkiye</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Response time -->
+        <div class="info-card" style="background:linear-gradient(135deg,rgba(0,196,160,.08),rgba(0,196,160,.02));border-color:var(--border-teal);">
+          <div class="d-flex align-items-center gap-3">
+            <div style="font-size:2.5rem;">⚡</div>
+            <div>
+              <div class="fw-bold" style="color:var(--primary);">Hızlı Yanıt Garantisi</div>
+              <div class="text-dim" style="font-size:.85rem;">Mesai saatleri içinde ortalama <strong style="color:var(--text-main);">2-4 saat</strong> içinde dönüş yapıyoruz.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Recent projects hint -->
+        <div class="mt-4 text-center">
+          <p class="text-dim" style="font-size:.8rem;">Daha önce ne yaptık?</p>
+          <a href="galeri.html" class="btn btn-sm" style="background:rgba(0,196,160,.1);color:var(--primary);border:1px solid var(--border-teal);border-radius:8px;">
+            <i class="bi bi-images me-1"></i>Portföyü İncele
+          </a>
+          &nbsp;
+          <a href="fiyatlar.html" class="btn btn-sm" style="background:rgba(96,165,250,.1);color:#60a5fa;border:1px solid rgba(96,165,250,.3);border-radius:8px;">
+            <i class="bi bi-tag me-1"></i>Fiyat Listesi
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-4">
+        <div class="footer-brand">
+          <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+          <div style="font-size:.6rem;letter-spacing:4px;color:var(--text-dim);text-transform:uppercase;font-weight:600;margin-top:2px">TEKNOLOJİ</div>
+        </div>
+        <p class="footer-desc">Yazılım geliştirme, GIS/SCADA altyapı sistemleri ve kurumsal BT çözümleri.</p>
+        <div class="social-links mt-3">
+          <a href="https://github.com/Caqlayano8" target="_blank" class="social-link" title="GitHub"><i class="bi bi-github"></i></a>
+          <a href="mailto:kurtoqluo8@gmail.com" class="social-link" title="E-posta"><i class="bi bi-envelope"></i></a>
+          <a href="https://wa.me/905458966096" target="_blank" class="social-link" title="WhatsApp"><i class="bi bi-whatsapp"></i></a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Ürünler</div>
+        <ul class="footer-links">
+          <li><a href="ai-gis.html">AI-GIS System</a></li>
+          <li><a href="whatsypzck.html">WhatsYpzck</a></li>
+          <li><a href="ckmesaj.html">CKmesaj</a></li>
+          <li><a href="viralbotpro.html">ViralBot Pro</a></li>
+          <li><a href="siparis.html">Siparım</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Sayfalar</div>
+        <ul class="footer-links">
+          <li><a href="index.html">Ana Sayfa</a></li>
+          <li><a href="cv.html">CV / Özgeçmiş</a></li>
+          <li><a href="webgelistirme.html">Web Hizmetleri</a></li>
+          <li><a href="fiyatlar.html">Fiyatlar</a></li>
+          <li><a href="galeri.html">Galeri</a></li>
+          <li><a href="demo.html">Demo</a></li>
+          <li><a href="siberguvenik.html">Siber Güvenlik</a></li>
+          <li><a href="scada.html">SCADA</a></li>
+          <li><a href="temalar.html">Temalar</a></li>
+          <li><a href="iletisim.html">İletişim</a></li>
+          <li><a href="proje-talebi.html" style="color:var(--primary)">Proje Talebi</a></li>
+          <li><a href="terms.html">Hizmet Şartları</a></li>
+          <li><a href="privacy.html">Gizlilik Politikası</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <div class="footer-heading">İletişim</div>
+        <div class="footer-contact-item"><i class="bi bi-geo-alt"></i> Artvin, Türkiye</div>
+        <div class="footer-contact-item"><i class="bi bi-telephone"></i> <a href="tel:05458966096">0545 896 6096</a></div>
+        <div class="footer-contact-item"><i class="bi bi-envelope"></i> <a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+        <div class="footer-contact-item"><i class="bi bi-github"></i> <a href="https://github.com/Caqlayano8" target="_blank">github.com/Caqlayano8</a></div>
+      </div>
+    </div>
+    <hr class="footer-divider">
+    <div class="footer-bottom">
+      <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOLOJİ</span> — Tüm hakları saklıdır.</p>
+      <p class="footer-copy mb-0">Geliştirici: <span>Çağlayan Kurtoğlu</span></p>
+    </div>
+  </div>
+</footer>
+
+<!-- Live Chat -->
+<div class="live-chat-widget">
+  <a id="liveChatBtn" href="https://wa.me/905458966096" target="_blank" class="chat-toggle-btn" title="WhatsApp ile İletişim">
+    <span class="pulse-ring"></span>
+    <i class="bi bi-whatsapp"></i>
+  </a>
+</div>
+
+<!-- Scripts -->
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/main.js"></script>
+<script>
+  AOS.init({ duration: 700, once: true });
+
+  // Character count for textarea
+  const textarea = document.getElementById('projeAciklama');
+  const charCount = document.getElementById('charCount');
+  textarea.addEventListener('input', function() {
+    const len = this.value.length;
+    charCount.textContent = len + ' / 2000 karakter';
+    charCount.className = 'char-count' + (len > 1800 ? ' over' : len > 1500 ? ' warn' : '');
+  });
+
+  // Form submission
+  document.getElementById('projeForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    const formData = {
+      id: 'PT-' + Date.now(),
+      tarih: new Date().toLocaleString('tr-TR'),
+      adSoyad: document.getElementById('adSoyad').value,
+      email: document.getElementById('email').value,
+      telefon: document.getElementById('telefon').value,
+      projeBasligi: document.getElementById('projeBasligi').value,
+      kategori: document.getElementById('kategori').value,
+      projeAciklama: document.getElementById('projeAciklama').value,
+      butce: document.getElementById('butce').value,
+      sure: document.getElementById('sure').value,
+      kaynak: document.getElementById('kaynak').value,
+      durum: 'Beklemede'
+    };
+
+    // Save to localStorage
+    const talepler = JSON.parse(localStorage.getItem('kodzenProjeTalepleri') || '[]');
+    talepler.unshift(formData);
+    localStorage.setItem('kodzenProjeTalepleri', JSON.stringify(talepler));
+
+    // Show success
+    document.getElementById('projeForm').style.display = 'none';
+    document.getElementById('successBanner').classList.add('show');
+
+    // Scroll to banner
+    document.getElementById('successBanner').scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+
+  function resetForm() {
+    document.getElementById('projeForm').reset();
+    document.getElementById('projeForm').style.display = 'block';
+    document.getElementById('successBanner').classList.remove('show');
+    document.getElementById('charCount').textContent = '0 / 2000 karakter';
+  }
+</script>
+<script src="js/proje-popup.js"></script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+
+<script src="js/page-animations.js"></script>
+</body>
+</html>
