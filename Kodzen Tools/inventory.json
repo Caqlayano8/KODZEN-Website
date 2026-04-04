@@ -1,0 +1,722 @@
+[
+  {
+    "id": "choremanager",
+    "name": "Kodzen ChoreManager",
+    "group": "aileler",
+    "summary": "Ev isleri gorev dagilimi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "familybudget",
+    "name": "Kodzen FamilyBudget",
+    "group": "aileler",
+    "summary": "Aile butcesi takibi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "familycalendar",
+    "name": "Kodzen FamilyCalendar",
+    "group": "aileler",
+    "summary": "Ortak aile takvimi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "kidstracker",
+    "name": "Kodzen KidsTracker",
+    "group": "aileler",
+    "summary": "Cocuklarin gunluk aktivitelerini takip.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "mealplanner",
+    "name": "Kodzen MealPlanner",
+    "group": "aileler",
+    "summary": "Haftalik yemek plani.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "applocker",
+    "name": "Kodzen AppLocker",
+    "group": "android",
+    "summary": "Uygulama kilitleme.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "batterysaver",
+    "name": "Kodzen BatterySaver",
+    "group": "android",
+    "summary": "Pil optimizasyonu.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "callrecorder",
+    "name": "Kodzen CallRecorder",
+    "group": "android",
+    "summary": "Arama kaydedici.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "cleaner",
+    "name": "Kodzen Cleaner",
+    "group": "android",
+    "summary": "Gereksiz dosya temizleyici.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "healthmonitor",
+    "name": "Kodzen HealthMonitor",
+    "group": "android",
+    "summary": "Adim sayaci ve saglik takibi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "attendance",
+    "name": "Kodzen Attendance",
+    "group": "egitimciler",
+    "summary": "Ogrenci yoklama takibi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "classplanner",
+    "name": "Kodzen ClassPlanner",
+    "group": "egitimciler",
+    "summary": "Ders plani olusturma ve paylasma.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "gradebook",
+    "name": "Kodzen GradeBook",
+    "group": "egitimciler",
+    "summary": "Not defteri ve otomatik ortalama hesaplama.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "lecturetimer",
+    "name": "Kodzen LectureTimer",
+    "group": "egitimciler",
+    "summary": "Ders suresini yonetme ve mola hatirlatici.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "quizmaker",
+    "name": "Kodzen QuizMaker",
+    "group": "egitimciler",
+    "summary": "Hizli quiz hazirlama ve ogrenciye gonderme.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "analytics",
+    "name": "Kodzen Analytics",
+    "group": "is-yerleri",
+    "summary": "Is performans analizi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "assetmanager",
+    "name": "Kodzen AssetManager",
+    "group": "is-yerleri",
+    "summary": "Sirket varlik takibi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "collaboration",
+    "name": "Kodzen Collaboration",
+    "group": "is-yerleri",
+    "summary": "Calisanlar arasi dosya paylasimi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "crm",
+    "name": "Kodzen CRM",
+    "group": "is-yerleri",
+    "summary": "Musteri iliskileri yonetimi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "hrdesk",
+    "name": "Kodzen HRDesk",
+    "group": "is-yerleri",
+    "summary": "Insan kaynaklari yonetimi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "inventory",
+    "name": "Kodzen Inventory",
+    "group": "is-yerleri",
+    "summary": "Stok takibi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "invoicepro",
+    "name": "Kodzen InvoicePro",
+    "group": "is-yerleri",
+    "summary": "Fatura olusturma.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "meetingscheduler",
+    "name": "Kodzen MeetingScheduler",
+    "group": "is-yerleri",
+    "summary": "Toplanti planlama.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "payroll",
+    "name": "Kodzen Payroll",
+    "group": "is-yerleri",
+    "summary": "Maas ve bordro sistemi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "projectflow",
+    "name": "Kodzen ProjectFlow",
+    "group": "is-yerleri",
+    "summary": "Proje yonetimi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "securitycheck",
+    "name": "Kodzen SecurityCheck",
+    "group": "is-yerleri",
+    "summary": "Is yeri guvenlik kontrolu.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "supportdesk",
+    "name": "Kodzen SupportDesk",
+    "group": "is-yerleri",
+    "summary": "Musteri destek sistemi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "timetracker",
+    "name": "Kodzen TimeTracker",
+    "group": "is-yerleri",
+    "summary": "Calisma saatlerini takip.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "traininghub",
+    "name": "Kodzen TrainingHub",
+    "group": "is-yerleri",
+    "summary": "Calisan egitim platformu.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "visitorlog",
+    "name": "Kodzen VisitorLog",
+    "group": "is-yerleri",
+    "summary": "Ziyaretci kayit sistemi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "docmanager",
+    "name": "Kodzen DocManager",
+    "group": "memurlar",
+    "summary": "Evrak duzenleme ve arsivleme.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "meetingnotes",
+    "name": "Kodzen MeetingNotes",
+    "group": "memurlar",
+    "summary": "Toplanti notlarini kaydetme.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "securemail",
+    "name": "Kodzen SecureMail",
+    "group": "memurlar",
+    "summary": "Guvenli e-posta istemcisi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "taskdesk",
+    "name": "Kodzen TaskDesk",
+    "group": "memurlar",
+    "summary": "Gunluk gorev takibi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "workflow",
+    "name": "Kodzen Workflow",
+    "group": "memurlar",
+    "summary": "Is akisi yonetimi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "cryptosafe",
+    "name": "Kodzen CryptoSafe",
+    "group": "siber-guvenlik",
+    "summary": "Dosya/metin sifreleme.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "loganalyzer",
+    "name": "Kodzen LogAnalyzer",
+    "group": "siber-guvenlik",
+    "summary": "Sistem loglarini analiz eder.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "phishalert",
+    "name": "Kodzen PhishAlert",
+    "group": "siber-guvenlik",
+    "summary": "Phishing kontrolu yapar.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "secureaudit",
+    "name": "Kodzen SecureAudit",
+    "group": "siber-guvenlik",
+    "summary": "Guvenlik checklist raporu.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "vulnscanner",
+    "name": "Kodzen Vulnerability Scanner",
+    "group": "siber-guvenlik",
+    "summary": "Web uygulamasi aciklarini tarar.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "apimockserver",
+    "name": "Kodzen API MockServer",
+    "group": "yazilimcilar",
+    "summary": "Sahte API endpoint olusturma.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "codereview-assistant",
+    "name": "Kodzen CodeReview Assistant",
+    "group": "yazilimcilar",
+    "summary": "Kod analizi ve oneriler.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "devtracker",
+    "name": "Kodzen DevTracker",
+    "group": "yazilimcilar",
+    "summary": "Proje ve bug takibi.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "profiler",
+    "name": "Kodzen Performance Profiler",
+    "group": "yazilimcilar",
+    "summary": "Kod performans olcumu.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "regexbuilder",
+    "name": "Kodzen RegexBuilder",
+    "group": "yazilimcilar",
+    "summary": "Regex olusturma ve test.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-1",
+    "name": "Kodzen Prototype 1",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-10",
+    "name": "Kodzen Prototype 10",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-11",
+    "name": "Kodzen Prototype 11",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-12",
+    "name": "Kodzen Prototype 12",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-13",
+    "name": "Kodzen Prototype 13",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-14",
+    "name": "Kodzen Prototype 14",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-15",
+    "name": "Kodzen Prototype 15",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-2",
+    "name": "Kodzen Prototype 2",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-3",
+    "name": "Kodzen Prototype 3",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-4",
+    "name": "Kodzen Prototype 4",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-5",
+    "name": "Kodzen Prototype 5",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-6",
+    "name": "Kodzen Prototype 6",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-7",
+    "name": "Kodzen Prototype 7",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-8",
+    "name": "Kodzen Prototype 8",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  },
+  {
+    "id": "prototype-9",
+    "name": "Kodzen Prototype 9",
+    "group": "yeni-fikirler",
+    "summary": "Erken asama urun fikri, hizli PoC ve geri bildirim odakli.",
+    "paths": {
+      "demo": "demo/index.html",
+      "setup_ps1": "setup/setup.ps1",
+      "setup_bat": "setup/setup.bat",
+      "docs": "docs/tanitim.txt"
+    }
+  }
+]

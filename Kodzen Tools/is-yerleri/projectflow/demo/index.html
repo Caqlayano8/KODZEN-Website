@@ -3,25 +3,159 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kodzen ProjectFlow Demo</title>
+  <title>Kodzen ProjectFlow - Demo</title>
   <style>
-    body { font-family: Segoe UI, Arial, sans-serif; background:#0d1117; color:#e2e8f0; margin:0; padding:32px; }
-    .card { max-width:860px; margin:0 auto; border:1px solid #243041; background:#141b27; border-radius:12px; padding:24px; }
-    h1 { margin-top:0; color:#00c4a0; }
-    .muted { color:#94a3b8; }
+    :root { --bg:#0d1117; --card:#151d2a; --line:#243041; --txt:#e6edf3; --muted:#9fb0c6; --primary:#00c4a0; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family:Segoe UI,Arial,sans-serif; background:linear-gradient(140deg,#0b1019,#111a2a); color:var(--txt); }
+    .wrap { max-width: 980px; margin: 0 auto; padding: 24px; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; margin-bottom:14px; }
+    h1 { margin:0 0 8px; color:var(--primary); font-size:1.55rem; }
+    .meta { color:var(--muted); font-size:.92rem; }
+    .tabs { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:10px; }
+    .tab { border:1px solid var(--line); background:#0f1623; color:var(--muted); padding:8px 12px; border-radius:9px; cursor:pointer; font-weight:600; }
+    .tab.active { color:#fff; border-color:var(--primary); background:rgba(0,196,160,.12); }
+    .panel { display:none; }
+    .panel.active { display:block; }
+    .grid { display:grid; gap:10px; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); }
+    label { display:block; font-size:.84rem; color:var(--muted); margin-bottom:4px; }
+    input, textarea, select { width:100%; padding:10px; border-radius:9px; border:1px solid var(--line); background:#0f1623; color:var(--txt); }
+    textarea { min-height:96px; resize:vertical; }
+    .row { display:flex; gap:8px; flex-wrap:wrap; margin-top:10px; }
+    button { border:1px solid var(--line); background:#0f1623; color:var(--txt); padding:9px 13px; border-radius:9px; cursor:pointer; }
+    .btn-primary { border-color:var(--primary); background:rgba(0,196,160,.13); color:#eafff9; }
+    ul { margin:10px 0 0; padding-left:18px; }
+    li { margin-bottom:6px; color:#c4d1e2; }
+    .pill { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:4px 10px; color:var(--muted); font-size:.78rem; margin-right:6px; }
+    .footer-note { color:var(--muted); font-size:.82rem; margin-top:10px; }
   </style>
 </head>
 <body>
-  <div class="card">
-    <h1>Kodzen ProjectFlow - Demo Surumu</h1>
-    <p class="muted">Kategori: is-yerleri</p>
-    <p>Proje yonetimi.</p>
-    <h3>Demo Notlari</h3>
-    <ul>
-      <li>Bu ekran PoC/demo iskeletidir.</li>
-      <li>Gercek veri baglantisi sonraki asamada eklenecektir.</li>
-      <li>Kullanici akislarina gore formlar ve API endpointleri doldurulacaktir.</li>
-    </ul>
+  <div class="wrap">
+    <div class="card">
+      <h1>Kodzen ProjectFlow</h1>
+      <div class="meta">Kategori: is-yerleri • Kimlik: projectflow</div>
+      <p>Proje yonetimi.</p>
+      <div>
+        <span class="pill">Tanitim</span>
+        <span class="pill">Demo</span>
+        <span class="pill">Download / Setup</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="tabs">
+        <button class="tab active" data-tab="intro">Tanitim</button>
+        <button class="tab" data-tab="demo">Demo</button>
+        <button class="tab" data-tab="download">Download</button>
+      </div>
+
+      <section id="panel-intro" class="panel active">
+        <h3>Uygulama Tanitimi</h3>
+        <p>Proje yonetimi.</p>
+        <ul>
+          <li>Bu surum, urunun temel akislarini gosteren profesyonel bir demo paketidir.</li>
+          <li>Kayitlar tarayicida yerel depolamada tutulur (localStorage).</li>
+          <li>Sonraki fazda API, rol yonetimi ve raporlama modulleri eklenir.</li>
+        </ul>
+      </section>
+
+      <section id="panel-demo" class="panel">
+        <h3>Calisan Demo</h3>
+        <div class="grid">
+          <div>
+            <label>Baslik</label>
+            <input id="itemTitle" placeholder="Yeni kayit basligi" />
+          </div>
+          <div>
+            <label>Durum</label>
+            <select id="itemStatus">
+              <option value="Planlandi">Planlandi</option>
+              <option value="Devam Ediyor">Devam Ediyor</option>
+              <option value="Tamamlandi">Tamamlandi</option>
+            </select>
+          </div>
+          <div style="grid-column:1/-1">
+            <label>Aciklama</label>
+            <textarea id="itemDesc" placeholder="Kisa aciklama"></textarea>
+          </div>
+        </div>
+        <div class="row">
+          <button id="saveBtn" class="btn-primary">Kaydet</button>
+          <button id="clearBtn">Temizle</button>
+        </div>
+        <ul id="itemList"></ul>
+      </section>
+
+      <section id="panel-download" class="panel">
+        <h3>Download ve Kurulum</h3>
+        <p>Bu uygulama icin setup ve dokuman dosyalari:</p>
+        <div class="row">
+          <a href="../setup/setup.ps1"><button class="btn-primary">Setup (PowerShell)</button></a>
+          <a href="../setup/setup.bat"><button>Setup (BAT)</button></a>
+          <a href="../docs/tanitim.txt"><button>Tanitim Dokumani</button></a>
+          <a href="../app.json"><button>Uygulama Metadatasi</button></a>
+        </div>
+        <div class="footer-note">Olusturma tarihi: 2026-04-04 21:07</div>
+      </section>
+    </div>
   </div>
+
+  <script>
+    (function() {
+      var KEY = 'kodzen_tools_projectflow_items';
+
+      function q(id) { return document.getElementById(id); }
+      function read() { try { return JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (_) { return []; } }
+      function write(v) { localStorage.setItem(KEY, JSON.stringify(v)); }
+
+      function render() {
+        var list = q('itemList');
+        var items = read();
+        list.innerHTML = items.map(function(it, i) {
+          return '<li><strong>' + it.title + '</strong> [' + it.status + '] - ' + it.desc + ' <button data-i="' + i + '" class="del">Sil</button></li>';
+        }).join('');
+        Array.prototype.forEach.call(document.querySelectorAll('.del'), function(btn) {
+          btn.addEventListener('click', function() {
+            var idx = Number(this.getAttribute('data-i'));
+            var data = read();
+            data.splice(idx, 1);
+            write(data);
+            render();
+          });
+        });
+      }
+
+      q('saveBtn').addEventListener('click', function() {
+        var title = q('itemTitle').value.trim();
+        var status = q('itemStatus').value;
+        var desc = q('itemDesc').value.trim();
+        if (!title) return;
+        var data = read();
+        data.push({ title: title, status: status, desc: desc, createdAt: new Date().toISOString() });
+        write(data);
+        q('itemTitle').value = '';
+        q('itemDesc').value = '';
+        render();
+      });
+
+      q('clearBtn').addEventListener('click', function() {
+        q('itemTitle').value = '';
+        q('itemDesc').value = '';
+      });
+
+      Array.prototype.forEach.call(document.querySelectorAll('.tab'), function(tab) {
+        tab.addEventListener('click', function() {
+          var key = this.getAttribute('data-tab');
+          Array.prototype.forEach.call(document.querySelectorAll('.tab'), function(t) { t.classList.remove('active'); });
+          Array.prototype.forEach.call(document.querySelectorAll('.panel'), function(p) { p.classList.remove('active'); });
+          this.classList.add('active');
+          q('panel-' + key).classList.add('active');
+        });
+      });
+
+      render();
+    })();
+  </script>
 </body>
 </html>
