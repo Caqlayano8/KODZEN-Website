@@ -55,6 +55,9 @@
       <button class="sidebar-nav-item" data-section="robotik">
         <i class="bi bi-robot"></i> Robotik Kodlama
       </button>
+      <button class="sidebar-nav-item" data-section="newsletter">
+        <i class="bi bi-bell"></i> Bülten & Bildirim
+      </button>
       <button class="sidebar-nav-item" data-section="settings">
         <i class="bi bi-gear"></i> Ayarlar
       </button>
@@ -494,6 +497,97 @@
                 <button type="button" class="btn-admin-outline" id="robotikResetBtn">Varsayılanı Yükle</button>
               </div>
             </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ BÜLTEN & BİLDİRİM ══ -->
+      <div id="section-newsletter" class="admin-section">
+        <div class="row g-4">
+          <div class="col-xl-7">
+            <div class="admin-card">
+              <div class="admin-card-header">
+                <span class="admin-card-title"><i class="bi bi-megaphone"></i> Yeni Konu Bildirimi Yayınla</span>
+              </div>
+              <div class="admin-card-body">
+                <div id="newsletterAlert" style="display:none"></div>
+                <form id="newsletterTopicForm">
+                  <div class="admin-form-group">
+                    <label class="admin-form-label" for="nTopicTitle">Konu Başlığı</label>
+                    <input type="text" id="nTopicTitle" class="admin-form-control" placeholder="Örn: Robotik serisine yeni modül eklendi" required>
+                  </div>
+                  <div class="admin-form-group">
+                    <label class="admin-form-label" for="nTopicSummary">Kısa Özet</label>
+                    <textarea id="nTopicSummary" class="admin-form-control" rows="3" placeholder="Bu konu bildirime kısa özet olarak gider."></textarea>
+                  </div>
+                  <div class="admin-form-group">
+                    <label class="admin-form-label" for="nTopicUrl">Yönlendirme URL</label>
+                    <input type="text" id="nTopicUrl" class="admin-form-control" placeholder="teknoloji-blog.html">
+                  </div>
+                  <button type="submit" class="btn-admin-primary"><i class="bi bi-send"></i> Bildirim Olarak Yayınla</button>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-5">
+            <div class="admin-card">
+              <div class="admin-card-header">
+                <span class="admin-card-title"><i class="bi bi-people"></i> Bülten Özeti</span>
+              </div>
+              <div class="admin-card-body">
+                <div class="d-flex justify-content-between mb-2">
+                  <span style="color:var(--text-dim)">Toplam Abone</span>
+                  <strong id="newsletterSubCount">0</strong>
+                </div>
+                <div class="d-flex justify-content-between mb-2">
+                  <span style="color:var(--text-dim)">Yayınlanan Konu</span>
+                  <strong id="newsletterTopicCount">0</strong>
+                </div>
+                <div class="d-flex justify-content-between">
+                  <span style="color:var(--text-dim)">Son Yayın</span>
+                  <strong id="newsletterLastPublish">—</strong>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="admin-card">
+              <div class="admin-card-header">
+                <span class="admin-card-title"><i class="bi bi-list-check"></i> Abone Listesi</span>
+              </div>
+              <div class="table-responsive">
+                <table class="admin-table">
+                  <thead>
+                    <tr>
+                      <th>E-posta</th>
+                      <th>Kaynak</th>
+                      <th>Durum</th>
+                      <th>Kayıt Tarihi</th>
+                    </tr>
+                  </thead>
+                  <tbody id="newsletterSubscribersTbody"></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="admin-card">
+              <div class="admin-card-header">
+                <span class="admin-card-title"><i class="bi bi-journal-text"></i> Yayınlanan Konular</span>
+              </div>
+              <div class="table-responsive">
+                <table class="admin-table">
+                  <thead>
+                    <tr>
+                      <th>Başlık</th>
+                      <th>URL</th>
+                      <th>Tarih</th>
+                    </tr>
+                  </thead>
+                  <tbody id="newsletterTopicsTbody"></tbody>
+                </table>
+              </div>
+            </div>
           </div>
         </div>
       </div>

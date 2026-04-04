@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
   renderMessages();
   loadSettings();
   loadRobotikContent();
+  renderNewsletterAdmin();
 
   /* ── Sidebar Navigation ── */
   document.querySelectorAll('.sidebar-nav-item[data-section]').forEach(item => {
@@ -99,6 +100,11 @@ document.addEventListener('DOMContentLoaded', function () {
   document.getElementById('robotikImportApplyBtn')?.addEventListener('click', applyRobotikImportPreview);
   document.getElementById('robotikImportCancelBtn')?.addEventListener('click', clearRobotikImportPreview);
 
+  document.getElementById('newsletterTopicForm')?.addEventListener('submit', function (e) {
+    e.preventDefault();
+    publishNewsletterTopic();
+  });
+
 });
 
 /* ── Show Section ── */
@@ -122,6 +128,7 @@ function showSection(sectionId) {
     themes: 'Temalar',
     ticker: 'Haber Bandı',
     robotik: 'Robotik Kodlama',
+    newsletter: 'Bülten & Bildirim',
     settings: 'Ayarlar'
   };
   const topbarTitle = document.getElementById('topbarTitle');
@@ -622,6 +629,104 @@ function applyRobotikImportPreview() {
   loadRobotikContent();
   clearRobotikImportPreview();
   showAdminAlert('robotikAlert', 'success', 'Önizleme verisi başarıyla uygulandı.');
+}
+
+/* ── Newsletter ── */
+function getNewsletterSubscribers() {
+  try {
+    const items = JSON.parse(localStorage.getItem('kodzen_newsletter_subscribers') || '[]');
+    return Array.isArray(items) ? items : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function getNewsletterTopics() {
+  try {
+    const items = JSON.parse(localStorage.getItem('kodzen_news_topics') || '[]');
+    return Array.isArray(items) ? items : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function renderNewsletterAdmin() {
+  const subscribers = getNewsletterSubscribers();
+  const topics = getNewsletterTopics();
+
+  const subBody = document.getElementById('newsletterSubscribersTbody');
+  if (subBody) {
+    if (!subscribers.length) {
+      subBody.innerHTML = '<tr><td colspan="4" class="text-center" style="color:var(--text-dim);padding:20px">Henüz bülten abonesi yok.</td></tr>';
+    } else {
+      subBody.innerHTML = subscribers.map(s => `
+        <tr>
+          <td style="color:#fff">${esc(s.email || '')}</td>
+          <td>${esc(s.source || '—')}</td>
+          <td>${s.active === false ? '<span class="badge-gray">Pasif</span>' : '<span class="badge-teal">Aktif</span>'}</td>
+          <td style="white-space:nowrap;color:var(--text-dim)">${formatIsoDate(s.createdAt || s.updatedAt)}</td>
+        </tr>`).join('');
+    }
+  }
+
+  const topicBody = document.getElementById('newsletterTopicsTbody');
+  if (topicBody) {
+    if (!topics.length) {
+      topicBody.innerHTML = '<tr><td colspan="3" class="text-center" style="color:var(--text-dim);padding:20px">Henüz yayınlanmış konu yok.</td></tr>';
+    } else {
+      topicBody.innerHTML = topics.slice().reverse().map(t => `
+        <tr>
+          <td style="color:#fff;font-weight:600">${esc(t.title || '')}</td>
+          <td><a href="../${esc(t.url || 'teknoloji-blog.html')}" target="_blank" style="color:var(--primary)">${esc(t.url || 'teknoloji-blog.html')}</a></td>
+          <td style="white-space:nowrap;color:var(--text-dim)">${formatIsoDate(t.createdAt)}</td>
+        </tr>`).join('');
+    }
+  }
+
+  setEl('newsletterSubCount', subscribers.length);
+  setEl('newsletterTopicCount', topics.length);
+  const last = topics.length ? formatIsoDate(topics[topics.length - 1].createdAt) : '—';
+  setEl('newsletterLastPublish', last);
+}
+
+function publishNewsletterTopic() {
+  const title = document.getElementById('nTopicTitle')?.value.trim() || '';
+  const summary = document.getElementById('nTopicSummary')?.value.trim() || '';
+  const urlRaw = document.getElementById('nTopicUrl')?.value.trim() || 'teknoloji-blog.html';
+  const url = urlRaw.replace(/^\/+/, '') || 'teknoloji-blog.html';
+
+  if (!title) {
+    showAdminAlert('newsletterAlert', 'error', 'Konu başlığı zorunludur.');
+    return;
+  }
+
+  const topics = getNewsletterTopics();
+  topics.push({
+    id: Date.now(),
+    title,
+    summary,
+    url,
+    timestamp: Date.now(),
+    createdAt: new Date().toISOString()
+  });
+
+  localStorage.setItem('kodzen_news_topics', JSON.stringify(topics));
+  document.getElementById('newsletterTopicForm')?.reset();
+  renderNewsletterAdmin();
+  showAdminAlert('newsletterAlert', 'success', 'Konu yayınlandı. Aboneler siteye girdiğinde bildirim olarak görecek.');
+}
+
+function formatIsoDate(iso) {
+  if (!iso) return '—';
+  const dt = new Date(iso);
+  if (Number.isNaN(dt.getTime())) return '—';
+  return dt.toLocaleString('tr-TR', {
+    day: '2-digit',
+    month: '2-digit',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit'
+  });
 }
 
 /* ── Helpers ── */
