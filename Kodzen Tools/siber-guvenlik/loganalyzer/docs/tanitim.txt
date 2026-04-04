@@ -2,16 +2,19 @@ Uygulama: Kodzen LogAnalyzer
 Kategori: siber-guvenlik
 Kimlik: loganalyzer
 
-Ozet:
+Özet:
 Sistem loglarini analiz eder.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Kaynak
+- Olay Türü
+- Kayıt Zamanı
+- Önem
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Açık > Doğrulanıyor > Kapatıldı
+
+Stratejik Faydalar:
+- Kodzen LogAnalyzer için Kaynak merkezli hızlı kayıt akışı
+- siber-guvenlik kullanımına uygun raporlanabilir durum takibi
+- Önem metriğiyle ölçülebilir performans görünümü

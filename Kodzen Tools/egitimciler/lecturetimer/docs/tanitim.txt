@@ -2,16 +2,19 @@ Uygulama: Kodzen LectureTimer
 Kategori: egitimciler
 Kimlik: lecturetimer
 
-Ozet:
+Özet:
 Ders suresini yonetme ve mola hatirlatici.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Oturum Adı
+- Hedef
+- Başlangıç
+- Dakika
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen LectureTimer için Oturum Adı merkezli hızlı kayıt akışı
+- egitimciler kullanımına uygun raporlanabilir durum takibi
+- Dakika metriğiyle ölçülebilir performans görünümü

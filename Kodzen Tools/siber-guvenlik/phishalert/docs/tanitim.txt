@@ -2,16 +2,19 @@ Uygulama: Kodzen PhishAlert
 Kategori: siber-guvenlik
 Kimlik: phishalert
 
-Ozet:
+Özet:
 Phishing kontrolu yapar.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Simülasyon
+- Hedef Grup
+- Test Tarihi
+- Başarı %
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Açık > Doğrulanıyor > Kapatıldı
+
+Stratejik Faydalar:
+- Kodzen PhishAlert için Simülasyon merkezli hızlı kayıt akışı
+- siber-guvenlik kullanımına uygun raporlanabilir durum takibi
+- Başarı % metriğiyle ölçülebilir performans görünümü

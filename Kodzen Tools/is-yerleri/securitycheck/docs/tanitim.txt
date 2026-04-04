@@ -2,16 +2,19 @@ Uygulama: Kodzen SecurityCheck
 Kategori: is-yerleri
 Kimlik: securitycheck
 
-Ozet:
+Özet:
 Is yeri guvenlik kontrolu.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Kontrol Adı
+- Sistem
+- Denetim Tarihi
+- Skor
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Açık > Doğrulanıyor > Kapatıldı
+
+Stratejik Faydalar:
+- Kodzen SecurityCheck için Kontrol Adı merkezli hızlı kayıt akışı
+- is-yerleri kullanımına uygun raporlanabilir durum takibi
+- Skor metriğiyle ölçülebilir performans görünümü

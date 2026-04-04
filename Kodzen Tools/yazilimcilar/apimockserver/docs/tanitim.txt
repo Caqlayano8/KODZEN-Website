@@ -2,16 +2,19 @@ Uygulama: Kodzen API MockServer
 Kategori: yazilimcilar
 Kimlik: apimockserver
 
-Ozet:
+Özet:
 Sahte API endpoint olusturma.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Endpoint
+- Metod
+- Test Tarihi
+- Yanıt ms
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen API MockServer için Endpoint merkezli hızlı kayıt akışı
+- yazilimcilar kullanımına uygun raporlanabilir durum takibi
+- Yanıt ms metriğiyle ölçülebilir performans görünümü

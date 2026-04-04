@@ -2,16 +2,19 @@ Uygulama: Kodzen Inventory
 Kategori: is-yerleri
 Kimlik: inventory
 
-Ozet:
+Özet:
 Stok takibi.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Stok Kodu
+- Depo
+- Güncelleme
+- Miktar
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen Inventory için Stok Kodu merkezli hızlı kayıt akışı
+- is-yerleri kullanımına uygun raporlanabilir durum takibi
+- Miktar metriğiyle ölçülebilir performans görünümü

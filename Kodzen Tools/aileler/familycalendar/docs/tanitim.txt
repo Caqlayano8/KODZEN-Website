@@ -2,16 +2,19 @@ Uygulama: Kodzen FamilyCalendar
 Kategori: aileler
 Kimlik: familycalendar
 
-Ozet:
+Özet:
 Ortak aile takvimi.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Etkinlik Adı
+- Katılımcı
+- Takvim Tarihi
+- Öncelik
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen FamilyCalendar için Etkinlik Adı merkezli hızlı kayıt akışı
+- aileler kullanımına uygun raporlanabilir durum takibi
+- Öncelik metriğiyle ölçülebilir performans görünümü

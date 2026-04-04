@@ -2,16 +2,19 @@ Uygulama: Kodzen TrainingHub
 Kategori: is-yerleri
 Kimlik: traininghub
 
-Ozet:
+Özet:
 Calisan egitim platformu.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Eğitim
+- Ekip
+- Plan Tarihi
+- Tamamlanma
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen TrainingHub için Eğitim merkezli hızlı kayıt akışı
+- is-yerleri kullanımına uygun raporlanabilir durum takibi
+- Tamamlanma metriğiyle ölçülebilir performans görünümü

@@ -2,16 +2,19 @@ Uygulama: Kodzen MealPlanner
 Kategori: aileler
 Kimlik: mealplanner
 
-Ozet:
+Özet:
 Haftalik yemek plani.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Menü Adı
+- Kişi Sayısı
+- Plan Günü
+- Kalori
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen MealPlanner için Menü Adı merkezli hızlı kayıt akışı
+- aileler kullanımına uygun raporlanabilir durum takibi
+- Kalori metriğiyle ölçülebilir performans görünümü

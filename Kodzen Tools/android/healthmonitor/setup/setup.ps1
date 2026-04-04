@@ -1,5 +1,5 @@
 param(
-  [string]$InstallPath = "C:\Program Files\Kodzen\healthmonitor"
+  [string]$InstallPath = (Join-Path $env:LOCALAPPDATA "Kodzen\healthmonitor")
 )
 
 $ErrorActionPreference = 'Stop'
@@ -14,12 +14,20 @@ Copy-Item -Path (Join-Path $source '*') -Destination $InstallPath -Recurse -Forc
 
 $desktop = [Environment]::GetFolderPath('Desktop')
 $shortcutPath = Join-Path $desktop 'healthmonitor-Full.url'
-$url = 'file:///' + ((Join-Path $InstallPath 'full\index.html') -replace '\\','/')
+$targetFile = Join-Path $InstallPath 'full\index.html'
+$url = 'file:///' + (($targetFile -replace '\\','/') -replace ' ','%20')
 
 @"
 [InternetShortcut]
 URL=$url
 "@ | Set-Content -Path $shortcutPath -Encoding ASCII
 
+$launcher = Join-Path $InstallPath 'Run-Full.bat'
+@"
+@echo off
+start "" "%~dp0full\index.html"
+"@ | Set-Content -Path $launcher -Encoding ASCII
+
 Write-Host "[Kodzen] Kurulum tamamlandi."
 Write-Host "[Kodzen] Kisayol: $shortcutPath"
+Write-Host "[Kodzen] Launcher: $launcher"

@@ -2,16 +2,19 @@ Uygulama: Kodzen DocManager
 Kategori: memurlar
 Kimlik: docmanager
 
-Ozet:
+Özet:
 Evrak duzenleme ve arsivleme.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Evrak No
+- Birim
+- İşlem Tarihi
+- Öncelik
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen DocManager için Evrak No merkezli hızlı kayıt akışı
+- memurlar kullanımına uygun raporlanabilir durum takibi
+- Öncelik metriğiyle ölçülebilir performans görünümü

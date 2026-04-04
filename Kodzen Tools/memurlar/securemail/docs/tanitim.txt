@@ -2,16 +2,19 @@ Uygulama: Kodzen SecureMail
 Kategori: memurlar
 Kimlik: securemail
 
-Ozet:
+Özet:
 Guvenli e-posta istemcisi.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Varlık
+- Kontrol Tipi
+- Denetim Tarihi
+- Risk
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen SecureMail için Varlık merkezli hızlı kayıt akışı
+- memurlar kullanımına uygun raporlanabilir durum takibi
+- Risk metriğiyle ölçülebilir performans görünümü

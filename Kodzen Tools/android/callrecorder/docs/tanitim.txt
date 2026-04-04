@@ -2,16 +2,19 @@ Uygulama: Kodzen CallRecorder
 Kategori: android
 Kimlik: callrecorder
 
-Ozet:
+Özet:
 Arama kaydedici.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Kayıt Başlığı
+- Kaynak
+- Kayıt Tarihi
+- Kalite
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen CallRecorder için Kayıt Başlığı merkezli hızlı kayıt akışı
+- android kullanımına uygun raporlanabilir durum takibi
+- Kalite metriğiyle ölçülebilir performans görünümü

@@ -2,16 +2,19 @@ Uygulama: Kodzen ProjectFlow
 Kategori: is-yerleri
 Kimlik: projectflow
 
-Ozet:
+Özet:
 Proje yonetimi.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Proje
+- Takım
+- Sprint Tarihi
+- Puan
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen ProjectFlow için Proje merkezli hızlı kayıt akışı
+- is-yerleri kullanımına uygun raporlanabilir durum takibi
+- Puan metriğiyle ölçülebilir performans görünümü

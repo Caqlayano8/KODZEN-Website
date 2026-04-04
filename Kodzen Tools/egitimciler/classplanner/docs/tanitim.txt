@@ -2,16 +2,19 @@ Uygulama: Kodzen ClassPlanner
 Kategori: egitimciler
 Kimlik: classplanner
 
-Ozet:
+Özet:
 Ders plani olusturma ve paylasma.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Sınıf Kodu
+- Ders Konusu
+- Ders Tarihi
+- Süre
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Taslak > Yayında > Arşiv
+
+Stratejik Faydalar:
+- Kodzen ClassPlanner için Sınıf Kodu merkezli hızlı kayıt akışı
+- egitimciler kullanımına uygun raporlanabilir durum takibi
+- Süre metriğiyle ölçülebilir performans görünümü

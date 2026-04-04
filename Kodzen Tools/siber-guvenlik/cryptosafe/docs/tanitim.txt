@@ -2,16 +2,19 @@ Uygulama: Kodzen CryptoSafe
 Kategori: siber-guvenlik
 Kimlik: cryptosafe
 
-Ozet:
+Özet:
 Dosya/metin sifreleme.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Anahtar Adı
+- Ortam
+- Döndürme Tarihi
+- Seviye
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Açık > Doğrulanıyor > Kapatıldı
+
+Stratejik Faydalar:
+- Kodzen CryptoSafe için Anahtar Adı merkezli hızlı kayıt akışı
+- siber-guvenlik kullanımına uygun raporlanabilir durum takibi
+- Seviye metriğiyle ölçülebilir performans görünümü

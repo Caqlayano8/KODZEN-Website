@@ -2,16 +2,19 @@ Uygulama: Kodzen AppLocker
 Kategori: android
 Kimlik: applocker
 
-Ozet:
+Özet:
 Uygulama kilitleme.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Uygulama Adı
+- Profil
+- Sürüm Tarihi
+- Skor
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen AppLocker için Uygulama Adı merkezli hızlı kayıt akışı
+- android kullanımına uygun raporlanabilir durum takibi
+- Skor metriğiyle ölçülebilir performans görünümü

@@ -2,16 +2,19 @@ Uygulama: Kodzen TimeTracker
 Kategori: is-yerleri
 Kimlik: timetracker
 
-Ozet:
+Özet:
 Calisma saatlerini takip.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Görev
+- Sorumlu
+- Çalışma Günü
+- Saat
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen TimeTracker için Görev merkezli hızlı kayıt akışı
+- is-yerleri kullanımına uygun raporlanabilir durum takibi
+- Saat metriğiyle ölçülebilir performans görünümü

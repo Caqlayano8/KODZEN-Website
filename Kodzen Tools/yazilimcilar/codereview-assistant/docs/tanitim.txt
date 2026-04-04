@@ -2,16 +2,19 @@ Uygulama: Kodzen CodeReview Assistant
 Kategori: yazilimcilar
 Kimlik: codereview-assistant
 
-Ozet:
+Özet:
 Kod analizi ve oneriler.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- PR Başlığı
+- Repo
+- İnceleme Tarihi
+- Skor
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen CodeReview Assistant için PR Başlığı merkezli hızlı kayıt akışı
+- yazilimcilar kullanımına uygun raporlanabilir durum takibi
+- Skor metriğiyle ölçülebilir performans görünümü

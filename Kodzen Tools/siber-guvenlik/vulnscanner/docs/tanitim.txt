@@ -2,16 +2,19 @@ Uygulama: Kodzen Vulnerability Scanner
 Kategori: siber-guvenlik
 Kimlik: vulnscanner
 
-Ozet:
+Özet:
 Web uygulamasi aciklarini tarar.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Açık ID
+- Varlık
+- Tarama Tarihi
+- CVSS
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Açık > Doğrulanıyor > Kapatıldı
+
+Stratejik Faydalar:
+- Kodzen Vulnerability Scanner için Açık ID merkezli hızlı kayıt akışı
+- siber-guvenlik kullanımına uygun raporlanabilir durum takibi
+- CVSS metriğiyle ölçülebilir performans görünümü

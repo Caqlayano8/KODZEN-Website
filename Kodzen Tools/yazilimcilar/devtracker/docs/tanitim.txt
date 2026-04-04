@@ -2,16 +2,19 @@ Uygulama: Kodzen DevTracker
 Kategori: yazilimcilar
 Kimlik: devtracker
 
-Ozet:
+Özet:
 Proje ve bug takibi.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Issue
+- Repo
+- Sprint
+- Story Point
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen DevTracker için Issue merkezli hızlı kayıt akışı
+- yazilimcilar kullanımına uygun raporlanabilir durum takibi
+- Story Point metriğiyle ölçülebilir performans görünümü

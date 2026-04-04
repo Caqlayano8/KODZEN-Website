@@ -2,16 +2,19 @@ Uygulama: Kodzen SupportDesk
 Kategori: is-yerleri
 Kimlik: supportdesk
 
-Ozet:
+Özet:
 Musteri destek sistemi.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Talep No
+- Kategori
+- Açılış Tarihi
+- SLA
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen SupportDesk için Talep No merkezli hızlı kayıt akışı
+- is-yerleri kullanımına uygun raporlanabilir durum takibi
+- SLA metriğiyle ölçülebilir performans görünümü

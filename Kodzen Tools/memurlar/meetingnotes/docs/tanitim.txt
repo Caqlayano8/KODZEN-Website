@@ -2,16 +2,19 @@ Uygulama: Kodzen MeetingNotes
 Kategori: memurlar
 Kimlik: meetingnotes
 
-Ozet:
+Özet:
 Toplanti notlarini kaydetme.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Toplantı
+- Birim
+- Toplantı Tarihi
+- Karar Sayısı
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen MeetingNotes için Toplantı merkezli hızlı kayıt akışı
+- memurlar kullanımına uygun raporlanabilir durum takibi
+- Karar Sayısı metriğiyle ölçülebilir performans görünümü

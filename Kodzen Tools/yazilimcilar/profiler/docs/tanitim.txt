@@ -2,16 +2,19 @@ Uygulama: Kodzen Performance Profiler
 Kategori: yazilimcilar
 Kimlik: profiler
 
-Ozet:
+Özet:
 Kod performans olcumu.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Fonksiyon
+- Bileşen
+- Profil Tarihi
+- ms
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen Performance Profiler için Fonksiyon merkezli hızlı kayıt akışı
+- yazilimcilar kullanımına uygun raporlanabilir durum takibi
+- ms metriğiyle ölçülebilir performans görünümü

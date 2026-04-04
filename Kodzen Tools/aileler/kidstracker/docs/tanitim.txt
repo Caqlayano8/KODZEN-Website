@@ -2,16 +2,19 @@ Uygulama: Kodzen KidsTracker
 Kategori: aileler
 Kimlik: kidstracker
 
-Ozet:
+Özet:
 Cocuklarin gunluk aktivitelerini takip.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Çocuk Adı
+- Aktivite
+- Takip Tarihi
+- Skor
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Planlandı > Aktif > Tamamlandı
+
+Stratejik Faydalar:
+- Kodzen KidsTracker için Çocuk Adı merkezli hızlı kayıt akışı
+- aileler kullanımına uygun raporlanabilir durum takibi
+- Skor metriğiyle ölçülebilir performans görünümü

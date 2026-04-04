@@ -2,16 +2,19 @@ Uygulama: Kodzen Prototype 11
 Kategori: yeni-fikirler
 Kimlik: prototype-11
 
-Ozet:
+Özet:
 Erken asama urun fikri, hizli PoC ve geri bildirim odakli.
 
-Moduller:
-- Tanitim bolumu
-- Demo bolumu
-- Download/Setup bolumu
+Özel Demo Alanları:
+- Fikir Adı
+- Hedef Persona
+- Deney Tarihi
+- Doğrulama
 
-Sonraki adimlar:
-1) UI/UX ekranlari
-2) API tasarimi
-3) Veri modeli
-4) Test plani
+Durum Akışı:
+- Fikir > Prototip > Doğrulandı
+
+Stratejik Faydalar:
+- Kodzen Prototype 11 için Fikir Adı merkezli hızlı kayıt akışı
+- yeni-fikirler kullanımına uygun raporlanabilir durum takibi
+- Doğrulama metriğiyle ölçülebilir performans görünümü
