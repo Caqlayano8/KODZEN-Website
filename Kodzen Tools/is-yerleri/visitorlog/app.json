@@ -1,0 +1,12 @@
+{
+  "id": "visitorlog",
+  "name": "Kodzen VisitorLog",
+  "group": "is-yerleri",
+  "summary": "Ziyaretci kayit sistemi.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

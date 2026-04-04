@@ -1,0 +1,12 @@
+{
+  "id": "gradebook",
+  "name": "Kodzen GradeBook",
+  "group": "egitimciler",
+  "summary": "Not defteri ve otomatik ortalama hesaplama.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

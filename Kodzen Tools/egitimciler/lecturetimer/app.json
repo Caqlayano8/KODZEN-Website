@@ -1,0 +1,12 @@
+{
+  "id": "lecturetimer",
+  "name": "Kodzen LectureTimer",
+  "group": "egitimciler",
+  "summary": "Ders suresini yonetme ve mola hatirlatici.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

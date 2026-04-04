@@ -1,0 +1,12 @@
+{
+  "id": "familybudget",
+  "name": "Kodzen FamilyBudget",
+  "group": "aileler",
+  "summary": "Aile butcesi takibi.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

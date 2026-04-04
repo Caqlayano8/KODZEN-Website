@@ -1,0 +1,12 @@
+{
+  "id": "timetracker",
+  "name": "Kodzen TimeTracker",
+  "group": "is-yerleri",
+  "summary": "Calisma saatlerini takip.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

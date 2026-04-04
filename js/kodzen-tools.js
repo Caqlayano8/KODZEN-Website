@@ -76,6 +76,29 @@
       .replace(/'/g, '&#039;');
   }
 
+  function groupToFolder(group) {
+    var map = {
+      'Egitimciler': 'egitimciler',
+      'Memurlar': 'memurlar',
+      'Aileler': 'aileler',
+      'Android': 'android',
+      'Is Yerleri': 'is-yerleri',
+      'Siber Guvenlik': 'siber-guvenlik',
+      'Yazilimcilar': 'yazilimcilar',
+      'Yeni Fikirler': 'yeni-fikirler'
+    };
+    return map[group] || 'genel';
+  }
+
+  function appPaths(app) {
+    var base = 'Kodzen Tools/' + groupToFolder(app.group) + '/' + app.id + '/';
+    return {
+      demo: encodeURI(base + 'demo/index.html'),
+      setup: encodeURI(base + 'setup/setup.ps1'),
+      docs: encodeURI(base + 'docs/tanitim.txt')
+    };
+  }
+
   var activeId = apps[0].id;
   var activeTab = 'intro';
 
@@ -130,6 +153,7 @@
     badge.textContent = app.group;
 
     var body = '';
+    var paths = appPaths(app);
     if (activeTab === 'intro') {
       body =
         '<h5>Tanitim</h5>' +
@@ -138,17 +162,23 @@
           '<li>Hedef grup: ' + esc(app.group) + '</li>' +
           '<li>Surec: Tanitim, canli demo, kurulum ve onboarding adimlari.</li>' +
           '<li>Sonraki adim: Paket secimi ve ihtiyaca gore ozellestirme.</li>' +
-        '</ul>';
+        '</ul>' +
+        '<div class="d-flex flex-wrap gap-2 mt-3">' +
+          '<a class="btn-primary-kodzen" href="' + esc(paths.docs) + '" target="_blank"><i class="bi bi-journal-text"></i> Tanitim Dosyasi</a>' +
+        '</div>';
     } else if (activeTab === 'demo') {
       body =
         '<h5>Demo Bolumu</h5>' +
         '<p>' + esc(app.name) + ' icin canli demo ortamina gecip tum ozellikleri deneyebilirsiniz.</p>' +
-        '<a class="btn-primary-kodzen" href="' + esc(app.demoUrl) + '"><i class="bi bi-play-circle"></i> Demo Ac</a>';
+        '<a class="btn-primary-kodzen" href="' + esc(paths.demo) + '" target="_blank"><i class="bi bi-play-circle"></i> Demo Ac</a>';
     } else {
       body =
         '<h5>Download Bolumu</h5>' +
         '<p>Paket, dokumantasyon ve surum notlari ayni yerde sunulur.</p>' +
-        '<a class="btn-primary-kodzen" href="' + esc(app.downloadUrl) + '"><i class="bi bi-download"></i> Paketi Indir</a>';
+        '<div class="d-flex flex-wrap gap-2">' +
+          '<a class="btn-primary-kodzen" href="' + esc(paths.setup) + '" target="_blank"><i class="bi bi-download"></i> Setup (PS1)</a>' +
+          '<a class="btn-primary-kodzen" href="' + esc(paths.docs) + '" target="_blank"><i class="bi bi-file-earmark-text"></i> Kurulum Notlari</a>' +
+        '</div>';
     }
 
     content.innerHTML = body;

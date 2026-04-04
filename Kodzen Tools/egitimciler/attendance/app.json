@@ -1,0 +1,12 @@
+{
+  "id": "attendance",
+  "name": "Kodzen Attendance",
+  "group": "egitimciler",
+  "summary": "Ogrenci yoklama takibi.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

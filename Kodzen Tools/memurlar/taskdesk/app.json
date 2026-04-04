@@ -1,0 +1,12 @@
+{
+  "id": "taskdesk",
+  "name": "Kodzen TaskDesk",
+  "group": "memurlar",
+  "summary": "Gunluk gorev takibi.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

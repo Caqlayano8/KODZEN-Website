@@ -1,0 +1,12 @@
+{
+  "id": "analytics",
+  "name": "Kodzen Analytics",
+  "group": "is-yerleri",
+  "summary": "Is performans analizi.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

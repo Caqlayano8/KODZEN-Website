@@ -1,0 +1,12 @@
+{
+  "id": "apimockserver",
+  "name": "Kodzen API MockServer",
+  "group": "yazilimcilar",
+  "summary": "Sahte API endpoint olusturma.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

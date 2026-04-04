@@ -1,0 +1,12 @@
+{
+  "id": "workflow",
+  "name": "Kodzen Workflow",
+  "group": "memurlar",
+  "summary": "Is akisi yonetimi.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}

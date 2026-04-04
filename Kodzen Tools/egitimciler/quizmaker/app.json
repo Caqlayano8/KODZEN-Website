@@ -1,0 +1,12 @@
+{
+  "id": "quizmaker",
+  "name": "Kodzen QuizMaker",
+  "group": "egitimciler",
+  "summary": "Hizli quiz hazirlama ve ogrenciye gonderme.",
+  "paths": {
+    "demo": "demo/index.html",
+    "setup_ps1": "setup/setup.ps1",
+    "setup_bat": "setup/setup.bat",
+    "docs": "docs/tanitim.txt"
+  }
+}
