@@ -2,19 +2,14 @@ Uygulama: Kodzen SupportDesk
 Kategori: is-yerleri
 Kimlik: supportdesk
 
-Özet:
-Musteri destek sistemi.
+Ne Yapar:
+Destek talep kayit ve SLA yonetimi
 
-Özel Demo Alanları:
+Ana Alanlar:
 - Talep No
 - Kategori
-- Açılış Tarihi
-- SLA
+- Acilis Tarihi
+- SLA Saat
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen SupportDesk için Talep No merkezli hızlı kayıt akışı
-- is-yerleri kullanımına uygun raporlanabilir durum takibi
-- SLA metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Acik > Islemde > Cozuldu

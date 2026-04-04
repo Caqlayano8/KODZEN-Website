@@ -2,19 +2,14 @@ Uygulama: Kodzen Cleaner
 Kategori: android
 Kimlik: cleaner
 
-Özet:
-Gereksiz dosya temizleyici.
+Ne Yapar:
+Depolama temizleme ve performans artirma
 
-Özel Demo Alanları:
-- Temizlik Kuralı
-- Modül
+Ana Alanlar:
+- Temizlik Paketi
+- Hedef Klasor
 - Tarama Tarihi
-- Kazanç
+- Kazanc MB
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen Cleaner için Temizlik Kuralı merkezli hızlı kayıt akışı
-- android kullanımına uygun raporlanabilir durum takibi
-- Kazanç metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Taraniyor > Temizlendi > Raporlandi

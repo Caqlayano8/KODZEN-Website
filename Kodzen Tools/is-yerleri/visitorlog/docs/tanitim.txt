@@ -2,19 +2,14 @@ Uygulama: Kodzen VisitorLog
 Kategori: is-yerleri
 Kimlik: visitorlog
 
-Özet:
-Ziyaretci kayit sistemi.
+Ne Yapar:
+Ziyaretci kayit ve gecis denetimi
 
-Özel Demo Alanları:
-- Ziyaretçi
+Ana Alanlar:
+- Ziyaretci
 - Birim
-- Ziyaret Tarihi
+- Giris Tarihi
 - Risk
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen VisitorLog için Ziyaretçi merkezli hızlı kayıt akışı
-- is-yerleri kullanımına uygun raporlanabilir durum takibi
-- Risk metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Kayit > Iceride > Cikis

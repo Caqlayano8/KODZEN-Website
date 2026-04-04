@@ -2,19 +2,14 @@ Uygulama: Kodzen MeetingScheduler
 Kategori: is-yerleri
 Kimlik: meetingscheduler
 
-Özet:
-Toplanti planlama.
+Ne Yapar:
+Toplanti planlama ve karar takibi
 
-Özel Demo Alanları:
-- Toplantı
+Ana Alanlar:
+- Toplanti
 - Birim
-- Toplantı Tarihi
-- Karar Sayısı
+- Tarih
+- Karar Adedi
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen MeetingScheduler için Toplantı merkezli hızlı kayıt akışı
-- is-yerleri kullanımına uygun raporlanabilir durum takibi
-- Karar Sayısı metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Planlandi > Yapildi > Paylasildi

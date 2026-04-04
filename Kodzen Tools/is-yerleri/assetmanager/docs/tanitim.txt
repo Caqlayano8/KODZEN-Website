@@ -2,19 +2,14 @@ Uygulama: Kodzen AssetManager
 Kategori: is-yerleri
 Kimlik: assetmanager
 
-Özet:
-Sirket varlik takibi.
+Ne Yapar:
+Sabit kiymet ve bakim takibi
 
-Özel Demo Alanları:
-- Varlık Etiketi
+Ana Alanlar:
+- Varlik Etiketi
 - Lokasyon
-- Bakım Tarihi
+- Bakim Tarihi
 - Durum Skoru
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen AssetManager için Varlık Etiketi merkezli hızlı kayıt akışı
-- is-yerleri kullanımına uygun raporlanabilir durum takibi
-- Durum Skoru metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Kayitli > Bakimda > Aktif

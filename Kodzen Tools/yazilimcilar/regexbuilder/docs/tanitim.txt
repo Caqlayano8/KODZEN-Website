@@ -2,19 +2,14 @@ Uygulama: Kodzen RegexBuilder
 Kategori: yazilimcilar
 Kimlik: regexbuilder
 
-Özet:
-Regex olusturma ve test.
+Ne Yapar:
+Regex tasarim ve test senaryolari
 
-Özel Demo Alanları:
-- Pattern Adı
+Ana Alanlar:
+- Pattern
 - Hedef Metin
 - Test Tarihi
-- Eşleşme
+- Eslesme
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen RegexBuilder için Pattern Adı merkezli hızlı kayıt akışı
-- yazilimcilar kullanımına uygun raporlanabilir durum takibi
-- Eşleşme metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Taslak > Testte > Onayli

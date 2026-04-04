@@ -2,19 +2,14 @@ Uygulama: Kodzen SecureAudit
 Kategori: siber-guvenlik
 Kimlik: secureaudit
 
-Özet:
-Guvenlik checklist raporu.
+Ne Yapar:
+Guvenlik denetim plan ve bulgu takibi
 
-Özel Demo Alanları:
-- Varlık
-- Kontrol Tipi
-- Denetim Tarihi
-- Risk
+Ana Alanlar:
+- Kontrol
+- Sistem
+- Audit Tarihi
+- Uygunluk
 
-Durum Akışı:
-- Açık > Doğrulanıyor > Kapatıldı
-
-Stratejik Faydalar:
-- Kodzen SecureAudit için Varlık merkezli hızlı kayıt akışı
-- siber-guvenlik kullanımına uygun raporlanabilir durum takibi
-- Risk metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Acik > Duzeltme > Kapatildi

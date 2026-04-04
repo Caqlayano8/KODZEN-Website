@@ -2,19 +2,14 @@ Uygulama: Kodzen ProjectFlow
 Kategori: is-yerleri
 Kimlik: projectflow
 
-Özet:
-Proje yonetimi.
+Ne Yapar:
+Proje adim ve sprint yonetimi
 
-Özel Demo Alanları:
+Ana Alanlar:
 - Proje
-- Takım
+- Takim
 - Sprint Tarihi
-- Puan
+- Story Point
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen ProjectFlow için Proje merkezli hızlı kayıt akışı
-- is-yerleri kullanımına uygun raporlanabilir durum takibi
-- Puan metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Backlog > In Progress > Done

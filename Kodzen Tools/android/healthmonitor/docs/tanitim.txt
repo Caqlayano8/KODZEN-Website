@@ -2,19 +2,14 @@ Uygulama: Kodzen HealthMonitor
 Kategori: android
 Kimlik: healthmonitor
 
-Özet:
-Adim sayaci ve saglik takibi.
+Ne Yapar:
+Saglik olcum takibi
 
-Özel Demo Alanları:
+Ana Alanlar:
 - Parametre
-- Kullanıcı
-- Ölçüm Tarihi
-- Değer
+- Kullanici
+- Olcum Tarihi
+- Deger
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen HealthMonitor için Parametre merkezli hızlı kayıt akışı
-- android kullanımına uygun raporlanabilir durum takibi
-- Değer metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Kaydedildi > Analiz > Uyari

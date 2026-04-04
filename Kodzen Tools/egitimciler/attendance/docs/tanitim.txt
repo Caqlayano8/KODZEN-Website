@@ -2,19 +2,14 @@ Uygulama: Kodzen Attendance
 Kategori: egitimciler
 Kimlik: attendance
 
-Özet:
-Ogrenci yoklama takibi.
+Ne Yapar:
+Yoklama ve devam performansi
 
-Özel Demo Alanları:
-- Öğrenci Adı
-- Sınıf
-- Yoklama Tarihi
-- Devam Skoru
+Ana Alanlar:
+- Ogrenci Adi
+- Sube
+- Yoklama Gunu
+- Devam Puani
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen Attendance için Öğrenci Adı merkezli hızlı kayıt akışı
-- egitimciler kullanımına uygun raporlanabilir durum takibi
-- Devam Skoru metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Bekliyor > Islendi > Raporlandi

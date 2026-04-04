@@ -2,19 +2,14 @@ Uygulama: Kodzen GradeBook
 Kategori: egitimciler
 Kimlik: gradebook
 
-Özet:
-Not defteri ve otomatik ortalama hesaplama.
+Ne Yapar:
+Notlandirma ve puan analizi
 
-Özel Demo Alanları:
-- Öğrenci No
+Ana Alanlar:
+- Ogrenci No
 - Ders Kodu
-- Puan Türü
+- Sinav Turu
 - Not
 
-Durum Akışı:
-- Taslak > Yayında > Arşiv
-
-Stratejik Faydalar:
-- Kodzen GradeBook için Öğrenci No merkezli hızlı kayıt akışı
-- egitimciler kullanımına uygun raporlanabilir durum takibi
-- Not metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Giris > Kontrol > Kesin

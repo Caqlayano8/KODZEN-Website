@@ -2,19 +2,14 @@ Uygulama: Kodzen TimeTracker
 Kategori: is-yerleri
 Kimlik: timetracker
 
-Özet:
-Calisma saatlerini takip.
+Ne Yapar:
+Calisma suresi ve gorev zamani izleme
 
-Özel Demo Alanları:
-- Görev
+Ana Alanlar:
+- Gorev
 - Sorumlu
-- Çalışma Günü
+- Gun
 - Saat
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen TimeTracker için Görev merkezli hızlı kayıt akışı
-- is-yerleri kullanımına uygun raporlanabilir durum takibi
-- Saat metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Basladi > Devam > Tamam

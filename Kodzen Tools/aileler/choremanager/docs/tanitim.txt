@@ -2,19 +2,14 @@ Uygulama: Kodzen ChoreManager
 Kategori: aileler
 Kimlik: choremanager
 
-Özet:
-Ev isleri gorev dagilimi.
+Ne Yapar:
+Ev gorev dagitimi ve takip
 
-Özel Demo Alanları:
-- Görev
-- Atanan
+Ana Alanlar:
+- Gorev
+- Atanan Kisi
 - Termin
 - Puan
 
-Durum Akışı:
-- Planlandı > Aktif > Tamamlandı
-
-Stratejik Faydalar:
-- Kodzen ChoreManager için Görev merkezli hızlı kayıt akışı
-- aileler kullanımına uygun raporlanabilir durum takibi
-- Puan metriğiyle ölçülebilir performans görünümü
+Durum Akisi:
+- Atandi > Devam > Tamam
