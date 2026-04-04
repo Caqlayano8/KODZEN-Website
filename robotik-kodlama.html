@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Robotik Kodlama & Yapay Zeka Eğitimi | KODZEN TEKNOLOJİ</title>
+  <meta name="description" content="Robotik Kodlama ve Yapay Zeka eğitimi: sıfırdan ileri seviyeye Arduino, Raspberry Pi, Python, makine öğrenmesi ve gerçek dünya projeleri ile öğrenin.">
+  <meta name="keywords" content="robotik kodlama, yapay zeka eğitimi, arduino, raspberry pi, microbit, python, machine learning, deep learning, ai eğitim, robot eğitimi">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="Çağlayan Kurtoğlu — KODZEN TEKNOLOJİ">
+  <link rel="canonical" href="https://kodzen.io/robotik-kodlama.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Robotik Kodlama & Yapay Zeka Eğitimi | KODZEN TEKNOLOJİ">
+  <meta property="og:description" content="AI ve robotik kodlamayı sıfırdan profesyonel seviyeye taşıyan modern eğitim sayfası.">
+  <meta property="og:url" content="https://kodzen.io/robotik-kodlama.html">
+  <meta property="og:image" content="https://kodzen.io/images/og-kodzen.jpg">
+  <meta property="og:site_name" content="KODZEN TEKNOLOJİ">
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+</head>
+<body>
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJİ</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1">
+        <li class="nav-item"><a class="nav-link" href="index.html">Ana Sayfa</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Ürünler</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>
+            <li><a class="dropdown-item" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>
+            <li><a class="dropdown-item" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>
+            <li><a class="dropdown-item" href="viralbotpro.html"><i class="bi bi-play-circle me-2 text-primary-kodzen"></i>ViralBot Pro</a></li>
+            <li><a class="dropdown-item" href="siparis.html"><i class="bi bi-bag-heart me-2" style="color:#f7931e"></i>Siparım</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="webgelistirme.html">Web Hizmetleri</a></li>
+        <li class="nav-item"><a class="nav-link active" href="robotik-kodlama.html">Robotik Kodlama</a></li>
+        <li class="nav-item"><a class="nav-link" href="teknoloji-blog.html">Teknoloji Blog</a></li>
+        <li class="nav-item"><a class="nav-link" href="temalar.html">Temalar</a></li>
+        <li class="nav-item"><a class="nav-link" href="siberguvenik.html">Siber Güvenlik</a></li>
+        <li class="nav-item"><a class="nav-link" href="scada.html">SCADA</a></li>
+        <li class="nav-item"><a class="nav-link" href="fiyatlar.html">Fiyatlar</a></li>
+        <li class="nav-item"><a class="nav-link" href="demo.html">Demo</a></li>
+        <li class="nav-item"><a class="nav-link" href="iletisim.html">İletişim</a></li>
+      </ul>
+      <ul class="navbar-nav gap-1 align-items-center">
+        <li class="nav-item me-2">
+          <button class="edu-theme-toggle" id="eduThemeToggle" type="button" aria-label="Tema değiştir">
+            <span>Dark</span>
+            <span class="edu-theme-knob"></span>
+            <span>Light</span>
+          </button>
+        </li>
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section class="hero edu-hero" id="hero">
+  <div class="edu-hero-grid"></div>
+  <div class="edu-hero-orb orb-a"></div>
+  <div class="edu-hero-orb orb-b"></div>
+  <div class="container position-relative">
+    <div class="row align-items-center gy-5">
+      <div class="col-lg-7" data-aos="fade-right">
+        <div class="hero-badge" id="robotikHeroBadge">
+          <span class="dot"></span>
+          Sıfırdan Profesyonel Seviyeye AI & Robotik Eğitim Platformu
+        </div>
+        <h1 class="hero-title edu-title" id="robotikHeroTitle">Build the Future with <span class="teal">AI & Robotics</span></h1>
+        <p class="hero-desc edu-desc" id="robotikHeroDesc">Gerçek dünya projeleri, algoritma mantığı, sensör sistemleri ve üretken yapay zeka araçları ile öğrenciler, geliştiriciler ve teknoloji meraklıları için uçtan uca öğrenme yolu.</p>
+        <div class="hero-btns">
+          <a href="#roadmap" class="btn-primary-kodzen" id="robotikPrimaryBtn"><i class="bi bi-rocket-takeoff"></i> Start Learning</a>
+          <a href="#roadmap" class="btn-outline-kodzen" id="robotikSecondaryBtn"><i class="bi bi-diagram-3"></i> View Roadmap</a>
+        </div>
+        <div class="edu-stat-grid mt-4">
+          <div class="edu-stat-card">
+            <strong>5 Adım</strong>
+            <span>Öğrenme yolu</span>
+          </div>
+          <div class="edu-stat-card">
+            <strong>12+ Modül</strong>
+            <span>AI + robotik</span>
+          </div>
+          <div class="edu-stat-card">
+            <strong>Projeler</strong>
+            <span>Gerçek üretim mantığı</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-5" data-aos="fade-left">
+        <div class="edu-showcase-card">
+          <div class="edu-showcase-top">
+            <span class="edu-dot pink"></span>
+            <span class="edu-dot blue"></span>
+            <span class="edu-dot teal"></span>
+            <span class="edu-panel-title">future_lab.sim</span>
+          </div>
+          <div class="edu-robot-scene">
+            <div class="edu-robot-head">
+              <span></span>
+              <span></span>
+            </div>
+            <div class="edu-robot-body"></div>
+            <div class="edu-robot-arm left"></div>
+            <div class="edu-robot-arm right"></div>
+            <div class="edu-robot-wheel left"></div>
+            <div class="edu-robot-wheel right"></div>
+            <div class="edu-signal one"></div>
+            <div class="edu-signal two"></div>
+            <div class="edu-signal three"></div>
+          </div>
+          <div class="edu-mini-panels">
+            <div class="edu-mini-panel">
+              <span class="label">AI</span>
+              <strong>Prompt + Vision</strong>
+            </div>
+            <div class="edu-mini-panel">
+              <span class="label">ROBOT</span>
+              <strong>Sensor + Motion</strong>
+            </div>
+            <div class="edu-mini-panel wide">
+              <span class="label">STACK</span>
+              <strong>Scratch → Python → Arduino → Computer Vision</strong>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="ai-baslangic">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-cpu"></i> Yapay Zeka Temelleri</div>
+      <h2 class="section-title">AI Dünyasına <span class="highlight">Doğru Başlangıç</span></h2>
+      <p class="section-subtitle mx-auto">Temel kavramları karıştırmadan, gerçek kullanım örnekleriyle öğretmek için tasarlanmış etkileşimli kartlar.</p>
+    </div>
+    <div class="row g-4">
+      <div class="col-lg-4" data-aos="fade-up">
+        <div class="edu-expand-card">
+          <div class="edu-card-icon"><i class="bi bi-diagram-2"></i></div>
+          <h3>Machine Learning vs Deep Learning</h3>
+          <p>Makine öğrenmesi veriden kuralları öğrenir. Derin öğrenme ise çok katmanlı ağlarla karmaşık örüntüleri çözer.</p>
+          <details>
+            <summary>Learn More</summary>
+            <div class="edu-expand-body">
+              <p><strong>Machine Learning</strong> daha küçük veri setlerinde, sınıflandırma ve tahmin görevlerinde idealdir. <strong>Deep Learning</strong> ise görsel, ses ve doğal dil gibi karmaşık veri türlerinde güçlüdür.</p>
+              <ul>
+                <li>ML: Karar ağaçları, regresyon, sınıflandırma</li>
+                <li>DL: CNN, RNN, Transformer mimarileri</li>
+                <li>Kullanım: görüntü tanıma, öneri sistemleri, konuşma işleme</li>
+              </ul>
+            </div>
+          </details>
+        </div>
+      </div>
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="edu-expand-card">
+          <div class="edu-card-icon"><i class="bi bi-stars"></i></div>
+          <h3>Gerçek Hayatta AI</h3>
+          <p>Netflix önerileri, Spotify keşif listeleri ve otonom araçlar; AI günlük hayatın içinde sessizce çalışır.</p>
+          <details>
+            <summary>Learn More</summary>
+            <div class="edu-expand-body">
+              <p>AI sistemleri kullanıcı davranışını analiz eder, içerik önerir, nesne algılar ve karar destek mekanizmaları üretir.</p>
+              <ul>
+                <li>Netflix: izleme alışkanlığına göre öneri</li>
+                <li>Spotify: müzik benzerliği ve kişiselleştirme</li>
+                <li>Otonom araçlar: kamera + lidar + karar algoritması</li>
+              </ul>
+            </div>
+          </details>
+        </div>
+      </div>
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="edu-expand-card">
+          <div class="edu-card-icon"><i class="bi bi-magic"></i></div>
+          <h3>Popüler AI Araçları</h3>
+          <p>ChatGPT, Midjourney ve Gemini ile üretken yapay zeka iş akışları kurabilir, prototip ve içerik üretimini hızlandırabilirsin.</p>
+          <details>
+            <summary>Learn More</summary>
+            <div class="edu-expand-body">
+              <div class="edu-pill-row">
+                <span>ChatGPT</span>
+                <span>Midjourney</span>
+                <span>Gemini</span>
+              </div>
+              <p>Bu araçlar prompt yazımı, fikir üretimi, görsel üretim, araştırma ve prototipleme süreçlerinde ciddi zaman kazandırır.</p>
+            </div>
+          </details>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-section-alt" id="robotik-kodlama">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-cpu-fill"></i> Robotik Kodlama</div>
+      <h2 class="section-title">Robotları Kodla, <span class="highlight">Hareketi Yönet</span></h2>
+      <p class="section-subtitle mx-auto">Kontrol kartlarından sensörlere, motorlardan karar mekanizmasına kadar robotik kodlamanın temel taşlarını görsel bir akışla öğren.</p>
+    </div>
+    <div class="row g-4 align-items-stretch">
+      <div class="col-lg-4" data-aos="fade-up">
+        <div class="edu-system-card h-100">
+          <div class="section-badge">Kontrol Kartları</div>
+          <div class="edu-board-list">
+            <div class="edu-board-item">
+              <strong>Arduino</strong>
+              <span>Başlangıç seviyesi, elektronik ve motor kontrolü için ideal.</span>
+            </div>
+            <div class="edu-board-item">
+              <strong>Raspberry Pi</strong>
+              <span>İleri seviye projeler, görüntü işleme ve AI entegrasyonları için güçlü mini bilgisayar.</span>
+            </div>
+            <div class="edu-board-item">
+              <strong>Micro:bit</strong>
+              <span>Eğitim odaklı, hızlı prototipleme ve blok tabanlı öğrenme için mükemmel.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="edu-system-card h-100">
+          <div class="section-badge">Sensörler & Aktüatörler</div>
+          <div class="edu-sensor-visual">
+            <div class="sensor-card">
+              <i class="bi bi-eye"></i>
+              <strong>Sensörler</strong>
+              <span>Robotun gözleri ve kulaklarıdır. Mesafe, ışık, sıcaklık ve çizgi algılar.</span>
+            </div>
+            <div class="sensor-card">
+              <i class="bi bi-gear-wide-connected"></i>
+              <strong>Motorlar</strong>
+              <span>Robotun hareket sistemidir. Tekerlek, kol, servo ve yön kontrolünü sağlar.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="edu-system-card h-100">
+          <div class="section-badge">Algoritma Mantığı</div>
+          <div class="edu-flow-diagram">
+            <div class="flow-node primary">Başla</div>
+            <div class="flow-arrow"><i class="bi bi-arrow-down"></i></div>
+            <div class="flow-node question">Engel var mı?</div>
+            <div class="flow-split">
+              <div>
+                <span class="flow-label">Evet</span>
+                <div class="flow-node small">Sağa Dön</div>
+              </div>
+              <div>
+                <span class="flow-label">Hayır</span>
+                <div class="flow-node small">İleri Git</div>
+              </div>
+            </div>
+          </div>
+          <p class="edu-card-note">Robotikte kod yazmak, aslında sensörden gelen veriye göre doğru kararı verebilmektir.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="future-tech">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-lightning-charge"></i> Future Tech</div>
+      <h2 class="section-title">AI + Robotik ile <span class="highlight">Gelecek Teknolojiler</span></h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-4" data-aos="zoom-in">
+        <div class="edu-future-card">
+          <i class="bi bi-bounding-box-circles"></i>
+          <h3>Nesne Algılayan Robotlar</h3>
+          <p>Kamera görüntüsünden nesne tanıyıp anında tepki veren akıllı robot sistemleri.</p>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="zoom-in" data-aos-delay="100">
+        <div class="edu-future-card">
+          <i class="bi bi-mic"></i>
+          <h3>Ses Kontrollü Robotlar</h3>
+          <p>Komut algılayıp doğal dil ile çalışan asistan destekli robotik deneyimler.</p>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="zoom-in" data-aos-delay="200">
+        <div class="edu-future-card">
+          <i class="bi bi-house-gear"></i>
+          <h3>Akıllı Ev Sistemleri</h3>
+          <p>IoT, sensör ağı ve otomasyon mantığı ile enerji verimli, güvenli yaşam alanları.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-section-alt" id="interactive-learning">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-mortarboard"></i> İnteraktif Öğrenme</div>
+      <h2 class="section-title">Sadece Oku Değil, <span class="highlight">Dokun ve Öğren</span></h2>
+    </div>
+
+    <div class="row g-4 mb-5">
+      <div class="col-12" data-aos="fade-up">
+        <h3 class="edu-subtitle">Glossary Cards</h3>
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <div class="edu-flip-card">
+          <div class="edu-flip-inner">
+            <div class="edu-flip-front">Prompt</div>
+            <div class="edu-flip-back">Yapay zekaya doğru çıktıyı almak için verilen yönlendirici komut.</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <div class="edu-flip-card">
+          <div class="edu-flip-inner">
+            <div class="edu-flip-front">Algorithm</div>
+            <div class="edu-flip-back">Bir problemi çözmek için takip edilen adım adım mantık zinciri.</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <div class="edu-flip-card">
+          <div class="edu-flip-inner">
+            <div class="edu-flip-front">GPU</div>
+            <div class="edu-flip-back">Görüntü ve paralel hesaplama işlemlerini hızlandıran işlem birimi.</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-3">
+        <div class="edu-flip-card">
+          <div class="edu-flip-inner">
+            <div class="edu-flip-front">Compilation</div>
+            <div class="edu-flip-back">Kodun makinenin anlayacağı dile dönüştürülmesi süreci.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row g-5 align-items-start">
+      <div class="col-lg-7" data-aos="fade-right" id="roadmap">
+        <h3 class="edu-subtitle mb-4">Learning Roadmap</h3>
+        <div class="edu-roadmap">
+          <div class="edu-roadmap-item">
+            <span class="step">1</span>
+            <div><strong id="roadmapTitle1">Scratch ile blok kodlama</strong><p id="roadmapDesc1">Akış, mantık, döngü ve olay yapısını öğren.</p></div>
+          </div>
+          <div class="edu-roadmap-item">
+            <span class="step">2</span>
+            <div><strong id="roadmapTitle2">Temel Python</strong><p id="roadmapDesc2">Değişkenler, koşullar, fonksiyonlar ve veri yapıları.</p></div>
+          </div>
+          <div class="edu-roadmap-item">
+            <span class="step">3</span>
+            <div><strong id="roadmapTitle3">Arduino projeleri</strong><p id="roadmapDesc3">LED, sensör, servo motor ve robotik hareket mantığı.</p></div>
+          </div>
+          <div class="edu-roadmap-item">
+            <span class="step">4</span>
+            <div><strong id="roadmapTitle4">AI temelleri</strong><p id="roadmapDesc4">Veri, model, tahmin, prompt ve basit bilgisayarlı görü.</p></div>
+          </div>
+          <div class="edu-roadmap-item">
+            <span class="step">5</span>
+            <div><strong id="roadmapTitle5">Gerçek robot inşa et</strong><p id="roadmapDesc5">Algılayan, karar veren ve hareket eden prototip üret.</p></div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-5" data-aos="fade-left">
+        <h3 class="edu-subtitle mb-4">Simulation Tools</h3>
+        <div class="edu-sim-card">
+          <a href="https://www.tinkercad.com/" target="_blank" rel="noopener" class="edu-sim-btn"><i class="bi bi-boxes"></i> Tinkercad</a>
+          <a href="https://wokwi.com/" target="_blank" rel="noopener" class="edu-sim-btn"><i class="bi bi-cpu"></i> Arduino Simulator</a>
+          <a href="https://platform.openai.com/playground" target="_blank" rel="noopener" class="edu-sim-btn"><i class="bi bi-stars"></i> AI Playground</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="knowledge-bank">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-journal-richtext"></i> Guncel Bilgi Bankasi</div>
+      <h2 class="section-title">Resmi Dokumanlarla <span class="highlight">Guclu Ogrenme Rotasi</span></h2>
+      <p class="section-subtitle mx-auto">Asagidaki kaynaklar resmi dokumantasyonlardan secildi. Baslangic, uygulama ve ileri seviye asamalarina gore takip edebilirsin.</p>
+    </div>
+
+    <div class="row g-4">
+      <div class="col-lg-4" data-aos="fade-up">
+        <div class="edu-system-card h-100">
+          <div class="section-badge">AI Temel ve Ileri</div>
+          <ul class="footer-links mb-0">
+            <li><a href="https://www.tensorflow.org/tutorials" target="_blank" rel="noopener">TensorFlow Tutorials</a></li>
+            <li><a href="https://docs.pytorch.org/tutorials/beginner/basics/intro.html" target="_blank" rel="noopener">PyTorch Learn the Basics</a></li>
+            <li><a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html" target="_blank" rel="noopener">OpenCV-Python Tutorials</a></li>
+            <li><a href="https://www.tensorflow.org/tfx" target="_blank" rel="noopener">TFX ile Uretim MLOps</a></li>
+          </ul>
+          <p class="edu-card-note mt-3 mb-0">Odak: veri hazirlama, model egitimi, goruntu analizi ve dagitim.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="edu-system-card h-100">
+          <div class="section-badge">Robotik Donanim ve Yazilim</div>
+          <ul class="footer-links mb-0">
+            <li><a href="https://docs.arduino.cc/software/ide/#ide-v2" target="_blank" rel="noopener">Arduino IDE v2 Dokumani</a></li>
+            <li><a href="https://github.com/arduino/arduino-cli/releases" target="_blank" rel="noopener">Arduino CLI Releases</a></li>
+            <li><a href="https://www.raspberrypi.com/documentation/computers/getting-started.html" target="_blank" rel="noopener">Raspberry Pi Getting Started</a></li>
+            <li><a href="https://makecode.microbit.org/" target="_blank" rel="noopener">micro:bit MakeCode</a></li>
+          </ul>
+          <p class="edu-card-note mt-3 mb-0">Odak: kontrol karti secimi, simule etme, firmware ve saha denemesi.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="edu-system-card h-100">
+          <div class="section-badge">Guvenlik ve Standartlar</div>
+          <ul class="footer-links mb-0">
+            <li><a href="https://www.nist.gov/cyberframework" target="_blank" rel="noopener">NIST CSF 2.0</a></li>
+            <li><a href="https://owasp.org/Top10/2025/" target="_blank" rel="noopener">OWASP Top 10 (2025)</a></li>
+            <li><a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noopener">Bootstrap 5.3 Best Practices</a></li>
+            <li><a href="https://www.python.org/" target="_blank" rel="noopener">Python Ekosistemi</a></li>
+          </ul>
+          <p class="edu-card-note mt-3 mb-0">Odak: guvenli gelistirme, altyapi standartlari ve modern UI temelleri.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row g-4 mt-2">
+      <div class="col-md-6" data-aos="fade-right">
+        <div class="edu-project-card h-100">
+          <div class="edu-project-top"><span class="difficulty mid">Pratik Plan</span><span>8 Haftalik</span></div>
+          <h3>Hizli Yetkinlik Programi</h3>
+          <p>1-2. hafta: Python + algoritma, 3-4. hafta: Arduino ve sensorler, 5-6. hafta: goruntu tabanli AI, 7-8. hafta: uc uca robot projesi.</p>
+          <div class="edu-tech-stack"><span>Python</span><span>Arduino</span><span>OpenCV</span><span>TensorFlow/PyTorch</span></div>
+        </div>
+      </div>
+      <div class="col-md-6" data-aos="fade-left">
+        <div class="edu-project-card h-100">
+          <div class="edu-project-top"><span class="difficulty advanced">Pro Yol</span><span>Gercek Uretim</span></div>
+          <h3>PoC'den Urune Gecis</h3>
+          <p>Model versiyonlama, sensor kalibrasyonu, gecikme analizi ve güvenlik kontrolleriyle prototipi sahaya uygun urune donustur.</p>
+          <div class="edu-tech-stack"><span>MLOps</span><span>Edge AI</span><span>Monitoring</span><span>Cybersecurity</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="projects">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-kanban"></i> Projeler</div>
+      <h2 class="section-title">Gerçek Dünya <span class="highlight">Projeleri</span></h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-4" data-aos="fade-up">
+        <div class="edu-project-card h-100">
+          <div class="edu-project-top"><span class="difficulty beginner" id="projectLevel1">Başlangıç</span><span id="projectTech1">Arduino + IR Sensor</span></div>
+          <h3 id="projectTitle1">Çizgi İzleyen Robot</h3>
+          <p id="projectDesc1">Sensörlerden gelen veriyi okuyup siyah çizgiyi takip eden temel robot projesi.</p>
+          <div class="edu-tech-stack"><span>Arduino</span><span>C/C++</span><span>IR Sensor</span></div>
+          <a href="#cta-education" class="btn-outline-kodzen mt-3" id="projectBtn1">Start Project</a>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="edu-project-card h-100">
+          <div class="edu-project-top"><span class="difficulty mid" id="projectLevel2">Orta</span><span id="projectTech2">Python + Vision</span></div>
+          <h3 id="projectTitle2">Nesne Algılayan AI Uygulaması</h3>
+          <p id="projectDesc2">Kameradan görüntü alıp objeleri tanımlayan ve sonuçları ekranda gösteren proje.</p>
+          <div class="edu-tech-stack"><span>Python</span><span>OpenCV</span><span>YOLO</span></div>
+          <a href="#cta-education" class="btn-outline-kodzen mt-3" id="projectBtn2">Start Project</a>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="edu-project-card h-100">
+          <div class="edu-project-top"><span class="difficulty advanced" id="projectLevel3">İleri</span><span id="projectTech3">Speech + Automation</span></div>
+          <h3 id="projectTitle3">Sesli Asistan Robot</h3>
+          <p id="projectDesc3">Ses komutunu algılayıp eyleme dönüştüren, akıllı ev mantığına bağlanabilen asistan.</p>
+          <div class="edu-tech-stack"><span>Python</span><span>Speech API</span><span>IoT</span></div>
+          <a href="#cta-education" class="btn-outline-kodzen mt-3" id="projectBtn3">Start Project</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-section-alt" id="monetization">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-cash-coin"></i> Monetization</div>
+      <h2 class="section-title">Bu Bilgiyle <span class="highlight">Nasıl Kazanırsın?</span></h2>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-4" data-aos="fade-up">
+        <div class="edu-money-card">
+          <i class="bi bi-briefcase"></i>
+          <h3>Freelance Robotik Projeler</h3>
+          <p>Eğitim setleri, okul projeleri ve özel prototip geliştirme işleri alabilirsin.</p>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="edu-money-card">
+          <i class="bi bi-tools"></i>
+          <h3>AI Araç Geliştirme</h3>
+          <p>Otomasyon botları, veri işleme araçları ve üretken yapay zeka tabanlı servisler geliştirebilirsin.</p>
+        </div>
+      </div>
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="edu-money-card">
+          <i class="bi bi-cloud"></i>
+          <h3>SaaS Fikirleri</h3>
+          <p>Eğitim platformu, robot yönetim paneli veya AI destekli abonelik tabanlı servis oluşturabilirsin.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="cta-education">
+  <div class="container">
+    <div class="edu-newsletter" data-aos="zoom-in">
+      <div>
+        <div class="section-tag"><i class="bi bi-envelope-paper"></i> Topluluğa Katıl</div>
+        <h2 class="section-title mb-2">Yeni modüller ve projeler için <span class="highlight">haberdar ol</span></h2>
+        <p class="section-subtitle mb-0">GitHub, iletişim ve bülten üzerinden yeni eğitim içeriklerini takip edebilirsin.</p>
+      </div>
+      <form class="edu-newsletter-form" onsubmit="event.preventDefault(); this.reset(); alert('Kaydınız alındı.');">
+        <input type="email" placeholder="E-posta adresiniz" required>
+        <button type="submit">Newsletter Join</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-4">
+        <div class="footer-brand">
+          <span class="brand-logo-text footer-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+          <div style="font-size:.6rem;letter-spacing:4px;color:var(--text-dim);text-transform:uppercase;font-weight:600;margin-top:2px">TEKNOLOJİ</div>
+        </div>
+        <p class="footer-desc">Yapay zeka, robotik kodlama ve geleceğin dijital üreticileri için modern eğitim ekosistemi.</p>
+        <div class="social-links mt-3">
+          <a href="https://github.com/Caqlayano8" target="_blank" class="social-link" title="GitHub"><i class="bi bi-github"></i></a>
+          <a href="mailto:kurtoqluo8@gmail.com" class="social-link" title="E-posta"><i class="bi bi-envelope"></i></a>
+          <a href="https://wa.me/905458966096" target="_blank" class="social-link" title="WhatsApp"><i class="bi bi-whatsapp"></i></a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Sayfalar</div>
+        <ul class="footer-links">
+          <li><a href="index.html">Ana Sayfa</a></li>
+          <li><a href="robotik-kodlama.html">Robotik Kodlama</a></li>
+          <li><a href="webgelistirme.html">Web Hizmetleri</a></li>
+          <li><a href="demo.html">Demo</a></li>
+          <li><a href="iletisim.html">İletişim</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-6 col-lg-2">
+        <div class="footer-heading">Araçlar</div>
+        <ul class="footer-links">
+          <li><a href="https://www.tinkercad.com/" target="_blank">Tinkercad</a></li>
+          <li><a href="https://wokwi.com/" target="_blank">Wokwi</a></li>
+          <li><a href="https://platform.openai.com/playground" target="_blank">AI Playground</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <div class="footer-heading">İletişim</div>
+        <div class="footer-contact-item"><i class="bi bi-geo-alt"></i> Artvin, Türkiye</div>
+        <div class="footer-contact-item"><i class="bi bi-telephone"></i> <a href="tel:05458966096">0545 896 6096</a></div>
+        <div class="footer-contact-item"><i class="bi bi-envelope"></i> <a href="mailto:kurtoqluo8@gmail.com">kurtoqluo8@gmail.com</a></div>
+        <div class="footer-contact-item"><i class="bi bi-github"></i> <a href="https://github.com/Caqlayano8" target="_blank">github.com/Caqlayano8</a></div>
+      </div>
+    </div>
+    <hr class="footer-divider">
+    <div class="footer-bottom">
+      <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOLOJİ</span> — Tüm hakları saklıdır.</p>
+      <p class="footer-copy mb-0">Robotik Kodlama & AI eğitim sayfası</p>
+    </div>
+  </div>
+</footer>
+
+<div class="live-chat-widget">
+  <a id="liveChatBtn" href="https://wa.me/905458966096" target="_blank" class="chat-toggle-btn" title="WhatsApp ile İletişim">
+    <span class="pulse-ring"></span>
+    <i class="bi bi-whatsapp"></i>
+  </a>
+</div>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/transitions.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    try {
+      const content = JSON.parse(localStorage.getItem('kodzen_robotik_content') || '{}');
+      if (content.heroBadge) {
+        const badge = document.getElementById('robotikHeroBadge');
+        if (badge) {
+          const dot = badge.querySelector('.dot');
+          badge.innerHTML = '';
+          if (dot) badge.appendChild(dot);
+          badge.append(' ' + content.heroBadge);
+        }
+      }
+      if (content.heroTitle) {
+        const title = document.getElementById('robotikHeroTitle');
+        if (title) title.textContent = content.heroTitle;
+      }
+      if (content.heroDesc) {
+        const desc = document.getElementById('robotikHeroDesc');
+        if (desc) desc.textContent = content.heroDesc;
+      }
+      if (content.primaryBtn) {
+        const primaryBtn = document.getElementById('robotikPrimaryBtn');
+        if (primaryBtn) {
+          const icon = primaryBtn.querySelector('i');
+          primaryBtn.innerHTML = '';
+          if (icon) primaryBtn.appendChild(icon);
+          primaryBtn.append(' ' + content.primaryBtn);
+        }
+      }
+      if (content.secondaryBtn) {
+        const secondaryBtn = document.getElementById('robotikSecondaryBtn');
+        if (secondaryBtn) {
+          const icon = secondaryBtn.querySelector('i');
+          secondaryBtn.innerHTML = '';
+          if (icon) secondaryBtn.appendChild(icon);
+          secondaryBtn.append(' ' + content.secondaryBtn);
+        }
+      }
+
+      if (Array.isArray(content.roadmapItems)) {
+        content.roadmapItems.slice(0, 5).forEach(function (item, idx) {
+          const titleEl = document.getElementById('roadmapTitle' + (idx + 1));
+          const descEl = document.getElementById('roadmapDesc' + (idx + 1));
+          if (titleEl && item.title) titleEl.textContent = item.title;
+          if (descEl && item.desc) descEl.textContent = item.desc;
+        });
+      }
+
+      if (Array.isArray(content.projects)) {
+        content.projects.slice(0, 3).forEach(function (item, idx) {
+          const n = idx + 1;
+          const levelEl = document.getElementById('projectLevel' + n);
+          const techEl = document.getElementById('projectTech' + n);
+          const titleEl = document.getElementById('projectTitle' + n);
+          const descEl = document.getElementById('projectDesc' + n);
+          const btnEl = document.getElementById('projectBtn' + n);
+
+          if (levelEl && item.level) levelEl.textContent = item.level;
+          if (techEl && item.tech) techEl.textContent = item.tech;
+          if (titleEl && item.title) titleEl.textContent = item.title;
+          if (descEl && item.desc) descEl.textContent = item.desc;
+          if (btnEl && item.btn) btnEl.textContent = item.btn;
+        });
+      }
+    } catch (e) {
+      // Ignore invalid admin content payload.
+    }
+
+    const themeToggle = document.getElementById('eduThemeToggle');
+    const activeTheme = (window.KODZEN_THEMES && window.KODZEN_THEMES.active) || 'default';
+    const isLight = activeTheme === 'light-pro';
+    if (themeToggle) {
+      themeToggle.classList.toggle('is-light', isLight);
+      themeToggle.addEventListener('click', function () {
+        const makeLight = !themeToggle.classList.contains('is-light');
+        themeToggle.classList.toggle('is-light', makeLight);
+        if (window.KODZEN_THEMES) {
+          window.KODZEN_THEMES.setTheme(makeLight ? 'light-pro' : 'cosmic-purple');
+        }
+      });
+    }
+  });
+</script>
+</body>
+</html>

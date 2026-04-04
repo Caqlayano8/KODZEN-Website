@@ -52,6 +52,9 @@
       <button class="sidebar-nav-item" data-section="ticker">
         <i class="bi bi-newspaper"></i> Haber Bandı
       </button>
+      <button class="sidebar-nav-item" data-section="robotik">
+        <i class="bi bi-robot"></i> Robotik Kodlama
+      </button>
       <button class="sidebar-nav-item" data-section="settings">
         <i class="bi bi-gear"></i> Ayarlar
       </button>
@@ -420,6 +423,76 @@
                 <textarea id="sLiveChatMsg" class="admin-form-control" rows="3" placeholder="Merhaba! Size nasıl yardımcı olabiliriz?"></textarea>
               </div>
               <button type="submit" class="btn-admin-primary"><i class="bi bi-check-lg"></i> Ayarları Kaydet</button>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══ ROBOTIK KODLAMA ══ -->
+      <div id="section-robotik" class="admin-section">
+        <div class="admin-card" style="max-width:760px">
+          <div class="admin-card-header">
+            <span class="admin-card-title"><i class="bi bi-robot"></i> Robotik Kodlama Sayfası</span>
+          </div>
+          <div class="admin-card-body">
+            <div id="robotikAlert" style="display:none"></div>
+            <form id="robotikContentForm">
+              <div class="admin-form-group">
+                <label class="admin-form-label" for="rHeroBadge">Hero Rozeti</label>
+                <input type="text" id="rHeroBadge" class="admin-form-control" placeholder="Sıfırdan Profesyonel Seviyeye AI & Robotik Eğitim Platformu">
+              </div>
+              <div class="admin-form-group">
+                <label class="admin-form-label" for="rHeroTitle">Hero Başlık</label>
+                <input type="text" id="rHeroTitle" class="admin-form-control" placeholder="Build the Future with AI & Robotics">
+              </div>
+              <div class="admin-form-group">
+                <label class="admin-form-label" for="rHeroDesc">Hero Açıklama</label>
+                <textarea id="rHeroDesc" class="admin-form-control" rows="3" placeholder="Sayfa üstü açıklama metni"></textarea>
+              </div>
+              <div class="row g-3">
+                <div class="col-md-6">
+                  <label class="admin-form-label" for="rPrimaryBtn">Birincil Buton</label>
+                  <input type="text" id="rPrimaryBtn" class="admin-form-control" placeholder="Start Learning">
+                </div>
+                <div class="col-md-6">
+                  <label class="admin-form-label" for="rSecondaryBtn">İkincil Buton</label>
+                  <input type="text" id="rSecondaryBtn" class="admin-form-control" placeholder="View Roadmap">
+                </div>
+              </div>
+              <hr>
+              <div class="admin-form-group">
+                <div class="d-flex align-items-center justify-content-between mb-2">
+                  <label class="admin-form-label mb-0">Roadmap Maddeleri</label>
+                  <button type="button" class="btn-admin-outline" id="addRoadmapItemBtn"><i class="bi bi-plus-lg"></i> Madde Ekle</button>
+                </div>
+                <div style="color:var(--text-dim);font-size:.78rem;margin-bottom:8px">Satırları sürükleyip bırakarak sıralayabilirsiniz.</div>
+                <div id="rRoadmapEditor" class="d-flex flex-column gap-2"></div>
+              </div>
+              <div class="admin-form-group">
+                <div class="d-flex align-items-center justify-content-between mb-2">
+                  <label class="admin-form-label mb-0">Proje Kartları</label>
+                  <button type="button" class="btn-admin-outline" id="addProjectItemBtn"><i class="bi bi-plus-lg"></i> Kart Ekle</button>
+                </div>
+                <div style="color:var(--text-dim);font-size:.78rem;margin-bottom:8px">Kartları sürükleyip bırakarak sıralayabilirsiniz.</div>
+                <div id="rProjectEditor" class="d-flex flex-column gap-2"></div>
+              </div>
+              <div class="d-flex gap-2 mt-2">
+                <button type="button" class="btn-admin-outline" id="robotikExportBtn"><i class="bi bi-download"></i> JSON Dışa Aktar</button>
+                <button type="button" class="btn-admin-outline" id="robotikImportBtn"><i class="bi bi-upload"></i> JSON İçe Aktar</button>
+                <input type="file" id="robotikImportFile" accept="application/json" style="display:none">
+              </div>
+              <div id="robotikImportPreviewWrap" style="display:none;margin-top:10px;background:var(--bg-darker);border:1px solid var(--border);border-radius:10px;padding:10px">
+                <div style="font-size:.82rem;color:var(--text-dim);margin-bottom:6px">JSON Önizleme</div>
+                <pre id="robotikImportPreviewText" style="max-height:220px;overflow:auto;white-space:pre-wrap;font-size:.75rem;color:var(--text-muted);margin:0"></pre>
+                <div class="d-flex gap-2 mt-2">
+                  <button type="button" class="btn-admin-primary" id="robotikImportApplyBtn"><i class="bi bi-check-lg"></i> Önizlemeyi Uygula</button>
+                  <button type="button" class="btn-admin-outline" id="robotikImportCancelBtn">İptal</button>
+                </div>
+              </div>
+              <div class="d-flex gap-2 mt-3">
+                <button type="submit" class="btn-admin-primary"><i class="bi bi-check-lg"></i> Kaydet</button>
+                <button type="button" class="btn-admin-outline" id="robotikResetBtn">Varsayılanı Yükle</button>
+              </div>
             </form>
           </div>
         </div>
