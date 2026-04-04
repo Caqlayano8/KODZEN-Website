@@ -92,6 +92,10 @@ code, pre, .mono { font-family: 'JetBrains Mono', monospace; }
 
 .navbar-brand span { color: var(--primary); }
 
+.navbar > .container {
+  max-width: 1680px;
+}
+
 .navbar-nav .nav-link {
   color: var(--text-muted) !important;
   font-weight: 500;
@@ -100,6 +104,7 @@ code, pre, .mono { font-family: 'JetBrains Mono', monospace; }
   border-radius: 8px;
   transition: all var(--transition);
   letter-spacing: 0.3px;
+  white-space: nowrap;
 }
 
 .navbar-nav .nav-link:hover,
@@ -148,6 +153,13 @@ code, pre, .mono { font-family: 'JetBrains Mono', monospace; }
 
 .dropdown-item:hover { background: var(--primary-glow); color: var(--primary); }
 .dropdown-divider { border-color: var(--border); }
+
+@media (max-width: 1540px) and (min-width: 992px) {
+  .navbar-nav .nav-link {
+    font-size: 0.86rem;
+    padding: 6px 10px !important;
+  }
+}
 
 /* =====================================================
    SECTION COMMON
