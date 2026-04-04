@@ -2,8 +2,24 @@ param(
   [string]$InstallPath = "C:\Program Files\Kodzen\inventory"
 )
 
-Write-Host "Kurulum baslatildi: Kodzen Inventory"
-Write-Host "Hedef klasor: $InstallPath"
+$ErrorActionPreference = 'Stop'
+$source = Split-Path -Parent $PSScriptRoot
+
+Write-Host "[Kodzen] Full kurulum basladi: Kodzen Inventory"
+Write-Host "[Kodzen] Kaynak: $source"
+Write-Host "[Kodzen] Hedef:  $InstallPath"
+
 New-Item -ItemType Directory -Force -Path $InstallPath | Out-Null
-Write-Host "Demo paket kopyalama adimi burada uygulanacak."
-Write-Host "Kurulum tamamlandi."
+Copy-Item -Path (Join-Path $source '*') -Destination $InstallPath -Recurse -Force
+
+$desktop = [Environment]::GetFolderPath('Desktop')
+$shortcutPath = Join-Path $desktop 'inventory-Full.url'
+$url = 'file:///' + ((Join-Path $InstallPath 'full\index.html') -replace '\\','/')
+
+@"
+[InternetShortcut]
+URL=$url
+"@ | Set-Content -Path $shortcutPath -Encoding ASCII
+
+Write-Host "[Kodzen] Kurulum tamamlandi."
+Write-Host "[Kodzen] Kisayol: $shortcutPath"

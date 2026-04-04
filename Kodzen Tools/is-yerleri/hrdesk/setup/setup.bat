@@ -1,2 +1,3 @@
 @echo off
-powershell -ExecutionPolicy Bypass -File "%~dp0setup.ps1"
+set SCRIPT_DIR=%~dp0
+powershell -ExecutionPolicy Bypass -File "%SCRIPT_DIR%setup.ps1"
