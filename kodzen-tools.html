@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kodzen Tools | Uygulama Katalogu</title>
+  <meta name="description" content="Kodzen Tools katalogu: 60 uygulama fikri. Her uygulama icin tanitim, demo ve download bolumu.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://kodzen.io/kodzen-tools.html">
+
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+
+  <style>
+    .tools-shell { padding-top: 132px; padding-bottom: 70px; }
+    .tools-grid {
+      display: grid;
+      grid-template-columns: 360px 1fr;
+      gap: 20px;
+      align-items: start;
+    }
+    .tools-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      box-shadow: var(--shadow);
+    }
+    .tools-card-head {
+      padding: 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    .tools-search {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      background: var(--bg-darker);
+      color: var(--text-main);
+    }
+    .tools-list {
+      max-height: 68vh;
+      overflow: auto;
+      padding: 10px;
+      display: grid;
+      gap: 8px;
+    }
+    .tool-item {
+      width: 100%;
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,.02);
+      border-radius: 10px;
+      padding: 10px;
+      text-align: left;
+      color: var(--text-main);
+      display: grid;
+      gap: 2px;
+    }
+    .tool-item:hover { border-color: var(--border-teal); }
+    .tool-item.active { border-color: var(--primary); background: rgba(0,196,160,.08); }
+    .tool-title { font-size: .88rem; font-weight: 700; }
+    .tool-cat { font-size: .73rem; color: var(--text-dim); }
+
+    .detail-wrap { padding: 18px; }
+    .detail-top { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+    .detail-title { font-size: 1.3rem; margin: 0; }
+    .detail-badge {
+      display: inline-flex;
+      align-items: center;
+      font-size: .73rem;
+      border-radius: 999px;
+      border: 1px solid var(--border-teal);
+      background: var(--primary-glow);
+      color: var(--primary);
+      padding: 4px 10px;
+    }
+    .tab-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+    .detail-tab {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: transparent;
+      color: var(--text-muted);
+      padding: 8px 12px;
+      font-size: .84rem;
+      font-weight: 600;
+    }
+    .detail-tab.active,
+    .detail-tab:hover {
+      color: #fff;
+      border-color: var(--primary);
+      background: rgba(0,196,160,.08);
+    }
+    .detail-content {
+      min-height: 240px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: rgba(255,255,255,.02);
+      padding: 14px;
+    }
+    .detail-content h5 { margin-bottom: 8px; }
+    .detail-content p { color: var(--text-muted); margin-bottom: 10px; }
+    .intro-list { margin: 0; padding-left: 18px; color: var(--text-dim); }
+
+    .catalog-info {
+      margin-bottom: 16px;
+      padding: 14px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: rgba(0,196,160,.04);
+    }
+    .catalog-info p { margin: 0; color: var(--text-muted); }
+
+    .group-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+    .group-box {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px;
+      background: rgba(255,255,255,.02);
+    }
+    .group-box h6 {
+      margin: 0 0 4px;
+      color: #fff;
+      font-size: .88rem;
+    }
+    .group-box p {
+      margin: 0;
+      color: var(--text-dim);
+      font-size: .78rem;
+      line-height: 1.45;
+    }
+
+    @media (max-width: 1100px) {
+      .tools-grid { grid-template-columns: 1fr; }
+      .tools-list { max-height: 320px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJI</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1"></ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<main class="tools-shell">
+  <section class="container">
+    <div class="section-tag"><i class="bi bi-grid-3x3-gap"></i> Kodzen Tools</div>
+    <h1 class="section-title">Uygulama <span class="highlight">Fikirleri Katalogu</span></h1>
+    <div class="catalog-info">
+      <p><strong>Toplam:</strong> <span id="toolCount">0</span> uygulama. Her uygulama kartina tikladiginda sag panelde <strong>Tanitim</strong>, <strong>Demo</strong> ve <strong>Download</strong> bolumleri acilir.</p>
+    </div>
+
+    <div class="group-grid">
+      <article class="group-box"><h6>Egitimciler (5)</h6><p>ClassPlanner, QuizMaker, Attendance, GradeBook, LectureTimer.</p></article>
+      <article class="group-box"><h6>Memurlar (5)</h6><p>DocManager, MeetingNotes, TaskDesk, SecureMail, Workflow.</p></article>
+      <article class="group-box"><h6>Aileler (5)</h6><p>FamilyBudget, MealPlanner, ChoreManager, FamilyCalendar, KidsTracker.</p></article>
+      <article class="group-box"><h6>Android (5)</h6><p>BatterySaver, Cleaner, AppLocker, CallRecorder, HealthMonitor.</p></article>
+      <article class="group-box"><h6>Is Yerleri (15)</h6><p>HRDesk'ten Collaboration'a uzanan kurumsal operasyon seti.</p></article>
+      <article class="group-box"><h6>Siber Guvenlik (5)</h6><p>Vulnerability Scanner, LogAnalyzer, PhishAlert, CryptoSafe, SecureAudit.</p></article>
+      <article class="group-box"><h6>Yazilimcilar (5)</h6><p>DevTracker, CodeReview Assistant, RegexBuilder, API MockServer, Performance Profiler.</p></article>
+      <article class="group-box"><h6>Yeni Fikirler (15)</h6><p>Prototype serisi ile hizli PoC ve kullanici geri bildirim dongusu.</p></article>
+    </div>
+
+    <div class="tools-grid">
+      <aside class="tools-card">
+        <div class="tools-card-head">
+          <input id="toolSearch" class="tools-search" type="text" placeholder="Uygulama ara... (or: Security, QuizMaker)">
+        </div>
+        <div id="toolsList" class="tools-list"></div>
+      </aside>
+
+      <section class="tools-card">
+        <div class="detail-wrap">
+          <div class="detail-top">
+            <h2 id="toolDetailTitle" class="detail-title">-</h2>
+            <span id="toolDetailBadge" class="detail-badge">-</span>
+          </div>
+
+          <div class="tab-row">
+            <button class="detail-tab active" data-tab="intro" type="button"><i class="bi bi-info-circle me-1"></i> Tanitim</button>
+            <button class="detail-tab" data-tab="demo" type="button"><i class="bi bi-play-circle me-1"></i> Demo Bolumu</button>
+            <button class="detail-tab" data-tab="download" type="button"><i class="bi bi-download me-1"></i> Download Bolumu</button>
+          </div>
+
+          <div id="toolDetailContent" class="detail-content"></div>
+        </div>
+      </section>
+    </div>
+  </section>
+</main>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script>AOS.init({ once: true, duration: 700 });</script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+<script src="js/navbar-fix.js?v=20260404-2"></script>
+<script src="js/newsletter.js"></script>
+<script src="js/kodzen-tools.js"></script>
+</body>
+</html>

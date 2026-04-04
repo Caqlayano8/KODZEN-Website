@@ -14,6 +14,7 @@
       'scada.html': 'scada.html',
       'fiyatlar.html': 'fiyatlar.html',
       'demo.html': 'demo.html',
+      'kodzen-tools.html': 'kodzen-tools.html',
       'iletisim.html': 'iletisim.html',
       'ai-gis.html': 'urunler',
       'ckmesaj.html': 'urunler',
@@ -45,6 +46,7 @@
       '<li class="nav-item"><a class="nav-link' + (active === 'scada.html' ? ' active' : '') + '" href="scada.html">SCADA</a></li>',
       '<li class="nav-item"><a class="nav-link' + (active === 'fiyatlar.html' ? ' active' : '') + '" href="fiyatlar.html">Fiyatlar</a></li>',
       '<li class="nav-item"><a class="nav-link' + (active === 'demo.html' ? ' active' : '') + '" href="demo.html">Demo</a></li>',
+      '<li class="nav-item"><a class="nav-link' + (active === 'kodzen-tools.html' ? ' active' : '') + '" href="kodzen-tools.html">Kodzen Tools</a></li>',
       '<li class="nav-item"><a class="nav-link' + (active === 'iletisim.html' ? ' active' : '') + '" href="iletisim.html">İletişim</a></li>'
     ].join('');
   }
