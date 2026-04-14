@@ -193,6 +193,7 @@
                   <option value="">-- Ürün Seçin --</option>
                   <option value="AI-GIS Infrastructure System">AI-GIS Infrastructure System</option>
                   <option value="WhatsYpzck">WhatsYpzck</option>
+                  <option value="Sosyal Media Analiz">Sosyal Media Analiz</option>
                   <option value="CKmesaj">CKmesaj</option>
                   <option value="Hepsi">Hepsi</option>
                 </select>
@@ -230,6 +231,7 @@
         <ul class="footer-links">
           <li><a href="ai-gis.html">AI-GIS System</a></li>
           <li><a href="whatsypzck.html">WhatsYpzck</a></li>
+          <li><a href="sosyal-medya-analiz.html">Sosyal Media Analiz</a></li>
           <li><a href="ckmesaj.html">CKmesaj</a></li>
         </ul>
       </div>
@@ -293,6 +295,23 @@
 
   <script src="js/navbar-fix.js?v=20260404-2"></script>
   <script src="js/newsletter.js"></script>
+  <script>
+    (function () {
+      var params = new URLSearchParams(window.location.search);
+      var product = params.get('product');
+      if (!product) return;
+
+      var productSelect = document.getElementById('demoProduct');
+      if (!productSelect) return;
+
+      for (var i = 0; i < productSelect.options.length; i += 1) {
+        if (productSelect.options[i].value === product) {
+          productSelect.value = product;
+          break;
+        }
+      }
+    })();
+  </script>
 </body>
 </html>
 

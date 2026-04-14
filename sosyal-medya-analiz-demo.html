@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sosyal Media Analiz - Online Demo | KODZEN TEKNOLOJI</title>
+  <meta name="description" content="Sosyal Media Analiz uygulamasinin tarayici uzerinden online demo deneyimi.">
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+  <style>
+    .demo-box {
+      background: rgba(10, 17, 28, 0.93);
+      border: 1px solid rgba(0, 255, 224, 0.22);
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 16px 44px rgba(0, 0, 0, 0.35);
+    }
+
+    .demo-result {
+      min-height: 220px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 16px;
+      color: #d7f6ff;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJI</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1"></ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section class="page-hero" style="padding-bottom:36px">
+  <div class="container text-center">
+    <span class="page-hero-label"><i class="bi bi-flask me-2"></i>Tarayici Uzerinden Deneme</span>
+    <h1><span class="gradient-text">Sosyal Media Analiz</span> Online Demo</h1>
+    <p class="mx-auto mt-3" style="max-width:760px">
+      Bu demo, urunun calisma mantigini gosteren hafif bir simulasyondur. Full surumde platform bazli daha kapsamli AI icerik boru hatti, raporlama ve otomasyon modulleri bulunur.
+    </p>
+    <div class="d-flex gap-2 justify-content-center flex-wrap mt-4">
+      <a href="sosyal-medya-analiz.html" class="btn-ghost-kodzen"><i class="bi bi-arrow-left"></i> Uygulama Sayfasi</a>
+      <a href="demo.html?product=Sosyal%20Media%20Analiz" class="btn-primary-kodzen"><i class="bi bi-stars"></i> Full Surum Talep Et</a>
+    </div>
+  </div>
+</section>
+
+<section class="pb-5">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-5" data-aos="fade-right">
+        <div class="demo-box h-100">
+          <h5 class="mb-3"><i class="bi bi-sliders me-2"></i>Demo Girisi</h5>
+          <div class="mb-3">
+            <label class="form-label-dark" for="platform">Platform</label>
+            <select id="platform" class="form-control-dark form-select-dark">
+              <option value="Instagram">Instagram</option>
+              <option value="TikTok">TikTok</option>
+              <option value="YouTube">YouTube</option>
+              <option value="X">X (Twitter)</option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <label class="form-label-dark" for="sector">Sektor</label>
+            <input id="sector" class="form-control-dark" value="E-ticaret" />
+          </div>
+          <div class="mb-3">
+            <label class="form-label-dark" for="target">Hedef Kitle</label>
+            <input id="target" class="form-control-dark" value="18-34 yas arasi alisveris severler" />
+          </div>
+          <div class="mb-3">
+            <label class="form-label-dark" for="goal">Kampanya Hedefi</label>
+            <input id="goal" class="form-control-dark" value="Satis artisina yonelik reels kampanyasi" />
+          </div>
+          <button id="runDemo" class="btn-primary-kodzen w-100 justify-content-center">
+            <i class="bi bi-magic"></i> Demo Analizini Uret
+          </button>
+        </div>
+      </div>
+      <div class="col-lg-7" data-aos="fade-left">
+        <div class="demo-box h-100">
+          <h5 class="mb-3"><i class="bi bi-clipboard-data me-2"></i>Demo Ciktisi</h5>
+          <div id="result" class="demo-result">Demo ciktilari burada gorunecek...</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/transitions.js"></script>
+<script src="js/navbar-fix.js?v=20260414-2"></script>
+
+<script>
+  (function () {
+    var btn = document.getElementById('runDemo');
+    var result = document.getElementById('result');
+
+    btn.addEventListener('click', function () {
+      var platform = document.getElementById('platform').value;
+      var sector = document.getElementById('sector').value;
+      var target = document.getElementById('target').value;
+      var goal = document.getElementById('goal').value;
+
+      var output = [
+        'Platform: ' + platform,
+        'Sektor: ' + sector,
+        'Hedef Kitle: ' + target,
+        'Kampanya Hedefi: ' + goal,
+        '',
+        'Trend Onerileri:',
+        '- Kisa ve hizli acilisli video formatlari kullanin.',
+        '- Ilk 3 saniyede net fayda mesaji verin.',
+        '- Gunluk 1 ana icerik + 2 destek hikaye planlayin.',
+        '',
+        'Ornek Icerik Fikri:',
+        '"3 adimda daha hizli sonuc" formatinda once/sonra kurgusu.',
+        '',
+        'Ornek CTA:',
+        '"Yorumlara DEMO yazin, size ornek icerik takvimi gonderelim."',
+        '',
+        'Not: Bu bir tanitim demosudur. Full surumde daha detayli platform raporu ve otomatik icerik boru hatti bulunur.'
+      ].join('\n');
+
+      result.textContent = output;
+    });
+  })();
+</script>
+
+</body>
+</html>

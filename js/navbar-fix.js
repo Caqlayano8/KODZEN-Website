@@ -9,6 +9,7 @@
       'robotik-kodlama.html': 'robotik-kodlama.html',
       'teknoloji-blog.html': 'teknoloji-blog.html',
       'sosyal-medya-analiz.html': 'sosyal-medya-analiz.html',
+      'sosyal-medya-analiz-demo.html': 'sosyal-medya-analiz.html',
       'webgelistirme.html': 'webgelistirme.html',
       'temalar.html': 'temalar.html',
       'siberguvenik.html': 'siberguvenik.html',
