@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sosyal Media Analiz | KODZEN TEKNOLOJI</title>
+  <meta name="description" content="Sosyal Media Analiz uygulamasini dogrudan web sayfasindan acin ve kullanin.">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="KODZEN TEKNOLOJI">
+  <link rel="canonical" href="https://kodzen.io/sosyal-medya-analiz.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Sosyal Media Analiz | KODZEN TEKNOLOJI">
+  <meta property="og:description" content="Sosyal medya icerik analizi ve uretim uygulamasi.">
+  <meta property="og:url" content="https://kodzen.io/sosyal-medya-analiz.html">
+  <meta property="og:image" content="https://kodzen.io/images/og-kodzen.jpg">
+
+  <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="vendor/aos/aos.css">
+  <link rel="stylesheet" href="vendor/fonts/local-fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/theme.js"></script>
+  <link rel="stylesheet" href="css/themes.css">
+
+  <style>
+    .app-shell {
+      background: linear-gradient(180deg, rgba(11,15,24,0.95) 0%, rgba(7,10,16,0.98) 100%);
+      border: 1px solid rgba(0, 255, 224, 0.18);
+      border-radius: 16px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.45);
+      overflow: hidden;
+    }
+
+    .app-shell-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.03);
+    }
+
+    .app-shell-title {
+      color: #e8fbff;
+      font-weight: 800;
+      letter-spacing: 0.4px;
+      margin: 0;
+    }
+
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      background: rgba(255,255,255,0.1);
+    }
+
+    .status-pill.ok {
+      background: rgba(25, 200, 110, 0.2);
+      border-color: rgba(25, 200, 110, 0.5);
+      color: #7effb8;
+    }
+
+    .status-pill.err {
+      background: rgba(255, 96, 96, 0.2);
+      border-color: rgba(255, 96, 96, 0.5);
+      color: #ffb3b3;
+    }
+
+    .app-frame {
+      width: 100%;
+      min-height: 78vh;
+      border: 0;
+      background: #0f1722;
+    }
+
+    .local-note {
+      font-size: 0.95rem;
+      color: var(--text-dim);
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg" id="mainNavbar">
+  <div class="container">
+    <a class="navbar-brand" href="index.html">
+      <span class="brand-logo-text">KODZEN<span class="brand-brain"> {&#129504;}</span></span>
+      <span class="brand-sub">TEKNOLOJI</span>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav mx-auto gap-1"></ul>
+      <ul class="navbar-nav gap-1">
+        <li class="nav-item" id="kzGTNavItem"><div id="google_translate_element"></div></li>
+        <li class="nav-item"><a class="nav-link nav-admin-link" href="admin/login.html"><i class="bi bi-shield-lock me-1"></i>Admin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section class="page-hero">
+  <div class="container">
+    <div class="row align-items-center gy-4">
+      <div class="col-lg-8" data-aos="fade-right">
+        <span class="page-hero-label"><i class="bi bi-bar-chart-steps me-2"></i>Lokal Uygulama Entegrasyonu</span>
+        <h1><span class="gradient-text">Sosyal Media Analiz</span></h1>
+        <p class="mt-3 fs-5">Bu sayfa, <strong>C:/Users/kurto/Documents/SosyalMedyaAnaliz</strong> klasorundeki Flask uygulamasini canli olarak iframe icinde calistirir.</p>
+        <div class="d-flex gap-2 flex-wrap mt-4">
+          <a class="btn-primary-kodzen" href="http://localhost:5000" target="_blank" rel="noopener">
+            <i class="bi bi-box-arrow-up-right"></i> Yeni Sekmede Ac
+          </a>
+          <a class="btn-ghost-kodzen" href="file:///C:/Users/kurto/Documents/SosyalMedyaAnaliz/install_and_run.bat" target="_blank" rel="noopener">
+            <i class="bi bi-play-circle"></i> Uygulamayi Baslat (BAT)
+          </a>
+          <button id="refreshLocalApp" class="btn-ghost-kodzen" type="button">
+            <i class="bi bi-arrow-repeat"></i> Baglantiyi Yenile
+          </button>
+        </div>
+        <p class="local-note mt-3 mb-0">
+          Not: Tarayici guvenlik politikasi nedeniyle web sayfasi uygulamayi otomatik process olarak baslatamaz. Uygulama acik oldugunda bu sayfa dogrudan kullanima hazirdir.
+        </p>
+      </div>
+      <div class="col-lg-4" data-aos="fade-left">
+        <div class="info-card h-100">
+          <h6><i class="bi bi-cpu me-2"></i>Calisma Bilgisi</h6>
+          <ul class="check-list mb-0">
+            <li><i class="bi bi-check-circle-fill"></i> Hedef URL: <code>http://localhost:5000</code></li>
+            <li><i class="bi bi-check-circle-fill"></i> Proje: <code>SosyalMedyaAnaliz</code></li>
+            <li><i class="bi bi-check-circle-fill"></i> Teknoloji: Flask + Bootstrap</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pb-5">
+  <div class="container">
+    <div class="app-shell" data-aos="fade-up">
+      <div class="app-shell-header">
+        <h5 class="app-shell-title mb-0"><i class="bi bi-window me-2"></i>Sosyal Media Analiz - Canli Kullanım</h5>
+        <div id="appStatus" class="status-pill"><i class="bi bi-hourglass-split"></i>Kontrol ediliyor...</div>
+      </div>
+      <iframe id="smaFrame" class="app-frame" title="Sosyal Media Analiz Uygulamasi" src="about:blank"></iframe>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-bottom py-4">
+      <p class="footer-copy mb-0">&copy; 2026 <span>KODZEN TEKNOLOJI</span> - Tum haklari saklidir.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/aos/aos.js"></script>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+<script src="js/transitions.js"></script>
+<script src="js/ticker.js"></script>
+<script src="js/google-translate.js"></script>
+<script src="js/proje-popup.js"></script>
+<script src="js/page-animations.js"></script>
+<script src="js/navbar-fix.js?v=20260414-1"></script>
+<script src="js/newsletter.js"></script>
+
+<script>
+  (function () {
+    var targetUrl = 'http://localhost:5000';
+    var frame = document.getElementById('smaFrame');
+    var status = document.getElementById('appStatus');
+    var refreshBtn = document.getElementById('refreshLocalApp');
+
+    function setStatus(kind, text) {
+      status.classList.remove('ok', 'err');
+      if (kind) status.classList.add(kind);
+      status.innerHTML = text;
+    }
+
+    async function connectLocalApp() {
+      setStatus('', '<i class="bi bi-hourglass-split"></i>Kontrol ediliyor...');
+      try {
+        await fetch(targetUrl, { mode: 'no-cors', cache: 'no-store' });
+        frame.src = targetUrl;
+        setStatus('ok', '<i class="bi bi-check-circle"></i>Calisiyor - Baglanti kuruldu');
+      } catch (err) {
+        frame.src = 'about:blank';
+        setStatus('err', '<i class="bi bi-x-circle"></i>Baglanti yok - once uygulamayi baslatin');
+      }
+    }
+
+    refreshBtn.addEventListener('click', connectLocalApp);
+    connectLocalApp();
+  })();
+</script>
+
+</body>
+</html>
