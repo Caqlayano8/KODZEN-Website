@@ -204,13 +204,28 @@
     var openBtn = document.getElementById('openActiveTarget');
     var activeTargetUrl = candidateUrls[candidateUrls.length - 1] || 'http://localhost:5000';
     var hasAutoScrolled = false;
+    var autoScrollAttempts = 0;
 
-    function scrollToLiveSection() {
-      if (!liveSection || hasAutoScrolled) return;
-      hasAutoScrolled = true;
-      var navOffset = 92;
-      var y = liveSection.getBoundingClientRect().top + window.pageYOffset - navOffset;
+    function scrollToLiveSection(force) {
+      if (!liveSection) return;
+      if (hasAutoScrolled && !force) return;
+
+      var nav = document.getElementById('mainNavbar');
+      var navHeight = nav ? Math.ceil(nav.getBoundingClientRect().height) : 0;
+      var isMobile = window.matchMedia('(max-width: 991.98px)').matches;
+      var extraOffset = isMobile ? 22 : 12;
+
+      var y = liveSection.getBoundingClientRect().top + window.pageYOffset - navHeight - extraOffset;
       window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+
+      autoScrollAttempts += 1;
+      if (!isMobile || autoScrollAttempts >= 2) {
+        hasAutoScrolled = true;
+      } else {
+        setTimeout(function () {
+          scrollToLiveSection(true);
+        }, 300);
+      }
     }
 
     function setStatus(kind, text) {
@@ -243,7 +258,7 @@
           } else {
             setStatus('ok', '<i class="bi bi-check-circle"></i>Canli baglanti aktif');
           }
-          setTimeout(scrollToLiveSection, 120);
+          setTimeout(function () { scrollToLiveSection(true); }, 120);
           return;
         }
       }
@@ -251,10 +266,23 @@
       frame.src = 'about:blank';
       openBtn.href = activeTargetUrl;
       setStatus('err', '<i class="bi bi-x-circle"></i>Canli/lokal baglanti kurulamadi');
-      setTimeout(scrollToLiveSection, 120);
+      setTimeout(function () { scrollToLiveSection(true); }, 120);
     }
 
-    refreshBtn.addEventListener('click', connectApp);
+    if (frame) {
+      frame.addEventListener('load', function () {
+        if (autoScrollAttempts < 2) {
+          setTimeout(function () { scrollToLiveSection(true); }, 220);
+        }
+      });
+    }
+
+    refreshBtn.addEventListener('click', function () {
+      hasAutoScrolled = false;
+      autoScrollAttempts = 0;
+      connectApp();
+    });
+
     connectApp();
   })();
 </script>
