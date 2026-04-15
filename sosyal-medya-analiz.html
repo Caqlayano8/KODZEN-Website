@@ -154,7 +154,7 @@
   </div>
 </section>
 
-<section class="pb-5">
+<section class="pb-5" id="liveAppSection">
   <div class="container">
     <div class="app-shell" data-aos="fade-up">
       <div class="app-shell-header">
@@ -198,10 +198,20 @@
     ].filter(Boolean);
 
     var frame = document.getElementById('smaFrame');
+    var liveSection = document.getElementById('liveAppSection');
     var status = document.getElementById('appStatus');
     var refreshBtn = document.getElementById('refreshLocalApp');
     var openBtn = document.getElementById('openActiveTarget');
     var activeTargetUrl = candidateUrls[candidateUrls.length - 1] || 'http://localhost:5000';
+    var hasAutoScrolled = false;
+
+    function scrollToLiveSection() {
+      if (!liveSection || hasAutoScrolled) return;
+      hasAutoScrolled = true;
+      var navOffset = 92;
+      var y = liveSection.getBoundingClientRect().top + window.pageYOffset - navOffset;
+      window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+    }
 
     function setStatus(kind, text) {
       status.classList.remove('ok', 'err');
@@ -233,6 +243,7 @@
           } else {
             setStatus('ok', '<i class="bi bi-check-circle"></i>Canli baglanti aktif');
           }
+          setTimeout(scrollToLiveSection, 120);
           return;
         }
       }
@@ -240,6 +251,7 @@
       frame.src = 'about:blank';
       openBtn.href = activeTargetUrl;
       setStatus('err', '<i class="bi bi-x-circle"></i>Canli/lokal baglanti kurulamadi');
+      setTimeout(scrollToLiveSection, 120);
     }
 
     refreshBtn.addEventListener('click', connectApp);
