@@ -111,11 +111,11 @@
   <div class="container">
     <div class="row align-items-center gy-4">
       <div class="col-lg-8" data-aos="fade-right">
-        <span class="page-hero-label"><i class="bi bi-bar-chart-steps me-2"></i>Lokal Uygulama Entegrasyonu</span>
+        <span class="page-hero-label"><i class="bi bi-bar-chart-steps me-2"></i>Canli + Lokal Uygulama Entegrasyonu</span>
         <h1><span class="gradient-text">Sosyal Media Analiz</span></h1>
-        <p class="mt-3 fs-5">Bu sayfa, <strong>C:/Users/kurto/Documents/SosyalMedyaAnaliz</strong> klasorundeki Flask uygulamasini canli olarak iframe icinde calistirir.</p>
+        <p class="mt-3 fs-5">Bu sayfa once canli URL baglantisini dener, ulasilamazsa otomatik olarak lokal Flask uygulamasina gecer.</p>
         <div class="d-flex gap-2 flex-wrap mt-4">
-          <a class="btn-primary-kodzen" href="http://localhost:5000" target="_blank" rel="noopener">
+          <a id="openActiveTarget" class="btn-primary-kodzen" href="http://localhost:5000" target="_blank" rel="noopener">
             <i class="bi bi-box-arrow-up-right"></i> Yeni Sekmede Ac
           </a>
           <a class="btn-ghost-kodzen" href="sosyal-medya-analiz-demo.html">
@@ -135,14 +135,15 @@
           </a>
         </div>
         <p class="local-note mt-3 mb-0">
-          Not: Tarayici guvenlik politikasi nedeniyle web sayfasi uygulamayi otomatik process olarak baslatamaz. Uygulama acik oldugunda bu sayfa dogrudan kullanima hazirdir.
+          Not: Canli URL belirtmek icin adrese <code>?appUrl=https://senin-domain.com</code> ekleyebilirsin.
         </p>
       </div>
       <div class="col-lg-4" data-aos="fade-left">
         <div class="info-card h-100">
           <h6><i class="bi bi-cpu me-2"></i>Calisma Bilgisi</h6>
           <ul class="check-list mb-0">
-            <li><i class="bi bi-check-circle-fill"></i> Hedef URL: <code>http://localhost:5000</code></li>
+            <li><i class="bi bi-check-circle-fill"></i> Oncelikli URL: <code>https://sosyal-medya-analiz.onrender.com</code></li>
+            <li><i class="bi bi-check-circle-fill"></i> Fallback URL: <code>http://localhost:5000</code></li>
             <li><i class="bi bi-check-circle-fill"></i> Proje: <code>SosyalMedyaAnaliz</code></li>
             <li><i class="bi bi-check-circle-fill"></i> Teknoloji: Flask + Bootstrap</li>
             <li><i class="bi bi-check-circle-fill"></i> Online Demo: <code>sosyal-medya-analiz-demo.html</code></li>
@@ -187,10 +188,20 @@
 
 <script>
   (function () {
-    var targetUrl = 'http://localhost:5000';
+    var urlParams = new URLSearchParams(window.location.search);
+    var customUrl = (urlParams.get('appUrl') || '').trim();
+    var candidateUrls = [
+      customUrl,
+      'https://sosyal-medya-analiz.onrender.com',
+      'https://sosyalmedyaanaliz.onrender.com',
+      'http://localhost:5000'
+    ].filter(Boolean);
+
     var frame = document.getElementById('smaFrame');
     var status = document.getElementById('appStatus');
     var refreshBtn = document.getElementById('refreshLocalApp');
+    var openBtn = document.getElementById('openActiveTarget');
+    var activeTargetUrl = candidateUrls[candidateUrls.length - 1] || 'http://localhost:5000';
 
     function setStatus(kind, text) {
       status.classList.remove('ok', 'err');
@@ -198,20 +209,41 @@
       status.innerHTML = text;
     }
 
-    async function connectLocalApp() {
-      setStatus('', '<i class="bi bi-hourglass-split"></i>Kontrol ediliyor...');
+    async function canReach(url) {
       try {
-        await fetch(targetUrl, { mode: 'no-cors', cache: 'no-store' });
-        frame.src = targetUrl;
-        setStatus('ok', '<i class="bi bi-check-circle"></i>Calisiyor - Baglanti kuruldu');
+        await fetch(url, { mode: 'no-cors', cache: 'no-store' });
+        return true;
       } catch (err) {
-        frame.src = 'about:blank';
-        setStatus('err', '<i class="bi bi-x-circle"></i>Baglanti yok - once uygulamayi baslatin');
+        return false;
       }
     }
 
-    refreshBtn.addEventListener('click', connectLocalApp);
-    connectLocalApp();
+    async function connectApp() {
+      setStatus('', '<i class="bi bi-hourglass-split"></i>Kontrol ediliyor...');
+
+      for (var i = 0; i < candidateUrls.length; i++) {
+        var url = candidateUrls[i];
+        var ok = await canReach(url);
+        if (ok) {
+          activeTargetUrl = url;
+          frame.src = url;
+          openBtn.href = url;
+          if (url.indexOf('localhost') !== -1) {
+            setStatus('ok', '<i class="bi bi-check-circle"></i>Lokal baglanti aktif');
+          } else {
+            setStatus('ok', '<i class="bi bi-check-circle"></i>Canli baglanti aktif');
+          }
+          return;
+        }
+      }
+
+      frame.src = 'about:blank';
+      openBtn.href = activeTargetUrl;
+      setStatus('err', '<i class="bi bi-x-circle"></i>Canli/lokal baglanti kurulamadi');
+    }
+
+    refreshBtn.addEventListener('click', connectApp);
+    connectApp();
   })();
 </script>
 
