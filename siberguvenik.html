@@ -26,6 +26,116 @@
   <link rel="stylesheet" href="css/style.css">
 <script src="js/theme.js"></script>
   <link rel="stylesheet" href="css/themes.css">
+  <style>
+    .cyber-deep-section {
+      background:
+        radial-gradient(circle at 20% 10%, rgba(244, 63, 94, 0.15), transparent 42%),
+        radial-gradient(circle at 80% 80%, rgba(14, 165, 233, 0.14), transparent 38%),
+        linear-gradient(145deg, #070a12 0%, #111827 52%, #0b1220 100%);
+      border-top: 1px solid rgba(244, 63, 94, 0.2);
+      border-bottom: 1px solid rgba(56, 189, 248, 0.2);
+    }
+
+    .cyber-stack-card {
+      height: 100%;
+      background: linear-gradient(160deg, rgba(15, 23, 42, 0.88), rgba(17, 24, 39, 0.96));
+      border: 1px solid rgba(148, 163, 184, 0.22);
+      border-radius: 16px;
+      padding: 20px;
+      transition: transform .28s ease, border-color .28s ease, box-shadow .28s ease;
+    }
+
+    .cyber-stack-card:hover {
+      transform: translateY(-5px);
+      border-color: rgba(244, 63, 94, 0.46);
+      box-shadow: 0 14px 30px rgba(2, 6, 23, 0.42);
+    }
+
+    .cyber-stack-title {
+      color: #fff;
+      font-weight: 800;
+      margin-bottom: 10px;
+      font-size: 1.05rem;
+    }
+
+    .cyber-stack-list {
+      margin: 0;
+      padding-left: 18px;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      line-height: 1.7;
+    }
+
+    .cyber-code {
+      margin: 0;
+      background: rgba(2, 6, 23, 0.82);
+      border: 1px solid rgba(148, 163, 184, 0.25);
+      border-radius: 12px;
+      color: #e2e8f0;
+      padding: 14px;
+      font-family: "JetBrains Mono", monospace;
+      font-size: 0.78rem;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    .security-matrix-wrap {
+      background: linear-gradient(170deg, rgba(15, 23, 42, 0.84), rgba(31, 41, 55, 0.9));
+      border: 1px solid rgba(148, 163, 184, 0.22);
+      border-radius: 14px;
+      overflow: hidden;
+    }
+
+    .security-matrix {
+      width: 100%;
+      border-collapse: collapse;
+      color: var(--text-muted);
+      font-size: 0.86rem;
+    }
+
+    .security-matrix th,
+    .security-matrix td {
+      border-bottom: 1px solid rgba(148, 163, 184, 0.16);
+      padding: 12px 10px;
+      vertical-align: top;
+    }
+
+    .security-matrix th {
+      color: #fff;
+      background: rgba(244, 63, 94, 0.12);
+      font-weight: 700;
+      letter-spacing: .02em;
+    }
+
+    .kpi-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border-radius: 999px;
+      padding: 6px 12px;
+      background: rgba(30, 41, 59, 0.78);
+      border: 1px solid rgba(148, 163, 184, 0.26);
+      color: #cbd5e1;
+      font-size: 0.78rem;
+      margin: 0 8px 8px 0;
+    }
+
+    .compliance-note {
+      border-left: 3px solid #f43f5e;
+      background: rgba(15, 23, 42, 0.7);
+      border-radius: 10px;
+      padding: 14px 16px;
+      color: var(--text-muted);
+      font-size: 0.88rem;
+    }
+
+    .threat-feed {
+      border: 1px solid rgba(56, 189, 248, 0.24);
+      border-radius: 12px;
+      background: rgba(12, 18, 32, 0.84);
+      padding: 14px;
+    }
+  </style>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GFW20R1F81"></script>
 <script>
@@ -98,6 +208,9 @@
           </a>
           <a href="#hizmetler" class="btn-outline-kodzen">
             <i class="bi bi-arrow-down-circle"></i> Hizmetleri Keşfet
+          </a>
+          <a href="#cyber-lab" class="btn-outline-kodzen" style="border-color:rgba(56,189,248,.65);color:#38bdf8">
+            <i class="bi bi-cpu"></i> Teknik Lab
           </a>
         </div>
         <div class="row g-3">
@@ -349,6 +462,240 @@
           <div class="process-icon">🛡️</div>
           <h5 class="process-title">Uygulama & İzleme</h5>
           <p class="process-desc">Güvenlik önlemlerinin uygulanması, sürekli izleme, aylık güvenlik raporu.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TEKNİK DERİNLİK LAB -->
+<section id="cyber-lab" class="cyber-deep-section">
+  <div class="container py-5">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto" style="background:rgba(56,189,248,.12);border-color:rgba(56,189,248,.32);color:#38bdf8">
+        <i class="bi bi-cpu"></i> Teknik Derinlik
+      </div>
+      <h2 class="section-title">Siber Güvenlik <span style="color:#38bdf8">Mimari Laboratuvarı</span></h2>
+      <p class="section-subtitle mx-auto" style="max-width:900px">
+        Bu bölümde saldırı yüzeyi analizi, açık port hijyeni, AI destekli savunma mimarileri ve kurumsal uygulama güvenliği
+        için kullanılan katmanlı yaklaşım teknik düzeyde anlatılır. Tüm testler yalnızca açık yetkili ve yazılı izinli ortamlarda uygulanır.
+      </p>
+    </div>
+
+    <div class="row g-4">
+      <div class="col-md-6 col-xl-4" data-aos="fade-up">
+        <article class="cyber-stack-card">
+          <div class="cyber-stack-title"><i class="bi bi-diagram-3 me-2" style="color:#38bdf8"></i>Açık Port Görünürlüğü (Site + Sunucu + İstemci)</div>
+          <ul class="cyber-stack-list">
+            <li>Internet-facing port envanteri: sadece gerekli servislerin yayınlanması (80/443 gibi).</li>
+            <li>Bilgisayar ve sunucuda dinleyen portların süreç bazlı takibi, gereksiz servislerin kapatılması.</li>
+            <li>Patch ve konfigürasyon sonrası otomatik yeniden tarama ile sapma tespiti.</li>
+            <li>Risk derecelendirme: kritik-yüksek-orta-düşük ve düzeltme SLA eşlemesi.</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="col-md-6 col-xl-4" data-aos="fade-up" data-aos-delay="60">
+        <article class="cyber-stack-card">
+          <div class="cyber-stack-title"><i class="bi bi-shop-window me-2" style="color:#38bdf8"></i>AI E-Ticaret + Cloudflare DDoS Savunması</div>
+          <ul class="cyber-stack-list">
+            <li>Cloudflare WAF + Bot Management + Rate Limiting ile katmanlı L3/L4/L7 savunma.</li>
+            <li>Checkout ve ödeme uçlarında davranışsal anomali analizi (AI fraud scoring).</li>
+            <li>Cache stratejisi + origin shielding ile ani trafik dalgalarında servis sürekliliği.</li>
+            <li>Runbook: saldırı anı trafik yönlendirme, challenge modu, olay sonrası kök neden analizi.</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="col-md-6 col-xl-4" data-aos="fade-up" data-aos-delay="120">
+        <article class="cyber-stack-card">
+          <div class="cyber-stack-title"><i class="bi bi-wordpress me-2" style="color:#38bdf8"></i>WordPress + AI + WAF</div>
+          <ul class="cyber-stack-list">
+            <li>WordPress hardening: admin URL koruma, XML-RPC kontrolü, dosya izinlerinin sıkılaştırılması.</li>
+            <li>Yönetim paneli için MFA, oturum sertleştirme ve brute-force engelleme politikaları.</li>
+            <li>AI ile plugin/log davranışı analizi: olağandışı giriş, içerik enjeksiyonu, bot aktivitesi tespiti.</li>
+            <li>WAF kural seti ve imza güncelleme döngüsü ile sıfır gün risk azaltımı.</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="col-md-6 col-xl-4" data-aos="fade-up">
+        <article class="cyber-stack-card">
+          <div class="cyber-stack-title"><i class="bi bi-hdd-network me-2" style="color:#38bdf8"></i>API & Otomasyon + Honeypot</div>
+          <ul class="cyber-stack-list">
+            <li>API gateway katmanında JWT doğrulama, nonce/idempotency ve kapsam (scope) kontrollü erişim.</li>
+            <li>Honeypot endpointleri ile otomasyon botlarının davranış imzasını toplama.</li>
+            <li>SIEM entegrasyonu: istek hız anomalisi, token replay, şüpheli IP örüntülerinin uyarılanması.</li>
+            <li>CI/CD güvenlik kapısı: SAST, dependency ve gizli anahtar taraması.</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="col-md-6 col-xl-4" data-aos="fade-up" data-aos-delay="60">
+        <article class="cyber-stack-card">
+          <div class="cyber-stack-title"><i class="bi bi-graph-up-arrow me-2" style="color:#38bdf8"></i>SEO & Analytics + Threat Intelligence</div>
+          <ul class="cyber-stack-list">
+            <li>SEO trafiği ile tehdit istihbaratı korelasyonu: kötü bot/şüpheli crawler ayrıştırması.</li>
+            <li>Referer poisoning, spam campaign ve sahte dönüşüm kaynaklarının filtrelenmesi.</li>
+            <li>IOC/IOA beslemeleri ile riskli ASN/IP/ülke kaynaklı trafik için dinamik politika.</li>
+            <li>Analitik panelinde güvenli büyüme KPI'ları: gerçek kullanıcı oranı, temiz trafik yüzdesi.</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="col-md-6 col-xl-4" data-aos="fade-up" data-aos-delay="120">
+        <article class="cyber-stack-card">
+          <div class="cyber-stack-title"><i class="bi bi-shield-lock me-2" style="color:#38bdf8"></i>AI ile Site Kurma + Zero Trust</div>
+          <ul class="cyber-stack-list">
+            <li>AI ile hızlı geliştirme + güvenli kodlama şablonları (input validation, output encoding).</li>
+            <li>Zero Trust: "asla güvenme, her zaman doğrula" prensibiyle kimlik-merkezli erişim.</li>
+            <li>Mikro segmentasyon, servis hesapları için kısa ömürlü kimlik bilgileri ve mTLS.</li>
+            <li>Politika tabanlı erişim (ABAC/RBAC) ve sürekli doğrulama ile lateral hareket engelleme.</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PORT GÖRÜNÜRLÜĞÜ -->
+<section id="port-denetim">
+  <div class="container">
+    <div class="text-center mb-5" data-aos="fade-up">
+      <div class="section-tag mx-auto"><i class="bi bi-plug"></i> Port Güvenliği</div>
+      <h2 class="section-title">Açık Port Analizi: <span class="highlight">Site ve Bilgisayar</span></h2>
+      <p class="section-subtitle mx-auto" style="max-width:860px">
+        Port analizi, saldırı yüzeyi yönetiminin temelidir. Hedef internete hangi servisleri açıyor, host üzerinde
+        hangi süreçler dinliyor, bu süreçler gerçekten gerekli mi sorularına ölçülebilir cevap verir.
+      </p>
+    </div>
+
+    <div class="row g-4 mb-4">
+      <div class="col-lg-6" data-aos="fade-right">
+        <div class="feature-card h-100">
+          <h5 class="feature-title" style="margin-bottom:10px"><i class="bi bi-globe2 me-2 text-primary-kodzen"></i>Web Sitesi Açık Port İncelemesi</h5>
+          <p class="feature-desc mb-3">
+            İnternete açık varlıklarda izinli keşif ile servis, sürüm ve protokol profili çıkarılır. Amaç saldırı yüzeyini
+            küçültmek ve gereksiz portları yayından kaldırmaktır.
+          </p>
+          <pre class="cyber-code"># Yalnizca yazili izinli hedeflerde
+nmap --top-ports 200 --open hedef-domain.com
+nmap -sV -p 80,443 hedef-domain.com
+
+# Sonuc beklentisi:
+# Gereksiz port: KAPAT
+# Zayif servis/surum: GUNCELLE
+# Konfig sapmasi: CI/CD policy ile engelle</pre>
+        </div>
+      </div>
+      <div class="col-lg-6" data-aos="fade-left">
+        <div class="feature-card h-100">
+          <h5 class="feature-title" style="margin-bottom:10px"><i class="bi bi-pc-display-horizontal me-2 text-primary-kodzen"></i>Bilgisayar Açık Port İncelemesi</h5>
+          <p class="feature-desc mb-3">
+            Endpoint ve sunucularda dinleyen portların süreç kimliğiyle eşleştirilmesi yapılır. Gereksiz servisler kapatılır,
+            yalnızca iş ihtiyacı olan servisler beyaz listeye alınır.
+          </p>
+          <pre class="cyber-code"># Windows PowerShell
+Get-NetTCPConnection -State Listen |
+  Sort-Object -Property LocalPort |
+  Select-Object LocalAddress,LocalPort,OwningProcess
+
+Get-Process -Id &lt;PID&gt;
+netstat -ano</pre>
+        </div>
+      </div>
+    </div>
+
+    <div class="row g-3" data-aos="fade-up">
+      <div class="col-md-3"><span class="kpi-pill"><i class="bi bi-bullseye"></i> Attack Surface Score</span></div>
+      <div class="col-md-3"><span class="kpi-pill"><i class="bi bi-clock-history"></i> MTTD / MTTR</span></div>
+      <div class="col-md-3"><span class="kpi-pill"><i class="bi bi-shield-check"></i> Patch Compliance</span></div>
+      <div class="col-md-3"><span class="kpi-pill"><i class="bi bi-diagram-2"></i> Zero-Trust Segment</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- BEYAZ ŞAPKA METODOLOJİ -->
+<section class="bg-section-alt">
+  <div class="container">
+    <div class="text-center mb-4" data-aos="fade-up">
+      <div class="section-tag mx-auto" style="background:rgba(244,63,94,.1);border-color:rgba(244,63,94,.3);color:#f43f5e">
+        <i class="bi bi-person-badge"></i> Etik Güvenlik Testi
+      </div>
+      <h2 class="section-title">Beyaz Şapkalı Hack Nedir, <span style="color:#f43f5e">Nasıl Uygulanır?</span></h2>
+      <p class="section-subtitle mx-auto" style="max-width:900px">
+        Beyaz şapkalı (ethical) hacking, sistem sahibinin açık izniyle yapılan ve savunmayı güçlendirmeyi amaçlayan
+        kontrollü güvenlik testidir. Hedef; açıkları sömürmek değil, açıkları kapatmak ve riski ölçmektir.
+      </p>
+    </div>
+
+    <div class="compliance-note mb-4" data-aos="fade-up">
+      Zorunlu çerçeve: Yazılı izin + test kapsam dokümanı + zaman penceresi + raporlama yükümlülüğü.
+      İzinsiz test yapılmaz. Hukuki ve etik sınırlar proje başlangıcında sözleşme ile sabitlenir.
+    </div>
+
+    <div class="security-matrix-wrap mb-4" data-aos="fade-up" data-aos-delay="60">
+      <table class="security-matrix">
+        <thead>
+          <tr>
+            <th>Aşama</th>
+            <th>Ne Yapılır</th>
+            <th>Kullanılan Uygulamalar</th>
+            <th>Çıktı</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1. Kapsam ve Yetki</td>
+            <td>Varlık listesi, hariç alanlar, test saatleri, acil durum iletişim planı tanımlanır.</td>
+            <td>Jira/Notion, sözleşme ekleri, varlık envanter araçları</td>
+            <td>Rules of Engagement (RoE), test takvimi</td>
+          </tr>
+          <tr>
+            <td>2. Keşif ve Haritalama</td>
+            <td>Port/servis/endpoint görünürlüğü ve teknoloji envanteri çıkarılır.</td>
+            <td>Nmap, Wappalyzer, SecurityTrails, asset inventory</td>
+            <td>Saldırı yüzeyi haritası</td>
+          </tr>
+          <tr>
+            <td>3. Zafiyet Doğrulama</td>
+            <td>Yanlış pozitifler elenir, bulgular kontrollü PoC ile doğrulanır.</td>
+            <td>OWASP ZAP, Burp Suite, Nessus/OpenVAS</td>
+            <td>CVSS skorlu doğrulanmış bulgu listesi</td>
+          </tr>
+          <tr>
+            <td>4. Savunma Güçlendirme</td>
+            <td>WAF, IAM, rate-limit, hardening, patch ve erişim politikaları uygulanır.</td>
+            <td>Cloudflare, WAF yönetim paneli, SIEM, IaC pipeline</td>
+            <td>Düzeltme planı + teknik değişiklik kayıtları</td>
+          </tr>
+          <tr>
+            <td>5. Retest ve Kapanış</td>
+            <td>Düzeltmeler yeniden test edilir, KPI bazlı son rapor çıkarılır.</td>
+            <td>Tekrar tarama araçları, log analitik, raporlama şablonları</td>
+            <td>Yönetici özeti + teknik ekler + yol haritası</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="row g-4" data-aos="fade-up">
+      <div class="col-lg-6">
+        <div class="threat-feed h-100">
+          <h5 style="color:#fff;font-weight:800;margin-bottom:10px"><i class="bi bi-tools me-2" style="color:#38bdf8"></i>Pratikte En Sık Kullanılan Güvenlik Araçları</h5>
+          <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:8px"><strong style="color:#fff">Ağ ve Port:</strong> Nmap, Netcat, Wireshark</p>
+          <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:8px"><strong style="color:#fff">Web/API:</strong> OWASP ZAP, Burp Suite, Postman security collections</p>
+          <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:8px"><strong style="color:#fff">Zafiyet:</strong> Nessus/OpenVAS, SCA/SAST tarayıcıları</p>
+          <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:0"><strong style="color:#fff">İzleme ve Olay:</strong> Wazuh, Suricata, Elastic/Kibana, Cloudflare Security Analytics</p>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="threat-feed h-100">
+          <h5 style="color:#fff;font-weight:800;margin-bottom:10px"><i class="bi bi-clipboard-data me-2" style="color:#38bdf8"></i>Testlerden Beklenen Profesyonel Çıktılar</h5>
+          <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:8px">- Kritik bulgu için en fazla 24 saat ilk aksiyon planı</p>
+          <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:8px">- CVSS + iş etkisi ile önceliklendirme (teknik + yönetici bakışı)</p>
+          <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:8px">- Düzeltme sonrası retest kanıtı (before/after)</p>
+          <p style="color:var(--text-muted);font-size:.88rem;margin-bottom:0">- 30/60/90 günlük güvenlik yol haritası ve sürekli izleme KPI seti</p>
         </div>
       </div>
     </div>
