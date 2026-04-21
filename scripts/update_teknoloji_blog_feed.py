@@ -19,6 +19,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Iterable
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -30,6 +31,9 @@ OUTPUT_FILE = DATA_DIR / "tech-blog-feed.json"
 USER_AGENT = "Mozilla/5.0 (compatible; KODZENBot/1.0; +https://kodzen.io/)"
 MAX_PER_CATEGORY = 6
 FRESH_DAYS = 45
+TRANSLATE_TO_TR = True
+TRANSLATION_ENDPOINT = "https://translate.googleapis.com/translate_a/single"
+TRANSLATION_MAX_CHARS = 500
 
 
 @dataclass(frozen=True)
@@ -133,6 +137,18 @@ def fetch_url(url: str) -> bytes:
         },
     )
     with urlopen(req, timeout=35) as response:
+        return response.read()
+
+
+def fetch_json_url(url: str) -> bytes:
+    req = Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "application/json, text/plain, */*",
+        },
+    )
+    with urlopen(req, timeout=30) as response:
         return response.read()
 
 
@@ -244,6 +260,49 @@ def truncate(text: str, limit: int = 240) -> str:
     return text[: limit - 3].rstrip() + "..."
 
 
+def looks_like_turkish(text: str) -> bool:
+    lowered = text.lower()
+    if any(ch in lowered for ch in "çğıöşü"):
+        return True
+    markers = (" ve ", " için ", " ile ", " gibi ", " güvenlik ", " yazilim ", " yapay ")
+    padded = f" {lowered} "
+    return any(marker in padded for marker in markers)
+
+
+def translate_text_to_tr(text: str, cache: dict[str, str]) -> str:
+    raw = (text or "").strip()
+    if not raw:
+        return raw
+    if looks_like_turkish(raw):
+        return raw
+    if raw in cache:
+        return cache[raw]
+
+    payload = raw[:TRANSLATION_MAX_CHARS]
+    params = urlencode(
+        {
+            "client": "gtx",
+            "sl": "auto",
+            "tl": "tr",
+            "dt": "t",
+            "q": payload,
+        }
+    )
+    url = f"{TRANSLATION_ENDPOINT}?{params}"
+
+    try:
+        data = json.loads(fetch_json_url(url).decode("utf-8", errors="ignore"))
+        translated = "".join(part[0] for part in data[0] if isinstance(part, list) and part and part[0]).strip()
+        if translated:
+            cache[raw] = translated
+            return translated
+    except Exception as exc:
+        print(f"[WARN] translation failed: {exc}")
+
+    cache[raw] = raw
+    return raw
+
+
 def build_posts() -> list[dict]:
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=FRESH_DAYS)
@@ -315,6 +374,19 @@ def build_posts() -> list[dict]:
         cat_items.sort(key=lambda x: (x["published_at"], x["score"], x["title"]), reverse=True)
         ordered.extend(cat_items)
     posts = ordered
+
+    translation_cache: dict[str, str] = {}
+    if TRANSLATE_TO_TR:
+        for item in posts:
+            title_original = item["title"]
+            summary_original = item["summary"]
+            item["title_original"] = title_original
+            item["summary_original"] = summary_original
+            item["title"] = translate_text_to_tr(title_original, translation_cache)
+            item["summary"] = translate_text_to_tr(summary_original, translation_cache)
+            item["keywords"] = (
+                f"{item['title']} {item['summary']} {title_original} {summary_original} {' '.join(item.get('tags', []))}"
+            ).strip()
 
     for item in posts:
         item["published_display"] = item["published_at"].strftime("%Y-%m-%d")

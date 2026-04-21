@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "updated_at": "2026-04-20T22:27:25Z",
-  "total_posts": 33,
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 5,
+    "robotik": 6,
     "web": 4,
     "siber": 6,
     "kamera": 6
@@ -14,8 +14,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Changes to GitHub Copilot Individual plans",
-      "summary": "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog .",
+      "title": "GitHub Copilot Bireysel planlarındaki değişiklikler",
+      "summary": "Bu değişiklikleri mevcut müşterilerimize güvenilir ve öngörülebilir bir deneyim sağlamak için yapıyoruz. GitHub Copilot Bireysel planlarındaki değişiklikler yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
       "source": "GitHub Blog",
       "published_at": "2026-04-20T18:15:28Z",
@@ -24,15 +24,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Changes to GitHub Copilot Individual plans We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Copilot Bireysel planlarındaki değişiklikler Bu değişiklikleri mevcut müşterilerimize güvenilir ve öngörülebilir bir deneyim sağlamak için yapıyoruz. GitHub Copilot Bireysel planlarındaki değişiklikler yazısı ilk olarak GitHub Blogunda göründü. Changes to GitHub Copilot Individual plans We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Changes to GitHub Copilot Individual plans",
+      "summary_original": "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog .",
       "published_display": "2026-04-20",
-      "id": "74ef6ad02048"
+      "id": "d4597a4258d0"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Highlights from Git 2.54",
-      "summary": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog .",
+      "title": "Git 2.54'ten öne çıkanlar",
+      "summary": "Açık kaynaklı Git projesi Git 2.54'ü yayınladı. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.54'ten Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
       "source": "GitHub Blog",
       "published_at": "2026-04-20T16:43:57Z",
@@ -41,15 +43,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Highlights from Git 2.54 The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Git 2.54'ten öne çıkanlar Açık kaynaklı Git projesi Git 2.54'ü yayınladı. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.54'ten Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.54 The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Highlights from Git 2.54",
+      "summary_original": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog .",
       "published_display": "2026-04-20",
-      "id": "c087e06d160a"
+      "id": "04279e94d277"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Building an emoji list generator with the GitHub Copilot CLI",
-      "summary": "See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog .",
+      "title": "GitHub Copilot CLI ile bir emoji listesi oluşturucu oluşturma",
+      "summary": "Lastik Ördek Perşembe yayını sırasında nasıl bir emoji listesi oluşturucu oluşturduğumuzu görün. GitHub Copilot CLI ile bir emoji listesi oluşturucu oluşturma yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
       "source": "GitHub Blog",
       "published_at": "2026-04-17T18:00:00Z",
@@ -58,15 +62,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Building an emoji list generator with the GitHub Copilot CLI See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Copilot CLI ile bir emoji listesi oluşturucu oluşturma Lastik Ördek Perşembe yayını sırasında nasıl bir emoji listesi oluşturucu oluşturduğumuzu görün. GitHub Copilot CLI ile bir emoji listesi oluşturucu oluşturma yazısı ilk olarak GitHub Blogunda göründü. Building an emoji list generator with the GitHub Copilot CLI See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Building an emoji list generator with the GitHub Copilot CLI",
+      "summary_original": "See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog .",
       "published_display": "2026-04-17",
-      "id": "82e4ac36cdcb"
+      "id": "fb1fbf77406f"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Bringing more transparency to GitHub’s status page",
-      "summary": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog .",
+      "title": "GitHub'ın durum sayfasına daha fazla şeffaflık getiriliyor",
+      "summary": "Durum sayfasında yapılan değişiklikler daha spesifik veriler sağlayacak ve böylece platformun genel durumu hakkında daha iyi fikir sahibi olacaksınız. GitHub’ın durum sayfasına daha fazla şeffaflık getirme yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
       "source": "GitHub Blog",
       "published_at": "2026-04-17T16:00:00Z",
@@ -75,15 +81,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Bringing more transparency to GitHub’s status page Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub'ın durum sayfasına daha fazla şeffaflık getiriliyor Durum sayfasında yapılan değişiklikler daha spesifik veriler sağlayacak ve böylece platformun genel durumu hakkında daha iyi fikir sahibi olacaksınız. GitHub’ın durum sayfasına daha fazla şeffaflık getirme yazısı ilk olarak GitHub Blogunda göründü. Bringing more transparency to GitHub’s status page Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Bringing more transparency to GitHub’s status page",
+      "summary_original": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog .",
       "published_display": "2026-04-17",
-      "id": "20edaa12e762"
+      "id": "deb440fce479"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "How GitHub uses eBPF to improve deployment safety",
-      "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog .",
+      "title": "GitHub, dağıtım güvenliğini artırmak için eBPF'yi nasıl kullanıyor?",
+      "summary": "Github'ın dağıtım araçlarındaki döngüsel bağımlılıkları tespit etmek ve önlemek için eBPF'yi nasıl kullandığını öğrenin. GitHub, dağıtım güvenliğini artırmak için eBPF'yi nasıl kullanıyor yazısı ilk olarak GitHub Blogunda yayınlandı.",
       "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
       "source": "GitHub Blog",
       "published_at": "2026-04-16T16:00:00Z",
@@ -92,15 +100,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "How GitHub uses eBPF to improve deployment safety Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub, dağıtım güvenliğini artırmak için eBPF'yi nasıl kullanıyor? Github'ın dağıtım araçlarındaki döngüsel bağımlılıkları tespit etmek ve önlemek için eBPF'yi nasıl kullandığını öğrenin. GitHub, dağıtım güvenliğini artırmak için eBPF'yi nasıl kullanıyor yazısı ilk olarak GitHub Blogunda yayınlandı. How GitHub uses eBPF to improve deployment safety Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "How GitHub uses eBPF to improve deployment safety",
+      "summary_original": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog .",
       "published_display": "2026-04-16",
-      "id": "297dedc8d1c6"
+      "id": "e9e020fa475d"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Build a personal organization command center with GitHub Copilot CLI",
-      "summary": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog .",
+      "title": "GitHub Copilot CLI ile kişisel bir organizasyon komuta merkezi oluşturun",
+      "summary": "Bir GitHub mühendisinin geliştirdiği üretkenlik aracı ve yapay zekanın geliştirme sürecini nasıl desteklediği hakkında bilgi edinin. GitHub Copilot CLI ile kişisel bir organizasyon komuta merkezi oluşturun yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
       "source": "GitHub Blog",
       "published_at": "2026-04-15T17:00:00Z",
@@ -109,15 +119,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Build a personal organization command center with GitHub Copilot CLI Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Copilot CLI ile kişisel bir organizasyon komuta merkezi oluşturun Bir GitHub mühendisinin geliştirdiği üretkenlik aracı ve yapay zekanın geliştirme sürecini nasıl desteklediği hakkında bilgi edinin. GitHub Copilot CLI ile kişisel bir organizasyon komuta merkezi oluşturun yazısı ilk olarak GitHub Blogunda göründü. Build a personal organization command center with GitHub Copilot CLI Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Build a personal organization command center with GitHub Copilot CLI",
+      "summary_original": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog .",
       "published_display": "2026-04-15",
-      "id": "77a6d1542c6f"
+      "id": "b94616b95a5b"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "title": "OpenAI, Hyatt'ın meslektaşları arasında yapay zekayı geliştirmesine yardımcı oluyor",
+      "summary": "Hyatt, üretkenliği, operasyonları ve misafir deneyimlerini iyileştirmek için GPT-5.4 ve Codex'i kullanarak ChatGPT Enterprise'ı küresel iş gücü genelinde kullanıyor.",
       "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
       "source": "OpenAI News",
       "published_at": "2026-04-20T00:00:00Z",
@@ -126,15 +138,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI helps Hyatt advance AI among colleagues Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences. AI OpenAI Model",
+      "keywords": "OpenAI, Hyatt'ın meslektaşları arasında yapay zekayı geliştirmesine yardımcı oluyor Hyatt, üretkenliği, operasyonları ve misafir deneyimlerini iyileştirmek için GPT-5.4 ve Codex'i kullanarak ChatGPT Enterprise'ı küresel iş gücü genelinde kullanıyor. OpenAI helps Hyatt advance AI among colleagues Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences. AI OpenAI Model",
+      "title_original": "OpenAI helps Hyatt advance AI among colleagues",
+      "summary_original": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
       "published_display": "2026-04-20",
-      "id": "4ba9f458ec93"
+      "id": "9d29ad322f94"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "summary": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
+      "title": "Bu yaz Google'ın yardımıyla daha akıllı seyahat etmenin 7 yolu",
+      "summary": "Google'ın en yeni araçları gezi planlamanıza, çok sayıda fırsat bulmanıza ve bir sonraki varış noktanızı keşfetmenize yardımcı olabilir.",
       "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
       "source": "Google AI Blog",
       "published_at": "2026-04-17T14:00:00Z",
@@ -143,15 +157,17 @@
         "Product",
         "Google"
       ],
-      "keywords": "7 ways to travel smarter this summer, with help from Google The latest tools from Google can help you plan trips, find a great deal and explore your next destination. AI Product Google",
+      "keywords": "Bu yaz Google'ın yardımıyla daha akıllı seyahat etmenin 7 yolu Google'ın en yeni araçları gezi planlamanıza, çok sayıda fırsat bulmanıza ve bir sonraki varış noktanızı keşfetmenize yardımcı olabilir. 7 ways to travel smarter this summer, with help from Google The latest tools from Google can help you plan trips, find a great deal and explore your next destination. AI Product Google",
+      "title_original": "7 ways to travel smarter this summer, with help from Google",
+      "summary_original": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
       "published_display": "2026-04-17",
-      "id": "640c357b8034"
+      "id": "5b102edc4012"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "summary": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+      "title": "Chrome'daki AI Moduyla web'i keşfetmenin yeni bir yolu",
+      "summary": "Chrome'daki AI Moduna yönelik bugünkü yükseltmeler, web ile etkileşim şeklinizi değiştiriyor",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
       "source": "Google AI Blog",
       "published_at": "2026-04-16T17:00:00Z",
@@ -160,15 +176,17 @@
         "Product",
         "Google"
       ],
-      "keywords": "A new way to explore the web with AI Mode in Chrome Today’s upgrades for AI Mode in Chrome transform how you interact with the web AI Product Google",
+      "keywords": "Chrome'daki AI Moduyla web'i keşfetmenin yeni bir yolu Chrome'daki AI Moduna yönelik bugünkü yükseltmeler, web ile etkileşim şeklinizi değiştiriyor A new way to explore the web with AI Mode in Chrome Today’s upgrades for AI Mode in Chrome transform how you interact with the web AI Product Google",
+      "title_original": "A new way to explore the web with AI Mode in Chrome",
+      "summary_original": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
       "published_display": "2026-04-16",
-      "id": "b7f29ba25ca5"
+      "id": "911dc192b9b6"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "New ways to create personalized images in the Gemini app",
-      "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+      "title": "Gemini uygulamasında kişiselleştirilmiş görseller oluşturmanın yeni yolları",
+      "summary": "Nano Banana 2 artık benzersiz yaşamınızı yansıtan görüntüler oluşturmak için kişisel bağlamınızı ve Google Fotoğraflar'ı kullanıyor.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
       "source": "Google AI Blog",
       "published_at": "2026-04-16T16:00:00Z",
@@ -177,15 +195,17 @@
         "Product",
         "Google"
       ],
-      "keywords": "New ways to create personalized images in the Gemini app Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life. AI Product Google",
+      "keywords": "Gemini uygulamasında kişiselleştirilmiş görseller oluşturmanın yeni yolları Nano Banana 2 artık benzersiz yaşamınızı yansıtan görüntüler oluşturmak için kişisel bağlamınızı ve Google Fotoğraflar'ı kullanıyor. New ways to create personalized images in the Gemini app Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life. AI Product Google",
+      "title_original": "New ways to create personalized images in the Gemini app",
+      "summary_original": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
       "published_display": "2026-04-16",
-      "id": "5dc114252d28"
+      "id": "66df46ca50ac"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
-      "summary": "Generative AI",
+      "title": "Gerçek dünya için sentetik veri kümeleri tasarlama: Mekanizma tasarımı ve ilk ilkelerden akıl yürütme",
+      "summary": "Üretken Yapay Zeka",
       "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/",
       "source": "Google Research Blog",
       "published_at": "2026-04-16T14:41:00Z",
@@ -194,15 +214,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles Generative AI AI Research Google",
+      "keywords": "Gerçek dünya için sentetik veri kümeleri tasarlama: Mekanizma tasarımı ve ilk ilkelerden akıl yürütme Üretken Yapay Zeka Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles Generative AI AI Research Google",
+      "title_original": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
+      "summary_original": "Generative AI",
       "published_display": "2026-04-16",
-      "id": "6be320e9ff3f"
+      "id": "312668628d73"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "AI-generated synthetic neurons speed up brain mapping",
-      "summary": "General Science",
+      "title": "Yapay zeka tarafından üretilen sentetik nöronlar beyin haritalamasını hızlandırıyor",
+      "summary": "Genel Bilim",
       "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
       "source": "Google Research Blog",
       "published_at": "2026-04-16T12:18:00Z",
@@ -211,15 +233,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "AI-generated synthetic neurons speed up brain mapping General Science AI Research Google",
+      "keywords": "Yapay zeka tarafından üretilen sentetik nöronlar beyin haritalamasını hızlandırıyor Genel Bilim AI-generated synthetic neurons speed up brain mapping General Science AI Research Google",
+      "title_original": "AI-generated synthetic neurons speed up brain mapping",
+      "summary_original": "General Science",
       "published_display": "2026-04-16",
-      "id": "8446d42f5127"
+      "id": "f2b6f217612e"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Skild AI acquires Zebra Technologies’ robotics automation business - Robotics & Automation News",
-      "summary": "Skild AI acquires Zebra Technologies’ robotics automation business Robotics & Automation News",
+      "title": "Skild AI, Zebra Technologies'in robotik otomasyon işini satın aldı - Robotik ve Otomasyon Haberleri",
+      "summary": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWdSbFBpMDVzVWs1MVVHYmhMODJ1Q1o1ZnlwM0xUblhPOHBVYWVfdjNNTWoxR0M3YkFmTDUyV182S1UwdmFsV2FYcjFibHlKTV9Pd3ptOEVmNUxjUnJjQW55bExXdGZNYWhQVnRzOE5rUGNZSHdzMTNSTTBJUnZFa3VVc2ZhWDRST2NNZWE4NTdzMGZnd1BvYkVFZFdCRDZuTjJoa2oxc2s3MlZUTzN3dG0zb19oS3ZhdEpqZVVOTQ?oc=5",
       "source": "Google News Robotics",
       "published_at": "2026-04-20T22:27:25Z",
@@ -228,15 +252,36 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Skild AI acquires Zebra Technologies’ robotics automation business - Robotics & Automation News Skild AI acquires Zebra Technologies’ robotics automation business Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Skild AI, Zebra Technologies'in robotik otomasyon işini satın aldı - Robotik ve Otomasyon Haberleri Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı Robotik ve Otomasyon Haberleri Skild AI acquires Zebra Technologies’ robotics automation business - Robotics & Automation News Skild AI acquires Zebra Technologies’ robotics automation business Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Skild AI acquires Zebra Technologies’ robotics automation business - Robotics & Automation News",
+      "summary_original": "Skild AI acquires Zebra Technologies’ robotics automation business Robotics & Automation News",
       "published_display": "2026-04-20",
-      "id": "48d2a4a5ae30"
+      "id": "a3384e231961"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues - Robotics & Automation News",
-      "summary": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues Robotics & Automation News",
+      "title": "RobCo, Hannover Messe'de endüstriyel otomasyona yönelik 'Otonom Alfie' insansı robotunu tanıtıyor - Robotik ve Otomasyon Haberleri",
+      "summary": "RobCo, Hannover Messe'de endüstriyel otomasyona yönelik 'Otonom Alfie' insansı robotunu tanıtıyor Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXE0WlcyV09teG5Xdy1PZXZZVTJHY0NrSl9FU1N5U3RkT1FPSlFXc0lmZzVkNGNhVGpQSlVrNnZ2VlV2Z25KRS13ZDhiRGdUX0xOWmFPRUxQLTNjY21SQXFjeUp2RmliVFRRaGJQY3FpaUpZbExNUzJXb3FwWE5hVzA4T09UNnJ5UUxscWYzRHVoTl9iN2lVcnJiNXNlTTB1Z3dENHV1UVBTd1ZYbHNmV2NySXdTLS1pYXZiOTdFWmV5cmY3d3NRNkYyWnpXb3h3UmlLRlgyWExTVko2TkE0?oc=5",
+      "source": "Google News Robotics",
+      "published_at": "2026-04-20T21:18:07Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "RobCo, Hannover Messe'de endüstriyel otomasyona yönelik 'Otonom Alfie' insansı robotunu tanıtıyor - Robotik ve Otomasyon Haberleri RobCo, Hannover Messe'de endüstriyel otomasyona yönelik 'Otonom Alfie' insansı robotunu tanıtıyor Robotics & Automation News RobCo unveils ‘Autonomous Alfie’ humanoid robot for industrial automation at Hannover Messe - Robotics & Automation News RobCo unveils ‘Autonomous Alfie’ humanoid robot for industrial automation at Hannover Messe Robotics & Automation News Robotics Automation Industry",
+      "title_original": "RobCo unveils ‘Autonomous Alfie’ humanoid robot for industrial automation at Hannover Messe - Robotics & Automation News",
+      "summary_original": "RobCo unveils ‘Autonomous Alfie’ humanoid robot for industrial automation at Hannover Messe Robotics & Automation News",
+      "published_display": "2026-04-20",
+      "id": "061c0582e980"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Honeywell, portföy revizyonu devam ederken üretkenlik çözümleri birimini Brady'ye 1,4 milyar dolara satacak - Robotik ve Otomasyon Haberleri",
+      "summary": "Honeywell, portföy revizyonu devam ederken üretkenlik çözümleri birimini Brady'ye 1,4 milyar dolara satacak Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaGR6QlVadjlHVUQzV2o1Zkx5OS10bS0xZERDVUthYjU4VVFZT2FRQXJwTWFueWNWdU90YUQ1N0JORExxUF9rRWhBVmFibHNoWl9wVy1QTEM2eHczd3FLdGVVdTJlc18xYzNMS3dUa1plV2dFeUtvYV9OcEdDU2w3UGM5S3Fac0lCczdRQ09rWmFsYkloN08xTlZ1bWhiRnJRWVV5a2Nwa2REcGhOd2NwdUtISDFWZGZSZW02M3dpVzdpRGV6bHdiTzZIUGRBRzE2V0ZNenZoS1VGU2ZHMnozMjFtMGN1QjFMdjJpRUk4eno?oc=5",
       "source": "Google News Robotics",
       "published_at": "2026-04-20T20:34:42Z",
@@ -245,15 +290,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues - Robotics & Automation News Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Honeywell, portföy revizyonu devam ederken üretkenlik çözümleri birimini Brady'ye 1,4 milyar dolara satacak - Robotik ve Otomasyon Haberleri Honeywell, portföy revizyonu devam ederken üretkenlik çözümleri birimini Brady'ye 1,4 milyar dolara satacak Robotik ve Otomasyon Haberleri Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues - Robotics & Automation News Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues - Robotics & Automation News",
+      "summary_original": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues Robotics & Automation News",
       "published_display": "2026-04-20",
-      "id": "92cc0be7e86e"
+      "id": "70db9f420939"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes",
-      "summary": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
+      "title": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes",
+      "summary": "Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
       "source": "Google News Robotics",
       "published_at": "2026-04-17T06:15:00Z",
@@ -262,15 +309,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes Robotics Automation Industry",
+      "keywords": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes Robotics Automation Industry",
+      "title_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes",
+      "summary_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
       "published_display": "2026-04-17",
-      "id": "047a64ef53a1"
+      "id": "3ba572b1538b"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Via TT",
-      "summary": "Skild AI Acquires Zebra Technologies' Robotics Automation Business Via TT",
+      "title": "Skild AI, Zebra Technologies'in Robotik Otomasyon İşini Satın Aldı - TT aracılığıyla",
+      "summary": "Skild AI, TT Aracılığıyla Zebra Technologies'in Robotik Otomasyon İşini Satın Aldı",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzlRQWRGSmhfWnJnSFp2X1V4TlN1eVhQVjRYa29yajZGQ01NNGtSQWNSVzlhZDgxS19nVFA1ZEZVYVc5d1dTZURVYzRPeV96XzV2el85aGhtWlBhalVmM3dWVjMzaTZrYVR3MkI3OGlrS1ZnLXZFZm5vUjNueW1WQnlGTjNnbTJJeHFNQVhEajlfTG1EemQ0b2FnMjhYSFJNUktqM3N3c3h1ZWsydnZndmM1QkxhaW5oR2ZTOXI3Z3FyaDRMN1lxVC1FT3hOWmM?oc=5",
       "source": "Google News Robotics",
       "published_at": "2026-04-15T21:32:00Z",
@@ -279,15 +328,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Via TT Skild AI Acquires Zebra Technologies' Robotics Automation Business Via TT Robotics Automation Industry",
+      "keywords": "Skild AI, Zebra Technologies'in Robotik Otomasyon İşini Satın Aldı - TT aracılığıyla Skild AI, TT Aracılığıyla Zebra Technologies'in Robotik Otomasyon İşini Satın Aldı Skild AI Acquires Zebra Technologies' Robotics Automation Business - Via TT Skild AI Acquires Zebra Technologies' Robotics Automation Business Via TT Robotics Automation Industry",
+      "title_original": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Via TT",
+      "summary_original": "Skild AI Acquires Zebra Technologies' Robotics Automation Business Via TT",
       "published_display": "2026-04-15",
-      "id": "cf725f526f72"
+      "id": "8b11e23c8b07"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook - vocal.media",
-      "summary": "South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook vocal.media",
+      "title": "Güney Afrika Depo Otomasyon Pazarı: Akıllı Lojistik, Robotik Entegrasyonu ve Büyüme Görünümü -vocal.media",
+      "summary": "Güney Afrika Depo Otomasyon Pazarı: Akıllı Lojistik, Robotik Entegrasyonu ve Büyüme Görünümü vokal.medya",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFBDMlI0WGE1RGd4aWJaTl93MjNHQ2Y4SXdpMW5NSmNJUzczYUJPZ2p1eU11a3RkX2JSbzladnI2aV9XeW0zRWg1WWIxdDlOOEkwZEdqenNpOE1MdUhxNzVPWG1VcW93cEVGVjBadlBjeHNwWlpJdF9Vd19uTVZFUGprU0pybm9Ud0d0ckk4bWRwbGhyc0c1TTVZRThqc3J2UzBFOGJWTFhjTFNMLVc0OHJFczBTc1NjUWx6X0F1RVhwVzg?oc=5",
       "source": "Google News Robotics",
       "published_at": "2026-03-26T23:52:59Z",
@@ -296,15 +347,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook - vocal.media South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook vocal.media Robotics Automation Industry",
+      "keywords": "Güney Afrika Depo Otomasyon Pazarı: Akıllı Lojistik, Robotik Entegrasyonu ve Büyüme Görünümü -vocal.media Güney Afrika Depo Otomasyon Pazarı: Akıllı Lojistik, Robotik Entegrasyonu ve Büyüme Görünümü vokal.medya South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook - vocal.media South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook vocal.media Robotics Automation Industry",
+      "title_original": "South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook - vocal.media",
+      "summary_original": "South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook vocal.media",
       "published_display": "2026-03-26",
-      "id": "1e2b9c6d8b18"
+      "id": "212bfb291957"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "March 2026 Baseline monthly digest",
-      "summary": "Read about various happenings with Baseline during March 2026.",
+      "title": "Mart 2026 Temel aylık özet",
+      "summary": "Mart 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
       "url": "https://web.dev/blog/baseline-digest-mar-2026?hl=en",
       "source": "web.dev",
       "published_at": "2026-04-14T07:00:00Z",
@@ -313,15 +366,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. Web Performance Frontend",
+      "keywords": "Mart 2026 Temel aylık özet Mart 2026'da Baseline ile ilgili çeşitli olayları okuyun. March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. Web Performance Frontend",
+      "title_original": "March 2026 Baseline monthly digest",
+      "summary_original": "Read about various happenings with Baseline during March 2026.",
       "published_display": "2026-04-14",
-      "id": "484651532f7c"
+      "id": "11541f4784e5"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Under the hood of MDN's new frontend",
-      "summary": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
+      "title": "MDN'nin yeni arayüzünün altında",
+      "summary": "MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım.",
       "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/",
       "source": "MDN Blog",
       "published_at": "2026-04-08T00:00:00Z",
@@ -330,15 +385,17 @@
         "Standards",
         "Browser"
       ],
-      "keywords": "Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Web Standards Browser",
+      "keywords": "MDN'nin yeni arayüzünün altında MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım. Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Web Standards Browser",
+      "title_original": "Under the hood of MDN's new frontend",
+      "summary_original": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
       "published_display": "2026-04-08",
-      "id": "c35943c71825"
+      "id": "1c6156ef07a0"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "February 2026 Baseline monthly digest",
-      "summary": "Read about various happenings with Baseline during February 2026.",
+      "title": "Şubat 2026 Temel aylık özet",
+      "summary": "Şubat 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
       "url": "https://web.dev/blog/baseline-digest-feb-2026?hl=en",
       "source": "web.dev",
       "published_at": "2026-03-30T07:00:00Z",
@@ -347,15 +404,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "February 2026 Baseline monthly digest Read about various happenings with Baseline during February 2026. Web Performance Frontend",
+      "keywords": "Şubat 2026 Temel aylık özet Şubat 2026'da Baseline ile ilgili çeşitli olayları okuyun. February 2026 Baseline monthly digest Read about various happenings with Baseline during February 2026. Web Performance Frontend",
+      "title_original": "February 2026 Baseline monthly digest",
+      "summary_original": "Read about various happenings with Baseline during February 2026.",
       "published_display": "2026-03-30",
-      "id": "13d8d0d6cccc"
+      "id": "802437236cb5"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "New to the web platform in March",
-      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during March 2026.",
+      "title": "Mart ayında web platformundaki yenilikler",
+      "summary": "Mart 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-03-2026?hl=en",
       "source": "web.dev",
       "published_at": "2026-03-27T07:00:00Z",
@@ -364,15 +423,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "New to the web platform in March Discover some of the interesting features that have landed in stable and beta web browsers during March 2026. Web Performance Frontend",
+      "keywords": "Mart ayında web platformundaki yenilikler Mart 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in March Discover some of the interesting features that have landed in stable and beta web browsers during March 2026. Web Performance Frontend",
+      "title_original": "New to the web platform in March",
+      "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during March 2026.",
       "published_display": "2026-03-27",
-      "id": "35ba7dc8560d"
+      "id": "38ea2d6a4307"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCi...",
+      "title": "CISA Kataloğa Bilinen Sekiz İstismara Uğrayan Güvenlik Açığı Ekliyor",
+      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna sekiz yeni güvenlik açığı ekledi. CVE-2023-27351 PaperCut NG/MF Uygunsuz Kimlik Doğrulaması Güvenlik Açığı CVE-2024-27199 JetBrains TeamCi...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
       "source": "CISA Advisories",
       "published_at": "2026-04-20T12:00:00Z",
@@ -381,15 +442,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability CVE-2026-20122 Cisco Catalyst SD-WAN Manager Incorrect Use of Privileged APIs Vulnerability CVE-2026-20128 Cisco Catalyst SD-WAN Manager Storing Passwords in a Recoverable Format Vulnerability CVE-2026-20133 Cisco Catalyst SD-WAN Manager Exposure of Sensitive Information to an Unauthorized Actor Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of KEV Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . CISA Advisory Threat",
+      "keywords": "CISA Kataloğa Bilinen Sekiz İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna sekiz yeni güvenlik açığı ekledi. CVE-2023-27351 PaperCut NG/MF Uygunsuz Kimlik Doğrulaması Güvenlik Açığı CVE-2024-27199 JetBrains TeamCi... CISA Adds Eight Known Exploited Vulnerabilities to Catalog CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCi... CISA Advisory Threat",
+      "title_original": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+      "summary_original": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCi...",
       "published_display": "2026-04-20",
-      "id": "a88c80f13d1c"
+      "id": "0c54f94d1b86"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm). 1 Axios is an HTTP client for JavaScript...",
+      "title": "Tedarik Zincirindeki Uzlaşma Axios Node Paket Yöneticisini Etkiliyor",
+      "summary": "Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), Axios düğüm paket yöneticisinin (npm) yazılım tedarik zincirindeki tehlikeye yanıt olarak rehberlik sağlamak amacıyla bu uyarıyı yayınlıyor. 1 Axios, JavaScript için bir HTTP istemcisidir...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
       "source": "CISA Advisories",
       "published_at": "2026-04-20T12:00:00Z",
@@ -398,15 +461,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "​​Supply Chain Compromise Impacts Axios Node Package Manager​ The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm). 1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber threat actor infrastructure, including a remote access trojan. 2 CISA urges organizations to implement the following recommendations to detect and remediate a potential compromise: Monitor and review code repositories, continuous integration/continuous delivery (CI/CD) pipelines, and developer machines that ran npm install or npm update with the compromised Axios version. Search for cached versions of affected dependencies in artifact repositories and dependency management tools. Pin npm package dependency versions to known safe releases. If compromised dependencies are identified, revert the environment to a known safe state. Downgrade to axios@1.14.0 or axios@0.30.3 and delete node_modules/plain-crypto-js/ . Rotate/revoke credentials that may have been exposed on affected systems or pipelines (e.g., version control system [VCS] tokens, CI/CD secrets, cloud keys, npm tokens, and Secure Shell [SSH] keys). For ephemeral CI jobs, rotate all secrets injected into the compromised run. Monitor for unexpected child processes and anomalous network behavior, specifically during npm install or npm update . Block and monitor outbound connections to Sfrclak[.]com domains. Conduct continuous indicator searches and endpoint detection and response (EDR) hunts to confirm no indicators of compromise (IOCs) remain; ensure no further egress to the command and control (C2). In addition, CISA recommends organizations using Axios npm: Mandate phishing-resistant multifactor authentication (MFA) on all developer accounts, especially for critical platforms. Set ignore-scripts=true in the .npmrc configuration file, which prevents potentially malicious scripts from executing during npm install packages. Set min-release-age=7 in the .npmrc configuration file to only install packages that have been published for at least seven days, which helps avoid installation of packages that may not be completely vetted or are potentially malicious. Establish and maintain a baseline of normal execution behavior for tools that use Axios. Alert when a dependency behaves differently (e.g., building containers, enabling shells, executing commands) and trace outbound network activity for anomalous connections. See the following resources for additional guidance on this compromise: GitHub: Post Mortem: axios npm supply chain compromise #10636 Microsoft: Mitigating the Axios npm supply chain compromise StepSecurity: axios Compromised on npm - Malicious Versions Drop Remote Access Trojan npm Docs: Securing your code Socket: Supply Chain Attack on Axios Pulls Malicious Dependency from npm Disclaimer The information in this report is being provided “as is” for informational purposes only. CISA does not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this document. Any reference to specific commercial entities, products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply endorsement, recommendation, or favoring by CISA. Notes 1 “Post Mortem: axios npm supply chain compromise,” axios GitHub, Issue #10636, March 31, 2026, https://github.com/axios/axios/issues/10636 . 2 “Mitigating the Axios npm supply chain compromise,” Microsoft Threat Intelligence and Microsoft Defender Security Research Team, April 1, 2026, https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/ . CISA Advisory Threat",
+      "keywords": "Tedarik Zincirindeki Uzlaşma Axios Node Paket Yöneticisini Etkiliyor Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), Axios düğüm paket yöneticisinin (npm) yazılım tedarik zincirindeki tehlikeye yanıt olarak rehberlik sağlamak amacıyla bu uyarıyı yayınlıyor. 1 Axios, JavaScript için bir HTTP istemcisidir... ​​Supply Chain Compromise Impacts Axios Node Package Manager​ The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm). 1 Axios is an HTTP client for JavaScript... CISA Advisory Threat",
+      "title_original": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
+      "summary_original": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm). 1 Axios is an HTTP client for JavaScript...",
       "published_display": "2026-04-20",
-      "id": "52c80b919aa3"
+      "id": "6327991af4d5"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Delta Electronics ASDA-Soft",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabili...",
+      "title": "Delta Electronics ASDA-Yumuşak",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın rastgele kod yürütmesine olanak verebilir. Delta Electronics ASDA-Soft'un aşağıdaki sürümleri etkilenir: ASDA-Soft <=V7.2.2.0 CVSS Satıcı Ekipmanı Güvenlik Açığı...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01",
       "source": "CISA Advisories",
       "published_at": "2026-04-16T12:00:00Z",
@@ -415,15 +480,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Delta Electronics ASDA-Soft View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-2026-5726 A stack-based buffer overflow vulnerability is triggered in ASDA-Soft version 7.2.0.0 during the parsing of malformed .par files. View CVE Details Affected Products Delta Electronics ASDA-Soft Vendor: Delta Electronics Product Version: Delta Electronics ASDA-Soft: <=V7.2.2.0 Product Status: known_affected Remediations Vendor fix Delta Electronics recommends users download and upgrade ASDA-Soft to v7.2.6.0 or later. If you have any product-related support concerns, contact Delta via the portal page at https://www.deltaww.com/en-US/service-support/contact-us?type=1 for any information or materials you may require. https://www.deltaww.com/en-US/service-support/contact-us?type=1 Mitigation Delta Electronics provides the following general recommendations: Do not click on untrusted internet links or open unsolicited attachments in emails. Avoid exposing control systems and equipment to the Internet. Place control system networks and remote devices behind firewalls, and isolate them from the business network. When remote access is required, use a secure access method, such as a virtual private network (VPN). Mitigation For more information, see Delta Electronics advisory Delta-PCSA-2026-00007 athttps://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2026-00007_ASDA-Soft%20Stack-based%20Buffer%20Overflow%20Vulnerability%20(CVE-2026-5726).pdf https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2026-00007_ASDA-Soft%20Stack-based%20Buffer%20Overflow%20Vulnerability%20(CVE-2026-5726).pdf Relevant CWE: CWE-121 Stack-based Buffer Overflow Metrics CVSS Version Base Score Base Severity Vector String 3.1 7.8 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H Acknowledgments Feng Xiong of TrendAI Zero Day Initiative reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy & Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. This vulnerability is not exploitable remotely. Revision History Initial Release Date: 2026-04-16 Date Revision Summary 2026-04-16 1 Initial Publication Legal Notice and Terms of Use CISA Advisory Threat",
+      "keywords": "Delta Electronics ASDA-Yumuşak CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın rastgele kod yürütmesine olanak verebilir. Delta Electronics ASDA-Soft'un aşağıdaki sürümleri etkilenir: ASDA-Soft <=V7.2.2.0 CVSS Satıcı Ekipmanı Güvenlik Açığı... Delta Electronics ASDA-Soft View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabili... CISA Advisory Threat",
+      "title_original": "Delta Electronics ASDA-Soft",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabili...",
       "published_display": "2026-04-16",
-      "id": "d64909217be3"
+      "id": "aa41027f8381"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Horner Automation Cscape and XL4, XL7 PLC",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 X...",
+      "title": "Horner Otomasyon Cscape ve XL4, XL7 PLC",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın sistem ve hizmetlere yetkisiz erişim elde etmesine olanak verebilir. Horner Automation Cscape ve XL4, XL7 PLC'nin aşağıdaki sürümleri etkilenir: Cscape v10.0 X...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02",
       "source": "CISA Advisories",
       "published_at": "2026-04-16T12:00:00Z",
@@ -432,15 +499,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Horner Automation Cscape and XL4, XL7 PLC View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 XL7 PLC v15.60 XL4 PLC v16.32.0 CVSS Vendor Equipment Vulnerabilities v3 9.1 Horner Automation Horner Automation Cscape and XL4, XL7 PLC Weak Password Requirements Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-6284 An attacker with network access to the PLC is able to brute force discover passwords to gain unauthorized access to systems and services. The limited password complexity and no password input limiters makes brute force password enumeration possible. View CVE Details Affected Products Horner Automation Cscape and XL4, XL7 PLC Vendor: Horner Automation Product Version: Horner Automation Cscape: v10.0, Horner Automation XL7 PLC: v15.60, Horner Automation XL4 PLC: v16.32.0 Product Status: known_affected Remediations Vendor fix Horner Automation recommends users update to Cscape v10.2 SP2 or later. Horner Automation has also released the latest firmware for both XL4 and XL7 PLCs. Horner recommends users update to the latest version of the firmware. https://hornerautomation.com/cscape-software-free/cscape-software/. https://hornerautomation.com/cscape-software-free/cscape-software/ Mitigation For more information, see Horner Automation's release notes. Relevant CWE: CWE-521 Weak Password Requirements Metrics CVSS Version Base Score Base Severity Vector String 3.1 9.1 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N Acknowledgments An anonymous researcher reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy & Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. Revision History Initial Release Date: 2026-04-16 Date Revision Summary 2026-04-16 1 Initial Publication Legal Notice and Terms of Use CISA Advisory Threat",
+      "keywords": "Horner Otomasyon Cscape ve XL4, XL7 PLC CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın sistem ve hizmetlere yetkisiz erişim elde etmesine olanak verebilir. Horner Automation Cscape ve XL4, XL7 PLC'nin aşağıdaki sürümleri etkilenir: Cscape v10.0 X... Horner Automation Cscape and XL4, XL7 PLC View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 X... CISA Advisory Threat",
+      "title_original": "Horner Automation Cscape and XL4, XL7 PLC",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 X...",
       "published_display": "2026-04-16",
-      "id": "b93697d7d379"
+      "id": "e008c9ffba31"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "AVEVA Pipeline Simulation",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are...",
+      "title": "AVEVA Boru Hattı Simülasyonu",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, kimliği doğrulanmamış bir saldırganın simülasyon parametrelerini, eğitim yapılandırmasını ve eğitim kayıtlarını değiştirmesine olanak verebilir. AVEVA Boru Hattı Simülasyonunun aşağıdaki sürümleri...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
       "source": "CISA Advisories",
       "published_at": "2026-04-16T12:00:00Z",
@@ -449,15 +518,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "AVEVA Pipeline Simulation View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation <=2025_SP1_build_7.1.9497.6351 CVSS Vendor Equipment Vulnerabilities v3 9.1 AVEVA AVEVA Pipeline Simulation Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: United Kingdom Vulnerabilities Expand All + CVE-2026-5387 The vulnerability, if exploited, could allow an unauthenticated miscreant to perform operations intended only for Simulator Instructor or Simulator Developer (Administrator) roles, resulting in privilege escalation with potential for modification of simulation parameters, training configuration, and training records. View CVE Details Affected Products AVEVA Pipeline Simulation Vendor: AVEVA Product Version: AVEVA Pipeline Simulation: <=2025_SP1_build_7.1.9497.6351 Product Status: known_affected Remediations Vendor fix All affected versions can be fixed by upgrading to AVEVA Pipeline Simulation 2025 SP1 P01 (build 7.1.9580.8513) or higher. (https://softwaresupportsp.aveva.com/en-US/downloads/products/details/57b79fdb-7b5f-4125-8a44-833b6b5c6d6f) https://softwaresupportsp.aveva.com/en-US/downloads/products/details/57b79fdb-7b5f-4125-8a44-833b6b5c6d6f Mitigation For more information, please see AVEVA's security bulletin AVEVA-2026-004 (https://www.aveva.com/content/dam/aveva/documents/support/cyber-security-updates/SecurityBulletin_AVEVA-2026-004.pdf). https://www.aveva.com/content/dam/aveva/documents/support/cyber-security-updates/SecurityBulletin_AVEVA-2026-004.pdf Vendor fix Restrict Network Access: Implement host-based and/or network firewall controls on all nodes hosting the Pipeline Simulation Server API to ensure that only trusted Pipeline Simulation client systems are permitted to establish connections. Mitigation Enforce Secure Communication: Enable TLS for all API communications and ensure that server certificates are properly managed and protected to reduce the risk of manipulator-in-the-middle(MitM) attacks and tampering with data in transit. Relevant CWE: CWE-862 Missing Authorization Metrics CVSS Version Base Score Base Severity Vector String 3.1 9.1 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N Acknowledgments AVEVA reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy & Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. Revision History Initial Release Date: 2026-04-16 Date Revision Summary 2026-04-16 1 Initial Republication of AVEVA-2026-004 Legal Notice and Terms of Use CISA Advisory Threat",
+      "keywords": "AVEVA Boru Hattı Simülasyonu CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, kimliği doğrulanmamış bir saldırganın simülasyon parametrelerini, eğitim yapılandırmasını ve eğitim kayıtlarını değiştirmesine olanak verebilir. AVEVA Boru Hattı Simülasyonunun aşağıdaki sürümleri... AVEVA Pipeline Simulation View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are... CISA Advisory Threat",
+      "title_original": "AVEVA Pipeline Simulation",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are...",
       "published_display": "2026-04-16",
-      "id": "48363bda3f7a"
+      "id": "7cc4aff90c0c"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a...",
+      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
+      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-34197 Apache ActiveMQ'da Uygunsuz Giriş Doğrulama Güvenlik Açığı Bu tür bir güvenlik açığı,...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
       "source": "CISA Advisories",
       "published_at": "2026-04-16T12:00:00Z",
@@ -466,15 +537,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of KEV Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . CISA Advisory Threat",
+      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-34197 Apache ActiveMQ'da Uygunsuz Giriş Doğrulama Güvenlik Açığı Bu tür bir güvenlik açığı,... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a... CISA Advisory Threat",
+      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a...",
       "published_display": "2026-04-16",
-      "id": "f5c8a769a97c"
+      "id": "ddd52f3144fd"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
-      "summary": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "source": "Google News Camera Security",
       "published_at": "2026-03-11T07:00:00Z",
@@ -483,15 +556,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
+      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "df447918395e"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
-      "summary": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
+      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24",
+      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
       "source": "Google News Camera Security",
       "published_at": "2026-02-11T08:00:00Z",
@@ -500,15 +575,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
+      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
       "published_display": "2026-02-11",
-      "id": "4a38133a12c1"
+      "id": "10de1e0a18c3"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "source": "Google News Camera Security",
       "published_at": "2026-01-29T08:00:00Z",
@@ -517,15 +594,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "1a1dcdaa8216"
+      "id": "f4f88664728b"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com",
-      "summary": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com",
+      "title": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com",
+      "summary": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbDdnRUlISEd1TFpPMlhDbFhKbUVFLWprTEczS3JRYlBXUTNucVdfR0FocG5UNklVc3dlUkhYSk1waFZyRVY0eFdQbk1RSlVLeWRXTkc5dlNHLTBOTFV4ZQ?oc=5",
       "source": "Google News Camera Security",
       "published_at": "2026-01-28T08:00:00Z",
@@ -534,15 +613,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com",
+      "summary_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com",
       "published_display": "2026-01-28",
-      "id": "e3cfac16cdf7"
+      "id": "182b39606a08"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
-      "summary": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
+      "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews",
+      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
       "source": "Google News Camera Security",
       "published_at": "2025-12-11T08:00:00Z",
@@ -551,15 +632,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
+      "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
       "published_display": "2025-12-11",
-      "id": "2821d2258388"
+      "id": "feaf9899af14"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
-      "summary": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
+      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
+      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
       "source": "Google News Camera Security",
       "published_at": "2025-08-08T07:00:00Z",
@@ -568,9 +651,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
+      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
+      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
+      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
       "published_display": "2025-08-08",
-      "id": "a427e6e4129c"
+      "id": "009e6db74527"
     }
   ]
 }
