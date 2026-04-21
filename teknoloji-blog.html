@@ -155,6 +155,100 @@
       box-shadow: 0 14px 34px rgba(42, 81, 180, 0.2);
     }
 
+    .blog-media {
+      position: relative;
+      border: 1px solid rgba(157, 184, 255, 0.25);
+      border-radius: 12px;
+      overflow: hidden;
+      min-height: 170px;
+      background: linear-gradient(135deg, rgba(44, 72, 134, 0.45), rgba(21, 32, 58, 0.7));
+    }
+
+    .blog-cover-img {
+      width: 100%;
+      height: 170px;
+      object-fit: cover;
+      display: block;
+      filter: saturate(1.05) contrast(1.03);
+    }
+
+    .blog-media::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(5, 8, 15, 0.74), rgba(5, 8, 15, 0.12) 56%, rgba(5, 8, 15, 0));
+      pointer-events: none;
+    }
+
+    .blog-media-overlay {
+      position: absolute;
+      left: 10px;
+      right: 10px;
+      bottom: 10px;
+      z-index: 2;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      width: fit-content;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(190, 210, 255, 0.35);
+      background: rgba(12, 18, 31, 0.72);
+      color: #eaf0ff;
+      font-size: .78rem;
+      font-weight: 600;
+    }
+
+    .blog-media-overlay i {
+      font-size: .9rem;
+      color: #94b9ff;
+    }
+
+    .blog-media.media-fallback {
+      display: grid;
+      place-items: center;
+      min-height: 170px;
+    }
+
+    .blog-media.media-fallback .blog-media-overlay {
+      position: static;
+      margin: 0;
+      background: rgba(10, 15, 28, 0.62);
+    }
+
+    .cat-theme-yazilim {
+      background: linear-gradient(135deg, rgba(30, 64, 175, 0.45), rgba(67, 56, 202, 0.36));
+    }
+
+    .cat-theme-ai {
+      background: linear-gradient(135deg, rgba(13, 148, 136, 0.5), rgba(5, 150, 105, 0.36));
+    }
+
+    .cat-theme-robotik {
+      background: linear-gradient(135deg, rgba(30, 64, 175, 0.36), rgba(14, 116, 144, 0.42));
+    }
+
+    .cat-theme-web {
+      background: linear-gradient(135deg, rgba(67, 56, 202, 0.42), rgba(14, 165, 233, 0.3));
+    }
+
+    .cat-theme-siber {
+      background: linear-gradient(135deg, rgba(190, 24, 93, 0.36), rgba(220, 38, 38, 0.38));
+    }
+
+    .cat-theme-kamera {
+      background: linear-gradient(135deg, rgba(3, 105, 161, 0.36), rgba(22, 78, 99, 0.45));
+    }
+
+    .cat-theme-default {
+      background: linear-gradient(135deg, rgba(71, 85, 105, 0.42), rgba(30, 41, 59, 0.48));
+    }
+
+    .blog-card h5 {
+      margin: 0;
+      line-height: 1.35;
+    }
+
     .cat-badge {
       font-size: .76rem;
       border-radius: 999px;
@@ -469,6 +563,16 @@
         { category: 'kamera', category_label: 'Kamera Sistemleri', title: 'IP Kamera ve Akilli Izleme Cozumleri', summary: 'IP kamera altyapisi, hareket algilama ve uzaktan izleme butunlesik mimarisi.', url: '#', source: 'Kodzen Editor', published_at: '2026-04-01T00:00:00Z', tags: ['IP Camera', 'NVR', 'Motion'], keywords: 'ip kamera guvenlik entegrasyonu' }
       ];
 
+      var CATEGORY_VISUALS = {
+        yazilim: { icon: 'bi-code-slash' },
+        ai: { icon: 'bi-cpu' },
+        robotik: { icon: 'bi-robot' },
+        web: { icon: 'bi-window' },
+        siber: { icon: 'bi-shield-lock' },
+        kamera: { icon: 'bi-camera-video' },
+        default: { icon: 'bi-grid-3x3-gap' }
+      };
+
       var observer = new IntersectionObserver(function (entries) {
         entries.forEach(function (entry) {
           if (entry.isIntersecting) {
@@ -507,6 +611,22 @@
         cards = Array.prototype.slice.call(document.querySelectorAll('#blogGrid .blog-card'));
       }
 
+      function toCategoryTheme(category) {
+        return CATEGORY_VISUALS[category] ? category : 'default';
+      }
+
+      function wireImageFallbacks() {
+        document.querySelectorAll('#blogGrid .blog-cover-img').forEach(function (img) {
+          if (img.dataset.bound === '1') return;
+          img.dataset.bound = '1';
+          img.addEventListener('error', function () {
+            var media = img.closest('.blog-media');
+            if (media) media.classList.add('media-fallback');
+            if (img.parentNode) img.parentNode.removeChild(img);
+          });
+        });
+      }
+
       function getOrCreateEmptyState() {
         var empty = document.getElementById('blogEmptyState');
         if (empty) return empty;
@@ -539,7 +659,10 @@
       }
 
       function createCard(post) {
-        var cat = escapeHtml(post.category || 'yazilim');
+        var catRaw = post.category || 'yazilim';
+        var catTheme = toCategoryTheme(catRaw);
+        var visual = CATEGORY_VISUALS[catTheme] || CATEGORY_VISUALS.default;
+        var cat = escapeHtml(catRaw);
         var catLabel = escapeHtml(post.category_label || 'Guncel Yazi');
         var title = escapeHtml(post.title || 'Baslik yok');
         var summary = escapeHtml(post.summary || '');
@@ -548,6 +671,14 @@
         var dateText = escapeHtml(formatDate(post.published_at));
         var keywords = escapeHtml(post.keywords || (post.title + ' ' + post.summary));
         var tags = Array.isArray(post.tags) ? post.tags.slice(0, 3) : [];
+        var rawImage = typeof post.image_url === 'string' ? post.image_url.trim() : '';
+        var hasImage = /^https?:\/\//i.test(rawImage);
+        var mediaClass = 'blog-media cat-theme-' + catTheme + (hasImage ? '' : ' media-fallback');
+        var mediaHtml = '' +
+          '<div class="' + mediaClass + '">' +
+            (hasImage ? '<img class="blog-cover-img" src="' + escapeHtml(rawImage) + '" loading="lazy" alt="' + title + '" referrerpolicy="no-referrer">' : '') +
+            '<div class="blog-media-overlay"><i class="bi ' + visual.icon + '"></i><span>' + catLabel + '</span></div>' +
+          '</div>';
 
         var chipHtml = tags.map(function (tag) {
           return '<span class="chip">' + escapeHtml(tag) + '</span>';
@@ -558,6 +689,7 @@
         card.setAttribute('data-cat', cat);
         card.setAttribute('data-keywords', keywords);
         card.innerHTML = '' +
+          mediaHtml +
           '<span class="cat-badge">' + catLabel + '</span>' +
           '<h5>' + title + '</h5>' +
           '<p>' + summary + '</p>' +
@@ -572,6 +704,7 @@
         posts.forEach(function (post) {
           blogGrid.appendChild(createCard(post));
         });
+        wireImageFallbacks();
         refreshCards();
         observeReveals();
         applyFilters();

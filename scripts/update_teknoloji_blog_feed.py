@@ -160,6 +160,81 @@ def strip_html(text: str | None) -> str:
     return compact
 
 
+def is_valid_image_url(url: str | None) -> bool:
+    if not url:
+        return False
+    u = url.strip()
+    return u.startswith("http://") or u.startswith("https://")
+
+
+def extract_first_image_url(raw_html: str | None) -> str | None:
+    if not raw_html:
+        return None
+    match = re.search(r"""<img[^>]+src=["']([^"']+)["']""", raw_html, flags=re.IGNORECASE)
+    if not match:
+        return None
+    candidate = html.unescape(match.group(1).strip())
+    return candidate if is_valid_image_url(candidate) else None
+
+
+def pick_rss_image(node: ET.Element, raw_description: str | None) -> str | None:
+    media_ns = "{http://search.yahoo.com/mrss/}"
+    itunes_ns = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
+
+    media_thumb = node.find(f"{media_ns}thumbnail")
+    if media_thumb is not None:
+        candidate = media_thumb.attrib.get("url")
+        if is_valid_image_url(candidate):
+            return candidate
+
+    media_content = node.find(f"{media_ns}content")
+    if media_content is not None:
+        candidate = media_content.attrib.get("url")
+        if is_valid_image_url(candidate):
+            return candidate
+
+    itunes_image = node.find(f"{itunes_ns}image")
+    if itunes_image is not None:
+        candidate = itunes_image.attrib.get("href")
+        if is_valid_image_url(candidate):
+            return candidate
+
+    for enclosure in node.findall("enclosure"):
+        enc_type = (enclosure.attrib.get("type") or "").lower()
+        enc_url = enclosure.attrib.get("url") or ""
+        if ("image" in enc_type) and is_valid_image_url(enc_url):
+            return enc_url
+
+    return extract_first_image_url(raw_description)
+
+
+def pick_atom_image(entry: ET.Element, raw_summary: str | None, raw_content: str | None) -> str | None:
+    media_ns = "{http://search.yahoo.com/mrss/}"
+    atom_ns = "{http://www.w3.org/2005/Atom}"
+
+    media_thumb = entry.find(f"{media_ns}thumbnail")
+    if media_thumb is not None:
+        candidate = media_thumb.attrib.get("url")
+        if is_valid_image_url(candidate):
+            return candidate
+
+    media_content = entry.find(f"{media_ns}content")
+    if media_content is not None:
+        candidate = media_content.attrib.get("url")
+        if is_valid_image_url(candidate):
+            return candidate
+
+    for link in entry.findall(f"{atom_ns}link"):
+        rel = (link.attrib.get("rel") or "").lower()
+        link_type = (link.attrib.get("type") or "").lower()
+        href = link.attrib.get("href")
+        if rel == "enclosure" and ("image" in link_type or (href and any(x in href.lower() for x in (".jpg", ".jpeg", ".png", ".webp")))):
+            if is_valid_image_url(href):
+                return href
+
+    return extract_first_image_url(raw_summary) or extract_first_image_url(raw_content)
+
+
 def parse_datetime(value: str | None) -> datetime | None:
     if not value:
         return None
@@ -206,7 +281,9 @@ def parse_feed(xml_bytes: bytes, source_name: str) -> list[dict]:
         for node in channel.findall("item"):
             title = strip_html(node.findtext("title"))
             link = (node.findtext("link") or "").strip()
-            description = strip_html(node.findtext("description"))
+            raw_description = node.findtext("description")
+            description = strip_html(raw_description)
+            image_url = pick_rss_image(node, raw_description)
             pub_date = parse_datetime(node.findtext("pubDate"))
             if not title or not link:
                 continue
@@ -215,6 +292,7 @@ def parse_feed(xml_bytes: bytes, source_name: str) -> list[dict]:
                     "title": title,
                     "url": link,
                     "summary": description,
+                    "image_url": image_url,
                     "published_at": pub_date,
                     "source": source_name,
                 }
@@ -226,7 +304,10 @@ def parse_feed(xml_bytes: bytes, source_name: str) -> list[dict]:
         for entry in root.findall(f"{ns}entry"):
             title = strip_html(entry.findtext(f"{ns}title"))
             link = pick_atom_link(entry).strip()
-            summary = strip_html(entry.findtext(f"{ns}summary") or entry.findtext(f"{ns}content"))
+            raw_summary = entry.findtext(f"{ns}summary")
+            raw_content = entry.findtext(f"{ns}content")
+            summary = strip_html(raw_summary or raw_content)
+            image_url = pick_atom_image(entry, raw_summary, raw_content)
             pub_date = parse_datetime(entry.findtext(f"{ns}published") or entry.findtext(f"{ns}updated"))
             if not title or not link:
                 continue
@@ -235,6 +316,7 @@ def parse_feed(xml_bytes: bytes, source_name: str) -> list[dict]:
                     "title": title,
                     "url": link,
                     "summary": summary,
+                    "image_url": image_url,
                     "published_at": pub_date,
                     "source": source_name,
                 }
@@ -336,6 +418,7 @@ def build_posts() -> list[dict]:
                         "title": item["title"],
                         "summary": truncate(item["summary"] or item["title"]),
                         "url": normalize_url(item["url"]),
+                        "image_url": item.get("image_url"),
                         "source": item["source"],
                         "published_at": published_at,
                         "score": score,
