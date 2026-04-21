@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Teknoloji Blog">
+  <defs>
+    <linearGradient id="gd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#gd)"/>
+  <circle cx="1020" cy="120" r="170" fill="#94a3b8" opacity=".2"/>
+  <circle cx="170" cy="550" r="150" fill="#cbd5e1" opacity=".14"/>
+  <rect x="90" y="120" width="1020" height="390" rx="24" fill="#020617" opacity=".55"/>
+  <text x="130" y="255" fill="#e2e8f0" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Teknoloji Blog</text>
+  <text x="130" y="320" fill="#cbd5e1" font-size="30" font-family="Segoe UI, Arial, sans-serif">Guncel teknoloji kaynaklarindan derlenen icerikler</text>
+  <text x="130" y="410" fill="#94a3b8" font-size="26" font-family="Consolas, monospace">Curated • Updated • Reliable</text>
+</svg>

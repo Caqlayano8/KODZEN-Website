@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Siber Guvenlik">
+  <defs>
+    <linearGradient id="g5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#be185d"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g5)"/>
+  <circle cx="1020" cy="120" r="170" fill="#fda4af" opacity=".22"/>
+  <circle cx="170" cy="550" r="150" fill="#fecdd3" opacity=".14"/>
+  <rect x="90" y="120" width="1020" height="390" rx="24" fill="#4c0519" opacity=".58"/>
+  <text x="130" y="255" fill="#ffe4e6" font-size="56" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Siber Guvenlik</text>
+  <text x="130" y="320" fill="#fecdd3" font-size="30" font-family="Segoe UI, Arial, sans-serif">Tehdit, CVE, savunma ve guvenlik operasyonlari</text>
+  <text x="130" y="410" fill="#fda4af" font-size="26" font-family="Consolas, monospace">Security • Advisory • Incident</text>
+</svg>
