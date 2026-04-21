@@ -1,16 +1,50 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-17T18:00:00Z",
-  "total_posts": 34,
+  "updated_at": "2026-04-20T22:27:25Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 6,
+    "robotik": 5,
     "web": 4,
     "siber": 6,
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Changes to GitHub Copilot Individual plans",
+      "summary": "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "source": "GitHub Blog",
+      "published_at": "2026-04-20T18:15:28Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Changes to GitHub Copilot Individual plans We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog . GitHub Dev Platform",
+      "published_display": "2026-04-20",
+      "id": "74ef6ad02048"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Highlights from Git 2.54",
+      "summary": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+      "source": "GitHub Blog",
+      "published_at": "2026-04-20T16:43:57Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Highlights from Git 2.54 The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "published_display": "2026-04-20",
+      "id": "c087e06d160a"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -80,38 +114,21 @@
       "id": "77a6d1542c6f"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Developer policy update: Intermediary liability, copyright, and transparency",
-      "summary": "We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead. The post Developer policy update: Intermediary liability, copyright, an...",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
-      "source": "GitHub Blog",
-      "published_at": "2026-04-15T15:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "source": "OpenAI News",
+      "published_at": "2026-04-20T00:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Developer policy update: Intermediary liability, copyright, and transparency We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead. The post Developer policy update: Intermediary liability, copyright, and transparency appeared first on The GitHub Blog . GitHub Dev Platform",
-      "published_display": "2026-04-15",
-      "id": "0800ac2d048c"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
-      "summary": "Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills. The post Hack the AI agent...",
-      "url": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
-      "source": "GitHub Blog",
-      "published_at": "2026-04-14T18:17:59Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills. The post Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game appeared first on The GitHub Blog . GitHub Dev Platform",
-      "published_display": "2026-04-14",
-      "id": "9c064056d310"
+      "keywords": "OpenAI helps Hyatt advance AI among colleagues Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences. AI OpenAI Model",
+      "published_display": "2026-04-20",
+      "id": "4ba9f458ec93"
     },
     {
       "category": "ai",
@@ -199,21 +216,38 @@
       "id": "8446d42f5127"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Codex for (almost) everything",
-      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-      "url": "https://openai.com/index/codex-for-almost-everything",
-      "source": "OpenAI News",
-      "published_at": "2026-04-16T10:00:00Z",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Skild AI acquires Zebra Technologies’ robotics automation business - Robotics & Automation News",
+      "summary": "Skild AI acquires Zebra Technologies’ robotics automation business Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWdSbFBpMDVzVWs1MVVHYmhMODJ1Q1o1ZnlwM0xUblhPOHBVYWVfdjNNTWoxR0M3YkFmTDUyV182S1UwdmFsV2FYcjFibHlKTV9Pd3ptOEVmNUxjUnJjQW55bExXdGZNYWhQVnRzOE5rUGNZSHdzMTNSTTBJUnZFa3VVc2ZhWDRST2NNZWE4NTdzMGZnd1BvYkVFZFdCRDZuTjJoa2oxc2s3MlZUTzN3dG0zb19oS3ZhdEpqZVVOTQ?oc=5",
+      "source": "Google News Robotics",
+      "published_at": "2026-04-20T22:27:25Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Codex for (almost) everything The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows. AI OpenAI Model",
-      "published_display": "2026-04-16",
-      "id": "1a23d8edcdf8"
+      "keywords": "Skild AI acquires Zebra Technologies’ robotics automation business - Robotics & Automation News Skild AI acquires Zebra Technologies’ robotics automation business Robotics & Automation News Robotics Automation Industry",
+      "published_display": "2026-04-20",
+      "id": "48d2a4a5ae30"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues - Robotics & Automation News",
+      "summary": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaGR6QlVadjlHVUQzV2o1Zkx5OS10bS0xZERDVUthYjU4VVFZT2FRQXJwTWFueWNWdU90YUQ1N0JORExxUF9rRWhBVmFibHNoWl9wVy1QTEM2eHczd3FLdGVVdTJlc18xYzNMS3dUa1plV2dFeUtvYV9OcEdDU2w3UGM5S3Fac0lCczdRQ09rWmFsYkloN08xTlZ1bWhiRnJRWVV5a2Nwa2REcGhOd2NwdUtISDFWZGZSZW02M3dpVzdpRGV6bHdiTzZIUGRBRzE2V0ZNenZoS1VGU2ZHMnozMjFtMGN1QjFMdjJpRUk4eno?oc=5",
+      "source": "Google News Robotics",
+      "published_at": "2026-04-20T20:34:42Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues - Robotics & Automation News Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues Robotics & Automation News Robotics Automation Industry",
+      "published_display": "2026-04-20",
+      "id": "92cc0be7e86e"
     },
     {
       "category": "robotik",
@@ -235,26 +269,9 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "EVST Delivers One-Stop Smart Manufacturing Solutions Across Robotics, Automation, and Embodied Intelligence - The Killeen Daily Herald",
-      "summary": "EVST Delivers One-Stop Smart Manufacturing Solutions Across Robotics, Automation, and Embodied Intelligence The Killeen Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTndWd2prdUxsbjRtM0NFYmtiNGpMeFpnRFppUFdibHZLLURDbE55WUVkT0hwbmN4VVdneG1zeW5kSjBITXJWNnNxT0NPcjhEVEJhbFFTTGQwTFp4cUQ3d1dFR1BGdjg5NE9taVBsX29ERUtubkRFSXdMcXAxeWJfNS1uZ1VvcEo5M2hUQ25zSEdCeE94VVo3bzUzMjNUSnl6SGVTVmItdHQ2bjdZdUFrcHAtelNMMWxYUElyb2JNLWV4SlZIX09xbHBybE1XMlJlaGdsdmtSWUlBLVFiTEpIbHBSR1FGQ1hHcjk3bDQtVTgya2U3cVFXT3NVZ1ZnZWY2VU9PMnd4alhFR3FvUXpWUzBlaXhGWFl5bE9NRWNxUEdTQlJTSEVJMXVOZkhoNjQ?oc=5",
-      "source": "Google News Robotics",
-      "published_at": "2026-04-16T15:55:04Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "EVST Delivers One-Stop Smart Manufacturing Solutions Across Robotics, Automation, and Embodied Intelligence - The Killeen Daily Herald EVST Delivers One-Stop Smart Manufacturing Solutions Across Robotics, Automation, and Embodied Intelligence The Killeen Daily Herald Robotics Automation Industry",
-      "published_display": "2026-04-16",
-      "id": "1f0b82bfe15a"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Business Wire",
-      "summary": "Skild AI Acquires Zebra Technologies' Robotics Automation Business Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1hmUldMc0dPeVdOYnJaZldfdnBGZFotakItektpZVVPcW9XT1hDdURFbmtQbDlqQ1pRQ25kNGRrbGl3b29ienYySW9acU1hRXFQMEsyMF9sRk5EeThyQXZTNmpOdE1ZRUpRalF0UTZrNmRKV01Zd0prelV5MFpYejNjY083YzFZYlpocEpOX1gwdW9Ma3NtSm1kMGFDelVFU2JKMVE0ZzN1OFhvVmN6MXlCUkFLaTZkMWN2T1Vfaw?oc=5",
+      "title": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Via TT",
+      "summary": "Skild AI Acquires Zebra Technologies' Robotics Automation Business Via TT",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzlRQWRGSmhfWnJnSFp2X1V4TlN1eVhQVjRYa29yajZGQ01NNGtSQWNSVzlhZDgxS19nVFA1ZEZVYVc5d1dTZURVYzRPeV96XzV2el85aGhtWlBhalVmM3dWVjMzaTZrYVR3MkI3OGlrS1ZnLXZFZm5vUjNueW1WQnlGTjNnbTJJeHFNQVhEajlfTG1EemQ0b2FnMjhYSFJNUktqM3N3c3h1ZWsydnZndmM1QkxhaW5oR2ZTOXI3Z3FyaDRMN1lxVC1FT3hOWmM?oc=5",
       "source": "Google News Robotics",
       "published_at": "2026-04-15T21:32:00Z",
       "tags": [
@@ -262,60 +279,26 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Business Wire Skild AI Acquires Zebra Technologies' Robotics Automation Business Business Wire Robotics Automation Industry",
+      "keywords": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Via TT Skild AI Acquires Zebra Technologies' Robotics Automation Business Via TT Robotics Automation Industry",
       "published_display": "2026-04-15",
-      "id": "f927d980309f"
+      "id": "cf725f526f72"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "PASCO Marks 50 Years in Industrial Automation - Robotics & Automation News",
-      "summary": "PASCO Marks 50 Years in Industrial Automation Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVF1UGRGZjBRZjA4OW11MmU4TnhfUmU5dmNGY1NlR29UTkJOMTFab2NhMVJpRlQ4Nno0b3FuWjdxNDhReEMybDlGb0gwUExyWlNYYmVfN0VzTDEwZmp1WUI3MnhhSHpuUV9hQjd3dG5WWEJvS3lneThaSUozNmFiaHVJMVZkaXJUU3dTSTI3d1phSWhaTVdRYnlKTkRpQXFkc2VzSg?oc=5",
+      "title": "South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook - vocal.media",
+      "summary": "South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFBDMlI0WGE1RGd4aWJaTl93MjNHQ2Y4SXdpMW5NSmNJUzczYUJPZ2p1eU11a3RkX2JSbzladnI2aV9XeW0zRWg1WWIxdDlOOEkwZEdqenNpOE1MdUhxNzVPWG1VcW93cEVGVjBadlBjeHNwWlpJdF9Vd19uTVZFUGprU0pybm9Ud0d0ckk4bWRwbGhyc0c1TTVZRThqc3J2UzBFOGJWTFhjTFNMLVc0OHJFczBTc1NjUWx6X0F1RVhwVzg?oc=5",
       "source": "Google News Robotics",
-      "published_at": "2026-04-07T11:01:16Z",
+      "published_at": "2026-03-26T23:52:59Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "PASCO Marks 50 Years in Industrial Automation - Robotics & Automation News PASCO Marks 50 Years in Industrial Automation Robotics & Automation News Robotics Automation Industry",
-      "published_display": "2026-04-07",
-      "id": "7ce19d961a3f"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "8 Best Robotics Stocks to Buy in 2026 - The Motley Fool",
-      "summary": "8 Best Robotics Stocks to Buy in 2026 The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmszUHNFLVJYODRkTnJuT09DLVZSV0lCRmt5TWNSWEViWVhGYWlsQmVqbmdFWnJnU2dsMHk3SGQ1bHV6ZHVwc2VFYlJvM1BaZHdRMkFfZ1paTGZ5LWNSVVRrLVJhU0tFNnRZX1pDQVVZZU54SS1neE9tLS1BM1BuWjE3VmZVLUtXVnhsTTB3VzV5czZ4WXFJNE80MGVvcTA?oc=5",
-      "source": "Google News Robotics",
-      "published_at": "2026-04-06T07:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "8 Best Robotics Stocks to Buy in 2026 - The Motley Fool 8 Best Robotics Stocks to Buy in 2026 The Motley Fool Robotics Automation Industry",
-      "published_display": "2026-04-06",
-      "id": "da45cf22e94c"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "A3 Launches Introduction to Industrial Robotics Course - Business Wire",
-      "summary": "A3 Launches Introduction to Industrial Robotics Course Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGNOTWZYNkZHSi1ZWVZ4czdUMi14ZWtTSGNIbFFDSkE3WUQ3ZEp1b2pvc1lZOUJIRUpodktVOUhpMkxQcmQ5Q2s0ajRjMTBQWGR0emVyc3BmTG9MTEh2azBzZzdGc3FfREVQdDdKRkFLeGNpdFpwbEF0VWdfMlFTcUxuY3BXbUtWQVg4N2ZsSkFmYmg1NDhob1VXREhLZ2pfdTlOS2VsQ2VCYmxCY2VYVQ?oc=5",
-      "source": "Google News Robotics",
-      "published_at": "2026-03-30T07:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "A3 Launches Introduction to Industrial Robotics Course - Business Wire A3 Launches Introduction to Industrial Robotics Course Business Wire Robotics Automation Industry",
-      "published_display": "2026-03-30",
-      "id": "06baf81e0103"
+      "keywords": "South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook - vocal.media South Africa Warehouse Automation Market: Smart Logistics, Robotics Integration & Growth Outlook vocal.media Robotics Automation Industry",
+      "published_display": "2026-03-26",
+      "id": "1e2b9c6d8b18"
     },
     {
       "category": "web",
@@ -388,6 +371,40 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCi...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "published_at": "2026-04-20T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability CVE-2026-20122 Cisco Catalyst SD-WAN Manager Incorrect Use of Privileged APIs Vulnerability CVE-2026-20128 Cisco Catalyst SD-WAN Manager Storing Passwords in a Recoverable Format Vulnerability CVE-2026-20133 Cisco Catalyst SD-WAN Manager Exposure of Sensitive Information to an Unauthorized Actor Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of KEV Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . CISA Advisory Threat",
+      "published_display": "2026-04-20",
+      "id": "a88c80f13d1c"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm). 1 Axios is an HTTP client for JavaScript...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
+      "source": "CISA Advisories",
+      "published_at": "2026-04-20T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "​​Supply Chain Compromise Impacts Axios Node Package Manager​ The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm). 1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber threat actor infrastructure, including a remote access trojan. 2 CISA urges organizations to implement the following recommendations to detect and remediate a potential compromise: Monitor and review code repositories, continuous integration/continuous delivery (CI/CD) pipelines, and developer machines that ran npm install or npm update with the compromised Axios version. Search for cached versions of affected dependencies in artifact repositories and dependency management tools. Pin npm package dependency versions to known safe releases. If compromised dependencies are identified, revert the environment to a known safe state. Downgrade to axios@1.14.0 or axios@0.30.3 and delete node_modules/plain-crypto-js/ . Rotate/revoke credentials that may have been exposed on affected systems or pipelines (e.g., version control system [VCS] tokens, CI/CD secrets, cloud keys, npm tokens, and Secure Shell [SSH] keys). For ephemeral CI jobs, rotate all secrets injected into the compromised run. Monitor for unexpected child processes and anomalous network behavior, specifically during npm install or npm update . Block and monitor outbound connections to Sfrclak[.]com domains. Conduct continuous indicator searches and endpoint detection and response (EDR) hunts to confirm no indicators of compromise (IOCs) remain; ensure no further egress to the command and control (C2). In addition, CISA recommends organizations using Axios npm: Mandate phishing-resistant multifactor authentication (MFA) on all developer accounts, especially for critical platforms. Set ignore-scripts=true in the .npmrc configuration file, which prevents potentially malicious scripts from executing during npm install packages. Set min-release-age=7 in the .npmrc configuration file to only install packages that have been published for at least seven days, which helps avoid installation of packages that may not be completely vetted or are potentially malicious. Establish and maintain a baseline of normal execution behavior for tools that use Axios. Alert when a dependency behaves differently (e.g., building containers, enabling shells, executing commands) and trace outbound network activity for anomalous connections. See the following resources for additional guidance on this compromise: GitHub: Post Mortem: axios npm supply chain compromise #10636 Microsoft: Mitigating the Axios npm supply chain compromise StepSecurity: axios Compromised on npm - Malicious Versions Drop Remote Access Trojan npm Docs: Securing your code Socket: Supply Chain Attack on Axios Pulls Malicious Dependency from npm Disclaimer The information in this report is being provided “as is” for informational purposes only. CISA does not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this document. Any reference to specific commercial entities, products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply endorsement, recommendation, or favoring by CISA. Notes 1 “Post Mortem: axios npm supply chain compromise,” axios GitHub, Issue #10636, March 31, 2026, https://github.com/axios/axios/issues/10636 . 2 “Mitigating the Axios npm supply chain compromise,” Microsoft Threat Intelligence and Microsoft Defender Security Research Team, April 1, 2026, https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/ . CISA Advisory Threat",
+      "published_display": "2026-04-20",
+      "id": "52c80b919aa3"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "Delta Electronics ASDA-Soft",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabili...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01",
@@ -452,40 +469,6 @@
       "keywords": "CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of KEV Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . CISA Advisory Threat",
       "published_display": "2026-04-16",
       "id": "f5c8a769a97c"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Anviz Multiple Products",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to conduct reconnaissance, capture or decrypt sensitive data, alter device configurations, gain unauthorized administrative or root‑level access, ex...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03",
-      "source": "CISA Advisories",
-      "published_at": "2026-04-16T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Anviz Multiple Products View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to conduct reconnaissance, capture or decrypt sensitive data, alter device configurations, gain unauthorized administrative or root‑level access, execute arbitrary code, compromise credentials or communications, and ultimately obtain full control over affected devices. The following versions of Anviz Multiple Products are affected: CX2 Lite Firmware vers:all/* (CVE-2026-32648, CVE-2026-40461, CVE-2026-35682, CVE-2026-35546, CVE-2026-40066, CVE-2026-33569) CX7 Firmware vers:all/* (CVE-2026-33093, CVE-2026-35061, CVE-2026-32648, CVE-2026-40461, CVE-2026-35546, CVE-2026-40066, CVE-2026-32324, CVE-2026-31927, CVE-2026-33569) CrossChex Standard vers:all/* (CVE-2026-40434, CVE-2026-32650) CVSS Vendor Equipment Vulnerabilities v3 9.8 Anviz Anviz Multiple Products Missing Authorization, Missing Authentication for Critical Function, Improper Neutralization of Special Elements used in a Command ('Command Injection'), Download of Code Without Integrity Check, Use of Hard-coded Cryptographic Key, Relative Path Traversal, Cleartext Transmission of Sensitive Information, Improper Verification of Source of a Communication Channel, Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade') Background Critical Infrastructure Sectors: Commercial Facilities, Critical Manufacturing, Defense Industrial Base, Energy, Financial Services, Food and Agriculture, Government Services and Facilities, Healthcare and Public Health, Information Technology, Transportation Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-33093 CX7 is vulnerable to an unauthenticated POST to the device that captures a photo with the front facing camera, exposing visual information about the deployment environment. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-862 Missing Authorization Metrics CVSS Version Base Score Base Severity Vector String 3.1 5.3 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N CVE-2026-35061 CX7 is vulnerable to the most recently captured test photo that can be retrieved without authentication, revealing sensitive operational imagery. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-862 Missing Authorization Metrics CVSS Version Base Score Base Severity Vector String 3.1 5.3 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N CVE-2026-32648 CX2 Lite and CX7 are vulnerable to unauthenticated access that discloses debug configuration details (e.g., SSH/RTTY status), assisting attackers in reconnaissance against the device. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX2 Lite Firmware: vers:all/*, Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-862 Missing Authorization Metrics CVSS Version Base Score Base Severity Vector String 3.1 5.3 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N CVE-2026-40461 CX2 Lite and CX7 are vulnerable to unauthenticated POST requests that modify debug settings (e.g., enabling SSH), allowing unauthorized state changes that can facilitate later compromise. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX2 Lite Firmware: vers:all/*, Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-306 Missing Authentication for Critical Function Metrics CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N CVE-2026-35682 CX2 Lite is vulnerable to an authenticated command injection via a filename parameter that enables arbitrary command execution (e.g., starting telnetd), resulting in root‑level access. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX2 Lite Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-77 Improper Neutralization of Special Elements used in a Command ('Command Injection') Metrics CVSS Version Base Score Base Severity Vector String 3.1 8.8 HIGH CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H CVE-2026-35546 CX2 Lite and CX7 are vulnerable to unauthenticated firmware uploads. This causes crafted archives to be accepted, enabling attackers to plant and execute code and obtain a reverse shell. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX2 Lite Firmware: vers:all/*, Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-306 Missing Authentication for Critical Function Metrics CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H CVE-2026-40066 CX2 Lite and CX7 are vulnerable to unverified update packages that can be uploaded. The device unpacks and executes a script resulting in unauthenticated remote code execution. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX2 Lite Firmware: vers:all/*, Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-494 Download of Code Without Integrity Check Metrics CVSS Version Base Score Base Severity Vector String 3.1 8.8 HIGH CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H CVE-2026-32324 CX7 is vulnerable because the application embeds reusable certificate/key material, enabling decryption of MQTT traffic and potential interaction with device messaging channels at scale. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-321 Use of Hard-coded Cryptographic Key Metrics CVSS Version Base Score Base Severity Vector String 3.1 7.7 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N CVE-2026-31927 CX7 is vulnerable to an authenticated CSV upload which allows path traversal to overwrite arbitrary files (e.g., /etc/shadow), enabling unauthorized SSH access when combined with debug‑setting changes. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-23 Relative Path Traversal Metrics CVSS Version Base Score Base Severity Vector String 3.1 4.9 MEDIUM CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:H/A:N CVE-2026-33569 CX2 Lite and CX7 administrative sessions occur over HTTP, enabling on‑path attackers to sniff credentials and session data, which can be used to compromise the device. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CX2 Lite Firmware: vers:all/*, Anviz CX7 Firmware: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-319 Cleartext Transmission of Sensitive Information Metrics CVSS Version Base Score Base Severity Vector String 3.1 6.5 MEDIUM CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N CVE-2026-40434 CrossChex Standard lacks source verification in the client/server channel, enabling TCP packet injection by an attacker on the same network to alter or disrupt application traffic. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CrossChex Standard: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-940 Improper Verification of Source of a Communication Channel Metrics CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:H CVE-2026-32650 CrossChex Standard is vulnerable when an attacker manipulates the TDS7 PreLogin to disable encryption, causing database credentials to be sent in plaintext and enabling unauthorized database access. View CVE Details Affected Products Anviz Multiple Products Vendor: Anviz Product Version: Anviz CrossChex Standard: vers:all/* Product Status: known_affected Remediations Mitigation Anviz did not respond to CISA's attempts to coordinate these vulnerabilities. Users should contact Anviz for more information at https://www.anviz.com/contact-us.html. https://www.anviz.com/contact-us.html Relevant CWE: CWE-757 Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade') Metrics CVSS Version Base Score Base Severity Vector String 3.1 7.5 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N Acknowledgments An anonymous researcher reported these vulnerabilities to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy & Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time. Revision History Initial Release Date: 2026-04-16 Date Revision Summary 2026-04-16 1 Initial Publication Legal Notice and Terms of Use CISA Advisory Threat",
-      "published_display": "2026-04-16",
-      "id": "ec7650f2ad60"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Securing non-human identities: automated revocation, OAuth, and scoped permissions",
-      "summary": "Cloudflare is introducing scannable API tokens, enhanced OAuth visibility, and GA for resource-scoped permissions. These tools help developers implement a true least-privilege architecture while protecting against credential leakage.",
-      "url": "https://blog.cloudflare.com/improved-developer-security/",
-      "source": "Cloudflare Security",
-      "published_at": "2026-04-14T13:00:10Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Securing non-human identities: automated revocation, OAuth, and scoped permissions Cloudflare is introducing scannable API tokens, enhanced OAuth visibility, and GA for resource-scoped permissions. These tools help developers implement a true least-privilege architecture while protecting against credential leakage. Cloudflare Security Web",
-      "published_display": "2026-04-14",
-      "id": "134c48812a25"
     },
     {
       "category": "kamera",
