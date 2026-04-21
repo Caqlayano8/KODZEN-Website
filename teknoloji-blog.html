@@ -350,61 +350,17 @@
           <button class="blog-tab" data-cat="siber">Siber Guvenlik</button>
           <button class="blog-tab" data-cat="kamera">Kamera Sistemleri</button>
         </div>
+        <div id="feedMeta" class="example-box" style="margin:0">Canli veri yukleniyor...</div>
       </section>
 
       <section class="blog-grid" id="blogGrid">
-        <article class="blog-card reveal" data-cat="yazilim" data-keywords="backend frontend mobil crud react arayuz">
-          <span class="cat-badge">Yazilim Gelistirme</span>
-          <h5>Backend + Frontend + Mobil Temeller</h5>
-          <p>Backend API yapisi, React ile arayuz katmani ve mobil uygulama mantigi tek bir urun akisi icinde nasil birlesir?</p>
-          <div class="example-box">Ornek: Basit CRUD uygulamasi (Node.js API + React panel + mobil istemci)</div>
-          <div class="chip-row"><span class="chip">Node.js</span><span class="chip">React</span><span class="chip">REST API</span></div>
-          <div class="blog-actions"><a class="blog-btn" href="#">Detay Yazisi</a></div>
-        </article>
-
-        <article class="blog-card reveal" data-cat="ai" data-keywords="makine ogrenmesi derin ogrenme nlp chatbot goruntu tanima">
-          <span class="cat-badge">Yapay Zeka</span>
-          <h5>ML, DL ve NLP ile Uretim Senaryolari</h5>
-          <p>Makine ogrenmesi ve derin ogrenme farklarini, chatbot ve goruntu tanima projeleri uzerinden anlamlandir.</p>
-          <div class="example-box">Ornek: SSS chatbot + urun siniflandirma modeli</div>
-          <div class="chip-row"><span class="chip">Python</span><span class="chip">TensorFlow</span><span class="chip">NLP</span></div>
-          <div class="blog-actions"><a class="blog-btn" href="#">Detay Yazisi</a></div>
-        </article>
-
-        <article class="blog-card reveal" data-cat="robotik" data-keywords="sensor entegrasyonu otomasyon arduino raspberry pi robot kol">
-          <span class="cat-badge">Robotik</span>
-          <h5>Sensor Entegrasyonu ve Otomasyon</h5>
-          <p>Robotik projelerde sensorden veri alip karar verme ve hareket ettirme adimlari nasil kurulur?</p>
-          <div class="example-box">Ornek: Arduino ile robot kol kontrolu, Raspberry Pi tabanli otomasyon</div>
-          <div class="chip-row"><span class="chip">Arduino</span><span class="chip">Raspberry Pi</span><span class="chip">Servo</span></div>
-          <div class="blog-actions"><a class="blog-btn" href="robotik-kodlama.html">Detay Yazisi</a></div>
-        </article>
-
-        <article class="blog-card reveal" data-cat="web" data-keywords="ui ux responsive bootstrap figma prototip">
-          <span class="cat-badge">Web Tasarimi</span>
-          <h5>UI/UX ve Responsive Tasarim Pratikleri</h5>
-          <p>Modern frameworklerle mobil uyumlu ekranlar, net bilgi mimarisi ve kullanici odakli deneyim tasarimi.</p>
-          <div class="example-box">Ornek: Bootstrap ile responsive landing page, Figma prototip akisi</div>
-          <div class="chip-row"><span class="chip">Bootstrap</span><span class="chip">Figma</span><span class="chip">UX</span></div>
-          <div class="blog-actions"><a class="blog-btn" href="#">Detay Yazisi</a></div>
-        </article>
-
-        <article class="blog-card reveal" data-cat="siber" data-keywords="ag guvenligi veri koruma sifreleme firewall zafiyet analizi">
-          <span class="cat-badge">Siber Guvenlik</span>
-          <h5>Ag Guvenligi ve Veri Koruma</h5>
-          <p>Sistem guvenligini arttirmak icin temel firewall kurallari, sifreleme stratejileri ve zafiyet tarama yaklasimlari.</p>
-          <div class="example-box">Ornek: Basit firewall yapilandirmasi + guvenlik aciklari analizi raporu</div>
-          <div class="chip-row"><span class="chip">Firewall</span><span class="chip">Encryption</span><span class="chip">Audit</span></div>
-          <div class="blog-actions"><a class="blog-btn" href="siberguvenik.html">Detay Yazisi</a></div>
-        </article>
-
-        <article class="blog-card reveal" data-cat="kamera" data-keywords="ip kamera guvenlik entegrasyonu akilli izleme hareket algilama">
-          <span class="cat-badge">Kamera Sistemleri</span>
-          <h5>IP Kamera ve Akilli Izleme Cozumleri</h5>
-          <p>Ev ve isletme guvenliginde IP kamera altyapisi, hareket algilama ve uzaktan takip entegrasyonu.</p>
-          <div class="example-box">Ornek: Ev guvenlik sistemi kurulumu + hareket algilama tetikleyicisi</div>
-          <div class="chip-row"><span class="chip">IP Camera</span><span class="chip">NVR</span><span class="chip">Motion Detection</span></div>
-          <div class="blog-actions"><a class="blog-btn" href="#">Detay Yazisi</a></div>
+        <article class="blog-card reveal" data-cat="all" data-keywords="loading">
+          <span class="cat-badge">Canli Veri</span>
+          <h5>Blog icerikleri yukleniyor...</h5>
+          <p>Guncel teknoloji kaynaklari taraniyor. Birazdan en yeni icerikler listelenecek.</p>
+          <div class="example-box">Otomatik guncelleme aktif.</div>
+          <div class="chip-row"><span class="chip">RSS</span><span class="chip">Automation</span><span class="chip">Live</span></div>
+          <div class="blog-actions"><a class="blog-btn" href="#">Bekleniyor</a></div>
         </article>
       </section>
 
@@ -493,21 +449,170 @@
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script>
     (function () {
+      var BLOG_FEED_URL = 'data/tech-blog-feed.json';
       var activeCategory = 'all';
       var tabs = Array.prototype.slice.call(document.querySelectorAll('.blog-tab'));
-      var cards = Array.prototype.slice.call(document.querySelectorAll('.blog-card'));
+      var cards = [];
       var searchInput = document.getElementById('searchInput');
+      var blogGrid = document.getElementById('blogGrid');
+      var feedMeta = document.getElementById('feedMeta');
+      var commentForm = document.getElementById('commentForm');
+      var commentList = document.getElementById('commentList');
+      var STORAGE_KEY = 'kodzen_blog_comments';
+
+      var FALLBACK_POSTS = [
+        { category: 'yazilim', category_label: 'Yazilim Gelistirme', title: 'Backend + Frontend + Mobil Temeller', summary: 'Backend API yapisi, React arayuz katmani ve mobil uygulama mantigi tek urun akisinda bulusur.', url: '#', source: 'Kodzen Editor', published_at: '2026-04-01T00:00:00Z', tags: ['Node.js', 'React', 'REST'], keywords: 'backend frontend mobil crud react arayuz' },
+        { category: 'ai', category_label: 'Yapay Zeka', title: 'ML, DL ve NLP ile Uretim Senaryolari', summary: 'Makine ogrenmesi ve NLP pratiklerini urunlestirme odakli aciklar.', url: '#', source: 'Kodzen Editor', published_at: '2026-04-01T00:00:00Z', tags: ['AI', 'NLP', 'MLOps'], keywords: 'ml dl nlp chatbot model inference' },
+        { category: 'robotik', category_label: 'Robotik', title: 'Sensor Entegrasyonu ve Otomasyon', summary: 'Robotik sistemlerde algi-karar-hareket zinciri nasil kurulur?', url: 'robotik-kodlama.html', source: 'Kodzen Editor', published_at: '2026-04-01T00:00:00Z', tags: ['Arduino', 'Raspberry Pi', 'Automation'], keywords: 'robotik sensor otomasyon' },
+        { category: 'web', category_label: 'Web Tasarimi', title: 'UI/UX ve Responsive Tasarim Pratikleri', summary: 'Mobil uyumlu ekranlar, net bilgi mimarisi ve hizli prototipleme adimlari.', url: '#', source: 'Kodzen Editor', published_at: '2026-04-01T00:00:00Z', tags: ['Web', 'UX', 'Responsive'], keywords: 'ui ux responsive bootstrap figma prototip' },
+        { category: 'siber', category_label: 'Siber Guvenlik', title: 'Ag Guvenligi ve Veri Koruma', summary: 'Sifreleme, guvenlik duvari ve zafiyet yonetimi katmanlari.', url: 'siberguvenik.html', source: 'Kodzen Editor', published_at: '2026-04-01T00:00:00Z', tags: ['Firewall', 'Encryption', 'Audit'], keywords: 'ag guvenligi veri koruma sifreleme' },
+        { category: 'kamera', category_label: 'Kamera Sistemleri', title: 'IP Kamera ve Akilli Izleme Cozumleri', summary: 'IP kamera altyapisi, hareket algilama ve uzaktan izleme butunlesik mimarisi.', url: '#', source: 'Kodzen Editor', published_at: '2026-04-01T00:00:00Z', tags: ['IP Camera', 'NVR', 'Motion'], keywords: 'ip kamera guvenlik entegrasyonu' }
+      ];
+
+      var observer = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('show');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.1 });
+
+      function escapeHtml(value) {
+        return String(value || '')
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      function observeReveals() {
+        document.querySelectorAll('.reveal').forEach(function (el) {
+          if (!el.classList.contains('show')) observer.observe(el);
+        });
+      }
+
+      function formatDate(isoValue) {
+        try {
+          var d = new Date(isoValue);
+          if (!Number.isNaN(d.getTime())) {
+            return d.toLocaleDateString('tr-TR', { year: 'numeric', month: 'short', day: '2-digit' });
+          }
+        } catch (e) {}
+        return '-';
+      }
+
+      function refreshCards() {
+        cards = Array.prototype.slice.call(document.querySelectorAll('#blogGrid .blog-card'));
+      }
+
+      function getOrCreateEmptyState() {
+        var empty = document.getElementById('blogEmptyState');
+        if (empty) return empty;
+        empty = document.createElement('div');
+        empty.id = 'blogEmptyState';
+        empty.className = 'example-box';
+        empty.style.gridColumn = '1 / -1';
+        empty.style.display = 'none';
+        empty.textContent = 'Filtreye uygun icerik bulunamadi.';
+        blogGrid.appendChild(empty);
+        return empty;
+      }
 
       function applyFilters() {
         var q = (searchInput.value || '').trim().toLowerCase();
+        var visible = 0;
         cards.forEach(function (card) {
           var cat = card.getAttribute('data-cat');
-          var kws = card.getAttribute('data-keywords') || '';
-          var text = (card.innerText || '').toLowerCase() + ' ' + kws.toLowerCase();
+          var kws = (card.getAttribute('data-keywords') || '').toLowerCase();
+          var text = (card.innerText || '').toLowerCase() + ' ' + kws;
           var catMatch = activeCategory === 'all' || cat === activeCategory;
           var textMatch = q.length === 0 || text.indexOf(q) !== -1;
-          card.style.display = (catMatch && textMatch) ? '' : 'none';
+          var isVisible = catMatch && textMatch;
+          card.style.display = isVisible ? '' : 'none';
+          if (isVisible) visible += 1;
         });
+
+        var empty = getOrCreateEmptyState();
+        empty.style.display = visible ? 'none' : '';
+      }
+
+      function createCard(post) {
+        var cat = escapeHtml(post.category || 'yazilim');
+        var catLabel = escapeHtml(post.category_label || 'Guncel Yazi');
+        var title = escapeHtml(post.title || 'Baslik yok');
+        var summary = escapeHtml(post.summary || '');
+        var url = escapeHtml(post.url || '#');
+        var source = escapeHtml(post.source || 'Bilinmeyen kaynak');
+        var dateText = escapeHtml(formatDate(post.published_at));
+        var keywords = escapeHtml(post.keywords || (post.title + ' ' + post.summary));
+        var tags = Array.isArray(post.tags) ? post.tags.slice(0, 3) : [];
+
+        var chipHtml = tags.map(function (tag) {
+          return '<span class="chip">' + escapeHtml(tag) + '</span>';
+        }).join('');
+
+        var card = document.createElement('article');
+        card.className = 'blog-card reveal';
+        card.setAttribute('data-cat', cat);
+        card.setAttribute('data-keywords', keywords);
+        card.innerHTML = '' +
+          '<span class="cat-badge">' + catLabel + '</span>' +
+          '<h5>' + title + '</h5>' +
+          '<p>' + summary + '</p>' +
+          '<div class="example-box">Kaynak: ' + source + ' | Tarih: ' + dateText + '</div>' +
+          '<div class="chip-row">' + chipHtml + '</div>' +
+          '<div class="blog-actions"><a class="blog-btn" href="' + url + '" target="_blank" rel="noopener">Detay Yazisi</a></div>';
+        return card;
+      }
+
+      function renderPosts(posts) {
+        blogGrid.innerHTML = '';
+        posts.forEach(function (post) {
+          blogGrid.appendChild(createCard(post));
+        });
+        refreshCards();
+        observeReveals();
+        applyFilters();
+      }
+
+      function updateFeedMeta(feed, fallbackMode) {
+        if (!feedMeta) return;
+        if (fallbackMode) {
+          feedMeta.textContent = 'Canli feed su an ulasilamiyor. Yedek icerik gosteriliyor.';
+          return;
+        }
+        var counts = feed && feed.category_counts ? feed.category_counts : {};
+        var updatedAt = feed && feed.updated_at ? formatDate(feed.updated_at) : '-';
+        var total = feed && typeof feed.total_posts === 'number' ? feed.total_posts : '-';
+        feedMeta.textContent = 'Son guncelleme: ' + updatedAt + ' | Toplam yazi: ' + total +
+          ' | Dagilim: Yazilim ' + (counts.yazilim || 0) +
+          ', AI ' + (counts.ai || 0) +
+          ', Robotik ' + (counts.robotik || 0) +
+          ', Web ' + (counts.web || 0) +
+          ', Siber ' + (counts.siber || 0) +
+          ', Kamera ' + (counts.kamera || 0);
+      }
+
+      function loadFeed() {
+        return fetch(BLOG_FEED_URL + '?v=' + Date.now(), { cache: 'no-store' })
+          .then(function (response) {
+            if (!response.ok) throw new Error('Feed HTTP ' + response.status);
+            return response.json();
+          })
+          .then(function (feed) {
+            if (!feed || !Array.isArray(feed.posts) || feed.posts.length === 0) {
+              throw new Error('Feed bos');
+            }
+            renderPosts(feed.posts);
+            updateFeedMeta(feed, false);
+          })
+          .catch(function (err) {
+            console.error('Blog feed yuklenemedi:', err);
+            renderPosts(FALLBACK_POSTS);
+            updateFeedMeta(null, true);
+          });
       }
 
       tabs.forEach(function (tab) {
@@ -520,22 +625,8 @@
       });
 
       searchInput.addEventListener('input', applyFilters);
-      applyFilters();
-
-      var observer = new IntersectionObserver(function(entries){
-        entries.forEach(function(entry){
-          if (entry.isIntersecting) {
-            entry.target.classList.add('show');
-            observer.unobserve(entry.target);
-          }
-        });
-      }, { threshold: 0.1 });
-
-      document.querySelectorAll('.reveal').forEach(function(el){ observer.observe(el); });
-
-      var commentForm = document.getElementById('commentForm');
-      var commentList = document.getElementById('commentList');
-      var STORAGE_KEY = 'kodzen_blog_comments';
+      observeReveals();
+      loadFeed();
 
       function renderComments() {
         var comments = [];
@@ -545,10 +636,26 @@
           commentList.innerHTML = '<div class="comment-item">Henuz yorum yok. Ilk yorumu sen birak.</div>';
           return;
         }
-        comments.slice().reverse().forEach(function(c){
+
+        comments.slice().reverse().forEach(function (c) {
           var item = document.createElement('div');
           item.className = 'comment-item';
-          item.innerHTML = '<strong>' + c.name + '</strong><br><small>' + c.date + '</small><p class="mb-0 mt-1">' + c.text + '</p>';
+
+          var nameEl = document.createElement('strong');
+          nameEl.textContent = c.name || 'Anonim';
+          item.appendChild(nameEl);
+
+          item.appendChild(document.createElement('br'));
+
+          var dateEl = document.createElement('small');
+          dateEl.textContent = c.date || '-';
+          item.appendChild(dateEl);
+
+          var textEl = document.createElement('p');
+          textEl.className = 'mb-0 mt-1';
+          textEl.textContent = c.text || '';
+          item.appendChild(textEl);
+
           commentList.appendChild(item);
         });
       }
