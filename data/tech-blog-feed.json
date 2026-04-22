@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-22T13:05:00Z",
+  "updated_at": "2026-04-22T17:00:09Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "MCP'nin Güvenliğini Sağlama: Aracı Aracının Yürütülmesi için Bir Kontrol Düzlemi",
+      "summary": "Model Bağlam Protokolü (MCP), yapay zeka aracılarının araçları keşfetmesi ve kullanması için hızla yaygın bir yol haline geliyor. Veritabanlarına, API'lere, dosya sistemlerine ve üçüncü taraf hizmetlere tutarlı bir arayüz sağlayarak yeteneklerin eklenmesini kolaylaştırır.",
+      "url": "https://devblogs.microsoft.com/blog/securing-mcp-a-control-plane-for-agent-tool-execution",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-04-22T17:00:09Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "MCP'nin Güvenliğini Sağlama: Aracı Aracının Yürütülmesi için Bir Kontrol Düzlemi Model Bağlam Protokolü (MCP), yapay zeka aracılarının araçları keşfetmesi ve kullanması için hızla yaygın bir yol haline geliyor. Veritabanlarına, API'lere, dosya sistemlerine ve üçüncü taraf hizmetlere tutarlı bir arayüz sağlayarak yeteneklerin eklenmesini kolaylaştırır. Securing MCP: A Control Plane for Agent Tool Execution The Model Context Protocol (MCP) is quickly becoming a common way for AI agents to discover and use tools. It provides a consistent interface to databases, APIs, file systems, and third-party services, which makes it easier to plug capab... Microsoft Dev Cloud",
+      "title_original": "Securing MCP: A Control Plane for Agent Tool Execution",
+      "summary_original": "The Model Context Protocol (MCP) is quickly becoming a common way for AI agents to discover and use tools. It provides a consistent interface to databases, APIs, file systems, and third-party services, which makes it easier to plug capab...",
+      "published_display": "2026-04-22",
+      "id": "b01e58a555f0"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "e9e020fa475d"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot CLI ile kişisel bir organizasyon komuta merkezi oluşturun",
-      "summary": "Bir GitHub mühendisinin geliştirdiği üretkenlik aracı ve yapay zekanın geliştirme sürecini nasıl desteklediği hakkında bilgi edinin. GitHub Copilot CLI ile kişisel bir organizasyon komuta merkezi oluşturun yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-04-15T17:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub Copilot CLI ile kişisel bir organizasyon komuta merkezi oluşturun Bir GitHub mühendisinin geliştirdiği üretkenlik aracı ve yapay zekanın geliştirme sürecini nasıl desteklediği hakkında bilgi edinin. GitHub Copilot CLI ile kişisel bir organizasyon komuta merkezi oluşturun yazısı ilk olarak GitHub Blogunda göründü. Build a personal organization command center with GitHub Copilot CLI Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Build a personal organization command center with GitHub Copilot CLI",
-      "summary_original": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog .",
-      "published_display": "2026-04-15",
-      "id": "b94616b95a5b"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Ajanlık çağı için iki özel TPU'yu piyasaya sürüyoruz.",
@@ -150,6 +150,26 @@
       "summary_original": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
       "published_display": "2026-04-22",
       "id": "70783e63fc4a"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Responses API'deki WebSockets ile aracılı iş akışlarını hızlandırma",
+      "summary": "WebSockets ve bağlantı kapsamlı önbelleğe almanın API yükünü nasıl azalttığını ve model gecikmesini nasıl iyileştirdiğini gösteren Codex aracı döngüsüne derinlemesine bir bakış.",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-04-22T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Responses API'deki WebSockets ile aracılı iş akışlarını hızlandırma WebSockets ve bağlantı kapsamlı önbelleğe almanın API yükünü nasıl azalttığını ve model gecikmesini nasıl iyileştirdiğini gösteren Codex aracı döngüsüne derinlemesine bir bakış. Speeding up agentic workflows with WebSockets in the Responses API A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency. AI OpenAI Model",
+      "title_original": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "summary_original": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "published_display": "2026-04-22",
+      "id": "7c9859773f04"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
       "published_display": "2026-04-21",
       "id": "701215d1d165"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI, Hyatt'ın meslektaşları arasında yapay zekayı geliştirmesine yardımcı oluyor",
-      "summary": "Hyatt, üretkenliği, operasyonları ve konuk deneyimlerini iyileştirmek için GPT-5.4 ve Codex'i kullanarak ChatGPT Enterprise'ı küresel iş gücü genelinde kullanıyor.",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-04-20T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI, Hyatt'ın meslektaşları arasında yapay zekayı geliştirmesine yardımcı oluyor Hyatt, üretkenliği, operasyonları ve konuk deneyimlerini iyileştirmek için GPT-5.4 ve Codex'i kullanarak ChatGPT Enterprise'ı küresel iş gücü genelinde kullanıyor. OpenAI helps Hyatt advance AI among colleagues Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences. AI OpenAI Model",
-      "title_original": "OpenAI helps Hyatt advance AI among colleagues",
-      "summary_original": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
-      "published_display": "2026-04-20",
-      "id": "9d29ad322f94"
     },
     {
       "category": "robotik",
@@ -674,22 +674,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
-      "summary": "ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
+      "title": "Axis Kamera Sunucusu Açıkları Binlerce Kuruluşu Saldırıya Maruz Bırakıyor - CyberSecurityNews",
+      "summary": "Axis Kamera Sunucusu Güvenlik Açıkları Binlerce Kuruluşun Siber Güvenlik Haberlerine Saldırmasına Maruz Kalıyor",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbFhhRlp6ZmVVOUw2WUEwZVQzX25KbDN5NXFHUks3WUJUcVVDNGtEUWNaNV95RG5tdUctblVnQzBZMVBBUGhLbnZnM0NpNUh0OVJjX0tFN253NjlUSUpaN3FiUTF4WVJ6T3JCempqS2dKRzA?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-08-06T07:00:00Z",
+      "published_at": "2025-08-08T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
-      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
-      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
-      "published_display": "2025-08-06",
-      "id": "bb38b8b06d62"
+      "keywords": "Axis Kamera Sunucusu Açıkları Binlerce Kuruluşu Saldırıya Maruz Bırakıyor - CyberSecurityNews Axis Kamera Sunucusu Güvenlik Açıkları Binlerce Kuruluşun Siber Güvenlik Haberlerine Saldırmasına Maruz Kalıyor Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack - CyberSecurityNews Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack - CyberSecurityNews",
+      "summary_original": "Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack CyberSecurityNews",
+      "published_display": "2025-08-08",
+      "id": "b9de9737e451"
     }
   ]
 }
