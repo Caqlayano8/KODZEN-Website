@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-23T09:00:00Z",
-  "total_posts": 34,
+  "updated_at": "2026-04-23T12:00:00Z",
+  "total_posts": 30,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 4,
     "siber": 6,
-    "kamera": 6
+    "kamera": 2
   },
   "posts": [
     {
@@ -454,6 +454,26 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Güvenliği Tehlikeye Giren Cihazlardan Oluşan Çin-Nexus Gizli Ağlarına Karşı Savunma",
+      "summary": "Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma yönetici özeti Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma Taktik, teknik ve prosedürlerde (TTP'ler) yaygın değişimi açıklamak...",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a",
+      "image_url": "https://www.cisa.gov/sites/default/files/styles/large/public/2026-04/A%20diagram%20illustrating%20the%20basic%20setup%20of%20a%20covert%20network..png?itok=3Bfm4nKj",
+      "source": "CISA Advisories",
+      "published_at": "2026-04-23T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Güvenliği Tehlikeye Giren Cihazlardan Oluşan Çin-Nexus Gizli Ağlarına Karşı Savunma Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma yönetici özeti Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma Taktik, teknik ve prosedürlerde (TTP'ler) yaygın değişimi açıklamak... Defending Against China-Nexus Covert Networks of Compromised Devices Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towa... CISA Advisory Threat",
+      "title_original": "Defending Against China-Nexus Covert Networks of Compromised Devices",
+      "summary_original": "Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towa...",
+      "published_display": "2026-04-23",
+      "id": "60ef495baba0"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
       "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-33825 Microsoft Defender Erişim Denetiminde Yetersiz Parça Boyutu Güvenlik Açığı Bu tür...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -552,29 +572,29 @@
       "id": "d38fa12e386c"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Siemens SCALANCE",
-      "summary": "CSAF Özetini Görüntüleyin SCALANCE W-700 V6.6.0'dan önceki IEEE 802.11n ailesi birden fazla güvenlik açığından etkilenmektedir. Siemens, SCALANCE W-700 IEEE 802.11n ailesi için yeni bir sürüm yayınladı ve en son sürüme güncelleme yapılmasını öneriyor. ...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-07",
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Tahmini - Fact.MR",
+      "summary": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Fact.MR Tahmini",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15NUxPRXhoZ3N4Nk9aMnY3OFhvLUdOSGY4UUVkT0Fld0FWZGwwVEt4Wm9fZXl4VWh3b0s1TThuc2lxMHpDQmFnZ1hVaDJaTU0zQWhLc3lOS0FIV1Br?oc=5",
       "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-04-21T12:00:00Z",
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-17T08:14:17Z",
       "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
+        "IP Camera",
+        "Video",
+        "Surveillance"
       ],
-      "keywords": "Siemens SCALANCE CSAF Özetini Görüntüleyin SCALANCE W-700 V6.6.0'dan önceki IEEE 802.11n ailesi birden fazla güvenlik açığından etkilenmektedir. Siemens, SCALANCE W-700 IEEE 802.11n ailesi için yeni bir sürüm yayınladı ve en son sürüme güncelleme yapılmasını öneriyor. ... Siemens SCALANCE View CSAF Summary SCALANCE W-700 IEEE 802.11n family before V6.6.0 are affected by multiple vulnerabilities. Siemens has released a new version for SCALANCE W-700 IEEE 802.11n family and recommends to update to the latest version. The fo... CISA Advisory Threat",
-      "title_original": "Siemens SCALANCE",
-      "summary_original": "View CSAF Summary SCALANCE W-700 IEEE 802.11n family before V6.6.0 are affected by multiple vulnerabilities. Siemens has released a new version for SCALANCE W-700 IEEE 802.11n family and recommends to update to the latest version. The fo...",
-      "published_display": "2026-04-21",
-      "id": "f0b463a0cc76"
+      "keywords": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Tahmini - Fact.MR CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Fact.MR Tahmini CCTV Camera Market Size, Share & Forecast to 2036 - Fact.MR CCTV Camera Market Size, Share & Forecast to 2036 Fact.MR IP Camera Video Surveillance",
+      "title_original": "CCTV Camera Market Size, Share & Forecast to 2036 - Fact.MR",
+      "summary_original": "CCTV Camera Market Size, Share & Forecast to 2036 Fact.MR",
+      "published_display": "2026-03-17",
+      "id": "0a92897e944f"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,111 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "015a81ebc793"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24",
-      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-02-11T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
-      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
-      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
-      "published_display": "2026-02-11",
-      "id": "3dbefd5879d4"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-29T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
-      "published_display": "2026-01-29",
-      "id": "fcce6214680e"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com",
-      "summary": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbDdnRUlISEd1TFpPMlhDbFhKbUVFLWprTEczS3JRYlBXUTNucVdfR0FocG5UNklVc3dlUkhYSk1waFZyRVY0eFdQbk1RSlVLeWRXTkc5dlNHLTBOTFV4ZQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-28T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com",
-      "summary_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com",
-      "published_display": "2026-01-28",
-      "id": "182b39606a08"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
-      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-08T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
-      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
-      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
-      "published_display": "2025-08-08",
-      "id": "009e6db74527"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
-      "summary": "ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-06T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
-      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
-      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
-      "published_display": "2025-08-06",
-      "id": "bb38b8b06d62"
+      "id": "3fd52ec52b0c"
     }
   ]
 }
