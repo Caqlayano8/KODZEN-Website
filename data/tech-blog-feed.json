@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-23T16:20:00Z",
-  "total_posts": 30,
+  "updated_at": "2026-04-23T17:00:14Z",
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 4,
     "siber": 6,
-    "kamera": 2
+    "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs",
+      "summary": "Temel sohbet tamamlamalarının ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için...",
+      "url": "https://devblogs.microsoft.com/blog/langchainjs-for-beginners",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-04-23T17:00:14Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs Temel sohbet tamamlamalarının ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için... LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for... Microsoft Dev Cloud",
+      "title_original": "LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript",
+      "summary_original": "Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for...",
+      "published_display": "2026-04-23",
+      "id": "b6d957f891ee"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,24 @@
       "id": "deb440fce479"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub, dağıtım güvenliğini artırmak için eBPF'yi nasıl kullanıyor?",
-      "summary": "Github'ın dağıtım araçlarındaki döngüsel bağımlılıkları tespit etmek ve önlemek için eBPF'yi nasıl kullandığını öğrenin. GitHub, dağıtım güvenliğini artırmak için eBPF'yi nasıl kullanıyor yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-04-16T16:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "TPU'larımızın giderek daha fazla talep gören yapay zeka iş yüklerini nasıl desteklediğini burada bulabilirsiniz.",
+      "summary": "Bu yeni videoyla Google'ın TPU'larının giderek daha zorlu yapay zeka iş yüklerini nasıl desteklediğini öğrenin.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-23T12:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Product",
+        "Google"
       ],
-      "keywords": "GitHub, dağıtım güvenliğini artırmak için eBPF'yi nasıl kullanıyor? Github'ın dağıtım araçlarındaki döngüsel bağımlılıkları tespit etmek ve önlemek için eBPF'yi nasıl kullandığını öğrenin. GitHub, dağıtım güvenliğini artırmak için eBPF'yi nasıl kullanıyor yazısı ilk olarak GitHub Blogunda yayınlandı. How GitHub uses eBPF to improve deployment safety Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "How GitHub uses eBPF to improve deployment safety",
-      "summary_original": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog .",
-      "published_display": "2026-04-16",
-      "id": "e9e020fa475d"
+      "keywords": "TPU'larımızın giderek daha fazla talep gören yapay zeka iş yüklerini nasıl desteklediğini burada bulabilirsiniz. Bu yeni videoyla Google'ın TPU'larının giderek daha zorlu yapay zeka iş yüklerini nasıl desteklediğini öğrenin. Here’s how our TPUs power increasingly demanding AI workloads. Learn how Google’s TPUs power increasingly demanding AI workloads with this new video. AI Product Google",
+      "title_original": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "summary_original": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "published_display": "2026-04-23",
+      "id": "cb339b342118"
     },
     {
       "category": "ai",
@@ -150,6 +170,26 @@
       "summary_original": "Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
       "published_display": "2026-04-23",
       "id": "96858bfd4299"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT-5.5 Biyolojik Hata Ödülü",
+      "summary": "GPT-5.5 Bio Bug Bounty'yi keşfedin: 25.000 $'a varan ödüllerle biyolojik güvenlik risklerine yönelik evrensel jailbreak'leri bulmaya yönelik kırmızı ekip mücadelesi.",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-04-23T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GPT-5.5 Biyolojik Hata Ödülü GPT-5.5 Bio Bug Bounty'yi keşfedin: 25.000 $'a varan ödüllerle biyolojik güvenlik risklerine yönelik evrensel jailbreak'leri bulmaya yönelik kırmızı ekip mücadelesi. GPT-5.5 Bio Bug Bounty Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000. AI OpenAI Model",
+      "title_original": "GPT-5.5 Bio Bug Bounty",
+      "summary_original": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+      "published_display": "2026-04-23",
+      "id": "d9105a61ad18"
     },
     {
       "category": "ai",
@@ -210,46 +250,6 @@
       "summary_original": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
       "published_display": "2026-04-22",
       "id": "70783e63fc4a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Responses API'deki WebSockets ile aracılı iş akışlarını hızlandırma",
-      "summary": "WebSockets ve bağlantı kapsamlı önbelleğe almanın API yükünü nasıl azalttığını ve model gecikmesini nasıl iyileştirdiğini gösteren Codex aracı döngüsüne derinlemesine bir bakış.",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-04-22T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Responses API'deki WebSockets ile aracılı iş akışlarını hızlandırma WebSockets ve bağlantı kapsamlı önbelleğe almanın API yükünü nasıl azalttığını ve model gecikmesini nasıl iyileştirdiğini gösteren Codex aracı döngüsüne derinlemesine bir bakış. Speeding up agentic workflows with WebSockets in the Responses API A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency. AI OpenAI Model",
-      "title_original": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "summary_original": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "published_display": "2026-04-22",
-      "id": "7c9859773f04"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Çalışma alanı aracıları",
-      "summary": "Tekrarlanabilir iş akışlarını otomatikleştirmek, araçları bağlamak ve ekip operasyonlarını kolaylaştırmak için ChatGPT'de çalışma alanı aracılarını nasıl oluşturacağınızı, kullanacağınızı ve ölçeklendireceğinizi öğrenin.",
-      "url": "https://openai.com/academy/workspace-agents",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-04-22T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Çalışma alanı aracıları Tekrarlanabilir iş akışlarını otomatikleştirmek, araçları bağlamak ve ekip operasyonlarını kolaylaştırmak için ChatGPT'de çalışma alanı aracılarını nasıl oluşturacağınızı, kullanacağınızı ve ölçeklendireceğinizi öğrenin. Workspace agents Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations. AI OpenAI Model",
-      "title_original": "Workspace agents",
-      "summary_original": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-      "published_display": "2026-04-22",
-      "id": "73f81727a15a"
     },
     {
       "category": "robotik",
@@ -574,26 +574,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "CCTV Kamera Pazar Büyüklüğü, Paylaşımı ve 2036 Yılına Kadar Tahmin - factmr.com",
-      "summary": "CCTV Kamera Pazar Büyüklüğü, Hisse ve 2036 Tahmini factmr.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15NUxPRXhoZ3N4Nk9aMnY3OFhvLUdOSGY4UUVkT0Fld0FWZGwwVEt4Wm9fZXl4VWh3b0s1TThuc2lxMHpDQmFnZ1hVaDJaTU0zQWhLc3lOS0FIV1Br?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-17T08:14:17Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "CCTV Kamera Pazar Büyüklüğü, Paylaşımı ve 2036 Yılına Kadar Tahmin - factmr.com CCTV Kamera Pazar Büyüklüğü, Hisse ve 2036 Tahmini factmr.com CCTV Camera Market Size, Share & Forecast to 2036 - factmr.com CCTV Camera Market Size, Share & Forecast to 2036 factmr.com IP Camera Video Surveillance",
-      "title_original": "CCTV Camera Market Size, Share & Forecast to 2036 - factmr.com",
-      "summary_original": "CCTV Camera Market Size, Share & Forecast to 2036 factmr.com",
-      "published_display": "2026-03-17",
-      "id": "94dd44059887"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
@@ -610,6 +590,106 @@
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
       "id": "3fd52ec52b0c"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24",
+      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-02-11T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
+      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
+      "published_display": "2026-02-11",
+      "id": "3dbefd5879d4"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-29T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
+      "published_display": "2026-01-29",
+      "id": "fcce6214680e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com",
+      "summary": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbDdnRUlISEd1TFpPMlhDbFhKbUVFLWprTEczS3JRYlBXUTNucVdfR0FocG5UNklVc3dlUkhYSk1waFZyRVY0eFdQbk1RSlVLeWRXTkc5dlNHLTBOTFV4ZQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-28T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com",
+      "summary_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com",
+      "published_display": "2026-01-28",
+      "id": "182b39606a08"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
+      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-08T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
+      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
+      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
+      "published_display": "2025-08-08",
+      "id": "009e6db74527"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
+      "summary": "ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-06T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
+      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
+      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
+      "published_display": "2025-08-06",
+      "id": "bb38b8b06d62"
     }
   ]
 }
