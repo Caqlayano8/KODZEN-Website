@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-04-22T17:00:09Z",
-  "total_posts": 34,
+  "total_posts": 30,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 4,
     "siber": 6,
-    "kamera": 6
+    "kamera": 2
   },
   "posts": [
     {
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub'ın durum sayfasına daha fazla şeffaflık getiriliyor",
-      "summary": "Durum sayfasında yapılan değişiklikler daha spesifik veriler sağlayacak ve böylece platformun genel durumu hakkında daha iyi fikir sahibi olacaksınız. GitHub’ın durum sayfasına daha fazla şeffaflık getirme yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Durum sayfasında yapılan değişiklikler daha spesifik veriler sağlayacak ve böylece platformun genel durumu hakkında daha iyi fikir sahibi olacaksınız. GitHub’un durum sayfasına daha fazla şeffaflık getirme yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub'ın durum sayfasına daha fazla şeffaflık getiriliyor Durum sayfasında yapılan değişiklikler daha spesifik veriler sağlayacak ve böylece platformun genel durumu hakkında daha iyi fikir sahibi olacaksınız. GitHub’ın durum sayfasına daha fazla şeffaflık getirme yazısı ilk olarak GitHub Blogunda göründü. Bringing more transparency to GitHub’s status page Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub'ın durum sayfasına daha fazla şeffaflık getiriliyor Durum sayfasında yapılan değişiklikler daha spesifik veriler sağlayacak ve böylece platformun genel durumu hakkında daha iyi fikir sahibi olacaksınız. GitHub’un durum sayfasına daha fazla şeffaflık getirme yazısı ilk olarak GitHub Blogunda göründü. Bringing more transparency to GitHub’s status page Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Bringing more transparency to GitHub’s status page",
       "summary_original": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog .",
       "published_display": "2026-04-17",
@@ -134,7 +134,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Her şey açıyla ilgili: Fotoğraflarınız yeniden oluşturuldu",
+      "title": "Her şey açıyla ilgili: Fotoğraflarınız yeniden düzenlendi",
       "summary": "Üretken Yapay Zeka",
       "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Reangle-hero.gif",
@@ -145,11 +145,11 @@
         "Research",
         "Google"
       ],
-      "keywords": "Her şey açıyla ilgili: Fotoğraflarınız yeniden oluşturuldu Üretken Yapay Zeka It's all about the angle: Your photos, re-composed Generative AI AI Research Google",
+      "keywords": "Her şey açıyla ilgili: Fotoğraflarınız yeniden düzenlendi Üretken Yapay Zeka It's all about the angle: Your photos, re-composed Generative AI AI Research Google",
       "title_original": "It's all about the angle: Your photos, re-composed",
       "summary_original": "Generative AI",
       "published_display": "2026-04-22",
-      "id": "310a2755e23e"
+      "id": "375864e44673"
     },
     {
       "category": "ai",
@@ -174,7 +174,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Ajanlık çağı için iki özel TPU'yu piyasaya sürüyoruz.",
+      "title": "Ajanlık dönemi için iki özel TPU'yu piyasaya sürüyoruz.",
       "summary": "Google'ın TPU'sunun sekizinci nesli, yapay zekanın geleceğine güç verecek iki özel çip içeriyor.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp",
@@ -185,11 +185,11 @@
         "Product",
         "Google"
       ],
-      "keywords": "Ajanlık çağı için iki özel TPU'yu piyasaya sürüyoruz. Google'ın TPU'sunun sekizinci nesli, yapay zekanın geleceğine güç verecek iki özel çip içeriyor. We're launching two specialized TPUs for the agentic era. The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI. AI Product Google",
+      "keywords": "Ajanlık dönemi için iki özel TPU'yu piyasaya sürüyoruz. Google'ın TPU'sunun sekizinci nesli, yapay zekanın geleceğine güç verecek iki özel çip içeriyor. We're launching two specialized TPUs for the agentic era. The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI. AI Product Google",
       "title_original": "We're launching two specialized TPUs for the agentic era.",
       "summary_original": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
       "published_display": "2026-04-22",
-      "id": "70783e63fc4a"
+      "id": "a6eaa0b71261"
     },
     {
       "category": "ai",
@@ -276,10 +276,10 @@
       "category_label": "Robotik",
       "title": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN",
       "summary": "Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTFwVFR4cW9Iei0xVlZxdE12ZDR0c2VxWGNMeURrN2NqdmxDc05vRS1KR0dfdmN0SXJaV0s0V3BIdzZabFBWVzZuTDBDbnRLdzFuUTBON1ROdHRQOGFoRDBXNTk2UURCZldoeGRNcXY4N2xvX29heFQ3R2FKU0VLVDZPTXZkR3NWOW1NNWR1YnNVcy13V3J2SkNIUzZYOEhWNmIzV0R1OGxZQjVOZk12MXcxRWt3UURpcTdN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQmhrdEFaMXVnNmFqVkJXQlk4Z2J0UlZvTGtXYVJpSUhxYVBEcEpnOG50RmV5QjhFcHgyczRPUjVBclI5RHNKYk8tWVJIcEpfVzF2UTE1ZnRpNTV0dEthLWVkUTFMVFI0OGtySkpXUHV2Y1dHR0lYMXl6RU1sWU1rcUFMMC0xQU0zMGtJYjZjZmVQZTNhZlZkN2F6bHkwX2FBVklFQnFmQThZVlp2RHczRnFVaGFPekNnM0Q4NHYxdFNQTXNYSWtNSFBXeTlvMHJCSmtFSExCR1JwZm8xejMyMG1vTTU1Rzc0a1VlODRFbUZwam9zU19Oc0xHM0dIaGs3ZHg4TDFRbm1OOWxJU1BzcmR6cTB1ZGZzX1ZkU3htZzNUV3R5OWJmcjlGMzZuNUh1Z0pwb1B5djVlUW1DaHc5dlBvVTZmSmpad0dKcTJ3OWg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-21T04:03:51Z",
+      "published_at": "2026-04-21T05:35:49Z",
       "tags": [
         "Robotics",
         "Automation",
@@ -289,7 +289,7 @@
       "title_original": "Skild AI acquires Zebra Technologies robotics automation business - MSN",
       "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
       "published_display": "2026-04-21",
-      "id": "74e9a223e019"
+      "id": "6f069f901560"
     },
     {
       "category": "robotik",
@@ -535,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens SINEC NMS",
-      "summary": "CSAF Özetini Görüntüleyin V4.0 SP3'ten önceki SINEC NMS, bir saldırganın yetkilendirme kontrollerini atlamasına olanak tanıyan ve herhangi bir rastgele kullanıcı hesabının parolasının sıfırlanmasına olanak tanıyan bir Yetkilendirmeyi Atlama güvenlik açığı içerir. Siemens...",
+      "summary": "CSAF Özetini Görüntüleyin V4.0 SP3'ten önceki SINEC NMS, bir saldırganın yetkilendirme kontrollerini atlamasına izin vererek herhangi bir rastgele kullanıcı hesabının parolasını sıfırlama olanağına yol açabilecek bir Yetkilendirmeyi Atlama güvenlik açığı içerir. Siemens...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-09",
       "image_url": null,
       "source": "CISA Advisories",
@@ -545,7 +545,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens SINEC NMS CSAF Özetini Görüntüleyin V4.0 SP3'ten önceki SINEC NMS, bir saldırganın yetkilendirme kontrollerini atlamasına olanak tanıyan ve herhangi bir rastgele kullanıcı hesabının parolasının sıfırlanmasına olanak tanıyan bir Yetkilendirmeyi Atlama güvenlik açığı içerir. Siemens... Siemens SINEC NMS View CSAF Summary SINEC NMS before V4.0 SP3 contains an Authorization Bypass vulnerability that could allow an attacker to bypass authorization checks, leading to the ability to reset the password of any arbitrary user account. Siemens h... CISA Advisory Threat",
+      "keywords": "Siemens SINEC NMS CSAF Özetini Görüntüleyin V4.0 SP3'ten önceki SINEC NMS, bir saldırganın yetkilendirme kontrollerini atlamasına izin vererek herhangi bir rastgele kullanıcı hesabının parolasını sıfırlama olanağına yol açabilecek bir Yetkilendirmeyi Atlama güvenlik açığı içerir. Siemens... Siemens SINEC NMS View CSAF Summary SINEC NMS before V4.0 SP3 contains an Authorization Bypass vulnerability that could allow an attacker to bypass authorization checks, leading to the ability to reset the password of any arbitrary user account. Siemens h... CISA Advisory Threat",
       "title_original": "Siemens SINEC NMS",
       "summary_original": "View CSAF Summary SINEC NMS before V4.0 SP3 contains an Authorization Bypass vulnerability that could allow an attacker to bypass authorization checks, leading to the ability to reset the password of any arbitrary user account. Siemens h...",
       "published_display": "2026-04-21",
@@ -574,7 +574,27 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "Hindistan, Hikvision ve Dahua CCTV Ürünlerinin Satışını Nisandan itibaren Yasaklayacak - CyberSecurityNews",
+      "summary": "Hindistan, Nisan Ayından İtibaren Hikvision ve Dahua CCTV Ürünlerinin Satışını Yasaklayacak CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpLTc5M3ZGZ3NLZzVDcDBqYWtVbXVwU0VXSzl5UXNVY3FSclk0RXRfZWphSGd0cTFINzJCTGNucXRUUFM2WVRkbVVNRjM0RUUzczlvUlcwc19SZmhmRGNzSGNFYW7SAWpBVV95cUxNUFBPS3F0S2QtUzN1eVRhc1hodmJpLTAyTVVyNnl2SnBDQ0RKT1NVemwyQ2wzcEdxdUVGQXR0bjk0Q2cxbUxZY1R1MEJ5N0dnUWYyVmtaWHNicGlhS25IY2hWMlhlWlo3b2t3?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-30T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hindistan, Hikvision ve Dahua CCTV Ürünlerinin Satışını Nisandan itibaren Yasaklayacak - CyberSecurityNews Hindistan, Nisan Ayından İtibaren Hikvision ve Dahua CCTV Ürünlerinin Satışını Yasaklayacak CyberSecurityNews India Set to Ban Sale of Hikvision, Dahua CCTV Products From April - CyberSecurityNews India Set to Ban Sale of Hikvision, Dahua CCTV Products From April CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "India Set to Ban Sale of Hikvision, Dahua CCTV Products From April - CyberSecurityNews",
+      "summary_original": "India Set to Ban Sale of Hikvision, Dahua CCTV Products From April CyberSecurityNews",
+      "published_display": "2026-03-30",
+      "id": "b4e1449cd0e0"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,111 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24",
-      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-02-11T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
-      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
-      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
-      "published_display": "2026-02-11",
-      "id": "10de1e0a18c3"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-29T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
-      "published_display": "2026-01-29",
-      "id": "fcce6214680e"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com",
-      "summary": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbDdnRUlISEd1TFpPMlhDbFhKbUVFLWprTEczS3JRYlBXUTNucVdfR0FocG5UNklVc3dlUkhYSk1waFZyRVY0eFdQbk1RSlVLeWRXTkc5dlNHLTBOTFV4ZQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-28T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com",
-      "summary_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com",
-      "published_display": "2026-01-28",
-      "id": "182b39606a08"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor - CyberSecurityNews",
-      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-12-11T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
-      "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
-      "published_display": "2025-12-11",
-      "id": "569f6edb4df3"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
-      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-08T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
-      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
-      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
-      "published_display": "2025-08-08",
-      "id": "009e6db74527"
+      "id": "27b0f26a0dc9"
     }
   ]
 }
