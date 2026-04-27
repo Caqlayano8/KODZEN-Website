@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-27T13:00:00Z",
-  "total_posts": 34,
+  "updated_at": "2026-04-27T15:58:22Z",
+  "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
-    "web": 4,
+    "web": 5,
     "siber": 6,
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot kullanıma dayalı faturalandırmaya geçiyor",
+      "summary": "1 Haziran'dan itibaren Copilot kullanımınız GitHub AI Kredilerini tüketecek. GitHub Copilot'un kullanıma dayalı faturalandırmaya geçtiği yazısı ilk olarak GitHub Blog'da göründü.",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-04-27T15:58:22Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Copilot kullanıma dayalı faturalandırmaya geçiyor 1 Haziran'dan itibaren Copilot kullanımınız GitHub AI Kredilerini tüketecek. GitHub Copilot'un kullanıma dayalı faturalandırmaya geçtiği yazısı ilk olarak GitHub Blog'da göründü. GitHub Copilot is moving to usage-based billing Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub Copilot is moving to usage-based billing",
+      "summary_original": "Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog .",
+      "published_display": "2026-04-27",
+      "id": "e4893bc6ca6c"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog .",
       "published_display": "2026-04-17",
       "id": "fb1fbf77406f"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub'ın durum sayfasına daha fazla şeffaflık getiriliyor",
-      "summary": "Durum sayfasında yapılan değişiklikler daha spesifik veriler sağlayacak ve böylece platformun genel durumu hakkında daha iyi fikir sahibi olacaksınız. GitHub’ın durum sayfasına daha fazla şeffaflık getirme yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-04-17T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub'ın durum sayfasına daha fazla şeffaflık getiriliyor Durum sayfasında yapılan değişiklikler daha spesifik veriler sağlayacak ve böylece platformun genel durumu hakkında daha iyi fikir sahibi olacaksınız. GitHub’ın durum sayfasına daha fazla şeffaflık getirme yazısı ilk olarak GitHub Blogunda göründü. Bringing more transparency to GitHub’s status page Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Bringing more transparency to GitHub’s status page",
-      "summary_original": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog .",
-      "published_display": "2026-04-17",
-      "id": "deb440fce479"
     },
     {
       "category": "ai",
@@ -254,26 +254,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN",
-      "summary": "Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOMWJySktmYk93Q21pb2k3X0h0aUZub1dCb2RxOWk4dG5PSFJLNWhka2RNaTFKdWlJRmlOeDNsSUdaU1lkQzRXUExMV3c0Yk5JaFNfUjA1RGxub05kdWJRbzJaR3Jkdkh5NThsR285R21ZUUNYTWx3a1VkcGFmWmk0aE50X1JLejI0cHRKR1MtckxEamJyNW85THdrQXd2WEJpcE5mVFZJTmphNUo0OHFXcFUyWlMxNzRVQ2QxME12TTZ5MmpRdEN2UU9zLTdKVXdVNEtIUGVQZU9HVHZKRWxtTmFJYmIyVElqNzFyWTV6S3ZyOGxkSG9URVhHTi1OQ1B6TnRQV0w1UDJ1b2JaaEgzU1hBUDdUMFZWSnlJUWxUMmhUTVRaRkhYZy12TUJhdko3WTBxX3dQZ19kYzVULVQ5R1B6U0tYUkZabXIyYVdYWUJvaDVQOWQxblgyR0RObXNpUkt3NU5QTExPZV9sWlJz?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-25T17:49:42Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı Skild AI acquires Zebra Technologies robotics automation business - MSN Skild AI acquires Zebra Technologies robotics automation business MSN Robotics Automation Industry",
-      "title_original": "Skild AI acquires Zebra Technologies robotics automation business - MSN",
-      "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
-      "published_display": "2026-04-25",
-      "id": "a560c7307aa5"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Flex ve Teradyne Robotics, küresel üretimde akıllı otomasyonu ölçeklendirmek için ortaklığını genişletiyor - Robotik ve Otomasyon Haberleri",
       "summary": "Flex ve Teradyne Robotics, küresel üretim genelinde akıllı otomasyonu ölçeklendirmek için ortaklığını genişletiyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWmd6YTBsdlNfZXFWa3E2QmJlTENqYlhQYWo0endiSUVqUGJDbnFjcFowaEx6aERyV2stMUJSTXRGWmtaNld1cDhGTGUzTXJhOHdobUllUDdPSU5wejlxWEgyd3AtTktTUEdkdS1JQVlkQjZ5WVhDc1cyOEpoYkszTUp5TGowQjFEVHpfaDR5SWFSX3ljSVJEOVhHT2dlZTZYeXRuVzVvVG5iNlIzMkd4YzZVRDRydnFWMzBzZk84OUFwcWw4NHRFcWRadm1RRUZGOEdHclZLQmFudDNkeWZ5VXk1c0xXbFhBV3NfZ01zem5yclRl?oc=5",
@@ -314,46 +294,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sanayi Bakanı T.G., Andhra Pradesh'in yapay zeka, robot teknolojisi, otomasyon ve elektrikli mobilite alanlarında geniş bir kapsam sunduğunu söyledi. Bharat - Hindu",
-      "summary": "Sanayi Bakanı T.G., Andhra Pradesh'in yapay zeka, robot teknolojisi, otomasyon ve elektrikli mobilite alanlarında geniş bir kapsam sunduğunu söyledi. Hindu Bharat",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOWpQZVROM0ZRdXZaYUw5X0pkazlKT1JDa0hYVVIydDdwR0JycFdhMXJZYktxX0hndWVHVFNfeWIxV2hXOS11dDVsWERodWdyaEpvUG5OeWUyVkFGM2ZlZ0ttZ3pfVUE1ZEdpejFYWjhNSTNhN2U2OWpUdUpHR1UtS0VFUlc3WVRYZlBjX0xQQy1sdjZZZkpfNjQ4THBiLV91cFlrVmlxaGVlazJ5Wk5hQmhVQmdFX3llOUpxUnZOTUx4N1NVbWVHMWZtaEJyTWxmZVlGclNWRjlsaGFDUnlyRWQ4UHJHQmdRVU1Pd2d4aHBsWGhWdE56OERUVkNaRjNUWGJic2Y0WXE4ZlRPdExBa281emV6aktI0gGfAkFVX3lxTFBMX2YtQ1hMSzNHbldMbkI3UXByVU1lZ29FR0xvUFhJVmFwV1YzTjlkZkFtcEpQY3g1cmN1cURyRFo4QkFLLWItaFNUc3dLNmpYZm50YXM1SXB1Z3Y2QlIzc2JEdnlic3dkZV9ielJWOFZMdm02cWMzVnhvRE1QU0xXcnA1QkIyUFBVUzE4YjlaRVpnRmpka0p1MFZVVmNkN2F0XzFUVVdnclJPVnA0WHcxV09ia2NEOHBKMzJscmluek5RWHRQVFpsQm1peFB0eUZDYng0Zl9UMFpxMTJ0cFdzVkdONk9yTlo5RnJmd05ZUlBYTzZreWtsUjlCLVgxZXdyNUwyR3RaeHdNeGVNdTM5UTVYZGRXY04zOFRmbF9B?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-23T15:02:01Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Sanayi Bakanı T.G., Andhra Pradesh'in yapay zeka, robot teknolojisi, otomasyon ve elektrikli mobilite alanlarında geniş bir kapsam sunduğunu söyledi. Bharat - Hindu Sanayi Bakanı T.G., Andhra Pradesh'in yapay zeka, robot teknolojisi, otomasyon ve elektrikli mobilite alanlarında geniş bir kapsam sunduğunu söyledi. Hindu Bharat Andhra Pradesh offers vast scope in AI, robotics, automation, and electric mobility, says Industries Minister T.G. Bharat - The Hindu Andhra Pradesh offers vast scope in AI, robotics, automation, and electric mobility, says Industries Minister T.G. Bharat The Hindu Robotics Automation Industry",
-      "title_original": "Andhra Pradesh offers vast scope in AI, robotics, automation, and electric mobility, says Industries Minister T.G. Bharat - The Hindu",
-      "summary_original": "Andhra Pradesh offers vast scope in AI, robotics, automation, and electric mobility, says Industries Minister T.G. Bharat The Hindu",
-      "published_display": "2026-04-23",
-      "id": "30c76bcd2705"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor - Robotik ve Otomasyon Haberleri",
-      "summary": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDJfajBmMXZRWUgxRk9YQjVOY0FuQzdadHJRTHd1a2UtcUdsbmJMbktkbmVhbzBUaXpaQXRSN1VKX0xUV3RHQnpzTkllMWdmc3ZXNi1wSDhBMXV6aW04el9SbFdzY0UxTzVBN3Z0Ny1TR1d4RjcyR1JLcGZfUWFSRjdIUFZQLXlDSWJaZ0UxSzFPZ0lacFhDRW81dTcwT3hreVZvU3ZqX1ctYXZ0ZWhhZjBwZ2VibXZhSWd1MQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-23T09:02:41Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor - Robotik ve Otomasyon Haberleri ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor Robotik ve Otomasyon Haberleri ABB Robotics launches high-speed PoWa collaborative robot range - Robotics & Automation News ABB Robotics launches high-speed PoWa collaborative robot range Robotics & Automation News Robotics Automation Industry",
-      "title_original": "ABB Robotics launches high-speed PoWa collaborative robot range - Robotics & Automation News",
-      "summary_original": "ABB Robotics launches high-speed PoWa collaborative robot range Robotics & Automation News",
-      "published_display": "2026-04-23",
-      "id": "d660c595b26c"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes",
       "summary": "Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
@@ -370,6 +310,86 @@
       "summary_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
       "published_display": "2026-04-17",
       "id": "3ba572b1538b"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Birimini Satın Aldı - Business Wire",
+      "summary": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Bağlantısını Satın Aldı",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1hmUldMc0dPeVdOYnJaZldfdnBGZFotakItektpZVVPcW9XT1hDdURFbmtQbDlqQ1pRQ25kNGRrbGl3b29ienYySW9acU1hRXFQMEsyMF9sRk5EeThyQXZTNmpOdE1ZRUpRalF0UTZrNmRKV01Zd0prelV5MFpYejNjY083YzFZYlpocEpOX1gwdW9Ma3NtSm1kMGFDelVFU2JKMVE0ZzN1OFhvVmN6MXlCUkFLaTZkMWN2T1Vfaw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-15T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Birimini Satın Aldı - Business Wire Skild AI, Zebra Technologies'in Robotik Otomasyon İş Bağlantısını Satın Aldı Skild AI Acquires Zebra Technologies' Robotics Automation Business - Business Wire Skild AI Acquires Zebra Technologies' Robotics Automation Business Business Wire Robotics Automation Industry",
+      "title_original": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Business Wire",
+      "summary_original": "Skild AI Acquires Zebra Technologies' Robotics Automation Business Business Wire",
+      "published_display": "2026-04-15",
+      "id": "9d51d2c26481"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Otonom Robotlar ve Tedarik Zincirinin Geleceği - Deloitte",
+      "summary": "Otonom Robotlar ve Tedarik Zincirinin Geleceği Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3Q3b2FkUVZsNFc2Q0tsbFc4OGVjbzhucjJjN0JMeDFXa0NET2lFekIwc2h6Qmh4dk81TTVyamplSXV4V203cEliYW41RTB6RFJCY1VLZm1hR3VRVmxPSFBITEJqSEFTYmtNWmM0Yl8yQV9FdXl0SzNmbm1qYUNGSkZhYWZTelpOZWp5ZklwQW03ZGRaellGUnRnMnJDd3BNUC1tZ2Ytcm9lS0ZBM0JUcDVITWM1dXZQLWxQZ0VR?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-12T06:36:33Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Otonom Robotlar ve Tedarik Zincirinin Geleceği - Deloitte Otonom Robotlar ve Tedarik Zincirinin Geleceği Deloitte Autonomous Robots and the Future of Supply Chain - Deloitte Autonomous Robots and the Future of Supply Chain Deloitte Robotics Automation Industry",
+      "title_original": "Autonomous Robots and the Future of Supply Chain - Deloitte",
+      "summary_original": "Autonomous Robots and the Future of Supply Chain Deloitte",
+      "published_display": "2026-04-12",
+      "id": "4fc701d1f721"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi - The Motley Fool",
+      "summary": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmszUHNFLVJYODRkTnJuT09DLVZSV0lCRmt5TWNSWEViWVhGYWlsQmVqbmdFWnJnU2dsMHk3SGQ1bHV6ZHVwc2VFYlJvM1BaZHdRMkFfZ1paTGZ5LWNSVVRrLVJhU0tFNnRZX1pDQVVZZU54SS1neE9tLS1BM1BuWjE3VmZVLUtXVnhsTTB3VzV5czZ4WXFJNE80MGVvcTA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-06T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi - The Motley Fool 2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi 8 Best Robotics Stocks to Buy in 2026 - The Motley Fool 8 Best Robotics Stocks to Buy in 2026 The Motley Fool Robotics Automation Industry",
+      "title_original": "8 Best Robotics Stocks to Buy in 2026 - The Motley Fool",
+      "summary_original": "8 Best Robotics Stocks to Buy in 2026 The Motley Fool",
+      "published_display": "2026-04-06",
+      "id": "7d8c6691ab5e"
+    },
+    {
+      "category": "web",
+      "category_label": "Web Tasarimi",
+      "title": "Nisan ayında web platformunda yeni",
+      "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
+      "image_url": null,
+      "source": "web.dev",
+      "published_at": "2026-04-24T07:00:00Z",
+      "tags": [
+        "Web",
+        "Performance",
+        "Frontend"
+      ],
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "title_original": "New to the web platform in April",
+      "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
+      "published_display": "2026-04-24",
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
