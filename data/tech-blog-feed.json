@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-04-28T18:41:00Z",
-  "total_posts": 31,
+  "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 5,
     "siber": 6,
-    "kamera": 2
+    "kamera": 6
   },
   "posts": [
     {
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme",
-      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
+      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
       "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
+      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
       "title_original": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
       "summary_original": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on...",
       "published_display": "2026-04-28",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs",
-      "summary": "Temel sohbet tamamlamalarının ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için...",
+      "summary": "Temel sohbet tamamlama işlemlerinin ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için...",
       "url": "https://devblogs.microsoft.com/blog/langchainjs-for-beginners",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs Temel sohbet tamamlamalarının ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için... LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for... Microsoft Dev Cloud",
+      "keywords": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs Temel sohbet tamamlama işlemlerinin ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için... LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for... Microsoft Dev Cloud",
       "title_original": "LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript",
       "summary_original": "Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for...",
       "published_display": "2026-04-23",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler",
-      "summary": "Google, Google Translate'in 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor.",
+      "summary": "Google, Google Çeviri'nin 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor.",
       "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -145,7 +145,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler Google, Google Translate'in 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor. Celebrating 20 years of Google Translate: Fun facts, tips and new features to try Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today. AI Product Google",
+      "keywords": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler Google, Google Çeviri'nin 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor. Celebrating 20 years of Google Translate: Fun facts, tips and new features to try Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today. AI Product Google",
       "title_original": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "summary_original": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
       "published_display": "2026-04-28",
@@ -194,7 +194,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Google ve Kaggle'ın sunduğu yeni AI Agents Vibe Kodlama Kursuna katılın",
+      "title": "Google ve Kaggle'ın yeni AI Agents Vibe Kodlama Kursuna katılın",
       "summary": "Google, Kaggle ile 5 Günlük Yapay Zeka Aracıları Yoğun Kursunu geri getiriyor ve kayıtlar açık.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp",
@@ -205,11 +205,11 @@
         "Product",
         "Google"
       ],
-      "keywords": "Google ve Kaggle'ın sunduğu yeni AI Agents Vibe Kodlama Kursuna katılın Google, Kaggle ile 5 Günlük Yapay Zeka Aracıları Yoğun Kursunu geri getiriyor ve kayıtlar açık. Join the new AI Agents Vibe Coding Course from Google and Kaggle Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open. AI Product Google",
+      "keywords": "Google ve Kaggle'ın yeni AI Agents Vibe Kodlama Kursuna katılın Google, Kaggle ile 5 Günlük Yapay Zeka Aracıları Yoğun Kursunu geri getiriyor ve kayıtlar açık. Join the new AI Agents Vibe Coding Course from Google and Kaggle Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open. AI Product Google",
       "title_original": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "summary_original": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
       "published_display": "2026-04-27",
-      "id": "95b04da58501"
+      "id": "dfd53c1a06e5"
     },
     {
       "category": "ai",
@@ -275,7 +275,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire",
-      "summary": "Dört OEM Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
+      "summary": "Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOENBeXRVUXVQQ1o3VVA3RUlqTXZzNWJ5SWZTQ0RyWGdycGJSdnRuNFV0dEdlRk5FR2pTOE1tdU9RbEpHVlcxZGVNSDZHeVdfSWJKcl9ZbzZoSEhhcU5xRjNtYWVpUUh3eExhWFdkYlZ6SG5VZEI5Nnl0YmFfWExsRlpXVm1tR0ZOYUVyNG1HVkJnb0ZkWXU5TXVpNURDejB4aTJPUkd6T2tWTXdsY3hvUUhUMDlhbFNCa3QxcVppNVpMaEN2Mmc?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
+      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
       "title_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire",
       "summary_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire",
       "published_display": "2026-04-28",
@@ -334,22 +334,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online",
-      "summary": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti Greenville Online",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnhiWS1tMXR0MnU5aDR2cTVVWnpkWFBTVjBpM2ZyUm9qM2Q4bWhrU1huN2FDX2M1c3B6bllzeVAxZUc1RFJ1UDFLSGQ4MGRUOW5VRlVfR0JBQU5kRGN3NXoyVnFiZk1FV3lxM3h3bk9WdnJrN0FWNU5GTl9JVXpMN3BoUGVhR3F2UGc4MEx5U2xOR1lZdHlfSlhNaGgtYzdxMkczaEN1RTFQOHItaHc5NDEwblZVdjJaS01jVFFPekJ0Z2FGZVhlT1BnX3d3WFMzVVFEVg?oc=5",
+      "title": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN",
+      "summary": "Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQU0hXby1vYVRaSVJJME5hX0E5Y2s3ck1HWHlWeThiRjJKWHJ2U0Rfb1Fnb2lUdEpPU1RVT1luN3NNY2NHeXgtVTE5Y3ltUE95WmhxbEd2NFoteEdjTjlsVXl3VGdLZnhWdjV0bURPeFNIWC1obTBqRU9oX2J3RW9XcmU2RjBRSV9veTBmc0pEa3FFWnpEcWhBNUtlTUtpWDhPVV90aGt3cjhlOEVTU2RSWDdoMnJZTnViZkRxUjFSai1oNXp2cTJnU0ZxY2YtOFJMR2FmTEZRNXhJY2ZhVHowRGN5YUp4ZzFxdGZ1djRXV3d3aGFZdHJ3TmFjbG9YVEp0VGc1YzR1TlM0VTc2cjAwcFpNb2t5em9RMWdYcFdaeGNGTzUySVd0NDVOcUFSeERudEkzNldSMVVCN1RUVWcwMTk0aFJCVXVSVG5nMjllcWpmdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-23T16:20:00Z",
+      "published_at": "2026-04-21T05:35:50Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti Greenville Online German robotics, automation company picks Greenville for headquarters - Greenville Online German robotics, automation company picks Greenville for headquarters Greenville Online Robotics Automation Industry",
-      "title_original": "German robotics, automation company picks Greenville for headquarters - Greenville Online",
-      "summary_original": "German robotics, automation company picks Greenville for headquarters Greenville Online",
-      "published_display": "2026-04-23",
-      "id": "37d77e2b9bd5"
+      "keywords": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı Skild AI acquires Zebra Technologies robotics automation business - MSN Skild AI acquires Zebra Technologies robotics automation business MSN Robotics Automation Industry",
+      "title_original": "Skild AI acquires Zebra Technologies robotics automation business - MSN",
+      "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
+      "published_display": "2026-04-21",
+      "id": "c67398ef3069"
     },
     {
       "category": "robotik",
@@ -359,7 +359,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-17T07:00:00Z",
+      "published_at": "2026-04-17T06:15:00Z",
       "tags": [
         "Robotics",
         "Automation",
@@ -374,7 +374,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -534,7 +534,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "ATEŞLEYİCİ Arka Kapı",
+      "title": "ATEŞ BAŞLATICI Arka Kapı",
       "summary": "Bir Bakışta Kötü Amaçlı Yazılım Analizi Raporu Kötü Amaçlı Yazılım Adı FIRESTARTER Orijinal Yayını 23 Nisan 2026 Yönetici Özeti Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), bir adli kurumdan elde edilen bir FIRESTARTER kötü amaçlı yazılım örneğini analiz etti.",
       "url": "https://www.cisa.gov/news-events/analysis-reports/ar26-113a",
       "image_url": null,
@@ -545,11 +545,11 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "ATEŞLEYİCİ Arka Kapı Bir Bakışta Kötü Amaçlı Yazılım Analizi Raporu Kötü Amaçlı Yazılım Adı FIRESTARTER Orijinal Yayını 23 Nisan 2026 Yönetici Özeti Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), bir adli kurumdan elde edilen bir FIRESTARTER kötü amaçlı yazılım örneğini analiz etti. FIRESTARTER Backdoor Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a foren... CISA Advisory Threat",
+      "keywords": "ATEŞ BAŞLATICI Arka Kapı Bir Bakışta Kötü Amaçlı Yazılım Analizi Raporu Kötü Amaçlı Yazılım Adı FIRESTARTER Orijinal Yayını 23 Nisan 2026 Yönetici Özeti Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), bir adli kurumdan elde edilen bir FIRESTARTER kötü amaçlı yazılım örneğini analiz etti. FIRESTARTER Backdoor Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a foren... CISA Advisory Threat",
       "title_original": "FIRESTARTER Backdoor",
       "summary_original": "Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a foren...",
       "published_display": "2026-04-23",
-      "id": "af8b1f1441f4"
+      "id": "c7efbafddead"
     },
     {
       "category": "siber",
@@ -575,7 +575,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Yadea T5 Elektrikli Bisiklet",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, saldırganın bisikletin kilidini açıp çalıştırabilmesine ve dolayısıyla araç hırsızlığına yol açabilir. Yadea T5 Elektrikli Bisikletin aşağıdaki versiyonları etkilenmektedir: T5 Elektrikli Bisiklet...",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, saldırganın bisikletin kilidini açıp çalıştırabilmesine ve bu da araç hırsızlığına yol açabilir. Yadea T5 Elektrikli Bisikletin aşağıdaki versiyonları etkilenmektedir: T5 Elektrikli Bisiklet...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -585,7 +585,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Yadea T5 Elektrikli Bisiklet CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, saldırganın bisikletin kilidini açıp çalıştırabilmesine ve dolayısıyla araç hırsızlığına yol açabilir. Yadea T5 Elektrikli Bisikletin aşağıdaki versiyonları etkilenmektedir: T5 Elektrikli Bisiklet... Yadea T5 Electric Bicycle View CSAF Summary Successful exploitation of this vulnerability could result in an attacker being able to unlock and start the bicycle, leading to vehicle theft. The following versions of Yadea T5 Electric Bicycle are affected: T5 Electr... CISA Advisory Threat",
+      "keywords": "Yadea T5 Elektrikli Bisiklet CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, saldırganın bisikletin kilidini açıp çalıştırabilmesine ve bu da araç hırsızlığına yol açabilir. Yadea T5 Elektrikli Bisikletin aşağıdaki versiyonları etkilenmektedir: T5 Elektrikli Bisiklet... Yadea T5 Electric Bicycle View CSAF Summary Successful exploitation of this vulnerability could result in an attacker being able to unlock and start the bicycle, leading to vehicle theft. The following versions of Yadea T5 Electric Bicycle are affected: T5 Electr... CISA Advisory Threat",
       "title_original": "Yadea T5 Electric Bicycle",
       "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker being able to unlock and start the bicycle, leading to vehicle theft. The following versions of Yadea T5 Electric Bicycle are affected: T5 Electr...",
       "published_display": "2026-04-23",
@@ -614,22 +614,102 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Tahmini - Fact.MR",
-      "summary": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Fact.MR Tahmini",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15NUxPRXhoZ3N4Nk9aMnY3OFhvLUdOSGY4UUVkT0Fld0FWZGwwVEt4Wm9fZXl4VWh3b0s1TThuc2lxMHpDQmFnZ1hVaDJaTU0zQWhLc3lOS0FIV1Br?oc=5",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-03-17T08:14:17Z",
+      "published_at": "2026-03-11T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Tahmini - Fact.MR CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Fact.MR Tahmini CCTV Camera Market Size, Share & Forecast to 2036 - Fact.MR CCTV Camera Market Size, Share & Forecast to 2036 Fact.MR IP Camera Video Surveillance",
-      "title_original": "CCTV Camera Market Size, Share & Forecast to 2036 - Fact.MR",
-      "summary_original": "CCTV Camera Market Size, Share & Forecast to 2036 Fact.MR",
-      "published_display": "2026-03-17",
-      "id": "0a92897e944f"
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
+      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
+      "published_display": "2026-03-11",
+      "id": "651206b2fe26"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24",
+      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-02-11T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
+      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
+      "published_display": "2026-02-11",
+      "id": "10de1e0a18c3"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-29T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
+      "published_display": "2026-01-29",
+      "id": "3d63787c804b"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com",
+      "summary": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbDdnRUlISEd1TFpPMlhDbFhKbUVFLWprTEczS3JRYlBXUTNucVdfR0FocG5UNklVc3dlUkhYSk1waFZyRVY0eFdQbk1RSlVLeWRXTkc5dlNHLTBOTFV4ZQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-28T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com",
+      "summary_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com",
+      "published_display": "2026-01-28",
+      "id": "182b39606a08"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews",
+      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-12-11T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
+      "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
+      "published_display": "2025-12-11",
+      "id": "feaf9899af14"
     }
   ]
 }
