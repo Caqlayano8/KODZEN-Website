@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme",
-      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl doğruladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
+      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
       "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl doğruladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
+      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
       "title_original": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
       "summary_original": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on...",
       "published_display": "2026-04-28",
@@ -154,6 +154,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Goblinler nereden geldi?",
+      "summary": "Goblin çıktılarının yapay zeka modellerinde nasıl yayıldığı: zaman çizelgesi, temel neden ve GPT-5 davranışındaki kişilik odaklı tuhaflıkların ardındaki düzeltmeler.",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-04-29T20:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Goblinler nereden geldi? Goblin çıktılarının yapay zeka modellerinde nasıl yayıldığı: zaman çizelgesi, temel neden ve GPT-5 davranışındaki kişilik odaklı tuhaflıkların ardındaki düzeltmeler. Where the goblins came from How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior. AI OpenAI Model",
+      "title_original": "Where the goblins came from",
+      "summary_original": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "published_display": "2026-04-29",
+      "id": "646c4bc6dbe1"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "İstihbarat Çağı için bilgi işlem altyapısının oluşturulması",
       "summary": "OpenAI, AGI'yi güçlendiren bilgi işlem altyapısını oluşturmak için Stargate'i ölçeklendiriyor ve artan yapay zeka talebini karşılamak için yeni veri merkezi kapasitesi ekliyor.",
       "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
@@ -232,30 +252,10 @@
       "id": "2eaa50bbb082"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Toplum güvenliğine olan bağlılığımız",
-      "summary": "OpenAI'nin model korumaları, kötüye kullanım tespiti, politika uygulama ve güvenlik uzmanlarıyla işbirliği yoluyla ChatGPT'de topluluk güvenliğini nasıl koruduğunu öğrenin.",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-04-28T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Toplum güvenliğine olan bağlılığımız OpenAI'nin model korumaları, kötüye kullanım tespiti, politika uygulama ve güvenlik uzmanlarıyla işbirliği yoluyla ChatGPT'de topluluk güvenliğini nasıl koruduğunu öğrenin. Our commitment to community safety Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts. AI OpenAI Model",
-      "title_original": "Our commitment to community safety",
-      "summary_original": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "published_display": "2026-04-28",
-      "id": "3ea5cd75ffc1"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Hiroshi Fujiwara ve Robert Little, 2026 Joseph F. Engelberger Robotik Ödülleri'ne Seçildi - 01net",
-      "summary": "Hiroshi Fujiwara ve Robert Little, 2026 Joseph F. Engelberger Robotik Ödülleri'ne Seçildi 01net",
+      "summary": "Hiroshi Fujiwara ve Robert Little 2026 Joseph F. Engelberger Robotik Ödülleri'ne Seçildi 01net",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2tnSk5tLXVuby14RXBKdFFibHhRX1hWSW9VVVVBc3pxZ1N6cUUxanhtaVNQZmxPN2dianc3TllTczJIbmV2LV9MS2tfczhHQkQ5QTVRYVczdGJ2djQ0RTU5UUJ5eUJUZjRXWUg5ZWZVUEVUb2x0SlFyWU9jLXVBcVBZeEFQTUZSOTdqNlhoUzZZWEE4Skt1ck1KYy1xOTZNTDV4ejhOaWY0cG1nUUhueA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,7 +265,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Hiroshi Fujiwara ve Robert Little, 2026 Joseph F. Engelberger Robotik Ödülleri'ne Seçildi - 01net Hiroshi Fujiwara ve Robert Little, 2026 Joseph F. Engelberger Robotik Ödülleri'ne Seçildi 01net Hiroshi Fujiwara and Robert Little Selected for 2026 Joseph F. Engelberger Robotics Awards - 01net Hiroshi Fujiwara and Robert Little Selected for 2026 Joseph F. Engelberger Robotics Awards 01net Robotics Automation Industry",
+      "keywords": "Hiroshi Fujiwara ve Robert Little, 2026 Joseph F. Engelberger Robotik Ödülleri'ne Seçildi - 01net Hiroshi Fujiwara ve Robert Little 2026 Joseph F. Engelberger Robotik Ödülleri'ne Seçildi 01net Hiroshi Fujiwara and Robert Little Selected for 2026 Joseph F. Engelberger Robotics Awards - 01net Hiroshi Fujiwara and Robert Little Selected for 2026 Joseph F. Engelberger Robotics Awards 01net Robotics Automation Industry",
       "title_original": "Hiroshi Fujiwara and Robert Little Selected for 2026 Joseph F. Engelberger Robotics Awards - 01net",
       "summary_original": "Hiroshi Fujiwara and Robert Little Selected for 2026 Joseph F. Engelberger Robotics Awards 01net",
       "published_display": "2026-04-28",
@@ -275,7 +275,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire",
-      "summary": "Dört OEM Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
+      "summary": "Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOENBeXRVUXVQQ1o3VVA3RUlqTXZzNWJ5SWZTQ0RyWGdycGJSdnRuNFV0dEdlRk5FR2pTOE1tdU9RbEpHVlcxZGVNSDZHeVdfSWJKcl9ZbzZoSEhhcU5xRjNtYWVpUUh3eExhWFdkYlZ6SG5VZEI5Nnl0YmFfWExsRlpXVm1tR0ZOYUVyNG1HVkJnb0ZkWXU5TXVpNURDejB4aTJPUkd6T2tWTXdsY3hvUUhUMDlhbFNCa3QxcVppNVpMaEN2Mmc?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
+      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
       "title_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire",
       "summary_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire",
       "published_display": "2026-04-28",
@@ -314,8 +314,48 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN",
+      "summary": "Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOejBsamM1a0NCVF9RMURObmlrLXZrYUp1YVVVVTNzUHl2R0FaLXNiVFV4WXlkZlVuUlo3Nkc3LXVBZE9US0xUV01WdE41YnhqaGpsVTY3ZTFFb1J4WlRWT19DRlhDajE5Q0N6N3lycVcteFVKVFJiT2t4UXhzTTduWVN1WnAyLUc1aWhlVS02R3hJYmIwRVRoRHg2RThtN3lEWWhJdWRNMnNFLTN3anZMZmZCLVd1bnUwMkpvZ1ROOVVnX21KWlZ6SlR4RkhnWG5WSlVqbW1kMHlWOVF1aVZ1akY3T2x2c3ZLc1o3TXRjMGR5OEJjMUxWNDR4T3ZPZkkyV0V6UkRZVEMwT1NfaVQxM2ZuQ2xQa3AxdlVGZENSbzRReUVKVm5PYTdHLUZpdVZhenlCWmFva1FKWXZrVFBKSDJKaHc0UTVsTG9oVklsNWo5ODNvc2o2aWxobGpkR2sxNzlJOElyZTRQU253ajI0?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-26T06:35:48Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı Skild AI acquires Zebra Technologies robotics automation business - MSN Skild AI acquires Zebra Technologies robotics automation business MSN Robotics Automation Industry",
+      "title_original": "Skild AI acquires Zebra Technologies robotics automation business - MSN",
+      "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
+      "published_display": "2026-04-26",
+      "id": "445efec742f5"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Eczane Otomasyon Pazarında Robotik 15,68 Dolara Ulaşacak - openPR.com",
+      "summary": "Eczane Otomasyon Pazarında Robotik 15,68 Dolara Ulaşacak openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ3ZrS0dhLS01bkF6QjhzRWpodnJxRzB5QnEyaFdSUU5ad29EN21aeGxKNkxuQWRQUWQzcmtOUnktaklqSXJpSVZJRzR0VHJ2YzJZTTRPNkg5enQ1WWFfWnE2RjFxZ1ZLNHprYXN4aS1zSzNFamg2WjdNUmdTVm4xVzh0Q3N2THZSVmN1Nl9vM2F5cEgwd0pRSA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-24T06:34:07Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Eczane Otomasyon Pazarında Robotik 15,68 Dolara Ulaşacak - openPR.com Eczane Otomasyon Pazarında Robotik 15,68 Dolara Ulaşacak openPR.com Robotics in Pharmacy Automation Market to Reach USD 15.68 - openPR.com Robotics in Pharmacy Automation Market to Reach USD 15.68 openPR.com Robotics Automation Industry",
+      "title_original": "Robotics in Pharmacy Automation Market to Reach USD 15.68 - openPR.com",
+      "summary_original": "Robotics in Pharmacy Automation Market to Reach USD 15.68 openPR.com",
+      "published_display": "2026-04-24",
+      "id": "c04279fc8675"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online",
-      "summary": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti Greenville Online",
+      "summary": "Alman robotik ve otomasyon şirketi Greenville Online'ın genel merkezi için Greenville'i seçti",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnhiWS1tMXR0MnU5aDR2cTVVWnpkWFBTVjBpM2ZyUm9qM2Q4bWhrU1huN2FDX2M1c3B6bllzeVAxZUc1RFJ1UDFLSGQ4MGRUOW5VRlVfR0JBQU5kRGN3NXoyVnFiZk1FV3lxM3h3bk9WdnJrN0FWNU5GTl9JVXpMN3BoUGVhR3F2UGc4MEx5U2xOR1lZdHlfSlhNaGgtYzdxMkczaEN1RTFQOHItaHc5NDEwblZVdjJaS01jVFFPekJ0Z2FGZVhlT1BnX3d3WFMzVVFEVg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,51 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti Greenville Online German robotics, automation company picks Greenville for headquarters - Greenville Online German robotics, automation company picks Greenville for headquarters Greenville Online Robotics Automation Industry",
+      "keywords": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online Alman robotik ve otomasyon şirketi Greenville Online'ın genel merkezi için Greenville'i seçti German robotics, automation company picks Greenville for headquarters - Greenville Online German robotics, automation company picks Greenville for headquarters Greenville Online Robotics Automation Industry",
       "title_original": "German robotics, automation company picks Greenville for headquarters - Greenville Online",
       "summary_original": "German robotics, automation company picks Greenville for headquarters Greenville Online",
       "published_display": "2026-04-23",
       "id": "37d77e2b9bd5"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor - Robotik ve Otomasyon Haberleri",
-      "summary": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDJfajBmMXZRWUgxRk9YQjVOY0FuQzdadHJRTHd1a2UtcUdsbmJMbktkbmVhbzBUaXpaQXRSN1VKX0xUV3RHQnpzTkllMWdmc3ZXNi1wSDhBMXV6aW04el9SbFdzY0UxTzVBN3Z0Ny1TR1d4RjcyR1JLcGZfUWFSRjdIUFZQLXlDSWJaZ0UxSzFPZ0lacFhDRW81dTcwT3hreVZvU3ZqX1ctYXZ0ZWhhZjBwZ2VibXZhSWd1MQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-23T09:02:41Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor - Robotik ve Otomasyon Haberleri ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor Robotik ve Otomasyon Haberleri ABB Robotics launches high-speed PoWa collaborative robot range - Robotics & Automation News ABB Robotics launches high-speed PoWa collaborative robot range Robotics & Automation News Robotics Automation Industry",
-      "title_original": "ABB Robotics launches high-speed PoWa collaborative robot range - Robotics & Automation News",
-      "summary_original": "ABB Robotics launches high-speed PoWa collaborative robot range Robotics & Automation News",
-      "published_display": "2026-04-23",
-      "id": "d660c595b26c"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN",
-      "summary": "Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQU0hXby1vYVRaSVJJME5hX0E5Y2s3ck1HWHlWeThiRjJKWHJ2U0Rfb1Fnb2lUdEpPU1RVT1luN3NNY2NHeXgtVTE5Y3ltUE95WmhxbEd2NFoteEdjTjlsVXl3VGdLZnhWdjV0bURPeFNIWC1obTBqRU9oX2J3RW9XcmU2RjBRSV9veTBmc0pEa3FFWnpEcWhBNUtlTUtpWDhPVV90aGt3cjhlOEVTU2RSWDdoMnJZTnViZkRxUjFSai1oNXp2cTJnU0ZxY2YtOFJMR2FmTEZRNXhJY2ZhVHowRGN5YUp4ZzFxdGZ1djRXV3d3aGFZdHJ3TmFjbG9YVEp0VGc1YzR1TlM0VTc2cjAwcFpNb2t5em9RMWdYcFdaeGNGTzUySVd0NDVOcUFSeERudEkzNldSMVVCN1RUVWcwMTk0aFJCVXVSVG5nMjllcWpmdw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-21T05:35:50Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı Skild AI acquires Zebra Technologies robotics automation business - MSN Skild AI acquires Zebra Technologies robotics automation business MSN Robotics Automation Industry",
-      "title_original": "Skild AI acquires Zebra Technologies robotics automation business - MSN",
-      "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
-      "published_display": "2026-04-21",
-      "id": "c67398ef3069"
     },
     {
       "category": "web",
@@ -575,7 +575,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Güvenliği Tehlikeye Giren Cihazlardan Oluşan Çin-Nexus Gizli Ağlarına Karşı Savunma",
-      "summary": "Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma yönetici özeti Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma Taktik, teknik ve prosedürlerdeki (TTP'ler) yaygın değişimi açıklamak...",
+      "summary": "Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma yönetici özeti Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma Taktik, teknik ve prosedürlerde (TTP'ler) yaygın değişimi açıklamak...",
       "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a",
       "image_url": "https://www.cisa.gov/sites/default/files/styles/large/public/2026-04/A%20diagram%20illustrating%20the%20basic%20setup%20of%20a%20covert%20network..png?itok=3Bfm4nKj",
       "source": "CISA Advisories",
@@ -585,7 +585,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Güvenliği Tehlikeye Giren Cihazlardan Oluşan Çin-Nexus Gizli Ağlarına Karşı Savunma Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma yönetici özeti Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma Taktik, teknik ve prosedürlerdeki (TTP'ler) yaygın değişimi açıklamak... Defending Against China-Nexus Covert Networks of Compromised Devices Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towa... CISA Advisory Threat",
+      "keywords": "Güvenliği Tehlikeye Giren Cihazlardan Oluşan Çin-Nexus Gizli Ağlarına Karşı Savunma Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma yönetici özeti Çin-nexus gizli ele geçirilmiş cihaz ağlarına karşı savunma Taktik, teknik ve prosedürlerde (TTP'ler) yaygın değişimi açıklamak... Defending Against China-Nexus Covert Networks of Compromised Devices Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towa... CISA Advisory Threat",
       "title_original": "Defending Against China-Nexus Covert Networks of Compromised Devices",
       "summary_original": "Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towa...",
       "published_display": "2026-04-23",
@@ -594,7 +594,27 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "Hindistan, Hikvision ve Dahua CCTV Ürünlerinin Satışını Nisandan itibaren Yasaklayacak - CyberSecurityNews",
+      "summary": "Hindistan, Nisan Ayından İtibaren Hikvision ve Dahua CCTV Ürünlerinin Satışını Yasaklayacak CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpLTc5M3ZGZ3NLZzVDcDBqYWtVbXVwU0VXSzl5UXNVY3FSclk0RXRfZWphSGd0cTFINzJCTGNucXRUUFM2WVRkbVVNRjM0RUUzczlvUlcwc19SZmhmRGNzSGNFYW7SAWpBVV95cUxNUFBPS3F0S2QtUzN1eVRhc1hodmJpLTAyTVVyNnl2SnBDQ0RKT1NVemwyQ2wzcEdxdUVGQXR0bjk0Q2cxbUxZY1R1MEJ5N0dnUWYyVmtaWHNicGlhS25IY2hWMlhlWlo3b2t3?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-30T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hindistan, Hikvision ve Dahua CCTV Ürünlerinin Satışını Nisandan itibaren Yasaklayacak - CyberSecurityNews Hindistan, Nisan Ayından İtibaren Hikvision ve Dahua CCTV Ürünlerinin Satışını Yasaklayacak CyberSecurityNews India Set to Ban Sale of Hikvision, Dahua CCTV Products From April - CyberSecurityNews India Set to Ban Sale of Hikvision, Dahua CCTV Products From April CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "India Set to Ban Sale of Hikvision, Dahua CCTV Products From April - CyberSecurityNews",
+      "summary_original": "India Set to Ban Sale of Hikvision, Dahua CCTV Products From April CyberSecurityNews",
+      "published_display": "2026-03-30",
+      "id": "b4e1449cd0e0"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -605,37 +625,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "651206b2fe26"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24",
-      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-02-11T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
-      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
-      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
-      "published_display": "2026-02-11",
-      "id": "10de1e0a18c3"
+      "id": "27b0f26a0dc9"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,7 +645,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
