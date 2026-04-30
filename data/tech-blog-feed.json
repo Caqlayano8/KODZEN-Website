@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme",
-      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
+      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl doğruladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
       "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
+      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl doğruladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
       "title_original": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
       "summary_original": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on...",
       "published_display": "2026-04-28",
@@ -130,6 +130,26 @@
       "summary_original": "Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for...",
       "published_display": "2026-04-23",
       "id": "b6d957f891ee"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Gelişmiş Hesap Güvenliğiyle Tanışın",
+      "summary": "Gelişmiş Hesap Güvenliğiyle Tanışın: Kimlik avına karşı korumalı oturum açma, daha güçlü kurtarma ve hassas verileri korumak ve hesabın ele geçirilmesini önlemek için gelişmiş korumalar.",
+      "url": "https://openai.com/index/advanced-account-security",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-04-30T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Gelişmiş Hesap Güvenliğiyle Tanışın Gelişmiş Hesap Güvenliğiyle Tanışın: Kimlik avına karşı korumalı oturum açma, daha güçlü kurtarma ve hassas verileri korumak ve hesabın ele geçirilmesini önlemek için gelişmiş korumalar. Introducing Advanced Account Security Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover. AI OpenAI Model",
+      "title_original": "Introducing Advanced Account Security",
+      "summary_original": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "published_display": "2026-04-30",
+      "id": "0771885b543c"
     },
     {
       "category": "ai",
@@ -215,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler",
-      "summary": "Google, Google Translate'in 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor.",
+      "summary": "Google, Google Çeviri'nin 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor.",
       "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -225,31 +245,11 @@
         "Product",
         "Google"
       ],
-      "keywords": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler Google, Google Translate'in 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor. Celebrating 20 years of Google Translate: Fun facts, tips and new features to try Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today. AI Product Google",
+      "keywords": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler Google, Google Çeviri'nin 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor. Celebrating 20 years of Google Translate: Fun facts, tips and new features to try Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today. AI Product Google",
       "title_original": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "summary_original": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
       "published_display": "2026-04-28",
       "id": "892e5e644df9"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI modelleri, Codex ve Managed Agent'lar AWS'ye geliyor",
-      "summary": "OpenAI GPT modelleri, Codex ve Yönetilen Aracılar artık AWS'de mevcut olup, kuruluşların AWS ortamlarında güvenli yapay zeka oluşturmasına olanak tanır.",
-      "url": "https://openai.com/index/openai-on-aws",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-04-28T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI modelleri, Codex ve Managed Agent'lar AWS'ye geliyor OpenAI GPT modelleri, Codex ve Yönetilen Aracılar artık AWS'de mevcut olup, kuruluşların AWS ortamlarında güvenli yapay zeka oluşturmasına olanak tanır. OpenAI models, Codex, and Managed Agents come to AWS OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments. AI OpenAI Model",
-      "title_original": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "summary_original": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "published_display": "2026-04-28",
-      "id": "2eaa50bbb082"
     },
     {
       "category": "robotik",
@@ -354,22 +354,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes",
-      "summary": "Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
+      "title": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online",
+      "summary": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti Greenville Online",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnhiWS1tMXR0MnU5aDR2cTVVWnpkWFBTVjBpM2ZyUm9qM2Q4bWhrU1huN2FDX2M1c3B6bllzeVAxZUc1RFJ1UDFLSGQ4MGRUOW5VRlVfR0JBQU5kRGN3NXoyVnFiZk1FV3lxM3h3bk9WdnJrN0FWNU5GTl9JVXpMN3BoUGVhR3F2UGc4MEx5U2xOR1lZdHlfSlhNaGgtYzdxMkczaEN1RTFQOHItaHc5NDEwblZVdjJaS01jVFFPekJ0Z2FGZVhlT1BnX3d3WFMzVVFEVg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-17T07:00:00Z",
+      "published_at": "2026-04-23T16:20:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes Robotics Automation Industry",
-      "title_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes",
-      "summary_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
-      "published_display": "2026-04-17",
-      "id": "3ba572b1538b"
+      "keywords": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti Greenville Online German robotics, automation company picks Greenville for headquarters - Greenville Online German robotics, automation company picks Greenville for headquarters Greenville Online Robotics Automation Industry",
+      "title_original": "German robotics, automation company picks Greenville for headquarters - Greenville Online",
+      "summary_original": "German robotics, automation company picks Greenville for headquarters Greenville Online",
+      "published_display": "2026-04-23",
+      "id": "37d77e2b9bd5"
     },
     {
       "category": "web",
