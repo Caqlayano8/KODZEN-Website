@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-30T14:00:00Z",
+  "updated_at": "2026-04-30T16:09:02Z",
   "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni Başlayanlar için GitHub Copilot CLI: Etkileşimli ve etkileşimli olmayan mod",
+      "summary": "CLI etkileşimli ve etkileşimli olmayan modlar arasındaki farkı öğrenin. Yeni Başlayanlar için GitHub Copilot CLI: Etkileşimli ve etkileşimli olmayan mod yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-04-30T16:09:02Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yeni Başlayanlar için GitHub Copilot CLI: Etkileşimli ve etkileşimli olmayan mod CLI etkileşimli ve etkileşimli olmayan modlar arasındaki farkı öğrenin. Yeni Başlayanlar için GitHub Copilot CLI: Etkileşimli ve etkileşimli olmayan mod yazısı ilk olarak GitHub Blogunda göründü. GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode Learn the difference between CLI interactive v. non-interactive modes. The post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
+      "summary_original": "Learn the difference between CLI interactive v. non-interactive modes. The post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog .",
+      "published_display": "2026-04-30",
+      "id": "db028b754914"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme",
-      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
+      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
       "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
+      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
       "title_original": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
       "summary_original": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on...",
       "published_display": "2026-04-28",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs",
-      "summary": "Temel sohbet tamamlama işlemlerinin ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için...",
+      "summary": "Temel sohbet tamamlamalarının ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için...",
       "url": "https://devblogs.microsoft.com/blog/langchainjs-for-beginners",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,31 +125,11 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs Temel sohbet tamamlama işlemlerinin ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için... LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for... Microsoft Dev Cloud",
+      "keywords": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs Temel sohbet tamamlamalarının ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için... LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for... Microsoft Dev Cloud",
       "title_original": "LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript",
       "summary_original": "Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for...",
       "published_display": "2026-04-23",
       "id": "b6d957f891ee"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "MCP'nin Güvenliğini Sağlama: Aracı Aracının Yürütülmesi için Bir Kontrol Düzlemi",
-      "summary": "Model Bağlam Protokolü (MCP), yapay zeka aracılarının araçları keşfetmesi ve kullanması için hızla yaygın bir yol haline geliyor. Veritabanlarına, API'lere, dosya sistemlerine ve üçüncü taraf hizmetlere tutarlı bir arayüz sağlayarak yeteneklerin eklenmesini kolaylaştırır.",
-      "url": "https://devblogs.microsoft.com/blog/securing-mcp-a-control-plane-for-agent-tool-execution",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-04-22T17:00:09Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "MCP'nin Güvenliğini Sağlama: Aracı Aracının Yürütülmesi için Bir Kontrol Düzlemi Model Bağlam Protokolü (MCP), yapay zeka aracılarının araçları keşfetmesi ve kullanması için hızla yaygın bir yol haline geliyor. Veritabanlarına, API'lere, dosya sistemlerine ve üçüncü taraf hizmetlere tutarlı bir arayüz sağlayarak yeteneklerin eklenmesini kolaylaştırır. Securing MCP: A Control Plane for Agent Tool Execution The Model Context Protocol (MCP) is quickly becoming a common way for AI agents to discover and use tools. It provides a consistent interface to databases, APIs, file systems, and third-party services, which makes it easier to plug capab... Microsoft Dev Cloud",
-      "title_original": "Securing MCP: A Control Plane for Agent Tool Execution",
-      "summary_original": "The Model Context Protocol (MCP) is quickly becoming a common way for AI agents to discover and use tools. It provides a consistent interface to databases, APIs, file systems, and third-party services, which makes it easier to plug capab...",
-      "published_display": "2026-04-22",
-      "id": "b01e58a555f0"
     },
     {
       "category": "ai",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Goblinler nereden geldi?",
-      "summary": "Goblin çıktılarının yapay zeka modellerinde nasıl yayıldığı: zaman çizelgesi, temel neden ve GPT-5 davranışındaki kişilik odaklı tuhaflıkların ardındaki düzeltmeler.",
+      "summary": "Goblin çıktılarının yapay zeka modellerinde nasıl yayıldığı: zaman çizelgesi, temel neden ve GPT-5 davranışındaki kişiliğe dayalı tuhaflıkların ardındaki düzeltmeler.",
       "url": "https://openai.com/index/where-the-goblins-came-from",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Goblinler nereden geldi? Goblin çıktılarının yapay zeka modellerinde nasıl yayıldığı: zaman çizelgesi, temel neden ve GPT-5 davranışındaki kişilik odaklı tuhaflıkların ardındaki düzeltmeler. Where the goblins came from How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior. AI OpenAI Model",
+      "keywords": "Goblinler nereden geldi? Goblin çıktılarının yapay zeka modellerinde nasıl yayıldığı: zaman çizelgesi, temel neden ve GPT-5 davranışındaki kişiliğe dayalı tuhaflıkların ardındaki düzeltmeler. Where the goblins came from How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior. AI OpenAI Model",
       "title_original": "Where the goblins came from",
       "summary_original": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
       "published_display": "2026-04-29",
@@ -215,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler",
-      "summary": "Google, Google Çeviri'nin 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor.",
+      "summary": "Google, Google Translate'in 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor.",
       "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Translate_20th_hero_NC8a.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -225,7 +225,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler Google, Google Çeviri'nin 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor. Celebrating 20 years of Google Translate: Fun facts, tips and new features to try Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today. AI Product Google",
+      "keywords": "Google Çeviri'nin 20. yılını kutluyoruz: Eğlenceli gerçekler, ipuçları ve denenecek yeni özellikler Google, Google Translate'in 20. yaşını kutlamak için, 2006'da bir yapay zeka deneyi olarak köklerinden bugün neredeyse 250 dili desteklemeye kadar uzanan 20 eğlenceli gerçeği paylaşıyor. Celebrating 20 years of Google Translate: Fun facts, tips and new features to try Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today. AI Product Google",
       "title_original": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "summary_original": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
       "published_display": "2026-04-28",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Robotik Süreç Otomasyonu Pazar Trendleri Kurumsal Verimliliği Artırıyor - openPR.com",
+      "summary": "Robotik Süreç Otomasyonu Pazar Trendleri Kurumsal Verimliliği Artırıyor openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWkwblI5RXJMbV80emt2X0x1LVNpaThTVmJuZVhncjd5VnAtVGZmVmJYcVEyYWp0akJ6WmE1OFhjM3NmQnlIUjM0VnJBU1BUYThqaktHc1NjSzdQNW9Jd2pkN0Rua0RnWDlLV1hsUU1peWU2VGRlNVItUXhnY2dJNmJacF9zSlkxeWRwRUh6NlB6OXQtOFU2Yg?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-30T11:57:06Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotik Süreç Otomasyonu Pazar Trendleri Kurumsal Verimliliği Artırıyor - openPR.com Robotik Süreç Otomasyonu Pazar Trendleri Kurumsal Verimliliği Artırıyor openPR.com Robotic Process Automation Market Trends Boost Enterprise Efficiency - openPR.com Robotic Process Automation Market Trends Boost Enterprise Efficiency openPR.com Robotics Automation Industry",
+      "title_original": "Robotic Process Automation Market Trends Boost Enterprise Efficiency - openPR.com",
+      "summary_original": "Robotic Process Automation Market Trends Boost Enterprise Efficiency openPR.com",
+      "published_display": "2026-04-30",
+      "id": "5e5c0750116a"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Zebra Technologies, robot otomasyonunu geliştirmek için Apera AI'ya yatırım yapıyor - karar.co.uk",
       "summary": "Zebra Technologies, robot otomasyonunu geliştirmek için Apera AI'ya yatırım yapıyor karar.co.uk",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LTXY1V19lbzVVSDRfVk5aSkhZZjN4Ym01bE5GdUhlcnJrc1hjUFlSbWFVS1ZWNzItWC1nLTlXQjBzUExhTURNY2RuUmRKRy10UjlwS2hJLWhVT3FhQTlwRnNEWmFDeHJfNVV3N19LUQ?oc=5",
@@ -275,7 +295,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire",
-      "summary": "Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
+      "summary": "Dört OEM Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOENBeXRVUXVQQ1o3VVA3RUlqTXZzNWJ5SWZTQ0RyWGdycGJSdnRuNFV0dEdlRk5FR2pTOE1tdU9RbEpHVlcxZGVNSDZHeVdfSWJKcl9ZbzZoSEhhcU5xRjNtYWVpUUh3eExhWFdkYlZ6SG5VZEI5Nnl0YmFfWExsRlpXVm1tR0ZOYUVyNG1HVkJnb0ZkWXU5TXVpNURDejB4aTJPUkd6T2tWTXdsY3hvUUhUMDlhbFNCa3QxcVppNVpMaEN2Mmc?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,7 +305,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
+      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
       "title_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire",
       "summary_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire",
       "published_display": "2026-04-28",
@@ -334,47 +354,27 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online",
-      "summary": "Alman robotik ve otomasyon şirketi Greenville Online'ın genel merkezi için Greenville'i seçti",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnhiWS1tMXR0MnU5aDR2cTVVWnpkWFBTVjBpM2ZyUm9qM2Q4bWhrU1huN2FDX2M1c3B6bllzeVAxZUc1RFJ1UDFLSGQ4MGRUOW5VRlVfR0JBQU5kRGN3NXoyVnFiZk1FV3lxM3h3bk9WdnJrN0FWNU5GTl9JVXpMN3BoUGVhR3F2UGc4MEx5U2xOR1lZdHlfSlhNaGgtYzdxMkczaEN1RTFQOHItaHc5NDEwblZVdjJaS01jVFFPekJ0Z2FGZVhlT1BnX3d3WFMzVVFEVg?oc=5",
+      "title": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes",
+      "summary": "Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-23T16:20:00Z",
+      "published_at": "2026-04-17T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Alman robotik ve otomasyon şirketi genel merkez için Greenville'i seçti - Greenville Online Alman robotik ve otomasyon şirketi Greenville Online'ın genel merkezi için Greenville'i seçti German robotics, automation company picks Greenville for headquarters - Greenville Online German robotics, automation company picks Greenville for headquarters Greenville Online Robotics Automation Industry",
-      "title_original": "German robotics, automation company picks Greenville for headquarters - Greenville Online",
-      "summary_original": "German robotics, automation company picks Greenville for headquarters Greenville Online",
-      "published_display": "2026-04-23",
-      "id": "37d77e2b9bd5"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor - Robotik ve Otomasyon Haberleri",
-      "summary": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDJfajBmMXZRWUgxRk9YQjVOY0FuQzdadHJRTHd1a2UtcUdsbmJMbktkbmVhbzBUaXpaQXRSN1VKX0xUV3RHQnpzTkllMWdmc3ZXNi1wSDhBMXV6aW04el9SbFdzY0UxTzVBN3Z0Ny1TR1d4RjcyR1JLcGZfUWFSRjdIUFZQLXlDSWJaZ0UxSzFPZ0lacFhDRW81dTcwT3hreVZvU3ZqX1ctYXZ0ZWhhZjBwZ2VibXZhSWd1MQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-23T09:02:41Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor - Robotik ve Otomasyon Haberleri ABB Robotics, yüksek hızlı PoWa işbirliğine dayalı robot serisini piyasaya sürüyor Robotik ve Otomasyon Haberleri ABB Robotics launches high-speed PoWa collaborative robot range - Robotics & Automation News ABB Robotics launches high-speed PoWa collaborative robot range Robotics & Automation News Robotics Automation Industry",
-      "title_original": "ABB Robotics launches high-speed PoWa collaborative robot range - Robotics & Automation News",
-      "summary_original": "ABB Robotics launches high-speed PoWa collaborative robot range Robotics & Automation News",
-      "published_display": "2026-04-23",
-      "id": "d660c595b26c"
+      "keywords": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes Robotics Automation Industry",
+      "title_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes",
+      "summary_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
+      "published_display": "2026-04-17",
+      "id": "3ba572b1538b"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -494,102 +494,102 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sıfır Güven İlkelerinin Operasyonel Teknolojiye Uyarlanması",
-      "summary": "Sıfır Güven İlkelerinin Operasyonel Teknolojiye Uyarlanması CISA, Savaş Bakanlığı, Enerji Bakanlığı, Federal Soruşturma Bürosu ve Dışişleri Bakanlığı ile koordineli olarak Sıfır Güven İlkelerinin Operasyonel Teknolojiye Uyarlanması yayınlandı.",
-      "url": "https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology",
+      "title": "ABB Sistemi 800xA, Symphony Plus IEC 61850",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığı, ABB'nin bazı Otomasyon kontrol sistemi ürünlerinde kullanılan MMS istemci uygulamaları için IEC 61850 iletişim yığınını uygulamasıyla ilgili olarak özel olarak rapor edildi. Not: IEC 61850 iletişim...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-04-29T12:00:00Z",
+      "published_at": "2026-04-30T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "Sıfır Güven İlkelerinin Operasyonel Teknolojiye Uyarlanması Sıfır Güven İlkelerinin Operasyonel Teknolojiye Uyarlanması CISA, Savaş Bakanlığı, Enerji Bakanlığı, Federal Soruşturma Bürosu ve Dışişleri Bakanlığı ile koordineli olarak Sıfır Güven İlkelerinin Operasyonel Teknolojiye Uyarlanması yayınlandı. Adapting Zero Trust Principles to Operational Technology Adapting Zero Trust Principles to Operational Technology CISA, in coordination with the Department of War, Department of Energy, Federal Bureau of Investigation, and Department of State, released Adapting Zero Trust Principles to Operati... CISA Advisory Threat",
-      "title_original": "Adapting Zero Trust Principles to Operational Technology",
-      "summary_original": "Adapting Zero Trust Principles to Operational Technology CISA, in coordination with the Department of War, Department of Energy, Federal Bureau of Investigation, and Department of State, released Adapting Zero Trust Principles to Operati...",
-      "published_display": "2026-04-29",
-      "id": "320595fc2d41"
+      "keywords": "ABB Sistemi 800xA, Symphony Plus IEC 61850 CSAF Özetini Görüntüle Bu güvenlik açığı, ABB'nin bazı Otomasyon kontrol sistemi ürünlerinde kullanılan MMS istemci uygulamaları için IEC 61850 iletişim yığınını uygulamasıyla ilgili olarak özel olarak rapor edildi. Not: IEC 61850 iletişim... ABB System 800xA, Symphony Plus IEC 61850 View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication... CISA Advisory Threat",
+      "title_original": "ABB System 800xA, Symphony Plus IEC 61850",
+      "summary_original": "View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication...",
+      "published_display": "2026-04-30",
+      "id": "a9ddb9daf9f3"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "NSA GRASSMARLIN",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın hassas bilgileri açığa çıkarmasına olanak verebilir. NSA GRASSMARLIN'in aşağıdaki sürümleri etkilenir: GRASSMARLIN vers:all/* CVSS Tedarikçi Ekipmanı Güvenlik Açığı...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01",
+      "title": "ABB PCM600",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın sistem düğümüne özel hazırlanmış iletiler göndermesine ve bunun sonucunda rastgele kod yürütülmesine olanak verebilir. ABB PCM600'ün aşağıdaki sürümleri etkilenir: PC...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-04-28T12:00:00Z",
+      "published_at": "2026-04-30T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "NSA GRASSMARLIN CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın hassas bilgileri açığa çıkarmasına olanak verebilir. NSA GRASSMARLIN'in aşağıdaki sürümleri etkilenir: GRASSMARLIN vers:all/* CVSS Tedarikçi Ekipmanı Güvenlik Açığı... NSA GRASSMARLIN View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to disclose sensitive information. The following versions of NSA GRASSMARLIN are affected: GRASSMARLIN vers:all/* CVSS Vendor Equipment Vulnerabiliti... CISA Advisory Threat",
-      "title_original": "NSA GRASSMARLIN",
-      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to disclose sensitive information. The following versions of NSA GRASSMARLIN are affected: GRASSMARLIN vers:all/* CVSS Vendor Equipment Vulnerabiliti...",
-      "published_display": "2026-04-28",
-      "id": "f785a544b336"
+      "keywords": "ABB PCM600 CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın sistem düğümüne özel hazırlanmış iletiler göndermesine ve bunun sonucunda rastgele kod yürütülmesine olanak verebilir. ABB PCM600'ün aşağıdaki sürümleri etkilenir: PC... ABB PCM600 View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send specially crafted messages to the system node resulting in execution of arbitrary code. The following versions of ABB PCM600 are affected: PC... CISA Advisory Threat",
+      "title_original": "ABB PCM600",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send specially crafted messages to the system node resulting in execution of arbitrary code. The following versions of ABB PCM600 are affected: PC...",
+      "published_display": "2026-04-30",
+      "id": "adcb32685631"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA, Kataloğa Bilinen İki İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna iki yeni güvenlik açığı ekledi. CVE-2024-1708 ConnectWise ScreenConnect Yolu Geçiş Güvenlik Açığı CVE-2026-32202 Microsoft Windows...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "title": "ABB Edgenius Yönetim Portalı",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın sistem düğümüne özel hazırlanmış bir mesaj göndermesine ve saldırganın isteğe bağlı kod yükleyip çalıştırmasına, uygulamaları kaldırmasına ve bunları değiştirmesine olanak tanıyabilir.",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-04-28T12:00:00Z",
+      "published_at": "2026-04-30T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA, Kataloğa Bilinen İki İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna iki yeni güvenlik açığı ekledi. CVE-2024-1708 ConnectWise ScreenConnect Yolu Geçiş Güvenlik Açığı CVE-2026-32202 Microsoft Windows... CISA Adds Two Known Exploited Vulnerabilities to Catalog CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-1708 ConnectWise ScreenConnect Path Traversal Vulnerability CVE-2026-32202 Microsoft Windows... CISA Advisory Threat",
-      "title_original": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "summary_original": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-1708 ConnectWise ScreenConnect Path Traversal Vulnerability CVE-2026-32202 Microsoft Windows...",
-      "published_display": "2026-04-28",
-      "id": "838813a28bed"
+      "keywords": "ABB Edgenius Yönetim Portalı CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın sistem düğümüne özel hazırlanmış bir mesaj göndermesine ve saldırganın isteğe bağlı kod yükleyip çalıştırmasına, uygulamaları kaldırmasına ve bunları değiştirmesine olanak tanıyabilir. ABB Edgenius Management Portal View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applications, and modify th... CISA Advisory Threat",
+      "title_original": "ABB Edgenius Management Portal",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applications, and modify th...",
+      "published_display": "2026-04-30",
+      "id": "f5025aa3aa52"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA, Kataloğa Bilinen Dört İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna dört yeni güvenlik açığı ekledi. CVE-2024-7399 Samsung MagicINFO 9 Sunucu Yolu Geçiş Güvenlik Açığı CVE-2024-57726 SimpleHelp Kaçırılan...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "title": "ABB Yetenek Senfoni Plus Mühendisliği",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenen olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. ABB S+ Engineering ürün sürümleri, PostgreSQL sürüm 13.11 ve önceki sürümlerdeki güvenlik açıklarından etkilenir. Eğer...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-04-24T12:00:00Z",
+      "published_at": "2026-04-30T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA, Kataloğa Bilinen Dört İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna dört yeni güvenlik açığı ekledi. CVE-2024-7399 Samsung MagicINFO 9 Sunucu Yolu Geçiş Güvenlik Açığı CVE-2024-57726 SimpleHelp Kaçırılan... CISA Adds Four Known Exploited Vulnerabilities to Catalog CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-7399 Samsung MagicINFO 9 Server Path Traversal Vulnerability CVE-2024-57726 SimpleHelp Miss... CISA Advisory Threat",
-      "title_original": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "summary_original": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-7399 Samsung MagicINFO 9 Server Path Traversal Vulnerability CVE-2024-57726 SimpleHelp Miss...",
-      "published_display": "2026-04-24",
-      "id": "6dbd40386e02"
+      "keywords": "ABB Yetenek Senfoni Plus Mühendisliği CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenen olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. ABB S+ Engineering ürün sürümleri, PostgreSQL sürüm 13.11 ve önceki sürümlerdeki güvenlik açıklarından etkilenir. Eğer... ABB Ability Symphony Plus Engineering View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. The ABB S+ Engineering product versions are affected by vulnerabilities in PostgreSQL version 13.11 and earlier versions. If... CISA Advisory Threat",
+      "title_original": "ABB Ability Symphony Plus Engineering",
+      "summary_original": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. The ABB S+ Engineering product versions are affected by vulnerabilities in PostgreSQL version 13.11 and earlier versions. If...",
+      "published_display": "2026-04-30",
+      "id": "f3525a9d066a"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "ATEŞ BAŞLATICI Arka Kapı",
-      "summary": "Bir Bakışta Kötü Amaçlı Yazılım Analizi Raporu Kötü Amaçlı Yazılım Adı FIRESTARTER Orijinal Yayını 23 Nisan 2026 Yönetici Özeti Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), bir adli kurumdan elde edilen bir FIRESTARTER kötü amaçlı yazılım örneğini analiz etti.",
-      "url": "https://www.cisa.gov/news-events/analysis-reports/ar26-113a",
+      "title": "ABB Yetenek OPTIMAX",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın Azure Active Directory Çoklu Oturum Açma tümleştirmesinden yararlanan OPTIMAX yüklemelerinde kullanıcı kimlik doğrulamasını atlamasına olanak tanıyabilir. Aşağıdaki sürümler...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-04-23T12:00:00Z",
+      "published_at": "2026-04-30T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "ATEŞ BAŞLATICI Arka Kapı Bir Bakışta Kötü Amaçlı Yazılım Analizi Raporu Kötü Amaçlı Yazılım Adı FIRESTARTER Orijinal Yayını 23 Nisan 2026 Yönetici Özeti Siber Güvenlik ve Altyapı Güvenliği Ajansı (CISA), bir adli kurumdan elde edilen bir FIRESTARTER kötü amaçlı yazılım örneğini analiz etti. FIRESTARTER Backdoor Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a foren... CISA Advisory Threat",
-      "title_original": "FIRESTARTER Backdoor",
-      "summary_original": "Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a foren...",
-      "published_display": "2026-04-23",
-      "id": "c7efbafddead"
+      "keywords": "ABB Yetenek OPTIMAX CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın Azure Active Directory Çoklu Oturum Açma tümleştirmesinden yararlanan OPTIMAX yüklemelerinde kullanıcı kimlik doğrulamasını atlamasına olanak tanıyabilir. Aşağıdaki sürümler... ABB Ability OPTIMAX View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to bypass user authentication on OPTIMAX installations that make use of the Azure Active Directory Single-Sign On integration. The following versions... CISA Advisory Threat",
+      "title_original": "ABB Ability OPTIMAX",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to bypass user authentication on OPTIMAX installations that make use of the Azure Active Directory Single-Sign On integration. The following versions...",
+      "published_display": "2026-04-30",
+      "id": "a9b9e4c4a4b1"
     },
     {
       "category": "kamera",
@@ -614,7 +614,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -625,17 +625,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "27b0f26a0dc9"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,16 +645,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Veriyor - gbhackers.com",
+      "title": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com",
       "summary": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbDdnRUlISEd1TFpPMlhDbFhKbUVFLWprTEczS3JRYlBXUTNucVdfR0FocG5UNklVc3dlUkhYSk1waFZyRVY0eFdQbk1RSlVLeWRXTkc5dlNHLTBOTFV4ZQ?oc=5",
       "image_url": null,
@@ -665,17 +665,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Veriyor - gbhackers.com IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Açıklardan Yararlanmayla Bilgisayarın Tümüyle Tehlikeye Girmesine İzin Veriyor - gbhackers.com IDIS IP Kameradaki Kritik Güvenlik Açığı, Tek Tıklamayla Exploit ile Bilgisayarın Tam Güvenliğinin İhlal Edilmesine İzin Verir gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit - gbhackers.com",
       "summary_original": "Critical IDIS IP Camera Vulnerability Allows Full Computer Compromise with One-Click Exploit gbhackers.com",
       "published_display": "2026-01-28",
-      "id": "2e9a92d8b17d"
+      "id": "182b39606a08"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews",
-      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews",
+      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -685,7 +685,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
       "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
       "published_display": "2025-12-11",
