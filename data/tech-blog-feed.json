@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-04T15:00:00Z",
+  "updated_at": "2026-05-04T17:00:00Z",
   "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Nisan 2026'da duyurduğumuz en son yapay zeka haberleri",
+      "summary": "İşte Google'ın Nisan 2026'ya ait en son yapay zeka güncellemeleri",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-04T17:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Nisan 2026'da duyurduğumuz en son yapay zeka haberleri İşte Google'ın Nisan 2026'ya ait en son yapay zeka güncellemeleri The latest AI news we announced in April 2026 Here are Google’s latest AI updates from April 2026 AI Product Google",
+      "title_original": "The latest AI news we announced in April 2026",
+      "summary_original": "Here are Google’s latest AI updates from April 2026",
+      "published_display": "2026-05-04",
+      "id": "5dfdc8afffcd"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI, düşük gecikmeli ses yapay zekasını geniş ölçekte nasıl sunuyor?",
+      "summary": "OpenAI, düşük gecikme süresi, küresel ölçek ve kesintisiz konuşma sırası alma özellikleriyle gerçek zamanlı Sesli Yapay Zeka'yı desteklemek için WebRTC yığınını nasıl yeniden oluşturdu?",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-04T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "OpenAI, düşük gecikmeli ses yapay zekasını geniş ölçekte nasıl sunuyor? OpenAI, düşük gecikme süresi, küresel ölçek ve kesintisiz konuşma sırası alma özellikleriyle gerçek zamanlı Sesli Yapay Zeka'yı desteklemek için WebRTC yığınını nasıl yeniden oluşturdu? How OpenAI delivers low-latency voice AI at scale How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking. AI OpenAI Model",
+      "title_original": "How OpenAI delivers low-latency voice AI at scale",
+      "summary_original": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "published_display": "2026-05-04",
+      "id": "61d825aa46c4"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Küresel ortaklıklar ve açık kaynaklar aracılığıyla bilimsel etkiyi katalize etmek",
       "summary": "Veri Madenciliği ve Modelleme",
       "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
@@ -210,46 +250,6 @@
       "summary_original": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
       "published_display": "2026-04-29",
       "id": "646c4bc6dbe1"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "İstihbarat Çağı için bilgi işlem altyapısının oluşturulması",
-      "summary": "OpenAI, AGI'yi güçlendiren bilgi işlem altyapısını oluşturmak için Stargate'i ölçeklendiriyor ve artan yapay zeka talebini karşılamak için yeni veri merkezi kapasitesi ekliyor.",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-04-29T15:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "İstihbarat Çağı için bilgi işlem altyapısının oluşturulması OpenAI, AGI'yi güçlendiren bilgi işlem altyapısını oluşturmak için Stargate'i ölçeklendiriyor ve artan yapay zeka talebini karşılamak için yeni veri merkezi kapasitesi ekliyor. Building the compute infrastructure for the Intelligence Age OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand. AI OpenAI Model",
-      "title_original": "Building the compute infrastructure for the Intelligence Age",
-      "summary_original": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "published_display": "2026-04-29",
-      "id": "ea7d03fa3bdd"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "İstihbarat Çağında Siber Güvenlik",
-      "summary": "OpenAI, İstihbarat Çağında siber güvenliği güçlendirmek için yapay zeka destekli siber savunmayı demokratikleştirmeye ve kritik sistemleri korumaya odaklanan beş bölümlük bir eylem planının ana hatlarını çiziyor.",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-04-29T04:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "İstihbarat Çağında Siber Güvenlik OpenAI, İstihbarat Çağında siber güvenliği güçlendirmek için yapay zeka destekli siber savunmayı demokratikleştirmeye ve kritik sistemleri korumaya odaklanan beş bölümlük bir eylem planının ana hatlarını çiziyor. Cybersecurity in the Intelligence Age OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems. AI OpenAI Model",
-      "title_original": "Cybersecurity in the Intelligence Age",
-      "summary_original": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "published_display": "2026-04-29",
-      "id": "7119f1002568"
     },
     {
       "category": "robotik",
@@ -334,42 +334,42 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes",
-      "summary": "Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
+      "title": "Küresel Depo Otomasyon Pazarı 2034'e Kadar 90.725,7 Milyon Dolara Ulaşacak ve %15,1 Bileşik Büyüme Oranıyla Büyüyecek - Allied Market Research - PR Newswire UK",
+      "summary": "Küresel Depo Otomasyon Pazarı 2034'e Kadar 90.725,7 Milyon Dolara Ulaşacak ve %15,1 Bileşik Büyüme Oranıyla Büyüyecek - Allied Market Research PR Newswire UK",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQa01ldzdVcnZ3MkRzY3FOaTN2V2pINDhYMXdWc2pldHJlamswMkl1X3d0YjVHX054WVdRZmZGNTRza0FSSDlJUzFsX3V0eTBGSUhMZFBNa1BoUVdaMWRQREFHX2VxOVNXby1JMGlVMmhYWWFIczc4QkJhaG5fQ3p4SFVzS1JNRTV1TU9XVldUaDlxc0F6TTVBaXlEVDFwT1pUVGhGMExVeW55VVZhYXFUcDMxd1JVOG02dDNNWXp2NVNoTm5vemdjLUpHc0Z2UXI0QW9XRnNkWTBSS3FTLU5zaWJmWl9aak01bEpPZ1FlRG9mMVhSZl9JblNSaFptSHpkbmo2TThSOU5JNUVk?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-17T07:00:00Z",
+      "published_at": "2026-04-28T14:45:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes Robotics Automation Industry",
-      "title_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes",
-      "summary_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
-      "published_display": "2026-04-17",
-      "id": "3ba572b1538b"
+      "keywords": "Küresel Depo Otomasyon Pazarı 2034'e Kadar 90.725,7 Milyon Dolara Ulaşacak ve %15,1 Bileşik Büyüme Oranıyla Büyüyecek - Allied Market Research - PR Newswire UK Küresel Depo Otomasyon Pazarı 2034'e Kadar 90.725,7 Milyon Dolara Ulaşacak ve %15,1 Bileşik Büyüme Oranıyla Büyüyecek - Allied Market Research PR Newswire UK Global Warehouse Automation Market Will Reach $90,725.7 Million by 2034, Growing at a CAGR of 15.1% - Allied Market Research - PR Newswire UK Global Warehouse Automation Market Will Reach $90,725.7 Million by 2034, Growing at a CAGR of 15.1% - Allied Market Research PR Newswire UK Robotics Automation Industry",
+      "title_original": "Global Warehouse Automation Market Will Reach $90,725.7 Million by 2034, Growing at a CAGR of 15.1% - Allied Market Research - PR Newswire UK",
+      "summary_original": "Global Warehouse Automation Market Will Reach $90,725.7 Million by 2034, Growing at a CAGR of 15.1% - Allied Market Research PR Newswire UK",
+      "published_display": "2026-04-28",
+      "id": "79b34142b84b"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Birimini Satın Aldı - Business Wire",
-      "summary": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Bağlantısını Satın Aldı",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1hmUldMc0dPeVdOYnJaZldfdnBGZFotakItektpZVVPcW9XT1hDdURFbmtQbDlqQ1pRQ25kNGRrbGl3b29ienYySW9acU1hRXFQMEsyMF9sRk5EeThyQXZTNmpOdE1ZRUpRalF0UTZrNmRKV01Zd0prelV5MFpYejNjY083YzFZYlpocEpOX1gwdW9Ma3NtSm1kMGFDelVFU2JKMVE0ZzN1OFhvVmN6MXlCUkFLaTZkMWN2T1Vfaw?oc=5",
+      "title": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN",
+      "summary": "Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOejBsamM1a0NCVF9RMURObmlrLXZrYUp1YVVVVTNzUHl2R0FaLXNiVFV4WXlkZlVuUlo3Nkc3LXVBZE9US0xUV01WdE41YnhqaGpsVTY3ZTFFb1J4WlRWT19DRlhDajE5Q0N6N3lycVcteFVKVFJiT2t4UXhzTTduWVN1WnAyLUc1aWhlVS02R3hJYmIwRVRoRHg2RThtN3lEWWhJdWRNMnNFLTN3anZMZmZCLVd1bnUwMkpvZ1ROOVVnX21KWlZ6SlR4RkhnWG5WSlVqbW1kMHlWOVF1aVZ1akY3T2x2c3ZLc1o3TXRjMGR5OEJjMUxWNDR4T3ZPZkkyV0V6UkRZVEMwT1NfaVQxM2ZuQ2xQa3AxdlVGZENSbzRReUVKVm5PYTdHLUZpdVZhenlCWmFva1FKWXZrVFBKSDJKaHc0UTVsTG9oVklsNWo5ODNvc2o2aWxobGpkR2sxNzlJOElyZTRQU253ajI0?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-15T07:00:00Z",
+      "published_at": "2026-04-26T06:35:48Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Birimini Satın Aldı - Business Wire Skild AI, Zebra Technologies'in Robotik Otomasyon İş Bağlantısını Satın Aldı Skild AI Acquires Zebra Technologies' Robotics Automation Business - Business Wire Skild AI Acquires Zebra Technologies' Robotics Automation Business Business Wire Robotics Automation Industry",
-      "title_original": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Business Wire",
-      "summary_original": "Skild AI Acquires Zebra Technologies' Robotics Automation Business Business Wire",
-      "published_display": "2026-04-15",
-      "id": "9d51d2c26481"
+      "keywords": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı Skild AI acquires Zebra Technologies robotics automation business - MSN Skild AI acquires Zebra Technologies robotics automation business MSN Robotics Automation Industry",
+      "title_original": "Skild AI acquires Zebra Technologies robotics automation business - MSN",
+      "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
+      "published_display": "2026-04-26",
+      "id": "445efec742f5"
     },
     {
       "category": "web",
@@ -614,26 +614,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Tahmini - Fact.MR",
-      "summary": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Fact.MR Tahmini",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15NUxPRXhoZ3N4Nk9aMnY3OFhvLUdOSGY4UUVkT0Fld0FWZGwwVEt4Wm9fZXl4VWh3b0s1TThuc2lxMHpDQmFnZ1hVaDJaTU0zQWhLc3lOS0FIV1Br?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-17T08:14:17Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Tahmini - Fact.MR CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Fact.MR Tahmini CCTV Camera Market Size, Share & Forecast to 2036 - Fact.MR CCTV Camera Market Size, Share & Forecast to 2036 Fact.MR IP Camera Video Surveillance",
-      "title_original": "CCTV Camera Market Size, Share & Forecast to 2036 - Fact.MR",
-      "summary_original": "CCTV Camera Market Size, Share & Forecast to 2036 Fact.MR",
-      "published_display": "2026-03-17",
-      "id": "0a92897e944f"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
@@ -710,6 +690,26 @@
       "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
       "published_display": "2025-08-06",
       "id": "bb38b8b06d62"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
+      "summary": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-07-30T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News IP Camera Video Surveillance",
+      "title_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News",
+      "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
+      "published_display": "2025-07-30",
+      "id": "cc6031567108"
     }
   ]
 }
