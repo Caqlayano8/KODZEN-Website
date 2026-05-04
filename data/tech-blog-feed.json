@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme",
-      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
+      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl doğruladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
       "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
+      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl doğruladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
       "title_original": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
       "summary_original": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on...",
       "published_display": "2026-04-28",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Nisan 2026'da duyurduğumuz en son yapay zeka haberleri",
-      "summary": "İşte Google'ın Nisan 2026'ya ait en son yapay zeka güncellemeleri",
+      "summary": "İşte Google'ın Nisan 2026'daki en son yapay zeka güncellemeleri",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -145,7 +145,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Nisan 2026'da duyurduğumuz en son yapay zeka haberleri İşte Google'ın Nisan 2026'ya ait en son yapay zeka güncellemeleri The latest AI news we announced in April 2026 Here are Google’s latest AI updates from April 2026 AI Product Google",
+      "keywords": "Nisan 2026'da duyurduğumuz en son yapay zeka haberleri İşte Google'ın Nisan 2026'daki en son yapay zeka güncellemeleri The latest AI news we announced in April 2026 Here are Google’s latest AI updates from April 2026 AI Product Google",
       "title_original": "The latest AI news we announced in April 2026",
       "summary_original": "Here are Google’s latest AI updates from April 2026",
       "published_display": "2026-05-04",
@@ -154,8 +154,28 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Gemini API'sindeki Web Kancaları ile uzun süren işler için sürtünmeyi ve gecikmeyi azaltın",
+      "summary": "Olay Odaklı Web Kancaları, verimsiz yoklama ihtiyacını ortadan kaldıran, anında iletmeye dayalı bir bildirim sistemidir.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-04T15:30:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Gemini API'sindeki Web Kancaları ile uzun süren işler için sürtünmeyi ve gecikmeyi azaltın Olay Odaklı Web Kancaları, verimsiz yoklama ihtiyacını ortadan kaldıran, anında iletmeye dayalı bir bildirim sistemidir. Reduce friction and latency for long-running jobs with Webhooks in Gemini API Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling. AI Product Google",
+      "title_original": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "summary_original": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+      "published_display": "2026-05-04",
+      "id": "fda50b4757c2"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "OpenAI, düşük gecikmeli ses yapay zekasını geniş ölçekte nasıl sunuyor?",
-      "summary": "OpenAI, düşük gecikme süresi, küresel ölçek ve kesintisiz konuşma sırası alma özellikleriyle gerçek zamanlı Sesli Yapay Zeka'yı desteklemek için WebRTC yığınını nasıl yeniden oluşturdu?",
+      "summary": "OpenAI, düşük gecikme süresi, küresel ölçek ve kesintisiz konuşma sırası ile gerçek zamanlı Sesli Yapay Zeka'yı desteklemek için WebRTC yığınını nasıl yeniden oluşturdu?",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI, düşük gecikmeli ses yapay zekasını geniş ölçekte nasıl sunuyor? OpenAI, düşük gecikme süresi, küresel ölçek ve kesintisiz konuşma sırası alma özellikleriyle gerçek zamanlı Sesli Yapay Zeka'yı desteklemek için WebRTC yığınını nasıl yeniden oluşturdu? How OpenAI delivers low-latency voice AI at scale How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking. AI OpenAI Model",
+      "keywords": "OpenAI, düşük gecikmeli ses yapay zekasını geniş ölçekte nasıl sunuyor? OpenAI, düşük gecikme süresi, küresel ölçek ve kesintisiz konuşma sırası ile gerçek zamanlı Sesli Yapay Zeka'yı desteklemek için WebRTC yığınını nasıl yeniden oluşturdu? How OpenAI delivers low-latency voice AI at scale How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking. AI OpenAI Model",
       "title_original": "How OpenAI delivers low-latency voice AI at scale",
       "summary_original": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
       "published_display": "2026-05-04",
@@ -232,30 +252,10 @@
       "id": "474a41a7220a"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Goblinler nereden geldi?",
-      "summary": "Goblin çıktılarının yapay zeka modellerinde nasıl yayıldığı: zaman çizelgesi, temel neden ve GPT-5 davranışındaki kişiliğe dayalı tuhaflıkların ardındaki düzeltmeler.",
-      "url": "https://openai.com/index/where-the-goblins-came-from",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-04-29T20:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Goblinler nereden geldi? Goblin çıktılarının yapay zeka modellerinde nasıl yayıldığı: zaman çizelgesi, temel neden ve GPT-5 davranışındaki kişiliğe dayalı tuhaflıkların ardındaki düzeltmeler. Where the goblins came from How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior. AI OpenAI Model",
-      "title_original": "Where the goblins came from",
-      "summary_original": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-      "published_display": "2026-04-29",
-      "id": "646c4bc6dbe1"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazır - openPR.com",
-      "summary": "Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazırlanıyor openPR.com",
+      "summary": "Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazır openPR.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlAwLUE4VHg0eVhMUUpJdGt6UFoxUzVHWEltek5RYXBycmVzcXBVcWt0YzBZekJFTDJrMU5OSE15WHppTVBKQnFiNG9WVFIwSzlzRklRSGZiZmNZZjl3NE84MWpnd3ZsdjhTM3pod2tmM3lCZXpwaG02QlVWdHgzdjB1cGlmc3dXdC1qczVDTlNXQlVTay0zQmdpcFM?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,7 +265,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazır - openPR.com Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazırlanıyor openPR.com Robotics and Automation Actuators Market Set for Strong 13.3% - openPR.com Robotics and Automation Actuators Market Set for Strong 13.3% openPR.com Robotics Automation Industry",
+      "keywords": "Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazır - openPR.com Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazır openPR.com Robotics and Automation Actuators Market Set for Strong 13.3% - openPR.com Robotics and Automation Actuators Market Set for Strong 13.3% openPR.com Robotics Automation Industry",
       "title_original": "Robotics and Automation Actuators Market Set for Strong 13.3% - openPR.com",
       "summary_original": "Robotics and Automation Actuators Market Set for Strong 13.3% openPR.com",
       "published_display": "2026-05-04",
@@ -334,42 +334,42 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Küresel Depo Otomasyon Pazarı 2034'e Kadar 90.725,7 Milyon Dolara Ulaşacak ve %15,1 Bileşik Büyüme Oranıyla Büyüyecek - Allied Market Research - PR Newswire UK",
-      "summary": "Küresel Depo Otomasyon Pazarı 2034'e Kadar 90.725,7 Milyon Dolara Ulaşacak ve %15,1 Bileşik Büyüme Oranıyla Büyüyecek - Allied Market Research PR Newswire UK",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQa01ldzdVcnZ3MkRzY3FOaTN2V2pINDhYMXdWc2pldHJlamswMkl1X3d0YjVHX054WVdRZmZGNTRza0FSSDlJUzFsX3V0eTBGSUhMZFBNa1BoUVdaMWRQREFHX2VxOVNXby1JMGlVMmhYWWFIczc4QkJhaG5fQ3p4SFVzS1JNRTV1TU9XVldUaDlxc0F6TTVBaXlEVDFwT1pUVGhGMExVeW55VVZhYXFUcDMxd1JVOG02dDNNWXp2NVNoTm5vemdjLUpHc0Z2UXI0QW9XRnNkWTBSS3FTLU5zaWJmWl9aak01bEpPZ1FlRG9mMVhSZl9JblNSaFptSHpkbmo2TThSOU5JNUVk?oc=5",
+      "title": "Honeywell, portföy revizyonu devam ederken üretkenlik çözümleri birimini Brady'ye 1,4 milyar dolara satacak - Robotik ve Otomasyon Haberleri",
+      "summary": "Honeywell, portföy revizyonu devam ederken üretkenlik çözümleri birimini Brady'ye 1,4 milyar dolara satacak Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaGR6QlVadjlHVUQzV2o1Zkx5OS10bS0xZERDVUthYjU4VVFZT2FRQXJwTWFueWNWdU90YUQ1N0JORExxUF9rRWhBVmFibHNoWl9wVy1QTEM2eHczd3FLdGVVdTJlc18xYzNMS3dUa1plV2dFeUtvYV9OcEdDU2w3UGM5S3Fac0lCczdRQ09rWmFsYkloN08xTlZ1bWhiRnJRWVV5a2Nwa2REcGhOd2NwdUtISDFWZGZSZW02M3dpVzdpRGV6bHdiTzZIUGRBRzE2V0ZNenZoS1VGU2ZHMnozMjFtMGN1QjFMdjJpRUk4eno?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-28T14:45:00Z",
+      "published_at": "2026-04-20T20:34:42Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Küresel Depo Otomasyon Pazarı 2034'e Kadar 90.725,7 Milyon Dolara Ulaşacak ve %15,1 Bileşik Büyüme Oranıyla Büyüyecek - Allied Market Research - PR Newswire UK Küresel Depo Otomasyon Pazarı 2034'e Kadar 90.725,7 Milyon Dolara Ulaşacak ve %15,1 Bileşik Büyüme Oranıyla Büyüyecek - Allied Market Research PR Newswire UK Global Warehouse Automation Market Will Reach $90,725.7 Million by 2034, Growing at a CAGR of 15.1% - Allied Market Research - PR Newswire UK Global Warehouse Automation Market Will Reach $90,725.7 Million by 2034, Growing at a CAGR of 15.1% - Allied Market Research PR Newswire UK Robotics Automation Industry",
-      "title_original": "Global Warehouse Automation Market Will Reach $90,725.7 Million by 2034, Growing at a CAGR of 15.1% - Allied Market Research - PR Newswire UK",
-      "summary_original": "Global Warehouse Automation Market Will Reach $90,725.7 Million by 2034, Growing at a CAGR of 15.1% - Allied Market Research PR Newswire UK",
-      "published_display": "2026-04-28",
-      "id": "79b34142b84b"
+      "keywords": "Honeywell, portföy revizyonu devam ederken üretkenlik çözümleri birimini Brady'ye 1,4 milyar dolara satacak - Robotik ve Otomasyon Haberleri Honeywell, portföy revizyonu devam ederken üretkenlik çözümleri birimini Brady'ye 1,4 milyar dolara satacak Robotik ve Otomasyon Haberleri Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues - Robotics & Automation News Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues - Robotics & Automation News",
+      "summary_original": "Honeywell to sell productivity solutions unit to Brady for $1.4 billion as portfolio overhaul continues Robotics & Automation News",
+      "published_display": "2026-04-20",
+      "id": "70db9f420939"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN",
-      "summary": "Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOejBsamM1a0NCVF9RMURObmlrLXZrYUp1YVVVVTNzUHl2R0FaLXNiVFV4WXlkZlVuUlo3Nkc3LXVBZE9US0xUV01WdE41YnhqaGpsVTY3ZTFFb1J4WlRWT19DRlhDajE5Q0N6N3lycVcteFVKVFJiT2t4UXhzTTduWVN1WnAyLUc1aWhlVS02R3hJYmIwRVRoRHg2RThtN3lEWWhJdWRNMnNFLTN3anZMZmZCLVd1bnUwMkpvZ1ROOVVnX21KWlZ6SlR4RkhnWG5WSlVqbW1kMHlWOVF1aVZ1akY3T2x2c3ZLc1o3TXRjMGR5OEJjMUxWNDR4T3ZPZkkyV0V6UkRZVEMwT1NfaVQxM2ZuQ2xQa3AxdlVGZENSbzRReUVKVm5PYTdHLUZpdVZhenlCWmFva1FKWXZrVFBKSDJKaHc0UTVsTG9oVklsNWo5ODNvc2o2aWxobGpkR2sxNzlJOElyZTRQU253ajI0?oc=5",
+      "title": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes",
+      "summary": "Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-04-26T06:35:48Z",
+      "published_at": "2026-04-17T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı Skild AI acquires Zebra Technologies robotics automation business - MSN Skild AI acquires Zebra Technologies robotics automation business MSN Robotics Automation Industry",
-      "title_original": "Skild AI acquires Zebra Technologies robotics automation business - MSN",
-      "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
-      "published_display": "2026-04-26",
-      "id": "445efec742f5"
+      "keywords": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes Robotics Automation Industry",
+      "title_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes",
+      "summary_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
+      "published_display": "2026-04-17",
+      "id": "3ba572b1538b"
     },
     {
       "category": "web",
@@ -594,6 +594,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Asya Gözetleme Kamerası - Piyasa Analizi, Tahmin, Boyut, Trendler ve Analizler - IndexBox",
+      "summary": "Asya Gözetleme Kamerası - Piyasa Analizi, Tahmin, Boyut, Trendler ve Analizler IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzljbGpWb1dIemJQWkp0alR2Y1hCeEZndXp3VU5FN1BUYnpzWjFYUUVodWxkQWVEQ0xXMFMyWDVqb25qYmJpU09iVm9NRWNMcGRqdDAzUkFSdXV6WXl2bGtmUGp1VkFzM2gxLV9WTjJiRzNRNC1wQWlabDhZQ09YUEFMaXBudmhtYlFiSDZIak13bTRRaGl5ZkU5b29zSWNyZVIyaF82YmE?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-05-03T11:12:57Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Asya Gözetleme Kamerası - Piyasa Analizi, Tahmin, Boyut, Trendler ve Analizler - IndexBox Asya Gözetleme Kamerası - Piyasa Analizi, Tahmin, Boyut, Trendler ve Analizler IndexBox Asia Surveillance Camera - Market Analysis, Forecast, Size, Trends and Insights - IndexBox Asia Surveillance Camera - Market Analysis, Forecast, Size, Trends and Insights IndexBox IP Camera Video Surveillance",
+      "title_original": "Asia Surveillance Camera - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+      "summary_original": "Asia Surveillance Camera - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
+      "published_display": "2026-05-03",
+      "id": "5685f6a3e3fe"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
@@ -614,8 +634,28 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24",
+      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-02-11T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
+      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
+      "published_display": "2026-02-11",
+      "id": "10de1e0a18c3"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,17 +665,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "3d63787c804b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews",
-      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
+      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,7 +685,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
       "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
       "published_display": "2025-12-11",
@@ -670,46 +710,6 @@
       "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
       "published_display": "2025-07-30",
       "id": "cc6031567108"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot",
-      "summary": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTNtcU1Xdk1QenZiNW9Lcm1XUjRPTXlnMWNIZDUtYW9OWnFBZkNxbGpSVzFFTnRHV0ZGMVk5U3RKcUpOVnBTWkNQTllEcWJWWk8tRnpRdkhtSUcyT3huNEZJUU5USHpvYzhQOWEtSXI0QTZkN2hyUC1rcEFNUUxYaGhWU1NLU2dIYmhYaDFOaHl3MnV0?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-22T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot IP Camera Video Surveillance",
-      "title_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot",
-      "summary_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot",
-      "published_display": "2025-06-22",
-      "id": "fd320a27b5c5"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "İsrailli Yetkililer İran'ın Güvenlik Kameralarını Casusluk Amaçlı Ele Geçirdiği Uyarısında Bulundu - Bloomberg.com",
-      "summary": "İsrailli Yetkililer İran'ın Bloomberg.com'u Casusluk Etmek İçin Güvenlik Kameralarını Ele Geçirdiği Uyarısında Bulundu",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjc3VTMwZy1tRkpBS0F0STh3UjRmQkg1UVpMakFZQ0dCakl6X1JuLV9wS0FyU1kzRldHYk1TWjlnSkNsZlJGYXp4blRxYWlQTUtpek1HUk9meDBMMVBEaXhnU3MzUUdWa3lBT3JjOTNjblR3Z3UyNFFuWEFmeG9wQ1RuaVVlZ1lMSEVpMFdJb2tzRlZuU1RGMUllSGF1aVRoVGp2ZHc1ekZadTBS?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-19T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "İsrailli Yetkililer İran'ın Güvenlik Kameralarını Casusluk Amaçlı Ele Geçirdiği Uyarısında Bulundu - Bloomberg.com İsrailli Yetkililer İran'ın Bloomberg.com'u Casusluk Etmek İçin Güvenlik Kameralarını Ele Geçirdiği Uyarısında Bulundu Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy - Bloomberg.com Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy Bloomberg.com IP Camera Video Surveillance",
-      "title_original": "Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy - Bloomberg.com",
-      "summary_original": "Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy Bloomberg.com",
-      "published_display": "2025-06-19",
-      "id": "7384ab553702"
     }
   ]
 }
