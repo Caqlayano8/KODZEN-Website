@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-04T07:19:20Z",
+  "updated_at": "2026-05-04T15:00:00Z",
   "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "OpenClaw'a şimdi kaydolun: After Hours @ GitHub",
+      "summary": "OpenClaw geliştiricileri, Microsoft Build 2026 sırasında demolar ve sohbetler için GitHub Genel Merkezinde bir araya gelecek. Şahsen katılın veya Twitch'teki canlı yayını izleyin. OpenClaw için şimdi kaydolun yazısı: After Hours @ GitHub ilk olarak The GitHub'da göründü...",
+      "url": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-05-04T15:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "OpenClaw'a şimdi kaydolun: After Hours @ GitHub OpenClaw geliştiricileri, Microsoft Build 2026 sırasında demolar ve sohbetler için GitHub Genel Merkezinde bir araya gelecek. Şahsen katılın veya Twitch'teki canlı yayını izleyin. OpenClaw için şimdi kaydolun yazısı: After Hours @ GitHub ilk olarak The GitHub'da göründü... Register now for OpenClaw: After Hours @ GitHub OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch. The post Register now for OpenClaw: After Hours @ GitHub appeared first on The GitHub... GitHub Dev Platform",
+      "title_original": "Register now for OpenClaw: After Hours @ GitHub",
+      "summary_original": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch. The post Register now for OpenClaw: After Hours @ GitHub appeared first on The GitHub...",
+      "published_display": "2026-05-04",
+      "id": "e90eb17b8b99"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme",
-      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
+      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl doğruladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
       "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
+      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl doğruladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
       "title_original": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
       "summary_original": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on...",
       "published_display": "2026-04-28",
@@ -110,26 +130,6 @@
       "summary_original": "Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog .",
       "published_display": "2026-04-27",
       "id": "e4893bc6ca6c"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs",
-      "summary": "Temel sohbet tamamlama işlemlerinin ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için...",
-      "url": "https://devblogs.microsoft.com/blog/langchainjs-for-beginners",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-04-23T17:00:14Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Yeni Başlayanlar İçin LangChain.js: JavaScript ile Aracı Yapay Zeka Uygulamaları Oluşturmak İçin Ücretsiz Bir Kurs Temel sohbet tamamlama işlemlerinin ötesine geçen JavaScript'li yapay zeka aracıları mı oluşturmak istiyorsunuz? Kendi başlarına akıl yürüten, araçları çağıran ve bilgi tabanlarından yararlanan aracılar mı? Hedefinize ulaşmanıza yardımcı olmak için ücretsiz, açık kaynaklı bir kurs hazırladık. LangChain.js için... LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for... Microsoft Dev Cloud",
-      "title_original": "LangChain.js for Beginners: A Free Course to Build Agentic AI Apps with JavaScript",
-      "summary_original": "Want to build AI agents with JavaScript that go beyond basic chat completions? Agents that reason, call tools, and pull from knowledge bases on their own? We put together a free, open source course to help you get there. LangChain.js for...",
-      "published_display": "2026-04-23",
-      "id": "b6d957f891ee"
     },
     {
       "category": "ai",
@@ -254,26 +254,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazır - openPR.com",
-      "summary": "Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazırlanıyor openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWlAwLUE4VHg0eVhMUUpJdGt6UFoxUzVHWEltek5RYXBycmVzcXBVcWt0YzBZekJFTDJrMU5OSE15WHppTVBKQnFiNG9WVFIwSzlzRklRSGZiZmNZZjl3NE84MWpnd3ZsdjhTM3pod2tmM3lCZXpwaG02QlVWdHgzdjB1cGlmc3dXdC1qczVDTlNXQlVTay0zQmdpcFM?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-04T07:19:20Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazır - openPR.com Robotik ve Otomasyon Aktüatörler Pazarı Güçlü %13,3'e Hazırlanıyor openPR.com Robotics and Automation Actuators Market Set for Strong 13.3% - openPR.com Robotics and Automation Actuators Market Set for Strong 13.3% openPR.com Robotics Automation Industry",
-      "title_original": "Robotics and Automation Actuators Market Set for Strong 13.3% - openPR.com",
-      "summary_original": "Robotics and Automation Actuators Market Set for Strong 13.3% openPR.com",
-      "published_display": "2026-05-04",
-      "id": "ec89f6f6838a"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "VNYX, otomatik moda satışına yönelik robot teknolojisi ve yapay zekayı ölçeklendirmek için 1 milyon Euro topladı - Robotik ve Otomasyon Haberleri",
       "summary": "VNYX, otomatik moda satışına yönelik robot teknolojisi ve yapay zekayı ölçeklendirmek için 1 milyon Euro topladı Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZTVaYVNyQzU1ZllHVEhoRmdaUlY2MElIcE9FbHVDV1ZqQU5wRkZMbmM5Mk01Y2VMTmZUZTJpSk1ZcEdTRWJOem8yZHFPTmlucUlETWNNTHl2YjhqRVpJM0VOdjJoN1ZadGh6aVFvUnlSSXFVbWd4cVVYb0xEMEl3SnJVSHNaejMyTlE3czZIckY5UmRDMVVDb3BpaUY2a09xc0Z4T05SNUVCQV9wQWZUUVhDVE05Y2JuelNhQ3BObTNLbUJTaWZLQllHNGhwZw?oc=5",
@@ -315,7 +295,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire",
-      "summary": "Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
+      "summary": "Dört OEM Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOENBeXRVUXVQQ1o3VVA3RUlqTXZzNWJ5SWZTQ0RyWGdycGJSdnRuNFV0dEdlRk5FR2pTOE1tdU9RbEpHVlcxZGVNSDZHeVdfSWJKcl9ZbzZoSEhhcU5xRjNtYWVpUUh3eExhWFdkYlZ6SG5VZEI5Nnl0YmFfWExsRlpXVm1tR0ZOYUVyNG1HVkJnb0ZkWXU5TXVpNURDejB4aTJPUkd6T2tWTXdsY3hvUUhUMDlhbFNCa3QxcVppNVpMaEN2Mmc?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,31 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
+      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
       "title_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire",
       "summary_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire",
       "published_display": "2026-04-28",
       "id": "1cae9b7bb7a3"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN",
-      "summary": "Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTFwVFR4cW9Iei0xVlZxdE12ZDR0c2VxWGNMeURrN2NqdmxDc05vRS1KR0dfdmN0SXJaV0s0V3BIdzZabFBWVzZuTDBDbnRLdzFuUTBON1ROdHRQOGFoRDBXNTk2UURCZldoeGRNcXY4N2xvX29heFQ3R2FKU0VLVDZPTXZkR3NWOW1NNWR1YnNVcy13V3J2SkNIUzZYOEhWNmIzV0R1OGxZQjVOZk12MXcxRWt3UURpcTdN?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-21T04:03:51Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Skild AI, Zebra Technologies'in robotik otomasyon işletmesini satın aldı - MSN Skild AI, Zebra Technologies robotik otomasyon işletmesi MSN'yi satın aldı Skild AI acquires Zebra Technologies robotics automation business - MSN Skild AI acquires Zebra Technologies robotics automation business MSN Robotics Automation Industry",
-      "title_original": "Skild AI acquires Zebra Technologies robotics automation business - MSN",
-      "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
-      "published_display": "2026-04-21",
-      "id": "74e9a223e019"
     },
     {
       "category": "robotik",
@@ -372,9 +332,49 @@
       "id": "3ba572b1538b"
     },
     {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Birimini Satın Aldı - Business Wire",
+      "summary": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Bağlantısını Satın Aldı",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc1hmUldMc0dPeVdOYnJaZldfdnBGZFotakItektpZVVPcW9XT1hDdURFbmtQbDlqQ1pRQ25kNGRrbGl3b29ienYySW9acU1hRXFQMEsyMF9sRk5EeThyQXZTNmpOdE1ZRUpRalF0UTZrNmRKV01Zd0prelV5MFpYejNjY083YzFZYlpocEpOX1gwdW9Ma3NtSm1kMGFDelVFU2JKMVE0ZzN1OFhvVmN6MXlCUkFLaTZkMWN2T1Vfaw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-15T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Skild AI, Zebra Technologies'in Robotik Otomasyon İş Birimini Satın Aldı - Business Wire Skild AI, Zebra Technologies'in Robotik Otomasyon İş Bağlantısını Satın Aldı Skild AI Acquires Zebra Technologies' Robotics Automation Business - Business Wire Skild AI Acquires Zebra Technologies' Robotics Automation Business Business Wire Robotics Automation Industry",
+      "title_original": "Skild AI Acquires Zebra Technologies' Robotics Automation Business - Business Wire",
+      "summary_original": "Skild AI Acquires Zebra Technologies' Robotics Automation Business Business Wire",
+      "published_display": "2026-04-15",
+      "id": "9d51d2c26481"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi - The Motley Fool",
+      "summary": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmszUHNFLVJYODRkTnJuT09DLVZSV0lCRmt5TWNSWEViWVhGYWlsQmVqbmdFWnJnU2dsMHk3SGQ1bHV6ZHVwc2VFYlJvM1BaZHdRMkFfZ1paTGZ5LWNSVVRrLVJhU0tFNnRZX1pDQVVZZU54SS1neE9tLS1BM1BuWjE3VmZVLUtXVnhsTTB3VzV5czZ4WXFJNE80MGVvcTA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-06T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi - The Motley Fool 2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi 8 Best Robotics Stocks to Buy in 2026 - The Motley Fool 8 Best Robotics Stocks to Buy in 2026 The Motley Fool Robotics Automation Industry",
+      "title_original": "8 Best Robotics Stocks to Buy in 2026 - The Motley Fool",
+      "summary_original": "8 Best Robotics Stocks to Buy in 2026 The Motley Fool",
+      "published_display": "2026-04-06",
+      "id": "7d8c6691ab5e"
+    },
+    {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -494,7 +494,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Ajanssal Yapay Zeka Hizmetlerinin Dikkatle Benimsenmesi",
+      "title": "Ajansal Yapay Zeka Hizmetlerinin Dikkatle Benimsenmesi",
       "summary": "CISA, Avustralya Sinyal Müdürlüğü'nün Avustralya Siber Güvenlik Merkezi (ASD'nin ACSC'si) ve diğer uluslararası ve ABD'li ortaklarıyla işbirliği içinde, kuruluşlar için ajansal yapay zekanın (AI) benimsenmesine ilişkin kılavuz yayınladı.",
       "url": "https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services",
       "image_url": null,
@@ -505,11 +505,11 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Ajanssal Yapay Zeka Hizmetlerinin Dikkatle Benimsenmesi CISA, Avustralya Sinyal Müdürlüğü'nün Avustralya Siber Güvenlik Merkezi (ASD'nin ACSC'si) ve diğer uluslararası ve ABD'li ortaklarıyla işbirliği içinde, kuruluşlar için ajansal yapay zekanın (AI) benimsenmesine ilişkin kılavuz yayınladı. Careful Adoption of Agentic AI Services CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial intelligence (AI... CISA Advisory Threat",
+      "keywords": "Ajansal Yapay Zeka Hizmetlerinin Dikkatle Benimsenmesi CISA, Avustralya Sinyal Müdürlüğü'nün Avustralya Siber Güvenlik Merkezi (ASD'nin ACSC'si) ve diğer uluslararası ve ABD'li ortaklarıyla işbirliği içinde, kuruluşlar için ajansal yapay zekanın (AI) benimsenmesine ilişkin kılavuz yayınladı. Careful Adoption of Agentic AI Services CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial intelligence (AI... CISA Advisory Threat",
       "title_original": "Careful Adoption of Agentic AI Services",
       "summary_original": "CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial intelligence (AI...",
       "published_display": "2026-05-01",
-      "id": "7c49022bffd9"
+      "id": "2c4841ec8f7e"
     },
     {
       "category": "siber",
@@ -535,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "ABB Sistemi 800xA, Symphony Plus IEC 61850",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açığı, ABB'nin bazı Otomasyon kontrol sistemi ürünlerinde kullanılan MMS istemci uygulamaları için IEC 61850 iletişim yığınını uygulamasıyla ilgili olarak özel olarak rapor edildi. Not: IEC 61850 iletişim...",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığı, ABB'nin bazı Otomasyon kontrol sistemi ürünlerinde kullanılan MMS istemci uygulamaları için IEC 61850 iletişim yığınını uygulamasıyla ilgili olarak özel olarak rapor edildi. Not: IEC 61850 iletişim...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -545,7 +545,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "ABB Sistemi 800xA, Symphony Plus IEC 61850 CSAF Özetini Görüntüleyin Bu güvenlik açığı, ABB'nin bazı Otomasyon kontrol sistemi ürünlerinde kullanılan MMS istemci uygulamaları için IEC 61850 iletişim yığınını uygulamasıyla ilgili olarak özel olarak rapor edildi. Not: IEC 61850 iletişim... ABB System 800xA, Symphony Plus IEC 61850 View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication... CISA Advisory Threat",
+      "keywords": "ABB Sistemi 800xA, Symphony Plus IEC 61850 CSAF Özetini Görüntüle Bu güvenlik açığı, ABB'nin bazı Otomasyon kontrol sistemi ürünlerinde kullanılan MMS istemci uygulamaları için IEC 61850 iletişim yığınını uygulamasıyla ilgili olarak özel olarak rapor edildi. Not: IEC 61850 iletişim... ABB System 800xA, Symphony Plus IEC 61850 View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication... CISA Advisory Threat",
       "title_original": "ABB System 800xA, Symphony Plus IEC 61850",
       "summary_original": "View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication...",
       "published_display": "2026-04-30",
@@ -634,7 +634,27 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24",
+      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-02-11T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
+      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
+      "published_display": "2026-02-11",
+      "id": "3dbefd5879d4"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -645,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "3d63787c804b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
@@ -670,26 +690,6 @@
       "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
       "published_display": "2025-12-11",
       "id": "feaf9899af14"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
-      "summary": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-06T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
-      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
-      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
-      "published_display": "2025-08-06",
-      "id": "bb38b8b06d62"
     },
     {
       "category": "kamera",
