@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler",
-      "summary": "Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla üretim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular...",
+      "summary": "Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla verim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular...",
       "url": "https://devblogs.microsoft.com/blog/azure-cosmos-db-conf-2026-recap-lessons-from-production",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,7 +25,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla üretim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular... Azure Cosmos DB Conf 2026 Recap: Lessons from Production A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m... Microsoft Dev Cloud",
+      "keywords": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla verim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular... Azure Cosmos DB Conf 2026 Recap: Lessons from Production A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m... Microsoft Dev Cloud",
       "title_original": "Azure Cosmos DB Conf 2026 Recap: Lessons from Production",
       "summary_original": "A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m...",
       "published_display": "2026-05-05",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme",
-      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
+      "summary": "Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ...",
       "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,7 +125,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve herhangi bir kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
+      "keywords": "Git push hattının güvenliğini sağlama: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme Kritik bir güvenlik açığını iki saatten kısa bir sürede nasıl doğruladık, düzelttik ve araştırdık ve kötüye kullanım olmadığını nasıl onayladık? Git Push boru hattının güvenliğinin sağlanması: Kritik bir uzaktan kod yürütme güvenlik açığına yanıt verme yazısı ilk olarak ... Securing the git push pipeline: Responding to a critical remote code execution vulnerability How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on... GitHub Dev Platform",
       "title_original": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
       "summary_original": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on...",
       "published_display": "2026-04-28",
@@ -150,6 +150,26 @@
       "summary_original": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
       "published_display": "2026-05-05",
       "id": "cf8bf22868eb"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "MRC (Çok Yollu Güvenilir Bağlantı) ile büyük ölçekli yapay zeka eğitim ağlarının kilidini açma",
+      "summary": "OpenAI, büyük ölçekli AI eğitim kümelerinde dayanıklılığı ve performansı artırmak için OCP aracılığıyla yayınlanan yeni bir süper bilgisayar ağ protokolü olan MRC'yi (Çok Yollu Güvenilir Bağlantı) tanıtıyor.",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-05T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "MRC (Çok Yollu Güvenilir Bağlantı) ile büyük ölçekli yapay zeka eğitim ağlarının kilidini açma OpenAI, büyük ölçekli AI eğitim kümelerinde dayanıklılığı ve performansı artırmak için OCP aracılığıyla yayınlanan yeni bir süper bilgisayar ağ protokolü olan MRC'yi (Çok Yollu Güvenilir Bağlantı) tanıtıyor. Unlocking large scale AI training networks with MRC (Multipath Reliable Connection) OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters. AI OpenAI Model",
+      "title_original": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "summary_original": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "published_display": "2026-05-05",
+      "id": "d8de51e32474"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
       "published_display": "2026-05-04",
       "id": "f5ae8d2d667a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Nisan 2026'da duyurduğumuz en son yapay zeka haberleri",
-      "summary": "İşte Google'ın Nisan 2026'daki en son yapay zeka güncellemeleri",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-04T17:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Nisan 2026'da duyurduğumuz en son yapay zeka haberleri İşte Google'ın Nisan 2026'daki en son yapay zeka güncellemeleri The latest AI news we announced in April 2026 Here are Google’s latest AI updates from April 2026 AI Product Google",
-      "title_original": "The latest AI news we announced in April 2026",
-      "summary_original": "Here are Google’s latest AI updates from April 2026",
-      "published_display": "2026-05-04",
-      "id": "5dfdc8afffcd"
     },
     {
       "category": "robotik",
@@ -334,6 +334,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Zebra Technologies, robot otomasyonunu geliştirmek için Apera AI'ya yatırım yapıyor - karar.co.uk",
+      "summary": "Zebra Technologies, robot otomasyonunu geliştirmek için Apera AI'ya yatırım yapıyor karar.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XbGJuNlVEZWRjcVVsanhYdllwZFpTWnpySlp1SEFPRGFiTTZOSUkxQ2Y2RTh5ZWdBUXQwU3FHM2hBMEhacjZCRkN0b0VPMlNlWkdrdDZTcDNMRzFTM3RfcHJwRW5DQ2FBQmFkZ1lUOVhZclh6cUE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-30T09:31:32Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Zebra Technologies, robot otomasyonunu geliştirmek için Apera AI'ya yatırım yapıyor - karar.co.uk Zebra Technologies, robot otomasyonunu geliştirmek için Apera AI'ya yatırım yapıyor karar.co.uk Zebra Technologies invests in Apera AI to advance robot automation - verdict.co.uk Zebra Technologies invests in Apera AI to advance robot automation verdict.co.uk Robotics Automation Industry",
+      "title_original": "Zebra Technologies invests in Apera AI to advance robot automation - verdict.co.uk",
+      "summary_original": "Zebra Technologies invests in Apera AI to advance robot automation verdict.co.uk",
+      "published_display": "2026-04-30",
+      "id": "503c7789fec4"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire",
       "summary": "Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOENBeXRVUXVQQ1o3VVA3RUlqTXZzNWJ5SWZTQ0RyWGdycGJSdnRuNFV0dEdlRk5FR2pTOE1tdU9RbEpHVlcxZGVNSDZHeVdfSWJKcl9ZbzZoSEhhcU5xRjNtYWVpUUh3eExhWFdkYlZ6SG5VZEI5Nnl0YmFfWExsRlpXVm1tR0ZOYUVyNG1HVkJnb0ZkWXU5TXVpNURDejB4aTJPUkd6T2tWTXdsY3hvUUhUMDlhbFNCa3QxcVppNVpMaEN2Mmc?oc=5",
@@ -350,26 +370,6 @@
       "summary_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire",
       "published_display": "2026-04-28",
       "id": "1cae9b7bb7a3"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes",
-      "summary": "Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-17T07:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes Robotics Automation Industry",
-      "title_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes",
-      "summary_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
-      "published_display": "2026-04-17",
-      "id": "3ba572b1538b"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Hitachi Enerji PCM600",
-      "summary": "CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen...",
+      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -505,7 +505,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Hitachi Enerji PCM600 CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen... Hitachi Energy PCM600 View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple... CISA Advisory Threat",
+      "keywords": "Hitachi Enerji PCM600 CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen... Hitachi Energy PCM600 View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple... CISA Advisory Threat",
       "title_original": "Hitachi Energy PCM600",
       "summary_original": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple...",
       "published_display": "2026-05-05",
@@ -614,26 +614,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Tahmini - Fact.MR",
-      "summary": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Fact.MR Tahmini",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15NUxPRXhoZ3N4Nk9aMnY3OFhvLUdOSGY4UUVkT0Fld0FWZGwwVEt4Wm9fZXl4VWh3b0s1TThuc2lxMHpDQmFnZ1hVaDJaTU0zQWhLc3lOS0FIV1Br?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-17T08:14:17Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Tahmini - Fact.MR CCTV Kamera Pazar Büyüklüğü, Payı ve 2036 Fact.MR Tahmini CCTV Camera Market Size, Share & Forecast to 2036 - Fact.MR CCTV Camera Market Size, Share & Forecast to 2036 Fact.MR IP Camera Video Surveillance",
-      "title_original": "CCTV Camera Market Size, Share & Forecast to 2036 - Fact.MR",
-      "summary_original": "CCTV Camera Market Size, Share & Forecast to 2036 Fact.MR",
-      "published_display": "2026-03-17",
-      "id": "0a92897e944f"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
@@ -654,7 +634,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24",
+      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24",
       "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
       "image_url": null,
@@ -665,17 +645,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
       "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
       "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
       "published_display": "2026-02-11",
-      "id": "10de1e0a18c3"
+      "id": "3dbefd5879d4"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -685,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
@@ -710,6 +690,26 @@
       "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
       "published_display": "2025-12-11",
       "id": "feaf9899af14"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Axis Kamera Sunucusu Açıkları Binlerce Kuruluşu Saldırıya Maruz Bırakıyor - CyberSecurityNews",
+      "summary": "Axis Kamera Sunucusu Güvenlik Açıkları Binlerce Kuruluşun Siber Güvenlik Haberlerine Saldırmasına Maruz Kalıyor",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbFhhRlp6ZmVVOUw2WUEwZVQzX25KbDN5NXFHUks3WUJUcVVDNGtEUWNaNV95RG5tdUctblVnQzBZMVBBUGhLbnZnM0NpNUh0OVJjX0tFN253NjlUSUpaN3FiUTF4WVJ6T3JCempqS2dKRzA?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-08T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis Kamera Sunucusu Açıkları Binlerce Kuruluşu Saldırıya Maruz Bırakıyor - CyberSecurityNews Axis Kamera Sunucusu Güvenlik Açıkları Binlerce Kuruluşun Siber Güvenlik Haberlerine Saldırmasına Maruz Kalıyor Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack - CyberSecurityNews Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack - CyberSecurityNews",
+      "summary_original": "Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack CyberSecurityNews",
+      "published_display": "2025-08-08",
+      "id": "b9de9737e451"
     }
   ]
 }
