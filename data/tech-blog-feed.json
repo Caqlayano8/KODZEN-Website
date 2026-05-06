@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-05T20:32:57Z",
+  "updated_at": "2026-05-05T20:33:42Z",
   "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler",
-      "summary": "Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla verim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular...",
+      "summary": "Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla üretim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular...",
       "url": "https://devblogs.microsoft.com/blog/azure-cosmos-db-conf-2026-recap-lessons-from-production",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,7 +25,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla verim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular... Azure Cosmos DB Conf 2026 Recap: Lessons from Production A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m... Microsoft Dev Cloud",
+      "keywords": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla üretim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular... Azure Cosmos DB Conf 2026 Recap: Lessons from Production A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m... Microsoft Dev Cloud",
       "title_original": "Azure Cosmos DB Conf 2026 Recap: Lessons from Production",
       "summary_original": "A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m...",
       "published_display": "2026-05-05",
@@ -259,7 +259,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1HQWdVaWwzakE1YlRibmZJN0RKdlVCalBxV1c0RWlFWk5Gd0pnZlQ3bnJidTN3TEtTd282NmZ2ZU1nTHJuUW9NaEZOTkF2OUY5UjFleUJNcTVFb3F0TmhtWFN5ZWsxOTFuYldLM0RpVGtzNXc0TmNjMEtIUENiZDNSczZkajFnT2FtUi1WejZBeUlVelFxZkRZeUJxNVRhRk1yRFQwdkVMYUE?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-05-05T20:32:57Z",
+      "published_at": "2026-05-05T20:33:42Z",
       "tags": [
         "Robotics",
         "Automation",
@@ -290,26 +290,6 @@
       "summary_original": "AI and Robotics Leaders to Headline Automate 2026 Business Wire",
       "published_display": "2026-05-05",
       "id": "84d1ff07c754"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Meksika Fabrika Otomasyonu Pazar Büyüklüğü 2034'e Kadar 7,0 Milyon ABD Dolarına Ulaşacak | CAGR %7,13 Büyüme Görünümü -vocal.media",
-      "summary": "Meksika Fabrika Otomasyonu Pazar Büyüklüğü 2034'e Kadar 7,0 Milyon ABD Dolarına Ulaşacak | CAGR %7,13 Büyüme Görünümüvocal.media",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnJQR3IxckNDbEdiQXJZVkdRTXllZ2laSUpSNnNMYkN1ZHRpbmNtQWJVOXl3dFh4ZUpUaTFRNnZZU3paMl9qV0t0SnNEd1dqaldhdUswcVJTZUk0ZTRILVdpWGJDVTNxcjRzdjNpZTJENzJtTExCRnFkZS1kdkplUkRnRW9KaUhVVXhIS3FWT2VJUVhvQXNVdXBQczlMM1d4d2c5dzJoclh2TU1TdXlmN0xXNnpvNW9ubVhkOHV6VXVwNmN2TXp6Nlp5NHB0dw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-05T06:38:48Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Meksika Fabrika Otomasyonu Pazar Büyüklüğü 2034'e Kadar 7,0 Milyon ABD Dolarına Ulaşacak | CAGR %7,13 Büyüme Görünümü -vocal.media Meksika Fabrika Otomasyonu Pazar Büyüklüğü 2034'e Kadar 7,0 Milyon ABD Dolarına Ulaşacak | CAGR %7,13 Büyüme Görünümüvocal.media Mexico Factory Automation Market Size to Reach USD 7.0 Million by 2034 | CAGR 7.13% Growth Outlook - vocal.media Mexico Factory Automation Market Size to Reach USD 7.0 Million by 2034 | CAGR 7.13% Growth Outlook vocal.media Robotics Automation Industry",
-      "title_original": "Mexico Factory Automation Market Size to Reach USD 7.0 Million by 2034 | CAGR 7.13% Growth Outlook - vocal.media",
-      "summary_original": "Mexico Factory Automation Market Size to Reach USD 7.0 Million by 2034 | CAGR 7.13% Growth Outlook vocal.media",
-      "published_display": "2026-05-05",
-      "id": "7cef3b2d2505"
     },
     {
       "category": "robotik",
@@ -370,6 +350,26 @@
       "summary_original": "Aluminum foundry automation boosts the industry Inspenet",
       "published_display": "2026-05-03",
       "id": "d8c8d62af612"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire",
+      "summary": "Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOENBeXRVUXVQQ1o3VVA3RUlqTXZzNWJ5SWZTQ0RyWGdycGJSdnRuNFV0dEdlRk5FR2pTOE1tdU9RbEpHVlcxZGVNSDZHeVdfSWJKcl9ZbzZoSEhhcU5xRjNtYWVpUUh3eExhWFdkYlZ6SG5VZEI5Nnl0YmFfWExsRlpXVm1tR0ZOYUVyNG1HVkJnb0ZkWXU5TXVpNURDejB4aTJPUkd6T2tWTXdsY3hvUUhUMDlhbFNCa3QxcVppNVpMaEN2Mmc?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-04-28T17:40:13Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Dört OEM, Robotik Endüstrisindeki Yapay Zeka Görünürlüğünün %60'ını Yakalıyor - GlobeNewswire Dört OEM, Robotik Endüstrisinin %60'ını Ele Geçiriyor Yapay Zeka Görünürlüğü GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire Robotics Automation Industry",
+      "title_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility - GlobeNewswire",
+      "summary_original": "Four OEMs Capture 60% of Robotics Industry AI Visibility GlobeNewswire",
+      "published_display": "2026-04-28",
+      "id": "1cae9b7bb7a3"
     },
     {
       "category": "web",
@@ -594,27 +594,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Asya Gözetleme Kamerası - Piyasa Analizi, Tahmin, Boyut, Trendler ve Analizler - IndexBox",
-      "summary": "Asya Gözetleme Kamerası - Piyasa Analizi, Tahmin, Boyut, Trendler ve Analizler IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzljbGpWb1dIemJQWkp0alR2Y1hCeEZndXp3VU5FN1BUYnpzWjFYUUVodWxkQWVEQ0xXMFMyWDVqb25qYmJpU09iVm9NRWNMcGRqdDAzUkFSdXV6WXl2bGtmUGp1VkFzM2gxLV9WTjJiRzNRNC1wQWlabDhZQ09YUEFMaXBudmhtYlFiSDZIak13bTRRaGl5ZkU5b29zSWNyZVIyaF82YmE?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-05-03T11:12:57Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Asya Gözetleme Kamerası - Piyasa Analizi, Tahmin, Boyut, Trendler ve Analizler - IndexBox Asya Gözetleme Kamerası - Piyasa Analizi, Tahmin, Boyut, Trendler ve Analizler IndexBox Asia Surveillance Camera - Market Analysis, Forecast, Size, Trends and Insights - IndexBox Asia Surveillance Camera - Market Analysis, Forecast, Size, Trends and Insights IndexBox IP Camera Video Surveillance",
-      "title_original": "Asia Surveillance Camera - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "summary_original": "Asia Surveillance Camera - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
-      "published_display": "2026-05-03",
-      "id": "5685f6a3e3fe"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -625,11 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "651206b2fe26"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
@@ -674,6 +654,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Axis Kamera Sunucusu Açıkları Binlerce Kuruluşu Saldırıya Maruz Bırakıyor - CyberSecurityNews",
+      "summary": "Axis Kamera Sunucusu Güvenlik Açıkları Binlerce Kuruluşun Siber Güvenlik Haberlerine Saldırmasına Maruz Kalıyor",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KbFhhRlp6ZmVVOUw2WUEwZVQzX25KbDN5NXFHUks3WUJUcVVDNGtEUWNaNV95RG5tdUctblVnQzBZMVBBUGhLbnZnM0NpNUh0OVJjX0tFN253NjlUSUpaN3FiUTF4WVJ6T3JCempqS2dKRzA?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-08T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis Kamera Sunucusu Açıkları Binlerce Kuruluşu Saldırıya Maruz Bırakıyor - CyberSecurityNews Axis Kamera Sunucusu Güvenlik Açıkları Binlerce Kuruluşun Siber Güvenlik Haberlerine Saldırmasına Maruz Kalıyor Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack - CyberSecurityNews Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack - CyberSecurityNews",
+      "summary_original": "Axis Camera Server Vulnerabilities Exposes Thousands of Organizations to Attack CyberSecurityNews",
+      "published_display": "2025-08-08",
+      "id": "b9de9737e451"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
       "summary": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
@@ -694,22 +694,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba",
-      "summary": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) Capital.ba",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWJiMUpPOVdVSFI1QUV0VXhqSTdzSXFqSHBqY2tmb01LcE93dm0xMHBGZ2JwWlJTWTFVdnVRTkc3UHh1UllFVDBPTXBiM0pvXzhfSVBkOTRhaFhKVVVoVGZvSXlsaXRsZDNUai04UzZZN3c4YnZXdDY5a2poYW04cmw0VDVfc0tWQ2k2bE14N3NGU2MyRy1HTEZNZXltaUg3S0RmWmdoSUwwdlpwbi1nQ2R6R0h3Q0FBYUFFeHhpcWtmZ2M?oc=5",
+      "title": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot",
+      "summary": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTNtcU1Xdk1QenZiNW9Lcm1XUjRPTXlnMWNIZDUtYW9OWnFBZkNxbGpSVzFFTnRHV0ZGMVk5U3RKcUpOVnBTWkNQTllEcWJWWk8tRnpRdkhtSUcyT3huNEZJUU5USHpvYzhQOWEtSXI0QTZkN2hyUC1rcEFNUUxYaGhWU1NLU2dIYmhYaDFOaHl3MnV0?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-06-24T07:00:00Z",
+      "published_at": "2025-06-22T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba IP Camera Video Surveillance",
-      "title_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba",
-      "summary_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba",
-      "published_display": "2025-06-24",
-      "id": "1b04b13b622e"
+      "keywords": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot IP Camera Video Surveillance",
+      "title_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot",
+      "summary_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot",
+      "published_display": "2025-06-22",
+      "id": "fd320a27b5c5"
     }
   ]
 }
