@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-07T11:39:12Z",
+  "updated_at": "2026-05-07T13:00:00Z",
   "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir",
-      "summary": "Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Yardımcı Pilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı...",
+      "summary": "Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Copilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı...",
       "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Yardımcı Pilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı... Validating agentic behavior when “correct” isn’t deterministic How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G... GitHub Dev Platform",
+      "keywords": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Copilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı... Validating agentic behavior when “correct” isn’t deterministic How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G... GitHub Dev Platform",
       "title_original": "Validating agentic behavior when “correct” isn’t deterministic",
       "summary_original": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G...",
       "published_display": "2026-05-06",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Bakım Ayı'na hoş geldiniz: Kodun arkasındaki kişileri kutluyoruz",
-      "summary": "Bakımcıların bize neler söylediğini, neler gönderdiğimizi ve açık kaynağın arkasındaki insanları nasıl kutlayacağımızı. Bakımcı Ayı'na Hoş Geldiniz: Kodun arkasındaki kişileri kutluyoruz yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Bakımcıların bize neler söylediğini, neler gönderdiğimizi ve açık kaynağın arkasındaki insanları nasıl kutlayacağımızı. Bakım Ayı'na Hoş Geldiniz: Kodun arkasındaki kişileri kutlama yazısı ilk olarak GitHub Blog'da göründü.",
       "url": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Bakım Ayı'na hoş geldiniz: Kodun arkasındaki kişileri kutluyoruz Bakımcıların bize neler söylediğini, neler gönderdiğimizi ve açık kaynağın arkasındaki insanları nasıl kutlayacağımızı. Bakımcı Ayı'na Hoş Geldiniz: Kodun arkasındaki kişileri kutluyoruz yazısı ilk olarak GitHub Blogunda göründü. Welcome to Maintainer Month: Celebrating the people behind the code What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Bakım Ayı'na hoş geldiniz: Kodun arkasındaki kişileri kutluyoruz Bakımcıların bize neler söylediğini, neler gönderdiğimizi ve açık kaynağın arkasındaki insanları nasıl kutlayacağımızı. Bakım Ayı'na Hoş Geldiniz: Kodun arkasındaki kişileri kutlama yazısı ilk olarak GitHub Blog'da göründü. Welcome to Maintainer Month: Celebrating the people behind the code What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Welcome to Maintainer Month: Celebrating the people behind the code",
       "summary_original": "What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog .",
       "published_display": "2026-05-05",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Parloa, müşterilerin konuşmak isteyeceği hizmet acenteleri oluşturuyor",
-      "summary": "Parloa, ölçeklenebilir, ses odaklı yapay zeka müşteri hizmetleri temsilcilerine güç sağlamak için OpenAI modellerinden yararlanarak kuruluşların güvenilir, gerçek zamanlı etkileşimler tasarlamasına, simüle etmesine ve dağıtmasına olanak tanır.",
+      "summary": "Parloa, ölçeklenebilir, ses odaklı AI müşteri hizmetleri temsilcilerine güç sağlamak için OpenAI modellerinden yararlanarak kuruluşların güvenilir, gerçek zamanlı etkileşimler tasarlamasına, simüle etmesine ve dağıtmasına olanak tanır.",
       "url": "https://openai.com/index/parloa",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +145,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Parloa, müşterilerin konuşmak isteyeceği hizmet acenteleri oluşturuyor Parloa, ölçeklenebilir, ses odaklı yapay zeka müşteri hizmetleri temsilcilerine güç sağlamak için OpenAI modellerinden yararlanarak kuruluşların güvenilir, gerçek zamanlı etkileşimler tasarlamasına, simüle etmesine ve dağıtmasına olanak tanır. Parloa builds service agents customers want to talk to Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions. AI OpenAI Model",
+      "keywords": "Parloa, müşterilerin konuşmak isteyeceği hizmet acenteleri oluşturuyor Parloa, ölçeklenebilir, ses odaklı AI müşteri hizmetleri temsilcilerine güç sağlamak için OpenAI modellerinden yararlanarak kuruluşların güvenilir, gerçek zamanlı etkileşimler tasarlamasına, simüle etmesine ve dağıtmasına olanak tanır. Parloa builds service agents customers want to talk to Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions. AI OpenAI Model",
       "title_original": "Parloa builds service agents customers want to talk to",
       "summary_original": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
       "published_display": "2026-05-07",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Uber, insanların daha akıllı kazanmalarına ve daha hızlı rezervasyon yapmalarına yardımcı olmak için OpenAI'yi kullanıyor",
-      "summary": "Uber, küresel gerçek zamanlı pazarda sürücülerin daha akıllıca kazanmasına ve yolcuların daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor.",
+      "summary": "Uber, sürücülerin daha akıllıca kazanmasına ve yolcuların küresel gerçek zamanlı pazarda daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor.",
       "url": "https://openai.com/index/uber",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Uber, insanların daha akıllı kazanmalarına ve daha hızlı rezervasyon yapmalarına yardımcı olmak için OpenAI'yi kullanıyor Uber, küresel gerçek zamanlı pazarda sürücülerin daha akıllıca kazanmasına ve yolcuların daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor. Uber uses OpenAI to help people earn smarter and book faster Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace. AI OpenAI Model",
+      "keywords": "Uber, insanların daha akıllı kazanmalarına ve daha hızlı rezervasyon yapmalarına yardımcı olmak için OpenAI'yi kullanıyor Uber, sürücülerin daha akıllıca kazanmasına ve yolcuların küresel gerçek zamanlı pazarda daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor. Uber uses OpenAI to help people earn smarter and book faster Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace. AI OpenAI Model",
       "title_original": "Uber uses OpenAI to help people earn smarter and book faster",
       "summary_original": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
       "published_display": "2026-05-06",
@@ -215,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Singular Bank, bankacıların ChatGPT ve Codex ile hızlı hareket etmesine yardımcı oluyor",
-      "summary": "Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takip aşamalarında günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu.",
+      "summary": "Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takibinde günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu.",
       "url": "https://openai.com/index/singular-bank",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Singular Bank, bankacıların ChatGPT ve Codex ile hızlı hareket etmesine yardımcı oluyor Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takip aşamalarında günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu. Singular Bank helps bankers move fast with ChatGPT and Codex Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up. AI OpenAI Model",
+      "keywords": "Singular Bank, bankacıların ChatGPT ve Codex ile hızlı hareket etmesine yardımcı oluyor Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takibinde günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu. Singular Bank helps bankers move fast with ChatGPT and Codex Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up. AI OpenAI Model",
       "title_original": "Singular Bank helps bankers move fast with ChatGPT and Codex",
       "summary_original": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
       "published_display": "2026-05-06",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT Vadeli İşlemleri ile Tanışın: 2026 Sınıfı",
-      "summary": "Gerçek dünyada etki oluşturmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin.",
+      "summary": "Gerçek dünyada etki yaratmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin.",
       "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,11 +245,51 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT Vadeli İşlemleri ile Tanışın: 2026 Sınıfı Gerçek dünyada etki oluşturmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin. Introducing ChatGPT Futures: Class of 2026 Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT. AI OpenAI Model",
+      "keywords": "ChatGPT Vadeli İşlemleri ile Tanışın: 2026 Sınıfı Gerçek dünyada etki yaratmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin. Introducing ChatGPT Futures: Class of 2026 Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT. AI OpenAI Model",
       "title_original": "Introducing ChatGPT Futures: Class of 2026",
       "summary_original": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "published_display": "2026-05-06",
       "id": "8e9795b25067"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Yenilikçi robotik otomasyon, kek üretiminde verimliliği artırıyor - Food & Drink International",
+      "summary": "Yenilikçi robotik otomasyon kek üretiminde verimliliği artırıyor Food & Drink International",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUd2d3AyamNQNDZzanUwQnpsbFNua0VPRzVUSzk3TGJHOFZMajVObWVQRWV0eVhKMV91dlpSNXJNeW9HZENTMTRjQ05oNkQzbHN3ejlxQWF5ZHdjTFRJa0ZYTTZFNUhOTkxKd3FTZ1gzZ1JGTlNXMTdpSS1zUUd4TTgtRklILWdvZnk0UGdOYmdRVm9LNlBtMXNoSVBDNEZxUVM1MTBsOVVZSG9jLTM5U0xn?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-07T12:49:43Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Yenilikçi robotik otomasyon, kek üretiminde verimliliği artırıyor - Food & Drink International Yenilikçi robotik otomasyon kek üretiminde verimliliği artırıyor Food & Drink International Innovative robotic automation enhances efficiency in cake manufacturing - Food & Drink International Innovative robotic automation enhances efficiency in cake manufacturing Food & Drink International Robotics Automation Industry",
+      "title_original": "Innovative robotic automation enhances efficiency in cake manufacturing - Food & Drink International",
+      "summary_original": "Innovative robotic automation enhances efficiency in cake manufacturing Food & Drink International",
+      "published_display": "2026-05-07",
+      "id": "b8d75505de46"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Micropolis Robotics, Endüstriyel Otomasyon Ayak İzini 1,2 Milyon ABD Doları Dolarlık EMSTEEL Anlaşmasıyla Genişletiyor - GlobeNewswire",
+      "summary": "Micropolis Robotics, Endüstriyel Otomasyon Ayak İzini 1,2 Milyon ABD Doları tutarındaki EMSTEEL Anlaşmasıyla Genişletiyor GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZlQyNTYtblp3V1oxWW1ha3p6cGxReHh0RUpZbFUzX0x5d0s4ZlVLWDJEdHZnNXhUZlVfSkpBb2xtUU9Qdkg1Q1JFMVRma1c0bjloN0RFV1VZdUVuZ3FtTElwTk50bkhjbTRxVGxyQmhuUUFtWDNna3pqMWt2NFhvYlRFNHRtS3NCU3JUcFNEM21CN2N0RW5XQzh6amhvYXpDcmJpRlpUd3BGUUNkTU5Ia2tTbkZMbS1Ec2s2VmF2YmhySFhiQ0UybUpURE5MZTdsTTlsT0U4Rm10T1dzOWpNTGx3R0lKLW9RVmxIOVFaNXdvRmVJWXBhLUM0YmdXX3c?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-07T12:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Micropolis Robotics, Endüstriyel Otomasyon Ayak İzini 1,2 Milyon ABD Doları Dolarlık EMSTEEL Anlaşmasıyla Genişletiyor - GlobeNewswire Micropolis Robotics, Endüstriyel Otomasyon Ayak İzini 1,2 Milyon ABD Doları tutarındaki EMSTEEL Anlaşmasıyla Genişletiyor GlobeNewswire Micropolis Robotics Expands Industrial Automation Footprint with USD $1.2 Million EMSTEEL Agreement - GlobeNewswire Micropolis Robotics Expands Industrial Automation Footprint with USD $1.2 Million EMSTEEL Agreement GlobeNewswire Robotics Automation Industry",
+      "title_original": "Micropolis Robotics Expands Industrial Automation Footprint with USD $1.2 Million EMSTEEL Agreement - GlobeNewswire",
+      "summary_original": "Micropolis Robotics Expands Industrial Automation Footprint with USD $1.2 Million EMSTEEL Agreement GlobeNewswire",
+      "published_display": "2026-05-07",
+      "id": "0f745cd5079f"
     },
     {
       "category": "robotik",
@@ -332,49 +372,9 @@
       "id": "f9c9545e5dc2"
     },
     {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Japonya Lojistik Otomasyon Pazar Büyüklüğü, Payı, Trendler ve Büyüme Raporu -vocal.media",
-      "summary": "Japonya Lojistik Otomasyon Pazar Büyüklüğü, Payı, Trendler ve Büyüme Raporu vokal.medya",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMDdxY0RoUGdJcUI5UTlKWWlEbTZPTG82ZkZ6Xy1scThMd2lUckNDVlRrbGpoUFFxY3RKV3NCWUJmODFTbHZRMFVQVVJ4ZXZtdHlVenF3RHhOM0dJMHFOWlVTdDd6VjdTUlVtRXB4ZHhYSzByNjAyTDQxN1RoZ3NzUEVJT1pSdW9QMTI5M1NaX3kwYkxkb0hz?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-07T07:38:55Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Japonya Lojistik Otomasyon Pazar Büyüklüğü, Payı, Trendler ve Büyüme Raporu -vocal.media Japonya Lojistik Otomasyon Pazar Büyüklüğü, Payı, Trendler ve Büyüme Raporu vokal.medya Japan Logistics Automation Market Size, Share, Trends, and Growth Report - vocal.media Japan Logistics Automation Market Size, Share, Trends, and Growth Report vocal.media Robotics Automation Industry",
-      "title_original": "Japan Logistics Automation Market Size, Share, Trends, and Growth Report - vocal.media",
-      "summary_original": "Japan Logistics Automation Market Size, Share, Trends, and Growth Report vocal.media",
-      "published_display": "2026-05-07",
-      "id": "ab07d95899f0"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek - Modern Material Handling",
-      "summary": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek Modern Malzeme Taşıma",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1HQWdVaWwzakE1YlRibmZJN0RKdlVCalBxV1c0RWlFWk5Gd0pnZlQ3bnJidTN3TEtTd282NmZ2ZU1nTHJuUW9NaEZOTkF2OUY5UjFleUJNcTVFb3F0TmhtWFN5ZWsxOTFuYldLM0RpVGtzNXc0TmNjMEtIUENiZDNSczZkajFnT2FtUi1WejZBeUlVelFxZkRZeUJxNVRhRk1yRFQwdkVMYUE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-05T20:33:42Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek - Modern Material Handling Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek Modern Malzeme Taşıma Aptiv and Comau to co-develop next-generation solutions for robotics, automation - Modern Materials Handling Aptiv and Comau to co-develop next-generation solutions for robotics, automation Modern Materials Handling Robotics Automation Industry",
-      "title_original": "Aptiv and Comau to co-develop next-generation solutions for robotics, automation - Modern Materials Handling",
-      "summary_original": "Aptiv and Comau to co-develop next-generation solutions for robotics, automation Modern Materials Handling",
-      "published_display": "2026-05-05",
-      "id": "08bb81c5b40f"
-    },
-    {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -474,6 +474,26 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Cloudflare, \"Kopyalama Başarısız\" Linux güvenlik açığına nasıl yanıt verdi?",
+      "summary": "Kritik bir Linux çekirdeği ayrıcalık artışı kamuya açıklandığında, Cloudflare'in güvenlik ve mühendislik ekipleri küresel filomuzdaki tehdidi tespit etti, araştırdı ve hafifletti; böylece müşteri etkisinin sıfır olduğunu ve kötü amaçlı bir saldırının olmadığını doğruladı.",
+      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-05-07T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Cloudflare, \"Kopyalama Başarısız\" Linux güvenlik açığına nasıl yanıt verdi? Kritik bir Linux çekirdeği ayrıcalık artışı kamuya açıklandığında, Cloudflare'in güvenlik ve mühendislik ekipleri küresel filomuzdaki tehdidi tespit etti, araştırdı ve hafifletti; böylece müşteri etkisinin sıfır olduğunu ve kötü amaçlı bir saldırının olmadığını doğruladı. How Cloudflare responded to the “Copy Fail” Linux vulnerability When a critical Linux kernel privilege escalation was publicly disclosed, Cloudflare's security and engineering teams detected, investigated, and mitigated the threat across our global fleet, confirming zero customer impact and no malici... Cloudflare Security Web",
+      "title_original": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+      "summary_original": "When a critical Linux kernel privilege escalation was publicly disclosed, Cloudflare's security and engineering teams detected, investigated, and mitigated the threat across our global fleet, confirming zero customer impact and no malici...",
+      "published_display": "2026-05-07",
+      "id": "0b49f45be1ab"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
       "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-0300 Palo Alto Networks PAN-OS Sınır Dışına Yazma Güvenlik Açığı Bu tür güvenlik açığı...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -515,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Hitachi Enerji PCM600",
-      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen...",
+      "summary": "CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -525,7 +545,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Hitachi Enerji PCM600 CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen... Hitachi Energy PCM600 View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple... CISA Advisory Threat",
+      "keywords": "Hitachi Enerji PCM600 CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen... Hitachi Energy PCM600 View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple... CISA Advisory Threat",
       "title_original": "Hitachi Energy PCM600",
       "summary_original": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple...",
       "published_display": "2026-05-05",
@@ -572,29 +592,9 @@
       "id": "d0c9b5a1c2e0"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "ABB B&R Otomasyon Çalışma Süresi",
-      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güvenlik açığını gideren bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, aşağıdakilere neden olabilir:",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-05T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "ABB B&R Otomasyon Çalışma Süresi CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güvenlik açığını gideren bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, aşağıdakilere neden olabilir: ABB B&R Automation Runtime View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. An attacker who successfully exploited this vulnerability could cause t... CISA Advisory Threat",
-      "title_original": "ABB B&R Automation Runtime",
-      "summary_original": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. An attacker who successfully exploited this vulnerability could cause t...",
-      "published_display": "2026-05-05",
-      "id": "f94f415ea00a"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -605,11 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
+      "id": "651206b2fe26"
     },
     {
       "category": "kamera",
