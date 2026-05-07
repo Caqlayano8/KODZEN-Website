@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-07T13:00:00Z",
+  "updated_at": "2026-05-07T19:00:00Z",
   "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilci çekme istekleri her yerdedir. Bunları nasıl inceleyeceğiniz aşağıda açıklanmıştır.",
+      "summary": "Temsilci tarafından oluşturulan çekme isteklerini incelemeye yönelik pratik bir kılavuz: nelere bakılmalı, sorunların nerede saklandığı ve teknik borcun gönderilmeden önce nasıl yakalanacağı. Post Agent çekme istekleri her yerdedir. Bunları nasıl inceleyeceğiniz aşağıda açıklanmıştır. ilk kez ortaya çıktı...",
+      "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-05-07T19:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Temsilci çekme istekleri her yerdedir. Bunları nasıl inceleyeceğiniz aşağıda açıklanmıştır. Temsilci tarafından oluşturulan çekme isteklerini incelemeye yönelik pratik bir kılavuz: nelere bakılmalı, sorunların nerede saklandığı ve teknik borcun gönderilmeden önce nasıl yakalanacağı. Post Agent çekme istekleri her yerdedir. Bunları nasıl inceleyeceğiniz aşağıda açıklanmıştır. ilk kez ortaya çıktı... Agent pull requests are everywhere. Here’s how to review them. A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s how to review them. appeared first on... GitHub Dev Platform",
+      "title_original": "Agent pull requests are everywhere. Here’s how to review them.",
+      "summary_original": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s how to review them. appeared first on...",
+      "published_display": "2026-05-07",
+      "id": "f462e6cbd3e8"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler",
-      "summary": "Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla verim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular...",
+      "summary": "Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla üretim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular...",
       "url": "https://devblogs.microsoft.com/blog/azure-cosmos-db-conf-2026-recap-lessons-from-production",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla verim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular... Azure Cosmos DB Conf 2026 Recap: Lessons from Production A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m... Microsoft Dev Cloud",
+      "keywords": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla üretim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular... Azure Cosmos DB Conf 2026 Recap: Lessons from Production A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m... Microsoft Dev Cloud",
       "title_original": "Azure Cosmos DB Conf 2026 Recap: Lessons from Production",
       "summary_original": "A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m...",
       "published_display": "2026-05-05",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Bakım Ayı'na hoş geldiniz: Kodun arkasındaki kişileri kutluyoruz",
-      "summary": "Bakımcıların bize neler söylediğini, neler gönderdiğimizi ve açık kaynağın arkasındaki insanları nasıl kutlayacağımızı. Bakım Ayı'na Hoş Geldiniz: Kodun arkasındaki kişileri kutlama yazısı ilk olarak GitHub Blog'da göründü.",
+      "summary": "Bakımcıların bize neler söylediğini, neler gönderdiğimizi ve açık kaynağın arkasındaki insanları nasıl kutlayacağımızı. Bakımcı Ayı'na Hoş Geldiniz: Kodun arkasındaki kişileri kutluyoruz yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Bakım Ayı'na hoş geldiniz: Kodun arkasındaki kişileri kutluyoruz Bakımcıların bize neler söylediğini, neler gönderdiğimizi ve açık kaynağın arkasındaki insanları nasıl kutlayacağımızı. Bakım Ayı'na Hoş Geldiniz: Kodun arkasındaki kişileri kutlama yazısı ilk olarak GitHub Blog'da göründü. Welcome to Maintainer Month: Celebrating the people behind the code What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Bakım Ayı'na hoş geldiniz: Kodun arkasındaki kişileri kutluyoruz Bakımcıların bize neler söylediğini, neler gönderdiğimizi ve açık kaynağın arkasındaki insanları nasıl kutlayacağımızı. Bakımcı Ayı'na Hoş Geldiniz: Kodun arkasındaki kişileri kutluyoruz yazısı ilk olarak GitHub Blogunda göründü. Welcome to Maintainer Month: Celebrating the people behind the code What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Welcome to Maintainer Month: Celebrating the people behind the code",
       "summary_original": "What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog .",
       "published_display": "2026-05-05",
@@ -112,30 +132,10 @@
       "id": "db028b754914"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub: Markdown'a Başlarken",
-      "summary": "Markdown'ı kullanarak yorumlarınızı ve gönderilerinizi nasıl biçimlendireceğinizi ve düzenleyeceğinizi keşfedin. Yeni Başlayanlar için GitHub: Markdown'a Başlarken yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-04-28T18:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Yeni Başlayanlar için GitHub: Markdown'a Başlarken Markdown'ı kullanarak yorumlarınızı ve gönderilerinizi nasıl biçimlendireceğinizi ve düzenleyeceğinizi keşfedin. Yeni Başlayanlar için GitHub: Markdown'a Başlarken yazısı ilk olarak GitHub Blogunda göründü. GitHub for Beginners: Getting started with Markdown Discover how to format and edit your comments and posts using Markdown. The post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub for Beginners: Getting started with Markdown",
-      "summary_original": "Discover how to format and edit your comments and posts using Markdown. The post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog .",
-      "published_display": "2026-04-28",
-      "id": "8fd1deb3fde6"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Parloa, müşterilerin konuşmak isteyeceği hizmet acenteleri oluşturuyor",
-      "summary": "Parloa, ölçeklenebilir, ses odaklı AI müşteri hizmetleri temsilcilerine güç sağlamak için OpenAI modellerinden yararlanarak kuruluşların güvenilir, gerçek zamanlı etkileşimler tasarlamasına, simüle etmesine ve dağıtmasına olanak tanır.",
+      "summary": "Parloa, ölçeklenebilir, ses odaklı yapay zeka müşteri hizmetleri temsilcilerine güç sağlamak için OpenAI modellerinden yararlanarak kuruluşların güvenilir, gerçek zamanlı etkileşimler tasarlamasına, simüle etmesine ve dağıtmasına olanak tanır.",
       "url": "https://openai.com/index/parloa",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,11 +145,71 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Parloa, müşterilerin konuşmak isteyeceği hizmet acenteleri oluşturuyor Parloa, ölçeklenebilir, ses odaklı AI müşteri hizmetleri temsilcilerine güç sağlamak için OpenAI modellerinden yararlanarak kuruluşların güvenilir, gerçek zamanlı etkileşimler tasarlamasına, simüle etmesine ve dağıtmasına olanak tanır. Parloa builds service agents customers want to talk to Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions. AI OpenAI Model",
+      "keywords": "Parloa, müşterilerin konuşmak isteyeceği hizmet acenteleri oluşturuyor Parloa, ölçeklenebilir, ses odaklı yapay zeka müşteri hizmetleri temsilcilerine güç sağlamak için OpenAI modellerinden yararlanarak kuruluşların güvenilir, gerçek zamanlı etkileşimler tasarlamasına, simüle etmesine ve dağıtmasına olanak tanır. Parloa builds service agents customers want to talk to Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions. AI OpenAI Model",
       "title_original": "Parloa builds service agents customers want to talk to",
       "summary_original": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
       "published_display": "2026-05-07",
       "id": "4d7cdecfb939"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "API'deki yeni modellerle ses zekasını geliştirme",
+      "summary": "OpenAI API'de, konuşmayı akıl yürütebilen, tercüme edebilen ve yazıya dökebilen, daha doğal ve akıllı ses deneyimleri sağlayan yeni gerçek zamanlı ses modellerini keşfedin.",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-07T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "API'deki yeni modellerle ses zekasını geliştirme OpenAI API'de, konuşmayı akıl yürütebilen, tercüme edebilen ve yazıya dökebilen, daha doğal ve akıllı ses deneyimleri sağlayan yeni gerçek zamanlı ses modellerini keşfedin. Advancing voice intelligence with new models in the API Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences. AI OpenAI Model",
+      "title_original": "Advancing voice intelligence with new models in the API",
+      "summary_original": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "published_display": "2026-05-07",
+      "id": "cda9da3ea551"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "ChatGPT'de reklamları test etme",
+      "summary": "OpenAI, açık etiketleme, yanıt bağımsızlığı, güçlü gizlilik korumaları ve kullanıcı kontrolü ile ücretsiz erişimi desteklemek için ChatGPT'deki reklamları test etmeye başlıyor.",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-07T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "ChatGPT'de reklamları test etme OpenAI, açık etiketleme, yanıt bağımsızlığı, güçlü gizlilik korumaları ve kullanıcı kontrolü ile ücretsiz erişimi desteklemek için ChatGPT'deki reklamları test etmeye başlıyor. Testing ads in ChatGPT OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control. AI OpenAI Model",
+      "title_original": "Testing ads in ChatGPT",
+      "summary_original": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "published_display": "2026-05-07",
+      "id": "35cf613ce103"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "ChatGPT'de Güvenilir Kişiyle Tanışın",
+      "summary": "Kendine zarar verme konusunda ciddi endişeler tespit edildiğinde güvendiğiniz birini bilgilendiren isteğe bağlı bir güvenlik özelliği olan ChatGPT'de Güvenilir Kişi ile tanışın.",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-07T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "ChatGPT'de Güvenilir Kişiyle Tanışın Kendine zarar verme konusunda ciddi endişeler tespit edildiğinde güvendiğiniz birini bilgilendiren isteğe bağlı bir güvenlik özelliği olan ChatGPT'de Güvenilir Kişi ile tanışın. Introducing Trusted Contact in ChatGPT Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected. AI OpenAI Model",
+      "title_original": "Introducing Trusted Contact in ChatGPT",
+      "summary_original": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "published_display": "2026-05-07",
+      "id": "c7467d660ce5"
     },
     {
       "category": "ai",
@@ -190,66 +250,6 @@
       "summary_original": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
       "published_display": "2026-05-06",
       "id": "8d2b6931a31c"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Uber, insanların daha akıllı kazanmalarına ve daha hızlı rezervasyon yapmalarına yardımcı olmak için OpenAI'yi kullanıyor",
-      "summary": "Uber, küresel gerçek zamanlı pazarda sürücülerin daha akıllıca kazanmasına ve yolcuların daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor.",
-      "url": "https://openai.com/index/uber",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-05-06T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Uber, insanların daha akıllı kazanmalarına ve daha hızlı rezervasyon yapmalarına yardımcı olmak için OpenAI'yi kullanıyor Uber, küresel gerçek zamanlı pazarda sürücülerin daha akıllıca kazanmasına ve yolcuların daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor. Uber uses OpenAI to help people earn smarter and book faster Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace. AI OpenAI Model",
-      "title_original": "Uber uses OpenAI to help people earn smarter and book faster",
-      "summary_original": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-      "published_display": "2026-05-06",
-      "id": "dba13aec9279"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Singular Bank, bankacıların ChatGPT ve Codex ile hızlı hareket etmesine yardımcı oluyor",
-      "summary": "Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takip aşamalarında günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu.",
-      "url": "https://openai.com/index/singular-bank",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-05-06T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Singular Bank, bankacıların ChatGPT ve Codex ile hızlı hareket etmesine yardımcı oluyor Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takip aşamalarında günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu. Singular Bank helps bankers move fast with ChatGPT and Codex Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up. AI OpenAI Model",
-      "title_original": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "summary_original": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "published_display": "2026-05-06",
-      "id": "fcd258fe67bb"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "ChatGPT Vadeli İşlemleri ile Tanışın: 2026 Sınıfı",
-      "summary": "Gerçek dünyada etki oluşturmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin.",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-05-06T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "ChatGPT Vadeli İşlemleri ile Tanışın: 2026 Sınıfı Gerçek dünyada etki oluşturmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin. Introducing ChatGPT Futures: Class of 2026 Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT. AI OpenAI Model",
-      "title_original": "Introducing ChatGPT Futures: Class of 2026",
-      "summary_original": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-      "published_display": "2026-05-06",
-      "id": "8e9795b25067"
     },
     {
       "category": "robotik",
@@ -335,7 +335,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü - Robotik ve Otomasyon Haberleri",
-      "summary": "ABB Robotics, robotik toplamayı 'basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü Robotik ve Otomasyon Haberleri",
+      "summary": "ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWG90aHE3ZXlSbUhlSjFQN0daMFBjZlZDakxfWnAwZEk5OWtRMlo5ZWlBVERNVWlqaFF5UVdaRWFjVkJnaUtjWnB2bGp5bk1zRTJ5RUFoRWpMeHNtQjkxWlEzcndyLWc5ZnJiQXhQZlBTaUdWX2lXaWVoU0cybVd0UnBxZ256MHRya0FvaDZjc1FVb2E3a1BndjVsOUVMM19BV1ZiVVZfSFdGaXF5YjJBd3BWMGJ3QmpDTkFGdERTWnRKNGo0YW1NODlyTUJyMHNFZ1Fn?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,7 +345,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü - Robotik ve Otomasyon Haberleri ABB Robotics, robotik toplamayı 'basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü Robotik ve Otomasyon Haberleri ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ - Robotics & Automation News ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ Robotics & Automation News Robotics Automation Industry",
+      "keywords": "ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü - Robotik ve Otomasyon Haberleri ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü Robotik ve Otomasyon Haberleri ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ - Robotics & Automation News ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ Robotics & Automation News Robotics Automation Industry",
       "title_original": "ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ - Robotics & Automation News",
       "summary_original": "ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ Robotics & Automation News",
       "published_display": "2026-05-07",
@@ -374,7 +374,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -674,42 +674,42 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
-      "summary": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
+      "title": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot",
+      "summary": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTNtcU1Xdk1QenZiNW9Lcm1XUjRPTXlnMWNIZDUtYW9OWnFBZkNxbGpSVzFFTnRHV0ZGMVk5U3RKcUpOVnBTWkNQTllEcWJWWk8tRnpRdkhtSUcyT3huNEZJUU5USHpvYzhQOWEtSXI0QTZkN2hyUC1rcEFNUUxYaGhWU1NLU2dIYmhYaDFOaHl3MnV0?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-07-30T07:00:00Z",
+      "published_at": "2025-06-22T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News IP Camera Video Surveillance",
-      "title_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News",
-      "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
-      "published_display": "2025-07-30",
-      "id": "cc6031567108"
+      "keywords": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot IP Camera Video Surveillance",
+      "title_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot",
+      "summary_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot",
+      "published_display": "2025-06-22",
+      "id": "fd320a27b5c5"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba",
-      "summary": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) Capital.ba",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWJiMUpPOVdVSFI1QUV0VXhqSTdzSXFqSHBqY2tmb01LcE93dm0xMHBGZ2JwWlJTWTFVdnVRTkc3UHh1UllFVDBPTXBiM0pvXzhfSVBkOTRhaFhKVVVoVGZvSXlsaXRsZDNUai04UzZZN3c4YnZXdDY5a2poYW04cmw0VDVfc0tWQ2k2bE14N3NGU2MyRy1HTEZNZXltaUg3S0RmWmdoSUwwdlpwbi1nQ2R6R0h3Q0FBYUFFeHhpcWtmZ2M?oc=5",
+      "title": "İsrailli Yetkililer İran'ın Güvenlik Kameralarını Casusluk Amaçlı Ele Geçirdiği Uyarısında Bulundu - Bloomberg.com",
+      "summary": "İsrailli Yetkililer İran'ın Bloomberg.com'u Casusluk Etmek İçin Güvenlik Kameralarını Ele Geçirdiği Uyarısında Bulundu",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjc3VTMwZy1tRkpBS0F0STh3UjRmQkg1UVpMakFZQ0dCakl6X1JuLV9wS0FyU1kzRldHYk1TWjlnSkNsZlJGYXp4blRxYWlQTUtpek1HUk9meDBMMVBEaXhnU3MzUUdWa3lBT3JjOTNjblR3Z3UyNFFuWEFmeG9wQ1RuaVVlZ1lMSEVpMFdJb2tzRlZuU1RGMUllSGF1aVRoVGp2ZHc1ekZadTBS?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-06-24T07:00:00Z",
+      "published_at": "2025-06-19T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba IP Camera Video Surveillance",
-      "title_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba",
-      "summary_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba",
-      "published_display": "2025-06-24",
-      "id": "1b04b13b622e"
+      "keywords": "İsrailli Yetkililer İran'ın Güvenlik Kameralarını Casusluk Amaçlı Ele Geçirdiği Uyarısında Bulundu - Bloomberg.com İsrailli Yetkililer İran'ın Bloomberg.com'u Casusluk Etmek İçin Güvenlik Kameralarını Ele Geçirdiği Uyarısında Bulundu Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy - Bloomberg.com Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy Bloomberg.com IP Camera Video Surveillance",
+      "title_original": "Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy - Bloomberg.com",
+      "summary_original": "Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy Bloomberg.com",
+      "published_display": "2025-06-19",
+      "id": "7384ab553702"
     }
   ]
 }
