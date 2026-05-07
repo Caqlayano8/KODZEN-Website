@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir",
-      "summary": "Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Copilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı...",
+      "summary": "Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Yardımcı Pilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı...",
       "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Copilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı... Validating agentic behavior when “correct” isn’t deterministic How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G... GitHub Dev Platform",
+      "keywords": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Yardımcı Pilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı... Validating agentic behavior when “correct” isn’t deterministic How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G... GitHub Dev Platform",
       "title_original": "Validating agentic behavior when “correct” isn’t deterministic",
       "summary_original": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G...",
       "published_display": "2026-05-06",
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler",
-      "summary": "Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla üretim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular...",
+      "summary": "Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla verim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular...",
       "url": "https://devblogs.microsoft.com/blog/azure-cosmos-db-conf-2026-recap-lessons-from-production",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla üretim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular... Azure Cosmos DB Conf 2026 Recap: Lessons from Production A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m... Microsoft Dev Cloud",
+      "keywords": "Azure Cosmos DB Conf 2026 Özeti: Üretimden Dersler Bir ekip %100 RU kullanımıyla çalışıyordu. Kısıtlamalar yeniden denemelerle birleşiyordu. P99 gecikmesi kötüleşiyordu. Varsayım açıktı: Daha fazla verim sağlamak. Yapmadılar. Bunun yerine, m'yi emen tek bir mantıksal bölüm buldular... Azure Cosmos DB Conf 2026 Recap: Lessons from Production A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m... Microsoft Dev Cloud",
       "title_original": "Azure Cosmos DB Conf 2026 Recap: Lessons from Production",
       "summary_original": "A team was running at 100% RU utilization. Throttles were compounding into retries. P99 latency was degrading. The assumption was obvious: provision more throughput. They didn’t. Instead, they found a single logical partition absorbing m...",
       "published_display": "2026-05-05",
@@ -174,7 +174,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Sınır kuruluşları yapay zeka avantajını nasıl oluşturuyor?",
+      "title": "Sınır firmaları nasıl ilerliyor?",
       "summary": "OpenAI'nin B2B Sinyalleri araştırması, öncü kuruluşların yapay zekayı benimsemeyi nasıl derinleştirdiğini, Codex destekli aracı iş akışlarını nasıl ölçeklendirdiğini ve kalıcı rekabet avantajı oluşturduğunu gösteriyor.",
       "url": "https://openai.com/index/introducing-b2b-signals",
       "image_url": null,
@@ -185,17 +185,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Sınır kuruluşları yapay zeka avantajını nasıl oluşturuyor? OpenAI'nin B2B Sinyalleri araştırması, öncü kuruluşların yapay zekayı benimsemeyi nasıl derinleştirdiğini, Codex destekli aracı iş akışlarını nasıl ölçeklendirdiğini ve kalıcı rekabet avantajı oluşturduğunu gösteriyor. How frontier enterprises are building an AI advantage OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage. AI OpenAI Model",
-      "title_original": "How frontier enterprises are building an AI advantage",
+      "keywords": "Sınır firmaları nasıl ilerliyor? OpenAI'nin B2B Sinyalleri araştırması, öncü kuruluşların yapay zekayı benimsemeyi nasıl derinleştirdiğini, Codex destekli aracı iş akışlarını nasıl ölçeklendirdiğini ve kalıcı rekabet avantajı oluşturduğunu gösteriyor. How frontier firms are pulling ahead OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage. AI OpenAI Model",
+      "title_original": "How frontier firms are pulling ahead",
       "summary_original": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
       "published_display": "2026-05-06",
-      "id": "e929887dad56"
+      "id": "8d2b6931a31c"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Uber, insanların daha akıllı kazanmalarına ve daha hızlı rezervasyon yapmalarına yardımcı olmak için OpenAI'yi kullanıyor",
-      "summary": "Uber, sürücülerin daha akıllıca kazanmasına ve yolcuların küresel gerçek zamanlı pazarda daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor.",
+      "summary": "Uber, küresel gerçek zamanlı pazarda sürücülerin daha akıllıca kazanmasına ve yolcuların daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor.",
       "url": "https://openai.com/index/uber",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Uber, insanların daha akıllı kazanmalarına ve daha hızlı rezervasyon yapmalarına yardımcı olmak için OpenAI'yi kullanıyor Uber, sürücülerin daha akıllıca kazanmasına ve yolcuların küresel gerçek zamanlı pazarda daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor. Uber uses OpenAI to help people earn smarter and book faster Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace. AI OpenAI Model",
+      "keywords": "Uber, insanların daha akıllı kazanmalarına ve daha hızlı rezervasyon yapmalarına yardımcı olmak için OpenAI'yi kullanıyor Uber, küresel gerçek zamanlı pazarda sürücülerin daha akıllıca kazanmasına ve yolcuların daha hızlı rezervasyon yapmasına yardımcı olan yapay zeka asistanlarını ve ses özelliklerini desteklemek için OpenAI'yi kullanıyor. Uber uses OpenAI to help people earn smarter and book faster Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace. AI OpenAI Model",
       "title_original": "Uber uses OpenAI to help people earn smarter and book faster",
       "summary_original": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
       "published_display": "2026-05-06",
@@ -215,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Singular Bank, bankacıların ChatGPT ve Codex ile hızlı hareket etmesine yardımcı oluyor",
-      "summary": "Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takibinde günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu.",
+      "summary": "Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takip aşamalarında günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu.",
       "url": "https://openai.com/index/singular-bank",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Singular Bank, bankacıların ChatGPT ve Codex ile hızlı hareket etmesine yardımcı oluyor Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takibinde günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu. Singular Bank helps bankers move fast with ChatGPT and Codex Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up. AI OpenAI Model",
+      "keywords": "Singular Bank, bankacıların ChatGPT ve Codex ile hızlı hareket etmesine yardımcı oluyor Singular Bank, bankacıların toplantı hazırlığı, portföy analizi ve takip aşamalarında günde 60-90 dakika tasarruf etmesine yardımcı olmak için ChatGPT ve Codex'i kullanan dahili bir asistan olan Singularity'yi kurdu. Singular Bank helps bankers move fast with ChatGPT and Codex Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up. AI OpenAI Model",
       "title_original": "Singular Bank helps bankers move fast with ChatGPT and Codex",
       "summary_original": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
       "published_display": "2026-05-06",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT Vadeli İşlemleri ile Tanışın: 2026 Sınıfı",
-      "summary": "Gerçek dünyada etki yaratmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin.",
+      "summary": "Gerçek dünyada etki oluşturmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin.",
       "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,7 +245,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT Vadeli İşlemleri ile Tanışın: 2026 Sınıfı Gerçek dünyada etki yaratmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin. Introducing ChatGPT Futures: Class of 2026 Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT. AI OpenAI Model",
+      "keywords": "ChatGPT Vadeli İşlemleri ile Tanışın: 2026 Sınıfı Gerçek dünyada etki oluşturmak, araştırmak ve yönlendirmek için yapay zekayı kullanan 26 yenilikçi öğrenciden oluşan ChatGPT Vadeli İşlemler Sınıfı 2026 ile tanışın. Bu neslin ChatGPT ile öğrenmeyi, yaratıcılığı ve fırsatları nasıl yeniden tanımladığını keşfedin. Introducing ChatGPT Futures: Class of 2026 Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT. AI OpenAI Model",
       "title_original": "Introducing ChatGPT Futures: Class of 2026",
       "summary_original": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "published_display": "2026-05-06",
@@ -335,7 +335,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü - Robotik ve Otomasyon Haberleri",
-      "summary": "ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü Robotik ve Otomasyon Haberleri",
+      "summary": "ABB Robotics, robotik toplamayı 'basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWG90aHE3ZXlSbUhlSjFQN0daMFBjZlZDakxfWnAwZEk5OWtRMlo5ZWlBVERNVWlqaFF5UVdaRWFjVkJnaUtjWnB2bGp5bk1zRTJ5RUFoRWpMeHNtQjkxWlEzcndyLWc5ZnJiQXhQZlBTaUdWX2lXaWVoU0cybVd0UnBxZ256MHRya0FvaDZjc1FVb2E3a1BndjVsOUVMM19BV1ZiVVZfSFdGaXF5YjJBd3BWMGJ3QmpDTkFGdERTWnRKNGo0YW1NODlyTUJyMHNFZ1Fn?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,7 +345,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü - Robotik ve Otomasyon Haberleri ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü Robotik ve Otomasyon Haberleri ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ - Robotics & Automation News ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ Robotics & Automation News Robotics Automation Industry",
+      "keywords": "ABB Robotics, 'robotik toplamayı basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü - Robotik ve Otomasyon Haberleri ABB Robotics, robotik toplamayı 'basitleştirmek ve hızlandırmak' için PickMaster Lite'ı piyasaya sürdü Robotik ve Otomasyon Haberleri ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ - Robotics & Automation News ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ Robotics & Automation News Robotics Automation Industry",
       "title_original": "ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ - Robotics & Automation News",
       "summary_original": "ABB Robotics launches PickMaster Lite to ‘simplify and accelerate robotic picking’ Robotics & Automation News",
       "published_display": "2026-05-07",
@@ -494,6 +494,46 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "MAXHUB Pivot İstemci Uygulaması",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kiracı e-posta adreslerine ve ilgili bilgilere açık metin olarak erişmesine olanak tanıyabilir veya hizmet reddi durumuna neden olabilir. MAXHUB Pivo'nun aşağıdaki sürümleri...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-05-07T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "MAXHUB Pivot İstemci Uygulaması CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kiracı e-posta adreslerine ve ilgili bilgilere açık metin olarak erişmesine olanak tanıyabilir veya hizmet reddi durumuna neden olabilir. MAXHUB Pivo'nun aşağıdaki sürümleri... MAXHUB Pivot Client Application View CSAF Summary Successful exploitation of this vulnerability may enable an attacker to access tenant email addresses and associated information in cleartext or cause a denial-of-service condition. The following versions of MAXHUB Pivo... CISA Advisory Threat",
+      "title_original": "MAXHUB Pivot Client Application",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability may enable an attacker to access tenant email addresses and associated information in cleartext or cause a denial-of-service condition. The following versions of MAXHUB Pivo...",
+      "published_display": "2026-05-07",
+      "id": "a148e86178f8"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
+      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Uygunsuz Giriş Doğrulama Güvenlik Açığı Bu tür...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-05-07T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Uygunsuz Giriş Doğrulama Güvenlik Açığı Bu tür... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type o... CISA Advisory Threat",
+      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type o...",
+      "published_display": "2026-05-07",
+      "id": "52fd58137310"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
       "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-0300 Palo Alto Networks PAN-OS Sınır Dışına Yazma Güvenlik Açığı Bu tür güvenlik açığı...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -535,7 +575,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Hitachi Enerji PCM600",
-      "summary": "CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen...",
+      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -545,56 +585,16 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Hitachi Enerji PCM600 CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen... Hitachi Energy PCM600 View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple... CISA Advisory Threat",
+      "keywords": "Hitachi Enerji PCM600 CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen Hitachi Energy PCM600 ürün sürümlerini etkileyen bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bütünlüğünü etkileyebilir. Lütfen... Hitachi Energy PCM600 View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple... CISA Advisory Threat",
       "title_original": "Hitachi Energy PCM600",
       "summary_original": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Ple...",
       "published_display": "2026-05-05",
       "id": "6f53160f8d8d"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "ABB B&R PVI",
-      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güvenlik açığını gideren ve gideren bir güncelleme artık mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-05T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "ABB B&R PVI CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güvenlik açığını gideren ve gideren bir güncelleme artık mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan... ABB B&R PVI View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulne... CISA Advisory Threat",
-      "title_original": "ABB B&R PVI",
-      "summary_original": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulne...",
-      "published_display": "2026-05-05",
-      "id": "e7c7b2eff575"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "ABB B&R Otomasyon Stüdyosu",
-      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güvenlik açığını gideren bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın şunları yapmasını sağlayabilir:",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-05T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "ABB B&R Otomasyon Stüdyosu CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güvenlik açığını gideren bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın şunları yapmasını sağlayabilir: ABB B&R Automation Studio View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to... CISA Advisory Threat",
-      "title_original": "ABB B&R Automation Studio",
-      "summary_original": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to...",
-      "published_display": "2026-05-05",
-      "id": "d0c9b5a1c2e0"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -605,11 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "651206b2fe26"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
@@ -654,26 +654,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Soygun sonrası raporlar, Louvre'un video gözetiminin şifresinin 'Louvre' olduğunu ortaya koyuyor ve video oyunu NPC'lerinin çöplük seviyesindeki operasyonları birdenbire çok daha az saçma görünüyor - PC Gamer",
-      "summary": "Soygun sonrası raporlar, Louvre'un video gözetiminin şifresinin 'Louvre' olduğunu ortaya koyuyor ve video oyunu NPC'lerinin çöplük seviyesindeki operasyonları birdenbire çok daha az saçma görünüyor",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVENvNnNkbWFEZ0s2aWN3MmpDTWRial9MbmU1MFFVd2xPcVg5MkFfajJWZjYwVTJsSURwYnhmTjh2UHd2NWdwUUtKbFZOanlhYXkzaEo4cE5DRV9KcmY1aGYyWmJjcUxmUTEzWU1KNXMxME93NkR0SGtIT2hreVRxYXQ2NE43NjVjVEVZblZVLTg0N1pndHI1ZHFBQm1tQkladTdmNmI3RXVJRnhHY0U2cWpEb1oxa1ZUM28wajB3NXdwUVhRM0Z1S0pQcjZzTGFrX0w4dU1NNEhTazd0eEZtalJ2TWFpajVEQWRCTzdpZjBsd1ZVZlRmZGlreklqTGZqSmJ4M0lOMUJrSkN0Z0I0VWFIbEc1aFRMMUY0QmJ4ejhwQjBRcGhvNU41c1FJVDA?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-11-03T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Soygun sonrası raporlar, Louvre'un video gözetiminin şifresinin 'Louvre' olduğunu ortaya koyuyor ve video oyunu NPC'lerinin çöplük seviyesindeki operasyonları birdenbire çok daha az saçma görünüyor - PC Gamer Soygun sonrası raporlar, Louvre'un video gözetiminin şifresinin 'Louvre' olduğunu ortaya koyuyor ve video oyunu NPC'lerinin çöplük seviyesindeki operasyonları birdenbire çok daha az saçma görünüyor Post-heist reports reveal the password for the Louvre's video surveillance was 'Louvre,' and suddenly the dumpster-tier opsec of videogame NPCs seems a lot less absurd - PC Gamer Post-heist reports reveal the password for the Louvre's video surveillance was 'Louvre,' and suddenly the dumpster-tier opsec of videogame NPCs seems a lot less absurd PC Gamer IP Camera Video Surveillance",
-      "title_original": "Post-heist reports reveal the password for the Louvre's video surveillance was 'Louvre,' and suddenly the dumpster-tier opsec of videogame NPCs seems a lot less absurd - PC Gamer",
-      "summary_original": "Post-heist reports reveal the password for the Louvre's video surveillance was 'Louvre,' and suddenly the dumpster-tier opsec of videogame NPCs seems a lot less absurd PC Gamer",
-      "published_display": "2025-11-03",
-      "id": "305e96e8e4c1"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
       "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
@@ -710,6 +690,26 @@
       "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
       "published_display": "2025-07-30",
       "id": "cc6031567108"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba",
+      "summary": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) Capital.ba",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWJiMUpPOVdVSFI1QUV0VXhqSTdzSXFqSHBqY2tmb01LcE93dm0xMHBGZ2JwWlJTWTFVdnVRTkc3UHh1UllFVDBPTXBiM0pvXzhfSVBkOTRhaFhKVVVoVGZvSXlsaXRsZDNUai04UzZZN3c4YnZXdDY5a2poYW04cmw0VDVfc0tWQ2k2bE14N3NGU2MyRy1HTEZNZXltaUg3S0RmWmdoSUwwdlpwbi1nQ2R6R0h3Q0FBYUFFeHhpcWtmZ2M?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-06-24T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba IP Camera Video Surveillance",
+      "title_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba",
+      "summary_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba",
+      "published_display": "2025-06-24",
+      "id": "1b04b13b622e"
     }
   ]
 }
