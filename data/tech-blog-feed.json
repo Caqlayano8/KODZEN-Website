@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-11T10:00:00Z",
+  "updated_at": "2026-05-11T13:45:20Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Aracı İş Akışlarında belirteç verimliliğini artırma",
-      "summary": "Her çekme isteğinde çalışan aracı iş akışları, büyük API faturalarını sessizce biriktirebilir. Kendi üretim iş akışlarımızı nasıl ayarladığımızı, verimsizlikleri nasıl bulduğumuzu ve bunları düzeltecek aracıları nasıl oluşturduğumuzu burada bulabilirsiniz. Token verimliliğini artırma yazısı...",
+      "summary": "Her çekme isteğinde çalışan aracı iş akışları, büyük API faturalarını sessizce biriktirebilir. Kendi üretim iş akışlarımızı nasıl ayarladığımızı, verimsizlikleri nasıl bulduğumuzu ve bunları düzeltecek aracılar oluşturduğumuzu burada bulabilirsiniz. Token verimliliğini artırma yazısı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Aracı İş Akışlarında belirteç verimliliğini artırma Her çekme isteğinde çalışan aracı iş akışları, büyük API faturalarını sessizce biriktirebilir. Kendi üretim iş akışlarımızı nasıl ayarladığımızı, verimsizlikleri nasıl bulduğumuzu ve bunları düzeltecek aracıları nasıl oluşturduğumuzu burada bulabilirsiniz. Token verimliliğini artırma yazısı... Improving token efficiency in GitHub Agentic Workflows Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them. The post Improving token efficiency... GitHub Dev Platform",
+      "keywords": "GitHub Aracı İş Akışlarında belirteç verimliliğini artırma Her çekme isteğinde çalışan aracı iş akışları, büyük API faturalarını sessizce biriktirebilir. Kendi üretim iş akışlarımızı nasıl ayarladığımızı, verimsizlikleri nasıl bulduğumuzu ve bunları düzeltecek aracılar oluşturduğumuzu burada bulabilirsiniz. Token verimliliğini artırma yazısı... Improving token efficiency in GitHub Agentic Workflows Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them. The post Improving token efficiency... GitHub Dev Platform",
       "title_original": "Improving token efficiency in GitHub Agentic Workflows",
       "summary_original": "Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them. The post Improving token efficiency...",
       "published_display": "2026-05-07",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir",
-      "summary": "Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Yardımcı Pilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı...",
+      "summary": "Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Copilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı...",
       "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Yardımcı Pilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı... Validating agentic behavior when “correct” isn’t deterministic How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G... GitHub Dev Platform",
+      "keywords": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Copilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı... Validating agentic behavior when “correct” isn’t deterministic How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G... GitHub Dev Platform",
       "title_original": "Validating agentic behavior when “correct” isn’t deterministic",
       "summary_original": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G...",
       "published_display": "2026-05-06",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "İşletmeler yapay zekayı nasıl ölçeklendiriyor?",
-      "summary": "İşletmeler yapay zekayı nasıl ölçeklendiriyor: erken deneylerden güven, yönetişim, iş akışı tasarımı ve geniş ölçekte kalite yoluyla etkiyi birleştirmeye kadar.",
+      "summary": "İşletmeler yapay zekayı nasıl ölçeklendirir: erken deneylerden güven, yönetişim, iş akışı tasarımı ve geniş ölçekte kalite aracılığıyla etkiyi birleştirmeye kadar.",
       "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "İşletmeler yapay zekayı nasıl ölçeklendiriyor? İşletmeler yapay zekayı nasıl ölçeklendiriyor: erken deneylerden güven, yönetişim, iş akışı tasarımı ve geniş ölçekte kalite yoluyla etkiyi birleştirmeye kadar. How enterprises are scaling AI How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale. AI OpenAI Model",
+      "keywords": "İşletmeler yapay zekayı nasıl ölçeklendiriyor? İşletmeler yapay zekayı nasıl ölçeklendirir: erken deneylerden güven, yönetişim, iş akışı tasarımı ve geniş ölçekte kalite aracılığıyla etkiyi birleştirmeye kadar. How enterprises are scaling AI How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale. AI OpenAI Model",
       "title_original": "How enterprises are scaling AI",
       "summary_original": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "published_display": "2026-05-11",
@@ -194,8 +194,28 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "OpenAI, işletmelerin zekayı geliştirmesine yardımcı olmak için DeployCo'yu başlattı",
+      "summary": "OpenAI, kuruluşların öncü yapay zekayı üretime taşımasına ve bunu ölçülebilir iş etkisine dönüştürmesine yardımcı olmak için kurulmuş yeni bir kurumsal dağıtım şirketi olan DeployCo'yu kurdu.",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-11T06:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "OpenAI, işletmelerin zekayı geliştirmesine yardımcı olmak için DeployCo'yu başlattı OpenAI, kuruluşların öncü yapay zekayı üretime taşımasına ve bunu ölçülebilir iş etkisine dönüştürmesine yardımcı olmak için kurulmuş yeni bir kurumsal dağıtım şirketi olan DeployCo'yu kurdu. OpenAI launches DeployCo to help businesses build around intelligence OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact. AI OpenAI Model",
+      "title_original": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "summary_original": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "published_display": "2026-05-11",
+      "id": "c0578c8c57b6"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Yaratıcı efsaneler küçük işletmelere yönelik reklamlar oluşturmak için yapay zekayı kullandığında neler olacağını görün.",
-      "summary": "Bugün, sevdikleri yerel işletmeleri desteklemek için reklam sektörünün üç ikonunu bir araya getiren bir girişim olan The Small Brief'i başlatıyoruz. Görevleri kırılma noktası inşa etmektir…",
+      "summary": "Bugün, sevdikleri yerel işletmeyi desteklemek için reklam sektörünün üç ikonunu bir araya getiren bir girişim olan The Small Brief'i başlatıyoruz. Görevleri kırılma noktası inşa etmektir…",
       "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -205,7 +225,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Yaratıcı efsaneler küçük işletmelere yönelik reklamlar oluşturmak için yapay zekayı kullandığında neler olacağını görün. Bugün, sevdikleri yerel işletmeleri desteklemek için reklam sektörünün üç ikonunu bir araya getiren bir girişim olan The Small Brief'i başlatıyoruz. Görevleri kırılma noktası inşa etmektir… See what happens when creative legends use AI to make ads for small businesses. Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt… AI Product Google",
+      "keywords": "Yaratıcı efsaneler küçük işletmelere yönelik reklamlar oluşturmak için yapay zekayı kullandığında neler olacağını görün. Bugün, sevdikleri yerel işletmeyi desteklemek için reklam sektörünün üç ikonunu bir araya getiren bir girişim olan The Small Brief'i başlatıyoruz. Görevleri kırılma noktası inşa etmektir… See what happens when creative legends use AI to make ads for small businesses. Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt… AI Product Google",
       "title_original": "See what happens when creative legends use AI to make ads for small businesses.",
       "summary_original": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
       "published_display": "2026-05-08",
@@ -215,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Codex'i OpenAI'de güvenle çalıştırma",
-      "summary": "OpenAI, güvenli ve uyumlu kodlama aracısının benimsenmesini desteklemek için korumalı alan oluşturma, onaylar, ağ politikaları ve aracı-yerel telemetri ile Codex'i nasıl güvenli bir şekilde çalıştırır?",
+      "summary": "OpenAI, güvenli ve uyumlu kodlama aracısının benimsenmesini desteklemek için korumalı alan oluşturma, onaylar, ağ politikaları ve aracıya özgü telemetri ile Codex'i nasıl güvenli bir şekilde çalıştırır?",
       "url": "https://openai.com/index/running-codex-safely",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,37 +245,37 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Codex'i OpenAI'de güvenle çalıştırma OpenAI, güvenli ve uyumlu kodlama aracısının benimsenmesini desteklemek için korumalı alan oluşturma, onaylar, ağ politikaları ve aracı-yerel telemetri ile Codex'i nasıl güvenli bir şekilde çalıştırır? Running Codex safely at OpenAI How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption. AI OpenAI Model",
+      "keywords": "Codex'i OpenAI'de güvenle çalıştırma OpenAI, güvenli ve uyumlu kodlama aracısının benimsenmesini desteklemek için korumalı alan oluşturma, onaylar, ağ politikaları ve aracıya özgü telemetri ile Codex'i nasıl güvenli bir şekilde çalıştırır? Running Codex safely at OpenAI How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption. AI OpenAI Model",
       "title_original": "Running Codex safely at OpenAI",
       "summary_original": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
       "published_display": "2026-05-08",
       "id": "0a0ae057d311"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-5.5 ve GPT-5.5-Cyber ​​ile Siber için Güvenilir Erişimi Ölçeklendirme",
-      "summary": "OpenAI, GPT-5.5 ve GPT-5.5-Cyber ​​ile Siber için Güvenilir Erişimi genişleterek, doğrulanmış savunucuların güvenlik açığı araştırmalarını hızlandırmasına ve kritik altyapıyı korumasına yardımcı oluyor.",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Nagarro ve Addverb, depolar ve endüstriyel operasyonlar için robotik otomasyonun dağıtımına yönelik Mutabakat Anlaşması imzaladı - Techcircle",
+      "summary": "Nagarro ve Addverb, depolar ve endüstriyel operasyonlar için robotik otomasyonun dağıtımına yönelik Mutabakat Anlaşması imzaladı Techcircle",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1U5ZnhzZEVZYjhDOXZFMW5COWFTaGJoLXp2ZzZ6Tjh0UFpVSW5sNHJpbzZHZDVISkFNZlIwUHRNUGxvWnlTS3VfYmQwTHJLVXJOckljczF4YzF3NmlhQUF5QUpGMThFcjRIc0l0R1J1MEhITVdlNTNzRXhtQWQ0dFdIRkFPbVRlY21xR3BIcm5xUkYzMmF3Y19kN3JfQ09OLWtsNDBuMk1OX2JldlVLSGlMMy12bHJtYWNxa1UyTGZEODIzQVdCUjVVQQ?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-05-07T13:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-05-11T13:45:20Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "GPT-5.5 ve GPT-5.5-Cyber ​​ile Siber için Güvenilir Erişimi Ölçeklendirme OpenAI, GPT-5.5 ve GPT-5.5-Cyber ​​ile Siber için Güvenilir Erişimi genişleterek, doğrulanmış savunucuların güvenlik açığı araştırmalarını hızlandırmasına ve kritik altyapıyı korumasına yardımcı oluyor. Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure. AI OpenAI Model",
-      "title_original": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "summary_original": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "published_display": "2026-05-07",
-      "id": "a04bb641a70d"
+      "keywords": "Nagarro ve Addverb, depolar ve endüstriyel operasyonlar için robotik otomasyonun dağıtımına yönelik Mutabakat Anlaşması imzaladı - Techcircle Nagarro ve Addverb, depolar ve endüstriyel operasyonlar için robotik otomasyonun dağıtımına yönelik Mutabakat Anlaşması imzaladı Techcircle Nagarro, Addverb sign MoU to deploy robotic automation for warehouses and industrial operations - Techcircle Nagarro, Addverb sign MoU to deploy robotic automation for warehouses and industrial operations Techcircle Robotics Automation Industry",
+      "title_original": "Nagarro, Addverb sign MoU to deploy robotic automation for warehouses and industrial operations - Techcircle",
+      "summary_original": "Nagarro, Addverb sign MoU to deploy robotic automation for warehouses and industrial operations Techcircle",
+      "published_display": "2026-05-11",
+      "id": "672eba539259"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda iş birliği yapıyor Robotik ve Otomasyon Haberleri",
+      "summary": "Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda ortak çalışıyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDJRbGViS0JsY2M2RGRybWNtRUYtcE1LVGI3Ml9oLU5sQ2FqWXhobEI4UnRKcmFZdlZvTlRrQjV4MDNJc3M1b0hyYlBsZXVxT25GaGdlOVk1RTh1amFZcXdsQUViQUZTRTdUdGJvcUt4YWN1ZVRHUGRSMjlTQ19DaUNNVzNLNkNfMTg2Qko4MktRZnFpVGxndnlYemRQMk9JVzBSOVZoMlpRZUJOT0N5ZkJObnJtLWNGV0s4QzB3bkhXcDU5RHkyOV9ONG04Rkxfa0FLTENmOEpmbk9YX2tQelln?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda iş birliği yapıyor Robotik ve Otomasyon Haberleri Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda ortak çalışıyor Robotik ve Otomasyon Haberleri Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News Robotics Automation Industry",
       "title_original": "Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News",
       "summary_original": "Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News",
       "published_display": "2026-05-07",
@@ -274,7 +294,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Arjantin Endüstriyel Otomasyon Pazarı Endüstri 4.0'ın Benimsenmesiyle Neden Büyüyor -vocal.media",
+      "title": "Arjantin Endüstriyel Otomasyon Pazarı Endüstri 4.0'ın Benimsenmesiyle Neden Büyüyor - vokal.medya",
       "summary": "Arjantin Endüstriyel Otomasyon Pazarı Endüstri 4.0'ın Benimsenmesiyle Neden Büyüyor vokal.media",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFQtRHlZQUJwV2ViUWpobkM3SnJGZEVWdFQ1aDAwbmp1d3l0X1BmX040S1luR0M5UEctR3ZmYm1tSnRyYXlKeGJnUHc5cjJLT25nRUVUUEUwQTM4QXZVRGZlcThLZGJWek5qRFl0X3J6ckdJYXZ4UVM4Wm1uNUNWYmZTR0pWVkkzUG5KSHJZb01iWHdCRG9HWW5DWENGYWxWRzNkNExkOFFQZDhkVVJYNQ?oc=5",
       "image_url": null,
@@ -285,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Arjantin Endüstriyel Otomasyon Pazarı Endüstri 4.0'ın Benimsenmesiyle Neden Büyüyor -vocal.media Arjantin Endüstriyel Otomasyon Pazarı Endüstri 4.0'ın Benimsenmesiyle Neden Büyüyor vokal.media Why the Argentina Industrial Automation Market Is Growing With Industry 4.0 Adoption - vocal.media Why the Argentina Industrial Automation Market Is Growing With Industry 4.0 Adoption vocal.media Robotics Automation Industry",
+      "keywords": "Arjantin Endüstriyel Otomasyon Pazarı Endüstri 4.0'ın Benimsenmesiyle Neden Büyüyor - vokal.medya Arjantin Endüstriyel Otomasyon Pazarı Endüstri 4.0'ın Benimsenmesiyle Neden Büyüyor vokal.media Why the Argentina Industrial Automation Market Is Growing With Industry 4.0 Adoption - vocal.media Why the Argentina Industrial Automation Market Is Growing With Industry 4.0 Adoption vocal.media Robotics Automation Industry",
       "title_original": "Why the Argentina Industrial Automation Market Is Growing With Industry 4.0 Adoption - vocal.media",
       "summary_original": "Why the Argentina Industrial Automation Market Is Growing With Industry 4.0 Adoption vocal.media",
       "published_display": "2026-05-04",
-      "id": "44b2f263c239"
+      "id": "ff9ca1bc6a6c"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Skild AI acquires Zebra Technologies robotics automation business MSN",
       "published_display": "2026-04-21",
       "id": "c67398ef3069"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes",
-      "summary": "Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJkem5DMWUtb09RalhNemUtZFZXV3lhaEZaR0VESTczRnZzaFkzVHRZOEVBSEhPYnhabzMyOHE2Yzhjbm1ldUk5SW9mdEZ6TFY4QW1IQ1U3Q01OYzZhc1N6UE9pOXNJYWxjeHRPellEOFFHQS1PX1JEcUlwZkNNVE9UeExudXJmM09zTFh4WFJFanRwTEpqRVh3?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-04-17T07:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Aurotek, Tayvan'ın akıllı otomasyon pazarını güçlendirmek için üç yapay zeka robotunu piyasaya sürüyor - digitimes Aurotek, Tayvan'ın akıllı otomasyon pazarının dijital rakamlarını artırmak için üç yapay zeka robotunu piyasaya sürdü Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes Robotics Automation Industry",
-      "title_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market - digitimes",
-      "summary_original": "Aurotek launches three AI robots to boost Taiwan's smart automation market digitimes",
-      "published_display": "2026-04-17",
-      "id": "3ba572b1538b"
     },
     {
       "category": "web",
@@ -574,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,17 +585,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
+      "id": "651206b2fe26"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,17 +605,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews",
-      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
+      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,7 +625,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
       "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
       "published_display": "2025-12-11",
@@ -674,8 +674,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) - Capital.ba",
-      "summary": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) Capital.ba",
+      "title": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba",
+      "summary": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) Capital.ba",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWJiMUpPOVdVSFI1QUV0VXhqSTdzSXFqSHBqY2tmb01LcE93dm0xMHBGZ2JwWlJTWTFVdnVRTkc3UHh1UllFVDBPTXBiM0pvXzhfSVBkOTRhaFhKVVVoVGZvSXlsaXRsZDNUai04UzZZN3c4YnZXdDY5a2poYW04cmw0VDVfc0tWQ2k2bE14N3NGU2MyRy1HTEZNZXltaUg3S0RmWmdoSUwwdlpwbi1nQ2R6R0h3Q0FBYUFFeHhpcWtmZ2M?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -685,11 +685,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) - Capital.ba Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba IP Camera Video Surveillance",
+      "keywords": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba IP Camera Video Surveillance",
       "title_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba",
       "summary_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba",
       "published_display": "2025-06-24",
-      "id": "f3f3e3698dd3"
+      "id": "1b04b13b622e"
     }
   ]
 }
