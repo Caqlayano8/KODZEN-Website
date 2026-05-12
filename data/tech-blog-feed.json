@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-12T11:31:35Z",
+  "updated_at": "2026-05-12T15:00:00Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Zindanlar ve Masaüstü Bilgisayarlar: GitHub Copilot CLI ile prosedürel olarak oluşturulmuş roguelike oluşturma",
+      "summary": "Bir Hubber'ın, herhangi bir kod tabanını benzersiz, haydut benzeri bir zindana dönüştüren bir uzantı oluşturmak için GitHub Copilot CLI'yi nasıl kullandığını öğrenin. İlk olarak Zindanlar ve Masaüstü Bilgisayarlar: GitHub Copilot CLI ile prosedürel olarak oluşturulmuş bir roguelike oluşturma yazısı çıktı...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-05-12T15:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Zindanlar ve Masaüstü Bilgisayarlar: GitHub Copilot CLI ile prosedürel olarak oluşturulmuş roguelike oluşturma Bir Hubber'ın, herhangi bir kod tabanını benzersiz, haydut benzeri bir zindana dönüştüren bir uzantı oluşturmak için GitHub Copilot CLI'yi nasıl kullandığını öğrenin. İlk olarak Zindanlar ve Masaüstü Bilgisayarlar: GitHub Copilot CLI ile prosedürel olarak oluşturulmuş bir roguelike oluşturma yazısı çıktı... Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI Learn how one Hubber used GitHub Copilot CLI to build an extension that turns any codebase into a unique, roguelike dungeon. The post Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI appeared first... GitHub Dev Platform",
+      "title_original": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
+      "summary_original": "Learn how one Hubber used GitHub Copilot CLI to build an extension that turns any codebase into a unique, roguelike dungeon. The post Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI appeared first...",
+      "published_display": "2026-05-12",
+      "id": "5b688e8650ef"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s how to review them. appeared first on...",
       "published_display": "2026-05-07",
       "id": "f462e6cbd3e8"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir",
-      "summary": "Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Yardımcı Pilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-06T21:16:31Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Fail davranışını \"doğru\" olduğunda doğrulamak belirleyici değildir Baskın analiz kullanarak kırılgan komut dosyaları veya kara kutu kararları olmadan Github Yardımcı Pilot Kodlama Aracıları için \"Güven Katmanı\" nasıl oluşturulur? \"Doğru\" deterministik olmadığında aracı davranışın doğrulanması yazısı ilk olarak The G'de çıktı... Validating agentic behavior when “correct” isn’t deterministic How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G... GitHub Dev Platform",
-      "title_original": "Validating agentic behavior when “correct” isn’t deterministic",
-      "summary_original": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The G...",
-      "published_display": "2026-05-06",
-      "id": "35b9bc91199e"
     },
     {
       "category": "ai",
@@ -314,26 +314,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Nagarro-Addverb, depolar ve endüstriyel operasyonlar için robotik otomasyonu devreye alacak - Techcircle",
-      "summary": "Nagarro-Addverb, depolar ve endüstriyel operasyonlar için robotik otomasyonu devreye alacak Techcircle",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY1U5ZnhzZEVZYjhDOXZFMW5COWFTaGJoLXp2ZzZ6Tjh0UFpVSW5sNHJpbzZHZDVISkFNZlIwUHRNUGxvWnlTS3VfYmQwTHJLVXJOckljczF4YzF3NmlhQUF5QUpGMThFcjRIc0l0R1J1MEhITVdlNTNzRXhtQWQ0dFdIRkFPbVRlY21xR3BIcm5xUkYzMmF3Y19kN3JfQ09OLWtsNDBuMk1OX2JldlVLSGlMMy12bHJtYWNxa1UyTGZEODIzQVdCUjVVQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-11T13:45:20Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Nagarro-Addverb, depolar ve endüstriyel operasyonlar için robotik otomasyonu devreye alacak - Techcircle Nagarro-Addverb, depolar ve endüstriyel operasyonlar için robotik otomasyonu devreye alacak Techcircle Nagarro-Addverb to deploy robotic automation for warehouses and industrial operations - Techcircle Nagarro-Addverb to deploy robotic automation for warehouses and industrial operations Techcircle Robotics Automation Industry",
-      "title_original": "Nagarro-Addverb to deploy robotic automation for warehouses and industrial operations - Techcircle",
-      "summary_original": "Nagarro-Addverb to deploy robotic automation for warehouses and industrial operations Techcircle",
-      "published_display": "2026-05-11",
-      "id": "4d6001b002c8"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Endüstriyel Kontrol Robotiği Pazarı 11,37 Milyar Dolara Ulaşacak - openPR.com",
       "summary": "Endüstriyel Kontrol Robotik Pazarı 11,37 Milyar Dolara Ulaşacak openPR.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVBUMFYyMlpzTlR2aEdFbTQxM2l5NF95ZVEtczZ6eEpXUzYzRnZ1VWZJOUdVSTUxMUtnUWtGdVc1djhNb3doQ0ZTUU9VZ1VQZzRfZ1dHZlRlNVlVaWowTXJPYnAxd2ZobGdCUWx0UFQweUV6dVktRlB0ZXhJUWFkc2RVd1YwZ0JHSDJycTctQ0VDS1h1RS13MFhLUEZKZw?oc=5",
@@ -370,6 +350,26 @@
       "summary_original": "Robotic Process Automation Market to Reach US$ 50.10 Billion openPR.com",
       "published_display": "2026-05-11",
       "id": "898d3630c670"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Nagarro ve Addverb Technologies, depo ve endüstriyel operasyonlar için uçtan uca robotik otomasyonu dağıtmak üzere iş birliği yapıyor - CXOToday.com",
+      "summary": "Nagarro ve Addverb Technologies, depo ve endüstriyel operasyonlar için uçtan uca robotik otomasyonun dağıtımı için iş birliği yapıyor CXOToday.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXdleG1waG90aWpibjRaOUJ1TkRSR0pQdXpVb1drNzZBclNjeVdSMG4wMFlUUHFvenJtTVNMS1ByNURCc3FxVXBQc1NzVlYxdk5HVDM3VUJRTFlJVkM4b1piUmVqSUV0Mkc4TmRxUjctYUNPMkZqdUNPMlJZRE9GZG82Z3ByVXV3STFMbWJrVjRzTllfSFc3ZnRIQm1kTUR1Y1p3Vk9mdDI5bXhhaGZQUDk2ZGZydXhpTXc4RW1NNzBCbHVGRGJtdDJkczN2N3JGc25UbGl2X0VnOC1xM1RwOGZUa3lERGJUaFhXay1B?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-11T12:12:49Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Nagarro ve Addverb Technologies, depo ve endüstriyel operasyonlar için uçtan uca robotik otomasyonu dağıtmak üzere iş birliği yapıyor - CXOToday.com Nagarro ve Addverb Technologies, depo ve endüstriyel operasyonlar için uçtan uca robotik otomasyonun dağıtımı için iş birliği yapıyor CXOToday.com Nagarro and Addverb Technologies partner to deploy end-to-end robotic automation for warehouse and industrial operations - CXOToday.com Nagarro and Addverb Technologies partner to deploy end-to-end robotic automation for warehouse and industrial operations CXOToday.com Robotics Automation Industry",
+      "title_original": "Nagarro and Addverb Technologies partner to deploy end-to-end robotic automation for warehouse and industrial operations - CXOToday.com",
+      "summary_original": "Nagarro and Addverb Technologies partner to deploy end-to-end robotic automation for warehouse and industrial operations CXOToday.com",
+      "published_display": "2026-05-11",
+      "id": "a005665db6cf"
     },
     {
       "category": "web",
@@ -454,122 +454,122 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-42208 BerriAI LiteLLM SQL Enjeksiyon Güvenlik Açığı Bu tür güvenlik açığı, sık sık saldırıya uğrar...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "title": "ABB WebPro SNMP Kartı PowerValue Çoklu Güvenlik Açıkları",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün sürümleri için WebPro SNMP kartı PowerValue'da dahili olarak keşfedilen çok sayıda güvenlik açığının farkına vardı. Güvenlik açığına bağlı olarak, erişime sahip bir saldırgan...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-06",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-08T12:00:00Z",
+      "published_at": "2026-05-12T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-42208 BerriAI LiteLLM SQL Enjeksiyon Güvenlik Açığı Bu tür güvenlik açığı, sık sık saldırıya uğrar... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42208 BerriAI LiteLLM SQL Injection Vulnerability This type of vulnerability is a frequent att... CISA Advisory Threat",
-      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42208 BerriAI LiteLLM SQL Injection Vulnerability This type of vulnerability is a frequent att...",
-      "published_display": "2026-05-08",
-      "id": "3697b4472cec"
+      "keywords": "ABB WebPro SNMP Kartı PowerValue Çoklu Güvenlik Açıkları CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün sürümleri için WebPro SNMP kartı PowerValue'da dahili olarak keşfedilen çok sayıda güvenlik açığının farkına vardı. Güvenlik açığına bağlı olarak, erişime sahip bir saldırgan... ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities View CSAF Summary ABB became aware of multiple internally discovered vulnerabilities in the WebPro SNMP card PowerValue for the product versions listed as affected in the advisory. Depending upon the vulnerability, an attacker with acces... CISA Advisory Threat",
+      "title_original": "ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities",
+      "summary_original": "View CSAF Summary ABB became aware of multiple internally discovered vulnerabilities in the WebPro SNMP card PowerValue for the product versions listed as affected in the advisory. Depending upon the vulnerability, an attacker with acces...",
+      "published_display": "2026-05-12",
+      "id": "871e01b3a294"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare, \"Kopyalama Başarısız\" Linux güvenlik açığına nasıl yanıt verdi?",
-      "summary": "Kritik bir Linux çekirdeği ayrıcalık artışı kamuya açıklandığında, Cloudflare'in güvenlik ve mühendislik ekipleri küresel filomuzdaki tehdidi tespit etti, araştırdı ve hafifletti; böylece müşteri etkisinin sıfır olduğunu ve kötü amaçlı bir saldırının olmadığını doğruladı.",
-      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-      "image_url": null,
-      "source": "Cloudflare Security",
-      "published_at": "2026-05-07T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Cloudflare, \"Kopyalama Başarısız\" Linux güvenlik açığına nasıl yanıt verdi? Kritik bir Linux çekirdeği ayrıcalık artışı kamuya açıklandığında, Cloudflare'in güvenlik ve mühendislik ekipleri küresel filomuzdaki tehdidi tespit etti, araştırdı ve hafifletti; böylece müşteri etkisinin sıfır olduğunu ve kötü amaçlı bir saldırının olmadığını doğruladı. How Cloudflare responded to the “Copy Fail” Linux vulnerability When a critical Linux kernel privilege escalation was publicly disclosed, Cloudflare's security and engineering teams detected, investigated, and mitigated the threat across our global fleet, confirming zero customer impact and no malici... Cloudflare Security Web",
-      "title_original": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
-      "summary_original": "When a critical Linux kernel privilege escalation was publicly disclosed, Cloudflare's security and engineering teams detected, investigated, and mitigated the threat across our global fleet, confirming zero customer impact and no malici...",
-      "published_display": "2026-05-07",
-      "id": "0b49f45be1ab"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "MAXHUB Pivot İstemci Uygulaması",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kiracı e-posta adreslerine ve ilgili bilgilere açık metin olarak erişmesine olanak tanıyabilir veya hizmet reddi durumuna neden olabilir. MAXHUB Pivo'nun aşağıdaki sürümleri...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01",
+      "title": "Windows için ABB Automation Builder Gateway",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilendiği belirtilen ürün versiyonlarındaki ciddi güvenlik açığının farkına vardı. Windows ağ geçidine varsayılan olarak uzaktan erişilebilir. Kimliği doğrulanmamış saldırganlar bu nedenle PLC'leri arayabilir, ancak...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-04",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-07T12:00:00Z",
+      "published_at": "2026-05-12T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "MAXHUB Pivot İstemci Uygulaması CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kiracı e-posta adreslerine ve ilgili bilgilere açık metin olarak erişmesine olanak tanıyabilir veya hizmet reddi durumuna neden olabilir. MAXHUB Pivo'nun aşağıdaki sürümleri... MAXHUB Pivot Client Application View CSAF Summary Successful exploitation of this vulnerability may enable an attacker to access tenant email addresses and associated information in cleartext or cause a denial-of-service condition. The following versions of MAXHUB Pivo... CISA Advisory Threat",
-      "title_original": "MAXHUB Pivot Client Application",
-      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability may enable an attacker to access tenant email addresses and associated information in cleartext or cause a denial-of-service condition. The following versions of MAXHUB Pivo...",
-      "published_display": "2026-05-07",
-      "id": "a148e86178f8"
+      "keywords": "Windows için ABB Automation Builder Gateway CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilendiği belirtilen ürün versiyonlarındaki ciddi güvenlik açığının farkına vardı. Windows ağ geçidine varsayılan olarak uzaktan erişilebilir. Kimliği doğrulanmamış saldırganlar bu nedenle PLC'leri arayabilir, ancak... ABB Automation Builder Gateway for Windows View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. The Windows gateway is accessible remotely by default. Unauthenticated attackers can therefore search for PLCs, but t... CISA Advisory Threat",
+      "title_original": "ABB Automation Builder Gateway for Windows",
+      "summary_original": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. The Windows gateway is accessible remotely by default. Unauthenticated attackers can therefore search for PLCs, but t...",
+      "published_display": "2026-05-12",
+      "id": "2a99c07233d9"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Uygunsuz Giriş Doğrulama Güvenlik Açığı Bu tür...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "title": "ABB AC500 V3 Kriptografik Mesaj Sözdiziminde Yığın Arabellek Taşması",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenen olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Genel olarak bildirilen güvenlik açığını gideren bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-07T12:00:00Z",
+      "published_at": "2026-05-12T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Uygunsuz Giriş Doğrulama Güvenlik Açığı Bu tür... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type o... CISA Advisory Threat",
-      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type o...",
-      "published_display": "2026-05-07",
-      "id": "52fd58137310"
+      "keywords": "ABB AC500 V3 Kriptografik Mesaj Sözdiziminde Yığın Arabellek Taşması CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenen olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Genel olarak bildirilen güvenlik açığını gideren bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan... ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploited these vulnerabi... CISA Advisory Threat",
+      "title_original": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
+      "summary_original": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploited these vulnerabi...",
+      "published_display": "2026-05-12",
+      "id": "67fe3123bb5a"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-0300 Palo Alto Networks PAN-OS Sınır Dışına Yazma Güvenlik Açığı Bu tür güvenlik açığı...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "title": "ABB AC500 V3 Çoklu Güvenlik Açıkları",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilendiği belirtilen ürün versiyonlarındaki ciddi güvenlik açığının farkına vardı. Bu güvenlik açıklarını gideren bir güncelleştirme mevcuttur. Bu güvenlik açığından başarıyla yararlanan bir saldırgan...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-03",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-06T12:00:00Z",
+      "published_at": "2026-05-12T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-0300 Palo Alto Networks PAN-OS Sınır Dışına Yazma Güvenlik Açığı Bu tür güvenlik açığı... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0300 Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability This type of vulnerability is... CISA Advisory Threat",
-      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0300 Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability This type of vulnerability is...",
-      "published_display": "2026-05-06",
-      "id": "15dd9c19dace"
+      "keywords": "ABB AC500 V3 Çoklu Güvenlik Açıkları CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilendiği belirtilen ürün versiyonlarındaki ciddi güvenlik açığının farkına vardı. Bu güvenlik açıklarını gideren bir güncelleştirme mevcuttur. Bu güvenlik açığından başarıyla yararlanan bir saldırgan... ABB AC500 V3 Multiple Vulnerabilities View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. An update is available that resolves these vulnerabilities. An attacker who successfully exploited these vulnerabilit... CISA Advisory Threat",
+      "title_original": "ABB AC500 V3 Multiple Vulnerabilities",
+      "summary_original": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. An update is available that resolves these vulnerabilities. An attacker who successfully exploited these vulnerabilit...",
+      "published_display": "2026-05-12",
+      "id": "165a72135933"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Johnson CEM AC2000'i Kontrol Ediyor",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, standart bir kullanıcının ana makinedeki ayrıcalıkları yükseltmesine olanak verebilir. Johnson Controls CEM AC2000'in aşağıdaki sürümleri etkilenir: CEM AC2000 12.0 (CVE-2026-21661)...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05",
+      "title": "Alt Ağ Çözümleri PowerSYSTEM Merkezi",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, kimliği doğrulanmış bir saldırganın hassas bilgileri açığa çıkarmasına veya CRLF enjeksiyonuna neden olmasına olanak verebilir. Subnet Solutions PowerSYSTEM Center'ın aşağıdaki sürümleri etkilenir...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-05T12:00:00Z",
+      "published_at": "2026-05-12T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "Johnson CEM AC2000'i Kontrol Ediyor CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, standart bir kullanıcının ana makinedeki ayrıcalıkları yükseltmesine olanak verebilir. Johnson Controls CEM AC2000'in aşağıdaki sürümleri etkilenir: CEM AC2000 12.0 (CVE-2026-21661)... Johnson Controls CEM AC2000 View CSAF Summary Successful exploitation of this vulnerability could allow a standard user to escalate privileges on the host machine. The following versions of Johnson Controls CEM AC2000 are affected: CEM AC2000 12.0 (CVE-2026-21661)... CISA Advisory Threat",
-      "title_original": "Johnson Controls CEM AC2000",
-      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow a standard user to escalate privileges on the host machine. The following versions of Johnson Controls CEM AC2000 are affected: CEM AC2000 12.0 (CVE-2026-21661)...",
-      "published_display": "2026-05-05",
-      "id": "a0a4432b4fd0"
+      "keywords": "Alt Ağ Çözümleri PowerSYSTEM Merkezi CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, kimliği doğrulanmış bir saldırganın hassas bilgileri açığa çıkarmasına veya CRLF enjeksiyonuna neden olmasına olanak verebilir. Subnet Solutions PowerSYSTEM Center'ın aşağıdaki sürümleri etkilenir... Subnet Solutions PowerSYSTEM Center View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM Center are affecte... CISA Advisory Threat",
+      "title_original": "Subnet Solutions PowerSYSTEM Center",
+      "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM Center are affecte...",
+      "published_display": "2026-05-12",
+      "id": "17f85d57186f"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Fuji Elektrik Dünyası",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak sağlayabilir. Bu...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-05-12T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Fuji Elektrik Dünyası CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak sağlayabilir. Bu... Fuji Electric Tellus View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. Th... CISA Advisory Threat",
+      "title_original": "Fuji Electric Tellus",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. Th...",
+      "published_display": "2026-05-12",
+      "id": "eb49f189d4c9"
     },
     {
       "category": "kamera",
@@ -590,6 +590,26 @@
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
       "id": "015a81ebc793"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24",
+      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-02-11T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
+      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
+      "published_display": "2026-02-11",
+      "id": "3dbefd5879d4"
     },
     {
       "category": "kamera",
@@ -654,42 +674,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot",
-      "summary": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTNtcU1Xdk1QenZiNW9Lcm1XUjRPTXlnMWNIZDUtYW9OWnFBZkNxbGpSVzFFTnRHV0ZGMVk5U3RKcUpOVnBTWkNQTllEcWJWWk8tRnpRdkhtSUcyT3huNEZJUU5USHpvYzhQOWEtSXI0QTZkN2hyUC1rcEFNUUxYaGhWU1NLU2dIYmhYaDFOaHl3MnV0?oc=5",
+      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
+      "summary": "ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-06-22T07:00:00Z",
+      "published_at": "2025-08-06T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot IP Camera Video Surveillance",
-      "title_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot",
-      "summary_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot",
-      "published_display": "2025-06-22",
-      "id": "fd320a27b5c5"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "İsrailli Yetkililer İran'ın Güvenlik Kameralarını Casusluk Amaçlı Ele Geçirdiği Uyarısında Bulundu - Bloomberg.com",
-      "summary": "İsrailli Yetkililer İran'ın Bloomberg.com'u Casusluk Etmek İçin Güvenlik Kameralarını Ele Geçirdiği Uyarısında Bulundu",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjc3VTMwZy1tRkpBS0F0STh3UjRmQkg1UVpMakFZQ0dCakl6X1JuLV9wS0FyU1kzRldHYk1TWjlnSkNsZlJGYXp4blRxYWlQTUtpek1HUk9meDBMMVBEaXhnU3MzUUdWa3lBT3JjOTNjblR3Z3UyNFFuWEFmeG9wQ1RuaVVlZ1lMSEVpMFdJb2tzRlZuU1RGMUllSGF1aVRoVGp2ZHc1ekZadTBS?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-19T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "İsrailli Yetkililer İran'ın Güvenlik Kameralarını Casusluk Amaçlı Ele Geçirdiği Uyarısında Bulundu - Bloomberg.com İsrailli Yetkililer İran'ın Bloomberg.com'u Casusluk Etmek İçin Güvenlik Kameralarını Ele Geçirdiği Uyarısında Bulundu Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy - Bloomberg.com Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy Bloomberg.com IP Camera Video Surveillance",
-      "title_original": "Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy - Bloomberg.com",
-      "summary_original": "Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy Bloomberg.com",
-      "published_display": "2025-06-19",
-      "id": "7384ab553702"
+      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
+      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
+      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
+      "published_display": "2025-08-06",
+      "id": "bb38b8b06d62"
     }
   ]
 }
