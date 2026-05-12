@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Finans ekipleri Codex'i nasıl kullanıyor?",
+      "summary": "Finans ekiplerinin gerçek iş girdilerinden MBR'ler, raporlama paketleri, sapma köprüleri, model kontrolleri ve planlama senaryoları oluşturmak için Codex'i nasıl kullanabileceğini görün.",
+      "url": "https://openai.com/academy/codex-for-work/how-finance-teams-use-codex",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-12T15:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Finans ekipleri Codex'i nasıl kullanıyor? Finans ekiplerinin gerçek iş girdilerinden MBR'ler, raporlama paketleri, sapma köprüleri, model kontrolleri ve planlama senaryoları oluşturmak için Codex'i nasıl kullanabileceğini görün. How finance teams use Codex See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs. AI OpenAI Model",
+      "title_original": "How finance teams use Codex",
+      "summary_original": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "published_display": "2026-05-12",
+      "id": "77f779ea42fe"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Parameter Golf bize yapay zeka destekli araştırma hakkında neler öğretti?",
       "summary": "Parameter Golf, yapay zeka destekli makine öğrenimi araştırmasını, kodlama aracılarını, nicelemeyi ve katı kısıtlamalar altında yeni model tasarımını keşfetmek için 1.000'den fazla katılımcıyı ve 2.000'den fazla başvuruyu bir araya getirdi.",
       "url": "https://openai.com/index/what-parameter-golf-taught-us",
@@ -150,6 +170,26 @@
       "summary_original": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
       "published_display": "2026-05-12",
       "id": "7ba555d9eec7"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "NVIDIA mühendisleri ve araştırmacıları Codex ile nasıl derleme yapıyor?",
+      "summary": "Ekipler, üretim sistemlerini göndermek ve araştırma fikirlerini yürütülebilir deneylere dönüştürmek için Codex'i GPT-5.5 ile birlikte kullanıyor.",
+      "url": "https://openai.com/index/nvidia",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-12T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "NVIDIA mühendisleri ve araştırmacıları Codex ile nasıl derleme yapıyor? Ekipler, üretim sistemlerini göndermek ve araştırma fikirlerini yürütülebilir deneylere dönüştürmek için Codex'i GPT-5.5 ile birlikte kullanıyor. How NVIDIA engineers and researchers build with Codex Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments. AI OpenAI Model",
+      "title_original": "How NVIDIA engineers and researchers build with Codex",
+      "summary_original": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "published_display": "2026-05-12",
+      "id": "d9931c50dcca"
     },
     {
       "category": "ai",
@@ -195,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "İşletmeler yapay zekayı nasıl ölçeklendiriyor?",
-      "summary": "İşletmeler yapay zekayı nasıl ölçeklendirir: erken deneylerden güven, yönetişim, iş akışı tasarımı ve geniş ölçekte kalite aracılığıyla etkiyi birleştirmeye kadar.",
+      "summary": "İşletmeler yapay zekayı nasıl ölçeklendiriyor: erken deneylerden güven, yönetişim, iş akışı tasarımı ve geniş ölçekte kalite yoluyla etkiyi birleştirmeye kadar.",
       "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,51 +245,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "İşletmeler yapay zekayı nasıl ölçeklendiriyor? İşletmeler yapay zekayı nasıl ölçeklendirir: erken deneylerden güven, yönetişim, iş akışı tasarımı ve geniş ölçekte kalite aracılığıyla etkiyi birleştirmeye kadar. How enterprises are scaling AI How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale. AI OpenAI Model",
+      "keywords": "İşletmeler yapay zekayı nasıl ölçeklendiriyor? İşletmeler yapay zekayı nasıl ölçeklendiriyor: erken deneylerden güven, yönetişim, iş akışı tasarımı ve geniş ölçekte kalite yoluyla etkiyi birleştirmeye kadar. How enterprises are scaling AI How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale. AI OpenAI Model",
       "title_original": "How enterprises are scaling AI",
       "summary_original": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
       "published_display": "2026-05-11",
       "id": "202238b79b2a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yapay zeka destekli yeni Google Finans, Avrupa'ya açılıyor.",
-      "summary": "Bu hafta, yapay zeka destekli yeni Google Finans, tam yerel dil desteğiyle Avrupa genelinde kullanıma sunuluyor. Bu yeniden tasarlanan deneyim, bir dizi güçlü yetenek sunuyor…",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-11T06:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Yapay zeka destekli yeni Google Finans, Avrupa'ya açılıyor. Bu hafta, yapay zeka destekli yeni Google Finans, tam yerel dil desteğiyle Avrupa genelinde kullanıma sunuluyor. Bu yeniden tasarlanan deneyim, bir dizi güçlü yetenek sunuyor… The new AI-powered Google Finance is expanding to Europe. This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil… AI Product Google",
-      "title_original": "The new AI-powered Google Finance is expanding to Europe.",
-      "summary_original": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
-      "published_display": "2026-05-11",
-      "id": "7564d8988b4b"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI, işletmelerin zekayı geliştirmesine yardımcı olmak için DeployCo'yu başlattı",
-      "summary": "OpenAI, kuruluşların öncü yapay zekayı üretime taşımasına ve bunu ölçülebilir iş etkisine dönüştürmesine yardımcı olmak için kurulmuş yeni bir kurumsal dağıtım şirketi olan DeployCo'yu kurdu.",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-05-11T06:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI, işletmelerin zekayı geliştirmesine yardımcı olmak için DeployCo'yu başlattı OpenAI, kuruluşların öncü yapay zekayı üretime taşımasına ve bunu ölçülebilir iş etkisine dönüştürmesine yardımcı olmak için kurulmuş yeni bir kurumsal dağıtım şirketi olan DeployCo'yu kurdu. OpenAI launches DeployCo to help businesses build around intelligence OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact. AI OpenAI Model",
-      "title_original": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "summary_original": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "published_display": "2026-05-11",
-      "id": "c0578c8c57b6"
     },
     {
       "category": "robotik",
@@ -315,7 +315,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Modern Üretimde Yapay Zeka, IoT ve Robotiğin Yakınsaması - Robotik ve Otomasyon Haberleri",
-      "summary": "Modern Üretim Robotiği ve Otomasyonda Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması",
+      "summary": "Modern Üretim Robotik ve Otomasyonda Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1AzTVk4aUxCYWd3bDJuOXhWaXNreEZFMVlwckZEcUVfRXFaWHIwQUI0TGYxUjg4dE5uTkFuV2F0QTBFa3FSQUl6bDEwS01LNGhTNkRDaVRBeHpERWtfcHE1dGQ5VjQ3WVkxdm16a2N0T1lpXzNDMVZfaDhfd2hkM3N5cWx4RGxUMTF6bTZlQjdWMzZPQVBBMXZiWl90bDAwTlJuY09va0FVTDNNQzhLU1JsaGtBelhyU1M4?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,7 +325,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Modern Üretimde Yapay Zeka, IoT ve Robotiğin Yakınsaması - Robotik ve Otomasyon Haberleri Modern Üretim Robotiği ve Otomasyonda Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması The Convergence of AI, IoT, and Robotics in Modern Manufacturing - Robotics & Automation News The Convergence of AI, IoT, and Robotics in Modern Manufacturing Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Modern Üretimde Yapay Zeka, IoT ve Robotiğin Yakınsaması - Robotik ve Otomasyon Haberleri Modern Üretim Robotik ve Otomasyonda Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması The Convergence of AI, IoT, and Robotics in Modern Manufacturing - Robotics & Automation News The Convergence of AI, IoT, and Robotics in Modern Manufacturing Robotics & Automation News Robotics Automation Industry",
       "title_original": "The Convergence of AI, IoT, and Robotics in Modern Manufacturing - Robotics & Automation News",
       "summary_original": "The Convergence of AI, IoT, and Robotics in Modern Manufacturing Robotics & Automation News",
       "published_display": "2026-05-12",
@@ -374,7 +374,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -555,7 +555,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Fuji Elektrik Dünyası",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak sağlayabilir. Bu...",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak tanıyabilir. Bu...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -565,7 +565,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Fuji Elektrik Dünyası CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak sağlayabilir. Bu... Fuji Electric Tellus View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. Th... CISA Advisory Threat",
+      "keywords": "Fuji Elektrik Dünyası CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak tanıyabilir. Bu... Fuji Electric Tellus View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. Th... CISA Advisory Threat",
       "title_original": "Fuji Electric Tellus",
       "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. Th...",
       "published_display": "2026-05-12",
@@ -574,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,16 +585,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "651206b2fe26"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24",
+      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24",
       "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
       "image_url": null,
@@ -605,16 +605,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
+      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayı dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
       "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
       "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
       "published_display": "2026-02-11",
-      "id": "3dbefd5879d4"
+      "id": "10de1e0a18c3"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -625,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "f4f88664728b"
     },
     {
       "category": "kamera",
@@ -674,22 +674,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot",
-      "summary": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTNtcU1Xdk1QenZiNW9Lcm1XUjRPTXlnMWNIZDUtYW9OWnFBZkNxbGpSVzFFTnRHV0ZGMVk5U3RKcUpOVnBTWkNQTllEcWJWWk8tRnpRdkhtSUcyT3huNEZJUU5USHpvYzhQOWEtSXI0QTZkN2hyUC1rcEFNUUxYaGhWU1NLU2dIYmhYaDFOaHl3MnV0?oc=5",
+      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
+      "summary": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-06-22T07:00:00Z",
+      "published_at": "2025-08-06T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot IP Camera Video Surveillance",
-      "title_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot",
-      "summary_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot",
-      "published_display": "2025-06-22",
-      "id": "fd320a27b5c5"
+      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
+      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
+      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
+      "published_display": "2025-08-06",
+      "id": "bb38b8b06d62"
     }
   ]
 }
