@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-12T15:00:00Z",
+  "updated_at": "2026-05-12T17:35:41Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot bireysel planları: Pro ve Pro+'da esnek tahsisler ve yeni bir Max planıyla tanışın",
+      "summary": "1 Haziran'dan itibaren bireysel planlarımız geri bildirimlerinize göre güncellenecektir. GitHub Copilot bireysel planları: Pro ve Pro+'da esnek tahsislerin tanıtılması ve yeni bir Max planı ilk olarak GitHub Blogunda yayınlandı.",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-05-12T17:35:41Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Copilot bireysel planları: Pro ve Pro+'da esnek tahsisler ve yeni bir Max planıyla tanışın 1 Haziran'dan itibaren bireysel planlarımız geri bildirimlerinize göre güncellenecektir. GitHub Copilot bireysel planları: Pro ve Pro+'da esnek tahsislerin tanıtılması ve yeni bir Max planı ilk olarak GitHub Blogunda yayınlandı. GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
+      "summary_original": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared first on The GitHub Blog .",
+      "published_display": "2026-05-12",
+      "id": "79a6b360c2f1"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,24 @@
       "id": "ca8b63c685df"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Temsilci çekme istekleri her yerdedir. Bunları nasıl inceleyeceğiniz aşağıda açıklanmıştır.",
-      "summary": "Temsilci tarafından oluşturulan çekme isteklerini incelemeye yönelik pratik bir kılavuz: nelere bakılmalı, sorunların nerede saklandığı ve teknik borcun gönderilmeden önce nasıl yakalanacağı. Post Agent çekme istekleri her yerdedir. Bunları nasıl inceleyeceğiniz aşağıda açıklanmıştır. ilk kez ortaya çıktı...",
-      "url": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Parameter Golf bize yapay zeka destekli araştırma hakkında neler öğretti?",
+      "summary": "Parameter Golf, yapay zeka destekli makine öğrenimi araştırmasını, kodlama aracılarını, nicelemeyi ve katı kısıtlamalar altında yeni model tasarımını keşfetmek için 1.000'den fazla katılımcıyı ve 2.000'den fazla başvuruyu bir araya getirdi.",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-07T19:00:00Z",
+      "source": "OpenAI News",
+      "published_at": "2026-05-12T00:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Temsilci çekme istekleri her yerdedir. Bunları nasıl inceleyeceğiniz aşağıda açıklanmıştır. Temsilci tarafından oluşturulan çekme isteklerini incelemeye yönelik pratik bir kılavuz: nelere bakılmalı, sorunların nerede saklandığı ve teknik borcun gönderilmeden önce nasıl yakalanacağı. Post Agent çekme istekleri her yerdedir. Bunları nasıl inceleyeceğiniz aşağıda açıklanmıştır. ilk kez ortaya çıktı... Agent pull requests are everywhere. Here’s how to review them. A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s how to review them. appeared first on... GitHub Dev Platform",
-      "title_original": "Agent pull requests are everywhere. Here’s how to review them.",
-      "summary_original": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s how to review them. appeared first on...",
-      "published_display": "2026-05-07",
-      "id": "f462e6cbd3e8"
+      "keywords": "Parameter Golf bize yapay zeka destekli araştırma hakkında neler öğretti? Parameter Golf, yapay zeka destekli makine öğrenimi araştırmasını, kodlama aracılarını, nicelemeyi ve katı kısıtlamalar altında yeni model tasarımını keşfetmek için 1.000'den fazla katılımcıyı ve 2.000'den fazla başvuruyu bir araya getirdi. What Parameter Golf taught us about AI-assisted research Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints. AI OpenAI Model",
+      "title_original": "What Parameter Golf taught us about AI-assisted research",
+      "summary_original": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "published_display": "2026-05-12",
+      "id": "7ba555d9eec7"
     },
     {
       "category": "ai",
@@ -232,24 +252,24 @@
       "id": "c0578c8c57b6"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yaratıcı efsaneler küçük işletmelere yönelik reklamlar oluşturmak için yapay zekayı kullandığında neler olacağını görün.",
-      "summary": "Bugün, sevdikleri yerel işletmeleri desteklemek için reklam sektörünün üç ikonunu bir araya getiren bir girişim olan The Small Brief'i başlatıyoruz. Görevleri kırılma noktası inşa etmektir…",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-08T15:00:00Z",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Comau, hızlı büyüyen üretimde gelişmiş endüstriyel otomasyonu hızlandırmak için Omron ile ortaklık kuruyor - Robotik ve Otomasyon Haberleri",
+      "summary": "Comau, hızlı büyüyen üretimde gelişmiş endüstriyel otomasyonu hızlandırmak için Omron ile ortaklık yapıyor Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZUU4TnYzcW1OMmxFcWN3TmxueklkV0xCLWRSSll5ZGlfWmpUaHpnMnVyTDdlNDN2VVJuaU9BNFRqZXhEZE9ENGNMZUl4VTYtU29nanpyb1lnYVF2THZEeUtEMmYtRUM3WkRybndfeUxnTzdCQUZvTkkxZFBudUNEYW5qX2NmaVhkMEpEalMwT2toVk1ZS2VwdS1ocnp5R3hJT3ZGZFlKTTFxNzdteE9jVmttRm9VY0liVnNoRDJERTZ3bTRhSFB1M01DMUdnLWU4RldlTUJQS2F4UVJtU2EzTVBycU5IYmE4SExKNmc5M0oyUQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-12T17:07:37Z",
       "tags": [
-        "AI",
-        "Product",
-        "Google"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Yaratıcı efsaneler küçük işletmelere yönelik reklamlar oluşturmak için yapay zekayı kullandığında neler olacağını görün. Bugün, sevdikleri yerel işletmeleri desteklemek için reklam sektörünün üç ikonunu bir araya getiren bir girişim olan The Small Brief'i başlatıyoruz. Görevleri kırılma noktası inşa etmektir… See what happens when creative legends use AI to make ads for small businesses. Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt… AI Product Google",
-      "title_original": "See what happens when creative legends use AI to make ads for small businesses.",
-      "summary_original": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
-      "published_display": "2026-05-08",
-      "id": "e23fcd98b8eb"
+      "keywords": "Comau, hızlı büyüyen üretimde gelişmiş endüstriyel otomasyonu hızlandırmak için Omron ile ortaklık kuruyor - Robotik ve Otomasyon Haberleri Comau, hızlı büyüyen üretimde gelişmiş endüstriyel otomasyonu hızlandırmak için Omron ile ortaklık yapıyor Robotik ve Otomasyon Haberleri Comau partners with Omron to accelerate advanced industrial automation across high-growth manufacturing - Robotics & Automation News Comau partners with Omron to accelerate advanced industrial automation across high-growth manufacturing Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Comau partners with Omron to accelerate advanced industrial automation across high-growth manufacturing - Robotics & Automation News",
+      "summary_original": "Comau partners with Omron to accelerate advanced industrial automation across high-growth manufacturing Robotics & Automation News",
+      "published_display": "2026-05-12",
+      "id": "8a9c2ba9bf51"
     },
     {
       "category": "robotik",
@@ -290,26 +310,6 @@
       "summary_original": "The Convergence of AI, IoT, and Robotics in Modern Manufacturing Robotics & Automation News",
       "published_display": "2026-05-12",
       "id": "6b6b6aa7149b"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Comau, OMRON endüstriyel otomasyonda iş ortağı - Tıbbi Tasarım ve Dış Kaynak Kullanımı",
-      "summary": "Comau, OMRON endüstriyel otomasyonda ortak Medikal Tasarım ve Dış Kaynak Kullanımı",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaWhldGhGbFh0MjBsSE9KTUdFTUxMUmwtai0zakNsSVVqNzdFUXhTajdjMUZGSmJkVWo3cUU1bDFydVc1X2lXTS15d0NSYnQ0SGtsR29nMXV4LXBhTnF4ZVUzQWJ6ZnQ3RmMxMVliY1otRG1DOU9abXRzZGxwLU56SS16dEtxYjlDQWY3UzZDczlMRVE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-12T02:41:24Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Comau, OMRON endüstriyel otomasyonda iş ortağı - Tıbbi Tasarım ve Dış Kaynak Kullanımı Comau, OMRON endüstriyel otomasyonda ortak Medikal Tasarım ve Dış Kaynak Kullanımı Comau, OMRON partner on industrial automation - Medical Design & Outsourcing Comau, OMRON partner on industrial automation Medical Design & Outsourcing Robotics Automation Industry",
-      "title_original": "Comau, OMRON partner on industrial automation - Medical Design & Outsourcing",
-      "summary_original": "Comau, OMRON partner on industrial automation Medical Design & Outsourcing",
-      "published_display": "2026-05-12",
-      "id": "5cf25deef68b"
     },
     {
       "category": "robotik",
@@ -674,22 +674,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
-      "summary": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
+      "title": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) - Capital.ba",
+      "summary": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) Capital.ba",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWJiMUpPOVdVSFI1QUV0VXhqSTdzSXFqSHBqY2tmb01LcE93dm0xMHBGZ2JwWlJTWTFVdnVRTkc3UHh1UllFVDBPTXBiM0pvXzhfSVBkOTRhaFhKVVVoVGZvSXlsaXRsZDNUai04UzZZN3c4YnZXdDY5a2poYW04cmw0VDVfc0tWQ2k2bE14N3NGU2MyRy1HTEZNZXltaUg3S0RmWmdoSUwwdlpwbi1nQ2R6R0h3Q0FBYUFFeHhpcWtmZ2M?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-08-06T07:00:00Z",
+      "published_at": "2025-06-24T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
-      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
-      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
-      "published_display": "2025-08-06",
-      "id": "bb38b8b06d62"
+      "keywords": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) - Capital.ba Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba IP Camera Video Surveillance",
+      "title_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba",
+      "summary_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba",
+      "published_display": "2025-06-24",
+      "id": "f3f3e3698dd3"
     }
   ]
 }
