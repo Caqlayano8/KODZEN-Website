@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-13T06:43:33Z",
+  "updated_at": "2026-05-13T16:00:00Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Zindanlar ve Masaüstü Bilgisayarlar: Asla ölmeyen 10 roguelike (çünkü toplulukları onlara izin vermiyor)",
+      "summary": "Roguelike'lar ölmez. Çatallanırlar, mutasyona uğrarlar, tartışılırlar, yeniden yazılırlar, terk edilirler ve yeniden canlanırlar. Bazen hepsi birden. İlk olarak Zindanlar ve Masaüstü Bilgisayarlar: Asla ölmeyen 10 roguelike (çünkü toplulukları onlara izin vermiyor) yazısı çıktı...",
+      "url": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-05-13T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Zindanlar ve Masaüstü Bilgisayarlar: Asla ölmeyen 10 roguelike (çünkü toplulukları onlara izin vermiyor) Roguelike'lar ölmez. Çatallanırlar, mutasyona uğrarlar, tartışılırlar, yeniden yazılırlar, terk edilirler ve yeniden canlanırlar. Bazen hepsi birden. İlk olarak Zindanlar ve Masaüstü Bilgisayarlar: Asla ölmeyen 10 roguelike (çünkü toplulukları onlara izin vermiyor) yazısı çıktı... Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared firs... GitHub Dev Platform",
+      "title_original": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
+      "summary_original": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared firs...",
+      "published_display": "2026-05-13",
+      "id": "81604407fd1a"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "f792a9ded840"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Aracı İş Akışlarında belirteç verimliliğini artırma",
-      "summary": "Her çekme isteğinde çalışan aracı iş akışları, büyük API faturalarını sessizce biriktirebilir. Kendi üretim iş akışlarımızı nasıl ayarladığımızı, verimsizlikleri nasıl bulduğumuzu ve bunları düzeltecek aracıları nasıl oluşturduğumuzu burada bulabilirsiniz. Token verimliliğini artırma yazısı...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-07T23:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub Aracı İş Akışlarında belirteç verimliliğini artırma Her çekme isteğinde çalışan aracı iş akışları, büyük API faturalarını sessizce biriktirebilir. Kendi üretim iş akışlarımızı nasıl ayarladığımızı, verimsizlikleri nasıl bulduğumuzu ve bunları düzeltecek aracıları nasıl oluşturduğumuzu burada bulabilirsiniz. Token verimliliğini artırma yazısı... Improving token efficiency in GitHub Agentic Workflows Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them. The post Improving token efficiency... GitHub Dev Platform",
-      "title_original": "Improving token efficiency in GitHub Agentic Workflows",
-      "summary_original": "Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them. The post Improving token efficiency...",
-      "published_display": "2026-05-07",
-      "id": "ca8b63c685df"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Finans ekipleri Codex'i nasıl kullanıyor?",
@@ -174,7 +174,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "AutoScout24, yapay zeka destekli iş akışlarıyla mühendisliği ölçeklendiriyor",
+      "title": "AutoScout24, mühendisliği yapay zeka destekli iş akışlarıyla ölçeklendiriyor",
       "summary": "AutoScout24 Group'un geliştirme döngülerini hızlandırmak, kod kalitesini artırmak ve yapay zekanın benimsenmesini genişletmek için Codex ve ChatGPT'yi nasıl kullandığını öğrenin.",
       "url": "https://openai.com/index/autoscout24",
       "image_url": null,
@@ -185,11 +185,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "AutoScout24, yapay zeka destekli iş akışlarıyla mühendisliği ölçeklendiriyor AutoScout24 Group'un geliştirme döngülerini hızlandırmak, kod kalitesini artırmak ve yapay zekanın benimsenmesini genişletmek için Codex ve ChatGPT'yi nasıl kullandığını öğrenin. AutoScout24 scales engineering with AI-powered workflows Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption. AI OpenAI Model",
+      "keywords": "AutoScout24, mühendisliği yapay zeka destekli iş akışlarıyla ölçeklendiriyor AutoScout24 Group'un geliştirme döngülerini hızlandırmak, kod kalitesini artırmak ve yapay zekanın benimsenmesini genişletmek için Codex ve ChatGPT'yi nasıl kullandığını öğrenin. AutoScout24 scales engineering with AI-powered workflows Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption. AI OpenAI Model",
       "title_original": "AutoScout24 scales engineering with AI-powered workflows",
       "summary_original": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
       "published_display": "2026-05-12",
-      "id": "a4c9dbf52d50"
+      "id": "b2b37aa403f5"
     },
     {
       "category": "ai",
@@ -334,8 +334,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Modern Üretimde Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması - Robotik ve Otomasyon Haberleri",
-      "summary": "Modern Üretim Robotik ve Otomasyonda Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması",
+      "title": "Modern Üretimde Yapay Zeka, IoT ve Robotiğin Yakınsaması - Robotik ve Otomasyon Haberleri",
+      "summary": "Modern Üretim Robotiği ve Otomasyonda Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1AzTVk4aUxCYWd3bDJuOXhWaXNreEZFMVlwckZEcUVfRXFaWHIwQUI0TGYxUjg4dE5uTkFuV2F0QTBFa3FSQUl6bDEwS01LNGhTNkRDaVRBeHpERWtfcHE1dGQ5VjQ3WVkxdm16a2N0T1lpXzNDMVZfaDhfd2hkM3N5cWx4RGxUMTF6bTZlQjdWMzZPQVBBMXZiWl90bDAwTlJuY09va0FVTDNNQzhLU1JsaGtBelhyU1M4?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Modern Üretimde Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması - Robotik ve Otomasyon Haberleri Modern Üretim Robotik ve Otomasyonda Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması The Convergence of AI, IoT, and Robotics in Modern Manufacturing - Robotics & Automation News The Convergence of AI, IoT, and Robotics in Modern Manufacturing Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Modern Üretimde Yapay Zeka, IoT ve Robotiğin Yakınsaması - Robotik ve Otomasyon Haberleri Modern Üretim Robotiği ve Otomasyonda Yapay Zeka, Nesnelerin İnterneti ve Robotiklerin Yakınsaması The Convergence of AI, IoT, and Robotics in Modern Manufacturing - Robotics & Automation News The Convergence of AI, IoT, and Robotics in Modern Manufacturing Robotics & Automation News Robotics Automation Industry",
       "title_original": "The Convergence of AI, IoT, and Robotics in Modern Manufacturing - Robotics & Automation News",
       "summary_original": "The Convergence of AI, IoT, and Robotics in Modern Manufacturing Robotics & Automation News",
       "published_display": "2026-05-12",
-      "id": "2188e32632f5"
+      "id": "6b6b6aa7149b"
     },
     {
       "category": "robotik",
@@ -574,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "015a81ebc793"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
@@ -614,7 +614,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -625,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
@@ -654,26 +654,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya",
-      "summary": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXlPaHpnQURjclQ0QWtmRm1tams0WnJFeE96cGM0SDhfUndLSTBjX256ejFFa3NwMEtiQlhXaVVxNXRBSHNzZDJFeVVMbHB5V2N4bndvb1BOYWx4Q0VYWTIzY0psdlduMWh0b3dPQ3ZVS0pONXFFbkdaU2lIaUNvV2N2TDBQeHRGUTJ0ZUNCTnJSUXVlN3ZXNHRTZ1A?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-26T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia IP Camera Video Surveillance",
-      "title_original": "Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia",
-      "summary_original": "Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia",
-      "published_display": "2025-08-26",
-      "id": "86a5b32c20ef"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
       "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
@@ -690,6 +670,26 @@
       "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
       "published_display": "2025-08-08",
       "id": "009e6db74527"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot",
+      "summary": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTNtcU1Xdk1QenZiNW9Lcm1XUjRPTXlnMWNIZDUtYW9OWnFBZkNxbGpSVzFFTnRHV0ZGMVk5U3RKcUpOVnBTWkNQTllEcWJWWk8tRnpRdkhtSUcyT3huNEZJUU5USHpvYzhQOWEtSXI0QTZkN2hyUC1rcEFNUUxYaGhWU1NLU2dIYmhYaDFOaHl3MnV0?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-06-22T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot IP Camera Video Surveillance",
+      "title_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot",
+      "summary_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot",
+      "published_display": "2025-06-22",
+      "id": "fd320a27b5c5"
     }
   ]
 }
