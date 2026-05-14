@@ -555,7 +555,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Fuji Elektrik Dünyası",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak sağlayabilir. Bu...",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak tanıyabilir. Bu...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -565,7 +565,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Fuji Elektrik Dünyası CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak sağlayabilir. Bu... Fuji Electric Tellus View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. Th... CISA Advisory Threat",
+      "keywords": "Fuji Elektrik Dünyası CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıkları kullanıcıdan sisteme yükseltmesine olanak tanıyabilir ve bu da saldırganın geçici bir hizmet reddine neden olmasına, dosyaları açmasına veya silmesine olanak tanıyabilir. Bu... Fuji Electric Tellus View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. Th... CISA Advisory Threat",
       "title_original": "Fuji Electric Tellus",
       "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. Th...",
       "published_display": "2026-05-12",
@@ -594,28 +594,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24",
-      "summary": "Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXFUQjhKN3pwa2RRQU1xUjM1XzZ5Z2RqY21LOC1EX2ZYU3hwQnAzWWhIVHNpN3UzOGh2STZaYTUtTzNtNENLeTRRb295WHZoemxpZm44V1I1aXVXMTJIXzkyNjdkc19fVXFDRmNWSnVXd1E0alBaN3lvR3RrYVg2MGVYQ0ZWZnRkYWdJaDlYS0hNUmpsdUZUcmxmdUF5SGlTZ2ZmSkI0d2ktZHRPUGhSedIBtgFBVV95cUxNdWVKVjlueWpuNGhGR0p1VEt0WF80R1VlOGhWejR2OGJCSnc5Q3JyX1Iyd0p0ajZRVEV0NjJkeUlfWHd1UUl1bmJWMTFSb1BVR05rVmpmWm1EUVRaLVFsbUJIcG1KSjVGMVk4cTI5bDNjR3hTM1JrNUViejlBS1JwbnRpMkttc2VaSXp5cDdJaDJlYW1qeTdObUxxdzZ4Ujk3UnpzYmo1U0dKV3FiQTQySTBXT3BZdw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-02-11T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Güvenlik kamerası görüntülerini araştıran Nancy Guthrie siber güvenlik olayının dökümü - KNWA FOX24 Nancy Guthrie siber güvenlik olayının dökümü güvenlik kamerası görüntülerini araştırıyor KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24 Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24 IP Camera Video Surveillance",
-      "title_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage - KNWA FOX24",
-      "summary_original": "Nancy Guthrie cybersecurity case breakdown digging up security camera footage KNWA FOX24",
-      "published_display": "2026-02-11",
-      "id": "3dbefd5879d4"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,11 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "3d63787c804b"
+      "id": "f4f88664728b"
     },
     {
       "category": "kamera",
@@ -674,22 +654,42 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... - The Times of India",
-      "summary": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGFDdDRBZ2x3RTQ5ZFJfM1dQWE9WUkcwWWg3QXp3ekJyRWJZRU1Gak45aWlOOUtDcE0zNHgwVFRvREN0RXIyQ3lZdjdUeDVXR05heWhydjlicGxnNUxVdmgwZEhobEdKbWJnYkJVVjlKSXVrcFlZa0F0VXN1MmFqT2RDdThrSHdJaXhGNWR5YmYyN1dMMnZ6NWpnb2pKbWp6dEd5Z3diRW8zLXUyNTJHSEhwd1pPNmpabkJIa0VWMkhrbk9XVll6c2JmczVjOVhvLUhVa04yb2lfZU10OW5RNXBnSTZscWNIZ3REZUd1TWfSAfYBQVVfeXFMUDVmRjhMSlJJZGJzNlMtR1Z3Q2F2QjU4aGd1MlRpM3ZRTFVMSE5DU2l4ZkxXdW01X1hKdE9DdXFtZTgtdWIwNUx6N0dZdnN4VUlicE5LT1k3RU01SkdvTGNHSG5oR2dvckZiUENwZ0xjVk51ZHlWNjF1YUY3aEthak5xR0ZXcGxqcEdMN3pvSWd5eUY2LUozMjB1QktvUmgzeDhNNWFvZFczOXZNRmxzcE1JUTVPU3VvZ21HTWp1NlJ5aGhYeDZRelo3OE55SEp0bC1ZdnpCTXlNdUJXRkFfNWNscEljbXFmVXhXQV9nZUVoSHpJOFJB?oc=5",
+      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
+      "summary": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-06-23T07:00:00Z",
+      "published_at": "2025-08-06T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... - The Times of India İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... The Times of India Israel security agencies warn people: Turn off your home security cameras or ... - The Times of India Israel security agencies warn people: Turn off your home security cameras or ... The Times of India IP Camera Video Surveillance",
-      "title_original": "Israel security agencies warn people: Turn off your home security cameras or ... - The Times of India",
-      "summary_original": "Israel security agencies warn people: Turn off your home security cameras or ... The Times of India",
-      "published_display": "2025-06-23",
-      "id": "569134a13a27"
+      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
+      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
+      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
+      "published_display": "2025-08-06",
+      "id": "bb38b8b06d62"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba",
+      "summary": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) Capital.ba",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWJiMUpPOVdVSFI1QUV0VXhqSTdzSXFqSHBqY2tmb01LcE93dm0xMHBGZ2JwWlJTWTFVdnVRTkc3UHh1UllFVDBPTXBiM0pvXzhfSVBkOTRhaFhKVVVoVGZvSXlsaXRsZDNUai04UzZZN3c4YnZXdDY5a2poYW04cmw0VDVfc0tWQ2k2bE14N3NGU2MyRy1HTEZNZXltaUg3S0RmWmdoSUwwdlpwbi1nQ2R6R0h3Q0FBYUFFeHhpcWtmZ2M?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-06-24T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) - Capital.ba Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba IP Camera Video Surveillance",
+      "title_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba",
+      "summary_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba",
+      "published_display": "2025-06-24",
+      "id": "1b04b13b622e"
     }
   ]
 }
