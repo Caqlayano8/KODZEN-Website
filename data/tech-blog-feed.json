@@ -434,6 +434,26 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
+      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-05-18T06:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "title_original": "Project Glasswing: what Mythos showed us",
+      "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
+      "published_display": "2026-05-18",
+      "id": "954e94cb1931"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
       "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-42897 Microsoft Exchange Sunucusunda Siteler Arası Komut Dosyası Çalıştırma Güvenlik Açığı Bu tür bir güvenlik açığı...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -530,26 +550,6 @@
       "summary_original": "View CSAF Summary Siemens gPROMS Web Applications Publisher (gWAP) is affected by a remote code execution vulnerability introduced through a third-party component, namely the Axios HTTP client library. The vulnerability stems from a spec...",
       "published_display": "2026-05-14",
       "id": "e357138a1e38"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Siemens Ekip Merkezi",
-      "summary": "CSAF Özetini Görüntüleyin Siemens Teamcenter, kullanılabilirlik, bütünlük ve gizlilikten taviz verilmesine yol açabilecek birden fazla güvenlik açığından etkileniyor. Siemens, etkilenen ürünler için yeni sürümler yayınladı ve...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-04",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-14T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Siemens Ekip Merkezi CSAF Özetini Görüntüleyin Siemens Teamcenter, kullanılabilirlik, bütünlük ve gizlilikten taviz verilmesine yol açabilecek birden fazla güvenlik açığından etkileniyor. Siemens, etkilenen ürünler için yeni sürümler yayınladı ve... Siemens Teamcenter View CSAF Summary Siemens Teamcenter is affected by multiple vulnerabilities which could potentially lead to a compromise in availability, integrity and confidentiality. Siemens has released new versions for the affected products and rec... CISA Advisory Threat",
-      "title_original": "Siemens Teamcenter",
-      "summary_original": "View CSAF Summary Siemens Teamcenter is affected by multiple vulnerabilities which could potentially lead to a compromise in availability, integrity and confidentiality. Siemens has released new versions for the affected products and rec...",
-      "published_display": "2026-05-14",
-      "id": "98d999d0583c"
     },
     {
       "category": "kamera",
