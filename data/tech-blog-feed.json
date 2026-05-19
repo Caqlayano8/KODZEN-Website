@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-19T10:08:47Z",
+  "updated_at": "2026-05-19T15:00:09Z",
   "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil)",
+      "summary": "“Kötü bir sistem, iyi bir insanı [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım...",
+      "url": "https://devblogs.microsoft.com/blog/agentic-agile-why-agent-development-needs-agile-not-just-prompts",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-05-19T15:00:09Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil) “Kötü bir sistem, iyi bir insanı [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım... Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts) “A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating... Microsoft Dev Cloud",
+      "title_original": "Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts)",
+      "summary_original": "“A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating...",
+      "published_display": "2026-05-19",
+      "id": "0c6c7cc6f044"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği",
-      "summary": "Kaliteli gönderimlere öncelik vermek, paylaşılan sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek...",
+      "summary": "Kaliteli gönderimlere öncelik vermek, ortak sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek...",
       "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği Kaliteli gönderimlere öncelik vermek, paylaşılan sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek... Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu... GitHub Dev Platform",
+      "keywords": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği Kaliteli gönderimlere öncelik vermek, ortak sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek... Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu... GitHub Dev Platform",
       "title_original": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
       "summary_original": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu...",
       "published_display": "2026-05-15",
@@ -110,26 +130,6 @@
       "summary_original": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub...",
       "published_display": "2026-05-14",
       "id": "1dca04a80eaa"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Zindanlar ve Masaüstü Bilgisayarlar: Asla ölmeyen 10 roguelike (çünkü toplulukları onlara izin vermiyor)",
-      "summary": "Roguelike'lar ölmez. Çatallanır, mutasyona uğrar, tartışılır, yeniden yazılır, terk edilir ve yeniden canlanırlar. Bazen hepsi birden. İlk olarak Zindanlar ve Masaüstü Bilgisayarlar: Asla ölmeyen 10 roguelike (çünkü toplulukları onlara izin vermiyor) yazısı çıktı...",
-      "url": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-13T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Zindanlar ve Masaüstü Bilgisayarlar: Asla ölmeyen 10 roguelike (çünkü toplulukları onlara izin vermiyor) Roguelike'lar ölmez. Çatallanır, mutasyona uğrar, tartışılır, yeniden yazılır, terk edilir ve yeniden canlanırlar. Bazen hepsi birden. İlk olarak Zindanlar ve Masaüstü Bilgisayarlar: Asla ölmeyen 10 roguelike (çünkü toplulukları onlara izin vermiyor) yazısı çıktı... Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared firs... GitHub Dev Platform",
-      "title_original": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
-      "summary_original": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared firs...",
-      "published_display": "2026-05-13",
-      "id": "81604407fd1a"
     },
     {
       "category": "ai",
@@ -254,8 +254,68 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' - Robotik ve Otomasyon Haberleri",
+      "summary": "'İnsansı robotlar daha net yatırım getirisi gösteriyor ancak ticari başarı etkili çıktıya bağlı' Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2ZPb3d1QWJ0TXhwMThXb2Y3aUYyTHp0VTJCUmUyMDE2Wl9ERGE0cUZOZ21fTTdSMV9hWms1cENtYmhueTNqcTBGMU1KQTFfOG9PMHh1N2E5bWVBX2FDTHZiQWhrX1djbEx2dU0xTzhyUnhvOGQ4MHUxYVhTaUNvc05tZ21uLW9jeHhHa01MUDhGWVRDTmNpTUt4dDRkb2J6Tl90WnYyQVRqc0lBVGkzV1hqMEMxdHdvNTBBV25RWlRwTzVmLXhYbHk3UFRGNmM3cFlZV3VDMA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-19T14:47:33Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' - Robotik ve Otomasyon Haberleri 'İnsansı robotlar daha net yatırım getirisi gösteriyor ancak ticari başarı etkili çıktıya bağlı' Robotik ve Otomasyon Haberleri ‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ - Robotics & Automation News ‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ Robotics & Automation News Robotics Automation Industry",
+      "title_original": "‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ - Robotics & Automation News",
+      "summary_original": "‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ Robotics & Automation News",
+      "published_display": "2026-05-19",
+      "id": "906de11df1a6"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Locus Robotics, Nexera Robotics'i satın aldı - Robotik ve Otomasyon Haberleri",
+      "summary": "Locus Robotics, Nexera Robotics Robotics & Automation'ı satın aldı Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEdoSUgzSlExYWVqRm5WQ2tUMTZwRF9nRVRCbVFGcTdCR01DeUkyTXpHb1ZfMm1rcDVraGdGa0hxaGVYVEluaWFMSFFaaDl2RUxRQVM0VXVNWHptZG9uR2dKZlF6SG0wbkd3UWhEZDJEMjBsRFo3T09FSGhZeGwwZDRDdEZSV0E5X1ZhRjVTUGtmUTNDRmZBSFFaRVQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-19T14:00:54Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Locus Robotics, Nexera Robotics'i satın aldı - Robotik ve Otomasyon Haberleri Locus Robotics, Nexera Robotics Robotics & Automation'ı satın aldı Haberleri Locus Robotics acquires Nexera Robotics - Robotics & Automation News Locus Robotics acquires Nexera Robotics Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Locus Robotics acquires Nexera Robotics - Robotics & Automation News",
+      "summary_original": "Locus Robotics acquires Nexera Robotics Robotics & Automation News",
+      "published_display": "2026-05-19",
+      "id": "b770af38f824"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robot İşletim Sistemleri Pazarının Önemli Olaylara Tanık Olması Bekleniyor - openPR.com",
+      "summary": "Robot İşletim Sistemleri Pazarının Önemli Bir Etkiye Tanık Olması Bekleniyor openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjlYUDZPMUZVcGwzOHk4UHE5NW0wcmswWEF2TEt3SUpudnZsUURnYzRTNUgyMUdBUkN2RE9zYmhlOXhVT1hnNFplRUJ1QkJNX0VPNFRQRUkzUlFPeDV6SzdUQWNXUlJ3U3AyXzlBRnRYMFlCUHFkUGVjdm5IUHEzb3BtQTNwR3pGSXdWOGk0R1Q2LXl1MUFIZjdSeXBFUkU?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-19T12:46:02Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robot İşletim Sistemleri Pazarının Önemli Olaylara Tanık Olması Bekleniyor - openPR.com Robot İşletim Sistemleri Pazarının Önemli Bir Etkiye Tanık Olması Bekleniyor openPR.com Robot Operating Systems Market Expected to Witness Significant - openPR.com Robot Operating Systems Market Expected to Witness Significant openPR.com Robotics Automation Industry",
+      "title_original": "Robot Operating Systems Market Expected to Witness Significant - openPR.com",
+      "summary_original": "Robot Operating Systems Market Expected to Witness Significant openPR.com",
+      "published_display": "2026-05-19",
+      "id": "1dde430ce168"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi - Robotics & Automation News",
-      "summary": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri",
+      "summary": "Lightwheel, fiziksel yapay zekalı robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcjRvbGVTX0tPSDlvM0ZBMTh5aTZjMm9MTDk3YU40RkR2bkgwV2ZnLVNIa05qYmlCTUU4bU5GWmtMeE9US1UxMDJCNjJLMXI3QXFIMEpmdFMyTmtfT0U3dGxYMW5nRUJ2N0tJdWJyS0ktRlc3TDVlRll6akZrZTM1ZWw3clZaSkNFa3JlLWVORlpzUFluMzZuamh2Y3R0LUFyQjBjSDE4Wm1CRnluMkJvYTc3eUJIYVFEYmhzT05HTGtrckJtTV9KbTJocnpZQ0QwUERGbU9qNA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,11 +325,31 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi - Robotics & Automation News Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure - Robotics & Automation News Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi - Robotics & Automation News Lightwheel, fiziksel yapay zekalı robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure - Robotics & Automation News Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure Robotics & Automation News Robotics Automation Industry",
       "title_original": "Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure - Robotics & Automation News",
       "summary_original": "Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure Robotics & Automation News",
       "published_display": "2026-05-19",
       "id": "730dd80cd09c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Yaskawa ve Dale Automation, Güney Afrika imalatında verimliliği artırmak için ortak oldu - Robotik ve Otomasyon Haberleri",
+      "summary": "Yaskawa ve Dale Automation, güney Afrika imalatında verimliliği artırmak için ortaklık yapıyor Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdk90RkU4WUhuRGt4Unl3dk14Y2RTTVNxcFZiWXRzcUJKYzN1NzNEd1dXRWRFSDdGcjhLalF0R3gyMkN2dXF4VXhnR1htSXI2Ry1wM0tNc01McmliZFIySzBJbV9STklZd1FGRWxWV1FoNnFfOGRXTVE0US1TOHBoOHFLZHNNdHpaV1NOZ2E5d3NtdThybUZSZkVIMDFhcWh6VTFEbVZiLXJ1SlVxSlE0T0RCUzlQQThxNjU0bzQtdTZmX1pxVGgwZUwwQjZhaGZzTGFWU1lkTEhqcEJtdWRB?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-19T09:42:12Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Yaskawa ve Dale Automation, Güney Afrika imalatında verimliliği artırmak için ortak oldu - Robotik ve Otomasyon Haberleri Yaskawa ve Dale Automation, güney Afrika imalatında verimliliği artırmak için ortaklık yapıyor Robotik ve Otomasyon Haberleri Yaskawa and Dale Automation partner to boost efficiency in southern African manufacturing - Robotics & Automation News Yaskawa and Dale Automation partner to boost efficiency in southern African manufacturing Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Yaskawa and Dale Automation partner to boost efficiency in southern African manufacturing - Robotics & Automation News",
+      "summary_original": "Yaskawa and Dale Automation partner to boost efficiency in southern African manufacturing Robotics & Automation News",
+      "published_display": "2026-05-19",
+      "id": "10716de20bc1"
     },
     {
       "category": "robotik",
@@ -292,89 +372,9 @@
       "id": "32712f79f6ed"
     },
     {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotik Süreç Otomasyonu (RPA) Pazarına Genel Bakış, Temel Trendler ve En İyi Oyunculara İlişkin Bilgiler - openPR.com",
-      "summary": "Robotik Süreç Otomasyonu (RPA) Pazarına Genel Bakış, Temel Trendler ve En İyi Oyunculara İlişkin Bilgiler openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVU94YkxHdnNiTWJSMDNyU0JReEtzSmI4OVV2Z0syZnpXUXV2NkhmaTdRb002OVB3Y1VfamRYZEdTU0dOZnhBQm1iZTZTSjh2RlBWSHZqalF5WVBNNGhuQW5yR0g1dEZSVlZRbW5sQlQwcjQ2VmZuVFF5bFlEZUdSZnFNc0VXNVhDYXlSRU44dW1rZHotSHVJYw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-19T06:56:25Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik Süreç Otomasyonu (RPA) Pazarına Genel Bakış, Temel Trendler ve En İyi Oyunculara İlişkin Bilgiler - openPR.com Robotik Süreç Otomasyonu (RPA) Pazarına Genel Bakış, Temel Trendler ve En İyi Oyunculara İlişkin Bilgiler openPR.com Robotic Process Automation (RPA) Market Overview, Key Trends, and Insights on Top Players - openPR.com Robotic Process Automation (RPA) Market Overview, Key Trends, and Insights on Top Players openPR.com Robotics Automation Industry",
-      "title_original": "Robotic Process Automation (RPA) Market Overview, Key Trends, and Insights on Top Players - openPR.com",
-      "summary_original": "Robotic Process Automation (RPA) Market Overview, Key Trends, and Insights on Top Players openPR.com",
-      "published_display": "2026-05-19",
-      "id": "d7214994219b"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Yumuşak Robotik Kavrama Teknolojisi Endüstriyel Otomasyonu Nasıl Değiştiriyor - Programming Insider",
-      "summary": "Yumuşak Robotik Kavrama Teknolojisi Endüstriyel Otomasyon Programlamasını Nasıl Değiştiriyor?",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDNOeHFFT3BiOENLcmJoTG43RlZ3RURzaDJWekJxcDFwLWxiVm5tMG1zTjg2OUx0M2F3OTE3UWlBQllyZHRfTXB1OXY4MC1SMUJfMVZmcGR5LU9uRVdOV0FYQkt6ZTVZV1N5Rk9veW5mak1lNU1RRGY2WWJpWGhtMVlPN3A1aDZ5dTdwTTlhVzV5VDYxN3pNb0tPYVBfaDVRa21CMA?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-18T16:52:32Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Yumuşak Robotik Kavrama Teknolojisi Endüstriyel Otomasyonu Nasıl Değiştiriyor - Programming Insider Yumuşak Robotik Kavrama Teknolojisi Endüstriyel Otomasyon Programlamasını Nasıl Değiştiriyor? How Soft Robotic Gripping Technology Is Changing Industrial Automation - Programming Insider How Soft Robotic Gripping Technology Is Changing Industrial Automation Programming Insider Robotics Automation Industry",
-      "title_original": "How Soft Robotic Gripping Technology Is Changing Industrial Automation - Programming Insider",
-      "summary_original": "How Soft Robotic Gripping Technology Is Changing Industrial Automation Programming Insider",
-      "published_display": "2026-05-18",
-      "id": "998e4e4efb7b"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Bileşen ve Sektöre Göre Montaj Otomasyonu Pazarı 2023-2032: Küresel Fırsat ve İş Analizi Raporu - 2030 - PR Newswire Türkiye",
-      "summary": "Bileşen ve Sektöre Göre Montaj Otomasyonu Pazarı 2023-2032: Küresel Fırsat ve İş Analizi Raporu - 2030 PR Newswire UK",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbUM0RDdaY3ZkdlZOVkxVRlB6OFBZYXl3Q29sb2pRUDZYYmxMS2ZlUW55SlplVVBVUDA2Y1RSalZCLV84ZjNWcmZ6SUpzQWxTWjh5bjhXRmd1NEl6VUpMVnNDN1hIaFJfTW5ham9HZWx4QzU0MmRNMWo2b1BUZENJcG1Zc2Jmd20xTVBza1hIYS1MSW1DVjY3UmpJMXNUaEt6dElncnpmWml4eEpFWUU2cUZ4a09PZnJMZlJ0M184U09TUF9xdHNIWE13X1JsZnp0LU9jWHpnczh5T1I1aDM1TnR3RFItaTZJVzVXdHBjdVF6ZXhObVlLYUVGbTRkUzJBTFE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-18T15:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Bileşen ve Sektöre Göre Montaj Otomasyonu Pazarı 2023-2032: Küresel Fırsat ve İş Analizi Raporu - 2030 - PR Newswire Türkiye Bileşen ve Sektöre Göre Montaj Otomasyonu Pazarı 2023-2032: Küresel Fırsat ve İş Analizi Raporu - 2030 PR Newswire UK Assembly Automation Market by Component and Industry 2023-2032: Global Opportunity & Business Analysis Report - 2030 - PR Newswire UK Assembly Automation Market by Component and Industry 2023-2032: Global Opportunity & Business Analysis Report - 2030 PR Newswire UK Robotics Automation Industry",
-      "title_original": "Assembly Automation Market by Component and Industry 2023-2032: Global Opportunity & Business Analysis Report - 2030 - PR Newswire UK",
-      "summary_original": "Assembly Automation Market by Component and Industry 2023-2032: Global Opportunity & Business Analysis Report - 2030 PR Newswire UK",
-      "published_display": "2026-05-18",
-      "id": "aa29e3cfef2f"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Endüstriyel Otomasyonun Sağladığı Robot Rulman Pazar Payı - openPR.com",
-      "summary": "Endüstriyel Otomasyonun Sağladığı Robot Rulman Pazar Payı openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajJ2VjBIQWVob050RUJPTldlelRpZDNnWk1PTk1BS1NoTlgxMnJzYXVNMjJjM0JOdmVkMHZzdGpWS3R5R2Y1RWNzQzN4T05wZ3NLazdyQS1TMm5MSWFCSUVUQ2M2M1BqZXFFUFpVVDJOLVV1alBUVFJpZm9reS1hb0FYU3Q4Ny1xWHdHX1lBQkwwc2pLc1M2UVZrSQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-18T08:30:35Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Endüstriyel Otomasyonun Sağladığı Robot Rulman Pazar Payı - openPR.com Endüstriyel Otomasyonun Sağladığı Robot Rulman Pazar Payı openPR.com Robot Bearings Market Share Driven by Industrial Automation - openPR.com Robot Bearings Market Share Driven by Industrial Automation openPR.com Robotics Automation Industry",
-      "title_original": "Robot Bearings Market Share Driven by Industrial Automation - openPR.com",
-      "summary_original": "Robot Bearings Market Share Driven by Industrial Automation openPR.com",
-      "published_display": "2026-05-18",
-      "id": "dab4115fd9cf"
-    },
-    {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -435,7 +435,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
-      "summary": "Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -445,7 +445,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
       "title_original": "Project Glasswing: what Mythos showed us",
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
@@ -475,7 +475,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens Ruggedcom Rox",
-      "summary": "CSAF Özetini Görüntüle Ruggedcom Rox, Zamanlayıcı işlevinde, kimliği doğrulanmış uzak bir saldırganın, temeldeki işletim sisteminde kök ayrıcalıklarıyla rastgele komutlar yürütmesine izin verebilecek bir giriş doğrulama güvenlik açığı içerir.",
+      "summary": "CSAF Özetini Görüntüle Ruggedcom Rox, Zamanlayıcı işlevinde, kimliği doğrulanmış uzak bir saldırganın temel işletim sisteminde kök ayrıcalıklarıyla rastgele komutlar yürütmesine izin verebilecek bir giriş doğrulama güvenlik açığı içerir.",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12",
       "image_url": null,
       "source": "CISA Advisories",
@@ -485,7 +485,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens Ruggedcom Rox CSAF Özetini Görüntüle Ruggedcom Rox, Zamanlayıcı işlevinde, kimliği doğrulanmış uzak bir saldırganın, temeldeki işletim sisteminde kök ayrıcalıklarıyla rastgele komutlar yürütmesine izin verebilecek bir giriş doğrulama güvenlik açığı içerir. Siemens Ruggedcom Rox View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating sy... CISA Advisory Threat",
+      "keywords": "Siemens Ruggedcom Rox CSAF Özetini Görüntüle Ruggedcom Rox, Zamanlayıcı işlevinde, kimliği doğrulanmış uzak bir saldırganın temel işletim sisteminde kök ayrıcalıklarıyla rastgele komutlar yürütmesine izin verebilecek bir giriş doğrulama güvenlik açığı içerir. Siemens Ruggedcom Rox View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating sy... CISA Advisory Threat",
       "title_original": "Siemens Ruggedcom Rox",
       "summary_original": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating sy...",
       "published_display": "2026-05-14",
@@ -515,7 +515,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens Ruggedcom Rox",
-      "summary": "CSAF Özetini Görüntüle Ruggedcom Rox, kimliği doğrulanmış uzaktaki bir saldırganın, temeldeki işletim sisteminin dosya sisteminden kök ayrıcalıklarına sahip rastgele dosyaları okumasına olanak verebilecek uygunsuz bir erişim kontrolü güvenlik açığı içerir. Siemens...",
+      "summary": "CSAF Özetini Görüntüle Ruggedcom Rox, kimliği doğrulanmış uzaktaki bir saldırganın, temeldeki işletim sisteminin dosya sisteminden kök ayrıcalıklarıyla rastgele dosyaları okumasına olanak verebilecek, uygun olmayan bir erişim kontrolü güvenlik açığı içerir. Siemens...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -525,7 +525,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens Ruggedcom Rox CSAF Özetini Görüntüle Ruggedcom Rox, kimliği doğrulanmış uzaktaki bir saldırganın, temeldeki işletim sisteminin dosya sisteminden kök ayrıcalıklarına sahip rastgele dosyaları okumasına olanak verebilecek uygunsuz bir erişim kontrolü güvenlik açığı içerir. Siemens... Siemens Ruggedcom Rox View CSAF Summary Ruggedcom Rox contains an improper access control vulnerability that could allow an authenticated remote attacker to read arbitrary files with root privileges from the underlying operating system's filesystem. Siemens h... CISA Advisory Threat",
+      "keywords": "Siemens Ruggedcom Rox CSAF Özetini Görüntüle Ruggedcom Rox, kimliği doğrulanmış uzaktaki bir saldırganın, temeldeki işletim sisteminin dosya sisteminden kök ayrıcalıklarıyla rastgele dosyaları okumasına olanak verebilecek, uygun olmayan bir erişim kontrolü güvenlik açığı içerir. Siemens... Siemens Ruggedcom Rox View CSAF Summary Ruggedcom Rox contains an improper access control vulnerability that could allow an authenticated remote attacker to read arbitrary files with root privileges from the underlying operating system's filesystem. Siemens h... CISA Advisory Threat",
       "title_original": "Siemens Ruggedcom Rox",
       "summary_original": "View CSAF Summary Ruggedcom Rox contains an improper access control vulnerability that could allow an authenticated remote attacker to read arbitrary files with root privileges from the underlying operating system's filesystem. Siemens h...",
       "published_display": "2026-05-14",
