@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-05-19T17:52:00Z",
-  "total_posts": 29,
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 2
+    "kamera": 6
   },
   "posts": [
     {
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği",
-      "summary": "Kaliteli gönderimlere öncelik vermek, paylaşılan sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek...",
+      "summary": "Kaliteli gönderimlere öncelik vermek, ortak sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek...",
       "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği Kaliteli gönderimlere öncelik vermek, paylaşılan sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek... Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu... GitHub Dev Platform",
+      "keywords": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği Kaliteli gönderimlere öncelik vermek, ortak sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek... Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu... GitHub Dev Platform",
       "title_original": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
       "summary_original": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu...",
       "published_display": "2026-05-15",
@@ -134,7 +134,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Ampirik Araştırma Yardımı (ERA): Nature yayınlarından Hesaplamalı Keşfi katalize etmeye",
+      "title": "Ampirik Araştırma Yardımı (ERA): Nature yayınından Hesaplamalı Keşfi katalize etmeye",
       "summary": "Genel Bilim",
       "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/ERA_nature_hero_final.webp",
@@ -145,17 +145,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Ampirik Araştırma Yardımı (ERA): Nature yayınlarından Hesaplamalı Keşfi katalize etmeye Genel Bilim Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery General Science AI Research Google",
+      "keywords": "Ampirik Araştırma Yardımı (ERA): Nature yayınından Hesaplamalı Keşfi katalize etmeye Genel Bilim Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery General Science AI Research Google",
       "title_original": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
       "summary_original": "General Science",
       "published_display": "2026-05-19",
-      "id": "ae4fdf36a12f"
+      "id": "8f6886e932d8"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Google Workspace'te oluşturmanın ve işleri halletmenin yeni yolları",
-      "summary": "Google Pics adı verilen yeni bir tasarım aracı olan Gmail, Dokümanlar ve Keep'teki yeni ses özellikleri ve AI Inbox'ta yapılan güncellemeler duyuruluyor.",
+      "summary": "Gmail, Dokümanlar ve Keep'teki yeni ses özellikleri, Google Pics adı verilen yeni bir tasarım aracı ve AI Inbox'ta yapılan güncellemeler duyuruluyor.",
       "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -165,7 +165,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Google Workspace'te oluşturmanın ve işleri halletmenin yeni yolları Google Pics adı verilen yeni bir tasarım aracı olan Gmail, Dokümanlar ve Keep'teki yeni ses özellikleri ve AI Inbox'ta yapılan güncellemeler duyuruluyor. New ways to create and get things done in Google Workspace Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox. AI Product Google",
+      "keywords": "Google Workspace'te oluşturmanın ve işleri halletmenin yeni yolları Gmail, Dokümanlar ve Keep'teki yeni ses özellikleri, Google Pics adı verilen yeni bir tasarım aracı ve AI Inbox'ta yapılan güncellemeler duyuruluyor. New ways to create and get things done in Google Workspace Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox. AI Product Google",
       "title_original": "New ways to create and get things done in Google Workspace",
       "summary_original": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
       "published_display": "2026-05-19",
@@ -215,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Yapay Zeka Modu, insanların ABD'de arama yapma şeklini nasıl değiştiriyor?",
-      "summary": "Lansmanından bir yıl sonra AI Modu kullanıcılarının anahtar kelimelerden doğal dil sorgularına nasıl geçiş yaptığını görün.",
+      "summary": "Lansmandan bir yıl sonra AI Mode kullanıcılarının anahtar kelimelerden doğal dil sorgularına nasıl geçiş yaptığını görün.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -225,7 +225,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Yapay Zeka Modu, insanların ABD'de arama yapma şeklini nasıl değiştiriyor? Lansmanından bir yıl sonra AI Modu kullanıcılarının anahtar kelimelerden doğal dil sorgularına nasıl geçiş yaptığını görün. How AI Mode is changing the way people search in the U.S. One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries. AI Product Google",
+      "keywords": "Yapay Zeka Modu, insanların ABD'de arama yapma şeklini nasıl değiştiriyor? Lansmandan bir yıl sonra AI Mode kullanıcılarının anahtar kelimelerden doğal dil sorgularına nasıl geçiş yaptığını görün. How AI Mode is changing the way people search in the U.S. One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries. AI Product Google",
       "title_original": "How AI Mode is changing the way people search in the U.S.",
       "summary_original": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
       "published_display": "2026-05-19",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Gemini 3.5: Eylemli sınır zekası",
-      "summary": "Google I/O'da, ileri zekayı eylemle birleştiren en yeni model serimiz olan Gemini 3.5'i piyasaya sürdük.",
+      "summary": "Google I/O'da, ileri zekayı eylemle birleştiren en yeni model serimiz Gemini 3.5'i piyasaya sürdük.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -245,7 +245,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Gemini 3.5: Eylemli sınır zekası Google I/O'da, ileri zekayı eylemle birleştiren en yeni model serimiz olan Gemini 3.5'i piyasaya sürdük. Gemini 3.5: frontier intelligence with action At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action. AI Product Google",
+      "keywords": "Gemini 3.5: Eylemli sınır zekası Google I/O'da, ileri zekayı eylemle birleştiren en yeni model serimiz Gemini 3.5'i piyasaya sürdük. Gemini 3.5: frontier intelligence with action At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action. AI Product Google",
       "title_original": "Gemini 3.5: frontier intelligence with action",
       "summary_original": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
       "published_display": "2026-05-19",
@@ -255,7 +255,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' - Robotik ve Otomasyon Haberleri",
-      "summary": "'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' Robotik ve Otomasyon Haberleri",
+      "summary": "'İnsansı robotlar daha net yatırım getirisi gösteriyor ancak ticari başarı etkili çıktıya bağlı' Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2ZPb3d1QWJ0TXhwMThXb2Y3aUYyTHp0VTJCUmUyMDE2Wl9ERGE0cUZOZ21fTTdSMV9hWms1cENtYmhueTNqcTBGMU1KQTFfOG9PMHh1N2E5bWVBX2FDTHZiQWhrX1djbEx2dU0xTzhyUnhvOGQ4MHUxYVhTaUNvc05tZ21uLW9jeHhHa01MUDhGWVRDTmNpTUt4dDRkb2J6Tl90WnYyQVRqc0lBVGkzV1hqMEMxdHdvNTBBV25RWlRwTzVmLXhYbHk3UFRGNmM3cFlZV3VDMA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,7 +265,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' - Robotik ve Otomasyon Haberleri 'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' Robotik ve Otomasyon Haberleri ‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ - Robotics & Automation News ‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ Robotics & Automation News Robotics Automation Industry",
+      "keywords": "'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' - Robotik ve Otomasyon Haberleri 'İnsansı robotlar daha net yatırım getirisi gösteriyor ancak ticari başarı etkili çıktıya bağlı' Robotik ve Otomasyon Haberleri ‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ - Robotics & Automation News ‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ Robotics & Automation News Robotics Automation Industry",
       "title_original": "‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ - Robotics & Automation News",
       "summary_original": "‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ Robotics & Automation News",
       "published_display": "2026-05-19",
@@ -295,7 +295,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Nagel, Stäubli Robotics ortaklığıyla fabrika otomasyon stratejisini güçlendiriyor - Robotics & Automation News",
-      "summary": "Nagel, Stäubli Robotics ortaklığıyla fabrika otomasyon stratejisini güçlendiriyor Robotik ve Otomasyon Haberleri",
+      "summary": "Nagel, Stäubli Robotics ortaklığı aracılığıyla fabrika otomasyon stratejisini güçlendiriyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZjdQTVRRX1QwWWJHZ28yYVcyczJUWTM4N3JfWllVRXpnS2VhLXVfX1BVS1VwczQ5MHVGbmJoY242bHlJMTNRZmYtSUxjVTVubzdtZkUxTVoxR3RJZ3REZ21Nd3l2aG5QQ21GWEJjUUFCZUE4TUhZUlJoOEtwV0x3Z3RSSjRBZXNLNjVrZmxCMkFwMDhlVDdwYm9mM0hjUTgxZGxvVXZpZXB6V3dtbWl4VjZZdTE4cjZwOE4yYWRfWngzQV82N1k4SzVqWXVrMTlzMm04bDdn?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,7 +305,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Nagel, Stäubli Robotics ortaklığıyla fabrika otomasyon stratejisini güçlendiriyor - Robotics & Automation News Nagel, Stäubli Robotics ortaklığıyla fabrika otomasyon stratejisini güçlendiriyor Robotik ve Otomasyon Haberleri Nagel strengthens factory automation strategy through Stäubli Robotics partnership - Robotics & Automation News Nagel strengthens factory automation strategy through Stäubli Robotics partnership Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Nagel, Stäubli Robotics ortaklığıyla fabrika otomasyon stratejisini güçlendiriyor - Robotics & Automation News Nagel, Stäubli Robotics ortaklığı aracılığıyla fabrika otomasyon stratejisini güçlendiriyor Robotik ve Otomasyon Haberleri Nagel strengthens factory automation strategy through Stäubli Robotics partnership - Robotics & Automation News Nagel strengthens factory automation strategy through Stäubli Robotics partnership Robotics & Automation News Robotics Automation Industry",
       "title_original": "Nagel strengthens factory automation strategy through Stäubli Robotics partnership - Robotics & Automation News",
       "summary_original": "Nagel strengthens factory automation strategy through Stäubli Robotics partnership Robotics & Automation News",
       "published_display": "2026-05-19",
@@ -335,7 +335,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi - Robotics & Automation News",
-      "summary": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri",
+      "summary": "Lightwheel, fiziksel yapay zekalı robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcjRvbGVTX0tPSDlvM0ZBMTh5aTZjMm9MTDk3YU40RkR2bkgwV2ZnLVNIa05qYmlCTUU4bU5GWmtMeE9US1UxMDJCNjJLMXI3QXFIMEpmdFMyTmtfT0U3dGxYMW5nRUJ2N0tJdWJyS0ktRlc3TDVlRll6akZrZTM1ZWw3clZaSkNFa3JlLWVORlpzUFluMzZuamh2Y3R0LUFyQjBjSDE4Wm1CRnluMkJvYTc3eUJIYVFEYmhzT05HTGtrckJtTV9KbTJocnpZQ0QwUERGbU9qNA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,7 +345,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi - Robotics & Automation News Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure - Robotics & Automation News Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi - Robotics & Automation News Lightwheel, fiziksel yapay zekalı robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure - Robotics & Automation News Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure Robotics & Automation News Robotics Automation Industry",
       "title_original": "Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure - Robotics & Automation News",
       "summary_original": "Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure Robotics & Automation News",
       "published_display": "2026-05-19",
@@ -374,7 +374,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -535,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
-      "summary": "Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -545,31 +545,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
       "title_original": "Project Glasswing: what Mythos showed us",
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
       "id": "954e94cb1931"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan Genelinde Güvenliği Dönüştürüyor - english.punjabkesari.com",
-      "summary": "HIFOCUS IP Kameralar: Hindistan Genelinde Güvenliği Dönüştürüyor english.punjabkesari.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0Y3UXFCdVp3Nmx4eExDY1liajZLd2VYQl9YbnpONFZFZFNMVkZhVFU5a0dxdXNyaEVSb0c4bUNlMklDUEhha0p1TENqY0pXQ3l2WWpSajk4X0w3cFFJVzJwNndZUnFyRGNReDN5YURkRTdEZHZYSkUxdHA5Q3dkdGQ4eEJpMEwwRHJGLWFJYnRWUW1RRGFLdi1iX1c3WmtZdERR0gGoAUFVX3lxTFB1ZGpmdXViVkRTbmpJRURtUmlPak51a0dBOVhQYlN1S24zaUhLSGFPSDVBMzczSnJMR0ZYV1ZPSWoxUG95SjFaWXFZa2o0cktLdzFDNlNTSmxZNWRZRndxVUxkNUF0SnVaeEJucDFNVkkyTi14dER4Z2RzcmFnNVptOGlST085bDZCOGJGbjhuWnB4MmM1UHZ0ZXhLekFoS3R6OG9HejRXaw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-05-18T06:30:36Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan Genelinde Güvenliği Dönüştürüyor - english.punjabkesari.com HIFOCUS IP Kameralar: Hindistan Genelinde Güvenliği Dönüştürüyor english.punjabkesari.com HIFOCUS IP Cameras: Transforming Security Across India - english.punjabkesari.com HIFOCUS IP Cameras: Transforming Security Across India english.punjabkesari.com IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Transforming Security Across India - english.punjabkesari.com",
-      "summary_original": "HIFOCUS IP Cameras: Transforming Security Across India english.punjabkesari.com",
-      "published_display": "2026-05-18",
-      "id": "9dd5ea31d95e"
     },
     {
       "category": "kamera",
@@ -590,6 +570,106 @@
       "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
       "published_display": "2026-05-18",
       "id": "89e9ec78b392"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-11T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
+      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
+      "published_display": "2026-03-11",
+      "id": "3fd52ec52b0c"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-29T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
+      "published_display": "2026-01-29",
+      "id": "3d63787c804b"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews",
+      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-12-11T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
+      "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
+      "published_display": "2025-12-11",
+      "id": "feaf9899af14"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
+      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-08T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
+      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
+      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
+      "published_display": "2025-08-08",
+      "id": "009e6db74527"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri",
+      "summary": "ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmgzdmRvdnQyTXZsdUx0M2oxNkQ5MFFyLUdaYTd1Z2I1NG9LdDZTLThWV3oxSzB4QTBBTExKRVZFOXYyWW1oVVJScnVhZDF6azgxS2t3SW9PQmpuampQdDdYLUdmRU44Sjl1SUtwcXhISGJ1MmJOV2x1SEVVQ0NjWVJ6QzExZk5Ra3VtMnFUb2JzVFhxZ3FYZjE2eGtYRE9EbnBiNV9ZM2NFZDBwOUhEZzdId3ZyYTZ0Qkt3V3lkM0oyV2dyS21jOFUtR09BUXM1dzhlNTVSMnFXR2ttTjREOGlfMXJ2SVBJLWs3RElR0gHzAUFVX3lxTE9aZzh1MWpEYzEyWmxhVktENmN3YllZX0hQY0tZNnBlWGhjQmFGTFZYUEg2bUVBektpY0x0X2lJa1BkcDBBUU1kRmFlWWZBelRRX01VRVNMSGNnRFR4TU5rR2l1anBKZ0REOGhXcnJLY09KdFRhS0VZZnRVaFFQNTQzUTBQUzlEZ0JKT1p1SVVHMElIdFg2NnVKVU1GR19OT3ZYelQ2bXhUNlpfbURyXzVzQ1ZyOWlHMXNwUjE1S01ZSlptaU0xcTkxRXFuTTcyTkpvcWdJQy1zY3dmUjNHNmFFSUc4djVidVV5MDkwcEhKamRxVQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-06T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "ABD CISA, Bilinen İstismar Edilen Güvenlik Açıkları kataloğuna D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi - Güvenlik İşleri ABD CISA, Bilinen İstismara Uğrayan Güvenlik Açıkları kataloğu Güvenlik İşleri'ne D-Link kameraları ve Ağ Video Kaydedici kusurlarını ekledi U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs IP Camera Video Surveillance",
+      "title_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
+      "summary_original": "U.S. CISA adds D-Link cameras and Network Video Recorder flaws to its Known Exploited Vulnerabilities catalog Security Affairs",
+      "published_display": "2025-08-06",
+      "id": "bb38b8b06d62"
     }
   ]
 }
