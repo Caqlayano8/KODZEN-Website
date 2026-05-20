@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-20T16:45:00Z",
-  "total_posts": 33,
+  "updated_at": "2026-05-20T20:40:00Z",
+  "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 6
+    "kamera": 2
   },
   "posts": [
     {
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Missouri'de yeni toplumsal yatırımların duyurusunu yapıyoruz.",
+      "summary": "Eyaletin yeni nesil işgücünün oluşturulmasına ve enerji programlarına yatırım yapılmasına yardımcı oluyoruz.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-20T20:40:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Missouri'de yeni toplumsal yatırımların duyurusunu yapıyoruz. Eyaletin yeni nesil işgücünün oluşturulmasına ve enerji programlarına yatırım yapılmasına yardımcı oluyoruz. We’re announcing new community investments in Missouri. We’re helping build the state’s next-generation workforce and investing in energy programs. AI Product Google",
+      "title_original": "We’re announcing new community investments in Missouri.",
+      "summary_original": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "published_display": "2026-05-20",
+      "id": "e9e32e5ba791"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "I/O 2026'da duyurduğumuz 100 şey",
+      "summary": "Bu yıl Google I/O 2026'da Gemini Omni, Google Antigravity, Universal Cart ve çok daha fazlasını duyurduk. İşte öne çıkanlar.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-20T19:30:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "I/O 2026'da duyurduğumuz 100 şey Bu yıl Google I/O 2026'da Gemini Omni, Google Antigravity, Universal Cart ve çok daha fazlasını duyurduk. İşte öne çıkanlar. 100 things we announced at I/O 2026 This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights. AI Product Google",
+      "title_original": "100 things we announced at I/O 2026",
+      "summary_original": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "published_display": "2026-05-20",
+      "id": "8f0cd9c8cd59"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Yeni bir deney, Google Beam'e daha iyi grup toplantıları getiriyor",
       "summary": "İş arkadaşlarınızı gerçeğe yakın boyut ve sesle görüp duyun, hibrit toplantıların daha kapsayıcı ve bağlantılı olmasını sağlayın.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
@@ -150,6 +190,26 @@
       "summary_original": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
       "published_display": "2026-05-20",
       "id": "e44e896d4448"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI modeli ayrık geometrideki merkezi varsayımı çürüttü",
+      "summary": "Bir OpenAI modeli, 80 yıllık birim mesafe problemini çözerek ayrık geometrideki önemli bir varsayımı çürüttü ve yapay zeka odaklı matematikte bir dönüm noktasına işaret etti.",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-20T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "OpenAI modeli ayrık geometrideki merkezi varsayımı çürüttü Bir OpenAI modeli, 80 yıllık birim mesafe problemini çözerek ayrık geometrideki önemli bir varsayımı çürüttü ve yapay zeka odaklı matematikte bir dönüm noktasına işaret etti. An OpenAI model has disproved a central conjecture in discrete geometry An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics. AI OpenAI Model",
+      "title_original": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary_original": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "published_display": "2026-05-20",
+      "id": "afd750aacdd2"
     },
     {
       "category": "ai",
@@ -174,102 +234,22 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Singapur için OpenAI ile Tanışın",
-      "summary": "Singapur için OpenAI, dağıtımı genişletmek, yerel yetenekler oluşturmak ve işletmeleri ve kamu hizmetlerini AI ile desteklemek için çok yıllı bir AI ortaklığı başlattı.",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "title": "Ramp mühendisleri Codex ile kod incelemesini nasıl hızlandırır?",
+      "summary": "Ramp mühendisleri, kodu incelemek ve iyileştirmeleri göndermek için Codex'i GPT-5.5 ile nasıl kullanıyor ve böylece saatler yerine dakikalar içinde önemli geri bildirim almalarına olanak tanıyor.",
+      "url": "https://openai.com/index/ramp",
       "image_url": null,
       "source": "OpenAI News",
-      "published_at": "2026-05-19T20:30:00Z",
+      "published_at": "2026-05-20T00:00:00Z",
       "tags": [
         "AI",
         "OpenAI",
         "Model"
       ],
-      "keywords": "Singapur için OpenAI ile Tanışın Singapur için OpenAI, dağıtımı genişletmek, yerel yetenekler oluşturmak ve işletmeleri ve kamu hizmetlerini AI ile desteklemek için çok yıllı bir AI ortaklığı başlattı. Introducing OpenAI for Singapore OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI. AI OpenAI Model",
-      "title_original": "Introducing OpenAI for Singapore",
-      "summary_original": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "published_display": "2026-05-19",
-      "id": "8d9308f49ada"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Ampirik Araştırma Yardımı (ERA): Nature yayınından Hesaplamalı Keşfi katalize etmeye",
-      "summary": "Genel Bilim",
-      "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/ERA_nature_hero_final.webp",
-      "source": "Google Research Blog",
-      "published_at": "2026-05-19T17:52:00Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Ampirik Araştırma Yardımı (ERA): Nature yayınından Hesaplamalı Keşfi katalize etmeye Genel Bilim Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery General Science AI Research Google",
-      "title_original": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-      "summary_original": "General Science",
-      "published_display": "2026-05-19",
-      "id": "8f6886e932d8"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Google Workspace'te oluşturmanın ve işleri halletmenin yeni yolları",
-      "summary": "Gmail, Dokümanlar ve Keep'teki yeni ses özellikleri, Google Pics adı verilen yeni bir tasarım aracı ve AI Inbox'ta yapılan güncellemeler duyuruluyor.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Google Workspace'te oluşturmanın ve işleri halletmenin yeni yolları Gmail, Dokümanlar ve Keep'teki yeni ses özellikleri, Google Pics adı verilen yeni bir tasarım aracı ve AI Inbox'ta yapılan güncellemeler duyuruluyor. New ways to create and get things done in Google Workspace Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox. AI Product Google",
-      "title_original": "New ways to create and get things done in Google Workspace",
-      "summary_original": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
-      "published_display": "2026-05-19",
-      "id": "839468e75f40"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "I/O 2026: Ajan Gemini dönemine hoş geldiniz",
-      "summary": "Google I/O'dan en son yenilikler: Gemini ile daha fazlasını yapmanıza nasıl yardımcı olduğumuzu görün.",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "I/O 2026: Ajan Gemini dönemine hoş geldiniz Google I/O'dan en son yenilikler: Gemini ile daha fazlasını yapmanıza nasıl yardımcı olduğumuzu görün. I/O 2026: Welcome to the agentic Gemini era The latest from Google I/O: See how we’re helping you get more done with Gemini. AI Product Google",
-      "title_original": "I/O 2026: Welcome to the agentic Gemini era",
-      "summary_original": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
-      "published_display": "2026-05-19",
-      "id": "a7e305f93e29"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotik/Otomasyon - Sağlık Paketlemesi",
-      "summary": "Robotik/Otomasyon Sağlık Hizmetleri Paketleme",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSFp5Q1F5ZzNYYTJfTlUwbFFxT21BTGg5WWdIcS1UQkl4WXo1cDJzNWVpaWMxYXk0TVdiZzlDb0dleEFJSGxvOHpjOG8zcU5Sc3F2czdTUjJzaFRhQXBEcDdOUDU1NGhCTnNzT3JpTkxjeEwzNEFTQ2lrcGhfZDhycXhJa0U4SGVWOTVEcUUzeFN5VHhVemdyOWdLM180NWxrZ0RRYTkwTGZBakp2cm5TdWZRc3lqaEV6VEpoSl9DRTBkazR2dXpfaHZUZC1BakE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-20T13:37:44Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik/Otomasyon - Sağlık Paketlemesi Robotik/Otomasyon Sağlık Hizmetleri Paketleme Robotics/Automation - Healthcare Packaging Robotics/Automation Healthcare Packaging Robotics Automation Industry",
-      "title_original": "Robotics/Automation - Healthcare Packaging",
-      "summary_original": "Robotics/Automation Healthcare Packaging",
+      "keywords": "Ramp mühendisleri Codex ile kod incelemesini nasıl hızlandırır? Ramp mühendisleri, kodu incelemek ve iyileştirmeleri göndermek için Codex'i GPT-5.5 ile nasıl kullanıyor ve böylece saatler yerine dakikalar içinde önemli geri bildirim almalarına olanak tanıyor. How Ramp engineers accelerate code review with Codex How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours. AI OpenAI Model",
+      "title_original": "How Ramp engineers accelerate code review with Codex",
+      "summary_original": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "published_display": "2026-05-20",
-      "id": "0f3955f974bc"
+      "id": "c5454b990037"
     },
     {
       "category": "robotik",
@@ -290,6 +270,26 @@
       "summary_original": "Hazardous Detection Robotics Market 2026-2032: Safety openPR.com",
       "published_display": "2026-05-20",
       "id": "163bed0ac170"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "OLO Robotics, üç uluslararası üretim ve dağıtım ortaklığıyla ticari lansmanını tamamladı - Robotics & Automation News",
+      "summary": "OLO Robotics, üç uluslararası üretim ve dağıtım ortaklığıyla ticari lansmanını tamamladı Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMXJUdWU0LUNqNG9GMWlEMnQwbVVFZGxxVHh3X2Q4MUtkTW8tN1puMno1MDktUnZ2ZjVldGZWeDg2TWI1NnJFYjFNcWFGdjVFWTJPMUxXMDBKZ3M2MHNhUmJGNWNhRDJLaGUwZHN2aF8wcDZYMW03MHVVbUZ6Z0pCX1I4dnFXRjV0Nm5OX0Q0VmI4Q0I2LWZuWS1fSzlvU09xdXd5VzFmQ2pvY291S1JuVm05NDJVQWRiT2h6enJYbHlTbjBiSk81R1p5el9TcnlWWnprVXV1MFNYYlo5amFkaG1Db3MzZ21zN29uUFZvby1XRnlFT2RuSE53?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-20T07:48:43Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "OLO Robotics, üç uluslararası üretim ve dağıtım ortaklığıyla ticari lansmanını tamamladı - Robotics & Automation News OLO Robotics, üç uluslararası üretim ve dağıtım ortaklığıyla ticari lansmanını tamamladı Robotik ve Otomasyon Haberleri OLO Robotics completes commercial launch with three international manufacturing and distribution partnerships - Robotics & Automation News OLO Robotics completes commercial launch with three international manufacturing and distribution partnerships Robotics & Automation News Robotics Automation Industry",
+      "title_original": "OLO Robotics completes commercial launch with three international manufacturing and distribution partnerships - Robotics & Automation News",
+      "summary_original": "OLO Robotics completes commercial launch with three international manufacturing and distribution partnerships Robotics & Automation News",
+      "published_display": "2026-05-20",
+      "id": "4aa49ff672e9"
     },
     {
       "category": "robotik",
@@ -554,6 +554,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "HIFOCUS IP Kameralar: Hindistan Genelinde Güvenliği Dönüştürüyor - Punjab Kesari",
+      "summary": "HIFOCUS IP Kameralar: Hindistan'da Güvenliği Dönüştürüyor Punjab Kesari",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0Y3UXFCdVp3Nmx4eExDY1liajZLd2VYQl9YbnpONFZFZFNMVkZhVFU5a0dxdXNyaEVSb0c4bUNlMklDUEhha0p1TENqY0pXQ3l2WWpSajk4X0w3cFFJVzJwNndZUnFyRGNReDN5YURkRTdEZHZYSkUxdHA5Q3dkdGQ4eEJpMEwwRHJGLWFJYnRWUW1RRGFLdi1iX1c3WmtZdERR0gGoAUFVX3lxTFB1ZGpmdXViVkRTbmpJRURtUmlPak51a0dBOVhQYlN1S24zaUhLSGFPSDVBMzczSnJMR0ZYV1ZPSWoxUG95SjFaWXFZa2o0cktLdzFDNlNTSmxZNWRZRndxVUxkNUF0SnVaeEJucDFNVkkyTi14dER4Z2RzcmFnNVptOGlST085bDZCOGJGbjhuWnB4MmM1UHZ0ZXhLekFoS3R6OG9HejRXaw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-05-18T06:30:36Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "HIFOCUS IP Kameralar: Hindistan Genelinde Güvenliği Dönüştürüyor - Punjab Kesari HIFOCUS IP Kameralar: Hindistan'da Güvenliği Dönüştürüyor Punjab Kesari HIFOCUS IP Cameras: Transforming Security Across India - Punjab Kesari English HIFOCUS IP Cameras: Transforming Security Across India Punjab Kesari English IP Camera Video Surveillance",
+      "title_original": "HIFOCUS IP Cameras: Transforming Security Across India - Punjab Kesari English",
+      "summary_original": "HIFOCUS IP Cameras: Transforming Security Across India Punjab Kesari English",
+      "published_display": "2026-05-18",
+      "id": "0c314ed05d80"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
       "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
@@ -570,106 +590,6 @@
       "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
       "published_display": "2026-05-18",
       "id": "89e9ec78b392"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
-      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
-      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
-      "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-29T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
-      "published_display": "2026-01-29",
-      "id": "3d63787c804b"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews",
-      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-12-11T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
-      "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
-      "published_display": "2025-12-11",
-      "id": "feaf9899af14"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
-      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-08T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
-      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
-      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
-      "published_display": "2025-08-08",
-      "id": "009e6db74527"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... - The Times of India",
-      "summary": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGFDdDRBZ2x3RTQ5ZFJfM1dQWE9WUkcwWWg3QXp3ekJyRWJZRU1Gak45aWlOOUtDcE0zNHgwVFRvREN0RXIyQ3lZdjdUeDVXR05heWhydjlicGxnNUxVdmgwZEhobEdKbWJnYkJVVjlKSXVrcFlZa0F0VXN1MmFqT2RDdThrSHdJaXhGNWR5YmYyN1dMMnZ6NWpnb2pKbWp6dEd5Z3diRW8zLXUyNTJHSEhwd1pPNmpabkJIa0VWMkhrbk9XVll6c2JmczVjOVhvLUhVa04yb2lfZU10OW5RNXBnSTZscWNIZ3REZUd1TWfSAfYBQVVfeXFMUDVmRjhMSlJJZGJzNlMtR1Z3Q2F2QjU4aGd1MlRpM3ZRTFVMSE5DU2l4ZkxXdW01X1hKdE9DdXFtZTgtdWIwNUx6N0dZdnN4VUlicE5LT1k3RU01SkdvTGNHSG5oR2dvckZiUENwZ0xjVk51ZHlWNjF1YUY3aEthak5xR0ZXcGxqcEdMN3pvSWd5eUY2LUozMjB1QktvUmgzeDhNNWFvZFczOXZNRmxzcE1JUTVPU3VvZ21HTWp1NlJ5aGhYeDZRelo3OE55SEp0bC1ZdnpCTXlNdUJXRkFfNWNscEljbXFmVXhXQV9nZUVoSHpJOFJB?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-23T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... - The Times of India İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... The Times of India Israel security agencies warn people: Turn off your home security cameras or ... - The Times of India Israel security agencies warn people: Turn off your home security cameras or ... The Times of India IP Camera Video Surveillance",
-      "title_original": "Israel security agencies warn people: Turn off your home security cameras or ... - The Times of India",
-      "summary_original": "Israel security agencies warn people: Turn off your home security cameras or ... The Times of India",
-      "published_display": "2025-06-23",
-      "id": "569134a13a27"
     }
   ]
 }
