@@ -1,21 +1,41 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-20T20:40:00Z",
-  "total_posts": 29,
+  "updated_at": "2026-05-20T21:07:38Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 2
+    "kamera": 6
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil)",
-      "summary": "“Kötü bir sistem, iyi bir insanı [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım...",
+      "title": "GitHub'un dahili depolarına yetkisiz erişimi araştırmak",
+      "summary": "Herhangi bir etki tespit edilirse müşteriler, yerleşik olay müdahale ve bildirim kanalları aracılığıyla bilgilendirilecektir. GitHub'un dahili depolarına yetkisiz erişimin araştırılması yazısı ilk olarak GitHub Blog'da göründü.",
+      "url": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-05-20T21:07:38Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub'un dahili depolarına yetkisiz erişimi araştırmak Herhangi bir etki tespit edilirse müşteriler, yerleşik olay müdahale ve bildirim kanalları aracılığıyla bilgilendirilecektir. GitHub'un dahili depolarına yetkisiz erişimin araştırılması yazısı ilk olarak GitHub Blog'da göründü. Investigating unauthorized access to GitHub’s internal repositories If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub’s internal repositories appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Investigating unauthorized access to GitHub’s internal repositories",
+      "summary_original": "If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub’s internal repositories appeared first on The GitHub Blog .",
+      "published_display": "2026-05-20",
+      "id": "b60a7cc0d223"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Ajan-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil)",
+      "summary": "“Kötü bir sistem iyi bir kişiyi [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım...",
       "url": "https://devblogs.microsoft.com/blog/agentic-agile-why-agent-development-needs-agile-not-just-prompts",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,17 +45,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil) “Kötü bir sistem, iyi bir insanı [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım... Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts) “A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating... Microsoft Dev Cloud",
+      "keywords": "Ajan-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil) “Kötü bir sistem iyi bir kişiyi [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım... Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts) “A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating... Microsoft Dev Cloud",
       "title_original": "Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts)",
       "summary_original": "“A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating...",
       "published_display": "2026-05-19",
-      "id": "0c6c7cc6f044"
+      "id": "b55d2f077a6a"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yerel GitHub oturumlarınızı istediğiniz yere taşıyın",
-      "summary": "İşinizi VS Code veya CLI'de başlatın, telefonunuzdan bitirin. GitHub Copilot oturumları için uzaktan kontrol artık github.com ve GitHub Mobile'da genel kullanıma sunuldu. Gönderi Yerel GitHub oturumlarınızı ilk olarak Th.'da görünen herhangi bir yere götürün...",
+      "summary": "İşinizi VS Code veya CLI'de başlatın, telefonunuzdan bitirin. GitHub Copilot oturumları için uzaktan kontrol artık github.com ve GitHub Mobile'da genel kullanıma sunuldu. Gönderi Yerel GitHub oturumlarınızı ilk kez Th.'da görünen herhangi bir yere götürün...",
       "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yerel GitHub oturumlarınızı istediğiniz yere taşıyın İşinizi VS Code veya CLI'de başlatın, telefonunuzdan bitirin. GitHub Copilot oturumları için uzaktan kontrol artık github.com ve GitHub Mobile'da genel kullanıma sunuldu. Gönderi Yerel GitHub oturumlarınızı ilk olarak Th.'da görünen herhangi bir yere götürün... Take your local GitHub sessions anywhere Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on Th... GitHub Dev Platform",
+      "keywords": "Yerel GitHub oturumlarınızı istediğiniz yere taşıyın İşinizi VS Code veya CLI'de başlatın, telefonunuzdan bitirin. GitHub Copilot oturumları için uzaktan kontrol artık github.com ve GitHub Mobile'da genel kullanıma sunuldu. Gönderi Yerel GitHub oturumlarınızı ilk kez Th.'da görünen herhangi bir yere götürün... Take your local GitHub sessions anywhere Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on Th... GitHub Dev Platform",
       "title_original": "Take your local GitHub sessions anywhere",
       "summary_original": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on Th...",
       "published_display": "2026-05-18",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği",
-      "summary": "Kaliteli gönderimlere öncelik vermek, ortak sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek...",
+      "summary": "Kaliteli gönderimlere öncelik vermek, paylaşılan sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek...",
       "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği Kaliteli gönderimlere öncelik vermek, ortak sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek... Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu... GitHub Dev Platform",
+      "keywords": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği Kaliteli gönderimlere öncelik vermek, paylaşılan sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek... Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu... GitHub Dev Platform",
       "title_original": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
       "summary_original": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu...",
       "published_display": "2026-05-15",
@@ -110,26 +130,6 @@
       "summary_original": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog .",
       "published_display": "2026-05-14",
       "id": "ccea9f39681e"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Gecikmeden anlık duruma: GitHub'ı modernleştirme Gezinme performansında sorun var",
-      "summary": "GitHub Sorunları ekibinin, gezinmeyi anında hissettirmek için istemci tarafında önbelleğe almayı, akıllı önceden getirmeyi ve hizmet çalışanlarını nasıl kullandığı. Gecikmeden anlık duruma: GitHub Sorunlarının modernleştirilmesi navigasyon performansı yazısı ilk olarak GitHub'da yayınlandı...",
-      "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-14T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Gecikmeden anlık duruma: GitHub'ı modernleştirme Gezinme performansında sorun var GitHub Sorunları ekibinin, gezinmeyi anında hissettirmek için istemci tarafında önbelleğe almayı, akıllı önceden getirmeyi ve hizmet çalışanlarını nasıl kullandığı. Gecikmeden anlık duruma: GitHub Sorunlarının modernleştirilmesi navigasyon performansı yazısı ilk olarak GitHub'da yayınlandı... From latency to instant: Modernizing GitHub Issues navigation performance How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub... GitHub Dev Platform",
-      "title_original": "From latency to instant: Modernizing GitHub Issues navigation performance",
-      "summary_original": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub...",
-      "published_display": "2026-05-14",
-      "id": "1dca04a80eaa"
     },
     {
       "category": "ai",
@@ -215,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "OpenAI'nin Ülkeler İçin Eğitiminin bir sonraki aşaması",
-      "summary": "OpenAI, yeni ortaklıklar, öğretmen eğitimi ve küresel öğrenme sonuçlarını iyileştirmeye yönelik araçlarla okullarda yapay zekanın benimsenmesini genişleterek Ülkeler için Eğitimi geliştiriyor.",
+      "summary": "OpenAI, yeni ortaklıklar, öğretmen eğitimleri ve küresel öğrenme sonuçlarını iyileştirmeye yönelik araçlarla okullarda yapay zekanın benimsenmesini genişleterek Ülkeler için Eğitimi geliştiriyor.",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI'nin Ülkeler İçin Eğitiminin bir sonraki aşaması OpenAI, yeni ortaklıklar, öğretmen eğitimi ve küresel öğrenme sonuçlarını iyileştirmeye yönelik araçlarla okullarda yapay zekanın benimsenmesini genişleterek Ülkeler için Eğitimi geliştiriyor. The next phase of OpenAI’s Education for Countries OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes. AI OpenAI Model",
+      "keywords": "OpenAI'nin Ülkeler İçin Eğitiminin bir sonraki aşaması OpenAI, yeni ortaklıklar, öğretmen eğitimleri ve küresel öğrenme sonuçlarını iyileştirmeye yönelik araçlarla okullarda yapay zekanın benimsenmesini genişleterek Ülkeler için Eğitimi geliştiriyor. The next phase of OpenAI’s Education for Countries OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes. AI OpenAI Model",
       "title_original": "The next phase of OpenAI’s Education for Countries",
       "summary_original": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "published_display": "2026-05-20",
@@ -535,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Kieback & Peter DDC Bina Kontrolörleri",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kurbanın tarayıcısının kontrolünü ele geçirmesine olanak verebilir. Kieback ve Peter DDC Bina Denetleyicilerinin aşağıdaki sürümleri etkilenir: DDC4002 <=1.12.14 (CVE-2026...",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kurbanın tarayıcısının kontrolünü ele geçirmesine olanak verebilir. Aşağıdaki Kieback ve Peter DDC Bina Denetleyicileri sürümleri etkilenir: DDC4002 <=1.12.14 (CVE-2026...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05",
       "image_url": null,
       "source": "CISA Advisories",
@@ -545,31 +545,11 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Kieback & Peter DDC Bina Kontrolörleri CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kurbanın tarayıcısının kontrolünü ele geçirmesine olanak verebilir. Kieback ve Peter DDC Bina Denetleyicilerinin aşağıdaki sürümleri etkilenir: DDC4002 <=1.12.14 (CVE-2026... Kieback & Peter DDC Building Controllers View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback & Peter DDC Building Controllers are affected: DDC4002 <=1.12.14 (CVE-2026... CISA Advisory Threat",
+      "keywords": "Kieback & Peter DDC Bina Kontrolörleri CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kurbanın tarayıcısının kontrolünü ele geçirmesine olanak verebilir. Aşağıdaki Kieback ve Peter DDC Bina Denetleyicileri sürümleri etkilenir: DDC4002 <=1.12.14 (CVE-2026... Kieback & Peter DDC Building Controllers View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback & Peter DDC Building Controllers are affected: DDC4002 <=1.12.14 (CVE-2026... CISA Advisory Threat",
       "title_original": "Kieback & Peter DDC Building Controllers",
       "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback & Peter DDC Building Controllers are affected: DDC4002 <=1.12.14 (CVE-2026...",
       "published_display": "2026-05-19",
       "id": "28ef14899cac"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan Genelinde Güvenliği Dönüştürüyor - Punjab Kesari",
-      "summary": "HIFOCUS IP Kameralar: Hindistan'da Güvenliği Dönüştürüyor Punjab Kesari",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0Y3UXFCdVp3Nmx4eExDY1liajZLd2VYQl9YbnpONFZFZFNMVkZhVFU5a0dxdXNyaEVSb0c4bUNlMklDUEhha0p1TENqY0pXQ3l2WWpSajk4X0w3cFFJVzJwNndZUnFyRGNReDN5YURkRTdEZHZYSkUxdHA5Q3dkdGQ4eEJpMEwwRHJGLWFJYnRWUW1RRGFLdi1iX1c3WmtZdERR0gGoAUFVX3lxTFB1ZGpmdXViVkRTbmpJRURtUmlPak51a0dBOVhQYlN1S24zaUhLSGFPSDVBMzczSnJMR0ZYV1ZPSWoxUG95SjFaWXFZa2o0cktLdzFDNlNTSmxZNWRZRndxVUxkNUF0SnVaeEJucDFNVkkyTi14dER4Z2RzcmFnNVptOGlST085bDZCOGJGbjhuWnB4MmM1UHZ0ZXhLekFoS3R6OG9HejRXaw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-05-18T06:30:36Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan Genelinde Güvenliği Dönüştürüyor - Punjab Kesari HIFOCUS IP Kameralar: Hindistan'da Güvenliği Dönüştürüyor Punjab Kesari HIFOCUS IP Cameras: Transforming Security Across India - Punjab Kesari English HIFOCUS IP Cameras: Transforming Security Across India Punjab Kesari English IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Transforming Security Across India - Punjab Kesari English",
-      "summary_original": "HIFOCUS IP Cameras: Transforming Security Across India Punjab Kesari English",
-      "published_display": "2026-05-18",
-      "id": "0c314ed05d80"
     },
     {
       "category": "kamera",
@@ -590,6 +570,106 @@
       "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
       "published_display": "2026-05-18",
       "id": "89e9ec78b392"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-11T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
+      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
+      "published_display": "2026-03-11",
+      "id": "3fd52ec52b0c"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-29T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
+      "published_display": "2026-01-29",
+      "id": "f4f88664728b"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor - CyberSecurityNews",
+      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-12-11T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
+      "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
+      "published_display": "2025-12-11",
+      "id": "569f6edb4df3"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya",
+      "summary": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXlPaHpnQURjclQ0QWtmRm1tams0WnJFeE96cGM0SDhfUndLSTBjX256ejFFa3NwMEtiQlhXaVVxNXRBSHNzZDJFeVVMbHB5V2N4bndvb1BOYWx4Q0VYWTIzY0psdlduMWh0b3dPQ3ZVS0pONXFFbkdaU2lIaUNvV2N2TDBQeHRGUTJ0ZUNCTnJSUXVlN3ZXNHRTZ1A?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-26T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia IP Camera Video Surveillance",
+      "title_original": "Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia",
+      "summary_original": "Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia",
+      "published_display": "2025-08-26",
+      "id": "86a5b32c20ef"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
+      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-08T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
+      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
+      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
+      "published_display": "2025-08-08",
+      "id": "009e6db74527"
     }
   ]
 }
