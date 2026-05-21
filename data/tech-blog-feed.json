@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-21T11:02:27Z",
+  "updated_at": "2026-05-21T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub'ın erişilebilirlik alanında bir sonraki bölümünü oluşturmak",
+      "summary": "GitHub'ın erişilebilirlik stratejisiyle ilgili güncellememizi keşfedin ve erişilebilirlik kültürü oluşturma konusunda bize nasıl katılabileceğinizi öğrenin. Erişilebilirlik konusunda GitHub'ın bir sonraki bölümünü oluşturma yazısı ilk olarak GitHub Blogunda yayınlandı.",
+      "url": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-05-21T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub'ın erişilebilirlik alanında bir sonraki bölümünü oluşturmak GitHub'ın erişilebilirlik stratejisiyle ilgili güncellememizi keşfedin ve erişilebilirlik kültürü oluşturma konusunda bize nasıl katılabileceğinizi öğrenin. Erişilebilirlik konusunda GitHub'ın bir sonraki bölümünü oluşturma yazısı ilk olarak GitHub Blogunda yayınlandı. Building GitHub’s next chapter in accessibility Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Building GitHub’s next chapter in accessibility",
+      "summary_original": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on The GitHub Blog .",
+      "published_display": "2026-05-21",
+      "id": "8029b49385a6"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil)",
-      "summary": "“Kötü bir sistem, iyi bir insanı [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım...",
+      "summary": "“Kötü bir sistem iyi bir kişiyi [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım...",
       "url": "https://devblogs.microsoft.com/blog/agentic-agile-why-agent-development-needs-agile-not-just-prompts",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil) “Kötü bir sistem, iyi bir insanı [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım... Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts) “A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating... Microsoft Dev Cloud",
+      "keywords": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil) “Kötü bir sistem iyi bir kişiyi [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım... Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts) “A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating... Microsoft Dev Cloud",
       "title_original": "Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts)",
       "summary_original": "“A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating...",
       "published_display": "2026-05-19",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği",
-      "summary": "Kaliteli gönderimlere öncelik vermek, ortak sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek...",
+      "summary": "Kaliteli gönderimlere öncelik vermek, paylaşılan sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek...",
       "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,31 +125,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği Kaliteli gönderimlere öncelik vermek, ortak sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek... Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu... GitHub Dev Platform",
+      "keywords": "Çıtayı yükseltmek: Kalite, paylaşılan sorumluluk ve GitHub'un hata ödül programının geleceği Kaliteli gönderimlere öncelik vermek, paylaşılan sorumluluk sınırlarını netleştirmek ve düşük riskli bulguları nasıl ödüllendireceğimizi geliştirmek için hata ödül programı standartlarımızı güncelliyoruz. Yazı Çıtayı Yükseltmek: Kalite, Paylaşılan Sorumluluk ve Gelecek... Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu... GitHub Dev Platform",
       "title_original": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
       "summary_original": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the fu...",
       "published_display": "2026-05-15",
       "id": "ff72e5084b62"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub kullanılabilirlik raporu: Nisan 2026",
-      "summary": "Nisan ayında GitHub hizmetlerinde performansın düşmesine neden olan 10 olay yaşadık. GitHub kullanılabilirlik raporu: Nisan 2026 ilk olarak The GitHub Blog'da yayınlandı.",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-14T22:02:43Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub kullanılabilirlik raporu: Nisan 2026 Nisan ayında GitHub hizmetlerinde performansın düşmesine neden olan 10 olay yaşadık. GitHub kullanılabilirlik raporu: Nisan 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: April 2026 In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub availability report: April 2026",
-      "summary_original": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog .",
-      "published_display": "2026-05-14",
-      "id": "ccea9f39681e"
     },
     {
       "category": "ai",
@@ -274,6 +274,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "ANSCER Robotics, Endüstriyel Otomasyonu Genişletmek İçin 5,4 Milyon Dolar Artırdı - Analytics Hindistan Dergisi",
+      "summary": "ANSCER Robotics, Endüstriyel Otomasyon Analitiğini Genişletmek İçin 5,4 Milyon Dolar Artırdı Hindistan Dergisi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVRaeHh1a3BvY1NQYzBOTG9GWjBvYjFyQUhpb1lqZUFqeHllVDB2UVBrTTNYeUdPN1g0aWpDZDdyS2pBTVNYZDNvNWxaQkdUT0hxUDhGWDNPeURHeTZtc1BSb29NRkVZdTVBamd0MFhfWUM1MzBuV1o5RGxwREVlalF4WFYzUXR2MmVkelZtb0FDR3pKb1hlZGgtY1RfNGs?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-20T14:35:46Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "ANSCER Robotics, Endüstriyel Otomasyonu Genişletmek İçin 5,4 Milyon Dolar Artırdı - Analytics Hindistan Dergisi ANSCER Robotics, Endüstriyel Otomasyon Analitiğini Genişletmek İçin 5,4 Milyon Dolar Artırdı Hindistan Dergisi ANSCER Robotics Raises $5.4 Mn to Expand Industrial Automation - Analytics India Magazine ANSCER Robotics Raises $5.4 Mn to Expand Industrial Automation Analytics India Magazine Robotics Automation Industry",
+      "title_original": "ANSCER Robotics Raises $5.4 Mn to Expand Industrial Automation - Analytics India Magazine",
+      "summary_original": "ANSCER Robotics Raises $5.4 Mn to Expand Industrial Automation Analytics India Magazine",
+      "published_display": "2026-05-20",
+      "id": "7ff1c126a616"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Tehlikeli Tespit Robotik Pazarı 2026-2032: Güvenlik - openPR.com",
       "summary": "Tehlikeli Tespit Robotik Pazarı 2026-2032: Güvenlik openPR.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUE5pRGNHc3A5SDVmVHMtWk9DbWFvVHJpM3Z6cC1lVDVicTdCTjQyYnRfOExTU25KNmczcWM5bFA4UmtWYm4yNXRYd040UEI0dHJiZXZTRUlTQlU0VmdCTzMzbkJpXzRjXzR6ZmNJZHZUa3MyUHlEdVF6OTY5QUFEVnZUZHFLSVk5MWZTTGlsUjByZw?oc=5",
@@ -352,26 +372,6 @@
       "id": "b770af38f824"
     },
     {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robot İşletim Sistemleri Pazarının Önemli Olaylara Tanık Olması Bekleniyor - openPR.com",
-      "summary": "Robot İşletim Sistemleri Pazarının Önemli Bir Etkiye Tanık Olması Bekleniyor openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjlYUDZPMUZVcGwzOHk4UHE5NW0wcmswWEF2TEt3SUpudnZsUURnYzRTNUgyMUdBUkN2RE9zYmhlOXhVT1hnNFplRUJ1QkJNX0VPNFRQRUkzUlFPeDV6SzdUQWNXUlJ3U3AyXzlBRnRYMFlCUHFkUGVjdm5IUHEzb3BtQTNwR3pGSXdWOGk0R1Q2LXl1MUFIZjdSeXBFUkU?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-19T12:46:02Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robot İşletim Sistemleri Pazarının Önemli Olaylara Tanık Olması Bekleniyor - openPR.com Robot İşletim Sistemleri Pazarının Önemli Bir Etkiye Tanık Olması Bekleniyor openPR.com Robot Operating Systems Market Expected to Witness Significant - openPR.com Robot Operating Systems Market Expected to Witness Significant openPR.com Robotics Automation Industry",
-      "title_original": "Robot Operating Systems Market Expected to Witness Significant - openPR.com",
-      "summary_original": "Robot Operating Systems Market Expected to Witness Significant openPR.com",
-      "published_display": "2026-05-19",
-      "id": "1dde430ce168"
-    },
-    {
       "category": "web",
       "category_label": "Web Tasarimi",
       "title": "Nisan ayında web platformunda yeni",
@@ -434,6 +434,106 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Hitachi Enerji GMS600",
+      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, OSS bileşeni OpenSSL'de bulunan ve aşağıda listelenen GMS600 sürümlerini etkileyen CVE-2022-4304 güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, deneme m...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-05-21T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Hitachi Enerji GMS600 CSAF Özetini Görüntüleyin Hitachi Energy, OSS bileşeni OpenSSL'de bulunan ve aşağıda listelenen GMS600 sürümlerini etkileyen CVE-2022-4304 güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, deneme m... Hitachi Energy GMS600 View CSAF Summary Hitachi Energy is aware of the vulnerability, CVE-2022-4304 in the OSS component OpenSSL, that affects the GMS600 versions that are listed below. An attacker successfully exploiting this vulnerability could send trial m... CISA Advisory Threat",
+      "title_original": "Hitachi Energy GMS600",
+      "summary_original": "View CSAF Summary Hitachi Energy is aware of the vulnerability, CVE-2022-4304 in the OSS component OpenSSL, that affects the GMS600 versions that are listed below. An attacker successfully exploiting this vulnerability could send trial m...",
+      "published_display": "2026-05-21",
+      "id": "a08dcebfa927"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "ABB Terra AC Duvar Kutusu",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, yığın belleğinin kirlenmesine neden olabilir ve bu da potansiyel olarak uzaktan erişim gerektirir.",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-05-21T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "ABB Terra AC Duvar Kutusu CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, yığın belleğinin kirlenmesine neden olabilir ve bu da potansiyel olarak uzaktan erişim gerektirir. ABB Terra AC Wallbox View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remo... CISA Advisory Threat",
+      "title_original": "ABB Terra AC Wallbox",
+      "summary_original": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remo...",
+      "published_display": "2026-05-21",
+      "id": "cd709c0ec8f2"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "ABB B&R PC'leri",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güvenlik açığını gideren ve gideren bir güncelleme artık mevcut. Bir ağ saldırganı bu güvenlik açığından yararlanabilir...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-05-21T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "ABB B&R PC'leri CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güvenlik açığını gideren ve gideren bir güncelleme artık mevcut. Bir ağ saldırganı bu güvenlik açığından yararlanabilir... ABB B&R PCs View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. A network attacker could exploit the vulnerabilit... CISA Advisory Threat",
+      "title_original": "ABB B&R PCs",
+      "summary_original": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. A network attacker could exploit the vulnerabilit...",
+      "published_display": "2026-05-21",
+      "id": "feed499108ac"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "ABB B&R Otomasyon Stüdyosu",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güncelliğini yitirmiş bir üçüncü taraf bileşenin yerini alan bir güncelleme mevcut. Her ne kadar başarılı bir sömürü gözlenmese de...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-05-21T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "ABB B&R Otomasyon Stüdyosu CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açığının farkına vardı. Güncelliğini yitirmiş bir üçüncü taraf bileşenin yerini alan bir güncelleme mevcut. Her ne kadar başarılı bir sömürü gözlenmese de... ABB B&R Automation Studio View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that replaces an outdated third-party component. Although no successful exploitation was observed duri... CISA Advisory Threat",
+      "title_original": "ABB B&R Automation Studio",
+      "summary_original": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that replaces an outdated third-party component. Although no successful exploitation was observed duri...",
+      "published_display": "2026-05-21",
+      "id": "cd60d3c0bfec"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "ABB B&R Otomasyon Çalışma Süresi",
+      "summary": "CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerinde B&R'nin dahili güvenlik analizi tarafından belirlenen bir güvenlik açığını çözen bir güncelleme mevcuttur. Bu güvenlik açığından başarıyla yararlanan bir saldırgan...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-05-21T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "ABB B&R Otomasyon Çalışma Süresi CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerinde B&R'nin dahili güvenlik analizi tarafından belirlenen bir güvenlik açığını çözen bir güncelleme mevcuttur. Bu güvenlik açığından başarıyla yararlanan bir saldırgan... ABB B&R Automation Runtime View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilitie... CISA Advisory Threat",
+      "title_original": "ABB B&R Automation Runtime",
+      "summary_original": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilitie...",
+      "published_display": "2026-05-21",
+      "id": "d4dc2330e60f"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "CISA Kataloğa Bilinen Yedi İstismar Edilen Güvenlik Açığı Ekliyor",
       "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yedi yeni güvenlik açığı ekledi. CVE-2008-4250 Microsoft Windows'ta Arabellek Taşması Güvenlik Açığı CVE-2009-1537 Microsoft DirectX BOŞ...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
@@ -452,104 +552,24 @@
       "id": "ea0a13461143"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "ZKTeco CCTV Kameraları",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, kamera hesabı kimlik bilgilerinin ele geçirilmesi de dahil olmak üzere bilgilerin açığa çıkmasına neden olabilir. ZKTeco CCTV Kameralarının aşağıdaki sürümleri etkilenir: SSC335-GC2063-Face-0b77...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04",
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
+      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
       "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-19T12:00:00Z",
+      "source": "Google News Camera Security",
+      "published_at": "2026-05-18T06:24:51Z",
       "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
+        "IP Camera",
+        "Video",
+        "Surveillance"
       ],
-      "keywords": "ZKTeco CCTV Kameraları CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, kamera hesabı kimlik bilgilerinin ele geçirilmesi de dahil olmak üzere bilgilerin açığa çıkmasına neden olabilir. ZKTeco CCTV Kameralarının aşağıdaki sürümleri etkilenir: SSC335-GC2063-Face-0b77... ZKTeco CCTV Cameras View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77... CISA Advisory Threat",
-      "title_original": "ZKTeco CCTV Cameras",
-      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77...",
-      "published_display": "2026-05-19",
-      "id": "7dc6ad984a9a"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Siemens RUGGEDCOM APE1808 Cihazları",
-      "summary": "CSAF Özetini Görüntüle Palo Alto Networks PAN-OS yazılımının User-ID™ Kimlik Doğrulama Portalı (diğer adıyla Captive Portal) hizmetindeki bir arabellek taşması güvenlik açığı, kimliği doğrulanmamış bir saldırganın kök ayrıcalıklarıyla rastgele kod yürütmesine olanak tanır...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-19T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Siemens RUGGEDCOM APE1808 Cihazları CSAF Özetini Görüntüle Palo Alto Networks PAN-OS yazılımının User-ID™ Kimlik Doğrulama Portalı (diğer adıyla Captive Portal) hizmetindeki bir arabellek taşması güvenlik açığı, kimliği doğrulanmamış bir saldırganın kök ayrıcalıklarıyla rastgele kod yürütmesine olanak tanır... Siemens RUGGEDCOM APE1808 Devices View CSAF Summary A buffer overflow vulnerability in the User-ID™ Authentication Portal (aka Captive Portal) service of Palo Alto Networks PAN-OS software allows an unauthenticated attacker to execute arbitrary code with root privileges... CISA Advisory Threat",
-      "title_original": "Siemens RUGGEDCOM APE1808 Devices",
-      "summary_original": "View CSAF Summary A buffer overflow vulnerability in the User-ID™ Authentication Portal (aka Captive Portal) service of Palo Alto Networks PAN-OS software allows an unauthenticated attacker to execute arbitrary code with root privileges...",
-      "published_display": "2026-05-19",
-      "id": "19db4e44da4f"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "ABB CoreSense HM ve CoreSense M10",
-      "summary": "CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerindeki güvenlik açığını gideren bir güncelleştirme mevcuttur. Bu ürünlerdeki yol geçişi güvenlik açığı, kimliği doğrulanmamış kullanıcıların kısıtlanmış erişime sahip olmasına izin verebilir...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-19T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "ABB CoreSense HM ve CoreSense M10 CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerindeki güvenlik açığını gideren bir güncelleştirme mevcuttur. Bu ürünlerdeki yol geçişi güvenlik açığı, kimliği doğrulanmamış kullanıcıların kısıtlanmış erişime sahip olmasına izin verebilir... ABB CoreSense HM and CoreSense M10 View CSAF Summary An update is available that resolves vulnerability in the product versions listed as affected in this advisory. A path traversal vulnerability in these products can allow unauthenticated users to gain access to restrict... CISA Advisory Threat",
-      "title_original": "ABB CoreSense HM and CoreSense M10",
-      "summary_original": "View CSAF Summary An update is available that resolves vulnerability in the product versions listed as affected in this advisory. A path traversal vulnerability in these products can allow unauthenticated users to gain access to restrict...",
-      "published_display": "2026-05-19",
-      "id": "bfd1de141e97"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "ScadaBR",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın kimliği doğrulanmamış uzaktan kod yürütmesine olanak verebilir. ScadaBR'nin aşağıdaki sürümleri etkilenir: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-19T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "ScadaBR CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın kimliği doğrulanmamış uzaktan kod yürütmesine olanak verebilir. ScadaBR'nin aşağıdaki sürümleri etkilenir: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE... ScadaBR View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to perform unauthenticated remote code execution. The following versions of ScadaBR are affected: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE... CISA Advisory Threat",
-      "title_original": "ScadaBR",
-      "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to perform unauthenticated remote code execution. The following versions of ScadaBR are affected: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE...",
-      "published_display": "2026-05-19",
-      "id": "0f92e3f3cd4e"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Kieback & Peter DDC Bina Kontrolörleri",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kurbanın tarayıcısının kontrolünü ele geçirmesine olanak verebilir. Kieback ve Peter DDC Bina Denetleyicilerinin aşağıdaki sürümleri etkilenir: DDC4002 <=1.12.14 (CVE-2026...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-19T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Kieback & Peter DDC Bina Kontrolörleri CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın kurbanın tarayıcısının kontrolünü ele geçirmesine olanak verebilir. Kieback ve Peter DDC Bina Denetleyicilerinin aşağıdaki sürümleri etkilenir: DDC4002 <=1.12.14 (CVE-2026... Kieback & Peter DDC Building Controllers View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback & Peter DDC Building Controllers are affected: DDC4002 <=1.12.14 (CVE-2026... CISA Advisory Threat",
-      "title_original": "Kieback & Peter DDC Building Controllers",
-      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback & Peter DDC Building Controllers are affected: DDC4002 <=1.12.14 (CVE-2026...",
-      "published_display": "2026-05-19",
-      "id": "28ef14899cac"
+      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
+      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
+      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
+      "published_display": "2026-05-18",
+      "id": "89e9ec78b392"
     },
     {
       "category": "kamera",
@@ -634,42 +654,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "İsrailli Yetkililer İran'ın Güvenlik Kameralarını Casusluk Amaçlı Ele Geçirdiği Uyarısında Bulundu - Bloomberg.com",
-      "summary": "İsrailli Yetkililer İran'ın Bloomberg.com'u Casusluk Etmek İçin Güvenlik Kameralarını Ele Geçirdiği Uyarısında Bulundu",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjc3VTMwZy1tRkpBS0F0STh3UjRmQkg1UVpMakFZQ0dCakl6X1JuLV9wS0FyU1kzRldHYk1TWjlnSkNsZlJGYXp4blRxYWlQTUtpek1HUk9meDBMMVBEaXhnU3MzUUdWa3lBT3JjOTNjblR3Z3UyNFFuWEFmeG9wQ1RuaVVlZ1lMSEVpMFdJb2tzRlZuU1RGMUllSGF1aVRoVGp2ZHc1ekZadTBS?oc=5",
+      "title": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... - The Times of India",
+      "summary": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGFDdDRBZ2x3RTQ5ZFJfM1dQWE9WUkcwWWg3QXp3ekJyRWJZRU1Gak45aWlOOUtDcE0zNHgwVFRvREN0RXIyQ3lZdjdUeDVXR05heWhydjlicGxnNUxVdmgwZEhobEdKbWJnYkJVVjlKSXVrcFlZa0F0VXN1MmFqT2RDdThrSHdJaXhGNWR5YmYyN1dMMnZ6NWpnb2pKbWp6dEd5Z3diRW8zLXUyNTJHSEhwd1pPNmpabkJIa0VWMkhrbk9XVll6c2JmczVjOVhvLUhVa04yb2lfZU10OW5RNXBnSTZscWNIZ3REZUd1TWfSAfYBQVVfeXFMUDVmRjhMSlJJZGJzNlMtR1Z3Q2F2QjU4aGd1MlRpM3ZRTFVMSE5DU2l4ZkxXdW01X1hKdE9DdXFtZTgtdWIwNUx6N0dZdnN4VUlicE5LT1k3RU01SkdvTGNHSG5oR2dvckZiUENwZ0xjVk51ZHlWNjF1YUY3aEthak5xR0ZXcGxqcEdMN3pvSWd5eUY2LUozMjB1QktvUmgzeDhNNWFvZFczOXZNRmxzcE1JUTVPU3VvZ21HTWp1NlJ5aGhYeDZRelo3OE55SEp0bC1ZdnpCTXlNdUJXRkFfNWNscEljbXFmVXhXQV9nZUVoSHpJOFJB?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-06-19T07:00:00Z",
+      "published_at": "2025-06-23T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "İsrailli Yetkililer İran'ın Güvenlik Kameralarını Casusluk Amaçlı Ele Geçirdiği Uyarısında Bulundu - Bloomberg.com İsrailli Yetkililer İran'ın Bloomberg.com'u Casusluk Etmek İçin Güvenlik Kameralarını Ele Geçirdiği Uyarısında Bulundu Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy - Bloomberg.com Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy Bloomberg.com IP Camera Video Surveillance",
-      "title_original": "Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy - Bloomberg.com",
-      "summary_original": "Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy Bloomberg.com",
-      "published_display": "2025-06-19",
-      "id": "7384ab553702"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "2025'in en iyi hastane güvenlik kameraları - Becker's Hospital Review",
-      "summary": "2025 Becker's Hospital İncelemesinin en iyi hastane güvenlik kameraları",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkpIQlcyVlV6MDZ3NmZ4LXdtRDNuVTFxTTBFT0Q0WF9OamJkUU9SSm8yS1l1S3c2MFQ3RF8tRkozSFNkMTRqYjFiZ0tHZ0lPU21TUXlBM2xKSUtuNTh4cm9pUEgySVVNbjF3cDlOdWhfTmZCUW9JT2o5T0pOTFk4Rnd2ZlRnS1AwbzVka1E2b09hdHZoSlFVVkYzQ3lROE51RnY0SGJROVNFaDNpYzZtdzROeFRtZWZfN3Y0UlF1NTlZUQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-18T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "2025'in en iyi hastane güvenlik kameraları - Becker's Hospital Review 2025 Becker's Hospital İncelemesinin en iyi hastane güvenlik kameraları Top hospital security cameras of 2025 - Becker's Hospital Review Top hospital security cameras of 2025 Becker's Hospital Review IP Camera Video Surveillance",
-      "title_original": "Top hospital security cameras of 2025 - Becker's Hospital Review",
-      "summary_original": "Top hospital security cameras of 2025 Becker's Hospital Review",
-      "published_display": "2025-06-18",
-      "id": "bef9c25210b7"
+      "keywords": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... - The Times of India İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... The Times of India Israel security agencies warn people: Turn off your home security cameras or ... - The Times of India Israel security agencies warn people: Turn off your home security cameras or ... The Times of India IP Camera Video Surveillance",
+      "title_original": "Israel security agencies warn people: Turn off your home security cameras or ... - The Times of India",
+      "summary_original": "Israel security agencies warn people: Turn off your home security cameras or ... The Times of India",
+      "published_display": "2025-06-23",
+      "id": "569134a13a27"
     }
   ]
 }
