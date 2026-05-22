@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil)",
-      "summary": "“Kötü bir sistem iyi bir kişiyi [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım...",
+      "summary": "“Kötü bir sistem, iyi bir insanı [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım...",
       "url": "https://devblogs.microsoft.com/blog/agentic-agile-why-agent-development-needs-agile-not-just-prompts",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -125,7 +125,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil) “Kötü bir sistem iyi bir kişiyi [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım... Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts) “A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating... Microsoft Dev Cloud",
+      "keywords": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil) “Kötü bir sistem, iyi bir insanı [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım... Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts) “A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating... Microsoft Dev Cloud",
       "title_original": "Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts)",
       "summary_original": "“A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating...",
       "published_display": "2026-05-19",
@@ -170,6 +170,26 @@
       "summary_original": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "published_display": "2026-05-22",
       "id": "892272a2a91e"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Virgin Atlantic Codex ile nasıl daha hızlı gönderim yapıyor?",
+      "summary": "Virgin Atlantic, yenilenen mobil uygulamasını sabit bir tatil seyahati son teslim tarihinde yayınlamak için Codex'i nasıl kullandı, neredeyse toplam birim test kapsamına ve sıfır P1 hatasına ulaştı.",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-22T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Virgin Atlantic Codex ile nasıl daha hızlı gönderim yapıyor? Virgin Atlantic, yenilenen mobil uygulamasını sabit bir tatil seyahati son teslim tarihinde yayınlamak için Codex'i nasıl kullandı, neredeyse toplam birim test kapsamına ve sıfır P1 hatasına ulaştı. How Virgin Atlantic ships faster with Codex How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects. AI OpenAI Model",
+      "title_original": "How Virgin Atlantic ships faster with Codex",
+      "summary_original": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "published_display": "2026-05-22",
+      "id": "d07f65a2f8cc"
     },
     {
       "category": "ai",
@@ -232,30 +252,10 @@
       "id": "8f0cd9c8cd59"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yeni bir deney, Google Beam'e daha iyi grup toplantıları getiriyor",
-      "summary": "İş arkadaşlarınızı gerçeğe yakın boyut ve sesle görüp duyun, hibrit toplantıların daha kapsayıcı ve bağlantılı olmasını sağlayın.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-20T16:45:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Yeni bir deney, Google Beam'e daha iyi grup toplantıları getiriyor İş arkadaşlarınızı gerçeğe yakın boyut ve sesle görüp duyun, hibrit toplantıların daha kapsayıcı ve bağlantılı olmasını sağlayın. A new experiment brings better group meetings to Google Beam See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected. AI Product Google",
-      "title_original": "A new experiment brings better group meetings to Google Beam",
-      "summary_original": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
-      "published_display": "2026-05-20",
-      "id": "e44e896d4448"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Harting'den Perspektif: Endüstriyel gerçeklik kontrolü - fabrika kazananlarının neden sadece yenilik yapmakla kalmayıp uyguladıklarını da - Robotik ve Otomasyon Haberleri",
-      "summary": "Harting'in Perspektifi: Endüstriyel gerçeklik kontrolü - fabrika kazananlarının neden sadece yenilik yapmakla kalmayıp aynı zamanda uygulama yaptığını da kontrol edin Robotik ve Otomasyon Haberleri",
+      "title": "Harting'den Perspektif: Endüstriyel gerçeklik kontrolü - fabrika kazananlarının neden sadece yenilik yapmakla kalmayıp uygulama da yaptığını - Robotik ve Otomasyon Haberleri",
+      "summary": "Harting'den Perspektif: Endüstriyel gerçeklik kontrolü - fabrika kazananlarının neden sadece yenilik yapmakla kalmayıp aynı zamanda uygulama yaptığını da kontrol edin Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORExpQUFCSlpOV09sZW10NEtUMGRtd3ZfeXF0ODltdTZ4dXFodzJBbkFGMmNQaGZ5RDJ6SWxsZGdIckswZmRFdWNNdGhvdW9YOUNVb1V1cF9FUFFpV3hHeUtMZmhrSFhKb1J1MG5LWHVVVmhHM2FFM1AtcWtrbGdXZkFkTnhTUjNOd09abW9vc1lBWTE5ak5NcW9mYTNOdTF5M25Lcnh6cVNFVl96M2t4a0c5SVZxcFVzTVFIb2U4V2t3dmo4UEpXcFZtLV93aEJwR3FsWVVjWnRLVUxsanktSzNwQTlpUXNZM2dmTg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,11 +265,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Harting'den Perspektif: Endüstriyel gerçeklik kontrolü - fabrika kazananlarının neden sadece yenilik yapmakla kalmayıp uyguladıklarını da - Robotik ve Otomasyon Haberleri Harting'in Perspektifi: Endüstriyel gerçeklik kontrolü - fabrika kazananlarının neden sadece yenilik yapmakla kalmayıp aynı zamanda uygulama yaptığını da kontrol edin Robotik ve Otomasyon Haberleri Perspective from Harting: The industrial reality check – why factory winners execute, not just innovate - Robotics & Automation News Perspective from Harting: The industrial reality check – why factory winners execute, not just innovate Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Harting'den Perspektif: Endüstriyel gerçeklik kontrolü - fabrika kazananlarının neden sadece yenilik yapmakla kalmayıp uygulama da yaptığını - Robotik ve Otomasyon Haberleri Harting'den Perspektif: Endüstriyel gerçeklik kontrolü - fabrika kazananlarının neden sadece yenilik yapmakla kalmayıp aynı zamanda uygulama yaptığını da kontrol edin Robotik ve Otomasyon Haberleri Perspective from Harting: The industrial reality check – why factory winners execute, not just innovate - Robotics & Automation News Perspective from Harting: The industrial reality check – why factory winners execute, not just innovate Robotics & Automation News Robotics Automation Industry",
       "title_original": "Perspective from Harting: The industrial reality check – why factory winners execute, not just innovate - Robotics & Automation News",
       "summary_original": "Perspective from Harting: The industrial reality check – why factory winners execute, not just innovate Robotics & Automation News",
       "published_display": "2026-05-22",
-      "id": "e6014fed203f"
+      "id": "e84bfc4d988f"
     },
     {
       "category": "robotik",
@@ -334,26 +334,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Hindistan Endüstriyel Otomasyon Pazarı 2030 Pazar Dinamikleri, Boyutu, Paylaşımı ve Tahmini - blog.libero.it",
-      "summary": "Hindistan Endüstriyel Otomasyon Pazarı 2030 Pazar Dinamikleri, Boyutu, Paylaşımı ve Tahmini blog.libero.it",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXlPMWhZTVp1QUt1VUJvSUNGeGxlWDFoYnRtcFRKdWkyNXBUN2RyQ2t0ZkhzM0x3Mlo1dEw5V1NGTGIyZEMtQmFJVVMwZ2tEajJoR08xT0lYdnF2MU1KMjZ2TUFTSEtfY2Y5bHJTOTdmTkljME5IdVRJa0hYaFV6ZUt0YjBqcWFmWjRpZ2hXQ2dHckNFX0ItXzlVWVBEMFBrNm1IYUJnTkZxR19wX1htcndSMVZmRnJjbVhr0gHAAUFVX3lxTFBpcjVNb2NPVlU3ZUVJSjdQRGlhNkd0ZHphUXJ0aEFHSXpkVHFIdlg2NERjZ3BOT0xMYWFQRno3UGF2WmVKLXRoZXdHcGRSeS1BMnZsREpUaEllZm8zajJtbElMc3dqYjRUTDJlZXdCei1xVkhiVXVoOXZVYnNseFVrbGlBejZMaXBnNEViQUMyYkxkb0g5S2hOLVJpOWxFYzNhYWVsa1NtX2VIdndEbjA1OGl4ZTFtMVp6dW4xWHdDag?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-21T09:42:13Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Hindistan Endüstriyel Otomasyon Pazarı 2030 Pazar Dinamikleri, Boyutu, Paylaşımı ve Tahmini - blog.libero.it Hindistan Endüstriyel Otomasyon Pazarı 2030 Pazar Dinamikleri, Boyutu, Paylaşımı ve Tahmini blog.libero.it India Industrial Automation Market 2030 Market Dynamics, Size, Share & Forecast - blog.libero.it India Industrial Automation Market 2030 Market Dynamics, Size, Share & Forecast blog.libero.it Robotics Automation Industry",
-      "title_original": "India Industrial Automation Market 2030 Market Dynamics, Size, Share & Forecast - blog.libero.it",
-      "summary_original": "India Industrial Automation Market 2030 Market Dynamics, Size, Share & Forecast blog.libero.it",
-      "published_display": "2026-05-21",
-      "id": "0a85457db077"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "ANSCER Robotics, Endüstriyel Otomasyonu Genişletmek İçin 5,4 Milyon Dolar Artırdı - Analytics Hindistan Dergisi",
       "summary": "ANSCER Robotics, Endüstriyel Otomasyon Analitiğini Genişletmek İçin 5,4 Milyon Dolar Artırdı Hindistan Dergisi",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVRaeHh1a3BvY1NQYzBOTG9GWjBvYjFyQUhpb1lqZUFqeHllVDB2UVBrTTNYeUdPN1g0aWpDZDdyS2pBTVNYZDNvNWxaQkdUT0hxUDhGWDNPeURHeTZtc1BSb29NRkVZdTVBamd0MFhfWUM1MzBuV1o5RGxwREVlalF4WFYzUXR2MmVkelZtb0FDR3pKb1hlZGgtY1RfNGs?oc=5",
@@ -372,9 +352,29 @@
       "id": "7ff1c126a616"
     },
     {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Tehlikeli Tespit Robotik Pazarı 2026-2032: Güvenlik - openPR.com",
+      "summary": "Tehlikeli Tespit Robotik Pazarı 2026-2032: Güvenlik openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUE5pRGNHc3A5SDVmVHMtWk9DbWFvVHJpM3Z6cC1lVDVicTdCTjQyYnRfOExTU25KNmczcWM5bFA4UmtWYm4yNXRYd040UEI0dHJiZXZTRUlTQlU0VmdCTzMzbkJpXzRjXzR6ZmNJZHZUa3MyUHlEdVF6OTY5QUFEVnZUZHFLSVk5MWZTTGlsUjByZw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-05-20T08:19:40Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Tehlikeli Tespit Robotik Pazarı 2026-2032: Güvenlik - openPR.com Tehlikeli Tespit Robotik Pazarı 2026-2032: Güvenlik openPR.com Hazardous Detection Robotics Market 2026-2032: Safety - openPR.com Hazardous Detection Robotics Market 2026-2032: Safety openPR.com Robotics Automation Industry",
+      "title_original": "Hazardous Detection Robotics Market 2026-2032: Safety - openPR.com",
+      "summary_original": "Hazardous Detection Robotics Market 2026-2032: Safety openPR.com",
+      "published_display": "2026-05-20",
+      "id": "163bed0ac170"
+    },
+    {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -475,7 +475,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "ABB Terra AC Duvar Kutusu",
-      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, yığın belleğinin kirlenmesine neden olabilir ve bu da potansiyel olarak uzaktan erişim gerektirir.",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, yığın belleğin kirlenmesine neden olabilir ve bu da potansiyel olarak uzaktan erişim gerektirir.",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05",
       "image_url": null,
       "source": "CISA Advisories",
@@ -485,7 +485,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "ABB Terra AC Duvar Kutusu CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, yığın belleğinin kirlenmesine neden olabilir ve bu da potansiyel olarak uzaktan erişim gerektirir. ABB Terra AC Wallbox View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remo... CISA Advisory Threat",
+      "keywords": "ABB Terra AC Duvar Kutusu CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, yığın belleğin kirlenmesine neden olabilir ve bu da potansiyel olarak uzaktan erişim gerektirir. ABB Terra AC Wallbox View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remo... CISA Advisory Threat",
       "title_original": "ABB Terra AC Wallbox",
       "summary_original": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remo...",
       "published_display": "2026-05-21",
@@ -535,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "ABB B&R Otomasyon Çalışma Süresi",
-      "summary": "CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerinde B&R'nin dahili güvenlik analizi tarafından belirlenen bir güvenlik açığını çözen bir güncelleme mevcuttur. Bu güvenlik açığından başarıyla yararlanan bir saldırgan...",
+      "summary": "CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerinde B&R'nin dahili güvenlik analizi tarafından belirlenen bir güvenlik açığını çözen bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04",
       "image_url": null,
       "source": "CISA Advisories",
@@ -545,7 +545,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "ABB B&R Otomasyon Çalışma Süresi CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerinde B&R'nin dahili güvenlik analizi tarafından belirlenen bir güvenlik açığını çözen bir güncelleme mevcuttur. Bu güvenlik açığından başarıyla yararlanan bir saldırgan... ABB B&R Automation Runtime View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilitie... CISA Advisory Threat",
+      "keywords": "ABB B&R Otomasyon Çalışma Süresi CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerinde B&R'nin dahili güvenlik analizi tarafından belirlenen bir güvenlik açığını çözen bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan... ABB B&R Automation Runtime View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilitie... CISA Advisory Threat",
       "title_original": "ABB B&R Automation Runtime",
       "summary_original": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilitie...",
       "published_display": "2026-05-21",
@@ -574,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
@@ -634,7 +634,27 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot",
+      "title": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... - The Times of India",
+      "summary": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTGFDdDRBZ2x3RTQ5ZFJfM1dQWE9WUkcwWWg3QXp3ekJyRWJZRU1Gak45aWlOOUtDcE0zNHgwVFRvREN0RXIyQ3lZdjdUeDVXR05heWhydjlicGxnNUxVdmgwZEhobEdKbWJnYkJVVjlKSXVrcFlZa0F0VXN1MmFqT2RDdThrSHdJaXhGNWR5YmYyN1dMMnZ6NWpnb2pKbWp6dEd5Z3diRW8zLXUyNTJHSEhwd1pPNmpabkJIa0VWMkhrbk9XVll6c2JmczVjOVhvLUhVa04yb2lfZU10OW5RNXBnSTZscWNIZ3REZUd1TWfSAfYBQVVfeXFMUDVmRjhMSlJJZGJzNlMtR1Z3Q2F2QjU4aGd1MlRpM3ZRTFVMSE5DU2l4ZkxXdW01X1hKdE9DdXFtZTgtdWIwNUx6N0dZdnN4VUlicE5LT1k3RU01SkdvTGNHSG5oR2dvckZiUENwZ0xjVk51ZHlWNjF1YUY3aEthak5xR0ZXcGxqcEdMN3pvSWd5eUY2LUozMjB1QktvUmgzeDhNNWFvZFczOXZNRmxzcE1JUTVPU3VvZ21HTWp1NlJ5aGhYeDZRelo3OE55SEp0bC1ZdnpCTXlNdUJXRkFfNWNscEljbXFmVXhXQV9nZUVoSHpJOFJB?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-06-23T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... - The Times of India İsrail güvenlik kurumları insanları uyarıyor: Evinizin güvenlik kameralarını kapatın veya... The Times of India Israel security agencies warn people: Turn off your home security cameras or ... - The Times of India Israel security agencies warn people: Turn off your home security cameras or ... The Times of India IP Camera Video Surveillance",
+      "title_original": "Israel security agencies warn people: Turn off your home security cameras or ... - The Times of India",
+      "summary_original": "Israel security agencies warn people: Turn off your home security cameras or ... The Times of India",
+      "published_display": "2025-06-23",
+      "id": "569134a13a27"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot",
       "summary": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdTNtcU1Xdk1QenZiNW9Lcm1XUjRPTXlnMWNIZDUtYW9OWnFBZkNxbGpSVzFFTnRHV0ZGMVk5U3RKcUpOVnBTWkNQTllEcWJWWk8tRnpRdkhtSUcyT3huNEZJUU5USHpvYzhQOWEtSXI0QTZkN2hyUC1rcEFNUUxYaGhWU1NLU2dIYmhYaDFOaHl3MnV0?oc=5",
       "image_url": null,
@@ -645,31 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot IP Camera Video Surveillance",
+      "keywords": "İran güvenlik sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu - TechSpot İran gözetleme sistemlerini hacklerken İsrail vatandaşlara ev kameralarını kapatma çağrısında bulundu TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot IP Camera Video Surveillance",
       "title_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems - TechSpot",
       "summary_original": "Israel urges citizens to turn off home cameras as Iran hacks surveillance systems TechSpot",
       "published_display": "2025-06-22",
-      "id": "c69177168837"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "İran, İsrail hakkında bilgi edinmek için güvenlik kameralarını hackledi - medya - Cybernews",
-      "summary": "İran, İsrail hakkında bilgi edinmek için güvenlik kameralarını hackledi – Media Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zWTJKdkctTFltem82RGRhWUJUZHl3MkV6RmxKbXZPcDVJc0dTREphckFiRkRjaXlaRFRacFNNTHBfcjZnREZaeGpsV2pJdlVIWHR6eWF2ZFA2QmVZSGFFSGY1WnZZNk1hbmpFVDU5QU90djdDM29N?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-20T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "İran, İsrail hakkında bilgi edinmek için güvenlik kameralarını hackledi - medya - Cybernews İran, İsrail hakkında bilgi edinmek için güvenlik kameralarını hackledi – Media Cybernews Iran hacks security cameras to gain intel on Israel – media - Cybernews Iran hacks security cameras to gain intel on Israel – media Cybernews IP Camera Video Surveillance",
-      "title_original": "Iran hacks security cameras to gain intel on Israel – media - Cybernews",
-      "summary_original": "Iran hacks security cameras to gain intel on Israel – media Cybernews",
-      "published_display": "2025-06-20",
-      "id": "cea3a9e5cd1c"
+      "id": "fd320a27b5c5"
     }
   ]
 }
