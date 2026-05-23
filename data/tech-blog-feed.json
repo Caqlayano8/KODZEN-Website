@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "updated_at": "2026-05-22T18:00:00Z",
-  "total_posts": 33,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
-    "web": 3,
+    "web": 2,
     "siber": 6,
     "kamera": 6
   },
@@ -410,26 +410,6 @@
       "summary_original": "Read about various happenings with Baseline during March 2026.",
       "published_display": "2026-04-14",
       "id": "11541f4784e5"
-    },
-    {
-      "category": "web",
-      "category_label": "Web Tasarimi",
-      "title": "MDN'nin yeni arayüzünün altında",
-      "summary": "MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım.",
-      "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/",
-      "image_url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/featured.png",
-      "source": "MDN Blog",
-      "published_at": "2026-04-08T00:00:00Z",
-      "tags": [
-        "Web",
-        "Standards",
-        "Browser"
-      ],
-      "keywords": "MDN'nin yeni arayüzünün altında MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım. Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Web Standards Browser",
-      "title_original": "Under the hood of MDN's new frontend",
-      "summary_original": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
-      "published_display": "2026-04-08",
-      "id": "1c6156ef07a0"
     },
     {
       "category": "siber",
