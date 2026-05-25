@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-23T09:56:46Z",
+  "updated_at": "2026-05-25T16:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama",
+      "summary": "GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-05-25T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak GitHub Blogunda göründü. GitHub for Beginners: Getting started with Git and GitHub in VS Code Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+      "summary_original": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog .",
+      "published_display": "2026-05-25",
+      "id": "16bc971402d5"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub-owned repositories appeared first on The GitHub Blog .",
       "published_display": "2026-05-20",
       "id": "2f7c0ad3d6bf"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil)",
-      "summary": "“Kötü bir sistem iyi bir kişiyi [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım...",
-      "url": "https://devblogs.microsoft.com/blog/agentic-agile-why-agent-development-needs-agile-not-just-prompts",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-05-19T15:00:09Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Ajans-Çevik: Ajan Geliştirmenin Neden Çevikliğe İhtiyacı Var (Sadece İstemlere Değil) “Kötü bir sistem iyi bir kişiyi [veya temsilciyi] her zaman yener” ~Dr. William Edwards Deming (özür dileyerek) Vibe kodlamaya, istemler yazarak (genellikle telefonuma yazdırılır), bunları M365 Copilot'taki bir temsilciyle hassaslaştırarak ve oluşturarak başladım... Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts) “A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating... Microsoft Dev Cloud",
-      "title_original": "Agentic-Agile: Why Agent Development Needs Agile (Not Just Prompts)",
-      "summary_original": "“A bad system will beat a good person [or agent] every time” ~Dr. William Edwards Deming (with apologies) I started vibe coding by writing prompts (often dictated into my phone), refining them with an agent in M365 Copilot, and creating...",
-      "published_display": "2026-05-19",
-      "id": "0c6c7cc6f044"
     },
     {
       "category": "ai",
@@ -334,22 +334,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' - Robotik ve Otomasyon Haberleri",
-      "summary": "'İnsansı robotlar daha net yatırım getirisi gösteriyor ancak ticari başarı etkili çıktıya bağlı' Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU2ZPb3d1QWJ0TXhwMThXb2Y3aUYyTHp0VTJCUmUyMDE2Wl9ERGE0cUZOZ21fTTdSMV9hWms1cENtYmhueTNqcTBGMU1KQTFfOG9PMHh1N2E5bWVBX2FDTHZiQWhrX1djbEx2dU0xTzhyUnhvOGQ4MHUxYVhTaUNvc05tZ21uLW9jeHhHa01MUDhGWVRDTmNpTUt4dDRkb2J6Tl90WnYyQVRqc0lBVGkzV1hqMEMxdHdvNTBBV25RWlRwTzVmLXhYbHk3UFRGNmM3cFlZV3VDMA?oc=5",
+      "title": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi - Robotics & Automation News",
+      "summary": "Lightwheel, fiziksel yapay zekalı robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcjRvbGVTX0tPSDlvM0ZBMTh5aTZjMm9MTDk3YU40RkR2bkgwV2ZnLVNIa05qYmlCTUU4bU5GWmtMeE9US1UxMDJCNjJLMXI3QXFIMEpmdFMyTmtfT0U3dGxYMW5nRUJ2N0tJdWJyS0ktRlc3TDVlRll6akZrZTM1ZWw3clZaSkNFa3JlLWVORlpzUFluMzZuamh2Y3R0LUFyQjBjSDE4Wm1CRnluMkJvYTc3eUJIYVFEYmhzT05HTGtrckJtTV9KbTJocnpZQ0QwUERGbU9qNA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-05-19T14:47:33Z",
+      "published_at": "2026-05-19T10:08:47Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "'İnsansı robotlar daha net yatırım getirisi gösteriyor, ancak ticari başarı etkili çıktıya bağlı' - Robotik ve Otomasyon Haberleri 'İnsansı robotlar daha net yatırım getirisi gösteriyor ancak ticari başarı etkili çıktıya bağlı' Robotik ve Otomasyon Haberleri ‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ - Robotics & Automation News ‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ Robotics & Automation News Robotics Automation Industry",
-      "title_original": "‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ - Robotics & Automation News",
-      "summary_original": "‘Humanoid robots show clearer ROI, but commercial success depends on effective output’ Robotics & Automation News",
+      "keywords": "Lightwheel, fiziksel AI robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi - Robotics & Automation News Lightwheel, fiziksel yapay zekalı robotik altyapısı için 1. çeyrekte 100 milyon dolarlık sipariş bildirdi Robotik ve Otomasyon Haberleri Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure - Robotics & Automation News Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure - Robotics & Automation News",
+      "summary_original": "Lightwheel reports $100 million in Q1 orders for physical AI robotics infrastructure Robotics & Automation News",
       "published_display": "2026-05-19",
-      "id": "906de11df1a6"
+      "id": "730dd80cd09c"
     },
     {
       "category": "robotik",
