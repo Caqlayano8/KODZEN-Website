@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-28T07:48:43Z",
+  "updated_at": "2026-05-28T17:00:52Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,28 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
+      "title": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin",
+      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
+      "url": "https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-05-28T17:00:52Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
+      "title_original": "Improve your agentic developer tools by grounding in Microsoft Learn",
+      "summary_original": "Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu...",
+      "published_display": "2026-05-28",
+      "id": "ca680028440d"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
       "title": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor?",
-      "summary": "Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag...",
+      "summary": "Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı bir şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag...",
       "url": "https://devblogs.microsoft.com/blog/how-ai-coding-agents-actually-use-your-technology",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor? Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag... How AI coding agents actually use your technology You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag... Microsoft Dev Cloud",
+      "keywords": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor? Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı bir şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag... How AI coding agents actually use your technology You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag... Microsoft Dev Cloud",
       "title_original": "How AI coding agents actually use your technology",
       "summary_original": "You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag...",
       "published_display": "2026-05-27",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama",
-      "summary": "GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak The GitHub Blog'da göründü.",
       "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak GitHub Blogunda göründü. GitHub for Beginners: Getting started with Git and GitHub in VS Code Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak The GitHub Blog'da göründü. GitHub for Beginners: Getting started with Git and GitHub in VS Code Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
       "summary_original": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog .",
       "published_display": "2026-05-25",
@@ -54,7 +74,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub, Kurumsal Yapay Zeka Kodlama Aracıları için Gartner® Magic Quadrant™ sıralamasında üst üste üçüncü kez Lider olarak tanındı",
+      "title": "GitHub, Kurumsal Yapay Zeka Kodlama Aracıları için Gartner® Magic Quadrant™ sıralamasında üst üste üçüncü yıl Lider olarak tanındı",
       "summary": "Yazılım geliştirmenin geleceğini tanımlayan açık, güvenli ve yapay zeka destekli bir platform oluşturarak her geliştiriciyi güçlendirmeye kararlıyız. GitHub'un Kurumsal Yapay Zeka için Gartner® Magic Quadrant™'ta Lider olarak kabul ettiği gönderi...",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
       "image_url": null,
@@ -65,11 +85,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub, Kurumsal Yapay Zeka Kodlama Aracıları için Gartner® Magic Quadrant™ sıralamasında üst üste üçüncü kez Lider olarak tanındı Yazılım geliştirmenin geleceğini tanımlayan açık, güvenli ve yapay zeka destekli bir platform oluşturarak her geliştiriciyi güçlendirmeye kararlıyız. GitHub'un Kurumsal Yapay Zeka için Gartner® Magic Quadrant™'ta Lider olarak kabul ettiği gönderi... GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI... GitHub Dev Platform",
+      "keywords": "GitHub, Kurumsal Yapay Zeka Kodlama Aracıları için Gartner® Magic Quadrant™ sıralamasında üst üste üçüncü yıl Lider olarak tanındı Yazılım geliştirmenin geleceğini tanımlayan açık, güvenli ve yapay zeka destekli bir platform oluşturarak her geliştiriciyi güçlendirmeye kararlıyız. GitHub'un Kurumsal Yapay Zeka için Gartner® Magic Quadrant™'ta Lider olarak kabul ettiği gönderi... GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI... GitHub Dev Platform",
       "title_original": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
       "summary_original": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI...",
       "published_display": "2026-05-22",
-      "id": "119962904841"
+      "id": "feaa7d304486"
     },
     {
       "category": "yazilim",
@@ -112,30 +132,50 @@
       "id": "d2bf3b4b60a1"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub'ın erişilebilirlik alanında bir sonraki bölümünü oluşturmak",
-      "summary": "GitHub'ın erişilebilirlik stratejisine ilişkin güncellememizi keşfedin ve erişilebilirlik kültürü oluşturma konusunda bize nasıl katılabileceğinizi öğrenin. Erişilebilirlik konusunda GitHub'ın bir sonraki bölümünü oluşturma yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-21T16:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "2026'nın 12 önemli G/Ç anını yakalayın",
+      "summary": "Gemini Omni, Gemini 3.5 Flash ve daha fazlasıyla ilgili haberler de dahil olmak üzere Google I/O 2026'nın en büyük 12 açılış anını burada bulabilirsiniz.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_KNH.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-28T15:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Product",
+        "Google"
       ],
-      "keywords": "GitHub'ın erişilebilirlik alanında bir sonraki bölümünü oluşturmak GitHub'ın erişilebilirlik stratejisine ilişkin güncellememizi keşfedin ve erişilebilirlik kültürü oluşturma konusunda bize nasıl katılabileceğinizi öğrenin. Erişilebilirlik konusunda GitHub'ın bir sonraki bölümünü oluşturma yazısı ilk olarak GitHub Blogunda yayınlandı. Building GitHub’s next chapter in accessibility Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Building GitHub’s next chapter in accessibility",
-      "summary_original": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on The GitHub Blog .",
-      "published_display": "2026-05-21",
-      "id": "8029b49385a6"
+      "keywords": "2026'nın 12 önemli G/Ç anını yakalayın Gemini Omni, Gemini 3.5 Flash ve daha fazlasıyla ilgili haberler de dahil olmak üzere Google I/O 2026'nın en büyük 12 açılış anını burada bulabilirsiniz. Catch up on 12 major I/O 2026 moments Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more. AI Product Google",
+      "title_original": "Catch up on 12 major I/O 2026 moments",
+      "summary_original": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+      "published_display": "2026-05-28",
+      "id": "c2f47870a2e6"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI'nin Sınır Yönetişim Çerçevesi",
+      "summary": "OpenAI'nin Sınır Yönetişim Çerçevesini ve yapay zeka güvenliği, emniyeti ve risk uygulamalarımızın yeni ortaya çıkan AB ve Kaliforniya düzenlemeleriyle nasıl uyumlu olduğunu keşfedin.",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-05-28T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "OpenAI'nin Sınır Yönetişim Çerçevesi OpenAI'nin Sınır Yönetişim Çerçevesini ve yapay zeka güvenliği, emniyeti ve risk uygulamalarımızın yeni ortaya çıkan AB ve Kaliforniya düzenlemeleriyle nasıl uyumlu olduğunu keşfedin. OpenAI’s Frontier Governance Framework Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations. AI OpenAI Model",
+      "title_original": "OpenAI’s Frontier Governance Framework",
+      "summary_original": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "published_display": "2026-05-28",
+      "id": "f3fe140c9c8c"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Sıfır güven toplama yoluyla özel analiz",
-      "summary": "Güvenlik, Gizlilik ve Kötüye Kullanımı Önleme",
+      "summary": "Güvenlik, Gizlilik ve Kötüye Kullanım Önleme",
       "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Private_analytics_via_zero-trust_aggregation.png",
       "source": "Google Research Blog",
@@ -145,7 +185,7 @@
         "Research",
         "Google"
       ],
-      "keywords": "Sıfır güven toplama yoluyla özel analiz Güvenlik, Gizlilik ve Kötüye Kullanımı Önleme Private analytics via zero-trust aggregation Security, Privacy and Abuse Prevention AI Research Google",
+      "keywords": "Sıfır güven toplama yoluyla özel analiz Güvenlik, Gizlilik ve Kötüye Kullanım Önleme Private analytics via zero-trust aggregation Security, Privacy and Abuse Prevention AI Research Google",
       "title_original": "Private analytics via zero-trust aggregation",
       "summary_original": "Security, Privacy and Abuse Prevention",
       "published_display": "2026-05-27",
@@ -174,7 +214,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Codex ile kendini geliştiren vergi acenteleri oluşturmak",
+      "title": "Codex ile kendini geliştiren vergi acenteleri oluşturma",
       "summary": "OpenAI, Thrive ve Crete'in Codex ile nasıl kendini geliştiren, dosyalamaları otomatikleştiren, doğruluğu artıran ve iş akışlarını hızlandıran bir vergi acentesi oluşturduğunu görün.",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "image_url": null,
@@ -185,16 +225,16 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Codex ile kendini geliştiren vergi acenteleri oluşturmak OpenAI, Thrive ve Crete'in Codex ile nasıl kendini geliştiren, dosyalamaları otomatikleştiren, doğruluğu artıran ve iş akışlarını hızlandıran bir vergi acentesi oluşturduğunu görün. Building self-improving tax agents with Codex See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows. AI OpenAI Model",
+      "keywords": "Codex ile kendini geliştiren vergi acenteleri oluşturma OpenAI, Thrive ve Crete'in Codex ile nasıl kendini geliştiren, dosyalamaları otomatikleştiren, doğruluğu artıran ve iş akışlarını hızlandıran bir vergi acentesi oluşturduğunu görün. Building self-improving tax agents with Codex See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows. AI OpenAI Model",
       "title_original": "Building self-improving tax agents with Codex",
       "summary_original": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "published_display": "2026-05-27",
-      "id": "3b58aa39e8cc"
+      "id": "b6a5a766ec9c"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Warp'ın GPT-5.5 ile açık kaynak oluşturmaya yönelik büyük iddiası",
+      "title": "Warp'ın GPT-5.5 ile açık kaynak oluşturma konusundaki büyük iddiası",
       "summary": "Warp, kodlama aracılarını yerel, bulut ve açık kaynak geliştirme iş akışlarında koordine etmek için GPT-5.5 ve OpenAI modellerini kullanıyor.",
       "url": "https://openai.com/index/warp",
       "image_url": null,
@@ -205,51 +245,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Warp'ın GPT-5.5 ile açık kaynak oluşturmaya yönelik büyük iddiası Warp, kodlama aracılarını yerel, bulut ve açık kaynak geliştirme iş akışlarında koordine etmek için GPT-5.5 ve OpenAI modellerini kullanıyor. Warp’s big bet on building open source with GPT-5.5 Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows. AI OpenAI Model",
+      "keywords": "Warp'ın GPT-5.5 ile açık kaynak oluşturma konusundaki büyük iddiası Warp, kodlama aracılarını yerel, bulut ve açık kaynak geliştirme iş akışlarında koordine etmek için GPT-5.5 ve OpenAI modellerini kullanıyor. Warp’s big bet on building open source with GPT-5.5 Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows. AI OpenAI Model",
       "title_original": "Warp’s big bet on building open source with GPT-5.5",
       "summary_original": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "published_display": "2026-05-27",
-      "id": "f28aa59bf560"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "2026'da seçim bilgileri ve önlemler",
-      "summary": "Küresel seçimler öncesinde insanların bilgiye erişmesine yardımcı oluyor, siber savunucuları destekliyor ve yapay zeka şeffaflığını artırıyoruz",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-05-27T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "2026'da seçim bilgileri ve önlemler Küresel seçimler öncesinde insanların bilgiye erişmesine yardımcı oluyor, siber savunucuları destekliyor ve yapay zeka şeffaflığını artırıyoruz Election information and safeguards in 2026 Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency AI OpenAI Model",
-      "title_original": "Election information and safeguards in 2026",
-      "summary_original": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "published_display": "2026-05-27",
-      "id": "7b830eb525b3"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI, Grupo Folha ve Grupo UOL stratejik içerik ortaklığını duyurdu",
-      "summary": "OpenAI, güvenilir Brezilya gazeteciliğini ChatGPT'ye getirmek, atıf ve şeffaflıkla haberlere erişimi genişletmek için Grupo Folha ve Grupo UOL ile iş birliği yapıyor.",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-05-25T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI, Grupo Folha ve Grupo UOL stratejik içerik ortaklığını duyurdu OpenAI, güvenilir Brezilya gazeteciliğini ChatGPT'ye getirmek, atıf ve şeffaflıkla haberlere erişimi genişletmek için Grupo Folha ve Grupo UOL ile iş birliği yapıyor. OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency. AI OpenAI Model",
-      "title_original": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "summary_original": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-      "published_display": "2026-05-25",
-      "id": "b3e551df47ca"
+      "id": "8b35d08c2ce3"
     },
     {
       "category": "robotik",
@@ -434,122 +434,122 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA, Kataloğa Bilinen Üç İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna üç yeni güvenlik açığı ekledi. CVE-2026-8398 Daemon Tools Lite'ta Yerleşik Kötü Amaçlı Kod Güvenlik Açığı CVE-2026-45321 TanStack Bilinmiyor...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "title": "ABB EIBPORT",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Etkilenen olarak listelenen ürün sürümlerindeki özel olarak bildirilen bu güvenlik açıklarını çözen bir ürün yazılımı güncellemesi mevcuttur...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-27T12:00:00Z",
+      "published_at": "2026-05-28T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA, Kataloğa Bilinen Üç İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna üç yeni güvenlik açığı ekledi. CVE-2026-8398 Daemon Tools Lite'ta Yerleşik Kötü Amaçlı Kod Güvenlik Açığı CVE-2026-45321 TanStack Bilinmiyor... CISA Adds Three Known Exploited Vulnerabilities to Catalog CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-8398 Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321 TanStack Unspe... CISA Advisory Threat",
-      "title_original": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "summary_original": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-8398 Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321 TanStack Unspe...",
-      "published_display": "2026-05-27",
-      "id": "454795a49740"
+      "keywords": "ABB EIBPORT CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Etkilenen olarak listelenen ürün sürümlerindeki özel olarak bildirilen bu güvenlik açıklarını çözen bir ürün yazılımı güncellemesi mevcuttur... ABB EIBPORT View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affecte... CISA Advisory Threat",
+      "title_original": "ABB EIBPORT",
+      "summary_original": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affecte...",
+      "published_display": "2026-05-28",
+      "id": "ef8ec9a24bdb"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "ABB Yetenek Kamera Bağlantısı",
-      "summary": "CSAF Özetini Görüntüleyin ABB, Camera Connect Sürüm 1.5.0.14 ve altı kurulum paketiyle birlikte teslim edilen 3. taraf bileşen VLC medya oynatıcı Sürüm 2.2.4'teki güvenlik açıklarına ilişkin kamuya açık raporlardan haberdardır. Bir güncelleme...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05",
+      "title": "ABB Busch-Welcome 2 Telli Kapı Açma Aktüatörü",
+      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bulunduğu bir Binaya fiziksel, yetkisiz erişim sağlayabilir.",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-26T12:00:00Z",
+      "published_at": "2026-05-28T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "ABB Yetenek Kamera Bağlantısı CSAF Özetini Görüntüleyin ABB, Camera Connect Sürüm 1.5.0.14 ve altı kurulum paketiyle birlikte teslim edilen 3. taraf bileşen VLC medya oynatıcı Sürüm 2.2.4'teki güvenlik açıklarına ilişkin kamuya açık raporlardan haberdardır. Bir güncelleme... ABB Ability Camera Connect View CSAF Summary ABB is aware of public reports of vulnerabilities in a 3rd party component VLC media player Version 2.2.4 which was delivered together with the installation package of Camera Connect Version 1.5.0.14 and below. An updat... CISA Advisory Threat",
-      "title_original": "ABB Ability Camera Connect",
-      "summary_original": "View CSAF Summary ABB is aware of public reports of vulnerabilities in a 3rd party component VLC media player Version 2.2.4 which was delivered together with the installation package of Camera Connect Version 1.5.0.14 and below. An updat...",
-      "published_display": "2026-05-26",
-      "id": "0783f6938579"
+      "keywords": "ABB Busch-Welcome 2 Telli Kapı Açma Aktüatörü CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün bulunduğu bir Binaya fiziksel, yetkisiz erişim sağlayabilir. ABB Busch-Welcome 2 Wire Door Opener Actuator View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the prod... CISA Advisory Threat",
+      "title_original": "ABB Busch-Welcome 2 Wire Door Opener Actuator",
+      "summary_original": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the prod...",
+      "published_display": "2026-05-28",
+      "id": "c0457afee5f8"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "ABB Terra AC",
-      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, yığın belleğin kirlenmesine neden olabilir ve bu da potansiyel olarak uzaktan erişim gerektirir.",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
+      "title": "XCharge C6",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın etkilenen cihazda yönetici hakları kazanmasına veya kod yürütmesine olanak tanıyabilir. XCharge C6'nın aşağıdaki sürümleri etkilenir: C6 CVSS Satıcı Ekipmanı V...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-08",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-26T12:00:00Z",
+      "published_at": "2026-05-28T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "ABB Terra AC CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, yığın belleğin kirlenmesine neden olabilir ve bu da potansiyel olarak uzaktan erişim gerektirir. ABB Terra AC View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remo... CISA Advisory Threat",
-      "title_original": "ABB Terra AC",
-      "summary_original": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remo...",
-      "published_display": "2026-05-26",
-      "id": "2f84f1c534ac"
+      "keywords": "XCharge C6 CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın etkilenen cihazda yönetici hakları kazanmasına veya kod yürütmesine olanak tanıyabilir. XCharge C6'nın aşağıdaki sürümleri etkilenir: C6 CVSS Satıcı Ekipmanı V... XCharge C6 View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain administrator rights or execute code on the affected device. The following versions of XCharge C6 are affected: C6 CVSS Vendor Equipment V... CISA Advisory Threat",
+      "title_original": "XCharge C6",
+      "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain administrator rights or execute code on the affected device. The following versions of XCharge C6 are affected: C6 CVSS Vendor Equipment V...",
+      "published_display": "2026-05-28",
+      "id": "bc457a74441d"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "ABB LVS MConfig",
-      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenen olarak listelenen MConfig ürün sürümlerinde dahili olarak keşfedilen bir güvenlik açığının farkına vardı. Yerel ağlara erişimi olan ve güvenlik açığından başarıyla yararlanan bir saldırgan...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
+      "title": "KMW CCTV Güvenlik Kameraları",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, kamera yayınlarına ve ayarlarına tam yetkisiz erişime izin verebilir. KMW CCTV Güvenlik Kameralarının aşağıdaki sürümleri etkilenir: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IP...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-26T12:00:00Z",
+      "published_at": "2026-05-28T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "ABB LVS MConfig CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenen olarak listelenen MConfig ürün sürümlerinde dahili olarak keşfedilen bir güvenlik açığının farkına vardı. Yerel ağlara erişimi olan ve güvenlik açığından başarıyla yararlanan bir saldırgan... ABB LVS MConfig View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have... CISA Advisory Threat",
-      "title_original": "ABB LVS MConfig",
-      "summary_original": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have...",
-      "published_display": "2026-05-26",
-      "id": "093b3570429a"
+      "keywords": "KMW CCTV Güvenlik Kameraları CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, kamera yayınlarına ve ayarlarına tam yetkisiz erişime izin verebilir. KMW CCTV Güvenlik Kameralarının aşağıdaki sürümleri etkilenir: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IP... KMW CCTV Security Cameras View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IP... CISA Advisory Threat",
+      "title_original": "KMW CCTV Security Cameras",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IP...",
+      "published_display": "2026-05-28",
+      "id": "440d62668da3"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "ABB B&R Automation Sistem Tanılama Yöneticisinde (SDM) Çalışma Zamanı DoS Güvenlik Açığı",
-      "summary": "CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerinde B&R'nin dahili güvenlik analizi tarafından belirlenen bir güvenlik açığını çözen bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
+      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 - Wi-Fi/Ethernet Dönüştürücü",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın cihaza yönetici erişimi sağlamasıyla sonuçlanabilir. Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485'in Wi-Fi/Etherne'e aşağıdaki sürümleri...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-26T12:00:00Z",
+      "published_at": "2026-05-28T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "ABB B&R Automation Sistem Tanılama Yöneticisinde (SDM) Çalışma Zamanı DoS Güvenlik Açığı CSAF Özetini Görüntüle Bu danışma belgesinde etkilenenler olarak listelenen ürün sürümlerinde B&R'nin dahili güvenlik analizi tarafından belirlenen bir güvenlik açığını çözen bir güncelleme mevcut. Bu güvenlik açığından başarıyla yararlanan bir saldırgan... ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM) View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability c... CISA Advisory Threat",
-      "title_original": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
-      "summary_original": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability c...",
-      "published_display": "2026-05-26",
-      "id": "64a0f585ecb7"
+      "keywords": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 - Wi-Fi/Ethernet Dönüştürücü CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın cihaza yönetici erişimi sağlamasıyla sonuçlanabilir. Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485'in Wi-Fi/Etherne'e aşağıdaki sürümleri... Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Etherne... CISA Advisory Threat",
+      "title_original": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Etherne...",
+      "published_display": "2026-05-28",
+      "id": "4bdc9cf19a76"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "ABB YetenekTM Zenon Uzaktan Taşıma Güvenlik Açığı",
-      "summary": "CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Güvenlik açığı, Uzaktan Aktarım Hizmeti içindeki İşletim Sistemini Yeniden Başlatma işlevine yetkisiz erişim sağlayarak bir saldırıya izin verir.",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03",
+      "title": "Dördüncü Frontier Frontier X Mobil Uygulaması, Frontier X2",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın rastgele tanıtıcı değerleri okuyup yazmasına ve klinik okumaları değiştirmesine olanak tanıyabilir, bu da cihazın kontrolünü ele geçirmesine ve hastanın zarar görmesine yol açabilir....",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
       "image_url": null,
       "source": "CISA Advisories",
-      "published_at": "2026-05-26T12:00:00Z",
+      "published_at": "2026-05-28T12:00:00Z",
       "tags": [
         "CISA",
         "Advisory",
         "Threat"
       ],
-      "keywords": "ABB YetenekTM Zenon Uzaktan Taşıma Güvenlik Açığı CSAF Özetini Görüntüleyin ABB, danışma belgesinde etkilenenler olarak listelenen ürün versiyonlarındaki güvenlik açıklarının farkındadır. Güvenlik açığı, Uzaktan Aktarım Hizmeti içindeki İşletim Sistemini Yeniden Başlatma işlevine yetkisiz erişim sağlayarak bir saldırıya izin verir. ABB AbilityTM Zenon Remote Transport Vulnerability View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attack... CISA Advisory Threat",
-      "title_original": "ABB AbilityTM Zenon Remote Transport Vulnerability",
-      "summary_original": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attack...",
-      "published_display": "2026-05-26",
-      "id": "ecc9d371ca8a"
+      "keywords": "Dördüncü Frontier Frontier X Mobil Uygulaması, Frontier X2 CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın rastgele tanıtıcı değerleri okuyup yazmasına ve klinik okumaları değiştirmesine olanak tanıyabilir, bu da cihazın kontrolünü ele geçirmesine ve hastanın zarar görmesine yol açabilir.... Fourth Frontier Frontier X Mobile Application, Frontier X2 View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm.... CISA Advisory Threat",
+      "title_original": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm....",
+      "published_display": "2026-05-28",
+      "id": "734cbdd628a8"
     },
     {
       "category": "kamera",
@@ -574,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,16 +585,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "27b0f26a0dc9"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -605,17 +605,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "3d63787c804b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews",
-      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews",
+      "summary": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMm5JTnU3S013Vnh1U2FzQzllSEF1X0gxS0JrOTBSRl9uTzFSMlYwZHVPV3NuYW1sbVlCMVhCX1EtVDBTUGdTQk9wNFJlaDlIZmVWNHhBU3YtWGdQYUpNQ0d5RUtELUU5c195QURCa25yY0Z3bHNfWQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,7 +625,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor - CyberSecurityNews Hindistan Merkezli Çok Sayıda CCTV Kameradaki Kritik Güvenlik Açığı, Saldırganların Video ve Hesap Kimlik Bilgilerine İzin Vermesine İzin Veriyor CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials - CyberSecurityNews",
       "summary_original": "Critical Vulnerability in Multiple India-Based CCTV Cameras Let Attackers Video and Account Credentials CyberSecurityNews",
       "published_display": "2025-12-11",
