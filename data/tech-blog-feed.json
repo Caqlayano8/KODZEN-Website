@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-29T10:03:45Z",
+  "updated_at": "2026-05-29T12:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Futures Lab'ın gerçek hayattaki yapay zeka prototiplerine göz atın.",
+      "summary": "Waterloo Üniversitesi öğrencileri, eğitim ve işin geleceğini yeniden şekillendirmek için işaret dili öğretmenleri gibi yapay zeka prototipleri geliştiriyor.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-29T12:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Futures Lab'ın gerçek hayattaki yapay zeka prototiplerine göz atın. Waterloo Üniversitesi öğrencileri, eğitim ve işin geleceğini yeniden şekillendirmek için işaret dili öğretmenleri gibi yapay zeka prototipleri geliştiriyor. Check out real-life AI prototypes from the Futures Lab. University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work. AI Product Google",
+      "title_original": "Check out real-life AI prototypes from the Futures Lab.",
+      "summary_original": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "published_display": "2026-05-29",
+      "id": "febaf78e4607"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Rosalind Biodefense ile toplumsal dayanıklılığın güçlendirilmesi",
       "summary": "OpenAI, gelişmiş yapay zeka aracılığıyla biyosavunmayı, halk sağlığını ve salgın hazırlığını ilerleten, denetlenmiş geliştiriciler ve ABD hükümeti ortakları için GPT-Rosalind'e güvenilir erişimi genişleten Rosalind Biodefense'i piyasaya sürdü.",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
@@ -230,26 +250,6 @@
       "summary_original": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "published_display": "2026-05-28",
       "id": "f3fe140c9c8c"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor",
-      "summary": "MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
-      "url": "https://openai.com/index/mufg",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-05-28T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
-      "title_original": "MUFG aims to become AI-native with OpenAI",
-      "summary_original": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "published_display": "2026-05-28",
-      "id": "8ff48dff56ce"
     },
     {
       "category": "robotik",
