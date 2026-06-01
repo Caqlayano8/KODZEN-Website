@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-31T04:00:00Z",
-  "total_posts": 32,
+  "updated_at": "2026-06-01T07:33:52Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
-    "web": 2,
+    "web": 3,
     "siber": 6,
     "kamera": 6
   },
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin",
-      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
+      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
       "url": "https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
+      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
       "title_original": "Improve your agentic developer tools by grounding in Microsoft Learn",
       "summary_original": "Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu...",
       "published_display": "2026-05-28",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Fason üretimde ölçeklendirme otomasyonu: Flex'ten Rodrigo DallOglio ile röportaj - Robotik ve Otomasyon Haberleri",
+      "summary": "Fason üretimde ölçeklendirme otomasyonu: Flex Robotics & Automation News'ten Rodrigo DallOglio ile röportaj",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc211YTVzVW5faTlVdEQxX1gyNjFGay1GR1BLNnFVSFNJYUFnWkJjRjcxT2JLUllOR0wxdHJ0QVFGWWF4VkJNbnViQjlZSXEtd0dJU1VoUHZvc0NycWNIMktvOHJJdGVXZXFnVTByZzc4YnlxWkZCX1Ayb21JTEpVM1Z2dndVY1I2cXEyNGxOdHVCNjVJM1VGVkdoekhlY0NrcGRCSHFLY19aWkJQVHVuQkNnTG9Vc2JMQUVlWnlRVF9tcTVFOHF3S2J3eEN5Z1VBY01EMFpQVE5BUQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-01T07:33:52Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Fason üretimde ölçeklendirme otomasyonu: Flex'ten Rodrigo DallOglio ile röportaj - Robotik ve Otomasyon Haberleri Fason üretimde ölçeklendirme otomasyonu: Flex Robotics & Automation News'ten Rodrigo DallOglio ile röportaj Scaling automation in contract manufacturing: Interview with Rodrigo DallOglio of Flex - Robotics & Automation News Scaling automation in contract manufacturing: Interview with Rodrigo DallOglio of Flex Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Scaling automation in contract manufacturing: Interview with Rodrigo DallOglio of Flex - Robotics & Automation News",
+      "summary_original": "Scaling automation in contract manufacturing: Interview with Rodrigo DallOglio of Flex Robotics & Automation News",
+      "published_display": "2026-06-01",
+      "id": "a86e6a834636"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Posco DX ve NC AI, endüstriyel otomasyonu artırmak için robot temel modeli oluşturuyor - CHOSUNBIZ - Chosunbiz",
       "summary": "Posco DX ve NC AI, endüstriyel otomasyonu artırmak için robot temel modeli oluşturuyor - CHOSUNBIZ Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yYjhIM1lZUmExcVFfMjNiS3E3UzNmdjRhbVJsdUlCaHAyVVI0blpOcVcwMUhOdW01UnhQSFdybC1SUlJfVVRwak5uU3V2NTMtRUlHOVVKZGV3RDJrVVdSQ2Z2LWREb2pLbEdscnBOZ05iWFFTMHpuNUd30gGOAUFVX3lxTE0wWFRvS0ZmZERTUnEwSzB3R2ZLbDIxYXY2bTZHWUM0cV9LTFJuLURMZ2ZrdWJ1VzVHLTRJcVlwN3FMNUJIMWFEMjFNUkhhSHJfN3FicHJNSnR6YVNGbmRoNkNSY2pPOUpXVzBINGtnY1RFa3lvbVNoU0NaTlF4aC1DMEZ5NDFrYjZuajc2YWc?oc=5",
@@ -270,26 +290,6 @@
       "summary_original": "Posco DX and NC AI build robot foundation model to boost industrial automation - CHOSUNBIZ Chosunbiz",
       "published_display": "2026-05-31",
       "id": "d1551ead0823"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Japonya Robotik Pazarı: Otomasyon Devrimi, Yapay Zeka Entegrasyonu ve Endüstriyel Dönüşüm -vocal.media",
-      "summary": "Japonya Robotik Pazarı: Otomasyon Devrimi, Yapay Zeka Entegrasyonu ve Endüstriyel Dönüşüm vokal.media",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjc0ZXpkeHFPem5mLThoYkpDaUI2OTFXYXBBWE5VM3lGb1ZrMW9qc05uZ0xGSFota1N0V2k0OUh5LXpBdGdCdWhDLVF2MWw2RmFyS3UtQV9ldE94dGRBcEcyWkt6TEI4QnZzaEc0bmYxQ2JzVkdZd1hmQ1ZsZGozeTZQblN4SzVONkpoYW1KQkZ1S3pFVlZIcDF0SENmR19HY3YzMVRmWlpPNFIwYUVxWXNGdUJLSlZC?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-28T03:18:21Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Japonya Robotik Pazarı: Otomasyon Devrimi, Yapay Zeka Entegrasyonu ve Endüstriyel Dönüşüm -vocal.media Japonya Robotik Pazarı: Otomasyon Devrimi, Yapay Zeka Entegrasyonu ve Endüstriyel Dönüşüm vokal.media Japan Robotics Market: Automation Revolution, AI Integration & Industrial Transformation - vocal.media Japan Robotics Market: Automation Revolution, AI Integration & Industrial Transformation vocal.media Robotics Automation Industry",
-      "title_original": "Japan Robotics Market: Automation Revolution, AI Integration & Industrial Transformation - vocal.media",
-      "summary_original": "Japan Robotics Market: Automation Revolution, AI Integration & Industrial Transformation vocal.media",
-      "published_display": "2026-05-28",
-      "id": "3677bdc9babf"
     },
     {
       "category": "robotik",
@@ -314,62 +314,82 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "“Geleceğin İmalat Endüstrileri için İleri Robotik ve Otomasyon” Konulu Örnek Hibe Teklifi - STK'lar için fonlar",
-      "summary": "STK’lara Yönelik “Geleceğin İmalat Endüstrileri için İleri Robotik ve Otomasyon” Fonlarına İlişkin Örnek Hibe Teklifi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSVNEWnRhN0UwRC0wcXhHQWNqMEpZZnhkNnZnSDBtdG1zTlpIVGktU3JzOVlGUU5QdVhMQ1BTUVYycHo2c0FfdEM1YjF4U1E4b0JfTTB6UDRYSGJFU3NOdjJ2RTlaR0R4Z2ozb2xCbjJrUi1mcFQ3QUJoVWtBVGJOUHpVTlJyU09qM0hlZkJJQlFoOHl3SHdqM3dPN2FnXzQ3YmNuVUhsRHg4WndELS1sYjQ1LWF4UDZ4UHZLZ3B6ZkxKU0U3UGl2aW01M054N09fSGlSQjVn?oc=5",
+      "title": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri",
+      "summary": "Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda iş birliği yapıyor Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDJRbGViS0JsY2M2RGRybWNtRUYtcE1LVGI3Ml9oLU5sQ2FqWXhobEI4UnRKcmFZdlZvTlRrQjV4MDNJc3M1b0hyYlBsZXVxT25GaGdlOVk1RTh1amFZcXdsQUViQUZTRTdUdGJvcUt4YWN1ZVRHUGRSMjlTQ19DaUNNVzNLNkNfMTg2Qko4MktRZnFpVGxndnlYemRQMk9JVzBSOVZoMlpRZUJOT0N5ZkJObnJtLWNGV0s4QzB3bkhXcDU5RHkyOV9ONG04Rkxfa0FLTENmOEpmbk9YX2tQelln?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-05-26T04:59:02Z",
+      "published_at": "2026-05-07T09:02:50Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "“Geleceğin İmalat Endüstrileri için İleri Robotik ve Otomasyon” Konulu Örnek Hibe Teklifi - STK'lar için fonlar STK’lara Yönelik “Geleceğin İmalat Endüstrileri için İleri Robotik ve Otomasyon” Fonlarına İlişkin Örnek Hibe Teklifi A Sample Grant Proposal on “Advanced Robotics and Automation for Future Manufacturing Industries” - fundsforNGOs A Sample Grant Proposal on “Advanced Robotics and Automation for Future Manufacturing Industries” fundsforNGOs Robotics Automation Industry",
-      "title_original": "A Sample Grant Proposal on “Advanced Robotics and Automation for Future Manufacturing Industries” - fundsforNGOs",
-      "summary_original": "A Sample Grant Proposal on “Advanced Robotics and Automation for Future Manufacturing Industries” fundsforNGOs",
-      "published_display": "2026-05-26",
-      "id": "64cae7f929ea"
+      "keywords": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda iş birliği yapıyor Robotik ve Otomasyon Haberleri Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News",
+      "summary_original": "Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News",
+      "published_display": "2026-05-07",
+      "id": "f9c9545e5dc2"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Humanoid, başarılı bir konsept kanıtının ardından üretim devi Bosch ile ortaklığını güvence altına aldı - Robotik ve Otomasyon Haberleri",
-      "summary": "Humanoid, başarılı bir konsept kanıtının ardından üretim devi Bosch ile ortaklığını güvence altına aldı Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUWlLVE9JTDJyeVJvNVB1a1NtUEJsbV85cl91XzVkdUx1dHU2MXZ5ZWw2R2NSR1djZEdTYm5wdURKVzJ2M3NWRkFBX2dUQkJqQzhFUzlWcXlIUU1EaDA0QmY2bzB1bXJZcjVWSU42Nk5KUnI2THlDQTVvcGpsTS13cG1fMFhCSFA3ZXRTeTFlc1ZYRlN2QS1ZNUU2al8zT1FFMGJYcjFtZjhaSUtmaDVSbXJ5WHd2Rnd2MmNrRXcyRnlrUkxBRG9oMzV6MjZnVjFBZWhaS083Y0FyZG1JYVBUNHFIUWJJd2pyUGFaRA?oc=5",
+      "title": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi - The Motley Fool",
+      "summary": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmszUHNFLVJYODRkTnJuT09DLVZSV0lCRmt5TWNSWEViWVhGYWlsQmVqbmdFWnJnU2dsMHk3SGQ1bHV6ZHVwc2VFYlJvM1BaZHdRMkFfZ1paTGZ5LWNSVVRrLVJhU0tFNnRZX1pDQVVZZU54SS1neE9tLS1BM1BuWjE3VmZVLUtXVnhsTTB3VzV5czZ4WXFJNE80MGVvcTA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-05-22T08:15:42Z",
+      "published_at": "2026-05-07T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Humanoid, başarılı bir konsept kanıtının ardından üretim devi Bosch ile ortaklığını güvence altına aldı - Robotik ve Otomasyon Haberleri Humanoid, başarılı bir konsept kanıtının ardından üretim devi Bosch ile ortaklığını güvence altına aldı Robotik ve Otomasyon Haberleri Humanoid secures partnership with manufacturing giant Bosch following a successful proof of concept - Robotics & Automation News Humanoid secures partnership with manufacturing giant Bosch following a successful proof of concept Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Humanoid secures partnership with manufacturing giant Bosch following a successful proof of concept - Robotics & Automation News",
-      "summary_original": "Humanoid secures partnership with manufacturing giant Bosch following a successful proof of concept Robotics & Automation News",
-      "published_display": "2026-05-22",
-      "id": "7510be81736c"
+      "keywords": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi - The Motley Fool 2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi 8 Best Robotics Stocks to Buy in 2026 - The Motley Fool 8 Best Robotics Stocks to Buy in 2026 The Motley Fool Robotics Automation Industry",
+      "title_original": "8 Best Robotics Stocks to Buy in 2026 - The Motley Fool",
+      "summary_original": "8 Best Robotics Stocks to Buy in 2026 The Motley Fool",
+      "published_display": "2026-05-07",
+      "id": "7d8c6691ab5e"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Otomasyon - Verimlilik, Maliyet Tasarrufu, Robotik - Britannica",
-      "summary": "Otomasyon - Verimlilik, Maliyet Tasarrufu, Robotik Britannica",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXhWRTRjZ3ZaQ3dlLW9JejN0czBCbTBXdEhSN1JMSUdYeU1LVmdHYnhQZWhjc3Rudjh4bDNGWDJhNUhwS3FLSUs5dV9qYTA3R3FpRkRYaG5fcjdTa3Ntb2JBTlY4MWJLZW5ZWlphbDlyNS1GTjdjUGx1MTdCTzNHYUtMUTVIOHRHd0w4VWRpTllIR3RjWmc?oc=5",
+      "title": "Skild AI, Zebra Technologies'in Robotik Otomasyon İşini Satın Aldı - Ink World dergisi -",
+      "summary": "Skild AI, Zebra Technologies'in Robotics Automation Business Ink World dergisini satın aldı -",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHg2d3J1LXFBTHJFMl9kUjljRjJRdmVjempmeDFYZGU2b25YTDVYRl9vVWczc19LMzNEOXBDYlZmSElkbWJkbjl5STdzUDlZbGEzazdWX2c2d0syV0ZVOEJEUXRhdDhodWpnTjlPNmhCVHZqd1ZrbGdLYkNlSGFsVEMxUFVzSkFPMktGX2o0Vmw2T1d2eVZWYnVaYjdVZ2hYb0RMLURKYTV6QmRjaDdJSVU0RQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-05-15T07:00:00Z",
+      "published_at": "2026-04-28T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Otomasyon - Verimlilik, Maliyet Tasarrufu, Robotik - Britannica Otomasyon - Verimlilik, Maliyet Tasarrufu, Robotik Britannica Automation - Efficiency, Cost-Savings, Robotics - Britannica Automation - Efficiency, Cost-Savings, Robotics Britannica Robotics Automation Industry",
-      "title_original": "Automation - Efficiency, Cost-Savings, Robotics - Britannica",
-      "summary_original": "Automation - Efficiency, Cost-Savings, Robotics Britannica",
-      "published_display": "2026-05-15",
-      "id": "73d2a678ca7c"
+      "keywords": "Skild AI, Zebra Technologies'in Robotik Otomasyon İşini Satın Aldı - Ink World dergisi - Skild AI, Zebra Technologies'in Robotics Automation Business Ink World dergisini satın aldı - Skild AI Acquires Zebra Technologies’ Robotics Automation Business - Ink World magazine - Skild AI Acquires Zebra Technologies’ Robotics Automation Business Ink World magazine - Robotics Automation Industry",
+      "title_original": "Skild AI Acquires Zebra Technologies’ Robotics Automation Business - Ink World magazine -",
+      "summary_original": "Skild AI Acquires Zebra Technologies’ Robotics Automation Business Ink World magazine -",
+      "published_display": "2026-04-28",
+      "id": "80f7b8c4490e"
+    },
+    {
+      "category": "web",
+      "category_label": "Web Tasarimi",
+      "title": "Mayıs ayında web platformuna yeni",
+      "summary": "Mayıs 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "url": "https://web.dev/blog/web-platform-05-2026?hl=en",
+      "image_url": null,
+      "source": "web.dev",
+      "published_at": "2026-05-29T07:00:00Z",
+      "tags": [
+        "Web",
+        "Performance",
+        "Frontend"
+      ],
+      "keywords": "Mayıs ayında web platformuna yeni Mayıs 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in May Discover some of the interesting features that have landed in stable and beta web browsers during May 2026. Web Performance Frontend",
+      "title_original": "New to the web platform in May",
+      "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
+      "published_display": "2026-05-29",
+      "id": "aaa5419645c6"
     },
     {
       "category": "web",
@@ -554,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -565,17 +585,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
+      "id": "27b0f26a0dc9"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,11 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
@@ -614,6 +634,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya",
+      "summary": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXlPaHpnQURjclQ0QWtmRm1tams0WnJFeE96cGM0SDhfUndLSTBjX256ejFFa3NwMEtiQlhXaVVxNXRBSHNzZDJFeVVMbHB5V2N4bndvb1BOYWx4Q0VYWTIzY0psdlduMWh0b3dPQ3ZVS0pONXFFbkdaU2lIaUNvV2N2TDBQeHRGUTJ0ZUNCTnJSUXVlN3ZXNHRTZ1A?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-26T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia IP Camera Video Surveillance",
+      "title_original": "Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia",
+      "summary_original": "Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia",
+      "published_display": "2025-08-26",
+      "id": "86a5b32c20ef"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
       "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
@@ -630,26 +670,6 @@
       "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
       "published_display": "2025-08-08",
       "id": "009e6db74527"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
-      "summary": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-07-30T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News IP Camera Video Surveillance",
-      "title_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News",
-      "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
-      "published_display": "2025-07-30",
-      "id": "cc6031567108"
     }
   ]
 }
