@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-02T08:42:32Z",
+  "updated_at": "2026-06-02T12:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin",
-      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
+      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
       "url": "https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
+      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
       "title_original": "Improve your agentic developer tools by grounding in Microsoft Learn",
       "summary_original": "Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu...",
       "published_display": "2026-05-28",
@@ -134,8 +134,48 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Gezginler, OpenAI ile yapay zeka destekli talepleri ülke çapında dağıtıyor",
+      "summary": "Gezginler, talepleri dosyalama konusunda müşterilere rehberlik etmek, 7/24 destek sağlamak ve yoğun talep sırasında operasyonları ölçeklendirmek için OpenAI ile yapay zeka destekli bir Talep Asistanı geliştirdi.",
+      "url": "https://openai.com/index/travelers",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-02T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Gezginler, OpenAI ile yapay zeka destekli talepleri ülke çapında dağıtıyor Gezginler, talepleri dosyalama konusunda müşterilere rehberlik etmek, 7/24 destek sağlamak ve yoğun talep sırasında operasyonları ölçeklendirmek için OpenAI ile yapay zeka destekli bir Talep Asistanı geliştirdi. Travelers deploys AI-powered claims countrywide with OpenAI Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand. AI OpenAI Model",
+      "title_original": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "summary_original": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "published_display": "2026-06-02",
+      "id": "3054dffb8f35"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Her rol, araç ve iş akışı için kodeks",
+      "summary": "Analistlerin, pazarlamacıların, tasarımcıların, yatırımcıların ve diğer ekiplerin yapay zeka ile daha fazla iş yapmasına yardımcı olan yeni Codex eklentilerini, sitelerini ve ek açıklamalarını keşfedin.",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-02T09:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Her rol, araç ve iş akışı için kodeks Analistlerin, pazarlamacıların, tasarımcıların, yatırımcıların ve diğer ekiplerin yapay zeka ile daha fazla iş yapmasına yardımcı olan yeni Codex eklentilerini, sitelerini ve ek açıklamalarını keşfedin. Codex for every role, tool, and workflow Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI. AI OpenAI Model",
+      "title_original": "Codex for every role, tool, and workflow",
+      "summary_original": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "published_display": "2026-06-02",
+      "id": "50961b0763bd"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Gençlerin güvenliğini ve fırsatlarını küresel liderlik yoluyla geliştirmek",
-      "summary": "OpenAI, özel bir Yapay Zeka Güvenliği Enstitüsü aracılığıyla gençlerin yapay zeka güvenliği konusunda küresel eylem çağrısında bulunuyor",
+      "summary": "OpenAI, gençlere yönelik koruma önlemlerini, standartları ve fırsatları güçlendirmek için uluslararası bir enstitü önererek gençlerin yapay zeka güvenliği konusunda küresel eylem çağrısında bulunuyor.",
       "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,9 +185,9 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Gençlerin güvenliğini ve fırsatlarını küresel liderlik yoluyla geliştirmek OpenAI, özel bir Yapay Zeka Güvenliği Enstitüsü aracılığıyla gençlerin yapay zeka güvenliği konusunda küresel eylem çağrısında bulunuyor Advancing youth safety and opportunity through global leadership OpenAI calls for global action on youth AI safety through a dedicated AI Safety Institute AI OpenAI Model",
+      "keywords": "Gençlerin güvenliğini ve fırsatlarını küresel liderlik yoluyla geliştirmek OpenAI, gençlere yönelik koruma önlemlerini, standartları ve fırsatları güçlendirmek için uluslararası bir enstitü önererek gençlerin yapay zeka güvenliği konusunda küresel eylem çağrısında bulunuyor. Advancing youth safety and opportunity through global leadership OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people. AI OpenAI Model",
       "title_original": "Advancing youth safety and opportunity through global leadership",
-      "summary_original": "OpenAI calls for global action on youth AI safety through a dedicated AI Safety Institute",
+      "summary_original": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
       "published_display": "2026-06-02",
       "id": "89d0ca7849f7"
     },
@@ -210,46 +250,6 @@
       "summary_original": "Learn how Googlers used AI to produce Google I/O 2026.",
       "published_display": "2026-06-01",
       "id": "3b27bca9e4ab"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Michigan'da İstihbarat Çağı'nın altyapısını oluşturmak",
-      "summary": "OpenAI, Stargate'in bir parçası olarak Michigan'da 1 GW'lık bir veri merkezi projesinin temelini atıyor ve erişimi genişletmek, iş yaratmak ve toplulukları desteklemek için yapay zeka altyapısı oluşturuyor.",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-01T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Michigan'da İstihbarat Çağı'nın altyapısını oluşturmak OpenAI, Stargate'in bir parçası olarak Michigan'da 1 GW'lık bir veri merkezi projesinin temelini atıyor ve erişimi genişletmek, iş yaratmak ve toplulukları desteklemek için yapay zeka altyapısı oluşturuyor. Building the infrastructure for the Intelligence Age in Michigan OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities. AI OpenAI Model",
-      "title_original": "Building the infrastructure for the Intelligence Age in Michigan",
-      "summary_original": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "published_display": "2026-06-01",
-      "id": "c31068b172ca"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI sınır modelleri ve Codex artık AWS'de mevcut",
-      "summary": "OpenAI sınır modelleri ve Codex artık AWS'de genel kullanıma sunuluyor ve kuruluşlara hâlihazırda kullandıkları AWS ortamları, kontrolleri ve tedarik iş akışları aracılığıyla OpenAI ile geliştirme yapmaları için yeni bir yol sunuyor. Müşteriler Op'u kullanmaya başlayabilir...",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-01T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI sınır modelleri ve Codex artık AWS'de mevcut OpenAI sınır modelleri ve Codex artık AWS'de genel kullanıma sunuluyor ve kuruluşlara hâlihazırda kullandıkları AWS ortamları, kontrolleri ve tedarik iş akışları aracılığıyla OpenAI ile geliştirme yapmaları için yeni bir yol sunuyor. Müşteriler Op'u kullanmaya başlayabilir... OpenAI frontier models and Codex are now available on AWS OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with Op... AI OpenAI Model",
-      "title_original": "OpenAI frontier models and Codex are now available on AWS",
-      "summary_original": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with Op...",
-      "published_display": "2026-06-01",
-      "id": "0608f2b9bade"
     },
     {
       "category": "robotik",
@@ -555,7 +555,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,7 +565,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
@@ -635,7 +635,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
-      "summary": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
+      "summary": "Dahua'daki Kritik Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,7 +645,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News IP Camera Video Surveillance",
+      "keywords": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri Dahua'daki Kritik Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News IP Camera Video Surveillance",
       "title_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News",
       "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
       "published_display": "2025-07-30",
