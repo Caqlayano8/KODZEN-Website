@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-03T06:08:35Z",
+  "updated_at": "2026-06-03T11:03:01Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -14,7 +14,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot uygulaması: Aracı tabanlı masaüstü deneyimi",
+      "title": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi",
       "summary": "Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı.",
       "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
       "image_url": null,
@@ -25,11 +25,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot uygulaması: Aracı tabanlı masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub Copilot app: The agent-native desktop experience",
       "summary_original": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog .",
       "published_display": "2026-06-02",
-      "id": "68b00efe21d2"
+      "id": "9c3c394b340e"
     },
     {
       "category": "yazilim",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin",
-      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
+      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
       "url": "https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
+      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
       "title_original": "Improve your agentic developer tools by grounding in Microsoft Learn",
       "summary_original": "Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu...",
       "published_display": "2026-05-28",
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor?",
-      "summary": "Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı bir şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag...",
+      "summary": "Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag...",
       "url": "https://devblogs.microsoft.com/blog/how-ai-coding-agents-actually-use-your-technology",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +85,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor? Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı bir şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag... How AI coding agents actually use your technology You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag... Microsoft Dev Cloud",
+      "keywords": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor? Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag... How AI coding agents actually use your technology You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag... Microsoft Dev Cloud",
       "title_original": "How AI coding agents actually use your technology",
       "summary_original": "You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag...",
       "published_display": "2026-05-27",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama",
-      "summary": "GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak The GitHub Blog'da göründü.",
+      "summary": "GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak The GitHub Blog'da göründü. GitHub for Beginners: Getting started with Git and GitHub in VS Code Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak GitHub Blogunda göründü. GitHub for Beginners: Getting started with Git and GitHub in VS Code Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
       "summary_original": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog .",
       "published_display": "2026-05-25",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Gençlerin güvenliğini ve fırsatlarını küresel liderlik yoluyla geliştirmek",
-      "summary": "OpenAI, gençlere yönelik koruma önlemlerini, standartları ve fırsatları güçlendirecek uluslararası bir enstitü önererek gençlerin yapay zeka güvenliği konusunda küresel eylem çağrısında bulunuyor.",
+      "summary": "OpenAI, gençlere yönelik koruma önlemlerini, standartları ve fırsatları güçlendirmek için uluslararası bir enstitü önererek gençlerin yapay zeka güvenliği konusunda küresel eylem çağrısında bulunuyor.",
       "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Gençlerin güvenliğini ve fırsatlarını küresel liderlik yoluyla geliştirmek OpenAI, gençlere yönelik koruma önlemlerini, standartları ve fırsatları güçlendirecek uluslararası bir enstitü önererek gençlerin yapay zeka güvenliği konusunda küresel eylem çağrısında bulunuyor. Advancing youth safety and opportunity through global leadership OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people. AI OpenAI Model",
+      "keywords": "Gençlerin güvenliğini ve fırsatlarını küresel liderlik yoluyla geliştirmek OpenAI, gençlere yönelik koruma önlemlerini, standartları ve fırsatları güçlendirmek için uluslararası bir enstitü önererek gençlerin yapay zeka güvenliği konusunda küresel eylem çağrısında bulunuyor. Advancing youth safety and opportunity through global leadership OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people. AI OpenAI Model",
       "title_original": "Advancing youth safety and opportunity through global leadership",
       "summary_original": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
       "published_display": "2026-06-02",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "İspanya'daki metal endüstrisi yapay zeka, robot teknolojisi, otomasyon ve veri yönetimi konularında başarısız oluyor - Democrata",
+      "summary": "İspanya'daki metal endüstrisi yapay zeka, robot teknolojisi, otomasyon ve veri yönetimi konularında başarısız oluyor Democrata",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTNCVzQtSGhuaUVpRlRfdHNCa01lbm9SWExaN2pHdTIyWlBUU1NnMGFhR1NuZlBnZWRqc1o0cFQzdG1RSy14ZVg0d3I4WlRwMExjOTFWcnp6cWxpTGZfX18yOG9QOUlyaG5TZ1hKcU9rLXM2QWtxaHZIc1VJREw2RklLdEgxanlPZFNHOXFyUzk0VUhBMFBBYTRFOXROZ3FlUEJfNHJmaWd6VGgxcGtjMlNvdTNkZkXSAbwBQVVfeXFMTkJFTHB2YWdwQnFPTlNUNXd1c3VwUUU1YkR1S2FUYzlRNHkySjRlRnhsQVI0YlRKNl95YzNITEtQZ3hWQ2hXLXFqS0xScEdYNUI4RzVkR09QaW9nTEQzTGtodnYxRU5qQ1hmN3BuMVZEOWppa2EwcS1mN2pDNF9rREpLaGFKUmprZnBXa3d2aTAyQ2lvZWRfYWktNUZfMHYzdzdkYmt5Ry16OG9VVVZjMGpZdU8xS2pQOU1sMUE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-03T11:03:01Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "İspanya'daki metal endüstrisi yapay zeka, robot teknolojisi, otomasyon ve veri yönetimi konularında başarısız oluyor - Democrata İspanya'daki metal endüstrisi yapay zeka, robot teknolojisi, otomasyon ve veri yönetimi konularında başarısız oluyor Democrata The metal industry in Spain fails in AI, robotics, automation, and data management - Demócrata The metal industry in Spain fails in AI, robotics, automation, and data management Demócrata Robotics Automation Industry",
+      "title_original": "The metal industry in Spain fails in AI, robotics, automation, and data management - Demócrata",
+      "summary_original": "The metal industry in Spain fails in AI, robotics, automation, and data management Demócrata",
+      "published_display": "2026-06-03",
+      "id": "5829c02f3ba9"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Hassas İsviçre İşleme Robotik ve Otomasyonun Geleceği Açısından Neden Kritik? - Robotik ve Otomasyon Haberleri",
       "summary": "Hassas İsviçre İşleme Robotik ve Otomasyonun Geleceği Açısından Neden Kritiktir Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWt4LUlObkRXbUtGMnQzUmYwSzFoSHdRSnZxd0VuXzNJd3Z0anp0UWxLTmt6NWdmb0dmUGNBdXFILWtQWUdBUXF4dmtCRDE1Q2xZVHJDR2xjdmRBaU1FQl9wWmRSLVZqZ19qV3RwMDVoeVdPQXZEdDdwYTZYMTdGWnpfZDJxQUhMT2VoaGxHaGljdDVDQlhfRXg2UWc4QTVWYloxRVdMNy0xMkppZGZOd3R1T1FkdnAycVNoeHItUXd2LU9Lc3Y1S2hVZmN2b1J4Yk5NZjVB?oc=5",
@@ -274,7 +294,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Uzmanlık sızıntısı: Yüksek büyüme gösteren teknik operasyonlar neden yönetici şişkinliği nedeniyle darboğaz yaşıyor? - Robotik ve Otomasyon Haberleri",
+      "title": "Uzmanlık sızıntısı: Yüksek büyüme gösteren teknik operasyonlar neden yönetici şişkinliği nedeniyle darboğaz yaşıyor - Robotik ve Otomasyon Haberleri",
       "summary": "Uzmanlık sızıntısı: Yüksek büyüme gösteren teknik operasyonlar neden yönetici şişkinliği nedeniyle darboğaza giriyor? Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0VjZlVrYkpHc2JSWVlZQndRUHJtNkcta09uYVp1R18xSkhfV3hKY2N4ejJzb1BETllMbGF3U2pDRmlfemlRRDh2RWhzMm9VUjFvNE0tYmplSHVyN2l5U2xoRm5Mcno0N1h0cFY3UHd4OTN1ZVVhU2xlcFMwa1E1MzMwQ2hYOFRBY29ZTUxnZXFaMk9Ed0l5SER6QnNUMW5ZTjhnY1JiZ2lDa3lvcWRMSVlRbWdDTUJ3WXJxa05handMeGZFeWJvX0RPUTBJeFJXZmIyUHNNTmE2dGxS?oc=5",
       "image_url": null,
@@ -285,31 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Uzmanlık sızıntısı: Yüksek büyüme gösteren teknik operasyonlar neden yönetici şişkinliği nedeniyle darboğaz yaşıyor? - Robotik ve Otomasyon Haberleri Uzmanlık sızıntısı: Yüksek büyüme gösteren teknik operasyonlar neden yönetici şişkinliği nedeniyle darboğaza giriyor? Robotik ve Otomasyon Haberleri The expertise leak: Why high-growth technical operations are bottlenecked by admin bloat - Robotics & Automation News The expertise leak: Why high-growth technical operations are bottlenecked by admin bloat Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Uzmanlık sızıntısı: Yüksek büyüme gösteren teknik operasyonlar neden yönetici şişkinliği nedeniyle darboğaz yaşıyor - Robotik ve Otomasyon Haberleri Uzmanlık sızıntısı: Yüksek büyüme gösteren teknik operasyonlar neden yönetici şişkinliği nedeniyle darboğaza giriyor? Robotik ve Otomasyon Haberleri The expertise leak: Why high-growth technical operations are bottlenecked by admin bloat - Robotics & Automation News The expertise leak: Why high-growth technical operations are bottlenecked by admin bloat Robotics & Automation News Robotics Automation Industry",
       "title_original": "The expertise leak: Why high-growth technical operations are bottlenecked by admin bloat - Robotics & Automation News",
       "summary_original": "The expertise leak: Why high-growth technical operations are bottlenecked by admin bloat Robotics & Automation News",
       "published_display": "2026-06-02",
-      "id": "1c77840c4dfd"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Kompakt mini PC'ler neden endüstriyel otomasyon için tercih edilen kontrolörler haline geliyor? - Robotik ve Otomasyon Haberleri",
-      "summary": "Kompakt mini PC'ler endüstriyel otomasyon için neden tercih edilen kontrolörler haline geliyor? Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ2Z5UXV4REI4Y2RJckYtV3JWQklVeXA1SkVmYmVlanRmenpBVVZLQ3dGQ0Y3WFVGSzhxX2JqSy1Vd3d0WTRSdXNzWWY1Z1VwZnFIc21iOGEwOGxmakxvQTNVYkpRYnZBTm8zcnNEX0JvaUJncFVETjFFWDZQWkxmTlpRTmdIRXpUSWhtcnEyWmhEemhUczJqZnNUWmFLWmg3a01GRlRqQkk4WGJ3eUQzcVJTZGRTWUJHMm5EMVJxcWFmSl9kcTBfQ3FvR1VkZmhKVE1IemE5QmNFZ1VOZjd0c3FUT0lMc1JCNU1UVzVVMWZjc1ZCazBSMEFOQkF6dDRuMURj?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-01T16:33:06Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Kompakt mini PC'ler neden endüstriyel otomasyon için tercih edilen kontrolörler haline geliyor? - Robotik ve Otomasyon Haberleri Kompakt mini PC'ler endüstriyel otomasyon için neden tercih edilen kontrolörler haline geliyor? Robotik ve Otomasyon Haberleri Why compact mini PCs are becoming the preferred controllers for industrial automation - Robotics & Automation News Why compact mini PCs are becoming the preferred controllers for industrial automation Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Why compact mini PCs are becoming the preferred controllers for industrial automation - Robotics & Automation News",
-      "summary_original": "Why compact mini PCs are becoming the preferred controllers for industrial automation Robotics & Automation News",
-      "published_display": "2026-06-01",
-      "id": "11dbd9354d9a"
+      "id": "7e65dba90268"
     },
     {
       "category": "robotik",
@@ -354,22 +354,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Posco DX ve NC AI, endüstriyel otomasyonu artırmak için robot temel modeli oluşturuyor - CHOSUNBIZ - Chosunbiz",
-      "summary": "Posco DX ve NC AI, endüstriyel otomasyonu artırmak için robot temel modeli oluşturuyor - CHOSUNBIZ Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yYjhIM1lZUmExcVFfMjNiS3E3UzNmdjRhbVJsdUlCaHAyVVI0blpOcVcwMUhOdW01UnhQSFdybC1SUlJfVVRwak5uU3V2NTMtRUlHOVVKZGV3RDJrVVdSQ2Z2LWREb2pLbEdscnBOZ05iWFFTMHpuNUd30gGOAUFVX3lxTE0wWFRvS0ZmZERTUnEwSzB3R2ZLbDIxYXY2bTZHWUM0cV9LTFJuLURMZ2ZrdWJ1VzVHLTRJcVlwN3FMNUJIMWFEMjFNUkhhSHJfN3FicHJNSnR6YVNGbmRoNkNSY2pPOUpXVzBINGtnY1RFa3lvbVNoU0NaTlF4aC1DMEZ5NDFrYjZuajc2YWc?oc=5",
+      "title": "NeoArc Robotics, yapay zeka robotlarıyla Kore'nin gemi inşası ve inşaat otomasyonunu yönlendiriyor - CHOSUNBIZ - Chosunbiz",
+      "summary": "NeoArc Robotics, yapay zeka robotlarıyla Kore'nin gemi inşası ve inşaat otomasyonunu yönlendiriyor - CHOSUNBIZ Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVlsb191ZEI0ek1kQXFGaFZlLTdqenBmbHRWdjJCVGllVXRyeHA2bWROZmxmNGZtY2hDQnltV0N2REFJdWJJZUhJYnlkaWZyaGtQS1BkQWtDcmMzSElGRk9VTkxYaFk4akVMcUNxbFJsdU1xLXItYkFuUV9BVFd5d1RB0gGWAUFVX3lxTFBfUDZTVHgxT2gxZHBXZUtyaGM4SHZCYmRmQmlmSFYxRHdVRlNzVkZKeGxLd29wcTJUNTh0anFOb2RKczMyMGhWb3JSSGEzOVllYWZWWWVoWjJMRWlsaWE2Yjd4ai1KRzJZcy0yNlc4SzM3aGpEcTlaMFN4UTAtVlFCTlJjdjJmRC1QYzcweTFIYk9UOWpaUQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-05-31T04:00:00Z",
+      "published_at": "2026-05-26T22:16:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Posco DX ve NC AI, endüstriyel otomasyonu artırmak için robot temel modeli oluşturuyor - CHOSUNBIZ - Chosunbiz Posco DX ve NC AI, endüstriyel otomasyonu artırmak için robot temel modeli oluşturuyor - CHOSUNBIZ Chosunbiz Posco DX and NC AI build robot foundation model to boost industrial automation - CHOSUNBIZ - Chosunbiz Posco DX and NC AI build robot foundation model to boost industrial automation - CHOSUNBIZ Chosunbiz Robotics Automation Industry",
-      "title_original": "Posco DX and NC AI build robot foundation model to boost industrial automation - CHOSUNBIZ - Chosunbiz",
-      "summary_original": "Posco DX and NC AI build robot foundation model to boost industrial automation - CHOSUNBIZ Chosunbiz",
-      "published_display": "2026-05-31",
-      "id": "d1551ead0823"
+      "keywords": "NeoArc Robotics, yapay zeka robotlarıyla Kore'nin gemi inşası ve inşaat otomasyonunu yönlendiriyor - CHOSUNBIZ - Chosunbiz NeoArc Robotics, yapay zeka robotlarıyla Kore'nin gemi inşası ve inşaat otomasyonunu yönlendiriyor - CHOSUNBIZ Chosunbiz NeoArc Robotics drives Korea’s shipbuilding, construction automation with AI robots - CHOSUNBIZ - Chosunbiz NeoArc Robotics drives Korea’s shipbuilding, construction automation with AI robots - CHOSUNBIZ Chosunbiz Robotics Automation Industry",
+      "title_original": "NeoArc Robotics drives Korea’s shipbuilding, construction automation with AI robots - CHOSUNBIZ - Chosunbiz",
+      "summary_original": "NeoArc Robotics drives Korea’s shipbuilding, construction automation with AI robots - CHOSUNBIZ Chosunbiz",
+      "published_display": "2026-05-26",
+      "id": "a963f9b1c71f"
     },
     {
       "category": "web",
@@ -515,7 +515,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Tedarik Zinciri, Impact Nx Konsolu ve GitHub Depolarından Ödün Veriyor",
-      "summary": "CISA, geliştirici ekosistemlerinin Sürekli Entegrasyon/Sürekli Geliştirme (CI/CD) hatlarını hedef alan çok sayıda yeni ortaya çıkan yazılım tedarik zincirine izinsiz giriş kampanyasına yanıt vermeye öncelik veriyor. GitHub da dahil olmak üzere bu son olaylar...",
+      "summary": "CISA, geliştirici ekosistemlerinin Sürekli Entegrasyon/Sürekli Geliştirme (CI/CD) boru hatlarını hedef alan çok sayıda ortaya çıkan yazılım tedarik zincirine izinsiz giriş kampanyasına yanıt vermeye öncelik veriyor. GitHub da dahil olmak üzere bu son olaylar...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories",
       "image_url": null,
       "source": "CISA Advisories",
@@ -525,7 +525,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Tedarik Zinciri, Impact Nx Konsolu ve GitHub Depolarından Ödün Veriyor CISA, geliştirici ekosistemlerinin Sürekli Entegrasyon/Sürekli Geliştirme (CI/CD) hatlarını hedef alan çok sayıda yeni ortaya çıkan yazılım tedarik zincirine izinsiz giriş kampanyasına yanıt vermeye öncelik veriyor. GitHub da dahil olmak üzere bu son olaylar... Supply Chain Compromises Impact Nx Console and GitHub Repositories CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub... CISA Advisory Threat",
+      "keywords": "Tedarik Zinciri, Impact Nx Konsolu ve GitHub Depolarından Ödün Veriyor CISA, geliştirici ekosistemlerinin Sürekli Entegrasyon/Sürekli Geliştirme (CI/CD) boru hatlarını hedef alan çok sayıda ortaya çıkan yazılım tedarik zincirine izinsiz giriş kampanyasına yanıt vermeye öncelik veriyor. GitHub da dahil olmak üzere bu son olaylar... Supply Chain Compromises Impact Nx Console and GitHub Repositories CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub... CISA Advisory Threat",
       "title_original": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
       "summary_original": "CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub...",
       "published_display": "2026-05-28",
@@ -575,7 +575,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,7 +585,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
@@ -594,7 +594,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -605,11 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "f4f88664728b"
     },
     {
       "category": "kamera",
