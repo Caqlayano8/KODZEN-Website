@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-04T12:02:09Z",
+  "updated_at": "2026-06-04T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Universe geri döndü: Artık ajans çağında hep birlikte",
+      "summary": "GitHub Universe geri döndü: 28-29 Ekim 2026'da San Francisco'daki tarihi Fort Mason Center'a geri dönüyor. GitHub Universe yazısı geri döndü: Artık hep birlikte, ajans çağında ilk olarak GitHub Blog'da göründü.",
+      "url": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-04T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Universe geri döndü: Artık ajans çağında hep birlikte GitHub Universe geri döndü: 28-29 Ekim 2026'da San Francisco'daki tarihi Fort Mason Center'a geri dönüyor. GitHub Universe yazısı geri döndü: Artık hep birlikte, ajans çağında ilk olarak GitHub Blog'da göründü. GitHub Universe is back: All together now, in the agentic era GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub Universe is back: All together now, in the agentic era",
+      "summary_original": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog .",
+      "published_display": "2026-06-04",
+      "id": "c701125de3c5"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "16bc971402d5"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub, Kurumsal Yapay Zeka Kodlama Aracıları için Gartner® Magic Quadrant™ sıralamasında üst üste üçüncü kez Lider olarak tanındı",
-      "summary": "Yazılım geliştirmenin geleceğini tanımlayan açık, güvenli ve yapay zeka destekli bir platform oluşturarak her geliştiriciyi güçlendirmeye kararlıyız. GitHub'un Kurumsal Yapay Zeka için Gartner® Magic Quadrant™'ta Lider olarak kabul ettiği gönderi...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-22T16:10:21Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub, Kurumsal Yapay Zeka Kodlama Aracıları için Gartner® Magic Quadrant™ sıralamasında üst üste üçüncü kez Lider olarak tanındı Yazılım geliştirmenin geleceğini tanımlayan açık, güvenli ve yapay zeka destekli bir platform oluşturarak her geliştiriciyi güçlendirmeye kararlıyız. GitHub'un Kurumsal Yapay Zeka için Gartner® Magic Quadrant™'ta Lider olarak kabul ettiği gönderi... GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI... GitHub Dev Platform",
-      "title_original": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
-      "summary_original": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI...",
-      "published_display": "2026-05-22",
-      "id": "119962904841"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Endava, yapay zeka aracıları etrafında yazılım dağıtımını nasıl yeniden tasarlıyor?",
@@ -150,6 +150,26 @@
       "summary_original": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "published_display": "2026-06-04",
       "id": "60db3efa0d90"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Dreaming: Daha yararlı bir ChatGPT için daha iyi hafıza",
+      "summary": "ChatGPT, tercihleri ​​daha iyi hatırlamak, bağlamı konuşmalar arasında güncel ve alakalı tutmak için yeni bir hafıza sistemi sunuyor.",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-04T09:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Dreaming: Daha yararlı bir ChatGPT için daha iyi hafıza ChatGPT, tercihleri ​​daha iyi hatırlamak, bağlamı konuşmalar arasında güncel ve alakalı tutmak için yeni bir hafıza sistemi sunuyor. Dreaming: Better memory for a more helpful ChatGPT ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations. AI OpenAI Model",
+      "title_original": "Dreaming: Better memory for a more helpful ChatGPT",
+      "summary_original": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "published_display": "2026-06-04",
+      "id": "fc5a78905aa5"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
       "published_display": "2026-06-03",
       "id": "88da2365fe5f"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI kamu politikası gündemi",
-      "summary": "OpenAI, yapay zekanın topluma fayda sağlamasını sağlamak için güvenlik, gençlerin korunması, işgücü geçişi ve küresel standartlar dahil olmak üzere yapay zekaya yönelik kamu politikası gündeminin ana hatlarını çiziyor.",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-03T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI kamu politikası gündemi OpenAI, yapay zekanın topluma fayda sağlamasını sağlamak için güvenlik, gençlerin korunması, işgücü geçişi ve küresel standartlar dahil olmak üzere yapay zekaya yönelik kamu politikası gündeminin ana hatlarını çiziyor. OpenAI public policy agenda OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society. AI OpenAI Model",
-      "title_original": "OpenAI public policy agenda",
-      "summary_original": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "published_display": "2026-06-03",
-      "id": "a3504af76e05"
     },
     {
       "category": "robotik",
@@ -434,6 +434,106 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Hitachi Enerji RTU500",
+      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen RTU500 ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından yararlanılması halinde öncelikle ürünün kullanılabilirliği etkilenir, ayrıca güvenlik üzerinde potansiyel ikincil etkiler de yaşanır.",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-04",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-06-04T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Hitachi Enerji RTU500 CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen RTU500 ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından yararlanılması halinde öncelikle ürünün kullanılabilirliği etkilenir, ayrıca güvenlik üzerinde potansiyel ikincil etkiler de yaşanır. Hitachi Energy RTU500 View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on conf... CISA Advisory Threat",
+      "title_original": "Hitachi Energy RTU500",
+      "summary_original": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on conf...",
+      "published_display": "2026-06-04",
+      "id": "004593015032"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Hitachi Energy MACH HiDraw",
+      "summary": "CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen MACH HiDraw ürün sürümlerini etkileyen bir arabellek taşması güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanılması, arabellek taşması durumuna neden olabilir.",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-06-04T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Hitachi Energy MACH HiDraw CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen MACH HiDraw ürün sürümlerini etkileyen bir arabellek taşması güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanılması, arabellek taşması durumuna neden olabilir. Hitachi Energy MACH HiDraw View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, pote... CISA Advisory Threat",
+      "title_original": "Hitachi Energy MACH HiDraw",
+      "summary_original": "View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, pote...",
+      "published_display": "2026-06-04",
+      "id": "08a75be649d1"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Hitachi Energy ITT600 Gezgini",
+      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen ITT600 Explorer ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından, ürüne Hizmet Reddi (DoS) saldırısı gerçekleştirmek için yararlanılabilir. Vul...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-02",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-06-04T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Hitachi Energy ITT600 Gezgini CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen ITT600 Explorer ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından, ürüne Hizmet Reddi (DoS) saldırısı gerçekleştirmek için yararlanılabilir. Vul... Hitachi Energy ITT600 Explorer View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect ITT600 Explorer product versions listed in this document. These vulnerabilities can be exploited to carry out Denial of Service (DoS) attack on the product. The vul... CISA Advisory Threat",
+      "title_original": "Hitachi Energy ITT600 Explorer",
+      "summary_original": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect ITT600 Explorer product versions listed in this document. These vulnerabilities can be exploited to carry out Denial of Service (DoS) attack on the product. The vul...",
+      "published_display": "2026-06-04",
+      "id": "30f37602458c"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "B&R PPT30 İşletim Sistemi",
+      "summary": "CSAF Özetini Görüntüleyin B&R, danışma belgesinde etkilendiği belirtilen ürün sürümlerindeki bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün OPC-UA sunucusunu erişilemez hale getirebilir. Aşağıdaki...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-03",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-06-04T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "B&R PPT30 İşletim Sistemi CSAF Özetini Görüntüleyin B&R, danışma belgesinde etkilendiği belirtilen ürün sürümlerindeki bir güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanan bir saldırgan, ürünün OPC-UA sunucusunu erişilemez hale getirebilir. Aşağıdaki... B&R PPT30 Operating System View CSAF Summary B&R is aware of a vulnerability in the product versions listed as affected in the advisory. An attacker who successfully exploits this vulnerability could make the OPC-UA server of the product inaccessible. The followin... CISA Advisory Threat",
+      "title_original": "B&R PPT30 Operating System",
+      "summary_original": "View CSAF Summary B&R is aware of a vulnerability in the product versions listed as affected in the advisory. An attacker who successfully exploits this vulnerability could make the OPC-UA server of the product inaccessible. The followin...",
+      "published_display": "2026-06-04",
+      "id": "13c791caa7ba"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "NAVTOR NavBox",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, yerel bir saldırganın SOAP yöntemlerine yetkisiz erişim sağlamasına ve bunun sonucunda da operasyonların kesintiye uğramasına neden olabilir. NAVTOR NavBox'ın aşağıdaki sürümleri etkilenir: NavB...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-06-04T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "NAVTOR NavBox CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, yerel bir saldırganın SOAP yöntemlerine yetkisiz erişim sağlamasına ve bunun sonucunda da operasyonların kesintiye uğramasına neden olabilir. NAVTOR NavBox'ın aşağıdaki sürümleri etkilenir: NavB... NAVTOR NavBox View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to gain unauthorized access to SOAP methods, resulting in a disruption of operations. The following versions of NAVTOR NavBox are affected: NavB... CISA Advisory Threat",
+      "title_original": "NAVTOR NavBox",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to gain unauthorized access to SOAP methods, resulting in a disruption of operations. The following versions of NAVTOR NavBox are affected: NavB...",
+      "published_display": "2026-06-04",
+      "id": "720ddf0d665c"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
       "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-45247 Mirasvit Tam Sayfa Önbellek Isıtıcı Güvenilmeyen Verilerin Seriden Çıkarılması Güvenlik Açığı Bu tipik...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -450,126 +550,6 @@
       "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This typ...",
       "published_display": "2026-06-03",
       "id": "052d44ed002f"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA ve Ortakları Otomatik Tank Gösterge Sistemlerini Sertleştirmeye Çağırıyor",
-      "summary": "CISA ve Ortakları, Otomatik Tank Ölçer Sistemlerinin Sertleştirilmesi Çağrısında Bulunuyor Genel Bakış Siber Güvenlik ve Altyapı Güvenlik Ajansı (CISA), Federal Soruşturma Bürosu (FBI), Ulusal Güvenlik Ajansı (NSA), Enerji Bakanlığı (...",
-      "url": "https://www.cisa.gov/resources-tools/resources/cisa-and-partners-urge-hardening-automatic-tank-gauge-systems",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-06-02T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA ve Ortakları Otomatik Tank Gösterge Sistemlerini Sertleştirmeye Çağırıyor CISA ve Ortakları, Otomatik Tank Ölçer Sistemlerinin Sertleştirilmesi Çağrısında Bulunuyor Genel Bakış Siber Güvenlik ve Altyapı Güvenlik Ajansı (CISA), Federal Soruşturma Bürosu (FBI), Ulusal Güvenlik Ajansı (NSA), Enerji Bakanlığı (... CISA and Partners Urge Hardening Automatic Tank Gauge Systems CISA and Partners Urge Hardening Automatic Tank Gauge Systems Overview The Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the National Security Agency (NSA), the Department of Energy (... CISA Advisory Threat",
-      "title_original": "CISA and Partners Urge Hardening Automatic Tank Gauge Systems",
-      "summary_original": "CISA and Partners Urge Hardening Automatic Tank Gauge Systems Overview The Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the National Security Agency (NSA), the Department of Energy (...",
-      "published_display": "2026-06-02",
-      "id": "6e2564313046"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA, Kataloğa Bilinen İki İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna iki yeni güvenlik açığı ekledi. CVE-2022-0492 Linux Çekirdeğinde Uygunsuz Kimlik Doğrulaması Güvenlik Açığı CVE-2025-48595 Android Çerçevesinde...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-06-02T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA, Kataloğa Bilinen İki İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna iki yeni güvenlik açığı ekledi. CVE-2022-0492 Linux Çekirdeğinde Uygunsuz Kimlik Doğrulaması Güvenlik Açığı CVE-2025-48595 Android Çerçevesinde... CISA Adds Two Known Exploited Vulnerabilities to Catalog CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Int... CISA Advisory Threat",
-      "title_original": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "summary_original": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Int...",
-      "published_display": "2026-06-02",
-      "id": "73cc3b70aa00"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2024-21182 Oracle WebLogic Sunucusunda Belirtilmemiş Güvenlik Açığı Bu tür güvenlik açığı, sık görülen bir güvenlik açığıdır.",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-06-01T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2024-21182 Oracle WebLogic Sunucusunda Belirtilmemiş Güvenlik Açığı Bu tür güvenlik açığı, sık görülen bir güvenlik açığıdır. CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequen... CISA Advisory Threat",
-      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequen...",
-      "published_display": "2026-06-01",
-      "id": "47ff41da3595"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-0257 Palo Alto Networks PAN-OS Kimlik Doğrulamasını Atlama Güvenlik Açığı Bu tür güvenlik açığı...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-29T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-0257 Palo Alto Networks PAN-OS Kimlik Doğrulamasını Atlama Güvenlik Açığı Bu tür güvenlik açığı... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability... CISA Advisory Threat",
-      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability...",
-      "published_display": "2026-05-29",
-      "id": "ef83afa154df"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Tedarik Zinciri, Impact Nx Konsolu ve GitHub Depolarından Ödün Veriyor",
-      "summary": "CISA, geliştirici ekosistemlerinin Sürekli Entegrasyon/Sürekli Geliştirme (CI/CD) boru hatlarını hedef alan çok sayıda ortaya çıkan yazılım tedarik zincirine izinsiz giriş kampanyasına yanıt vermeye öncelik veriyor. GitHub da dahil olmak üzere bu son olaylar...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-05-28T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Tedarik Zinciri, Impact Nx Konsolu ve GitHub Depolarından Ödün Veriyor CISA, geliştirici ekosistemlerinin Sürekli Entegrasyon/Sürekli Geliştirme (CI/CD) boru hatlarını hedef alan çok sayıda ortaya çıkan yazılım tedarik zincirine izinsiz giriş kampanyasına yanıt vermeye öncelik veriyor. GitHub da dahil olmak üzere bu son olaylar... Supply Chain Compromises Impact Nx Console and GitHub Repositories CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub... CISA Advisory Threat",
-      "title_original": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
-      "summary_original": "CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub...",
-      "published_display": "2026-05-28",
-      "id": "6452dba9befa"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
-      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-05-18T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
-      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
-      "published_display": "2026-05-18",
-      "id": "89e9ec78b392"
     },
     {
       "category": "kamera",
@@ -614,6 +594,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com",
+      "summary": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-22T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "published_display": "2026-01-22",
+      "id": "50e5e9d0bb44"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "AG, Nebraskalıların mahremiyetini riske atan güvenlik kameraları sattığı için Resideo'ya dava açtı - Central Nebraska Today",
       "summary": "AG, Nebraskalıların mahremiyetini riske atan güvenlik kameraları sattığı için Resideo'ya dava açtı Central Nebraska Today",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSW5GdmcwZW5BWmRSdms0WkxlXzdhcW9mSThaNkVORThhaTZKNndtQ0pUWnBweTcyOUJMUXFhWkNyT1ZKY1g5TExCMzliRlE5Ul9fY1duaHZUeUczek9qZUdRdFdwT09ZQjFuMjRWOXRYdmplUE5yODRfSGZJMUcxYUh3d2hRbXpXTTNBdTlhOUhqX0xySkd6bzhIOUtvcDd0UGZQN21FN2R5dlNVZ2pLb1F6QVE2SXo1R24yUzRyV1FWVEZhQVhJMQ?oc=5",
@@ -634,26 +634,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
-      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-08T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
-      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
-      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
-      "published_display": "2025-08-08",
-      "id": "009e6db74527"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
       "summary": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
@@ -670,6 +650,26 @@
       "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
       "published_display": "2025-07-30",
       "id": "cc6031567108"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Amazon Blink güvenlik kameraları hacklenebilir mi? - TechHQ",
+      "summary": "Amazon Blink güvenlik kameraları hacklenebilir mi? TechHQ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDN4eHJUNmFHdVZPMm1fRXh1dUt6RWJHVWRBOWN4SGtZOVhoYzN6b2lBTTZDeHFRMkRuMWFQSWJkdE9lcEYxcWNpbG9kdXVraERaRE8wWHRIZGp6NFpyN0tIZlFMYTNsWU9iTWV3LVRCVGRMc05wUXRtbmtNNjlzMFgzMVZNUjJHbWJoclNR?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-07-08T17:55:08Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Amazon Blink güvenlik kameraları hacklenebilir mi? - TechHQ Amazon Blink güvenlik kameraları hacklenebilir mi? TechHQ Can Amazon Blink security cameras be hacked? - TechHQ Can Amazon Blink security cameras be hacked? TechHQ IP Camera Video Surveillance",
+      "title_original": "Can Amazon Blink security cameras be hacked? - TechHQ",
+      "summary_original": "Can Amazon Blink security cameras be hacked? TechHQ",
+      "published_display": "2025-07-08",
+      "id": "fcfb92b515fc"
     }
   ]
 }
