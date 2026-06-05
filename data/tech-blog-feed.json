@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-04T19:47:12Z",
+  "updated_at": "2026-06-05T14:45:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -34,8 +34,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi",
-      "summary": "Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması gönderisi: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı.",
+      "title": "GitHub Copilot uygulaması: Aracı tabanlı masaüstü deneyimi",
+      "summary": "Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı.",
       "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,11 +45,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması gönderisi: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Copilot uygulaması: Aracı tabanlı masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub Copilot app: The agent-native desktop experience",
       "summary_original": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog .",
       "published_display": "2026-06-02",
-      "id": "9c3c394b340e"
+      "id": "68b00efe21d2"
     },
     {
       "category": "yazilim",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama",
-      "summary": "GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak The GitHub Blog'da göründü.",
       "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,7 +125,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak GitHub Blogunda göründü. GitHub for Beginners: Getting started with Git and GitHub in VS Code Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak The GitHub Blog'da göründü. GitHub for Beginners: Getting started with Git and GitHub in VS Code Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
       "summary_original": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog .",
       "published_display": "2026-05-25",
@@ -134,8 +134,28 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Mayıs 2026'da duyurduğumuz en son yapay zeka haberleri",
+      "summary": "İşte Google'ın Mayıs 2026'daki en son yapay zeka güncellemeleri",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-05T14:45:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Mayıs 2026'da duyurduğumuz en son yapay zeka haberleri İşte Google'ın Mayıs 2026'daki en son yapay zeka güncellemeleri The latest AI news we announced in May 2026 Here are Google’s latest AI updates from May 2026 AI Product Google",
+      "title_original": "The latest AI news we announced in May 2026",
+      "summary_original": "Here are Google’s latest AI updates from May 2026",
+      "published_display": "2026-06-05",
+      "id": "69c5122adf9f"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Akıllı telefon kamerasıyla pasif kalp sağlığı takibine doğru",
-      "summary": "Sağlık ve Biyobilim",
+      "summary": "Sağlık ve Biyoloji",
       "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/rPPG-2-final.png",
       "source": "Google Research Blog",
@@ -145,7 +165,7 @@
         "Research",
         "Google"
       ],
-      "keywords": "Akıllı telefon kamerasıyla pasif kalp sağlığı takibine doğru Sağlık ve Biyobilim Towards passive heart health monitoring via smartphone camera Health & Bioscience AI Research Google",
+      "keywords": "Akıllı telefon kamerasıyla pasif kalp sağlığı takibine doğru Sağlık ve Biyoloji Towards passive heart health monitoring via smartphone camera Health & Bioscience AI Research Google",
       "title_original": "Towards passive heart health monitoring via smartphone camera",
       "summary_original": "Health & Bioscience",
       "published_display": "2026-06-04",
@@ -155,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Endava, yapay zeka aracıları etrafında yazılım dağıtımını nasıl yeniden tasarlıyor?",
-      "summary": "Endava'nın yazılım dağıtımını hızlandırmak, iş akışlarını otomatikleştirmek ve kuruluş çapında yapay zekaya özgü bir kültür oluşturmak için yapay zeka aracılarını, ChatGPT Enterprise'ı ve Codex'i nasıl kullandığını öğrenin.",
+      "summary": "Endava'nın yazılım dağıtımını hızlandırmak, iş akışlarını otomatikleştirmek ve kuruluş genelinde yapay zekaya özgü bir kültür oluşturmak için yapay zeka aracılarını, ChatGPT Enterprise'ı ve Codex'i nasıl kullandığını öğrenin.",
       "url": "https://openai.com/index/endava-frontiers",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Endava, yapay zeka aracıları etrafında yazılım dağıtımını nasıl yeniden tasarlıyor? Endava'nın yazılım dağıtımını hızlandırmak, iş akışlarını otomatikleştirmek ve kuruluş çapında yapay zekaya özgü bir kültür oluşturmak için yapay zeka aracılarını, ChatGPT Enterprise'ı ve Codex'i nasıl kullandığını öğrenin. How Endava is redesigning software delivery around AI agents Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise. AI OpenAI Model",
+      "keywords": "Endava, yapay zeka aracıları etrafında yazılım dağıtımını nasıl yeniden tasarlıyor? Endava'nın yazılım dağıtımını hızlandırmak, iş akışlarını otomatikleştirmek ve kuruluş genelinde yapay zekaya özgü bir kültür oluşturmak için yapay zeka aracılarını, ChatGPT Enterprise'ı ve Codex'i nasıl kullandığını öğrenin. How Endava is redesigning software delivery around AI agents Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise. AI OpenAI Model",
       "title_original": "How Endava is redesigning software delivery around AI agents",
       "summary_original": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "published_display": "2026-06-04",
@@ -175,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Dreaming: Daha yararlı bir ChatGPT için daha iyi hafıza",
-      "summary": "ChatGPT, tercihleri ​​daha iyi hatırlamak, bağlamı konuşmalarda güncel ve alakalı tutmak için yeni bir hafıza sistemi sunuyor.",
+      "summary": "ChatGPT, tercihleri ​​daha iyi hatırlamak, bağlamı konuşmalar arasında güncel ve alakalı tutmak için yeni bir hafıza sistemi sunuyor.",
       "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Dreaming: Daha yararlı bir ChatGPT için daha iyi hafıza ChatGPT, tercihleri ​​daha iyi hatırlamak, bağlamı konuşmalarda güncel ve alakalı tutmak için yeni bir hafıza sistemi sunuyor. Dreaming: Better memory for a more helpful ChatGPT ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations. AI OpenAI Model",
+      "keywords": "Dreaming: Daha yararlı bir ChatGPT için daha iyi hafıza ChatGPT, tercihleri ​​daha iyi hatırlamak, bağlamı konuşmalar arasında güncel ve alakalı tutmak için yeni bir hafıza sistemi sunuyor. Dreaming: Better memory for a more helpful ChatGPT ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations. AI OpenAI Model",
       "title_original": "Dreaming: Better memory for a more helpful ChatGPT",
       "summary_original": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
       "published_display": "2026-06-04",
@@ -232,29 +252,9 @@
       "id": "7e7fb30f3dc1"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-Rosalind'e yeni özellikler sunuluyor",
-      "summary": "GPT-Rosalind, gelişmiş biyolojik muhakeme, tıbbi kimya uzmanlığı, genomik analiz ve deneysel iş akışı yetenekleriyle yaşam bilimleri araştırmalarını ilerletir.",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-03T13:15:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "GPT-Rosalind'e yeni özellikler sunuluyor GPT-Rosalind, gelişmiş biyolojik muhakeme, tıbbi kimya uzmanlığı, genomik analiz ve deneysel iş akışı yetenekleriyle yaşam bilimleri araştırmalarını ilerletir. Introducing new capabilities to GPT-Rosalind GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities. AI OpenAI Model",
-      "title_original": "Introducing new capabilities to GPT-Rosalind",
-      "summary_original": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-      "published_display": "2026-06-03",
-      "id": "cb8efd8c459b"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanl0cE4xQnN5VXN1Z3J4NlhNTndHVHdiODJ0cjg4WXJDc3k0SmV3VHVqQ0g0b3o4Y3ZvdWIwSzlQaXVhRmgwTi01TUFkcWI1aGxIRW5Vc2VmSUozU2NBZ3FIWDFwUy1lWGdYSV9GdUxONlU1QjktQ1BKd1BhNm1Ka1VTNzF1SFBIWTRBS2ZDWmplbk9BemFuRnFyNHMwdjgtNF9tOFQ1LVRWMDRLdTNLVQ?oc=5",
       "image_url": null,
@@ -265,11 +265,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-06-04",
-      "id": "6a884dfe17ab"
+      "id": "9b1b5f7307e1"
     },
     {
       "category": "robotik",
@@ -294,27 +294,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Japonya, Osaka'yı robotik ve teknoloji yatırımı için bir geçiş noktası olarak tanıtıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Japonya, Osaka'yı robotik ve teknoloji yatırımları için bir geçiş noktası olarak tanıtıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWdIeXlkalJiVWRidFVmYTVoMGt4V2NnUFd4NGVrU08tTldiM0NXb3g3aG5hZVZ4SDFWNjVpT2Z3TENrV2Y0QTlpYWV5bWhTckk4ZzNnRWZjSk9wQ1lfRFVsVGs4ZXJMLTlFeWlEdUtZZmc1UHYwUFdMMzNwSFZva3VxRS1WWnNsV0tkdWVERFE4U3RnRm1jUHpOcWNWaE03TE5pc2dTRWU4ZGxWZFJmV1QzOWZUakRNOXRMeFFMaVpXNk5nWDlXbg?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-04T06:14:07Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Japonya, Osaka'yı robotik ve teknoloji yatırımı için bir geçiş noktası olarak tanıtıyor - Robotik ve Otomasyon Haberleri Japonya, Osaka'yı robotik ve teknoloji yatırımları için bir geçiş noktası olarak tanıtıyor Robotik ve Otomasyon Haberleri Japan promotes Osaka as a gateway for robotics and technology investment - Robotics & Automation News Japan promotes Osaka as a gateway for robotics and technology investment Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Japan promotes Osaka as a gateway for robotics and technology investment - Robotics & Automation News",
-      "summary_original": "Japan promotes Osaka as a gateway for robotics and technology investment Robotics & Automation News",
-      "published_display": "2026-06-04",
-      "id": "9be05cabb726"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor? - Robotik ve Otomasyon Haberleri",
+      "title": "Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor - Robotik ve Otomasyon Haberleri",
       "summary": "Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor? Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1lWLVRwcU44V3UxYzhVOTVINWprcTA0M3Jnd21Qb05RSW1oMHdqSEF6YVBpNTRjZ2pQREpYblJ6MW91NFo4eEY2MUZCWjV2aVVHWGRnUDFXSDYyZ0p1YnZ3MFBtRFNMejVZZ0ttYjc3cXNlUy13SEtuUVRLZm5kZHFPTm9VbW5qUUxmSThLNllkOHh2S3dDZy02NlBxMTVvT3VWa1p2TzNvX3dXbVVFSjJPeDJLdHZjZTAxLVVSS1kySzBiLUdoSFgzS2I?oc=5",
       "image_url": null,
@@ -325,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor? - Robotik ve Otomasyon Haberleri Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor? Robotik ve Otomasyon Haberleri Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems - Robotics & Automation News Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor - Robotik ve Otomasyon Haberleri Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor? Robotik ve Otomasyon Haberleri Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems - Robotics & Automation News Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems Robotics & Automation News Robotics Automation Industry",
       "title_original": "Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems - Robotics & Automation News",
       "summary_original": "Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems Robotics & Automation News",
       "published_display": "2026-06-03",
-      "id": "ab8ee71a4283"
+      "id": "dfbc0f257a11"
     },
     {
       "category": "robotik",
@@ -370,6 +350,26 @@
       "summary_original": "Why Precision Swiss Machining is Critical to the Future of Robotics and Automation Robotics & Automation News",
       "published_display": "2026-06-03",
       "id": "d3420fe3824d"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Kompakt mini PC'ler neden endüstriyel otomasyon için tercih edilen kontrolörler haline geliyor? - Robotik ve Otomasyon Haberleri",
+      "summary": "Kompakt mini PC'ler endüstriyel otomasyon için neden tercih edilen kontrolörler haline geliyor? Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ2Z5UXV4REI4Y2RJckYtV3JWQklVeXA1SkVmYmVlanRmenpBVVZLQ3dGQ0Y3WFVGSzhxX2JqSy1Vd3d0WTRSdXNzWWY1Z1VwZnFIc21iOGEwOGxmakxvQTNVYkpRYnZBTm8zcnNEX0JvaUJncFVETjFFWDZQWkxmTlpRTmdIRXpUSWhtcnEyWmhEemhUczJqZnNUWmFLWmg3a01GRlRqQkk4WGJ3eUQzcVJTZGRTWUJHMm5EMVJxcWFmSl9kcTBfQ3FvR1VkZmhKVE1IemE5QmNFZ1VOZjd0c3FUT0lMc1JCNU1UVzVVMWZjc1ZCazBSMEFOQkF6dDRuMURj?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-01T16:33:06Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Kompakt mini PC'ler neden endüstriyel otomasyon için tercih edilen kontrolörler haline geliyor? - Robotik ve Otomasyon Haberleri Kompakt mini PC'ler endüstriyel otomasyon için neden tercih edilen kontrolörler haline geliyor? Robotik ve Otomasyon Haberleri Why compact mini PCs are becoming the preferred controllers for industrial automation - Robotics & Automation News Why compact mini PCs are becoming the preferred controllers for industrial automation Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Why compact mini PCs are becoming the preferred controllers for industrial automation - Robotics & Automation News",
+      "summary_original": "Why compact mini PCs are becoming the preferred controllers for industrial automation Robotics & Automation News",
+      "published_display": "2026-06-01",
+      "id": "11dbd9354d9a"
     },
     {
       "category": "web",
@@ -554,27 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
-      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-05-18T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
-      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
-      "published_display": "2026-05-18",
-      "id": "89e9ec78b392"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,16 +565,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "015a81ebc793"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -605,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "3d63787c804b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
@@ -670,6 +650,26 @@
       "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
       "published_display": "2025-08-08",
       "id": "009e6db74527"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı",
+      "summary": "Axis video güvenlik kameralarında Tesis Dalışında bulunan güvenlik açığı",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVJNSWpKbXdIalVuM3oxbzJQMEN3QXlQWlZNblhtb0IyVk1ONnhGd1dYa0swYXpyYy1OOHJlTGtnT2pETmE3ZWE1d0pEb0tOWkQxSE9GSU8xbmNtSVhQa1BRQzZLN2NKYkJrYnZyTUdJNXI2T1VmMFhpeGZ0WHRueURwVTNVTVRKZ3NsaFpQWE1MelNBNGNDczdETVhYN0U?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-07T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı Axis video güvenlik kameralarında Tesis Dalışında bulunan güvenlik açığı Vulnerability found in Axis video surveillance cameras - Facilities Dive Vulnerability found in Axis video surveillance cameras Facilities Dive IP Camera Video Surveillance",
+      "title_original": "Vulnerability found in Axis video surveillance cameras - Facilities Dive",
+      "summary_original": "Vulnerability found in Axis video surveillance cameras Facilities Dive",
+      "published_display": "2025-08-07",
+      "id": "b893ec3fb24e"
     }
   ]
 }
