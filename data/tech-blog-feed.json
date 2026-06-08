@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-08T15:00:00Z",
+  "updated_at": "2026-06-08T16:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni Başlayanlar için GitHub: Bazı genel soruların yanıtları",
+      "summary": "GitHub ile ilgili en yaygın soruların bazılarının yanıtlarını bulun. Yeni Başlayanlar için GitHub: Bazı genel soruların yanıtları ilk olarak GitHub Blogunda yayınlandı.",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-08T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yeni Başlayanlar için GitHub: Bazı genel soruların yanıtları GitHub ile ilgili en yaygın soruların bazılarının yanıtlarını bulun. Yeni Başlayanlar için GitHub: Bazı genel soruların yanıtları ilk olarak GitHub Blogunda yayınlandı. GitHub for Beginners: Answers to some common questions Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub for Beginners: Answers to some common questions",
+      "summary_original": "Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog .",
+      "published_display": "2026-06-08",
+      "id": "01b96a4e9ef5"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -34,7 +54,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot uygulaması: Aracı tabanlı masaüstü deneyimi",
+      "title": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi",
       "summary": "Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı.",
       "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
       "image_url": null,
@@ -45,11 +65,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot uygulaması: Aracı tabanlı masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub Copilot app: The agent-native desktop experience",
       "summary_original": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog .",
       "published_display": "2026-06-02",
-      "id": "68b00efe21d2"
+      "id": "9c3c394b340e"
     },
     {
       "category": "yazilim",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin",
-      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
+      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
       "url": "https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
+      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
       "title_original": "Improve your agentic developer tools by grounding in Microsoft Learn",
       "summary_original": "Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu...",
       "published_display": "2026-05-28",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor?",
-      "summary": "Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı bir şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag...",
+      "summary": "Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag...",
       "url": "https://devblogs.microsoft.com/blog/how-ai-coding-agents-actually-use-your-technology",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,31 +125,11 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor? Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı bir şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag... How AI coding agents actually use your technology You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag... Microsoft Dev Cloud",
+      "keywords": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor? Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag... How AI coding agents actually use your technology You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag... Microsoft Dev Cloud",
       "title_original": "How AI coding agents actually use your technology",
       "summary_original": "You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag...",
       "published_display": "2026-05-27",
       "id": "e1e527dd29d8"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama",
-      "summary": "GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak The GitHub Blog'da göründü.",
-      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-25T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama GitHub ile etkileşimde bulunmak ve projelerinizi sürdürmek için VS Code'u nasıl kullanacağınızı keşfedin. Yeni Başlayanlar için GitHub: VS Code'da Git ve GitHub'u kullanmaya başlama yazısı ilk olarak The GitHub Blog'da göründü. GitHub for Beginners: Getting started with Git and GitHub in VS Code Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
-      "summary_original": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog .",
-      "published_display": "2026-05-25",
-      "id": "16bc971402d5"
     },
     {
       "category": "ai",
@@ -294,26 +294,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "AWR, geçişleri hızlandırmak için CNC makine desteğini OnRobot elektrikli tutucularla standartlaştırıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "AWR, geçişleri hızlandırmak için CNC makine desteğini OnRobot elektrikli tutucularla standartlaştırıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTlFjdFljRXNWQ196Qk5qLUhKM2FmaXlVNko5OWtSNjloanFvdE1pT0VLV1dXZTJrY1pyWnZlX1NhOVk0MlIwdTRsaFc5STlPVkQ2VHFpWVhhMVhjeHN1cVpkMnJzVWlXa3JfeDh2MjdOd01ZcXNzMEo1dWJvWXV1bl9uMWZQY0k5dlNlN0RwNld4RldaUWpOUWxqN1BvSnV5SzV1OU5xMHFTSGpBSWlvNnFiTUtlNFM1dVlyNkxOUnVpZHMxZWJFak1iWG5qWThnZnRTTGpaci1PZG50TGc?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-05T14:05:13Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "AWR, geçişleri hızlandırmak için CNC makine desteğini OnRobot elektrikli tutucularla standartlaştırıyor - Robotik ve Otomasyon Haberleri AWR, geçişleri hızlandırmak için CNC makine desteğini OnRobot elektrikli tutucularla standartlaştırıyor Robotik ve Otomasyon Haberleri AWR standardizes CNC machine tending with OnRobot electric grippers to speed changeovers - Robotics & Automation News AWR standardizes CNC machine tending with OnRobot electric grippers to speed changeovers Robotics & Automation News Robotics Automation Industry",
-      "title_original": "AWR standardizes CNC machine tending with OnRobot electric grippers to speed changeovers - Robotics & Automation News",
-      "summary_original": "AWR standardizes CNC machine tending with OnRobot electric grippers to speed changeovers Robotics & Automation News",
-      "published_display": "2026-06-05",
-      "id": "d31f099622a3"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Misumi, 1 milyar dolarlık küresel üretim yatırımının bir parçası olarak Misumi Americas'ı piyasaya sürüyor - Robotik ve Otomasyon Haberleri",
       "summary": "Misumi, 1 milyar dolarlık küresel üretim yatırımının bir parçası olarak Misumi Americas'ı piyasaya sürüyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazJHTGpaUjBKSDhxZHJibTN6Q1BheEVPYUZvQ25GUUJOODEyYzlMUFp4MHo3cW5CbzBHWjM5ZWVQTzcyZVEzcXQ4OExFTHV0MF9MMDdteGxDd2h3VWtkY01LMnFKZ3UyX0EzNmFCSmxaN1ZRWGh2bzYwaldrcVMtcUlPcFd1Q2RCNEZHVGpQSnhCQUlHUUZXbzJwcXJ3cl96cGNLbWhzUTlmNUdpOTEwY2l5S28xZVBFaFA3R1kxS3o2S1VCTjgwV2xvY1p3ZDhsZUNiQ2g3MlE?oc=5",
@@ -372,6 +352,26 @@
       "id": "5e84441cdf4e"
     },
     {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor - Robotik ve Otomasyon Haberleri",
+      "summary": "Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor? Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1lWLVRwcU44V3UxYzhVOTVINWprcTA0M3Jnd21Qb05RSW1oMHdqSEF6YVBpNTRjZ2pQREpYblJ6MW91NFo4eEY2MUZCWjV2aVVHWGRnUDFXSDYyZ0p1YnZ3MFBtRFNMejVZZ0ttYjc3cXNlUy13SEtuUVRLZm5kZHFPTm9VbW5qUUxmSThLNllkOHh2S3dDZy02NlBxMTVvT3VWa1p2TzNvX3dXbVVFSjJPeDJLdHZjZTAxLVVSS1kySzBiLUdoSFgzS2I?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-03T15:40:35Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor - Robotik ve Otomasyon Haberleri Modern Robotik Sistemler için Güvenilir Yedekleme Gücü Neden Gerekli Hale Geliyor? Robotik ve Otomasyon Haberleri Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems - Robotics & Automation News Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems - Robotics & Automation News",
+      "summary_original": "Why Reliable Backup Power is Becoming Essential for Modern Robotics Systems Robotics & Automation News",
+      "published_display": "2026-06-03",
+      "id": "dfbc0f257a11"
+    },
+    {
       "category": "web",
       "category_label": "Web Tasarimi",
       "title": "Mayıs ayında web platformuna yeni",
@@ -410,6 +410,26 @@
       "summary_original": "Read about various happenings with Baseline during April 2026.",
       "published_display": "2026-05-27",
       "id": "6b855c964fcf"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Cloudflare'in tehdit göstergelerini gerçek zamanlı WAF kurallarına dönüştürme",
+      "summary": "Cloudflare müşterileri artık yüksek riskli trafiği engellemek için Cloudforce One tehdit istihbaratını doğrudan WAF içerisinde kullanabilir. Güvenlik ekipleri, yeni cf.intel alanlarını kullanarak belirli tehdit aktörlerine ve hedeflenen sektörlere karşı korumayı otomatikleştirebiliyor.",
+      "url": "https://blog.cloudflare.com/realtime-threat-intel-waf-rules/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-06-08T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Cloudflare'in tehdit göstergelerini gerçek zamanlı WAF kurallarına dönüştürme Cloudflare müşterileri artık yüksek riskli trafiği engellemek için Cloudforce One tehdit istihbaratını doğrudan WAF içerisinde kullanabilir. Güvenlik ekipleri, yeni cf.intel alanlarını kullanarak belirli tehdit aktörlerine ve hedeflenen sektörlere karşı korumayı otomatikleştirebiliyor. Turning Cloudflare’s threat indicators into real-time WAF rules Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted indu... Cloudflare Security Web",
+      "title_original": "Turning Cloudflare’s threat indicators into real-time WAF rules",
+      "summary_original": "Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted indu...",
+      "published_display": "2026-06-08",
+      "id": "c350c7aade00"
     },
     {
       "category": "siber",
@@ -512,26 +532,6 @@
       "id": "13c791caa7ba"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "NAVTOR NavBox",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, yerel bir saldırganın SOAP yöntemlerine yetkisiz erişim sağlamasına ve bunun sonucunda da operasyonların kesintiye uğramasına neden olabilir. NAVTOR NavBox'ın aşağıdaki sürümleri etkilenir: NavB...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-01",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-06-04T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "NAVTOR NavBox CSAF Özetini Görüntüleyin Bu güvenlik açığından başarıyla yararlanılması, yerel bir saldırganın SOAP yöntemlerine yetkisiz erişim sağlamasına ve bunun sonucunda da operasyonların kesintiye uğramasına neden olabilir. NAVTOR NavBox'ın aşağıdaki sürümleri etkilenir: NavB... NAVTOR NavBox View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to gain unauthorized access to SOAP methods, resulting in a disruption of operations. The following versions of NAVTOR NavBox are affected: NavB... CISA Advisory Threat",
-      "title_original": "NAVTOR NavBox",
-      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to gain unauthorized access to SOAP methods, resulting in a disruption of operations. The following versions of NAVTOR NavBox are affected: NavB...",
-      "published_display": "2026-06-04",
-      "id": "720ddf0d665c"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
@@ -614,22 +614,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya",
-      "summary": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXlPaHpnQURjclQ0QWtmRm1tams0WnJFeE96cGM0SDhfUndLSTBjX256ejFFa3NwMEtiQlhXaVVxNXRBSHNzZDJFeVVMbHB5V2N4bndvb1BOYWx4Q0VYWTIzY0psdlduMWh0b3dPQ3ZVS0pONXFFbkdaU2lIaUNvV2N2TDBQeHRGUTJ0ZUNCTnJSUXVlN3ZXNHRTZ1A?oc=5",
+      "title": "HikvisionExploiter – Hikvision IP Kameralarını Hedefleyen Otomatik Bir Suistimal Araç Seti - CyberSecurityNews",
+      "summary": "HikvisionExploiter – Hikvision IP Kameralarını Hedefleyen Otomatik Bir Suistimal Araç Seti CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43aXVZOGw0QTFmWEVuOTQ2WXZtZDVGWWZxUXc3SjZIMmZveTY0aWFUOF9zYzJrR2ZsQkhid2VSZW5leTYzS1dXVVJ6ZTg3NDU5cU9TTFE0TGpEVFJhTlRVQTh0YW84NjZhR3ExWGJ3a2haTGJmSGdUNV9R?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2025-08-26T07:00:00Z",
+      "published_at": "2025-10-29T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia IP Camera Video Surveillance",
-      "title_original": "Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia",
-      "summary_original": "Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia",
-      "published_display": "2025-08-26",
-      "id": "86a5b32c20ef"
+      "keywords": "HikvisionExploiter – Hikvision IP Kameralarını Hedefleyen Otomatik Bir Suistimal Araç Seti - CyberSecurityNews HikvisionExploiter – Hikvision IP Kameralarını Hedefleyen Otomatik Bir Suistimal Araç Seti CyberSecurityNews HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras - CyberSecurityNews HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras - CyberSecurityNews",
+      "summary_original": "HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras CyberSecurityNews",
+      "published_display": "2025-10-29",
+      "id": "1507d39095d1"
     },
     {
       "category": "kamera",
