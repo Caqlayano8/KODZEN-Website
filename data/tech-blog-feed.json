@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-08T16:00:00Z",
+  "updated_at": "2026-06-08T22:15:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Microsoft Build 2026 özeti: vizyon, lansmanlar ve önemli oturumlar",
+      "summary": "Microsoft geliştirici ekosistemindeki vizyon öncüsü, önemli geliştirici duyuruları ve mutlaka izlenmesi gereken oturumlarla Microsoft Build 2026'yı yakalayın. Microsoft Build 2026 gönderisinin özeti: vizyon, lansmanlar ve en iyi oturumlar yayınlandı.",
+      "url": "https://devblogs.microsoft.com/blog/build-recap",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-06-08T22:15:00Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Microsoft Build 2026 özeti: vizyon, lansmanlar ve önemli oturumlar Microsoft geliştirici ekosistemindeki vizyon öncüsü, önemli geliştirici duyuruları ve mutlaka izlenmesi gereken oturumlarla Microsoft Build 2026'yı yakalayın. Microsoft Build 2026 gönderisinin özeti: vizyon, lansmanlar ve en iyi oturumlar yayınlandı. Microsoft Build 2026 recap: vision, launches, and top sessions Catch up on Microsoft Build 2026 with the vision lead-off, top developer announcements, and must-watch sessions across the Microsoft developer ecosystem. The post Microsoft Build 2026 recap: vision, launches, and top sessions appeared fi... Microsoft Dev Cloud",
+      "title_original": "Microsoft Build 2026 recap: vision, launches, and top sessions",
+      "summary_original": "Catch up on Microsoft Build 2026 with the vision lead-off, top developer announcements, and must-watch sessions across the Microsoft developer ecosystem. The post Microsoft Build 2026 recap: vision, launches, and top sessions appeared fi...",
+      "published_display": "2026-06-08",
+      "id": "ffe8f8c614bd"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -54,7 +74,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot uygulaması: Aracı tabanlı masaüstü deneyimi",
+      "title": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi",
       "summary": "Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı.",
       "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
       "image_url": null,
@@ -65,11 +85,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot uygulaması: Aracı tabanlı masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması yazısı: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub Copilot app: The agent-native desktop experience",
       "summary_original": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog .",
       "published_display": "2026-06-02",
-      "id": "68b00efe21d2"
+      "id": "9c3c394b340e"
     },
     {
       "category": "yazilim",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin",
-      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
+      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
       "url": "https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,31 +125,11 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı mevcut kaynaktan gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
+      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
       "title_original": "Improve your agentic developer tools by grounding in Microsoft Learn",
       "summary_original": "Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu...",
       "published_display": "2026-05-28",
       "id": "ca680028440d"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor?",
-      "summary": "Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı bir şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag...",
-      "url": "https://devblogs.microsoft.com/blog/how-ai-coding-agents-actually-use-your-technology",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-05-27T18:30:38Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Yapay zeka kodlama aracıları teknolojinizi gerçekte nasıl kullanıyor? Bir SDK, bir CLI, bir API gönderirsiniz ve geliştiriciler bunu kullanır. Artık AI kodlama ajanları da bunu kullanıyor, ancak bunu insanlardan farklı bir şekilde kullanıyorlar. Çoğu zaman \"geliştirici bir bilgi istemi yazar\" ile \"ag... How AI coding agents actually use your technology You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag... Microsoft Dev Cloud",
-      "title_original": "How AI coding agents actually use your technology",
-      "summary_original": "You ship an SDK, a CLI, an API, and developers use it. Now AI coding agents use it too, except they use it differently than humans do. Most of the time you have no idea what’s actually happening between “developer types a prompt” and “ag...",
-      "published_display": "2026-05-27",
-      "id": "e1e527dd29d8"
     },
     {
       "category": "ai",
@@ -174,7 +174,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "OpenAI Ekonomik Araştırma Borsası Tanıtımı",
+      "title": "OpenAI Ekonomik Araştırma Değişimi Tanıtımı",
       "summary": "OpenAI, yapay zekanın işler, üretkenlik ve ekonomi üzerindeki etkisini incelemek için Ekonomik Araştırma Borsasını başlattı. Seçilen araştırma projeleri için başvurular açıldı.",
       "url": "https://openai.com/index/economic-research-exchange",
       "image_url": null,
@@ -185,11 +185,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI Ekonomik Araştırma Borsası Tanıtımı OpenAI, yapay zekanın işler, üretkenlik ve ekonomi üzerindeki etkisini incelemek için Ekonomik Araştırma Borsasını başlattı. Seçilen araştırma projeleri için başvurular açıldı. Introducing the OpenAI Economic Research Exchange OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects. AI OpenAI Model",
+      "keywords": "OpenAI Ekonomik Araştırma Değişimi Tanıtımı OpenAI, yapay zekanın işler, üretkenlik ve ekonomi üzerindeki etkisini incelemek için Ekonomik Araştırma Borsasını başlattı. Seçilen araştırma projeleri için başvurular açıldı. Introducing the OpenAI Economic Research Exchange OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects. AI OpenAI Model",
       "title_original": "Introducing the OpenAI Economic Research Exchange",
       "summary_original": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
       "published_display": "2026-06-08",
-      "id": "3e5bf3f74bca"
+      "id": "05931c2ff6fd"
     },
     {
       "category": "ai",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Akıllı telefon kamerasıyla pasif kalp sağlığı takibine doğru",
-      "summary": "Sağlık ve Biyoloji",
+      "summary": "Sağlık ve Biyobilim",
       "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/rPPG-2-final.png",
       "source": "Google Research Blog",
@@ -245,7 +245,7 @@
         "Research",
         "Google"
       ],
-      "keywords": "Akıllı telefon kamerasıyla pasif kalp sağlığı takibine doğru Sağlık ve Biyoloji Towards passive heart health monitoring via smartphone camera Health & Bioscience AI Research Google",
+      "keywords": "Akıllı telefon kamerasıyla pasif kalp sağlığı takibine doğru Sağlık ve Biyobilim Towards passive heart health monitoring via smartphone camera Health & Bioscience AI Research Google",
       "title_original": "Towards passive heart health monitoring via smartphone camera",
       "summary_original": "Health & Bioscience",
       "published_display": "2026-06-04",
@@ -475,7 +475,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Hitachi Enerji RTU500",
-      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen RTU500 ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından yararlanılması halinde öncelikle ürünün kullanılabilirliği etkilenir, ayrıca güvenlik üzerinde potansiyel ikincil etkiler de yaşanır.",
+      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen RTU500 ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından yararlanılması durumunda öncelikle ürünün kullanılabilirliği etkilenir, ayrıca güvenlik üzerinde potansiyel ikincil etkiler de yaşanır.",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-04",
       "image_url": null,
       "source": "CISA Advisories",
@@ -485,7 +485,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Hitachi Enerji RTU500 CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen RTU500 ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından yararlanılması halinde öncelikle ürünün kullanılabilirliği etkilenir, ayrıca güvenlik üzerinde potansiyel ikincil etkiler de yaşanır. Hitachi Energy RTU500 View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on conf... CISA Advisory Threat",
+      "keywords": "Hitachi Enerji RTU500 CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen RTU500 ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından yararlanılması durumunda öncelikle ürünün kullanılabilirliği etkilenir, ayrıca güvenlik üzerinde potansiyel ikincil etkiler de yaşanır. Hitachi Energy RTU500 View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on conf... CISA Advisory Threat",
       "title_original": "Hitachi Energy RTU500",
       "summary_original": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on conf...",
       "published_display": "2026-06-04",
