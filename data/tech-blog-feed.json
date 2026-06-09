@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-09T14:01:00Z",
+  "updated_at": "2026-06-09T16:27:53Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Tek seferlik istemlerden iş akışlarına: GitHub Copilot CLI'de özel aracılar nasıl kullanılır?",
+      "summary": "Özel aracılar GitHub Copilot CLI'nin yığınınızı ve ekip iş akışlarınızı anlamasına olanak tanıyarak tek seferlik terminal istemlerini tekrarlanabilir, incelenebilir süreçlere dönüştürür. Gönderi Tek seferlik istemlerden iş akışlarına: GitHub Copilot'ta özel aracılar nasıl kullanılır...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-09T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Tek seferlik istemlerden iş akışlarına: GitHub Copilot CLI'de özel aracılar nasıl kullanılır? Özel aracılar GitHub Copilot CLI'nin yığınınızı ve ekip iş akışlarınızı anlamasına olanak tanıyarak tek seferlik terminal istemlerini tekrarlanabilir, incelenebilir süreçlere dönüştürür. Gönderi Tek seferlik istemlerden iş akışlarına: GitHub Copilot'ta özel aracılar nasıl kullanılır... From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot... GitHub Dev Platform",
+      "title_original": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+      "summary_original": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot...",
+      "published_display": "2026-06-09",
+      "id": "fd1b7a97883d"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub...",
       "published_display": "2026-05-28",
       "id": "350950ead2d2"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin",
-      "summary": "Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar.",
-      "url": "https://devblogs.microsoft.com/blog/improve-your-agentic-developer-tools-by-grounding-in-microsoft-learn",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-05-28T17:00:52Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Microsoft Learn'ü temel alarak aracı geliştirici araçlarınızı geliştirin Geliştirme iş akışları terminalleri, IDE'leri, arka plan aracılarını ve özel asistanları kapsar. Önemli olan aynı akım kaynağından gelip gelmedikleridir. MCP Sunucusunu Öğrenin, MCP uyumlu herhangi bir aracıya mevcut Microsoft belgelerine doğrudan erişim sağlar. Improve your agentic developer tools by grounding in Microsoft Learn Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu... Microsoft Dev Cloud",
-      "title_original": "Improve your agentic developer tools by grounding in Microsoft Learn",
-      "summary_original": "Development workflows span terminals, IDEs, background agents, and custom assistants. What matters is whether they draw from the same current source. Learn MCP Server gives any MCP-compatible agent direct access to current Microsoft docu...",
-      "published_display": "2026-05-28",
-      "id": "ca680028440d"
     },
     {
       "category": "ai",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri",
+      "summary": "Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmpTQXRFS0dxMEJ1UHVVQUQzYnB1dUN6STJ5MnZLM3VfUW5hV255eXkyR3UzZGgzRkZhbkFNR1dFUGhiaUctajIyYmNQOW1WaXdIOFB0cmh4R1ZTN0tfcHp0WV9iLWhIajZVRUpDUUVmeEJORURFVTJUVTRiZDVGSjh6dWpobjZmb25Eak1IbW5ncG9xRExZTkRqNWtRSkdOb2NmTVhvMWRCS0FxU3h1QVN1cHJWUFozMW5lQXRZZ0pyVVByS1p0Y0t3dUZheEJZVFF3?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-09T16:27:53Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News",
+      "summary_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News",
+      "published_display": "2026-06-09",
+      "id": "a122555f142b"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması - Yahoo Finance",
       "summary": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa21mQzJGc01JbjBlajdXeFN4QnBpQTktS0hmbjFBREhSZGRPWjg2T2tteEFQNzdzZ0QzcXhROVg3SldwdDh4NjhKQ1E2ZEJSbHdoZjNuT2xCcm11NmN6ZnFHSW14SVU1LVVUT2x2c3pIV2tDUm1XUkxOTVNTT1Q5QnJ2YVNtSXlkcF80RVBhQWlsVUhIOG83dmJZSmwyN1BhaXhWc0NhVTBpamNleUE?oc=5",
@@ -314,6 +334,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Hassas İsviçre İşleme Robotik ve Otomasyonun Geleceği Açısından Neden Kritik? - Robotik ve Otomasyon Haberleri",
+      "summary": "Hassas İsviçre İşleme Robotik ve Otomasyonun Geleceği Açısından Neden Kritik? Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSWt4LUlObkRXbUtGMnQzUmYwSzFoSHdRSnZxd0VuXzNJd3Z0anp0UWxLTmt6NWdmb0dmUGNBdXFILWtQWUdBUXF4dmtCRDE1Q2xZVHJDR2xjdmRBaU1FQl9wWmRSLVZqZ19qV3RwMDVoeVdPQXZEdDdwYTZYMTdGWnpfZDJxQUhMT2VoaGxHaGljdDVDQlhfRXg2UWc4QTVWYloxRVdMNy0xMkppZGZOd3R1T1FkdnAycVNoeHItUXd2LU9Lc3Y1S2hVZmN2b1J4Yk5NZjVB?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-03T06:08:35Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Hassas İsviçre İşleme Robotik ve Otomasyonun Geleceği Açısından Neden Kritik? - Robotik ve Otomasyon Haberleri Hassas İsviçre İşleme Robotik ve Otomasyonun Geleceği Açısından Neden Kritik? Robotik ve Otomasyon Haberleri Why Precision Swiss Machining is Critical to the Future of Robotics and Automation - Robotics & Automation News Why Precision Swiss Machining is Critical to the Future of Robotics and Automation Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Why Precision Swiss Machining is Critical to the Future of Robotics and Automation - Robotics & Automation News",
+      "summary_original": "Why Precision Swiss Machining is Critical to the Future of Robotics and Automation Robotics & Automation News",
+      "published_display": "2026-06-03",
+      "id": "d3420fe3824d"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "İşte 2026 Automate Startup Challenge'ın 10 Finalisti - A3 İleri Otomasyon Derneği",
       "summary": "İşte 2026 Otomatikleştirme Başlangıç ​​Yarışması A3 Otomasyonu Geliştirme Derneği'nin 10 Finalisti",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2F0c1ViNU9odTB6UDJ6WlNHZlc0Vm9NWVRiSndBeWRDYTE0akNSVk9Qa3NkYXJ0Uko4VUFCRzlTYW9tZWU5dVFuMHBPV3BOUXdYSThBTDRGTkVOT183dTBwaG9aRDBXN3NhZ0ZiRVdXZmQ2UnF6ZkFqSWNoQm94UEhCOHdKb1ROMkcwVnUyTUlpR1h2LWhrNEg3OTRVaEJzU0FiOGdmU0R3YnBhcVVZNUcwNTg4Qy1XRGU4?oc=5",
@@ -330,46 +370,6 @@
       "summary_original": "Here are the 10 Finalists for the 2026 Automate Startup Challenge A3 Association for Advancing Automation",
       "published_display": "2026-05-30",
       "id": "085d893cde16"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda ortak çalışıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDJRbGViS0JsY2M2RGRybWNtRUYtcE1LVGI3Ml9oLU5sQ2FqWXhobEI4UnRKcmFZdlZvTlRrQjV4MDNJc3M1b0hyYlBsZXVxT25GaGdlOVk1RTh1amFZcXdsQUViQUZTRTdUdGJvcUt4YWN1ZVRHUGRSMjlTQ19DaUNNVzNLNkNfMTg2Qko4MktRZnFpVGxndnlYemRQMk9JVzBSOVZoMlpRZUJOT0N5ZkJObnJtLWNGV0s4QzB3bkhXcDU5RHkyOV9ONG04Rkxfa0FLTENmOEpmbk9YX2tQelln?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-07T09:02:50Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda ortak çalışıyor Robotik ve Otomasyon Haberleri Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News",
-      "summary_original": "Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News",
-      "published_display": "2026-05-07",
-      "id": "f9c9545e5dc2"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek - Modern Material Handling",
-      "summary": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek Modern Malzeme Taşıma",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1HQWdVaWwzakE1YlRibmZJN0RKdlVCalBxV1c0RWlFWk5Gd0pnZlQ3bnJidTN3TEtTd282NmZ2ZU1nTHJuUW9NaEZOTkF2OUY5UjFleUJNcTVFb3F0TmhtWFN5ZWsxOTFuYldLM0RpVGtzNXc0TmNjMEtIUENiZDNSczZkajFnT2FtUi1WejZBeUlVelFxZkRZeUJxNVRhRk1yRFQwdkVMYUE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-05T07:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek - Modern Material Handling Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek Modern Malzeme Taşıma Aptiv and Comau to co-develop next-generation solutions for robotics, automation - Modern Materials Handling Aptiv and Comau to co-develop next-generation solutions for robotics, automation Modern Materials Handling Robotics Automation Industry",
-      "title_original": "Aptiv and Comau to co-develop next-generation solutions for robotics, automation - Modern Materials Handling",
-      "summary_original": "Aptiv and Comau to co-develop next-generation solutions for robotics, automation Modern Materials Handling",
-      "published_display": "2026-05-05",
-      "id": "08bb81c5b40f"
     },
     {
       "category": "web",
@@ -410,6 +410,66 @@
       "summary_original": "Read about various happenings with Baseline during April 2026.",
       "published_display": "2026-05-27",
       "id": "6b855c964fcf"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Siemens KACO Blueplanet İnvertörler",
+      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-06-09T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
+      "title_original": "Siemens KACO Blueplanet Inverters",
+      "summary_original": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele...",
+      "published_display": "2026-06-09",
+      "id": "2960352bcf05"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Schneider Electric Modicon Ağ Yönetimli Anahtarlar",
+      "summary": "CSAF Özetini Görüntüleyin Schneider Electric, Modicon Ağ Yönetilen Anahtar ürününü etkileyen bir RADIUS protokolü güvenlik açığının farkındadır. Modicon Ağ Yönetilen Anahtar ürünü, birden fazla Ethernet cihazı, ağ bağlantısı için bağlantı sağlar...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-06-09T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Schneider Electric Modicon Ağ Yönetimli Anahtarlar CSAF Özetini Görüntüleyin Schneider Electric, Modicon Ağ Yönetilen Anahtar ürününü etkileyen bir RADIUS protokolü güvenlik açığının farkındadır. Modicon Ağ Yönetilen Anahtar ürünü, birden fazla Ethernet cihazı, ağ bağlantısı için bağlantı sağlar... Schneider Electric Modicon Network Managed Switches View CSAF Summary Schneider Electric is aware of a RADIUS protocol vulnerability affecting its Modicon Network Managed Switch product. The Modicon Network Managed Switch product provides connectivity for multiple Ethernet devices, networ... CISA Advisory Threat",
+      "title_original": "Schneider Electric Modicon Network Managed Switches",
+      "summary_original": "View CSAF Summary Schneider Electric is aware of a RADIUS protocol vulnerability affecting its Modicon Network Managed Switch product. The Modicon Network Managed Switch product provides connectivity for multiple Ethernet devices, networ...",
+      "published_display": "2026-06-09",
+      "id": "02229acf0ec8"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Schneider Electric EcoStruxure Panel Sunucusu",
+      "summary": "CSAF Özetini Görüntüleyin Schneider Electric, EcoStruxure Panel Sunucusu teklifindeki güvenlik açığının farkındadır. EcoStruxure Panel Sunucusu, kolay ve hızlı bağlantı sağlayan gelişmiş siber güvenliğe sahip, yüksek performanslı, modüler bir ağ geçididir...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-03",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-06-09T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Schneider Electric EcoStruxure Panel Sunucusu CSAF Özetini Görüntüleyin Schneider Electric, EcoStruxure Panel Sunucusu teklifindeki güvenlik açığının farkındadır. EcoStruxure Panel Sunucusu, kolay ve hızlı bağlantı sağlayan gelişmiş siber güvenliğe sahip, yüksek performanslı, modüler bir ağ geçididir... Schneider Electric EcoStruxure Panel Server View CSAF Summary Schneider Electric is aware of its vulnerability in its EcoStruxure Panel Server offer. The EcoStruxure Panel Server is a high performance, modular gateway with enhanced cybersecurity that provides easy and fast connect... CISA Advisory Threat",
+      "title_original": "Schneider Electric EcoStruxure Panel Server",
+      "summary_original": "View CSAF Summary Schneider Electric is aware of its vulnerability in its EcoStruxure Panel Server offer. The EcoStruxure Panel Server is a high performance, modular gateway with enhanced cybersecurity that provides easy and fast connect...",
+      "published_display": "2026-06-09",
+      "id": "adf6d05d15b7"
     },
     {
       "category": "siber",
@@ -472,66 +532,6 @@
       "id": "f0c418285404"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-28318 SolarWinds Serv-U Kontrolsüz Kaynak Tüketimi Güvenlik Açığı Bu tür güvenlik açığı...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-06-05T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-28318 SolarWinds Serv-U Kontrolsüz Kaynak Tüketimi Güvenlik Açığı Bu tür güvenlik açığı... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerabi... CISA Advisory Threat",
-      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerabi...",
-      "published_display": "2026-06-05",
-      "id": "2c1c9fb00b0a"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Hitachi Enerji RTU500",
-      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen RTU500 ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından yararlanılması durumunda öncelikle ürünün kullanılabilirliği etkilenir, ayrıca güvenlik üzerinde potansiyel ikincil etkiler de yaşanır.",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-04",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-06-04T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Hitachi Enerji RTU500 CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen RTU500 ürün sürümlerini etkileyen güvenlik açıklarının farkındadır. Bu güvenlik açıklarından yararlanılması durumunda öncelikle ürünün kullanılabilirliği etkilenir, ayrıca güvenlik üzerinde potansiyel ikincil etkiler de yaşanır. Hitachi Energy RTU500 View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on conf... CISA Advisory Threat",
-      "title_original": "Hitachi Energy RTU500",
-      "summary_original": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on conf...",
-      "published_display": "2026-06-04",
-      "id": "004593015032"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Hitachi Energy MACH HiDraw",
-      "summary": "CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen MACH HiDraw ürün sürümlerini etkileyen bir arabellek taşması güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanılması, arabellek taşması durumuna neden olabilir.",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-06-04T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Hitachi Energy MACH HiDraw CSAF Özetini Görüntüle Hitachi Energy, bu belgede listelenen MACH HiDraw ürün sürümlerini etkileyen bir arabellek taşması güvenlik açığının farkındadır. Bu güvenlik açığından başarıyla yararlanılması, arabellek taşması durumuna neden olabilir. Hitachi Energy MACH HiDraw View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, pote... CISA Advisory Threat",
-      "title_original": "Hitachi Energy MACH HiDraw",
-      "summary_original": "View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, pote...",
-      "published_display": "2026-06-04",
-      "id": "08a75be649d1"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
