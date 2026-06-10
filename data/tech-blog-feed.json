@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-10T19:06:17Z",
+  "updated_at": "2026-06-11T00:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım",
-      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
+      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
       "url": "https://devblogs.microsoft.com/blog/spec-driven-development-ai-native-engineering",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
+      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
       "title_original": "Spec-Driven Development: A Spec-First Approach to AI-Native Engineering",
       "summary_original": "AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul...",
       "published_display": "2026-06-10",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın",
-      "summary": "GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın; kaba kuvvet grep/derlemeyi gerçek kod zekasıyla değiştirin. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın; kaba kuvvet grep/derlemeyi gerçek kod zekasıyla değiştirin. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Give GitHub Copilot CLI real code intelligence with language servers",
       "summary_original": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog .",
       "published_display": "2026-06-10",
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Bir astrofizikçi kara delikleri simüle etmeye yardımcı olmak için Codex'i nasıl kullanıyor?",
+      "summary": "Astrofizikçi Chi-kwan Chan'ın kara delik simülasyonları oluşturmak için Codex'i nasıl kullandığını, bilim adamlarının ekstrem fizik çalışmalarına ve Einstein'ın genel görelilik teorisini test etmesine nasıl yardımcı olduğunu keşfedin.",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-11T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Bir astrofizikçi kara delikleri simüle etmeye yardımcı olmak için Codex'i nasıl kullanıyor? Astrofizikçi Chi-kwan Chan'ın kara delik simülasyonları oluşturmak için Codex'i nasıl kullandığını, bilim adamlarının ekstrem fizik çalışmalarına ve Einstein'ın genel görelilik teorisini test etmesine nasıl yardımcı olduğunu keşfedin. How an astrophysicist uses Codex to help simulate black holes Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity. AI OpenAI Model",
+      "title_original": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary_original": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "published_display": "2026-06-11",
+      "id": "2e443d45e1fa"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Oracle bulut taahhüdünüz aracılığıyla OpenAI modellerine ve Codex'e erişin",
+      "summary": "Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak OpenAI modellerine ve Codex'e Oracle Bulut aracılığıyla erişin.",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-10T20:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Oracle bulut taahhüdünüz aracılığıyla OpenAI modellerine ve Codex'e erişin Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak OpenAI modellerine ve Codex'e Oracle Bulut aracılığıyla erişin. Access OpenAI models and Codex through your Oracle cloud commitment Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance. AI OpenAI Model",
+      "title_original": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "summary_original": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "published_display": "2026-06-10",
+      "id": "53f42340b111"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Makine öğrenmesini denetlemek için yeni çerçeve",
       "summary": "Algoritmalar ve Teori",
       "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
@@ -155,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ÇHC bağlantılı etki operasyonları ABD'deki yapay zeka tartışmalarını hedef alıyor",
-      "summary": "OpenAI'nin yeni bir raporu, ABD'deki teknoloji tartışmalarını, veri merkezi anlatılarını, tarifeleri ve ChatGPT hakkındaki yanlış iddiaları hedef almak için yapay zeka kullanan ÇHC bağlantılı etki operasyonlarını ayrıntılarıyla anlatıyor.",
+      "summary": "OpenAI'nin yeni bir raporu, ABD'deki teknoloji tartışmalarını, veri merkezi anlatılarını, tarifeleri ve ChatGPT hakkındaki yanlış iddiaları hedef almak için yapay zekayı kullanan ÇHC bağlantılı etki operasyonlarını ayrıntılarıyla anlatıyor.",
       "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ÇHC bağlantılı etki operasyonları ABD'deki yapay zeka tartışmalarını hedef alıyor OpenAI'nin yeni bir raporu, ABD'deki teknoloji tartışmalarını, veri merkezi anlatılarını, tarifeleri ve ChatGPT hakkındaki yanlış iddiaları hedef almak için yapay zeka kullanan ÇHC bağlantılı etki operasyonlarını ayrıntılarıyla anlatıyor. PRC-linked influence operations are targeting AI debates in the US A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT. AI OpenAI Model",
+      "keywords": "ÇHC bağlantılı etki operasyonları ABD'deki yapay zeka tartışmalarını hedef alıyor OpenAI'nin yeni bir raporu, ABD'deki teknoloji tartışmalarını, veri merkezi anlatılarını, tarifeleri ve ChatGPT hakkındaki yanlış iddiaları hedef almak için yapay zekayı kullanan ÇHC bağlantılı etki operasyonlarını ayrıntılarıyla anlatıyor. PRC-linked influence operations are targeting AI debates in the US A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT. AI OpenAI Model",
       "title_original": "PRC-linked influence operations are targeting AI debates in the US",
       "summary_original": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
       "published_display": "2026-06-10",
@@ -175,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Verilerden kararlara: LSEG güvenilir yapay zekayı nasıl ölçeklendiriyor",
-      "summary": "LSEG'nin, güvenilir yapay zekayı global işletmesi genelinde ölçeklendirmek, içgörüleri hızlandırmak, sürüm döngülerini kısaltmak ve 4.000 çalışana güç vermek için OpenAI'yi nasıl kullandığını görün.",
+      "summary": "LSEG'nin güvenilir yapay zekayı global işletmesi genelinde ölçeklendirmek, içgörüleri hızlandırmak, sürüm döngülerini kısaltmak ve 4.000 çalışana güç vermek için OpenAI'yi nasıl kullandığını görün.",
       "url": "https://openai.com/index/lseg",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Verilerden kararlara: LSEG güvenilir yapay zekayı nasıl ölçeklendiriyor LSEG'nin, güvenilir yapay zekayı global işletmesi genelinde ölçeklendirmek, içgörüleri hızlandırmak, sürüm döngülerini kısaltmak ve 4.000 çalışana güç vermek için OpenAI'yi nasıl kullandığını görün. From data to decisions: how LSEG is scaling trusted AI See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees. AI OpenAI Model",
+      "keywords": "Verilerden kararlara: LSEG güvenilir yapay zekayı nasıl ölçeklendiriyor LSEG'nin güvenilir yapay zekayı global işletmesi genelinde ölçeklendirmek, içgörüleri hızlandırmak, sürüm döngülerini kısaltmak ve 4.000 çalışana güç vermek için OpenAI'yi nasıl kullandığını görün. From data to decisions: how LSEG is scaling trusted AI See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees. AI OpenAI Model",
       "title_original": "From data to decisions: how LSEG is scaling trusted AI",
       "summary_original": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "published_display": "2026-06-10",
@@ -212,44 +252,24 @@
       "id": "1f667add5513"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Codex'in Notion için kilidini açtığı şeyler",
-      "summary": "Notion, Codex'i tek seferlik spesifikasyonlar için nasıl kullanıyor, web için Yapay Zeka Ses Girişi oluşturuyor ve küçük ekipler arasında mühendislik gücünü nasıl artırıyor?",
-      "url": "https://openai.com/index/notion",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri",
+      "summary": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için C Serisi'ni 1,4 milyar dolarlık rekora yükseltti Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3J6SlFGZ3FpUkFtVW4xdmZwRjF3R0p5aUxRX1lDOGJQcmZrU1Etem4xY0RxS2dJTDd3RVFNUUJLQS02WmxaVXFWQnFBR3E5cXBoRTVSa2hBRXFOTUItTThRXzlkUVBxdzNtR3MxTFlJTFY5T1M4endfOFkydEp3SmlGS1p5MFVZZTBsemJkYmYwQnR2VXdXU3JheXJzUkJxUnNHWEx5QjB5em1xZ05KcGFwdTFYdEtIR29zMC1yUFlkVC1pS0hhcmN1VWs1ajlHcW5TMkRsZnpzdnZo?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-09T10:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-06-10T16:22:34Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Codex'in Notion için kilidini açtığı şeyler Notion, Codex'i tek seferlik spesifikasyonlar için nasıl kullanıyor, web için Yapay Zeka Ses Girişi oluşturuyor ve küçük ekipler arasında mühendislik gücünü nasıl artırıyor? What Codex unlocks for Notion How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams. AI OpenAI Model",
-      "title_original": "What Codex unlocks for Notion",
-      "summary_original": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "published_display": "2026-06-09",
-      "id": "d1efe492dd06"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "İstihbarat Çağı için sanayi politikası",
-      "summary": "Gelişmiş zeka geliştikçe fırsatları genişletmeye, refahı paylaşmaya ve dayanıklı kurumlar oluşturmaya odaklanan, yapay zeka çağına yönelik iddialı, önce insan sanayi politikası fikirlerimizi keşfedin.",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-09T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "İstihbarat Çağı için sanayi politikası Gelişmiş zeka geliştikçe fırsatları genişletmeye, refahı paylaşmaya ve dayanıklı kurumlar oluşturmaya odaklanan, yapay zeka çağına yönelik iddialı, önce insan sanayi politikası fikirlerimizi keşfedin. Industrial policy for the Intelligence Age Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves. AI OpenAI Model",
-      "title_original": "Industrial policy for the Intelligence Age",
-      "summary_original": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "published_display": "2026-06-09",
-      "id": "cbabd26108fd"
+      "keywords": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için C Serisi'ni 1,4 milyar dolarlık rekora yükseltti Robotik ve Otomasyon Haberleri Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News",
+      "summary_original": "Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News",
+      "published_display": "2026-06-10",
+      "id": "f9be56d24c2d"
     },
     {
       "category": "robotik",
@@ -295,7 +315,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Doosan Robotics, Sea Mecanics'in Yapay Zeka Çapak Alma ve Üretim Otomasyonunda Ortağı - Seul Ekonomik Günlük",
-      "summary": "Doosan Robotics, Sea Mecanics'in AI Çapak Alma İş Ortağı, Üretim Otomasyonu Seul Ekonomik Günlük",
+      "summary": "Doosan Robotics, Sea Mecanics'in Yapay Zeka Çapak Alma Ortağı, Üretim Otomasyonu Seul Ekonomik Günlük",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRVBfUDNObDl0aEpOd2ZkSktuOGtvMGRqYXkwWGhvaTNrZXd2dFZQUVdCTWpfVG5JRldMQzROa1ZCWlU5RmVVb2tLaUhEMTVDQWZxWG96VGZIWlZHMzYtdFdEMlhNNWJDeE5mUVNwQ3BOLXRJS3lEQzNfVUN2MTFmZ3RzdnlyOVhWajNLTkFFWHJWdjZobjJXR2xB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,7 +325,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Doosan Robotics, Sea Mecanics'in Yapay Zeka Çapak Alma ve Üretim Otomasyonunda Ortağı - Seul Ekonomik Günlük Doosan Robotics, Sea Mecanics'in AI Çapak Alma İş Ortağı, Üretim Otomasyonu Seul Ekonomik Günlük Doosan Robotics, Sea Mecanics Partner on AI Deburring, Manufacturing Automation - Seoul Economic Daily Doosan Robotics, Sea Mecanics Partner on AI Deburring, Manufacturing Automation Seoul Economic Daily Robotics Automation Industry",
+      "keywords": "Doosan Robotics, Sea Mecanics'in Yapay Zeka Çapak Alma ve Üretim Otomasyonunda Ortağı - Seul Ekonomik Günlük Doosan Robotics, Sea Mecanics'in Yapay Zeka Çapak Alma Ortağı, Üretim Otomasyonu Seul Ekonomik Günlük Doosan Robotics, Sea Mecanics Partner on AI Deburring, Manufacturing Automation - Seoul Economic Daily Doosan Robotics, Sea Mecanics Partner on AI Deburring, Manufacturing Automation Seoul Economic Daily Robotics Automation Industry",
       "title_original": "Doosan Robotics, Sea Mecanics Partner on AI Deburring, Manufacturing Automation - Seoul Economic Daily",
       "summary_original": "Doosan Robotics, Sea Mecanics Partner on AI Deburring, Manufacturing Automation Seoul Economic Daily",
       "published_display": "2026-06-10",
@@ -352,26 +372,6 @@
       "id": "a3f20e053559"
     },
     {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri",
-      "summary": "Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmpTQXRFS0dxMEJ1UHVVQUQzYnB1dUN6STJ5MnZLM3VfUW5hV255eXkyR3UzZGgzRkZhbkFNR1dFUGhiaUctajIyYmNQOW1WaXdIOFB0cmh4R1ZTN0tfcHp0WV9iLWhIajZVRUpDUUVmeEJORURFVTJUVTRiZDVGSjh6dWpobjZmb25Eak1IbW5ncG9xRExZTkRqNWtRSkdOb2NmTVhvMWRCS0FxU3h1QVN1cHJWUFozMW5lQXRZZ0pyVVByS1p0Y0t3dUZheEJZVFF3?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-09T16:27:53Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News",
-      "summary_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News",
-      "published_display": "2026-06-09",
-      "id": "a122555f142b"
-    },
-    {
       "category": "web",
       "category_label": "Web Tasarimi",
       "title": "Mayıs ayında web platformuna yeni",
@@ -415,7 +415,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens KACO Blueplanet İnvertörler",
-      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnvertörleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve bunları yetkisiz erişim elde etmek için kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,...",
+      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -425,7 +425,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnvertörleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve bunları yetkisiz erişim elde etmek için kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
+      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
       "title_original": "Siemens KACO Blueplanet Inverters",
       "summary_original": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele...",
       "published_display": "2026-06-09",
@@ -534,8 +534,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,17 +545,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
+      "id": "015a81ebc793"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,7 +565,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
