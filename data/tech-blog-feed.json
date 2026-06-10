@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-10T09:35:54Z",
+  "updated_at": "2026-06-10T16:15:09Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,46 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım",
+      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
+      "url": "https://devblogs.microsoft.com/blog/spec-driven-development-ai-native-engineering",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-06-10T16:15:09Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
+      "title_original": "Spec-Driven Development: A Spec-First Approach to AI-Native Engineering",
+      "summary_original": "AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul...",
+      "published_display": "2026-06-10",
+      "id": "fff624346979"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın",
+      "summary": "Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-10T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Give GitHub Copilot CLI real code intelligence with language servers",
+      "summary_original": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog .",
+      "published_display": "2026-06-10",
+      "id": "aa0b1b19f212"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -90,46 +130,6 @@
       "summary_original": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog .",
       "published_display": "2026-06-04",
       "id": "c701125de3c5"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi",
-      "summary": "Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması gönderisi: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı.",
-      "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-02T17:30:03Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub Copilot uygulaması: Aracıya özgü masaüstü deneyimi Microsoft Build 2026'da GitHub, aracıların sizin halihazırda çalıştığınız şekilde çalışabilmesi için yeni araçlar, güncellemeler ve yüzeyler tanıttı. GitHub Copilot uygulaması gönderisi: Aracı-yerel masaüstü deneyimi ilk olarak GitHub Blogunda ortaya çıktı. GitHub Copilot app: The agent-native desktop experience At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub Copilot app: The agent-native desktop experience",
-      "summary_original": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog .",
-      "published_display": "2026-06-02",
-      "id": "9c3c394b340e"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Hala bir geliştirici. Hemen dışarıda. En yeni GitHub Shop koleksiyonumuz burada.",
-      "summary": "ESC koleksiyonu, masanızın sınırlarından kurtulmanıza ve iyi fikirlerin mutlaka gerçekleşeceği güneşe çıkmanıza olanak tanır. Yazı Hala bir geliştirici. Hemen dışarıda. En yeni GitHub Shop koleksiyonumuz burada. İlk olarak GitHub'da ortaya çıktı...",
-      "url": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-05-28T18:18:43Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Hala bir geliştirici. Hemen dışarıda. En yeni GitHub Shop koleksiyonumuz burada. ESC koleksiyonu, masanızın sınırlarından kurtulmanıza ve iyi fikirlerin mutlaka gerçekleşeceği güneşe çıkmanıza olanak tanır. Yazı Hala bir geliştirici. Hemen dışarıda. En yeni GitHub Shop koleksiyonumuz burada. İlk olarak GitHub'da ortaya çıktı... Still a developer. Just outside. Our latest GitHub Shop collection is here. The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub... GitHub Dev Platform",
-      "title_original": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
-      "summary_original": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub...",
-      "published_display": "2026-05-28",
-      "id": "350950ead2d2"
     },
     {
       "category": "ai",
@@ -535,7 +535,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,7 +545,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "f4f88664728b"
     },
     {
       "category": "kamera",
@@ -614,6 +614,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı",
+      "summary": "Axis video güvenlik kameralarında Tesis Dalışında bulunan güvenlik açığı",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVJNSWpKbXdIalVuM3oxbzJQMEN3QXlQWlZNblhtb0IyVk1ONnhGd1dYa0swYXpyYy1OOHJlTGtnT2pETmE3ZWE1d0pEb0tOWkQxSE9GSU8xbmNtSVhQa1BRQzZLN2NKYkJrYnZyTUdJNXI2T1VmMFhpeGZ0WHRueURwVTNVTVRKZ3NsaFpQWE1MelNBNGNDczdETVhYN0U?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-07T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı Axis video güvenlik kameralarında Tesis Dalışında bulunan güvenlik açığı Vulnerability found in Axis video surveillance cameras - Facilities Dive Vulnerability found in Axis video surveillance cameras Facilities Dive IP Camera Video Surveillance",
+      "title_original": "Vulnerability found in Axis video surveillance cameras - Facilities Dive",
+      "summary_original": "Vulnerability found in Axis video surveillance cameras Facilities Dive",
+      "published_display": "2025-08-07",
+      "id": "b893ec3fb24e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
       "summary": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
@@ -630,26 +650,6 @@
       "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
       "published_display": "2025-07-30",
       "id": "cc6031567108"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Çevrimiçi olarak binlerce özel kamera yayını bulundu. Sizinkinin onlardan biri olmadığından emin olun - Malwarebytes",
-      "summary": "Çevrimiçi olarak binlerce özel kamera yayını bulundu. Sizinkinin Malwarebytes'lerden biri olmadığından emin olun",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHl4YXFEMTFFTjR1eWR6bWtSY0xoZDZ1SEZISGdubDVSajU4YUxEUWctSlBKOUpXenh3MzNpMTE3MmhCSnVfR0F3TzlQSzB4ajNpS1FGT21DcTNoSDVIQXRhbC1yaThrVEhGS05sZGdOWmszLThuWVVuV3ZGUjl5UHVoa25HUEJMYWJwNHlUb3FuR29NOUZjRkVGUVBveFhOLTRacjFlVDBmMTZodXBrRXdHSzRzNFo3czFPWkZCN3prTlo0?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-24T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Çevrimiçi olarak binlerce özel kamera yayını bulundu. Sizinkinin onlardan biri olmadığından emin olun - Malwarebytes Çevrimiçi olarak binlerce özel kamera yayını bulundu. Sizinkinin Malwarebytes'lerden biri olmadığından emin olun Thousands of private camera feeds found online. Make sure yours isn’t one of them - Malwarebytes Thousands of private camera feeds found online. Make sure yours isn’t one of them Malwarebytes IP Camera Video Surveillance",
-      "title_original": "Thousands of private camera feeds found online. Make sure yours isn’t one of them - Malwarebytes",
-      "summary_original": "Thousands of private camera feeds found online. Make sure yours isn’t one of them Malwarebytes",
-      "published_display": "2025-06-24",
-      "id": "450cb6772da4"
     }
   ]
 }
