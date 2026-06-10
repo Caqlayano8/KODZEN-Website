@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım",
-      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
+      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
       "url": "https://devblogs.microsoft.com/blog/spec-driven-development-ai-native-engineering",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
+      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
       "title_original": "Spec-Driven Development: A Spec-First Approach to AI-Native Engineering",
       "summary_original": "AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul...",
       "published_display": "2026-06-10",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın",
-      "summary": "Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın; kaba kuvvet grep/derlemeyi gerçek kod zekasıyla değiştirin. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın; kaba kuvvet grep/derlemeyi gerçek kod zekasıyla değiştirin. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Give GitHub Copilot CLI real code intelligence with language servers",
       "summary_original": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog .",
       "published_display": "2026-06-10",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Microsoft Build 2026 özeti: vizyon, lansmanlar ve önemli oturumlar",
-      "summary": "Microsoft geliştirici ekosistemindeki vizyon öncüsü, önemli geliştirici duyuruları ve mutlaka izlenmesi gereken oturumlarla Microsoft Build 2026'yı yakalayın. Microsoft Build 2026 gönderisinin özeti: vizyon, lansmanlar ve en iyi oturumlar yayınlandı...",
+      "summary": "Microsoft geliştirici ekosistemindeki vizyon öncüsü, önemli geliştirici duyuruları ve mutlaka izlenmesi gereken oturumlarla Microsoft Build 2026'yı yakalayın. Microsoft Build 2026 gönderisinin özeti: vizyon, lansmanlar ve en iyi oturumlar yayınlandı.",
       "url": "https://devblogs.microsoft.com/blog/build-recap",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft Build 2026 özeti: vizyon, lansmanlar ve önemli oturumlar Microsoft geliştirici ekosistemindeki vizyon öncüsü, önemli geliştirici duyuruları ve mutlaka izlenmesi gereken oturumlarla Microsoft Build 2026'yı yakalayın. Microsoft Build 2026 gönderisinin özeti: vizyon, lansmanlar ve en iyi oturumlar yayınlandı... Microsoft Build 2026 recap: vision, launches, and top sessions Catch up on Microsoft Build 2026 with the vision lead-off, top developer announcements, and must-watch sessions across the Microsoft developer ecosystem. The post Microsoft Build 2026 recap: vision, launches, and top sessions appeared fi... Microsoft Dev Cloud",
+      "keywords": "Microsoft Build 2026 özeti: vizyon, lansmanlar ve önemli oturumlar Microsoft geliştirici ekosistemindeki vizyon öncüsü, önemli geliştirici duyuruları ve mutlaka izlenmesi gereken oturumlarla Microsoft Build 2026'yı yakalayın. Microsoft Build 2026 gönderisinin özeti: vizyon, lansmanlar ve en iyi oturumlar yayınlandı. Microsoft Build 2026 recap: vision, launches, and top sessions Catch up on Microsoft Build 2026 with the vision lead-off, top developer announcements, and must-watch sessions across the Microsoft developer ecosystem. The post Microsoft Build 2026 recap: vision, launches, and top sessions appeared fi... Microsoft Dev Cloud",
       "title_original": "Microsoft Build 2026 recap: vision, launches, and top sessions",
       "summary_original": "Catch up on Microsoft Build 2026 with the vision lead-off, top developer announcements, and must-watch sessions across the Microsoft developer ecosystem. The post Microsoft Build 2026 recap: vision, launches, and top sessions appeared fi...",
       "published_display": "2026-06-08",
@@ -174,8 +174,8 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Verilerden kararlara: LSEG güvenilir yapay zekayı nasıl ölçeklendiriyor?",
-      "summary": "LSEG'nin, güvenilir yapay zekayı küresel işletmesi genelinde ölçeklendirmek, içgörüleri hızlandırmak, sürüm döngülerini kısaltmak ve 4.000 çalışana güç vermek için OpenAI'yi nasıl kullandığını görün.",
+      "title": "Verilerden kararlara: LSEG güvenilir yapay zekayı nasıl ölçeklendiriyor",
+      "summary": "LSEG'nin, güvenilir yapay zekayı global işletmesi genelinde ölçeklendirmek, içgörüleri hızlandırmak, sürüm döngülerini kısaltmak ve 4.000 çalışana güç vermek için OpenAI'yi nasıl kullandığını görün.",
       "url": "https://openai.com/index/lseg",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,11 +185,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Verilerden kararlara: LSEG güvenilir yapay zekayı nasıl ölçeklendiriyor? LSEG'nin, güvenilir yapay zekayı küresel işletmesi genelinde ölçeklendirmek, içgörüleri hızlandırmak, sürüm döngülerini kısaltmak ve 4.000 çalışana güç vermek için OpenAI'yi nasıl kullandığını görün. From data to decisions: how LSEG is scaling trusted AI See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees. AI OpenAI Model",
+      "keywords": "Verilerden kararlara: LSEG güvenilir yapay zekayı nasıl ölçeklendiriyor LSEG'nin, güvenilir yapay zekayı global işletmesi genelinde ölçeklendirmek, içgörüleri hızlandırmak, sürüm döngülerini kısaltmak ve 4.000 çalışana güç vermek için OpenAI'yi nasıl kullandığını görün. From data to decisions: how LSEG is scaling trusted AI See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees. AI OpenAI Model",
       "title_original": "From data to decisions: how LSEG is scaling trusted AI",
       "summary_original": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "published_display": "2026-06-10",
-      "id": "fe239fe0cfc8"
+      "id": "918f7269dc96"
     },
     {
       "category": "ai",
@@ -214,7 +214,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Codex, Notion için hangi özelliklerin kilidini açar?",
+      "title": "Codex'in Notion için kilidini açtığı şeyler",
       "summary": "Notion, Codex'i tek seferlik spesifikasyonlar için nasıl kullanıyor, web için Yapay Zeka Ses Girişi oluşturuyor ve küçük ekipler arasında mühendislik gücünü nasıl artırıyor?",
       "url": "https://openai.com/index/notion",
       "image_url": null,
@@ -225,11 +225,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Codex, Notion için hangi özelliklerin kilidini açar? Notion, Codex'i tek seferlik spesifikasyonlar için nasıl kullanıyor, web için Yapay Zeka Ses Girişi oluşturuyor ve küçük ekipler arasında mühendislik gücünü nasıl artırıyor? What Codex unlocks for Notion How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams. AI OpenAI Model",
+      "keywords": "Codex'in Notion için kilidini açtığı şeyler Notion, Codex'i tek seferlik spesifikasyonlar için nasıl kullanıyor, web için Yapay Zeka Ses Girişi oluşturuyor ve küçük ekipler arasında mühendislik gücünü nasıl artırıyor? What Codex unlocks for Notion How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams. AI OpenAI Model",
       "title_original": "What Codex unlocks for Notion",
       "summary_original": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
       "published_display": "2026-06-09",
-      "id": "ad90510a7c9f"
+      "id": "d1efe492dd06"
     },
     {
       "category": "ai",
@@ -415,7 +415,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens KACO Blueplanet İnvertörler",
-      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,...",
+      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnvertörleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve bunları yetkisiz erişim elde etmek için kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -425,7 +425,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
+      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnvertörleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve bunları yetkisiz erişim elde etmek için kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
       "title_original": "Siemens KACO Blueplanet Inverters",
       "summary_original": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele...",
       "published_display": "2026-06-09",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
