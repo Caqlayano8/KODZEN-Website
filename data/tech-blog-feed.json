@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-10T16:15:09Z",
+  "updated_at": "2026-06-10T18:00:15Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,28 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
+      "title": "Skillmaxxing'i durdurun, jetonlarınızı kaydedin",
+      "summary": "Teknolojiniz için bir düzine beceri geliştirdiniz: kimlik doğrulama, CRUD, hata işleme, dağıtım, test etme, izleme. Daha sonra teşhis, depolama, uyumluluk ve maliyet optimizasyonunu kapsayan 15 tane daha içeren bir bulut platformu paketi kurdunuz...",
+      "url": "https://devblogs.microsoft.com/blog/stop-skillmaxxing-save-your-tokens",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-06-10T18:00:15Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Skillmaxxing'i durdurun, jetonlarınızı kaydedin Teknolojiniz için bir düzine beceri geliştirdiniz: kimlik doğrulama, CRUD, hata işleme, dağıtım, test etme, izleme. Daha sonra teşhis, depolama, uyumluluk ve maliyet optimizasyonunu kapsayan 15 tane daha içeren bir bulut platformu paketi kurdunuz... Stop skillmaxxing, save your tokens You built a dozen skills for your technology: authentication, CRUD, error handling, deployment, testing, monitoring. Then you installed a cloud platform bundle with 15 more covering diagnostics, storage, compliance, and cost optimization... Microsoft Dev Cloud",
+      "title_original": "Stop skillmaxxing, save your tokens",
+      "summary_original": "You built a dozen skills for your technology: authentication, CRUD, error handling, deployment, testing, monitoring. Then you installed a cloud platform bundle with 15 more covering diagnostics, storage, compliance, and cost optimization...",
+      "published_display": "2026-06-10",
+      "id": "e8309842461e"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
       "title": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım",
-      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
+      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
       "url": "https://devblogs.microsoft.com/blog/spec-driven-development-ai-native-engineering",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
+      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
       "title_original": "Spec-Driven Development: A Spec-First Approach to AI-Native Engineering",
       "summary_original": "AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul...",
       "published_display": "2026-06-10",
@@ -112,24 +132,24 @@
       "id": "01b96a4e9ef5"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Universe geri döndü: Artık ajans çağında hep birlikte",
-      "summary": "GitHub Universe geri döndü: 28-29 Ekim 2026'da San Francisco'daki tarihi Fort Mason Center'a geri dönüyor. GitHub Universe yazısı geri döndü: Artık hep birlikte, ajans çağında ilk olarak GitHub Blog'da göründü.",
-      "url": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-04T16:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Makine öğrenmesini denetlemek için yeni çerçeve",
+      "summary": "Algoritmalar ve Teori",
+      "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/f-Divergence-hero.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-06-10T17:34:55Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Research",
+        "Google"
       ],
-      "keywords": "GitHub Universe geri döndü: Artık ajans çağında hep birlikte GitHub Universe geri döndü: 28-29 Ekim 2026'da San Francisco'daki tarihi Fort Mason Center'a geri dönüyor. GitHub Universe yazısı geri döndü: Artık hep birlikte, ajans çağında ilk olarak GitHub Blog'da göründü. GitHub Universe is back: All together now, in the agentic era GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub Universe is back: All together now, in the agentic era",
-      "summary_original": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog .",
-      "published_display": "2026-06-04",
-      "id": "c701125de3c5"
+      "keywords": "Makine öğrenmesini denetlemek için yeni çerçeve Algoritmalar ve Teori New framework for auditing machine unlearning Algorithms & Theory AI Research Google",
+      "title_original": "New framework for auditing machine unlearning",
+      "summary_original": "Algorithms & Theory",
+      "published_display": "2026-06-10",
+      "id": "8e19a657db6f"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
       "published_display": "2026-06-08",
       "id": "3c2c94821f21"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Herkesin yararına olacak şekilde tasarlandı: planımız",
-      "summary": "OpenAI, YGZ'nin herkese fayda sağlamasını sağlamak için çalışırken, erişime, güvenliğe ve ortak refaha odaklanan, yapay zekanın geleceğine yönelik bir vizyon.",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-08T01:30:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Herkesin yararına olacak şekilde tasarlandı: planımız OpenAI, YGZ'nin herkese fayda sağlamasını sağlamak için çalışırken, erişime, güvenliğe ve ortak refaha odaklanan, yapay zekanın geleceğine yönelik bir vizyon. Built to benefit everyone: our plan A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone. AI OpenAI Model",
-      "title_original": "Built to benefit everyone: our plan",
-      "summary_original": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "published_display": "2026-06-08",
-      "id": "90f26d1726cb"
     },
     {
       "category": "robotik",
@@ -535,7 +535,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,7 +545,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
