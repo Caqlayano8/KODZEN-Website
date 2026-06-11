@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-11T16:00:00Z",
+  "updated_at": "2026-06-11T17:54:29Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilciniz az önce 2020'den itibaren bir projenin iskelesini kurdu",
+      "summary": "Temsilciniz bir iskele komutunu çalıştırdı. Proje oluşturuldu, bağımlılıklar çözüldü, hata yok. Her şey yolunda görünüyor. Ancak 2020'deki proje yapısına dayanıyor ve ne siz ne de temsilci fark etti. Npx doğruyu ama yanlışı nasıl seçiyor?",
+      "url": "https://devblogs.microsoft.com/blog/your-agent-just-scaffolded-a-project-from-2020",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-06-11T17:54:29Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilciniz az önce 2020'den itibaren bir projenin iskelesini kurdu Temsilciniz bir iskele komutunu çalıştırdı. Proje oluşturuldu, bağımlılıklar çözüldü, hata yok. Her şey yolunda görünüyor. Ancak 2020'deki proje yapısına dayanıyor ve ne siz ne de temsilci fark etti. Npx doğruyu ama yanlışı nasıl seçiyor? Your agent just scaffolded a project from 2020 Your agent ran a scaffold command. Project generated, dependencies resolved, no errors. Everything looks fine. Except it’s based on the project structure from 2020, and neither you nor the agent noticed. How npx picks the right-but-wrong... Microsoft Dev Cloud",
+      "title_original": "Your agent just scaffolded a project from 2020",
+      "summary_original": "Your agent ran a scaffold command. Project generated, dependencies resolved, no errors. Everything looks fine. Except it’s based on the project structure from 2020, and neither you nor the agent noticed. How npx picks the right-but-wrong...",
+      "published_display": "2026-06-11",
+      "id": "4364ccdd701e"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "fd1b7a97883d"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Microsoft Build 2026 özeti: vizyon, lansmanlar ve önemli oturumlar",
-      "summary": "Microsoft geliştirici ekosistemindeki vizyon öncüsü, önemli geliştirici duyuruları ve mutlaka izlenmesi gereken oturumlarla Microsoft Build 2026'yı yakalayın. Microsoft Build 2026 gönderisinin özeti: vizyon, lansmanlar ve en iyi oturumlar yayınlandı...",
-      "url": "https://devblogs.microsoft.com/blog/build-recap",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-06-08T22:15:00Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Microsoft Build 2026 özeti: vizyon, lansmanlar ve önemli oturumlar Microsoft geliştirici ekosistemindeki vizyon öncüsü, önemli geliştirici duyuruları ve mutlaka izlenmesi gereken oturumlarla Microsoft Build 2026'yı yakalayın. Microsoft Build 2026 gönderisinin özeti: vizyon, lansmanlar ve en iyi oturumlar yayınlandı... Microsoft Build 2026 recap: vision, launches, and top sessions Catch up on Microsoft Build 2026 with the vision lead-off, top developer announcements, and must-watch sessions across the Microsoft developer ecosystem. The post Microsoft Build 2026 recap: vision, launches, and top sessions appeared fi... Microsoft Dev Cloud",
-      "title_original": "Microsoft Build 2026 recap: vision, launches, and top sessions",
-      "summary_original": "Catch up on Microsoft Build 2026 with the vision lead-off, top developer announcements, and must-watch sessions across the Microsoft developer ecosystem. The post Microsoft Build 2026 recap: vision, launches, and top sessions appeared fi...",
-      "published_display": "2026-06-08",
-      "id": "ffe8f8c614bd"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "OpenAI Ona'yı satın alıyor",
@@ -174,6 +174,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "BBVA, OpenAI ile yapay zekayı bankacılığın merkezine koyuyor",
+      "summary": "BBVA'nın ChatGPT Enterprise'ı nasıl 100.000 çalışana çıkardığını ve dünya çapında yapay zeka destekli bankacılık dönüşümünü hızlandırmak için OpenAI ile nasıl ortaklık kurduğunu öğrenin.",
+      "url": "https://openai.com/index/bbva",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-11T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "BBVA, OpenAI ile yapay zekayı bankacılığın merkezine koyuyor BBVA'nın ChatGPT Enterprise'ı nasıl 100.000 çalışana çıkardığını ve dünya çapında yapay zeka destekli bankacılık dönüşümünü hızlandırmak için OpenAI ile nasıl ortaklık kurduğunu öğrenin. BBVA puts AI at the core of banking with OpenAI Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide. AI OpenAI Model",
+      "title_original": "BBVA puts AI at the core of banking with OpenAI",
+      "summary_original": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "published_display": "2026-06-11",
+      "id": "77fa6acb3a54"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Bir astrofizikçi kara delikleri simüle etmeye yardımcı olmak için Codex'i nasıl kullanıyor?",
       "summary": "Astrofizikçi Chi-kwan Chan'ın kara delik simülasyonları oluşturmak için Codex'i nasıl kullandığını, bilim adamlarının ekstrem fizik çalışmalarına ve Einstein'ın genel görelilik teorisini test etmesine nasıl yardımcı olduğunu keşfedin.",
       "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -195,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Oracle bulut taahhüdünüz aracılığıyla OpenAI modellerine ve Codex'e erişin",
-      "summary": "Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak Oracle Bulut aracılığıyla OpenAI modellerine ve Codex'e erişin.",
+      "summary": "Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak OpenAI modellerine ve Codex'e Oracle Bulut aracılığıyla erişin.",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Oracle bulut taahhüdünüz aracılığıyla OpenAI modellerine ve Codex'e erişin Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak Oracle Bulut aracılığıyla OpenAI modellerine ve Codex'e erişin. Access OpenAI models and Codex through your Oracle cloud commitment Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance. AI OpenAI Model",
+      "keywords": "Oracle bulut taahhüdünüz aracılığıyla OpenAI modellerine ve Codex'e erişin Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak OpenAI modellerine ve Codex'e Oracle Bulut aracılığıyla erişin. Access OpenAI models and Codex through your Oracle cloud commitment Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance. AI OpenAI Model",
       "title_original": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "summary_original": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "published_display": "2026-06-10",
@@ -232,26 +252,6 @@
       "id": "8e19a657db6f"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "ÇHC bağlantılı etki operasyonları ABD'deki yapay zeka tartışmalarını hedef alıyor",
-      "summary": "OpenAI'nin yeni bir raporu, ABD'deki teknoloji tartışmalarını, veri merkezi anlatılarını, tarifeleri ve ChatGPT hakkındaki yanlış iddiaları hedef almak için yapay zeka kullanan ÇHC bağlantılı etki operasyonlarını ayrıntılarıyla anlatıyor.",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-10T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "ÇHC bağlantılı etki operasyonları ABD'deki yapay zeka tartışmalarını hedef alıyor OpenAI'nin yeni bir raporu, ABD'deki teknoloji tartışmalarını, veri merkezi anlatılarını, tarifeleri ve ChatGPT hakkındaki yanlış iddiaları hedef almak için yapay zeka kullanan ÇHC bağlantılı etki operasyonlarını ayrıntılarıyla anlatıyor. PRC-linked influence operations are targeting AI debates in the US A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT. AI OpenAI Model",
-      "title_original": "PRC-linked influence operations are targeting AI debates in the US",
-      "summary_original": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
-      "published_display": "2026-06-10",
-      "id": "c4dd96494988"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune",
@@ -275,7 +275,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri",
-      "summary": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık C Serisi rekorunu artırdı Robotik ve Otomasyon Haberleri",
+      "summary": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için C Serisi'ni 1,4 milyar dolarlık rekora yükseltti Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3J6SlFGZ3FpUkFtVW4xdmZwRjF3R0p5aUxRX1lDOGJQcmZrU1Etem4xY0RxS2dJTDd3RVFNUUJLQS02WmxaVXFWQnFBR3E5cXBoRTVSa2hBRXFOTUItTThRXzlkUVBxdzNtR3MxTFlJTFY5T1M4endfOFkydEp3SmlGS1p5MFVZZTBsemJkYmYwQnR2VXdXU3JheXJzUkJxUnNHWEx5QjB5em1xZ05KcGFwdTFYdEtIR29zMC1yUFlkVC1pS0hhcmN1VWs1ajlHcW5TMkRsZnpzdnZo?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık C Serisi rekorunu artırdı Robotik ve Otomasyon Haberleri Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için C Serisi'ni 1,4 milyar dolarlık rekora yükseltti Robotik ve Otomasyon Haberleri Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News Robotics Automation Industry",
       "title_original": "Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News",
       "summary_original": "Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News",
       "published_display": "2026-06-10",
@@ -435,7 +435,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Naxclow IoT Platformu",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın cihazların kimliğine bürünmesine, iletişimleri ele geçirmesine veya manipüle etmesine, hassas kimlik bilgilerini geniş ölçekte toplamasına veya yetkisiz erişim elde etmesine olanak sağlayabilir. Aşağıdaki...",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın cihazların kimliğine bürünmesine, iletişimleri ele geçirmesine veya manipüle etmesine, hassas kimlik bilgilerini geniş ölçekte toplamasına veya yetkisiz erişim elde etmesine olanak verebilir. Aşağıdaki...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -445,7 +445,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Naxclow IoT Platformu CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın cihazların kimliğine bürünmesine, iletişimleri ele geçirmesine veya manipüle etmesine, hassas kimlik bilgilerini geniş ölçekte toplamasına veya yetkisiz erişim elde etmesine olanak sağlayabilir. Aşağıdaki... Naxclow IoT Platform View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials at scale, or gain unauthorized access. The following... CISA Advisory Threat",
+      "keywords": "Naxclow IoT Platformu CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın cihazların kimliğine bürünmesine, iletişimleri ele geçirmesine veya manipüle etmesine, hassas kimlik bilgilerini geniş ölçekte toplamasına veya yetkisiz erişim elde etmesine olanak verebilir. Aşağıdaki... Naxclow IoT Platform View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials at scale, or gain unauthorized access. The following... CISA Advisory Threat",
       "title_original": "Naxclow IoT Platform",
       "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials at scale, or gain unauthorized access. The following...",
       "published_display": "2026-06-11",
@@ -455,7 +455,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Brickcom Kameralar",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarının başarılı bir şekilde kullanılması, kimliği doğrulanmamış uzak bir saldırganın canlı video yayınlarına yetkisiz erişim sağlamasına, etkilenen tesislerden hassas görsel bilgileri almasına ve reklamları ele geçirmesine olanak tanıyabilir.",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarının başarılı bir şekilde kullanılması, kimliği doğrulanmamış uzaktaki bir saldırganın canlı video yayınlarına yetkisiz erişim sağlamasına, etkilenen tesislerden hassas görsel bilgileri almasına ve reklamları ele geçirmesine olanak tanıyabilir.",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-03",
       "image_url": null,
       "source": "CISA Advisories",
@@ -465,7 +465,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Brickcom Kameralar CSAF Özetini Görüntüleyin Bu güvenlik açıklarının başarılı bir şekilde kullanılması, kimliği doğrulanmamış uzak bir saldırganın canlı video yayınlarına yetkisiz erişim sağlamasına, etkilenen tesislerden hassas görsel bilgileri almasına ve reklamları ele geçirmesine olanak tanıyabilir. Brickcom Cameras View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote unauthenticated attacker to gain unauthorized access to live video feeds, retrieve sensitive visual information from affected premises, and obtain ad... CISA Advisory Threat",
+      "keywords": "Brickcom Kameralar CSAF Özetini Görüntüleyin Bu güvenlik açıklarının başarılı bir şekilde kullanılması, kimliği doğrulanmamış uzaktaki bir saldırganın canlı video yayınlarına yetkisiz erişim sağlamasına, etkilenen tesislerden hassas görsel bilgileri almasına ve reklamları ele geçirmesine olanak tanıyabilir. Brickcom Cameras View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote unauthenticated attacker to gain unauthorized access to live video feeds, retrieve sensitive visual information from affected premises, and obtain ad... CISA Advisory Threat",
       "title_original": "Brickcom Cameras",
       "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote unauthenticated attacker to gain unauthorized access to live video feeds, retrieve sensitive visual information from affected premises, and obtain ad...",
       "published_display": "2026-06-11",
@@ -475,7 +475,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens KACO Blueplanet İnvertörler",
-      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,...",
+      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından elde etmesine ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek birden fazla güvenlik açığı içerir. KACO New Energy GmbH,...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -485,7 +485,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
+      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından elde etmesine ve yetkisiz erişim elde etmek için bunları kötüye kullanmasına olanak verebilecek birden fazla güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
       "title_original": "Siemens KACO Blueplanet Inverters",
       "summary_original": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele...",
       "published_display": "2026-06-09",
@@ -534,8 +534,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,17 +545,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
+      "id": "015a81ebc793"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
@@ -615,7 +615,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
-      "summary": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
+      "summary": "Dahua'daki Kritik Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,7 +625,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News IP Camera Video Surveillance",
+      "keywords": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri Dahua'daki Kritik Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News IP Camera Video Surveillance",
       "title_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News",
       "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
       "published_display": "2025-07-30",
