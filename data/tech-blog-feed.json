@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-11T20:00:00Z",
+  "updated_at": "2026-06-11T21:30:15Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub kullanılabilirlik raporu: Mayıs 2026",
+      "summary": "Mayıs ayında GitHub hizmetlerinde performansın düşmesine neden olan dokuz olay yaşadık. GitHub kullanılabilirlik raporu: Mayıs 2026 ilk olarak The GitHub Blog'da yayınlandı.",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-11T21:30:15Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub kullanılabilirlik raporu: Mayıs 2026 Mayıs ayında GitHub hizmetlerinde performansın düşmesine neden olan dokuz olay yaşadık. GitHub kullanılabilirlik raporu: Mayıs 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: May 2026 In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub availability report: May 2026",
+      "summary_original": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog .",
+      "published_display": "2026-06-11",
+      "id": "1f6e4b63704c"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma",
-      "summary": "Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getiriyor: Yanlış pozitifleri büyük ölçekte azaltmak, ortaya çıktı...",
+      "summary": "Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri büyük ölçekte azaltmanın...",
       "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getiriyor: Yanlış pozitifleri büyük ölçekte azaltmak, ortaya çıktı... Making secret scanning more trustworthy: Reducing false positives at scale Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi... GitHub Dev Platform",
+      "keywords": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri büyük ölçekte azaltmanın... Making secret scanning more trustworthy: Reducing false positives at scale Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi... GitHub Dev Platform",
       "title_original": "Making secret scanning more trustworthy: Reducing false positives at scale",
       "summary_original": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi...",
       "published_display": "2026-06-11",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım",
-      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
+      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
       "url": "https://devblogs.microsoft.com/blog/spec-driven-development-ai-native-engineering",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
+      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
       "title_original": "Spec-Driven Development: A Spec-First Approach to AI-Native Engineering",
       "summary_original": "AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul...",
       "published_display": "2026-06-10",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın",
-      "summary": "GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın; kaba kuvvet grep/derlemeyi gerçek kod zekasıyla değiştirin. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,31 +125,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın; kaba kuvvet grep/derlemeyi gerçek kod zekasıyla değiştirin. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Give GitHub Copilot CLI real code intelligence with language servers",
       "summary_original": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog .",
       "published_display": "2026-06-10",
       "id": "aa0b1b19f212"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Tek seferlik istemlerden iş akışlarına: GitHub Copilot CLI'de özel aracılar nasıl kullanılır?",
-      "summary": "Özel aracılar, GitHub Copilot CLI'nin yığınınızı ve ekip iş akışlarınızı anlamasına olanak tanıyarak tek seferlik terminal istemlerini tekrarlanabilir, incelenebilir süreçlere dönüştürür. Gönderi Tek seferlik istemlerden iş akışlarına: GitHub Copilot'ta özel aracılar nasıl kullanılır...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-09T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Tek seferlik istemlerden iş akışlarına: GitHub Copilot CLI'de özel aracılar nasıl kullanılır? Özel aracılar, GitHub Copilot CLI'nin yığınınızı ve ekip iş akışlarınızı anlamasına olanak tanıyarak tek seferlik terminal istemlerini tekrarlanabilir, incelenebilir süreçlere dönüştürür. Gönderi Tek seferlik istemlerden iş akışlarına: GitHub Copilot'ta özel aracılar nasıl kullanılır... From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot... GitHub Dev Platform",
-      "title_original": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
-      "summary_original": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot...",
-      "published_display": "2026-06-09",
-      "id": "fd1b7a97883d"
     },
     {
       "category": "ai",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Oracle bulut taahhüdünüz aracılığıyla OpenAI modellerine ve Codex'e erişin",
-      "summary": "Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak Oracle Bulut aracılığıyla OpenAI modellerine ve Codex'e erişin.",
+      "summary": "Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak OpenAI modellerine ve Codex'e Oracle Bulut aracılığıyla erişin.",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,7 +245,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Oracle bulut taahhüdünüz aracılığıyla OpenAI modellerine ve Codex'e erişin Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak Oracle Bulut aracılığıyla OpenAI modellerine ve Codex'e erişin. Access OpenAI models and Codex through your Oracle cloud commitment Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance. AI OpenAI Model",
+      "keywords": "Oracle bulut taahhüdünüz aracılığıyla OpenAI modellerine ve Codex'e erişin Yapay zekayı kurumsal güvenlik ve yönetişimle oluşturmak ve dağıtmak için mevcut taahhütleri kullanarak OpenAI modellerine ve Codex'e Oracle Bulut aracılığıyla erişin. Access OpenAI models and Codex through your Oracle cloud commitment Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance. AI OpenAI Model",
       "title_original": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "summary_original": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "published_display": "2026-06-10",
@@ -295,7 +295,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri",
-      "summary": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık C Serisi rekorunu artırdı Robotik ve Otomasyon Haberleri",
+      "summary": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için C Serisi'ni 1,4 milyar dolarlık rekora yükseltti Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3J6SlFGZ3FpUkFtVW4xdmZwRjF3R0p5aUxRX1lDOGJQcmZrU1Etem4xY0RxS2dJTDd3RVFNUUJLQS02WmxaVXFWQnFBR3E5cXBoRTVSa2hBRXFOTUItTThRXzlkUVBxdzNtR3MxTFlJTFY5T1M4endfOFkydEp3SmlGS1p5MFVZZTBsemJkYmYwQnR2VXdXU3JheXJzUkJxUnNHWEx5QjB5em1xZ05KcGFwdTFYdEtIR29zMC1yUFlkVC1pS0hhcmN1VWs1ajlHcW5TMkRsZnpzdnZo?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,7 +305,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık C Serisi rekorunu artırdı Robotik ve Otomasyon Haberleri Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için C Serisi'ni 1,4 milyar dolarlık rekora yükseltti Robotik ve Otomasyon Haberleri Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News Robotics Automation Industry",
       "title_original": "Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News",
       "summary_original": "Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News",
       "published_display": "2026-06-10",
@@ -335,7 +335,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri",
-      "summary": "Mesoware, Robotik ve Otomasyon üretimi için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı",
+      "summary": "Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmpTQXRFS0dxMEJ1UHVVQUQzYnB1dUN6STJ5MnZLM3VfUW5hV255eXkyR3UzZGgzRkZhbkFNR1dFUGhiaUctajIyYmNQOW1WaXdIOFB0cmh4R1ZTN0tfcHp0WV9iLWhIajZVRUpDUUVmeEJORURFVTJUVTRiZDVGSjh6dWpobjZmb25Eak1IbW5ncG9xRExZTkRqNWtRSkdOb2NmTVhvMWRCS0FxU3h1QVN1cHJWUFozMW5lQXRZZ0pyVVByS1p0Y0t3dUZheEJZVFF3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,7 +345,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimi için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
       "title_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News",
       "summary_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News",
       "published_display": "2026-06-09",
@@ -534,8 +534,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,17 +545,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
+      "id": "015a81ebc793"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,7 +565,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
