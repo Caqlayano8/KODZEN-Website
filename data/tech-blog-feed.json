@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-12T10:16:19Z",
+  "updated_at": "2026-06-12T17:37:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın",
-      "summary": "Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın; kaba kuvvet grep/derlemeyi gerçek kod zekasıyla değiştirin. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,71 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın Kaba kuvvet grep/derlemesini gerçek kod zekasıyla değiştirerek GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Dil sunucularıyla GitHub Copilot CLI'ya gerçek kod zekası kazandırın GitHub Copilot CLI için LSP sunucularını kurun ve yapılandırın; kaba kuvvet grep/derlemeyi gerçek kod zekasıyla değiştirin. GitHub Copilot CLI'ye dil sunucularıyla gerçek kod zekası verin yazısı ilk olarak GitHub Blogunda göründü. Give GitHub Copilot CLI real code intelligence with language servers Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Give GitHub Copilot CLI real code intelligence with language servers",
       "summary_original": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog .",
       "published_display": "2026-06-10",
       "id": "aa0b1b19f212"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Kullanımdan kaldırılan telefonlarınızdan düşük karbonlu bilgi işlem platformu",
+      "summary": "İklim ve Sürdürülebilirlik",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhoneClusterComputing2_Animation.gif",
+      "source": "Google Research Blog",
+      "published_at": "2026-06-12T17:37:00Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "Kullanımdan kaldırılan telefonlarınızdan düşük karbonlu bilgi işlem platformu İklim ve Sürdürülebilirlik A low-carbon computing platform from your retired phones Climate & Sustainability AI Research Google",
+      "title_original": "A low-carbon computing platform from your retired phones",
+      "summary_original": "Climate & Sustainability",
+      "published_display": "2026-06-12",
+      "id": "700a6ade3579"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Çalışmanın bir sonraki dönemi için yeni OpenAI Academy kursları",
+      "summary": "OpenAI, insanların pratik AI becerileri geliştirmelerine, tekrarlanabilir iş akışları oluşturmalarına ve aracıları günlük işlerinde uygulamalarına yardımcı olan üç Akademi kursu sunuyor.",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-12T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Çalışmanın bir sonraki dönemi için yeni OpenAI Academy kursları OpenAI, insanların pratik AI becerileri geliştirmelerine, tekrarlanabilir iş akışları oluşturmalarına ve aracıları günlük işlerinde uygulamalarına yardımcı olan üç Akademi kursu sunuyor. New OpenAI Academy courses for the next era of work OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work. AI OpenAI Model",
+      "title_original": "New OpenAI Academy courses for the next era of work",
+      "summary_original": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "published_display": "2026-06-12",
+      "id": "99b9cec880b2"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Yapay zekanın kullanıcıların cilt koşullarını anlamalarına nasıl yardımcı olabileceğine dair araştırma",
+      "summary": "Sağlık ve Biyoloji",
+      "url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DermAI_Hero.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-06-12T00:00:00Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "Yapay zekanın kullanıcıların cilt koşullarını anlamalarına nasıl yardımcı olabileceğine dair araştırma Sağlık ve Biyoloji Research into how AI can help users understand skin conditions Health & Bioscience AI Research Google",
+      "title_original": "Research into how AI can help users understand skin conditions",
+      "summary_original": "Health & Bioscience",
+      "published_display": "2026-06-12",
+      "id": "70b24be9f06e"
     },
     {
       "category": "ai",
@@ -190,86 +250,6 @@
       "summary_original": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "published_display": "2026-06-11",
       "id": "b366e7d4d90d"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Güvenilir bir yapay zeka ekosistemi sağlama konusunda Avrupa'nın çalışmalarını desteklemek",
-      "summary": "OpenAI, yapay zeka içeriği şeffaflığına ilişkin AB Uygulama Kurallarını, gelişmiş kaynak standartlarını ve insanların yapay zeka tarafından oluşturulan içeriği anlamalarına yardımcı olacak araçları destekler.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-11T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Güvenilir bir yapay zeka ekosistemi sağlama konusunda Avrupa'nın çalışmalarını desteklemek OpenAI, yapay zeka içeriği şeffaflığına ilişkin AB Uygulama Kurallarını, gelişmiş kaynak standartlarını ve insanların yapay zeka tarafından oluşturulan içeriği anlamalarına yardımcı olacak araçları destekler. Supporting Europe’s work in ensuring a trustworthy AI ecosystem OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content. AI OpenAI Model",
-      "title_original": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary_original": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "published_display": "2026-06-11",
-      "id": "474e4fd5fb3f"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "BBVA, OpenAI ile yapay zekayı bankacılığın merkezine koyuyor",
-      "summary": "BBVA'nın ChatGPT Enterprise'ı nasıl 100.000 çalışana çıkardığını ve dünya çapında yapay zeka destekli bankacılık dönüşümünü hızlandırmak için OpenAI ile nasıl ortaklık kurduğunu öğrenin.",
-      "url": "https://openai.com/index/bbva",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-11T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "BBVA, OpenAI ile yapay zekayı bankacılığın merkezine koyuyor BBVA'nın ChatGPT Enterprise'ı nasıl 100.000 çalışana çıkardığını ve dünya çapında yapay zeka destekli bankacılık dönüşümünü hızlandırmak için OpenAI ile nasıl ortaklık kurduğunu öğrenin. BBVA puts AI at the core of banking with OpenAI Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide. AI OpenAI Model",
-      "title_original": "BBVA puts AI at the core of banking with OpenAI",
-      "summary_original": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "published_display": "2026-06-11",
-      "id": "77fa6acb3a54"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Bir astrofizikçi kara delikleri simüle etmeye yardımcı olmak için Codex'i nasıl kullanıyor?",
-      "summary": "Astrofizikçi Chi-kwan Chan'ın kara delik simülasyonları oluşturmak için Codex'i nasıl kullandığını, bilim adamlarının ekstrem fizik çalışmalarına ve Einstein'ın genel görelilik teorisini test etmesine nasıl yardımcı olduğunu keşfedin.",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-11T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Bir astrofizikçi kara delikleri simüle etmeye yardımcı olmak için Codex'i nasıl kullanıyor? Astrofizikçi Chi-kwan Chan'ın kara delik simülasyonları oluşturmak için Codex'i nasıl kullandığını, bilim adamlarının ekstrem fizik çalışmalarına ve Einstein'ın genel görelilik teorisini test etmesine nasıl yardımcı olduğunu keşfedin. How an astrophysicist uses Codex to help simulate black holes Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity. AI OpenAI Model",
-      "title_original": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary_original": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "published_display": "2026-06-11",
-      "id": "2e443d45e1fa"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Dünya Robot Son Etkileyicileri - Piyasa Analizi, Tahmin, Boyut, Trendler ve İçgörüler - IndexBox",
-      "summary": "Dünya Robot Uç Efektörleri - Piyasa Analizi, Tahmin, Boyut, Trendler ve İçgörüler IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYjJJa1k3UkdPSTVIcndIOTVEbHNTRUI1RDB1ZXhOdy1OMG1BOUh6OW1feDJoOE1ydkhpUkt2Q0RDQm5GeUtjNThFal9VeTdvTUJmYTFydmhTUzVJMHFrMDl0eHpqb1lRYVpiekdpNDlMNzRPSTNpODluUnhjZzJRcHZmckExSi1mV214UXhYZGQ5a1JKUGtYYjFDZGt1cHVCSVJPZm1jLTZ6TGh3RHlGY3Z6WlNCemxjVHY3SVJRQTVPNUtYbWRUWU1YTWsxbnJ4ODNObmM3YTR4Zw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-12T10:16:19Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Dünya Robot Son Etkileyicileri - Piyasa Analizi, Tahmin, Boyut, Trendler ve İçgörüler - IndexBox Dünya Robot Uç Efektörleri - Piyasa Analizi, Tahmin, Boyut, Trendler ve İçgörüler IndexBox World Robot End Effectors - Market Analysis, Forecast, Size, Trends and Insights - IndexBox World Robot End Effectors - Market Analysis, Forecast, Size, Trends and Insights IndexBox Robotics Automation Industry",
-      "title_original": "World Robot End Effectors - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-      "summary_original": "World Robot End Effectors - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
-      "published_display": "2026-06-12",
-      "id": "b3a25a1c138c"
     },
     {
       "category": "robotik",
@@ -370,6 +350,26 @@
       "summary_original": "Bigwave Robotics to Participate in North America's Largest Automation Exhibition 'Automate 2026' 아시아경제",
       "published_display": "2026-06-09",
       "id": "50f665bb4859"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri",
+      "summary": "Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmpTQXRFS0dxMEJ1UHVVQUQzYnB1dUN6STJ5MnZLM3VfUW5hV255eXkyR3UzZGgzRkZhbkFNR1dFUGhiaUctajIyYmNQOW1WaXdIOFB0cmh4R1ZTN0tfcHp0WV9iLWhIajZVRUpDUUVmeEJORURFVTJUVTRiZDVGSjh6dWpobjZmb25Eak1IbW5ncG9xRExZTkRqNWtRSkdOb2NmTVhvMWRCS0FxU3h1QVN1cHJWUFozMW5lQXRZZ0pyVVByS1p0Y0t3dUZheEJZVFF3?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-09T16:27:53Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News",
+      "summary_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News",
+      "published_display": "2026-06-09",
+      "id": "a122555f142b"
     },
     {
       "category": "web",
@@ -574,6 +574,46 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com",
+      "summary": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-22T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "published_display": "2026-01-22",
+      "id": "50e5e9d0bb44"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "HikvisionExploiter – Hikvision IP Kameralarını Hedefleyen Otomatik Bir Suistimal Araç Seti - CyberSecurityNews",
+      "summary": "HikvisionExploiter – Hikvision IP Kameralarını Hedefleyen Otomatik Bir Suistimal Araç Seti CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43aXVZOGw0QTFmWEVuOTQ2WXZtZDVGWWZxUXc3SjZIMmZveTY0aWFUOF9zYzJrR2ZsQkhid2VSZW5leTYzS1dXVVJ6ZTg3NDU5cU9TTFE0TGpEVFJhTlRVQTh0YW84NjZhR3ExWGJ3a2haTGJmSGdUNV9R?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-10-29T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "HikvisionExploiter – Hikvision IP Kameralarını Hedefleyen Otomatik Bir Suistimal Araç Seti - CyberSecurityNews HikvisionExploiter – Hikvision IP Kameralarını Hedefleyen Otomatik Bir Suistimal Araç Seti CyberSecurityNews HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras - CyberSecurityNews HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras - CyberSecurityNews",
+      "summary_original": "HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras CyberSecurityNews",
+      "published_display": "2025-10-29",
+      "id": "1507d39095d1"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya",
       "summary": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXlPaHpnQURjclQ0QWtmRm1tams0WnJFeE96cGM0SDhfUndLSTBjX256ejFFa3NwMEtiQlhXaVVxNXRBSHNzZDJFeVVMbHB5V2N4bndvb1BOYWx4Q0VYWTIzY0psdlduMWh0b3dPQ3ZVS0pONXFFbkdaU2lIaUNvV2N2TDBQeHRGUTJ0ZUNCTnJSUXVlN3ZXNHRTZ1A?oc=5",
@@ -610,46 +650,6 @@
       "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
       "published_display": "2025-08-08",
       "id": "009e6db74527"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı",
-      "summary": "Axis video güvenlik kameralarında Tesis Dalışında bulunan güvenlik açığı",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVJNSWpKbXdIalVuM3oxbzJQMEN3QXlQWlZNblhtb0IyVk1ONnhGd1dYa0swYXpyYy1OOHJlTGtnT2pETmE3ZWE1d0pEb0tOWkQxSE9GSU8xbmNtSVhQa1BRQzZLN2NKYkJrYnZyTUdJNXI2T1VmMFhpeGZ0WHRueURwVTNVTVRKZ3NsaFpQWE1MelNBNGNDczdETVhYN0U?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-07T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı Axis video güvenlik kameralarında Tesis Dalışında bulunan güvenlik açığı Vulnerability found in Axis video surveillance cameras - Facilities Dive Vulnerability found in Axis video surveillance cameras Facilities Dive IP Camera Video Surveillance",
-      "title_original": "Vulnerability found in Axis video surveillance cameras - Facilities Dive",
-      "summary_original": "Vulnerability found in Axis video surveillance cameras Facilities Dive",
-      "published_display": "2025-08-07",
-      "id": "b893ec3fb24e"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
-      "summary": "Dahua'daki Kritik Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-07-30T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri Dahua'daki Kritik Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News IP Camera Video Surveillance",
-      "title_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits - The Hacker News",
-      "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
-      "published_display": "2025-07-30",
-      "id": "cc6031567108"
     }
   ]
 }
