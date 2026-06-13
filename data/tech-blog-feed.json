@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "updated_at": "2026-06-12T22:26:23Z",
-  "total_posts": 32,
+  "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 6,
+    "robotik": 5,
     "web": 2,
     "siber": 6,
     "kamera": 6
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma",
-      "summary": "Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri büyük ölçekte azaltmanın...",
+      "summary": "Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getiriyor: Yanlış pozitifleri büyük ölçekte azaltmak, ortaya çıktı...",
       "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri büyük ölçekte azaltmanın... Making secret scanning more trustworthy: Reducing false positives at scale Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi... GitHub Dev Platform",
+      "keywords": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getiriyor: Yanlış pozitifleri büyük ölçekte azaltmak, ortaya çıktı... Making secret scanning more trustworthy: Reducing false positives at scale Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi... GitHub Dev Platform",
       "title_original": "Making secret scanning more trustworthy: Reducing false positives at scale",
       "summary_original": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi...",
       "published_display": "2026-06-11",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Preply, öğrenmeyi kişiselleştirmek için yapay zeka ve insan eğitmenleri nasıl birleştirir?",
-      "summary": "Preply, yapay zeka tarafından oluşturulan ders özetlerini başlatmak için OpenAI'yi kullanarak kişiselleştirilmiş geri bildirim ve dil öğrenme alıştırmaları sağlıyor.",
+      "summary": "Preply, kişiselleştirilmiş geri bildirim ve dil öğrenme egzersizleri sağlayarak yapay zeka tarafından oluşturulan ders özetlerini başlatmak için OpenAI'yi kullanıyor.",
       "url": "https://openai.com/index/preply",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Preply, öğrenmeyi kişiselleştirmek için yapay zeka ve insan eğitmenleri nasıl birleştirir? Preply, yapay zeka tarafından oluşturulan ders özetlerini başlatmak için OpenAI'yi kullanarak kişiselleştirilmiş geri bildirim ve dil öğrenme alıştırmaları sağlıyor. How Preply combines AI and human tutors to personalize learning Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises. AI OpenAI Model",
+      "keywords": "Preply, öğrenmeyi kişiselleştirmek için yapay zeka ve insan eğitmenleri nasıl birleştirir? Preply, kişiselleştirilmiş geri bildirim ve dil öğrenme egzersizleri sağlayarak yapay zeka tarafından oluşturulan ders özetlerini başlatmak için OpenAI'yi kullanıyor. How Preply combines AI and human tutors to personalize learning Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises. AI OpenAI Model",
       "title_original": "How Preply combines AI and human tutors to personalize learning",
       "summary_original": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "published_display": "2026-06-12",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Mutfak Robotiği ve Otomasyonu Pazar Araştırması, Sektör Talebinin Nasıl Geliştiğini Vurguluyor - openPR.com",
+      "summary": "Mutfak Robotiği ve Otomasyonu Pazar Araştırması, Sektör Talebinin Nasıl Geliştiğini Vurguluyor openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSFFrdDhLYVMwZFFsRW5XdGY5MDN4c2hPMzExbDNpMEN5MTN6alhld25Kb2Utb1BjLUNybmpHaVI0N290N1Bkd1VFRFpkdE1aQko5MjRYVHpJRVB2TVNNNnVrMFBhNlNfbXI3czNtUU5KLWtMMThnYjduZDBmdlIxLW15dnlOV0t2Z3N0MHYzYzlvR3EzX3V5c3BZWQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-12T09:27:28Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Mutfak Robotiği ve Otomasyonu Pazar Araştırması, Sektör Talebinin Nasıl Geliştiğini Vurguluyor - openPR.com Mutfak Robotiği ve Otomasyonu Pazar Araştırması, Sektör Talebinin Nasıl Geliştiğini Vurguluyor openPR.com Kitchen Robotics And Automation Market Study Highlights How Industry Demand Is Evolving - openPR.com Kitchen Robotics And Automation Market Study Highlights How Industry Demand Is Evolving openPR.com Robotics Automation Industry",
+      "title_original": "Kitchen Robotics And Automation Market Study Highlights How Industry Demand Is Evolving - openPR.com",
+      "summary_original": "Kitchen Robotics And Automation Market Study Highlights How Industry Demand Is Evolving openPR.com",
+      "published_display": "2026-06-12",
+      "id": "6886aec2c760"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Aurotek, insansı olmayan talepteki artış nedeniyle robot ve otomasyonun ayak izini genişletiyor - digitimes",
       "summary": "Aurotek, insansı olmayan talebin dijital olarak artması nedeniyle robot ve otomasyon ayak izini genişletiyor",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUZSbHU4NVphQTVBOUpTZWNsZXd5MkE5WG4zXzRFWHlPWGx3bXlsUmlaeDZfbHVSS1VKeW5uZDBtS2xzREdudHFicFJIQ0Q3UVBPT0E3dk1VdWV1ZEwtZi1pelpVN0FpM2FyWHFWb3MzX1VIV1plZ0dKMC1BekV3RkhtbHZiNnYwTVU0ZHlwR1c?oc=5",
@@ -270,26 +290,6 @@
       "summary_original": "Aurotek expands robot and automation footprint as non-humanoid demand surges digitimes",
       "published_display": "2026-06-12",
       "id": "5ef974f37ff9"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune",
-      "summary": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York'ta halka arzın yolunu görüyor Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWpTYlNaUDA0Y1ZscnBmbFNIOW1LZWF3d2hqaXp0WDQ4RmxVemFPeWhWX084dFBMNmc0SFg0VThkMVJOMG5KTU81N05tNWVxT19tWk1HbVk3RVgtd1JNT2RoVnhDUkt3VGJFVklVSWRjZ0tPcE1sbUdGMC1CeTRsWkxDLVpCbkR6RTJVNnYwNzhZWEN3MVl1VElIQmR0YkVEZ2FRcldsRHlnNHVkbmJVdEZRY1pIU0djbVUtNDNsN1NCbXRWRVdFM2hQZVpRTWVMMkE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-11T00:35:24Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York'ta halka arzın yolunu görüyor Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune Robotics Automation Industry",
-      "title_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune",
-      "summary_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune",
-      "published_display": "2026-06-11",
-      "id": "839f088a2b14"
     },
     {
       "category": "robotik",
@@ -314,62 +314,42 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Bigwave Robotics, Kuzey Amerika'nın En Büyük Otomasyon Fuarı 'Automate 2026'ya Katılacak - 아시아경제",
-      "summary": "Bigwave Robotics, Kuzey Amerika'nın En Büyük Otomasyon Fuarı 'Automate 2026'ya Katılacak",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tV0NzRkNuMUctS0FBZnN6RGRYV1F4X243Y1BqS1JVdmU1NGJiQzhDTlRZd3haTm1MMjlXbmRmTEk1XzJkbEs1N1JWUFE0ajBFdnMzMFk3TUlGa1lxZ3hUdDNTZkNMUndwekFHd254NmU0cFZ6MFZDb3h5OA?oc=5",
+      "title": "İşgücü sıkıntısı inşaat sektörünü yeniden şekillendirirken L&T robotlara ve otomasyona yöneliyor - Storyboard18",
+      "summary": "İşgücü sıkıntısı inşaat sektörünü yeniden şekillendirirken L&T robotlara ve otomasyona yöneliyor Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3U0S29MS1U2cV81UllXN3JQTUNWa25VWHA1ZElyRnM2bks2UkI0N19nWUw5XzA3bFF3OTc0V29HUW1aWDlaQWQ0NnBkbnhmLVZXdldaTkhZaW9TVGc2dDFESFdDVmlXREYtelhkTFFzeDUxM3NIY191LXdWUkoySXJ6TmpTME10cTh6cERFZl9xbTRYWGJVc0hORjVzVGt5T1JvV1A5aG5rR0hpa2ZFdFl0N0NoMHlDb0VFTUMzX1JYcjM4aDEtQUZ2SdIB0AFBVV95cUxQNnRjWjJuSWZFZzdGQjBRZXFiV3RFM0ZuQ010RWNHa1JCaW5EVW9BMm5hQVR2MzQ0UU1FQ3FyRkhrUlFlM1hHUE5pN1dPdDZiYmgwMFBZaFEyWHlFOFZEeE1WTU8xVi1HdUFNUnhmc21PUXdBc3NkLUgwejdodzZrWUtob3p1QkpQY1RfTmQ4VEg3bl90aF9nc0lKVXZMUkJNYmltaWVreWJrU1QxYloxbG9TX3Z1UTZUZ2szVWNGck10cHZuR1hWZlplaWt5VGRO?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-09T23:45:37Z",
+      "published_at": "2026-06-10T09:35:54Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Bigwave Robotics, Kuzey Amerika'nın En Büyük Otomasyon Fuarı 'Automate 2026'ya Katılacak - 아시아경제 Bigwave Robotics, Kuzey Amerika'nın En Büyük Otomasyon Fuarı 'Automate 2026'ya Katılacak Bigwave Robotics to Participate in North America's Largest Automation Exhibition 'Automate 2026' - 아시아경제 Bigwave Robotics to Participate in North America's Largest Automation Exhibition 'Automate 2026' 아시아경제 Robotics Automation Industry",
-      "title_original": "Bigwave Robotics to Participate in North America's Largest Automation Exhibition 'Automate 2026' - 아시아경제",
-      "summary_original": "Bigwave Robotics to Participate in North America's Largest Automation Exhibition 'Automate 2026' 아시아경제",
-      "published_display": "2026-06-09",
-      "id": "50f665bb4859"
+      "keywords": "İşgücü sıkıntısı inşaat sektörünü yeniden şekillendirirken L&T robotlara ve otomasyona yöneliyor - Storyboard18 İşgücü sıkıntısı inşaat sektörünü yeniden şekillendirirken L&T robotlara ve otomasyona yöneliyor Storyboard18 L&T turns to robots and automation as labour shortages reshape construction industry - Storyboard18 L&T turns to robots and automation as labour shortages reshape construction industry Storyboard18 Robotics Automation Industry",
+      "title_original": "L&T turns to robots and automation as labour shortages reshape construction industry - Storyboard18",
+      "summary_original": "L&T turns to robots and automation as labour shortages reshape construction industry Storyboard18",
+      "published_display": "2026-06-10",
+      "id": "bf4f41df054d"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri",
-      "summary": "Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmpTQXRFS0dxMEJ1UHVVQUQzYnB1dUN6STJ5MnZLM3VfUW5hV255eXkyR3UzZGgzRkZhbkFNR1dFUGhiaUctajIyYmNQOW1WaXdIOFB0cmh4R1ZTN0tfcHp0WV9iLWhIajZVRUpDUUVmeEJORURFVTJUVTRiZDVGSjh6dWpobjZmb25Eak1IbW5ncG9xRExZTkRqNWtRSkdOb2NmTVhvMWRCS0FxU3h1QVN1cHJWUFozMW5lQXRZZ0pyVVByS1p0Y0t3dUZheEJZVFF3?oc=5",
+      "title": "Endüstriyel Otomasyon Pazarı, OEM'lerin Akıllı Fabrika Yatırımlarını Hızlandırmasıyla Otomotiv Üretimini Yeniden Şekillendiriyor - industrialtoday.co.uk",
+      "summary": "Endüstriyel Otomasyon Pazarı, OEM'lerin Akıllı Fabrika Yatırımlarını Hızlandırmasıyla Otomotiv Üretimini Yeniden Şekillendiriyor Industrytoday.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZld1eHVOaEJWdUlkTVY1M2ppT2dmajNYTkpCMXVjR21fX3hJYzdxYzRuWTgwRzc4ZWxlZElIQ3BZQ201RzFjWTY1RVkzODEwZUdZQTVhandLOW56SHNndFA3anFUamNLWWU1dUZsem9pTTVzRGlpNGVkWW1HcW1rZk02bDVIcDQ3dU1PdkZPWXpHd1dFOW1tWUlVRjZva3hDTFZ5b2RtZE40U2plLTdkNTBEa21EZEp1eWhtM3VIU1R4aTlQeU1jNHAtLVRUd3phRFYzZFJ4YzNmdWlsX0ow?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-09T16:27:53Z",
+      "published_at": "2026-06-10T07:22:33Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News",
-      "summary_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News",
-      "published_display": "2026-06-09",
-      "id": "a122555f142b"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması - Yahoo Finance",
-      "summary": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa21mQzJGc01JbjBlajdXeFN4QnBpQTktS0hmbjFBREhSZGRPWjg2T2tteEFQNzdzZ0QzcXhROVg3SldwdDh4NjhKQ1E2ZEJSbHdoZjNuT2xCcm11NmN6ZnFHSW14SVU1LVVUT2x2c3pIV2tDUm1XUkxOTVNTT1Q5QnJ2YVNtSXlkcF80RVBhQWlsVUhIOG83dmJZSmwyN1BhaXhWc0NhVTBpamNleUE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-09T14:01:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması - Yahoo Finance Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması Yahoo Finance Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research - Yahoo Finance Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research Yahoo Finance Robotics Automation Industry",
-      "title_original": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research - Yahoo Finance",
-      "summary_original": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research Yahoo Finance",
-      "published_display": "2026-06-09",
-      "id": "24873a81fd8a"
+      "keywords": "Endüstriyel Otomasyon Pazarı, OEM'lerin Akıllı Fabrika Yatırımlarını Hızlandırmasıyla Otomotiv Üretimini Yeniden Şekillendiriyor - industrialtoday.co.uk Endüstriyel Otomasyon Pazarı, OEM'lerin Akıllı Fabrika Yatırımlarını Hızlandırmasıyla Otomotiv Üretimini Yeniden Şekillendiriyor Industrytoday.co.uk Industrial Automation Market Reshapes Automotive Manufacturing as OEMs Accelerate Smart Factory Investments - industrytoday.co.uk Industrial Automation Market Reshapes Automotive Manufacturing as OEMs Accelerate Smart Factory Investments industrytoday.co.uk Robotics Automation Industry",
+      "title_original": "Industrial Automation Market Reshapes Automotive Manufacturing as OEMs Accelerate Smart Factory Investments - industrytoday.co.uk",
+      "summary_original": "Industrial Automation Market Reshapes Automotive Manufacturing as OEMs Accelerate Smart Factory Investments industrytoday.co.uk",
+      "published_display": "2026-06-10",
+      "id": "0600c81fc88e"
     },
     {
       "category": "web",
@@ -415,7 +395,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools'ta Kritik İşlev Verileri için Kimlik Doğrulaması Eksik...",
+      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Kritik İşlev Vu. için Kimlik Doğrulaması Eksik...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
       "image_url": null,
       "source": "CISA Advisories",
@@ -425,7 +405,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools'ta Kritik İşlev Verileri için Kimlik Doğrulaması Eksik... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vu... CISA Advisory Threat",
+      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Kritik İşlev Vu. için Kimlik Doğrulaması Eksik... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vu... CISA Advisory Threat",
       "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vu...",
       "published_display": "2026-06-12",
@@ -534,7 +514,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -545,17 +525,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "27b0f26a0dc9"
+      "id": "651206b2fe26"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,11 +545,31 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "3d63787c804b"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya",
+      "summary": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXlPaHpnQURjclQ0QWtmRm1tams0WnJFeE96cGM0SDhfUndLSTBjX256ejFFa3NwMEtiQlhXaVVxNXRBSHNzZDJFeVVMbHB5V2N4bndvb1BOYWx4Q0VYWTIzY0psdlduMWh0b3dPQ3ZVS0pONXFFbkdaU2lIaUNvV2N2TDBQeHRGUTJ0ZUNCTnJSUXVlN3ZXNHRTZ1A?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-26T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia IP Camera Video Surveillance",
+      "title_original": "Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia",
+      "summary_original": "Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia",
+      "published_display": "2025-08-26",
+      "id": "86a5b32c20ef"
     },
     {
       "category": "kamera",
@@ -594,6 +594,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı",
+      "summary": "Axis video güvenlik kameralarında Tesis Dalışında bulunan güvenlik açığı",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVJNSWpKbXdIalVuM3oxbzJQMEN3QXlQWlZNblhtb0IyVk1ONnhGd1dYa0swYXpyYy1OOHJlTGtnT2pETmE3ZWE1d0pEb0tOWkQxSE9GSU8xbmNtSVhQa1BRQzZLN2NKYkJrYnZyTUdJNXI2T1VmMFhpeGZ0WHRueURwVTNVTVRKZ3NsaFpQWE1MelNBNGNDczdETVhYN0U?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-07T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı Axis video güvenlik kameralarında Tesis Dalışında bulunan güvenlik açığı Vulnerability found in Axis video surveillance cameras - Facilities Dive Vulnerability found in Axis video surveillance cameras Facilities Dive IP Camera Video Surveillance",
+      "title_original": "Vulnerability found in Axis video surveillance cameras - Facilities Dive",
+      "summary_original": "Vulnerability found in Axis video surveillance cameras Facilities Dive",
+      "published_display": "2025-08-07",
+      "id": "b893ec3fb24e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Kritik Dahua Kamera Kusurları, ONVIF ve Dosya Yükleme Açıkları Aracılığıyla Uzaktan Ele Geçirmeyi Etkinleştiriyor - Hacker Haberleri",
       "summary": "Dahua'daki Kritik Kamera Kusurları, ONVIF ve Dosya Yükleme Yoluyla Uzaktan Ele Geçirmeyi Etkinleştiriyor Hacker Haberleri",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02aGRGT01UeVI0RXZDcUVBT2NzT3o5VmlZaXBEaFhObTVCem9xd3IzdTU0M2JfcmlHX3NoZTNrWWJkNTVoanFaU3loSFcxRTVRempEZWs4Mnk2QnJ0MXpPUElEWTVvZnhkZXdVSng1dTROMVZpd0EwVUJpQzFuQQ?oc=5",
@@ -610,46 +630,6 @@
       "summary_original": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits The Hacker News",
       "published_display": "2025-07-30",
       "id": "cc6031567108"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Çevrimiçi olarak binlerce özel kamera yayını bulundu. Sizinkinin onlardan biri olmadığından emin olun - Malwarebytes",
-      "summary": "Çevrimiçi olarak binlerce özel kamera yayını bulundu. Sizinkinin Malwarebytes'lerden biri olmadığından emin olun",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHl4YXFEMTFFTjR1eWR6bWtSY0xoZDZ1SEZISGdubDVSajU4YUxEUWctSlBKOUpXenh3MzNpMTE3MmhCSnVfR0F3TzlQSzB4ajNpS1FGT21DcTNoSDVIQXRhbC1yaThrVEhGS05sZGdOWmszLThuWVVuV3ZGUjl5UHVoa25HUEJMYWJwNHlUb3FuR29NOUZjRkVGUVBveFhOLTRacjFlVDBmMTZodXBrRXdHSzRzNFo3czFPWkZCN3prTlo0?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-24T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Çevrimiçi olarak binlerce özel kamera yayını bulundu. Sizinkinin onlardan biri olmadığından emin olun - Malwarebytes Çevrimiçi olarak binlerce özel kamera yayını bulundu. Sizinkinin Malwarebytes'lerden biri olmadığından emin olun Thousands of private camera feeds found online. Make sure yours isn’t one of them - Malwarebytes Thousands of private camera feeds found online. Make sure yours isn’t one of them Malwarebytes IP Camera Video Surveillance",
-      "title_original": "Thousands of private camera feeds found online. Make sure yours isn’t one of them - Malwarebytes",
-      "summary_original": "Thousands of private camera feeds found online. Make sure yours isn’t one of them Malwarebytes",
-      "published_display": "2025-06-24",
-      "id": "450cb6772da4"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) - Capital.ba",
-      "summary": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) Capital.ba",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWJiMUpPOVdVSFI1QUV0VXhqSTdzSXFqSHBqY2tmb01LcE93dm0xMHBGZ2JwWlJTWTFVdnVRTkc3UHh1UllFVDBPTXBiM0pvXzhfSVBkOTRhaFhKVVVoVGZvSXlsaXRsZDNUai04UzZZN3c4YnZXdDY5a2poYW04cmw0VDVfc0tWQ2k2bE14N3NGU2MyRy1HTEZNZXltaUg3S0RmWmdoSUwwdlpwbi1nQ2R6R0h3Q0FBYUFFeHhpcWtmZ2M?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-06-24T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTOĞRAF/VİDEO) - Capital.ba Binlerce Çinli kamera evde, işte, spor salonunda veya yürüyüşte yaptıklarınızı izliyor (FOTO/VİDEO) Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba IP Camera Video Surveillance",
-      "title_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) - Capital.ba",
-      "summary_original": "Thousands of Chinese cameras are watching what you do at home, at work, at the gym or on a walk (PHOTO/VIDEO) Capital.ba",
-      "published_display": "2025-06-24",
-      "id": "f3f3e3698dd3"
     }
   ]
 }
