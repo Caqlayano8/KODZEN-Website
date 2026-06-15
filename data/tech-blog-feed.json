@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "updated_at": "2026-06-15T00:00:00Z",
-  "total_posts": 32,
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 5,
+    "robotik": 6,
     "web": 3,
     "siber": 6,
     "kamera": 6
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma",
-      "summary": "Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri büyük ölçekte azaltmanın...",
+      "summary": "Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getiriyor: Yanlış pozitifleri büyük ölçekte azaltmak, ortaya çıktı...",
       "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri büyük ölçekte azaltmanın... Making secret scanning more trustworthy: Reducing false positives at scale Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi... GitHub Dev Platform",
+      "keywords": "Gizli taramayı daha güvenilir hale getirme: Yanlış pozitifleri geniş ölçekte azaltma Gürültü azaltıldığında uyarılar daha güvenilir ve eyleme geçirilebilir hale gelir. Bağlama duyarlı LLM mantığıyla doğrulama adımını nasıl iyileştirdiğimizi görün. Gönderi Gizli taramayı daha güvenilir hale getiriyor: Yanlış pozitifleri büyük ölçekte azaltmak, ortaya çıktı... Making secret scanning more trustworthy: Reducing false positives at scale Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi... GitHub Dev Platform",
       "title_original": "Making secret scanning more trustworthy: Reducing false positives at scale",
       "summary_original": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared fi...",
       "published_display": "2026-06-11",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım",
-      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
+      "summary": "Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir.",
       "url": "https://devblogs.microsoft.com/blog/spec-driven-development-ai-native-engineering",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -125,7 +125,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmez. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
+      "keywords": "Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel Bir İlk Yaklaşım Yapay zeka, yazılım dağıtımını daha hızlı hale getirdi ancak hız tek başına daha iyi sonuçları garanti etmiyor. Ekipler yapay zeka tabanlı geliştirmeyi benimsedikçe asıl zorluk gereksinimleri, tasarımı, uygulamayı ve doğrulamayı aynı hizada tutmak ve böylece nihai sonucu elde etmektir. Spec-Driven Development: A Spec-First Approach to AI-Native Engineering AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul... Microsoft Dev Cloud",
       "title_original": "Spec-Driven Development: A Spec-First Approach to AI-Native Engineering",
       "summary_original": "AI has made software delivery faster, but speed alone does not guarantee better outcomes. As teams adopt AI-native development, the real challenge is keeping requirements, design, implementation, and validation aligned so the final resul...",
       "published_display": "2026-06-10",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Yapay zekanın kullanıcıların cilt koşullarını anlamalarına nasıl yardımcı olabileceğine dair araştırma",
-      "summary": "Sağlık ve Biyobilim",
+      "summary": "Sağlık ve Biyoloji",
       "url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DermAI_Hero.png",
       "source": "Google Research Blog",
@@ -165,7 +165,7 @@
         "Research",
         "Google"
       ],
-      "keywords": "Yapay zekanın kullanıcıların cilt koşullarını anlamalarına nasıl yardımcı olabileceğine dair araştırma Sağlık ve Biyobilim Research into how AI can help users understand skin conditions Health & Bioscience AI Research Google",
+      "keywords": "Yapay zekanın kullanıcıların cilt koşullarını anlamalarına nasıl yardımcı olabileceğine dair araştırma Sağlık ve Biyoloji Research into how AI can help users understand skin conditions Health & Bioscience AI Research Google",
       "title_original": "Research into how AI can help users understand skin conditions",
       "summary_original": "Health & Bioscience",
       "published_display": "2026-06-12",
@@ -274,82 +274,102 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri - Robotik Yarın",
-      "summary": "30 Yıllık Hızlı Mühendislik Tepki Robotiğiyle Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri Yarın",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRHVwbXNxdHYtTmZRbUViZnp4R2dUZGotZmNEbkVBa0xVLUpYcHlrV2NJOEVfTEhMMjdpeDc3SUtmaVVGSk9yRVc2QWxVakxwN3lGNTZVZU9uWURlcF92TGNVQ1d4dHc3YW85cnBoaHBMNDNfWGN5ZHFLWU5OaTJEWE5WOTVCWTVONEtUR3hpM29oUlR2TTkxSFpMQkxLM2ZmWWt5VE9VMUZsTEdYRE9MRHNxWE5TeFZraU9nM2dqZzNfR3dqRGlKT1JrMWdMZFhHNjN5S08wdU5MQ05qbXl6VFdMTlB6SHdvRTY1ZjdKXy1UbkoxYXBJakRNYnFtU2pNVXFhaHVrZndTdw?oc=5",
+      "title": "Endüstriyel Robotik Pazar Büyüklüğü, Payı, Temel Trendler, Büyüme Fırsatları ve 2032'ye Kadar Küresel Tahmin - industrialtoday.co.uk",
+      "summary": "Endüstriyel Robotik Pazar Büyüklüğü, Payı, Temel Trendler, Büyüme Fırsatları ve 2032'ye Kadar Küresel Tahmin industrialtoday.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZVlZWFNTZEZpdXFuUHJua1IzUXQwRV9iRHF2RkdxNjBFQ2E3aktpTzMyOFdMbkdTQnh0T1BIZ3BYTG54RWRoYy1PT3E4a2Z2LXVKaDBZV0hnQzMzYVp4MndEYnpEQVFXSW5xMllEV1ZESTZ5TXBrRG5pMlJiVjJkS0lYM3Z5ZmNFNVZvMU0yU1lfX2VLaHJ1TW96TFJQUUtidWRXUTJyOVcxYXI3NEp5RTdzUTdSaTNlYjlERTNZMmVrMmpEMlRxSUJ0dFJCZnkxYTJkbFdpWVhtaE8ydGpxVXY0UmduaU0?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-09T13:13:05Z",
+      "published_at": "2026-06-12T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri - Robotik Yarın 30 Yıllık Hızlı Mühendislik Tepki Robotiğiyle Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri Yarın Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response - Robotics Tomorrow Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response Robotics Tomorrow Robotics Automation Industry",
-      "title_original": "Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response - Robotics Tomorrow",
-      "summary_original": "Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response Robotics Tomorrow",
+      "keywords": "Endüstriyel Robotik Pazar Büyüklüğü, Payı, Temel Trendler, Büyüme Fırsatları ve 2032'ye Kadar Küresel Tahmin - industrialtoday.co.uk Endüstriyel Robotik Pazar Büyüklüğü, Payı, Temel Trendler, Büyüme Fırsatları ve 2032'ye Kadar Küresel Tahmin industrialtoday.co.uk Industrial Robotics Market Size, Share, Key Trends, Growth Opportunities & Global Forecast to 2032 - industrytoday.co.uk Industrial Robotics Market Size, Share, Key Trends, Growth Opportunities & Global Forecast to 2032 industrytoday.co.uk Robotics Automation Industry",
+      "title_original": "Industrial Robotics Market Size, Share, Key Trends, Growth Opportunities & Global Forecast to 2032 - industrytoday.co.uk",
+      "summary_original": "Industrial Robotics Market Size, Share, Key Trends, Growth Opportunities & Global Forecast to 2032 industrytoday.co.uk",
+      "published_display": "2026-06-12",
+      "id": "cb90d91aec12"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune",
+      "summary": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWpTYlNaUDA0Y1ZscnBmbFNIOW1LZWF3d2hqaXp0WDQ4RmxVemFPeWhWX084dFBMNmc0SFg0VThkMVJOMG5KTU81N05tNWVxT19tWk1HbVk3RVgtd1JNT2RoVnhDUkt3VGJFVklVSWRjZ0tPcE1sbUdGMC1CeTRsWkxDLVpCbkR6RTJVNnYwNzhZWEN3MVl1VElIQmR0YkVEZ2FRcldsRHlnNHVkbmJVdEZRY1pIU0djbVUtNDNsN1NCbXRWRVdFM2hQZVpRTWVMMkE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-11T00:35:24Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune Robotics Automation Industry",
+      "title_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune",
+      "summary_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune",
+      "published_display": "2026-06-11",
+      "id": "839f088a2b14"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri",
+      "summary": "Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmpTQXRFS0dxMEJ1UHVVQUQzYnB1dUN6STJ5MnZLM3VfUW5hV255eXkyR3UzZGgzRkZhbkFNR1dFUGhiaUctajIyYmNQOW1WaXdIOFB0cmh4R1ZTN0tfcHp0WV9iLWhIajZVRUpDUUVmeEJORURFVTJUVTRiZDVGSjh6dWpobjZmb25Eak1IbW5ncG9xRExZTkRqNWtRSkdOb2NmTVhvMWRCS0FxU3h1QVN1cHJWUFozMW5lQXRZZ0pyVVByS1p0Y0t3dUZheEJZVFF3?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-09T16:27:53Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News",
+      "summary_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News",
       "published_display": "2026-06-09",
-      "id": "c64cbea54f53"
+      "id": "a122555f142b"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi ve Nasıl Yatırım Yapılır - The Motley Fool",
-      "summary": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi ve Nasıl Yatırım Yapılır?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmszUHNFLVJYODRkTnJuT09DLVZSV0lCRmt5TWNSWEViWVhGYWlsQmVqbmdFWnJnU2dsMHk3SGQ1bHV6ZHVwc2VFYlJvM1BaZHdRMkFfZ1paTGZ5LWNSVVRrLVJhU0tFNnRZX1pDQVVZZU54SS1neE9tLS1BM1BuWjE3VmZVLUtXVnhsTTB3VzV5czZ4WXFJNE80MGVvcTA?oc=5",
+      "title": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması - Yahoo Finance",
+      "summary": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa21mQzJGc01JbjBlajdXeFN4QnBpQTktS0hmbjFBREhSZGRPWjg2T2tteEFQNzdzZ0QzcXhROVg3SldwdDh4NjhKQ1E2ZEJSbHdoZjNuT2xCcm11NmN6ZnFHSW14SVU1LVVUT2x2c3pIV2tDUm1XUkxOTVNTT1Q5QnJ2YVNtSXlkcF80RVBhQWlsVUhIOG83dmJZSmwyN1BhaXhWc0NhVTBpamNleUE?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-04T07:00:00Z",
+      "published_at": "2026-06-09T14:01:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi ve Nasıl Yatırım Yapılır - The Motley Fool 2026'da Satın Alınabilecek En İyi 8 Robotik Hisse Senedi ve Nasıl Yatırım Yapılır? 8 Best Robotics Stocks to Buy in 2026 and How to Invest - The Motley Fool 8 Best Robotics Stocks to Buy in 2026 and How to Invest The Motley Fool Robotics Automation Industry",
-      "title_original": "8 Best Robotics Stocks to Buy in 2026 and How to Invest - The Motley Fool",
-      "summary_original": "8 Best Robotics Stocks to Buy in 2026 and How to Invest The Motley Fool",
-      "published_display": "2026-06-04",
-      "id": "6a0f52cefec1"
+      "keywords": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması - Yahoo Finance Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Yoluyla Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması Yahoo Finance Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research - Yahoo Finance Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research Yahoo Finance Robotics Automation Industry",
+      "title_original": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research - Yahoo Finance",
+      "summary_original": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research Yahoo Finance",
+      "published_display": "2026-06-09",
+      "id": "24873a81fd8a"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda iş birliği yapıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSDJRbGViS0JsY2M2RGRybWNtRUYtcE1LVGI3Ml9oLU5sQ2FqWXhobEI4UnRKcmFZdlZvTlRrQjV4MDNJc3M1b0hyYlBsZXVxT25GaGdlOVk1RTh1amFZcXdsQUViQUZTRTdUdGJvcUt4YWN1ZVRHUGRSMjlTQ19DaUNNVzNLNkNfMTg2Qko4MktRZnFpVGxndnlYemRQMk9JVzBSOVZoMlpRZUJOT0N5ZkJObnJtLWNGV0s4QzB3bkhXcDU5RHkyOV9ONG04Rkxfa0FLTENmOEpmbk9YX2tQelln?oc=5",
+      "title": "Denner'ın Büyük Ölçekli Pudu Robotik Dağıtımı Perakende Otomasyonu Açısından Ne Anlam Taşıyor - Kavout",
+      "summary": "Denner'ın Büyük Ölçekli Pudu Robotik Dağıtımı Perakende Otomasyonu İçin Ne Anlam Taşıyor? Kavout",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmtUVjJGNC1vVHFkTmRRU3d0UVlhNWxISlNjckxjNE1EUTdnb0MzRVhuTmJSNUFmRzg4QkMxd1BnSVIzOFVGYmFpM3VzX2JONkdPTmUwTDBQMVV3SFVZQV9pdkM0bEZTVHdjdURISGpfLUZVZnRmX3RkWnR6cmt5MUlaZXg5M0tTUXh1LTl6c25EVG04cmw5ZkxqblZHUFdhckRfQUwtQWlBZXlCWEpCcXlsaGtZd0RTLVdsdA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-05-07T09:02:50Z",
+      "published_at": "2026-06-09T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Comau ve Aptiv, yapay zeka destekli robotik ve otonom endüstriyel otomasyon sistemlerinde ortak oluyor - Robotik ve Otomasyon Haberleri Comau ve Aptiv, yapay zeka destekli robot teknolojisi ve otonom endüstriyel otomasyon sistemleri konusunda iş birliği yapıyor Robotik ve Otomasyon Haberleri Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems - Robotics & Automation News",
-      "summary_original": "Comau and Aptiv partner on AI-powered robotics and autonomous industrial automation systems Robotics & Automation News",
-      "published_display": "2026-05-07",
-      "id": "f9c9545e5dc2"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek - Modern Material Handling",
-      "summary": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek Modern Malzeme Taşıma",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW1HQWdVaWwzakE1YlRibmZJN0RKdlVCalBxV1c0RWlFWk5Gd0pnZlQ3bnJidTN3TEtTd282NmZ2ZU1nTHJuUW9NaEZOTkF2OUY5UjFleUJNcTVFb3F0TmhtWFN5ZWsxOTFuYldLM0RpVGtzNXc0TmNjMEtIUENiZDNSczZkajFnT2FtUi1WejZBeUlVelFxZkRZeUJxNVRhRk1yRFQwdkVMYUE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-05-05T07:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek - Modern Material Handling Aptiv ve Comau, robotik ve otomasyona yönelik yeni nesil çözümleri birlikte geliştirecek Modern Malzeme Taşıma Aptiv and Comau to co-develop next-generation solutions for robotics, automation - Modern Materials Handling Aptiv and Comau to co-develop next-generation solutions for robotics, automation Modern Materials Handling Robotics Automation Industry",
-      "title_original": "Aptiv and Comau to co-develop next-generation solutions for robotics, automation - Modern Materials Handling",
-      "summary_original": "Aptiv and Comau to co-develop next-generation solutions for robotics, automation Modern Materials Handling",
-      "published_display": "2026-05-05",
-      "id": "08bb81c5b40f"
+      "keywords": "Denner'ın Büyük Ölçekli Pudu Robotik Dağıtımı Perakende Otomasyonu Açısından Ne Anlam Taşıyor - Kavout Denner'ın Büyük Ölçekli Pudu Robotik Dağıtımı Perakende Otomasyonu İçin Ne Anlam Taşıyor? Kavout What Does Denner's Large-Scale Pudu Robotics Deployment Signify for Retail Automation - Kavout What Does Denner's Large-Scale Pudu Robotics Deployment Signify for Retail Automation Kavout Robotics Automation Industry",
+      "title_original": "What Does Denner's Large-Scale Pudu Robotics Deployment Signify for Retail Automation - Kavout",
+      "summary_original": "What Does Denner's Large-Scale Pudu Robotics Deployment Signify for Retail Automation Kavout",
+      "published_display": "2026-06-09",
+      "id": "2253826ce34f"
     },
     {
       "category": "web",
@@ -515,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens KACO Blueplanet İnvertörler",
-      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnvertörleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve bunları yetkisiz erişim elde etmek için kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,...",
+      "summary": "CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve bunları yetkisiz erişim elde etmek için kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -525,7 +545,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnvertörleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve bunları yetkisiz erişim elde etmek için kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
+      "keywords": "Siemens KACO Blueplanet İnvertörler CSAF Özetini Görüntüleyin KACO blueplanet İnverterleri, bir saldırganın kimlik bilgilerini cihazın seri numarasından almasına ve bunları yetkisiz erişim elde etmek için kötüye kullanmasına olanak verebilecek çok sayıda güvenlik açığı içerir. KACO New Energy GmbH,... Siemens KACO Blueplanet Inverters View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele... CISA Advisory Threat",
       "title_original": "Siemens KACO Blueplanet Inverters",
       "summary_original": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele...",
       "published_display": "2026-06-09",
@@ -534,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -545,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "015a81ebc793"
+      "id": "27b0f26a0dc9"
     },
     {
       "category": "kamera",
