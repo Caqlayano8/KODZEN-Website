@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-14T17:00:00Z",
-  "total_posts": 20,
+  "updated_at": "2026-06-15T00:00:00Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 0,
-    "web": 2,
+    "robotik": 6,
+    "web": 3,
     "siber": 6,
-    "kamera": 0
+    "kamera": 6
   },
   "posts": [
     {
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Yapay zekanın kullanıcıların cilt koşullarını anlamalarına nasıl yardımcı olabileceğine dair araştırma",
-      "summary": "Sağlık ve Biyoloji",
+      "summary": "Sağlık ve Biyobilim",
       "url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DermAI_Hero.png",
       "source": "Google Research Blog",
@@ -165,7 +165,7 @@
         "Research",
         "Google"
       ],
-      "keywords": "Yapay zekanın kullanıcıların cilt koşullarını anlamalarına nasıl yardımcı olabileceğine dair araştırma Sağlık ve Biyoloji Research into how AI can help users understand skin conditions Health & Bioscience AI Research Google",
+      "keywords": "Yapay zekanın kullanıcıların cilt koşullarını anlamalarına nasıl yardımcı olabileceğine dair araştırma Sağlık ve Biyobilim Research into how AI can help users understand skin conditions Health & Bioscience AI Research Google",
       "title_original": "Research into how AI can help users understand skin conditions",
       "summary_original": "Health & Bioscience",
       "published_display": "2026-06-12",
@@ -250,6 +250,146 @@
       "summary_original": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
       "published_display": "2026-06-11",
       "id": "ed0fd16989ea"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyonuyla Dönüşüyor - Tasarım Haberleri",
+      "summary": "Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyon Tasarımıyla Dönüşüyor",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkpVR0FtLXNtMHBUenlmYkdwaXBzdU4tZG5fcnZmZEhNaGU0MHJiLTlSQmY4MnhFQ09SOEtKbUI0bS1tUmNTeFlOOXMybGNES0xTMEwxeUhFbkpYcWN1VHI3dzFMRFJPeEVfNnJxd3V0N1VJVTRZck5Cbi1UVDVIQ2dHWXg2VDVJc09oazJGeHgzdWpMQkFRWlFtOA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-14T21:39:30Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyonuyla Dönüşüyor - Tasarım Haberleri Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyon Tasarımıyla Dönüşüyor Robots Transform with Open-Source Platforms & AI Automation - Design News Robots Transform with Open-Source Platforms & AI Automation Design News Robotics Automation Industry",
+      "title_original": "Robots Transform with Open-Source Platforms & AI Automation - Design News",
+      "summary_original": "Robots Transform with Open-Source Platforms & AI Automation Design News",
+      "published_display": "2026-06-14",
+      "id": "27b5c8c1b62b"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune",
+      "summary": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWpTYlNaUDA0Y1ZscnBmbFNIOW1LZWF3d2hqaXp0WDQ4RmxVemFPeWhWX084dFBMNmc0SFg0VThkMVJOMG5KTU81N05tNWVxT19tWk1HbVk3RVgtd1JNT2RoVnhDUkt3VGJFVklVSWRjZ0tPcE1sbUdGMC1CeTRsWkxDLVpCbkR6RTJVNnYwNzhZWEN3MVl1VElIQmR0YkVEZ2FRcldsRHlnNHVkbmJVdEZRY1pIU0djbVUtNDNsN1NCbXRWRVdFM2hQZVpRTWVMMkE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-11T00:35:24Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune Robotics Automation Industry",
+      "title_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune",
+      "summary_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune",
+      "published_display": "2026-06-11",
+      "id": "839f088a2b14"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri",
+      "summary": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık C Serisi rekorunu artırdı Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR3J6SlFGZ3FpUkFtVW4xdmZwRjF3R0p5aUxRX1lDOGJQcmZrU1Etem4xY0RxS2dJTDd3RVFNUUJLQS02WmxaVXFWQnFBR3E5cXBoRTVSa2hBRXFOTUItTThRXzlkUVBxdzNtR3MxTFlJTFY5T1M4endfOFkydEp3SmlGS1p5MFVZZTBsemJkYmYwQnR2VXdXU3JheXJzUkJxUnNHWEx5QjB5em1xZ05KcGFwdTFYdEtIR29zMC1yUFlkVC1pS0hhcmN1VWs1ajlHcW5TMkRsZnpzdnZo?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-10T16:22:34Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık rekor C Serisini yükseltti - Robotik ve Otomasyon Haberleri Neura Robotics, fiziksel yapay zeka platformunu hızlandırmak için 1,4 milyar dolarlık C Serisi rekorunu artırdı Robotik ve Otomasyon Haberleri Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform - Robotics & Automation News",
+      "summary_original": "Neura Robotics raises record Series C of $1.4 billion to accelerate physical AI platform Robotics & Automation News",
+      "published_display": "2026-06-10",
+      "id": "f9be56d24c2d"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri",
+      "summary": "Mesoware, Robotik ve Otomasyon üretimi için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmpTQXRFS0dxMEJ1UHVVQUQzYnB1dUN6STJ5MnZLM3VfUW5hV255eXkyR3UzZGgzRkZhbkFNR1dFUGhiaUctajIyYmNQOW1WaXdIOFB0cmh4R1ZTN0tfcHp0WV9iLWhIajZVRUpDUUVmeEJORURFVTJUVTRiZDVGSjh6dWpobjZmb25Eak1IbW5ncG9xRExZTkRqNWtRSkdOb2NmTVhvMWRCS0FxU3h1QVN1cHJWUFozMW5lQXRZZ0pyVVByS1p0Y0t3dUZheEJZVFF3?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-09T16:27:53Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimi için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News",
+      "summary_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News",
+      "published_display": "2026-06-09",
+      "id": "a122555f142b"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Sayesinde Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması - Yahoo Finance",
+      "summary": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Sayesinde Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa21mQzJGc01JbjBlajdXeFN4QnBpQTktS0hmbjFBREhSZGRPWjg2T2tteEFQNzdzZ0QzcXhROVg3SldwdDh4NjhKQ1E2ZEJSbHdoZjNuT2xCcm11NmN6ZnFHSW14SVU1LVVUT2x2c3pIV2tDUm1XUkxOTVNTT1Q5QnJ2YVNtSXlkcF80RVBhQWlsVUhIOG83dmJZSmwyN1BhaXhWc0NhVTBpamNleUE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-09T14:01:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Sayesinde Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması - Yahoo Finance Küresel Robotik Süreç Otomasyonu Pazarı, Yapay Zeka Odaklı Otomasyon Sayesinde Kurumsal Verimliliği Hızlandırıyor | CAGR %23,5 | Kalıcı Pazar Araştırması Yahoo Finance Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research - Yahoo Finance Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research Yahoo Finance Robotics Automation Industry",
+      "title_original": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research - Yahoo Finance",
+      "summary_original": "Global Robotic Process Automation Market Accelerates Enterprise Efficiency Through AI-Driven Automation | CAGR 23.5% | Persistence Market Research Yahoo Finance",
+      "published_display": "2026-06-09",
+      "id": "f0f80c71949c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Denner'ın Büyük Ölçekli Pudu Robotik Dağıtımı Perakende Otomasyonu Açısından Ne Anlam Taşıyor - Kavout",
+      "summary": "Denner'ın Büyük Ölçekli Pudu Robotik Dağıtımı Perakende Otomasyonu Açısından Ne Anlam Taşıyor? Kavout",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmtUVjJGNC1vVHFkTmRRU3d0UVlhNWxISlNjckxjNE1EUTdnb0MzRVhuTmJSNUFmRzg4QkMxd1BnSVIzOFVGYmFpM3VzX2JONkdPTmUwTDBQMVV3SFVZQV9pdkM0bEZTVHdjdURISGpfLUZVZnRmX3RkWnR6cmt5MUlaZXg5M0tTUXh1LTl6c25EVG04cmw5ZkxqblZHUFdhckRfQUwtQWlBZXlCWEpCcXlsaGtZd0RTLVdsdA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-09T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Denner'ın Büyük Ölçekli Pudu Robotik Dağıtımı Perakende Otomasyonu Açısından Ne Anlam Taşıyor - Kavout Denner'ın Büyük Ölçekli Pudu Robotik Dağıtımı Perakende Otomasyonu Açısından Ne Anlam Taşıyor? Kavout What Does Denner's Large-Scale Pudu Robotics Deployment Signify for Retail Automation - Kavout What Does Denner's Large-Scale Pudu Robotics Deployment Signify for Retail Automation Kavout Robotics Automation Industry",
+      "title_original": "What Does Denner's Large-Scale Pudu Robotics Deployment Signify for Retail Automation - Kavout",
+      "summary_original": "What Does Denner's Large-Scale Pudu Robotics Deployment Signify for Retail Automation Kavout",
+      "published_display": "2026-06-09",
+      "id": "2253826ce34f"
+    },
+    {
+      "category": "web",
+      "category_label": "Web Tasarimi",
+      "title": "MDN MCP sunucusuyla tanışın",
+      "summary": "MDN'nin MCP sunucusu, MDN'nin belgelerini ve tarayıcı uyumluluk verilerini doğrudan editörünüze veya IDE'nize getirerek Yüksek Lisans veya kodlama aracınızın doğru, güncel web platformu bilgilerine erişmesini sağlar.",
+      "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/",
+      "image_url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/featured.png",
+      "source": "MDN Blog",
+      "published_at": "2026-06-15T00:00:00Z",
+      "tags": [
+        "Web",
+        "Standards",
+        "Browser"
+      ],
+      "keywords": "MDN MCP sunucusuyla tanışın MDN'nin MCP sunucusu, MDN'nin belgelerini ve tarayıcı uyumluluk verilerini doğrudan editörünüze veya IDE'nize getirerek Yüksek Lisans veya kodlama aracınızın doğru, güncel web platformu bilgilerine erişmesini sağlar. Introducing the MDN MCP server MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information. Web Standards Browser",
+      "title_original": "Introducing the MDN MCP server",
+      "summary_original": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information.",
+      "published_display": "2026-06-15",
+      "id": "0f8f06410655"
     },
     {
       "category": "web",
@@ -355,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Naxclow IoT Platformu",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın cihazların kimliğine bürünmesine, iletişimleri ele geçirmesine veya manipüle etmesine, hassas kimlik bilgilerini geniş ölçekte toplamasına veya yetkisiz erişim elde etmesine olanak sağlayabilir. Aşağıdaki...",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın cihazların kimliğine bürünmesine, iletişimleri ele geçirmesine veya manipüle etmesine, hassas kimlik bilgilerini geniş ölçekte toplamasına veya yetkisiz erişim elde etmesine olanak verebilir. Aşağıdaki...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -365,7 +505,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Naxclow IoT Platformu CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın cihazların kimliğine bürünmesine, iletişimleri ele geçirmesine veya manipüle etmesine, hassas kimlik bilgilerini geniş ölçekte toplamasına veya yetkisiz erişim elde etmesine olanak sağlayabilir. Aşağıdaki... Naxclow IoT Platform View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials at scale, or gain unauthorized access. The following... CISA Advisory Threat",
+      "keywords": "Naxclow IoT Platformu CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın cihazların kimliğine bürünmesine, iletişimleri ele geçirmesine veya manipüle etmesine, hassas kimlik bilgilerini geniş ölçekte toplamasına veya yetkisiz erişim elde etmesine olanak verebilir. Aşağıdaki... Naxclow IoT Platform View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials at scale, or gain unauthorized access. The following... CISA Advisory Threat",
       "title_original": "Naxclow IoT Platform",
       "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials at scale, or gain unauthorized access. The following...",
       "published_display": "2026-06-11",
@@ -375,7 +515,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Brickcom Kameralar",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarının başarılı bir şekilde kullanılması, kimliği doğrulanmamış uzak bir saldırganın canlı video yayınlarına yetkisiz erişim sağlamasına, etkilenen tesislerden hassas görsel bilgileri almasına ve reklamları ele geçirmesine olanak tanıyabilir.",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarının başarılı bir şekilde kullanılması, kimliği doğrulanmamış uzaktaki bir saldırganın canlı video yayınlarına yetkisiz erişim sağlamasına, etkilenen tesislerden hassas görsel bilgileri almasına ve reklamları ele geçirmesine olanak tanıyabilir.",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-03",
       "image_url": null,
       "source": "CISA Advisories",
@@ -385,7 +525,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Brickcom Kameralar CSAF Özetini Görüntüleyin Bu güvenlik açıklarının başarılı bir şekilde kullanılması, kimliği doğrulanmamış uzak bir saldırganın canlı video yayınlarına yetkisiz erişim sağlamasına, etkilenen tesislerden hassas görsel bilgileri almasına ve reklamları ele geçirmesine olanak tanıyabilir. Brickcom Cameras View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote unauthenticated attacker to gain unauthorized access to live video feeds, retrieve sensitive visual information from affected premises, and obtain ad... CISA Advisory Threat",
+      "keywords": "Brickcom Kameralar CSAF Özetini Görüntüleyin Bu güvenlik açıklarının başarılı bir şekilde kullanılması, kimliği doğrulanmamış uzaktaki bir saldırganın canlı video yayınlarına yetkisiz erişim sağlamasına, etkilenen tesislerden hassas görsel bilgileri almasına ve reklamları ele geçirmesine olanak tanıyabilir. Brickcom Cameras View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote unauthenticated attacker to gain unauthorized access to live video feeds, retrieve sensitive visual information from affected premises, and obtain ad... CISA Advisory Threat",
       "title_original": "Brickcom Cameras",
       "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote unauthenticated attacker to gain unauthorized access to live video feeds, retrieve sensitive visual information from affected premises, and obtain ad...",
       "published_display": "2026-06-11",
@@ -410,6 +550,126 @@
       "summary_original": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has rele...",
       "published_display": "2026-06-09",
       "id": "2960352bcf05"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-11T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
+      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
+      "published_display": "2026-03-11",
+      "id": "27b0f26a0dc9"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-29T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
+      "published_display": "2026-01-29",
+      "id": "3d63787c804b"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya",
+      "summary": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXlPaHpnQURjclQ0QWtmRm1tams0WnJFeE96cGM0SDhfUndLSTBjX256ejFFa3NwMEtiQlhXaVVxNXRBSHNzZDJFeVVMbHB5V2N4bndvb1BOYWx4Q0VYWTIzY0psdlduMWh0b3dPQ3ZVS0pONXFFbkdaU2lIaUNvV2N2TDBQeHRGUTJ0ZUNCTnJSUXVlN3ZXNHRTZ1A?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-26T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia IP Camera Video Surveillance",
+      "title_original": "Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia",
+      "summary_original": "Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia",
+      "published_display": "2025-08-26",
+      "id": "86a5b32c20ef"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında - TechRadar",
+      "summary": "Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOG8tR3hZLVpRcC16TWszeTd1Z0E0UHpqVWFyNWUzNXpDVUtBMWRTZXViRTRoTkloNmdXa20wZWlaTEw1OV9qX1lTaGJ5OHJPNHgyYzBINmtVaHZYWjUzY2RjZUl1LUNOVGF4OElTb1l4WmpMZTJIX1JvSGxUSWhyeVBfRktxV3EzOG1SZkxBWFFaTW8yd3lfdl9kTVdreVkzR2h3YWxlcGk1bGV5c0lBbEJ6a0ltb3AzUzRPaUhDYWNNSWgtTWVKVTg3VzNvN1ByRTFxVEVJZW9DNWJjSVlJ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-14T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında - TechRadar Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında TechRadar Millions of Dahua security cameras at risk from unauthenticated takeover flaws - TechRadar Millions of Dahua security cameras at risk from unauthenticated takeover flaws TechRadar IP Camera Video Surveillance",
+      "title_original": "Millions of Dahua security cameras at risk from unauthenticated takeover flaws - TechRadar",
+      "summary_original": "Millions of Dahua security cameras at risk from unauthenticated takeover flaws TechRadar",
+      "published_display": "2025-08-14",
+      "id": "80b07d55cb9e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
+      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-08T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
+      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
+      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
+      "published_display": "2025-08-08",
+      "id": "009e6db74527"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı",
+      "summary": "Axis video gözetim kameralarında Tesis Dalışında güvenlik açığı bulundu",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVJNSWpKbXdIalVuM3oxbzJQMEN3QXlQWlZNblhtb0IyVk1ONnhGd1dYa0swYXpyYy1OOHJlTGtnT2pETmE3ZWE1d0pEb0tOWkQxSE9GSU8xbmNtSVhQa1BRQzZLN2NKYkJrYnZyTUdJNXI2T1VmMFhpeGZ0WHRueURwVTNVTVRKZ3NsaFpQWE1MelNBNGNDczdETVhYN0U?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-07T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis video güvenlik kameralarında güvenlik açığı bulundu - Tesisler Dalışı Axis video gözetim kameralarında Tesis Dalışında güvenlik açığı bulundu Vulnerability found in Axis video surveillance cameras - Facilities Dive Vulnerability found in Axis video surveillance cameras Facilities Dive IP Camera Video Surveillance",
+      "title_original": "Vulnerability found in Axis video surveillance cameras - Facilities Dive",
+      "summary_original": "Vulnerability found in Axis video surveillance cameras Facilities Dive",
+      "published_display": "2025-08-07",
+      "id": "b893ec3fb24e"
     }
   ]
 }
