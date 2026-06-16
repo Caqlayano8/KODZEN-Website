@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-16T17:30:14Z",
+  "updated_at": "2026-06-16T17:30:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -139,7 +139,7 @@
       "url": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/pixels-to-planning-2.png",
       "source": "Google Research Blog",
-      "published_at": "2026-06-16T17:30:14Z",
+      "published_at": "2026-06-16T17:30:00Z",
       "tags": [
         "AI",
         "Research",
@@ -150,6 +150,26 @@
       "summary_original": "Climate & Sustainability",
       "published_display": "2026-06-16",
       "id": "4d4fcccf1356"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Dağıtımı simüle ederek yayınlanmadan önce model davranışını tahmin etme",
+      "summary": "OpenAI, güvenliği ve değerlendirme doğruluğunu artırmak için gerçek konuşma verilerini kullanarak dağıtımdan önce yapay zeka modeli davranışını tahmin etmeye yönelik bir yöntem olan Dağıtım Simülasyonu'nu sunar.",
+      "url": "https://openai.com/index/deployment-simulation",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-16T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Dağıtımı simüle ederek yayınlanmadan önce model davranışını tahmin etme OpenAI, güvenliği ve değerlendirme doğruluğunu artırmak için gerçek konuşma verilerini kullanarak dağıtımdan önce yapay zeka modeli davranışını tahmin etmeye yönelik bir yöntem olan Dağıtım Simülasyonu'nu sunar. Predicting model behavior before release by simulating deployment OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy. AI OpenAI Model",
+      "title_original": "Predicting model behavior before release by simulating deployment",
+      "summary_original": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "published_display": "2026-06-16",
+      "id": "a1893afde937"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "700a6ade3579"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Çalışmanın bir sonraki dönemi için yeni OpenAI Academy kursları",
-      "summary": "OpenAI, insanların pratik AI becerileri geliştirmelerine, tekrarlanabilir iş akışları oluşturmalarına ve aracıları günlük işlerinde uygulamalarına yardımcı olan üç Akademi kursu sunuyor.",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-12T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Çalışmanın bir sonraki dönemi için yeni OpenAI Academy kursları OpenAI, insanların pratik AI becerileri geliştirmelerine, tekrarlanabilir iş akışları oluşturmalarına ve aracıları günlük işlerinde uygulamalarına yardımcı olan üç Akademi kursu sunuyor. New OpenAI Academy courses for the next era of work OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work. AI OpenAI Model",
-      "title_original": "New OpenAI Academy courses for the next era of work",
-      "summary_original": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "published_display": "2026-06-12",
-      "id": "99b9cec880b2"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Hindistan'ın yarı iletken hedeflerini ölçeklendirmek için daha fazla robot teknolojisine, otomasyona ve bileşen üretimine ihtiyacı var: UST COO - CNBC TV18",
@@ -295,7 +295,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyonuyla Dönüşüyor - Tasarım Haberleri",
-      "summary": "Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyonu Tasarımıyla Dönüşüyor",
+      "summary": "Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyon Tasarımıyla Dönüşüyor",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkpVR0FtLXNtMHBUenlmYkdwaXBzdU4tZG5fcnZmZEhNaGU0MHJiLTlSQmY4MnhFQ09SOEtKbUI0bS1tUmNTeFlOOXMybGNES0xTMEwxeUhFbkpYcWN1VHI3dzFMRFJPeEVfNnJxd3V0N1VJVTRZck5Cbi1UVDVIQ2dHWXg2VDVJc09oazJGeHgzdWpMQkFRWlFtOA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,7 +305,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyonuyla Dönüşüyor - Tasarım Haberleri Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyonu Tasarımıyla Dönüşüyor Robots Transform with Open-Source Platforms & AI Automation - Design News Robots Transform with Open-Source Platforms & AI Automation Design News Robotics Automation Industry",
+      "keywords": "Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyonuyla Dönüşüyor - Tasarım Haberleri Robotlar Açık Kaynak Platformları ve Yapay Zeka Otomasyon Tasarımıyla Dönüşüyor Robots Transform with Open-Source Platforms & AI Automation - Design News Robots Transform with Open-Source Platforms & AI Automation Design News Robotics Automation Industry",
       "title_original": "Robots Transform with Open-Source Platforms & AI Automation - Design News",
       "summary_original": "Robots Transform with Open-Source Platforms & AI Automation Design News",
       "published_display": "2026-06-14",
@@ -354,9 +354,9 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri - PR Newswire",
-      "summary": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri PR Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUDdJRjVQRFVUU3k3UFcyTjkyYmItaHFLZUVUbGZJMHEwamdmbHB5QXZiaDByaUNLc1dYT2FKeDBtUklSeEFidHlZM2NrTU9uQllZYlhKTFNlbmRFYUMtX1RKb2pfSk92UGd3Z283eFJVZ3ZGU0Frc1RkR3cyV1JPNkc4M2dkbHhrYkVldHdGb2wtNWFWQnNHbzRMVVJaSmxSTzhlall5OXlKd2NSVlRxV1hscmRGR2g1N2dSbU51Q3RPQ1V5TmhkeU1pZGlBSU94NTB6aG1KLVpiQnV0YThEa3ZKbFBDcXQ4YVJCbDZjTnFlUFVrT2hSZVFLbVdLQWFKRGZWaGNwWGc0Zw?oc=5",
+      "title": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri - 巴士的報",
+      "summary": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNa3lwa2g2RlQ4X25Ic09vX2l3Nkt2VHozVnpnSjdUNHROeGtwQVJZaUYtcmlpNnFFMTZkeVBFdUR5M2QxcExoOEhtN1UtSGFvNTVLb21QMGtZVzBoeWFUSDdhQlFLbnpSN0tuWTJYM0dNM21IWXczcU9ZRHA0WUpoaFd4blNfOTI4aGZHMDNtdmtSN2h5X1hwU3VwSFpMQW1oUHpON00zR1Z2Szh2d1JqakZhcFNRb1hLUXd1d1JuU05XaWZ1aXgweGRSVmFqTC1GelhUQ29GaDc0b3AyMFFYQnNxVDFCZVFvNTgtelJ1Z2FJLW14cDByNEZwdjJ0QUdYZW5LOQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
       "published_at": "2026-06-08T15:00:00Z",
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri - PR Newswire 30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri PR Haberleri Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response - PR Newswire Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response PR Newswire Robotics Automation Industry",
-      "title_original": "Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response - PR Newswire",
-      "summary_original": "Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response PR Newswire",
+      "keywords": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri - 巴士的報 30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response - 巴士的報 Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response 巴士的報 Robotics Automation Industry",
+      "title_original": "Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response - 巴士的報",
+      "summary_original": "Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response 巴士的報",
       "published_display": "2026-06-08",
-      "id": "6d8bfdf4afc2"
+      "id": "e83ed095066a"
     },
     {
       "category": "web",
@@ -475,7 +475,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, saldırganın ayrıcalıklı işlemler yürütmesine neden olabilir. Rockwell Automation FactoryTalk Analytics PavilionX'in aşağıdaki sürümleri etkilenir: FactoryTalk Analytic...",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıklı işlemler yürütmesine neden olabilir. Rockwell Automation FactoryTalk Analytics PavilionX'in aşağıdaki sürümleri etkilenir: FactoryTalk Analytic...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -485,7 +485,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Rockwell Automation FactoryTalk Analytics PavilionX CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, saldırganın ayrıcalıklı işlemler yürütmesine neden olabilir. Rockwell Automation FactoryTalk Analytics PavilionX'in aşağıdaki sürümleri etkilenir: FactoryTalk Analytic... Rockwell Automation FactoryTalk Analytics PavilionX View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytic... CISA Advisory Threat",
+      "keywords": "Rockwell Automation FactoryTalk Analytics PavilionX CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıklı işlemler yürütmesine neden olabilir. Rockwell Automation FactoryTalk Analytics PavilionX'in aşağıdaki sürümleri etkilenir: FactoryTalk Analytic... Rockwell Automation FactoryTalk Analytics PavilionX View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytic... CISA Advisory Threat",
       "title_original": "Rockwell Automation FactoryTalk Analytics PavilionX",
       "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytic...",
       "published_display": "2026-06-16",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Rockwell Automation FLEX I/O EtherNet/IP Adaptörleri",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın yetkisiz erişim elde etmesine, hesabı ele geçirmesine ve kullanılabilirlik kaybına yol açmasına neden olabilir. Rockwell Automation FLEX I/O EtherNet/IP'nin aşağıdaki sürümleri...",
+      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın yetkisiz erişim elde etmesine, hesabı ele geçirmesine ve kullanılabilirlik kaybına neden olmasına neden olabilir. Rockwell Automation FLEX I/O EtherNet/IP'nin aşağıdaki sürümleri...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05",
       "image_url": null,
       "source": "CISA Advisories",
@@ -505,7 +505,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Rockwell Automation FLEX I/O EtherNet/IP Adaptörleri CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın yetkisiz erişim elde etmesine, hesabı ele geçirmesine ve kullanılabilirlik kaybına yol açmasına neden olabilir. Rockwell Automation FLEX I/O EtherNet/IP'nin aşağıdaki sürümleri... Rockwell Automation FLEX I/O EtherNet/IP Adapters View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP... CISA Advisory Threat",
+      "keywords": "Rockwell Automation FLEX I/O EtherNet/IP Adaptörleri CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın yetkisiz erişim elde etmesine, hesabı ele geçirmesine ve kullanılabilirlik kaybına neden olmasına neden olabilir. Rockwell Automation FLEX I/O EtherNet/IP'nin aşağıdaki sürümleri... Rockwell Automation FLEX I/O EtherNet/IP Adapters View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP... CISA Advisory Threat",
       "title_original": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
       "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP...",
       "published_display": "2026-06-16",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -565,17 +565,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "015a81ebc793"
+      "id": "27b0f26a0dc9"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
