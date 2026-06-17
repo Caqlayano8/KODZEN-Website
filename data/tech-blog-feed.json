@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-17T15:00:00Z",
+  "updated_at": "2026-06-17T19:41:46Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Her belirteçten daha fazlasını elde etmek: Copilot bağlam işlemeyi ve model yönlendirmeyi nasıl geliştiriyor?",
+      "summary": "GitHub Copilot, kredilerinizin daha da ileriye gitmesi için her oturumun daha fazlasının yararlı çalışmalara yönelmesini nasıl sağlıyor? Her belirteçten daha fazlasını elde etmek: Copilot bağlam işlemeyi ve model yönlendirmeyi nasıl geliştirir yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-17T19:41:46Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Her belirteçten daha fazlasını elde etmek: Copilot bağlam işlemeyi ve model yönlendirmeyi nasıl geliştiriyor? GitHub Copilot, kredilerinizin daha da ileriye gitmesi için her oturumun daha fazlasının yararlı çalışmalara yönelmesini nasıl sağlıyor? Her belirteçten daha fazlasını elde etmek: Copilot bağlam işlemeyi ve model yönlendirmeyi nasıl geliştirir yazısı ilk olarak GitHub Blogunda göründü. Getting more from each token: How Copilot improves context handling and model routing How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Getting more from each token: How Copilot improves context handling and model routing",
+      "summary_original": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
+      "published_display": "2026-06-17",
+      "id": "24cc283c8a1e"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "693a867caa84"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot CLI'yi yetki verme konusunda nasıl daha seçici hale getirdik",
-      "summary": "Tek bir yeni düğme olmadan daha iyi orkestrasyon, daha az geçiş, daha hızlı ilerleme. GitHub Copilot CLI'yi yetki verme konusunda nasıl daha seçici hale getirdik yazısı ilk olarak GitHub Blogunda çıktı.",
-      "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-12T22:26:23Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub Copilot CLI'yi yetki verme konusunda nasıl daha seçici hale getirdik Tek bir yeni düğme olmadan daha iyi orkestrasyon, daha az geçiş, daha hızlı ilerleme. GitHub Copilot CLI'yi yetki verme konusunda nasıl daha seçici hale getirdik yazısı ilk olarak GitHub Blogunda çıktı. How we made GitHub Copilot CLI more selective about delegation Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "How we made GitHub Copilot CLI more selective about delegation",
-      "summary_original": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog .",
-      "published_display": "2026-06-12",
-      "id": "9d8580678402"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Yeni araştırmalar, tıbbi yapay zekamız AMIE'nin sağlık koşullarını yönetmeye nasıl yardımcı olabileceğini gösteriyor.",
@@ -170,6 +170,26 @@
       "summary_original": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "published_display": "2026-06-17",
       "id": "43b88ab5fa25"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "LifeSciBench'e Giriş",
+      "summary": "Yapay zeka sistemlerinin gerçek dünyadaki yaşam bilimi araştırma görevlerini ve kararlarını nasıl ele aldığını değerlendirmek için uzmanların yazdığı, uzmanların gözden geçirdiği bir kıyaslama olan LifeSciBench ile tanışın.",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-17T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "LifeSciBench'e Giriş Yapay zeka sistemlerinin gerçek dünyadaki yaşam bilimi araştırma görevlerini ve kararlarını nasıl ele aldığını değerlendirmek için uzmanların yazdığı, uzmanların gözden geçirdiği bir kıyaslama olan LifeSciBench ile tanışın. Introducing LifeSciBench Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions. AI OpenAI Model",
+      "title_original": "Introducing LifeSciBench",
+      "summary_original": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "published_display": "2026-06-17",
+      "id": "a931eeca3a9f"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
       "published_display": "2026-06-15",
       "id": "823b43270291"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI İş Ortağı Ağıyla Tanışın",
-      "summary": "OpenAI, küresel ortakların kurumsal yapay zekanın benimsenmesini, konuşlandırılmasını ve dönüşümünü hızlandırmasına yardımcı olmak için 150 milyon dolar yatırım yaparak Ortak Ağını başlattı.",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-14T17:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI İş Ortağı Ağıyla Tanışın OpenAI, küresel ortakların kurumsal yapay zekanın benimsenmesini, konuşlandırılmasını ve dönüşümünü hızlandırmasına yardımcı olmak için 150 milyon dolar yatırım yaparak Ortak Ağını başlattı. Introducing the OpenAI Partner Network OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation. AI OpenAI Model",
-      "title_original": "Introducing the OpenAI Partner Network",
-      "summary_original": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "published_display": "2026-06-14",
-      "id": "3b299e187476"
     },
     {
       "category": "robotik",
