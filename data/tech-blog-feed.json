@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-18T14:25:27Z",
+  "updated_at": "2026-06-18T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Çekme isteği sınırları gürültüyü nasıl azaltıyor?",
+      "summary": "Çekme isteği sınırlarının veri havuzlarınızdaki katkı hacmini yönetmenize nasıl yardımcı olabileceğini öğrenin ve yol haritasında sırada ne olduğunu görün. Çekme isteği sınırları gürültüyü nasıl azaltıyor yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-18T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Çekme isteği sınırları gürültüyü nasıl azaltıyor? Çekme isteği sınırlarının veri havuzlarınızdaki katkı hacmini yönetmenize nasıl yardımcı olabileceğini öğrenin ve yol haritasında sırada ne olduğunu görün. Çekme isteği sınırları gürültüyü nasıl azaltıyor yazısı ilk olarak GitHub Blogunda göründü. How pull request limits are cutting down the noise Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "How pull request limits are cutting down the noise",
+      "summary_original": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog .",
+      "published_display": "2026-06-18",
+      "id": "aeecb90cee6a"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,24 @@
       "id": "6370a51dd46e"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub Copilot CLI: Yaygın eğik çizgi komutlarına genel bakış",
-      "summary": "Yeni Başlayanlar için GitHub Copilot CLI: Terminal AI aracınızı kontrol etmek için eğik çizgi komutlarını nasıl kullanacağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot CLI: Genel eğik çizgi komutlarına genel bakış yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Doktorların çocukları etkileyen nadir genetik hastalıkları teşhis etmesine yardımcı olmak için yapay zekayı kullanma",
+      "summary": "Araştırmacılar, nadir hastalıkların teşhisine yardımcı olmak için bir OpenAI akıl yürütme modeli kullandı ve daha önce çözülmemiş vakalarda 18 yeni tanı belirledi.",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-15T20:15:31Z",
+      "source": "OpenAI News",
+      "published_at": "2026-06-18T08:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot CLI: Yaygın eğik çizgi komutlarına genel bakış Yeni Başlayanlar için GitHub Copilot CLI: Terminal AI aracınızı kontrol etmek için eğik çizgi komutlarını nasıl kullanacağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot CLI: Genel eğik çizgi komutlarına genel bakış yazısı ilk olarak GitHub Blogunda yayınlandı. GitHub Copilot CLI for Beginners: Overview of common slash commands GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
-      "summary_original": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog .",
-      "published_display": "2026-06-15",
-      "id": "9b274dc64118"
+      "keywords": "Doktorların çocukları etkileyen nadir genetik hastalıkları teşhis etmesine yardımcı olmak için yapay zekayı kullanma Araştırmacılar, nadir hastalıkların teşhisine yardımcı olmak için bir OpenAI akıl yürütme modeli kullandı ve daha önce çözülmemiş vakalarda 18 yeni tanı belirledi. Using AI to help physicians diagnose rare genetic diseases affecting children Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases. AI OpenAI Model",
+      "title_original": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "summary_original": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "published_display": "2026-06-18",
+      "id": "d6425ef86c49"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "published_display": "2026-06-16",
       "id": "a1893afde937"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yeni yatırımlar ve topluluk desteğiyle Alabama'daki varlığımızı güçlendiriyoruz.",
-      "summary": "Google, Jackson County, Alabama'daki veri merkezi kampüsünü genişletmek için 2026 ve 2027 yılları için 1,5 milyar dolarlık yatırım yapacağını duyurdu. 2019'dan beri yeniden tasarlanmış bir eski binada faaliyet gösteriyor…",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "image_url": null,
-      "source": "Google AI Blog",
-      "published_at": "2026-06-15T15:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Yeni yatırımlar ve topluluk desteğiyle Alabama'daki varlığımızı güçlendiriyoruz. Google, Jackson County, Alabama'daki veri merkezi kampüsünü genişletmek için 2026 ve 2027 yılları için 1,5 milyar dolarlık yatırım yapacağını duyurdu. 2019'dan beri yeniden tasarlanmış bir eski binada faaliyet gösteriyor… We’re strengthening our presence in Alabama through new investments and community support. Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former… AI Product Google",
-      "title_original": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "summary_original": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "published_display": "2026-06-15",
-      "id": "823b43270291"
     },
     {
       "category": "robotik",
@@ -475,7 +475,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, saldırganın ayrıcalıklı işlemler yürütmesine neden olabilir. Rockwell Automation FactoryTalk Analytics PavilionX'in aşağıdaki sürümleri etkilenir: FactoryTalk Analytic...",
+      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıklı işlemler yürütmesine neden olabilir. Rockwell Automation FactoryTalk Analytics PavilionX'in aşağıdaki sürümleri etkilenir: FactoryTalk Analytic...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -485,7 +485,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Rockwell Automation FactoryTalk Analytics PavilionX CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, saldırganın ayrıcalıklı işlemler yürütmesine neden olabilir. Rockwell Automation FactoryTalk Analytics PavilionX'in aşağıdaki sürümleri etkilenir: FactoryTalk Analytic... Rockwell Automation FactoryTalk Analytics PavilionX View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytic... CISA Advisory Threat",
+      "keywords": "Rockwell Automation FactoryTalk Analytics PavilionX CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, bir saldırganın ayrıcalıklı işlemler yürütmesine neden olabilir. Rockwell Automation FactoryTalk Analytics PavilionX'in aşağıdaki sürümleri etkilenir: FactoryTalk Analytic... Rockwell Automation FactoryTalk Analytics PavilionX View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytic... CISA Advisory Threat",
       "title_original": "Rockwell Automation FactoryTalk Analytics PavilionX",
       "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytic...",
       "published_display": "2026-06-16",
