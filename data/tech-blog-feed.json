@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-17T19:41:46Z",
+  "updated_at": "2026-06-18T14:25:27Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Becerilerinize aşırı yüklenmeyi bırakın",
+      "summary": "Teknolojiniz için bir beceri geliştirdiniz. API referansları, kimlik doğrulama akışları, SDK kalıpları, hata işleme, sürüm bilgileri, hepsi tek bir beceride toplanmıştır. Aracı onu çağırır, tüm bu bağlamı alır ve kod üretir. Vurucu mu? Sen sadece...",
+      "url": "https://devblogs.microsoft.com/blog/stop-overloading-your-skills",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-06-18T14:25:27Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Becerilerinize aşırı yüklenmeyi bırakın Teknolojiniz için bir beceri geliştirdiniz. API referansları, kimlik doğrulama akışları, SDK kalıpları, hata işleme, sürüm bilgileri, hepsi tek bir beceride toplanmıştır. Aracı onu çağırır, tüm bu bağlamı alır ve kod üretir. Vurucu mu? Sen sadece... Stop overloading your skills You built a skill for your technology. API references, authentication flows, SDK patterns, error handling, version info, all packed into one skill. The agent calls it, gets all that context, and generates code. The kicker? You’ve just wa... Microsoft Dev Cloud",
+      "title_original": "Stop overloading your skills",
+      "summary_original": "You built a skill for your technology. API references, authentication flows, SDK patterns, error handling, version info, all packed into one skill. The agent calls it, gets all that context, and generates code. The kicker? You’ve just wa...",
+      "published_display": "2026-06-18",
+      "id": "86bbcc481459"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog .",
       "published_display": "2026-06-15",
       "id": "9b274dc64118"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni bir açık veri kümesiyle çok dilli yapay zeka oluşturmayı hızlandıran araştırmacılar ve geliştiriciler",
-      "summary": "GitHub'da CC0-1.0 kapsamında yayınlanan yeni bir depo düzeyinde veri kümesi, araştırmacıların ve geliştiricilerin README'ler, sorunlar ve çekme istekleri genelinde çok dilli geliştirici içeriğini keşfetmesine yardımcı olur. Araştırmaları ve geliştiricileri hızlandırma yazısı...",
-      "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-15T19:17:30Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Yeni bir açık veri kümesiyle çok dilli yapay zeka oluşturmayı hızlandıran araştırmacılar ve geliştiriciler GitHub'da CC0-1.0 kapsamında yayınlanan yeni bir depo düzeyinde veri kümesi, araştırmacıların ve geliştiricilerin README'ler, sorunlar ve çekme istekleri genelinde çok dilli geliştirici içeriğini keşfetmesine yardımcı olur. Araştırmaları ve geliştiricileri hızlandırma yazısı... Accelerating researchers and developers building multilingual AI with a new open dataset A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers build... GitHub Dev Platform",
-      "title_original": "Accelerating researchers and developers building multilingual AI with a new open dataset",
-      "summary_original": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers build...",
-      "published_display": "2026-06-15",
-      "id": "693a867caa84"
     },
     {
       "category": "ai",
@@ -594,22 +594,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
+      "title": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com",
+      "summary": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-01-29T08:00:00Z",
+      "published_at": "2026-01-22T08:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
-      "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "keywords": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "published_display": "2026-01-22",
+      "id": "50e5e9d0bb44"
     },
     {
       "category": "kamera",
