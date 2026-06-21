@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "updated_at": "2026-06-19T16:00:00Z",
-  "total_posts": 31,
+  "total_posts": 25,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 4,
-    "kamera": 6
+    "kamera": 0
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Dahili bir veri analizi aracısını nasıl oluşturduk?",
-      "summary": "Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte onu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı...",
+      "summary": "Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte bunu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Dahili bir veri analizi aracısını nasıl oluşturduk? Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte onu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı... How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir... GitHub Dev Platform",
+      "keywords": "Dahili bir veri analizi aracısını nasıl oluşturduk? Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte bunu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı... How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir... GitHub Dev Platform",
       "title_original": "How we built an internal data analytics agent",
       "summary_original": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir...",
       "published_display": "2026-06-19",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT'de sağlık istihbaratını iyileştirme",
-      "summary": "GPT-5.5 Instant'ın, daha güçlü muhakeme, daha iyi bağlam, daha net iletişim ve hekimlerin bilgilendirdiği değerlendirmelerle ChatGPT'nin sağlık ve zindelik yanıtlarını nasıl iyileştirdiğini öğrenin.",
+      "summary": "GPT-5.5 Instant'ın daha güçlü muhakeme, daha iyi bağlam, daha net iletişim ve doktor bilgili değerlendirmelerle ChatGPT'nin sağlık ve sağlıklı yaşam yanıtlarını nasıl iyileştirdiğini öğrenin.",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT'de sağlık istihbaratını iyileştirme GPT-5.5 Instant'ın, daha güçlü muhakeme, daha iyi bağlam, daha net iletişim ve hekimlerin bilgilendirdiği değerlendirmelerle ChatGPT'nin sağlık ve zindelik yanıtlarını nasıl iyileştirdiğini öğrenin. Improving health intelligence in ChatGPT Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations. AI OpenAI Model",
+      "keywords": "ChatGPT'de sağlık istihbaratını iyileştirme GPT-5.5 Instant'ın daha güçlü muhakeme, daha iyi bağlam, daha net iletişim ve doktor bilgili değerlendirmelerle ChatGPT'nin sağlık ve sağlıklı yaşam yanıtlarını nasıl iyileştirdiğini öğrenin. Improving health intelligence in ChatGPT Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations. AI OpenAI Model",
       "title_original": "Improving health intelligence in ChatGPT",
       "summary_original": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "published_display": "2026-06-18",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Yeni araştırmalar, tıbbi yapay zekamız AMIE'nin sağlık koşullarını yönetmeye nasıl yardımcı olabileceğini gösteriyor.",
-      "summary": "\"Nature\" dergisindeki araştırma, etkileşimli yapay zeka sistemimizin karmaşık hastalık yönetiminde birinci basamak hekimleriyle eşleştiğini gösteriyor.",
+      "summary": "\"Nature\" dergisindeki araştırma, konuşmaya dayalı yapay zeka sistemimizin karmaşık hastalık yönetiminde birinci basamak hekimleriyle eşleştiğini gösteriyor.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -205,7 +205,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Yeni araştırmalar, tıbbi yapay zekamız AMIE'nin sağlık koşullarını yönetmeye nasıl yardımcı olabileceğini gösteriyor. \"Nature\" dergisindeki araştırma, etkileşimli yapay zeka sistemimizin karmaşık hastalık yönetiminde birinci basamak hekimleriyle eşleştiğini gösteriyor. New research shows how AMIE, our medical AI, could help manage health conditions. Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management. AI Product Google",
+      "keywords": "Yeni araştırmalar, tıbbi yapay zekamız AMIE'nin sağlık koşullarını yönetmeye nasıl yardımcı olabileceğini gösteriyor. \"Nature\" dergisindeki araştırma, konuşmaya dayalı yapay zeka sistemimizin karmaşık hastalık yönetiminde birinci basamak hekimleriyle eşleştiğini gösteriyor. New research shows how AMIE, our medical AI, could help manage health conditions. Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management. AI Product Google",
       "title_original": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "summary_original": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
       "published_display": "2026-06-17",
@@ -254,26 +254,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Cognex CEO'su Matt Moschner, Yapay Zeka Destekli Makine Görme ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda - Teknik Özetler",
-      "summary": "Cognex CEO'su Matt Moschner, Yapay Zeka ile Güçlendirilmiş Yapay Görme Teknolojisi ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda Konuşuyor",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZVdsVHBhNi0yeUNSeW9IWm04UVdZUG8yeWd3dHZSeVpNWFpzYWlJRGlmTkxnLUl5d0JuNFQ4Q2g3cVNiSFNyVUxpZ2FFa0FISlh3Z2hHMVpBZmwzUzQ0MWFSTTlHUF90aHJvLUNtd0tjRWMxeTBwMTg3MmNIUGROUmw1UXhXVFdoMzZtbWtLa1pvOGFRMEdJUDF1ZTRrQkc2OHBCVFE4WFF2ZWJaYjBtMkNkckExNTctQV9SVmZfSFRDM0xoYnpZWGV4S2c1b0cxTUlnczlZSk16S3ZiR0pYRnVWRQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-19T11:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Cognex CEO'su Matt Moschner, Yapay Zeka Destekli Makine Görme ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda - Teknik Özetler Cognex CEO'su Matt Moschner, Yapay Zeka ile Güçlendirilmiş Yapay Görme Teknolojisi ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda Konuşuyor Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs Robotics Automation Industry",
-      "title_original": "Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs",
-      "summary_original": "Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs",
-      "published_display": "2026-06-19",
-      "id": "99eda2807b75"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Fiziksel yapay zeka, somutlaştırılmış robot teknolojisi ve aracılı sistemler, üretimin 2026 ortası istihbarat hamlesinin başında geliyor - MarketScale",
       "summary": "Fiziksel yapay zeka, somutlaştırılmış robot teknolojisi ve aracılı sistemler, üretimin 2026 ortası istihbarat hamlesinin manşetlerinde yer alıyor MarketScale",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOTVycFNyaEtpMG1mMEtkNWRBYzQyR21SZk0xeFZsUThMeFg2Z21EZWwxWE5BUzJUQmtJVTl0UDNsVXhiZG50WTFOMVlNaXlCMmdfaTlNa04yb2hHYVVwNVRsSFFhemFtWXdYSnlCb05RQ2MxQlQ3TWpuRDlqVzhzQ1pfdm5fdUxWUV9lUzJLbGNoaTRpc1lnbnlYcVg4UGZFOG1BQjNROWZ5QV9UOGtyampqeDdoLTVSOGNLN0VwdllOT0d3Z2swRGRQNVBUc0hLMWRwaHdOSXZibmpQMW4xeGpITmhPV1Awbnc?oc=5",
@@ -295,7 +275,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Genesis AI ilk genel amaçlı insansı robotu piyasaya sürdü - Robotik ve Otomasyon Haberleri",
-      "summary": "Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürdü Robotik ve Otomasyon Haberleri",
+      "summary": "Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürüyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUMyUVVSako0aTliSzhxd0JmSGlJX3RESUVhOHNlT3c5RnhOcFNidTlNSEZmb25VUm5YcnRhZEN5S3BwdWVEY2NFdi1zcGZtWGNnV1BOSDFaMXB5MFEwLUxEQV95U2E2aWFtRndMVjFPYWNLQkJlczQyMjlwOVBiOUExUzNKYUViWk5VQ1JMeW9aazdaZ0p6cVhyZndVY3EyZ2pSUWdqR2hKa1hMeTg4b2ZNbw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Genesis AI ilk genel amaçlı insansı robotu piyasaya sürdü - Robotik ve Otomasyon Haberleri Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürdü Robotik ve Otomasyon Haberleri Genesis AI launches first general-purpose humanoid robot - Robotics & Automation News Genesis AI launches first general-purpose humanoid robot Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Genesis AI ilk genel amaçlı insansı robotu piyasaya sürdü - Robotik ve Otomasyon Haberleri Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürüyor Robotik ve Otomasyon Haberleri Genesis AI launches first general-purpose humanoid robot - Robotics & Automation News Genesis AI launches first general-purpose humanoid robot Robotics & Automation News Robotics Automation Industry",
       "title_original": "Genesis AI launches first general-purpose humanoid robot - Robotics & Automation News",
       "summary_original": "Genesis AI launches first general-purpose humanoid robot Robotics & Automation News",
       "published_display": "2026-06-17",
@@ -354,22 +334,42 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune",
-      "summary": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWpTYlNaUDA0Y1ZscnBmbFNIOW1LZWF3d2hqaXp0WDQ4RmxVemFPeWhWX084dFBMNmc0SFg0VThkMVJOMG5KTU81N05tNWVxT19tWk1HbVk3RVgtd1JNT2RoVnhDUkt3VGJFVklVSWRjZ0tPcE1sbUdGMC1CeTRsWkxDLVpCbkR6RTJVNnYwNzhZWEN3MVl1VElIQmR0YkVEZ2FRcldsRHlnNHVkbmJVdEZRY1pIU0djbVUtNDNsN1NCbXRWRVdFM2hQZVpRTWVMMkE?oc=5",
+      "title": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri",
+      "summary": "Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmpTQXRFS0dxMEJ1UHVVQUQzYnB1dUN6STJ5MnZLM3VfUW5hV255eXkyR3UzZGgzRkZhbkFNR1dFUGhiaUctajIyYmNQOW1WaXdIOFB0cmh4R1ZTN0tfcHp0WV9iLWhIajZVRUpDUUVmeEJORURFVTJUVTRiZDVGSjh6dWpobjZmb25Eak1IbW5ncG9xRExZTkRqNWtRSkdOb2NmTVhvMWRCS0FxU3h1QVN1cHJWUFozMW5lQXRZZ0pyVVByS1p0Y0t3dUZheEJZVFF3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-11T00:35:24Z",
+      "published_at": "2026-06-09T16:27:53Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune Robotics Automation Industry",
-      "title_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune",
-      "summary_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune",
-      "published_display": "2026-06-11",
-      "id": "839f088a2b14"
+      "keywords": "Mesoware, üretim için yapay zeka destekli robotlar üretmek üzere 1,5 milyon dolar fon topladı - Robotik ve Otomasyon Haberleri Mesoware, Robotik ve Otomasyon üretimine yönelik yapay zeka destekli robotlar üretmek için 1,5 milyon dolar fon topladı Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing - Robotics & Automation News",
+      "summary_original": "Mesoware raises $1.5 million funding to build AI-powered robots for manufacturing Robotics & Automation News",
+      "published_display": "2026-06-09",
+      "id": "a122555f142b"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Mesoware, Üreticiler için Endüstriyel Robotiği Basitleştirmek İçin 1,5 Milyon Dolar Topladı - Unite.AI",
+      "summary": "Mesoware, Üreticiler Unite.AI için Endüstriyel Robot Teknolojisini Basitleştirmek İçin 1,5 Milyon Dolar Topladı",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHAzei1STFI3ek5sX203LTVYaHlTVldGZHJJclBoSUNWNU1VbVAtVTRXOTExSnN6ZndNZkMtYlBpZW5MQlJGVnZLUGYwN05PVW5Hd0xJbjMxN1hUbHZfR016Qm1tdHZKSnNmTkVtekhlSU9MSnpLalpFZGFsbE1mU2dSZk5QZ3g2aW1nTlZod3JneGdQMnNncWhFbHllMzIw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-09T14:32:28Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Mesoware, Üreticiler için Endüstriyel Robotiği Basitleştirmek İçin 1,5 Milyon Dolar Topladı - Unite.AI Mesoware, Üreticiler Unite.AI için Endüstriyel Robot Teknolojisini Basitleştirmek İçin 1,5 Milyon Dolar Topladı Mesoware Raises $1.5 Million to Simplify Industrial Robotics for Manufacturers - Unite.AI Mesoware Raises $1.5 Million to Simplify Industrial Robotics for Manufacturers Unite.AI Robotics Automation Industry",
+      "title_original": "Mesoware Raises $1.5 Million to Simplify Industrial Robotics for Manufacturers - Unite.AI",
+      "summary_original": "Mesoware Raises $1.5 Million to Simplify Industrial Robotics for Manufacturers Unite.AI",
+      "published_display": "2026-06-09",
+      "id": "58b56484a940"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
-      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "summary": "Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -505,131 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
       "title_original": "Project Glasswing: what Mythos showed us",
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
       "id": "954e94cb1931"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
-      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-05-18T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
-      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
-      "published_display": "2026-05-18",
-      "id": "89e9ec78b392"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
-      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
-      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
-      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
-      "published_display": "2026-03-11",
-      "id": "651206b2fe26"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-29T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
-      "published_display": "2026-01-29",
-      "id": "f4f88664728b"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "AG, Nebraskalıların mahremiyetini riske atan güvenlik kameraları sattığı için Resideo'ya dava açtı - Central Nebraska Today",
-      "summary": "AG, Nebraskalıların mahremiyetini riske atan güvenlik kameraları sattığı için Resideo'ya dava açtı Central Nebraska Today",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSW5GdmcwZW5BWmRSdms0WkxlXzdhcW9mSThaNkVORThhaTZKNndtQ0pUWnBweTcyOUJMUXFhWkNyT1ZKY1g5TExCMzliRlE5Ul9fY1duaHZUeUczek9qZUdRdFdwT09ZQjFuMjRWOXRYdmplUE5yODRfSGZJMUcxYUh3d2hRbXpXTTNBdTlhOUhqX0xySkd6bzhIOUtvcDd0UGZQN21FN2R5dlNVZ2pLb1F6QVE2SXo1R24yUzRyV1FWVEZhQVhJMQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-12-22T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "AG, Nebraskalıların mahremiyetini riske atan güvenlik kameraları sattığı için Resideo'ya dava açtı - Central Nebraska Today AG, Nebraskalıların mahremiyetini riske atan güvenlik kameraları sattığı için Resideo'ya dava açtı Central Nebraska Today AG sues Resideo for selling security cameras that put Nebraskans’ privacy at risk - Central Nebraska Today AG sues Resideo for selling security cameras that put Nebraskans’ privacy at risk Central Nebraska Today IP Camera Video Surveillance",
-      "title_original": "AG sues Resideo for selling security cameras that put Nebraskans’ privacy at risk - Central Nebraska Today",
-      "summary_original": "AG sues Resideo for selling security cameras that put Nebraskans’ privacy at risk Central Nebraska Today",
-      "published_display": "2025-12-22",
-      "id": "749be6ec2129"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında - TechRadar",
-      "summary": "Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOG8tR3hZLVpRcC16TWszeTd1Z0E0UHpqVWFyNWUzNXpDVUtBMWRTZXViRTRoTkloNmdXa20wZWlaTEw1OV9qX1lTaGJ5OHJPNHgyYzBINmtVaHZYWjUzY2RjZUl1LUNOVGF4OElTb1l4WmpMZTJIX1JvSGxUSWhyeVBfRktxV3EzOG1SZkxBWFFaTW8yd3lfdl9kTVdreVkzR2h3YWxlcGk1bGV5c0lBbEJ6a0ltb3AzUzRPaUhDYWNNSWgtTWVKVTg3VzNvN1ByRTFxVEVJZW9DNWJjSVlJ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-14T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında - TechRadar Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında TechRadar Millions of Dahua security cameras at risk from unauthenticated takeover flaws - TechRadar Millions of Dahua security cameras at risk from unauthenticated takeover flaws TechRadar IP Camera Video Surveillance",
-      "title_original": "Millions of Dahua security cameras at risk from unauthenticated takeover flaws - TechRadar",
-      "summary_original": "Millions of Dahua security cameras at risk from unauthenticated takeover flaws TechRadar",
-      "published_display": "2025-08-14",
-      "id": "80b07d55cb9e"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
-      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-08T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
-      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
-      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
-      "published_display": "2025-08-08",
-      "id": "009e6db74527"
     }
   ]
 }
