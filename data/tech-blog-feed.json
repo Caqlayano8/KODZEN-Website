@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "updated_at": "2026-06-19T16:00:00Z",
-  "total_posts": 32,
+  "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
-    "siber": 5,
+    "siber": 4,
     "kamera": 6
   },
   "posts": [
@@ -510,26 +510,6 @@
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
       "id": "954e94cb1931"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Cloudflare, \"Kopyalama Başarısız\" Linux güvenlik açığına nasıl yanıt verdi?",
-      "summary": "Kritik bir Linux çekirdeği ayrıcalık artışı kamuya açıklandığında, Cloudflare'in güvenlik ve mühendislik ekipleri küresel filomuzdaki tehdidi tespit etti, araştırdı ve hafifletti; böylece müşteri etkisinin sıfır olduğunu ve kötü amaçlı bir saldırının olmadığını doğruladı.",
-      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-      "image_url": null,
-      "source": "Cloudflare Security",
-      "published_at": "2026-05-07T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Cloudflare, \"Kopyalama Başarısız\" Linux güvenlik açığına nasıl yanıt verdi? Kritik bir Linux çekirdeği ayrıcalık artışı kamuya açıklandığında, Cloudflare'in güvenlik ve mühendislik ekipleri küresel filomuzdaki tehdidi tespit etti, araştırdı ve hafifletti; böylece müşteri etkisinin sıfır olduğunu ve kötü amaçlı bir saldırının olmadığını doğruladı. How Cloudflare responded to the “Copy Fail” Linux vulnerability When a critical Linux kernel privilege escalation was publicly disclosed, Cloudflare's security and engineering teams detected, investigated, and mitigated the threat across our global fleet, confirming zero customer impact and no malici... Cloudflare Security Web",
-      "title_original": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
-      "summary_original": "When a critical Linux kernel privilege escalation was publicly disclosed, Cloudflare's security and engineering teams detected, investigated, and mitigated the threat across our global fleet, confirming zero customer impact and no malici...",
-      "published_display": "2026-05-07",
-      "id": "0b49f45be1ab"
     },
     {
       "category": "kamera",
