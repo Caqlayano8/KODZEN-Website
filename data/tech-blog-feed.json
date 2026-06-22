@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-22T14:53:23Z",
+  "updated_at": "2026-06-22T15:38:16Z",
   "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Modellerin tercihleri ​​yoktur, bağlamları vardır",
-      "summary": "Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyor. Birkaçı kendi sonuçlarıyla cevap verdi...",
+      "summary": "Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyorlar. Birkaçı kendi sonuçlarıyla cevap verdi...",
       "url": "https://devblogs.microsoft.com/blog/models-dont-have-preferences-they-have-context",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,7 +25,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Modellerin tercihleri ​​yoktur, bağlamları vardır Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyor. Birkaçı kendi sonuçlarıyla cevap verdi... Models don’t have preferences, they have context You open a fresh chat, type “What framework should I use for a web app?”, and the model says “React.” You screenshot it, share it, and write “Claude prefers React.” It gets engagement. People nod along. A few reply with their own results... Microsoft Dev Cloud",
+      "keywords": "Modellerin tercihleri ​​yoktur, bağlamları vardır Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyorlar. Birkaçı kendi sonuçlarıyla cevap verdi... Models don’t have preferences, they have context You open a fresh chat, type “What framework should I use for a web app?”, and the model says “React.” You screenshot it, share it, and write “Claude prefers React.” It gets engagement. People nod along. A few reply with their own results... Microsoft Dev Cloud",
       "title_original": "Models don’t have preferences, they have context",
       "summary_original": "You open a fresh chat, type “What framework should I use for a web app?”, and the model says “React.” You screenshot it, share it, and write “Claude prefers React.” It gets engagement. People nod along. A few reply with their own results...",
       "published_display": "2026-06-22",
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Dahili bir veri analizi aracısını nasıl oluşturduk?",
-      "summary": "Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte bunu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı...",
+      "summary": "Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte onu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Dahili bir veri analizi aracısını nasıl oluşturduk? Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte bunu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı... How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir... GitHub Dev Platform",
+      "keywords": "Dahili bir veri analizi aracısını nasıl oluşturduk? Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte onu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı... How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir... GitHub Dev Platform",
       "title_original": "How we built an internal data analytics agent",
       "summary_original": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir...",
       "published_display": "2026-06-19",
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Gezegene Yama: Açık kaynak bakımcılarını desteklemeye yönelik bir Daybreak girişimi",
+      "summary": "OpenAI, açık kaynak bakımcılarının yapay zeka ve uzman incelemesi ile güvenlik açıklarını bulmasına, doğrulamasına ve düzeltmesine yardımcı olan bir Daybreak girişimi olan Patch the Planet'i tanıtıyor.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-22T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Gezegene Yama: Açık kaynak bakımcılarını desteklemeye yönelik bir Daybreak girişimi OpenAI, açık kaynak bakımcılarının yapay zeka ve uzman incelemesi ile güvenlik açıklarını bulmasına, doğrulamasına ve düzeltmesine yardımcı olan bir Daybreak girişimi olan Patch the Planet'i tanıtıyor. Patch the Planet: a Daybreak initiative to support open source maintainers OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review. AI OpenAI Model",
+      "title_original": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary_original": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "published_display": "2026-06-22",
+      "id": "02724d372e5c"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Daybreak: Dünyadaki her organizasyonun güvenliğini sağlamaya yönelik araçlar",
+      "summary": "OpenAI, kuruluşların güvenlik açıklarını geniş ölçekte bulmasına, doğrulamasına ve yamalamasına yardımcı olmak için Codex Security ve GPT-5.5-Cyber ​​dahil olmak üzere yeni Daybreak araçlarını sunuyor.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-22T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Daybreak: Dünyadaki her organizasyonun güvenliğini sağlamaya yönelik araçlar OpenAI, kuruluşların güvenlik açıklarını geniş ölçekte bulmasına, doğrulamasına ve yamalamasına yardımcı olmak için Codex Security ve GPT-5.5-Cyber ​​dahil olmak üzere yeni Daybreak araçlarını sunuyor. Daybreak: Tools for securing every organization in the world OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale. AI OpenAI Model",
+      "title_original": "Daybreak: Tools for securing every organization in the world",
+      "summary_original": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "published_display": "2026-06-22",
+      "id": "57c05695bb89"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Samsung Electronics, çalışanlarına ChatGPT ve Codex'i getiriyor",
       "summary": "Samsung Electronics, ChatGPT Enterprise ve Codex'i dünya çapındaki çalışanlarına dağıtarak OpenAI'nin en büyük kurumsal yapay zeka sunumlarından birini oluşturuyor.",
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
@@ -212,44 +252,24 @@
       "id": "d6425ef86c49"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yeni araştırmalar, tıbbi yapay zekamız AMIE'nin sağlık koşullarını yönetmeye nasıl yardımcı olabileceğini gösteriyor.",
-      "summary": "\"Nature\" dergisindeki araştırma, konuşmaya dayalı yapay zeka sistemimizin karmaşık hastalık yönetiminde birinci basamak hekimleriyle eşleştiğini gösteriyor.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-17T15:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Yeni araştırmalar, tıbbi yapay zekamız AMIE'nin sağlık koşullarını yönetmeye nasıl yardımcı olabileceğini gösteriyor. \"Nature\" dergisindeki araştırma, konuşmaya dayalı yapay zeka sistemimizin karmaşık hastalık yönetiminde birinci basamak hekimleriyle eşleştiğini gösteriyor. New research shows how AMIE, our medical AI, could help manage health conditions. Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management. AI Product Google",
-      "title_original": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "summary_original": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
-      "published_display": "2026-06-17",
-      "id": "fc50a539cc99"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Neredeyse otonom bir yapay zeka kimyageri, tıbbi kimyada zorlu bir reaksiyonu geliştiriyor",
-      "summary": "OpenAI ve Molecule.one, GPT-5.4'ü kullanan neredeyse otonom bir yapay zeka kimyagerinin, tıbbi kimya araştırmalarını ilerleterek önemli bir ilaç yapımı reaksiyonunu nasıl iyileştirdiğini gösteriyor.",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "MTC'den Mike Wilson ile röportaj: 'Birleşik Krallık üretimi yeniden inşa etmek istiyorsa otomasyon isteğe bağlı değildir' - Robotics & Automation News",
+      "summary": "MTC'den Mike Wilson ile röportaj: 'Birleşik Krallık üretimi yeniden inşa etmek istiyorsa otomasyon isteğe bağlı değildir' Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcHpLR3lhai1QQ0E3a2FnOTlSZGN2Sm5wcEF2RDFIOGlkalBFMDFFRVEtMy1VYlNkSWlKeWp6QnVBNzg1TlpWRFZXcWpVUEY1TjRLUDlhbTNCc29fVmhybHlwZ0hUYURUYmlibUR5emt3SE96SElMSzNLR0hodU4tMkZtSDJULWowYS1WamNIWUxrN0ZobmJaMG4yWDVfLU5qZ056dk8yTV9JV1lOT05GNXpvZ25Pc3RfeGU5ZHFzdWVrUHduZDdGZkxlazZjNHNtWFI2OUpPcDlZQWthc2puNXhMYVcySzRTQm9IVg?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-17T10:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-06-22T15:38:16Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Neredeyse otonom bir yapay zeka kimyageri, tıbbi kimyada zorlu bir reaksiyonu geliştiriyor OpenAI ve Molecule.one, GPT-5.4'ü kullanan neredeyse otonom bir yapay zeka kimyagerinin, tıbbi kimya araştırmalarını ilerleterek önemli bir ilaç yapımı reaksiyonunu nasıl iyileştirdiğini gösteriyor. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research. AI OpenAI Model",
-      "title_original": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "summary_original": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "published_display": "2026-06-17",
-      "id": "43b88ab5fa25"
+      "keywords": "MTC'den Mike Wilson ile röportaj: 'Birleşik Krallık üretimi yeniden inşa etmek istiyorsa otomasyon isteğe bağlı değildir' - Robotics & Automation News MTC'den Mike Wilson ile röportaj: 'Birleşik Krallık üretimi yeniden inşa etmek istiyorsa otomasyon isteğe bağlı değildir' Robotik ve Otomasyon Haberleri Interview with MTC’s Mike Wilson: ‘Automation is not optional if the UK wants to rebuild manufacturing’ - Robotics & Automation News Interview with MTC’s Mike Wilson: ‘Automation is not optional if the UK wants to rebuild manufacturing’ Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Interview with MTC’s Mike Wilson: ‘Automation is not optional if the UK wants to rebuild manufacturing’ - Robotics & Automation News",
+      "summary_original": "Interview with MTC’s Mike Wilson: ‘Automation is not optional if the UK wants to rebuild manufacturing’ Robotics & Automation News",
+      "published_display": "2026-06-22",
+      "id": "a0092cf73f6f"
     },
     {
       "category": "robotik",
@@ -334,27 +354,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Kawasaki Robotics, Automate 2026'da Yetenekli Fiziksel Yapay Zeka Robot Platformu ve Gelişmiş Otomasyon Teknolojilerini Tanıtıyor - Business Wire",
-      "summary": "Kawasaki Robotics, Automate 2026 Business Wire'da Becerikli Fiziksel Yapay Zeka Robot Platformu ve Gelişmiş Otomasyon Teknolojilerini Tanıtıyor",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcEtsMzJoYWNGV1VlRkExOGt2LVFPSFkzYTRPNmpJaFlDdm1heHNhX2FLS19wWXMwclVxcjRSWURuczRyMmcyY0VmZVloRU9JVFRMYjk5Q2FSTUczcTBWYVdQalo4ZDBXUm55NkIweE1WM2FWMmZyakN0c0pwaW5fQzJpY0owMlZzM2l4OG1fVjdfd2tMSkZHNDNCMEFEY2FmLXdYRlJ5MGdDTllYbmpENFRlRmlVekdZSXo0S3lEZkVYSG1MTXhINmJsU2ljSzQ3dklZQUZYX2VabGZkNHNvQjdqVWxyUmRLYWJzNklHN19LVlQxbWlrU0lVWXAydw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-16T14:15:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Kawasaki Robotics, Automate 2026'da Yetenekli Fiziksel Yapay Zeka Robot Platformu ve Gelişmiş Otomasyon Teknolojilerini Tanıtıyor - Business Wire Kawasaki Robotics, Automate 2026 Business Wire'da Becerikli Fiziksel Yapay Zeka Robot Platformu ve Gelişmiş Otomasyon Teknolojilerini Tanıtıyor Kawasaki Robotics Unveils Dexterous Physical AI Robot Platform, Advanced Automation Technologies at Automate 2026 - Business Wire Kawasaki Robotics Unveils Dexterous Physical AI Robot Platform, Advanced Automation Technologies at Automate 2026 Business Wire Robotics Automation Industry",
-      "title_original": "Kawasaki Robotics Unveils Dexterous Physical AI Robot Platform, Advanced Automation Technologies at Automate 2026 - Business Wire",
-      "summary_original": "Kawasaki Robotics Unveils Dexterous Physical AI Robot Platform, Advanced Automation Technologies at Automate 2026 Business Wire",
-      "published_display": "2026-06-16",
-      "id": "072fa606b1ef"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York'ta halka arzın yolunu görüyor - Startup Fortune",
+      "title": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune",
       "summary": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWpTYlNaUDA0Y1ZscnBmbFNIOW1LZWF3d2hqaXp0WDQ4RmxVemFPeWhWX084dFBMNmc0SFg0VThkMVJOMG5KTU81N05tNWVxT19tWk1HbVk3RVgtd1JNT2RoVnhDUkt3VGJFVklVSWRjZ0tPcE1sbUdGMC1CeTRsWkxDLVpCbkR6RTJVNnYwNzhZWEN3MVl1VElIQmR0YkVEZ2FRcldsRHlnNHVkbmJVdEZRY1pIU0djbVUtNDNsN1NCbXRWRVdFM2hQZVpRTWVMMkE?oc=5",
       "image_url": null,
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York'ta halka arzın yolunu görüyor - Startup Fortune Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune Robotics Automation Industry",
+      "keywords": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor - Startup Fortune Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune Robotics Automation Industry",
       "title_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune",
       "summary_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune",
       "published_display": "2026-06-11",
-      "id": "9315d26ebd82"
+      "id": "839f088a2b14"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
-      "summary": "Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
       "title_original": "Project Glasswing: what Mythos showed us",
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
@@ -594,26 +594,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya",
-      "summary": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZXlPaHpnQURjclQ0QWtmRm1tams0WnJFeE96cGM0SDhfUndLSTBjX256ejFFa3NwMEtiQlhXaVVxNXRBSHNzZDJFeVVMbHB5V2N4bndvb1BOYWx4Q0VYWTIzY0psdlduMWh0b3dPQ3ZVS0pONXFFbkdaU2lIaUNvV2N2TDBQeHRGUTJ0ZUNCTnJSUXVlN3ZXNHRTZ1A?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2025-08-26T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı - SecurityBrief Avustralya Permaconn, mevcut CCTV sistemlerini modernize etmek için Video IQ'yu tanıttı SecurityBrief Avustralya Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia IP Camera Video Surveillance",
-      "title_original": "Permaconn unveils Video IQ to modernise existing CCTV systems - SecurityBrief Australia",
-      "summary_original": "Permaconn unveils Video IQ to modernise existing CCTV systems SecurityBrief Australia",
-      "published_display": "2025-08-26",
-      "id": "86a5b32c20ef"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında - TechRadar",
       "summary": "Milyonlarca Dahua güvenlik kamerası, kimliği doğrulanmamış devralma kusurları nedeniyle risk altında TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOG8tR3hZLVpRcC16TWszeTd1Z0E0UHpqVWFyNWUzNXpDVUtBMWRTZXViRTRoTkloNmdXa20wZWlaTEw1OV9qX1lTaGJ5OHJPNHgyYzBINmtVaHZYWjUzY2RjZUl1LUNOVGF4OElTb1l4WmpMZTJIX1JvSGxUSWhyeVBfRktxV3EzOG1SZkxBWFFaTW8yd3lfdl9kTVdreVkzR2h3YWxlcGk1bGV5c0lBbEJ6a0ltb3AzUzRPaUhDYWNNSWgtTWVKVTg3VzNvN1ByRTFxVEVJZW9DNWJjSVlJ?oc=5",
@@ -630,6 +610,26 @@
       "summary_original": "Millions of Dahua security cameras at risk from unauthenticated takeover flaws TechRadar",
       "published_display": "2025-08-14",
       "id": "80b07d55cb9e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia",
+      "summary": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1lxN1FsUk0wN3V3dUVzUXo0QTJXdVV2bW1NZ0ZlSHdvcDhIVDNLYWw0alF4VkZMa040VDZ6Q0lyWlFkQTk2V0hfVnIwLVY2OE1sX1lYSDFrenMzaXRycUxFN19iZDRQYjY4eEd5RHdHbEZmcW5GSHZ6X2c1YzAwbXZMamZkN1FUaDBZTE5uYUkxLUVpUjlHYQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-08-08T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor - SecurityBrief Asia Axis kamera kusurları 6.500'den fazla sunucuyu güvenlik riskine maruz bırakıyor SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia IP Camera Video Surveillance",
+      "title_original": "Axis camera flaws expose over 6,500 servers to security risk - SecurityBrief Asia",
+      "summary_original": "Axis camera flaws expose over 6,500 servers to security risk SecurityBrief Asia",
+      "published_display": "2025-08-08",
+      "id": "009e6db74527"
     }
   ]
 }
