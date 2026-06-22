@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-22T09:43:15Z",
+  "updated_at": "2026-06-22T14:53:23Z",
   "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Modellerin tercihleri ​​yoktur, bağlamları vardır",
+      "summary": "Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyor. Birkaçı kendi sonuçlarıyla cevap verdi...",
+      "url": "https://devblogs.microsoft.com/blog/models-dont-have-preferences-they-have-context",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-06-22T14:53:23Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Modellerin tercihleri ​​yoktur, bağlamları vardır Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyor. Birkaçı kendi sonuçlarıyla cevap verdi... Models don’t have preferences, they have context You open a fresh chat, type “What framework should I use for a web app?”, and the model says “React.” You screenshot it, share it, and write “Claude prefers React.” It gets engagement. People nod along. A few reply with their own results... Microsoft Dev Cloud",
+      "title_original": "Models don’t have preferences, they have context",
+      "summary_original": "You open a fresh chat, type “What framework should I use for a web app?”, and the model says “React.” You screenshot it, share it, and write “Claude prefers React.” It gets engagement. People nod along. A few reply with their own results...",
+      "published_display": "2026-06-22",
+      "id": "e8f7b98e1aac"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "0587be79769f"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Git çalışma ağaçları nedir ve bunları neden kullanmalıyım?",
-      "summary": "Git çalışma ağaçları 2015'ten beri ortalıkta, ancak yakın zamana kadar popüler olmadılar. Bunların ne olduğunu, nasıl kullanılacağını ve neden kullanabileceğinizi öğrenin. Yazı Git çalışma ağaçları nedir ve bunları neden kullanmalıyım? İlk olarak The GitHu'da ortaya çıktı...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-16T20:58:54Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Git çalışma ağaçları nedir ve bunları neden kullanmalıyım? Git çalışma ağaçları 2015'ten beri ortalıkta, ancak yakın zamana kadar popüler olmadılar. Bunların ne olduğunu, nasıl kullanılacağını ve neden kullanabileceğinizi öğrenin. Yazı Git çalışma ağaçları nedir ve bunları neden kullanmalıyım? İlk olarak The GitHu'da ortaya çıktı... What are git worktrees, and why should I use them? Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHu... GitHub Dev Platform",
-      "title_original": "What are git worktrees, and why should I use them?",
-      "summary_original": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHu...",
-      "published_display": "2026-06-16",
-      "id": "f0411129d0eb"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Samsung Electronics, çalışanlarına ChatGPT ve Codex'i getiriyor",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT'de sağlık istihbaratını iyileştirme",
-      "summary": "GPT-5.5 Instant'ın, daha güçlü muhakeme, daha iyi bağlam, daha net iletişim ve hekimlerin bilgilendirdiği değerlendirmelerle ChatGPT'nin sağlık ve zindelik yanıtlarını nasıl iyileştirdiğini öğrenin.",
+      "summary": "GPT-5.5 Instant'ın daha güçlü muhakeme, daha iyi bağlam, daha net iletişim ve doktor bilgili değerlendirmelerle ChatGPT'nin sağlık ve sağlıklı yaşam yanıtlarını nasıl iyileştirdiğini öğrenin.",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT'de sağlık istihbaratını iyileştirme GPT-5.5 Instant'ın, daha güçlü muhakeme, daha iyi bağlam, daha net iletişim ve hekimlerin bilgilendirdiği değerlendirmelerle ChatGPT'nin sağlık ve zindelik yanıtlarını nasıl iyileştirdiğini öğrenin. Improving health intelligence in ChatGPT Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations. AI OpenAI Model",
+      "keywords": "ChatGPT'de sağlık istihbaratını iyileştirme GPT-5.5 Instant'ın daha güçlü muhakeme, daha iyi bağlam, daha net iletişim ve doktor bilgili değerlendirmelerle ChatGPT'nin sağlık ve sağlıklı yaşam yanıtlarını nasıl iyileştirdiğini öğrenin. Improving health intelligence in ChatGPT Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations. AI OpenAI Model",
       "title_original": "Improving health intelligence in ChatGPT",
       "summary_original": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "published_display": "2026-06-18",
@@ -354,22 +354,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "AUTOMATE 2026 Yapay Zeka, Robotik ve Endüstriyel Otomasyonun Geleceğini Öne Çıkaracak - Metroloji ve Kalite Haberleri",
-      "summary": "AUTOMATE 2026 Yapay Zeka, Robotik ve Endüstriyel Otomasyonun Geleceği Metroloji ve Kalite Haberlerini Öne Çıkaracak",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzc2RmxBMmRqRjkwVldSNmVWX0FWdzZiaDFFRXJubFBDTmFxWk9Kbjl6QzNmYTh5ajhHLXkwLVhxRHl1ZTQ2N2tZaDZESklRLWlDdU1WMF9fZHdRZkFBdUdGazVpb25MYTB6WVdvVl85SUwwMURzNm5hNkotMTVLVG1mYTE5aTBOX2JTY1NBNlotVzE0NFVrLWxnVXc3U2M2RVJybQ?oc=5",
+      "title": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York'ta halka arzın yolunu görüyor - Startup Fortune",
+      "summary": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWpTYlNaUDA0Y1ZscnBmbFNIOW1LZWF3d2hqaXp0WDQ4RmxVemFPeWhWX084dFBMNmc0SFg0VThkMVJOMG5KTU81N05tNWVxT19tWk1HbVk3RVgtd1JNT2RoVnhDUkt3VGJFVklVSWRjZ0tPcE1sbUdGMC1CeTRsWkxDLVpCbkR6RTJVNnYwNzhZWEN3MVl1VElIQmR0YkVEZ2FRcldsRHlnNHVkbmJVdEZRY1pIU0djbVUtNDNsN1NCbXRWRVdFM2hQZVpRTWVMMkE?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-10T05:00:06Z",
+      "published_at": "2026-06-11T00:35:24Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "AUTOMATE 2026 Yapay Zeka, Robotik ve Endüstriyel Otomasyonun Geleceğini Öne Çıkaracak - Metroloji ve Kalite Haberleri AUTOMATE 2026 Yapay Zeka, Robotik ve Endüstriyel Otomasyonun Geleceği Metroloji ve Kalite Haberlerini Öne Çıkaracak AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation - Metrology and Quality News AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation Metrology and Quality News Robotics Automation Industry",
-      "title_original": "AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation - Metrology and Quality News",
-      "summary_original": "AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation Metrology and Quality News",
-      "published_display": "2026-06-10",
-      "id": "aaa7c93024cd"
+      "keywords": "Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York'ta halka arzın yolunu görüyor - Startup Fortune Fabrikanın yeniden donatılması depo otomasyonu piyasasını yeniden şekillendirirken Japon Mujin, New York halka arzına giden yolu görüyor Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune Robotics Automation Industry",
+      "title_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation - Startup Fortune",
+      "summary_original": "Japan's Mujin sees a path to a New York IPO as factory reshoring reshapes the market for warehouse automation Startup Fortune",
+      "published_display": "2026-06-11",
+      "id": "9315d26ebd82"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
-      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "summary": "Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
       "title_original": "Project Glasswing: what Mythos showed us",
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
