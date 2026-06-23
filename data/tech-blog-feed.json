@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-23T17:00:00Z",
-  "total_posts": 31,
+  "updated_at": "2026-06-23T18:25:18Z",
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
-    "siber": 4,
+    "siber": 5,
     "kamera": 6
   },
   "posts": [
@@ -30,6 +30,26 @@
       "summary_original": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .",
       "published_display": "2026-06-23",
       "id": "91d4711e385a"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub, açık kaynağı korumak için Kaliforniya Yapay Zeka Şeffaflık Yasası'nda düzeltmeler yapılmasını savunan koalisyona katıldı",
+      "summary": "Açık kaynak lisanslamayla ilgili anlaşmazlıkları çözmek ve düzenleme amacını korurken uluslararası şeffaflık çerçevelerine uyum sağlamak için hedefli değişiklikler yapılması çağrısında bulunuyoruz. GitHub'ın Kaliforniya'daki düzeltmeleri savunan koalisyona katıldığı gönderisi...",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-23T15:48:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub, açık kaynağı korumak için Kaliforniya Yapay Zeka Şeffaflık Yasası'nda düzeltmeler yapılmasını savunan koalisyona katıldı Açık kaynak lisanslamayla ilgili anlaşmazlıkları çözmek ve düzenleme amacını korurken uluslararası şeffaflık çerçevelerine uyum sağlamak için hedefli değişiklikler yapılması çağrısında bulunuyoruz. GitHub'ın Kaliforniya'daki düzeltmeleri savunan koalisyona katıldığı gönderisi... GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to Califo... GitHub Dev Platform",
+      "title_original": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+      "summary_original": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to Califo...",
+      "published_display": "2026-06-23",
+      "id": "e6935ab49b10"
     },
     {
       "category": "yazilim",
@@ -110,26 +130,6 @@
       "summary_original": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog .",
       "published_display": "2026-06-18",
       "id": "aeecb90cee6a"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Becerilerinize aşırı yüklenmeyi bırakın",
-      "summary": "Teknolojiniz için bir beceri geliştirdiniz. API referansları, kimlik doğrulama akışları, SDK kalıpları, hata işleme, sürüm bilgileri, hepsi tek bir beceride toplanmıştır. Aracı onu çağırır, tüm bu bağlamı alır ve kod üretir. Vurucu mu? Sen sadece...",
-      "url": "https://devblogs.microsoft.com/blog/stop-overloading-your-skills",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-06-18T14:25:27Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Becerilerinize aşırı yüklenmeyi bırakın Teknolojiniz için bir beceri geliştirdiniz. API referansları, kimlik doğrulama akışları, SDK kalıpları, hata işleme, sürüm bilgileri, hepsi tek bir beceride toplanmıştır. Aracı onu çağırır, tüm bu bağlamı alır ve kod üretir. Vurucu mu? Sen sadece... Stop overloading your skills You built a skill for your technology. API references, authentication flows, SDK patterns, error handling, version info, all packed into one skill. The agent calls it, gets all that context, and generates code. The kicker? You’ve just wa... Microsoft Dev Cloud",
-      "title_original": "Stop overloading your skills",
-      "summary_original": "You built a skill for your technology. API references, authentication flows, SDK patterns, error handling, version info, all packed into one skill. The agent calls it, gets all that context, and generates code. The kicker? You’ve just wa...",
-      "published_display": "2026-06-18",
-      "id": "86bbcc481459"
     },
     {
       "category": "ai",
@@ -335,7 +335,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Genesis AI ilk genel amaçlı insansı robotu piyasaya sürdü - Robotik ve Otomasyon Haberleri",
-      "summary": "Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürüyor Robotik ve Otomasyon Haberleri",
+      "summary": "Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürdü Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUMyUVVSako0aTliSzhxd0JmSGlJX3RESUVhOHNlT3c5RnhOcFNidTlNSEZmb25VUm5YcnRhZEN5S3BwdWVEY2NFdi1zcGZtWGNnV1BOSDFaMXB5MFEwLUxEQV95U2E2aWFtRndMVjFPYWNLQkJlczQyMjlwOVBiOUExUzNKYUViWk5VQ1JMeW9aazdaZ0p6cVhyZndVY3EyZ2pSUWdqR2hKa1hMeTg4b2ZNbw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,7 +345,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Genesis AI ilk genel amaçlı insansı robotu piyasaya sürdü - Robotik ve Otomasyon Haberleri Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürüyor Robotik ve Otomasyon Haberleri Genesis AI launches first general-purpose humanoid robot - Robotics & Automation News Genesis AI launches first general-purpose humanoid robot Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Genesis AI ilk genel amaçlı insansı robotu piyasaya sürdü - Robotik ve Otomasyon Haberleri Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürdü Robotik ve Otomasyon Haberleri Genesis AI launches first general-purpose humanoid robot - Robotics & Automation News Genesis AI launches first general-purpose humanoid robot Robotics & Automation News Robotics Automation Industry",
       "title_original": "Genesis AI launches first general-purpose humanoid robot - Robotics & Automation News",
       "summary_original": "Genesis AI launches first general-purpose humanoid robot Robotics & Automation News",
       "published_display": "2026-06-17",
@@ -430,6 +430,26 @@
       "summary_original": "Read about various happenings with Baseline during April 2026.",
       "published_display": "2026-05-27",
       "id": "6b855c964fcf"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Kuantum sonrası EO önemli bir kilometre taşıdır. Artık işe koyulma zamanı",
+      "summary": "Yeni kuantum sonrası yönetim emri, geçiş için son tarihi 2030 olarak belirliyor ve kuantum sonrası esneklik için güçlü bir temel oluşturuyor. Neyin doğru olduğuna, nerede daha ileri gidebileceğine ve hükümet ve şirketler için geçiş taktik kitabımıza bakıyoruz...",
+      "url": "https://blog.cloudflare.com/post-quantum-eo-2026/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-06-23T18:25:18Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Kuantum sonrası EO önemli bir kilometre taşıdır. Artık işe koyulma zamanı Yeni kuantum sonrası yönetim emri, geçiş için son tarihi 2030 olarak belirliyor ve kuantum sonrası esneklik için güçlü bir temel oluşturuyor. Neyin doğru olduğuna, nerede daha ileri gidebileceğine ve hükümet ve şirketler için geçiş taktik kitabımıza bakıyoruz... The post-quantum EO is an important milestone. Now it’s time to get to work The new post-quantum executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and... Cloudflare Security Web",
+      "title_original": "The post-quantum EO is an important milestone. Now it’s time to get to work",
+      "summary_original": "The new post-quantum executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and...",
+      "published_display": "2026-06-23",
+      "id": "41d5162eaf0d"
     },
     {
       "category": "siber",
