@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-23T00:00:00Z",
+  "updated_at": "2026-06-23T16:00:00Z",
   "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "İşimi otomatikleştirdim (ve bu beni daha iyi bir lider yaptı)",
+      "summary": "Artık yardımcı olmak için 40 otomasyon kullandığım için kıdemli bir lider olarak günümün nasıl geçtiğini keşfedin ve favorilerimden bazıları hakkında daha fazla bilgi edinin. İşimi otomatikleştirdiğim (ve beni daha iyi bir lider haline getirdiği) gönderi ilk olarak The GitHub Blog'da çıktı.",
+      "url": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-23T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "İşimi otomatikleştirdim (ve bu beni daha iyi bir lider yaptı) Artık yardımcı olmak için 40 otomasyon kullandığım için kıdemli bir lider olarak günümün nasıl geçtiğini keşfedin ve favorilerimden bazıları hakkında daha fazla bilgi edinin. İşimi otomatikleştirdiğim (ve beni daha iyi bir lider haline getirdiği) gönderi ilk olarak The GitHub Blog'da çıktı. I automated my job (and it made me a better leader) Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "I automated my job (and it made me a better leader)",
+      "summary_original": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog .",
+      "published_display": "2026-06-23",
+      "id": "91d4711e385a"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Modellerin tercihleri ​​yoktur, bağlamları vardır",
-      "summary": "Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyor. Birkaçı kendi sonuçlarıyla cevap verdi...",
+      "summary": "Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyorlar. Birkaçı kendi sonuçlarıyla cevap verdi...",
       "url": "https://devblogs.microsoft.com/blog/models-dont-have-preferences-they-have-context",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Modellerin tercihleri ​​yoktur, bağlamları vardır Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyor. Birkaçı kendi sonuçlarıyla cevap verdi... Models don’t have preferences, they have context You open a fresh chat, type “What framework should I use for a web app?”, and the model says “React.” You screenshot it, share it, and write “Claude prefers React.” It gets engagement. People nod along. A few reply with their own results... Microsoft Dev Cloud",
+      "keywords": "Modellerin tercihleri ​​yoktur, bağlamları vardır Yeni bir sohbet açıyorsunuz, \"Bir web uygulaması için hangi çerçeveyi kullanmalıyım?\" yazıyorsunuz ve model \"React\" diyor. Ekran görüntüsünü alırsınız, paylaşırsınız ve \"Claude React'ı tercih ediyor\" yazarsınız. Nişan alır. İnsanlar da başlarıyla onaylıyorlar. Birkaçı kendi sonuçlarıyla cevap verdi... Models don’t have preferences, they have context You open a fresh chat, type “What framework should I use for a web app?”, and the model says “React.” You screenshot it, share it, and write “Claude prefers React.” It gets engagement. People nod along. A few reply with their own results... Microsoft Dev Cloud",
       "title_original": "Models don’t have preferences, they have context",
       "summary_original": "You open a fresh chat, type “What framework should I use for a web app?”, and the model says “React.” You screenshot it, share it, and write “Claude prefers React.” It gets engagement. People nod along. A few reply with their own results...",
       "published_display": "2026-06-22",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Dahili bir veri analizi aracısını nasıl oluşturduk?",
-      "summary": "Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte bunu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı...",
+      "summary": "Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte onu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Dahili bir veri analizi aracısını nasıl oluşturduk? Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte bunu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı... How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir... GitHub Dev Platform",
+      "keywords": "Dahili bir veri analizi aracısını nasıl oluşturduk? Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte onu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı... How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir... GitHub Dev Platform",
       "title_original": "How we built an internal data analytics agent",
       "summary_original": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir...",
       "published_display": "2026-06-19",
@@ -110,26 +130,6 @@
       "summary_original": "You built a skill for your technology. API references, authentication flows, SDK patterns, error handling, version info, all packed into one skill. The agent calls it, gets all that context, and generates code. The kicker? You’ve just wa...",
       "published_display": "2026-06-18",
       "id": "86bbcc481459"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Her belirteçten daha fazlasını elde etmek: Copilot bağlam işlemeyi ve model yönlendirmeyi nasıl geliştiriyor?",
-      "summary": "GitHub Copilot, kredilerinizin daha da ileriye gitmesi için her oturumun daha fazlasının yararlı çalışmalara yönelmesini nasıl sağlıyor? Her belirteçten daha fazlasını elde etmek: Copilot bağlam işlemeyi ve model yönlendirmeyi nasıl geliştirir yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-17T19:41:46Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Her belirteçten daha fazlasını elde etmek: Copilot bağlam işlemeyi ve model yönlendirmeyi nasıl geliştiriyor? GitHub Copilot, kredilerinizin daha da ileriye gitmesi için her oturumun daha fazlasının yararlı çalışmalara yönelmesini nasıl sağlıyor? Her belirteçten daha fazlasını elde etmek: Copilot bağlam işlemeyi ve model yönlendirmeyi nasıl geliştirir yazısı ilk olarak GitHub Blogunda göründü. Getting more from each token: How Copilot improves context handling and model routing How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Getting more from each token: How Copilot improves context handling and model routing",
-      "summary_original": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
-      "published_display": "2026-06-17",
-      "id": "24cc283c8a1e"
     },
     {
       "category": "ai",
@@ -294,22 +294,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Kawasaki Robotics, Automate 2026'da Yetenekli Fiziksel Yapay Zeka Robot Platformu ve Gelişmiş Otomasyon Teknolojilerini Tanıtıyor - Automation.com",
-      "summary": "Kawasaki Robotics, Automate 2026 Automation.com'da Yetenekli Fiziksel Yapay Zeka Robot Platformu ve Gelişmiş Otomasyon Teknolojilerini Tanıtıyor",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWpleHVNQWNsQmFWek1ZTTI5WHNYUTNYdkR5bS1EUHZsQjBabko2YVRlUXBGMWp4QjZPa1M5QzRqZTZxR3o0M1Z2VUJ4TzhDbFhOc0dJbTRNQ2FNNm1pMW16TzM4R0dwZm9YYjhnSXJjeFJQcUlFMldwa3dvbHp2dXczcW8wX05WV0Frdmc2cWNiVlJxLXN1TW9zekREQ2NVVnQ2MVJPdXhMbjhyRk5aQnBSa1lyRVNJcTdQN0dEWDNoQWpiZERFYnJPc3U4djBHRFE?oc=5",
+      "title": "Cognex CEO'su Matt Moschner, Yapay Zeka Destekli Makine Görme ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda - Teknik Özetler",
+      "summary": "Cognex CEO'su Matt Moschner, Yapay Zeka ile Güçlendirilmiş Yapay Görme Teknolojisi ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda Konuşuyor",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZVdsVHBhNi0yeUNSeW9IWm04UVdZUG8yeWd3dHZSeVpNWFpzYWlJRGlmTkxnLUl5d0JuNFQ4Q2g3cVNiSFNyVUxpZ2FFa0FISlh3Z2hHMVpBZmwzUzQ0MWFSTTlHUF90aHJvLUNtd0tjRWMxeTBwMTg3MmNIUGROUmw1UXhXVFdoMzZtbWtLa1pvOGFRMEdJUDF1ZTRrQkc2OHBCVFE4WFF2ZWJaYjBtMkNkckExNTctQV9SVmZfSFRDM0xoYnpZWGV4S2c1b0cxTUlnczlZSk16S3ZiR0pYRnVWRQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-18T14:25:00Z",
+      "published_at": "2026-06-19T11:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Kawasaki Robotics, Automate 2026'da Yetenekli Fiziksel Yapay Zeka Robot Platformu ve Gelişmiş Otomasyon Teknolojilerini Tanıtıyor - Automation.com Kawasaki Robotics, Automate 2026 Automation.com'da Yetenekli Fiziksel Yapay Zeka Robot Platformu ve Gelişmiş Otomasyon Teknolojilerini Tanıtıyor Kawasaki Robotics Unveils Dexterous Physical AI Robot Platform, Advanced Automation Technologies at Automate 2026 - Automation.com Kawasaki Robotics Unveils Dexterous Physical AI Robot Platform, Advanced Automation Technologies at Automate 2026 Automation.com Robotics Automation Industry",
-      "title_original": "Kawasaki Robotics Unveils Dexterous Physical AI Robot Platform, Advanced Automation Technologies at Automate 2026 - Automation.com",
-      "summary_original": "Kawasaki Robotics Unveils Dexterous Physical AI Robot Platform, Advanced Automation Technologies at Automate 2026 Automation.com",
-      "published_display": "2026-06-18",
-      "id": "2a8e9eaf161a"
+      "keywords": "Cognex CEO'su Matt Moschner, Yapay Zeka Destekli Makine Görme ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda - Teknik Özetler Cognex CEO'su Matt Moschner, Yapay Zeka ile Güçlendirilmiş Yapay Görme Teknolojisi ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda Konuşuyor Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs Robotics Automation Industry",
+      "title_original": "Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs",
+      "summary_original": "Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs",
+      "published_display": "2026-06-19",
+      "id": "99eda2807b75"
     },
     {
       "category": "robotik",
@@ -334,42 +334,42 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri - Robotik Yarın",
-      "summary": "30 Yıllık Hızlı Mühendislik Tepki Robotiğiyle Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri Yarın",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRHVwbXNxdHYtTmZRbUViZnp4R2dUZGotZmNEbkVBa0xVLUpYcHlrV2NJOEVfTEhMMjdpeDc3SUtmaVVGSk9yRVc2QWxVakxwN3lGNTZVZU9uWURlcF92TGNVQ1d4dHc3YW85cnBoaHBMNDNfWGN5ZHFLWU5OaTJEWE5WOTVCWTVONEtUR3hpM29oUlR2TTkxSFpMQkxLM2ZmWWt5VE9VMUZsTEdYRE9MRHNxWE5TeFZraU9nM2dqZzNfR3dqRGlKT1JrMWdMZFhHNjN5S08wdU5MQ05qbXl6VFdMTlB6SHdvRTY1ZjdKXy1UbkoxYXBJakRNYnFtU2pNVXFhaHVrZndTdw?oc=5",
+      "title": "Genesis AI ilk genel amaçlı insansı robotu piyasaya sürdü - Robotik ve Otomasyon Haberleri",
+      "summary": "Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürüyor Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUMyUVVSako0aTliSzhxd0JmSGlJX3RESUVhOHNlT3c5RnhOcFNidTlNSEZmb25VUm5YcnRhZEN5S3BwdWVEY2NFdi1zcGZtWGNnV1BOSDFaMXB5MFEwLUxEQV95U2E2aWFtRndMVjFPYWNLQkJlczQyMjlwOVBiOUExUzNKYUViWk5VQ1JMeW9aazdaZ0p6cVhyZndVY3EyZ2pSUWdqR2hKa1hMeTg4b2ZNbw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-09T13:13:05Z",
+      "published_at": "2026-06-17T08:01:11Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "30 Yıllık Hızlı Mühendislik Yanıtı Sayesinde Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri - Robotik Yarın 30 Yıllık Hızlı Mühendislik Tepki Robotiğiyle Robotik ve Akıllı Otomasyon Endüstrilerinde Sorunsuz Motor İlerlemeleri Yarın Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response - Robotics Tomorrow Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response Robotics Tomorrow Robotics Automation Industry",
-      "title_original": "Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response - Robotics Tomorrow",
-      "summary_original": "Smooth Motor Advances Across Robotics and Intelligent Automation Industries Through 30 Years of Rapid Engineering Response Robotics Tomorrow",
-      "published_display": "2026-06-09",
-      "id": "c64cbea54f53"
+      "keywords": "Genesis AI ilk genel amaçlı insansı robotu piyasaya sürdü - Robotik ve Otomasyon Haberleri Genesis AI, ilk genel amaçlı insansı robotu piyasaya sürüyor Robotik ve Otomasyon Haberleri Genesis AI launches first general-purpose humanoid robot - Robotics & Automation News Genesis AI launches first general-purpose humanoid robot Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Genesis AI launches first general-purpose humanoid robot - Robotics & Automation News",
+      "summary_original": "Genesis AI launches first general-purpose humanoid robot Robotics & Automation News",
+      "published_display": "2026-06-17",
+      "id": "9e67d100f74d"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanl0cE4xQnN5VXN1Z3J4NlhNTndHVHdiODJ0cjg4WXJDc3k0SmV3VHVqQ0g0b3o4Y3ZvdWIwSzlQaXVhRmgwTi01TUFkcWI1aGxIRW5Vc2VmSUozU2NBZ3FIWDFwUy1lWGdYSV9GdUxONlU1QjktQ1BKd1BhNm1Ka1VTNzF1SFBIWTRBS2ZDWmplbk9BemFuRnFyNHMwdjgtNF9tOFQ1LVRWMDRLdTNLVQ?oc=5",
+      "title": "AUTOMATE 2026 Yapay Zeka, Robotik ve Endüstriyel Otomasyonun Geleceğini Öne Çıkaracak - Metroloji ve Kalite Haberleri",
+      "summary": "AUTOMATE 2026 Yapay Zeka, Robotik ve Endüstriyel Otomasyonun Geleceği Metroloji ve Kalite Haberlerini Öne Çıkaracak",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSzc2RmxBMmRqRjkwVldSNmVWX0FWdzZiaDFFRXJubFBDTmFxWk9Kbjl6QzNmYTh5ajhHLXkwLVhxRHl1ZTQ2N2tZaDZESklRLWlDdU1WMF9fZHdRZkFBdUdGazVpb25MYTB6WVdvVl85SUwwMURzNm5hNkotMTVLVG1mYTE5aTBOX2JTY1NBNlotVzE0NFVrLWxnVXc3U2M2RVJybQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-06-04T07:00:00Z",
+      "published_at": "2026-06-10T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
-      "published_display": "2026-06-04",
-      "id": "9b1b5f7307e1"
+      "keywords": "AUTOMATE 2026 Yapay Zeka, Robotik ve Endüstriyel Otomasyonun Geleceğini Öne Çıkaracak - Metroloji ve Kalite Haberleri AUTOMATE 2026 Yapay Zeka, Robotik ve Endüstriyel Otomasyonun Geleceği Metroloji ve Kalite Haberlerini Öne Çıkaracak AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation - Metrology and Quality News AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation Metrology and Quality News Robotics Automation Industry",
+      "title_original": "AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation - Metrology and Quality News",
+      "summary_original": "AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation Metrology and Quality News",
+      "published_display": "2026-06-10",
+      "id": "aaa7c93024cd"
     },
     {
       "category": "web",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
