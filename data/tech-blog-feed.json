@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "updated_at": "2026-06-24T14:04:52Z",
-  "total_posts": 33,
+  "total_posts": 27,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 6,
+    "robotik": 0,
     "web": 3,
     "siber": 6,
     "kamera": 6
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub, açık kaynağı korumak için Kaliforniya Yapay Zeka Şeffaflık Yasası'nda düzeltmeler yapılmasını savunan koalisyona katıldı",
-      "summary": "Açık kaynak lisanslamayla ilgili anlaşmazlıkları çözmek ve düzenleme amacını korurken uluslararası şeffaflık çerçevelerine uyum sağlamak için hedefli değişiklikler yapılması yönünde çağrıda bulunuyoruz. GitHub'ın Kaliforniya'daki düzeltmeleri savunan koalisyona katıldığı gönderisi...",
+      "summary": "Açık kaynak lisanslamayla ilgili anlaşmazlıkları çözmek ve düzenleme amacını korurken uluslararası şeffaflık çerçevelerine uyum sağlamak için hedefli değişiklikler yapılması çağrısında bulunuyoruz. GitHub'ın Kaliforniya'daki düzeltmeleri savunan koalisyona katıldığı gönderisi...",
       "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub, açık kaynağı korumak için Kaliforniya Yapay Zeka Şeffaflık Yasası'nda düzeltmeler yapılmasını savunan koalisyona katıldı Açık kaynak lisanslamayla ilgili anlaşmazlıkları çözmek ve düzenleme amacını korurken uluslararası şeffaflık çerçevelerine uyum sağlamak için hedefli değişiklikler yapılması yönünde çağrıda bulunuyoruz. GitHub'ın Kaliforniya'daki düzeltmeleri savunan koalisyona katıldığı gönderisi... GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to Califo... GitHub Dev Platform",
+      "keywords": "GitHub, açık kaynağı korumak için Kaliforniya Yapay Zeka Şeffaflık Yasası'nda düzeltmeler yapılmasını savunan koalisyona katıldı Açık kaynak lisanslamayla ilgili anlaşmazlıkları çözmek ve düzenleme amacını korurken uluslararası şeffaflık çerçevelerine uyum sağlamak için hedefli değişiklikler yapılması çağrısında bulunuyoruz. GitHub'ın Kaliforniya'daki düzeltmeleri savunan koalisyona katıldığı gönderisi... GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to Califo... GitHub Dev Platform",
       "title_original": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
       "summary_original": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to Califo...",
       "published_display": "2026-06-23",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Dahili bir veri analizi aracısını nasıl oluşturduk?",
-      "summary": "Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte bunu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı...",
+      "summary": "Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte onu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,7 +125,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Dahili bir veri analizi aracısını nasıl oluşturduk? Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte bunu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı... How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir... GitHub Dev Platform",
+      "keywords": "Dahili bir veri analizi aracısını nasıl oluşturduk? Dahili Copilot destekli analiz aracımız Qubot, herhangi bir GitHub çalışanının verilerimiz hakkında sade bir dille soru sormasına olanak tanır. İşte onu inşa ederken öğrendiklerimiz. Dahili bir veri analitiği aracısını nasıl oluşturduk yazısı ilk kez çıktı... How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir... GitHub Dev Platform",
       "title_original": "How we built an internal data analytics agent",
       "summary_original": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared fir...",
       "published_display": "2026-06-19",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "OpenAI ve Broadcom, LLM için optimize edilmiş çıkarım çipini tanıtıyor",
-      "summary": "OpenAI ve Broadcom, yapay zeka sistemlerinde performansı, verimliliği ve ölçeği geliştirmek amacıyla LLM çıkarımı için oluşturulmuş özel bir yapay zeka çipi olan Jalapeño'yu tanıtıyor.",
+      "summary": "OpenAI ve Broadcom, yapay zeka sistemlerinde performansı, verimliliği ve ölçeği artırmak amacıyla LLM çıkarımı için oluşturulmuş özel bir yapay zeka çipi olan Jalapeño'yu tanıtıyor.",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +145,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI ve Broadcom, LLM için optimize edilmiş çıkarım çipini tanıtıyor OpenAI ve Broadcom, yapay zeka sistemlerinde performansı, verimliliği ve ölçeği geliştirmek amacıyla LLM çıkarımı için oluşturulmuş özel bir yapay zeka çipi olan Jalapeño'yu tanıtıyor. OpenAI and Broadcom unveil LLM-optimized inference chip OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems. AI OpenAI Model",
+      "keywords": "OpenAI ve Broadcom, LLM için optimize edilmiş çıkarım çipini tanıtıyor OpenAI ve Broadcom, yapay zeka sistemlerinde performansı, verimliliği ve ölçeği artırmak amacıyla LLM çıkarımı için oluşturulmuş özel bir yapay zeka çipi olan Jalapeño'yu tanıtıyor. OpenAI and Broadcom unveil LLM-optimized inference chip OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems. AI OpenAI Model",
       "title_original": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "summary_original": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "published_display": "2026-06-24",
@@ -250,126 +250,6 @@
       "summary_original": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "published_display": "2026-06-22",
       "id": "57c05695bb89"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik Yatırımcıları Zaten İnsansıları Aştı mı? - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik Yatırımcıları Zaten İnsansıları Aştı mı? A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQjFYNlpFRHFSR3FyT0JKYmUteExXRGZQMlBNc05ER3lqNmpaeFNJUFlYMUlWVmhJbkpMWlpiU3Q2MUlPYTI5ejZPOHRkOGlDcVZweFBfalhMRDh0U1lWeGxCa0cxSjZrWExnZ2ZPelc5dTlpVzRJdmN6a211Wi1ZM1lRbVZyMDE2UWxzcWpOSURncU1x?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-23T17:05:48Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Sektör İçgörüleri: Robotik Yatırımcıları Zaten İnsansıları Aştı mı? - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik Yatırımcıları Zaten İnsansıları Aştı mı? A3 Otomasyonu Geliştirme Derneği Industry Insights: Are Robotics Investors Already Over Humanoids? - A3 Association for Advancing Automation Industry Insights: Are Robotics Investors Already Over Humanoids? A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: Are Robotics Investors Already Over Humanoids? - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: Are Robotics Investors Already Over Humanoids? A3 Association for Advancing Automation",
-      "published_display": "2026-06-23",
-      "id": "c404316683f3"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır - Teknik Özetler",
-      "summary": "Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır? Teknik Özetler",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1ZxZjg5YmluQlh3bzFBTEFxZjB6dFVrdDJlREw0NE9ueHNOVEZlWm1jTGF4OWtKX1VOUENSVjhHTGRLcTJ0VXFuekt0WXA2UnFieFJBR0d1ODYzTmVGS182SXNuZ3B0M3VoR2h6WGtkUGd5TVAxdHJIcjBJaG5wS054ZlhoVFVLdXpzVzhDZzNaOG9VbEFIMFpvSnZKYmxDNUpxTkJ3Z1JPU09Kbi1mRURodlZNTnZ1TkE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-23T16:32:45Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır - Teknik Özetler Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır? Teknik Özetler How to Get Started with Scalable Machine Tending Automation - Tech Briefs How to Get Started with Scalable Machine Tending Automation Tech Briefs Robotics Automation Industry",
-      "title_original": "How to Get Started with Scalable Machine Tending Automation - Tech Briefs",
-      "summary_original": "How to Get Started with Scalable Machine Tending Automation Tech Briefs",
-      "published_display": "2026-06-23",
-      "id": "e43438195e5b"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "MTC'den Mike Wilson ile röportaj: 'Birleşik Krallık üretimi yeniden inşa etmek istiyorsa otomasyon isteğe bağlı değildir' - Robotics & Automation News",
-      "summary": "MTC'den Mike Wilson ile röportaj: 'Birleşik Krallık üretimi yeniden inşa etmek istiyorsa otomasyon isteğe bağlı değildir' Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcHpLR3lhai1QQ0E3a2FnOTlSZGN2Sm5wcEF2RDFIOGlkalBFMDFFRVEtMy1VYlNkSWlKeWp6QnVBNzg1TlpWRFZXcWpVUEY1TjRLUDlhbTNCc29fVmhybHlwZ0hUYURUYmlibUR5emt3SE96SElMSzNLR0hodU4tMkZtSDJULWowYS1WamNIWUxrN0ZobmJaMG4yWDVfLU5qZ056dk8yTV9JV1lOT05GNXpvZ25Pc3RfeGU5ZHFzdWVrUHduZDdGZkxlazZjNHNtWFI2OUpPcDlZQWthc2puNXhMYVcySzRTQm9IVg?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-22T15:38:16Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "MTC'den Mike Wilson ile röportaj: 'Birleşik Krallık üretimi yeniden inşa etmek istiyorsa otomasyon isteğe bağlı değildir' - Robotics & Automation News MTC'den Mike Wilson ile röportaj: 'Birleşik Krallık üretimi yeniden inşa etmek istiyorsa otomasyon isteğe bağlı değildir' Robotik ve Otomasyon Haberleri Interview with MTC’s Mike Wilson: ‘Automation is not optional if the UK wants to rebuild manufacturing’ - Robotics & Automation News Interview with MTC’s Mike Wilson: ‘Automation is not optional if the UK wants to rebuild manufacturing’ Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Interview with MTC’s Mike Wilson: ‘Automation is not optional if the UK wants to rebuild manufacturing’ - Robotics & Automation News",
-      "summary_original": "Interview with MTC’s Mike Wilson: ‘Automation is not optional if the UK wants to rebuild manufacturing’ Robotics & Automation News",
-      "published_display": "2026-06-22",
-      "id": "a0092cf73f6f"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Clearpath Robotics kurucu ortağı Ryan Gariepy ile röportaj: 'Kanada'daki çoğu endüstri yetersiz otomasyona sahip' - Robotics & Automation News",
-      "summary": "Clearpath Robotics kurucu ortağı Ryan Gariepy ile röportaj: 'Kanada'daki çoğu endüstri yetersiz otomasyona sahip' Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYnZHZWJ0RnJsVFlsakVjdktMU1h2UEg2d2xxdmtQV1V3MmlIUURUNWQzSTY2cmZlcl9VZHJvZ3h6S05zdTlhTDdybklFMHItcWVKOGlKN3JiaFJxNTFvc1Y3N3dXLV9XbXFraklpRzM0dkViV0FWdkRnSU4taEwwRHZYYWlQQ3lfMjMtZzc5N0w2bERuX2d4R0t2X3dhYUpkRHRvaDMySDQ2eHdGY291V19oeHJPWTQ1U0MxZWZKOHh6RFFoOGRvLWhPOUUxNWl4WGFhSGFyS09HSVYzYm1ZSmxLeFZFUTZ1TjNKSmZVNEEydw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-22T09:43:15Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Clearpath Robotics kurucu ortağı Ryan Gariepy ile röportaj: 'Kanada'daki çoğu endüstri yetersiz otomasyona sahip' - Robotics & Automation News Clearpath Robotics kurucu ortağı Ryan Gariepy ile röportaj: 'Kanada'daki çoğu endüstri yetersiz otomasyona sahip' Robotik ve Otomasyon Haberleri Interview with Clearpath Robotics co-founder Ryan Gariepy: ‘Most industries in Canada are under-automated’ - Robotics & Automation News Interview with Clearpath Robotics co-founder Ryan Gariepy: ‘Most industries in Canada are under-automated’ Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Interview with Clearpath Robotics co-founder Ryan Gariepy: ‘Most industries in Canada are under-automated’ - Robotics & Automation News",
-      "summary_original": "Interview with Clearpath Robotics co-founder Ryan Gariepy: ‘Most industries in Canada are under-automated’ Robotics & Automation News",
-      "published_display": "2026-06-22",
-      "id": "1630c76e4d3c"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Cognex CEO'su Matt Moschner, Yapay Zeka Destekli Makine Görme ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda - Teknik Özetler",
-      "summary": "Cognex CEO'su Matt Moschner, Yapay Zeka ile Güçlendirilmiş Yapay Görme Teknolojisi ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda Konuşuyor",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZVdsVHBhNi0yeUNSeW9IWm04UVdZUG8yeWd3dHZSeVpNWFpzYWlJRGlmTkxnLUl5d0JuNFQ4Q2g3cVNiSFNyVUxpZ2FFa0FISlh3Z2hHMVpBZmwzUzQ0MWFSTTlHUF90aHJvLUNtd0tjRWMxeTBwMTg3MmNIUGROUmw1UXhXVFdoMzZtbWtLa1pvOGFRMEdJUDF1ZTRrQkc2OHBCVFE4WFF2ZWJaYjBtMkNkckExNTctQV9SVmZfSFRDM0xoYnpZWGV4S2c1b0cxTUlnczlZSk16S3ZiR0pYRnVWRQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-19T11:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Cognex CEO'su Matt Moschner, Yapay Zeka Destekli Makine Görme ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda - Teknik Özetler Cognex CEO'su Matt Moschner, Yapay Zeka ile Güçlendirilmiş Yapay Görme Teknolojisi ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda Konuşuyor Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs Robotics Automation Industry",
-      "title_original": "Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs",
-      "summary_original": "Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs",
-      "published_display": "2026-06-19",
-      "id": "99eda2807b75"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "ABD Robot Endüstrisi Çift Haneli Büyümeye Dönüyor - IFR Uluslararası Robotik Federasyonu",
-      "summary": "ABD Robot Sektörü Çift Haneli Büyümeye Döndü IFR Uluslararası Robotik Federasyonu",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3RIX0FiV1BaaHpuZXhxY2VUTnNjR1NZSF9aQjktdExGamd2Z0R0RklxWllVYjdXX0o3YnFjcFBoQmpVOWJEWW9MZW5wZWNmaUlyQTBSOHozMTdhY2xkWGlvWlVabXpCZjYweFNYaHdIMkc2M0taVkZhaUh0VHo3enNqNWctWnF1cThfcnIzSzhOUQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-18T07:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "ABD Robot Endüstrisi Çift Haneli Büyümeye Dönüyor - IFR Uluslararası Robotik Federasyonu ABD Robot Sektörü Çift Haneli Büyümeye Döndü IFR Uluslararası Robotik Federasyonu US Robot Industry Returns to Double Digit Growth - IFR International Federation of Robotics US Robot Industry Returns to Double Digit Growth IFR International Federation of Robotics Robotics Automation Industry",
-      "title_original": "US Robot Industry Returns to Double Digit Growth - IFR International Federation of Robotics",
-      "summary_original": "US Robot Industry Returns to Double Digit Growth IFR International Federation of Robotics",
-      "published_display": "2026-06-18",
-      "id": "fd669d73b80c"
     },
     {
       "category": "web",
@@ -535,7 +415,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
-      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "summary": "Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -545,7 +425,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
       "title_original": "Project Glasswing: what Mythos showed us",
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
@@ -594,7 +474,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -605,11 +485,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
