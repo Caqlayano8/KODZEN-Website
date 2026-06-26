@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-25T22:59:45Z",
+  "updated_at": "2026-06-26T00:00:05Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilcinizin zaten bir planı var",
+      "summary": "Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
+      "url": "https://devblogs.microsoft.com/blog/your-agent-already-has-a-plan",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-06-26T00:00:05Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
+      "title_original": "Your agent already has a plan",
+      "summary_original": "If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh...",
+      "published_display": "2026-06-26",
+      "id": "fdc4c5489924"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to Califo...",
       "published_display": "2026-06-23",
       "id": "e6935ab49b10"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Taahhütten uygulamaya: Daha kapsayıcı bir açık kaynak ekosistemi oluşturmak",
-      "summary": "Erişilebilirlik hedeflerimize doğru kaydettiğimiz ilerlemeyi ve açık kaynağın daha kapsayıcı olmasına nasıl yardımcı olabileceğinizi öğrenin. Taahhütten uygulamaya: Daha kapsayıcı bir açık kaynak ekosistemi oluşturma yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-22T17:20:31Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Taahhütten uygulamaya: Daha kapsayıcı bir açık kaynak ekosistemi oluşturmak Erişilebilirlik hedeflerimize doğru kaydettiğimiz ilerlemeyi ve açık kaynağın daha kapsayıcı olmasına nasıl yardımcı olabileceğinizi öğrenin. Taahhütten uygulamaya: Daha kapsayıcı bir açık kaynak ekosistemi oluşturma yazısı ilk olarak GitHub Blogunda yayınlandı. From pledge to practice: Building a more inclusive open source ecosystem Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "From pledge to practice: Building a more inclusive open source ecosystem",
-      "summary_original": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog .",
-      "published_display": "2026-06-22",
-      "id": "ceaca1ad5670"
     },
     {
       "category": "ai",
@@ -294,26 +294,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Schneider Electric, Endüstriyel Otomasyon Modernizasyon Hizmetini Başlatıyor - Teknik Özetler",
-      "summary": "Schneider Electric, Endüstriyel Otomasyon Modernizasyon Hizmetini Başlatıyor Teknik Özetler",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVWliMW5UOVdrcXBYbk54RWNTT0wyb2wtTjUxRi1FUHF0VW9KX0lnWF9OcVJTTUh0SmRJRWJDM0htdmsxMjhXS0lLekV2X3Q5bE8yYV9vcy1KMXcyM00zLUI3cmxFOVNScG50Q05ERFQ5R2hQaUhXMGFOZXBsQ0ZfYl8xX1J1ZDB2WkdNLXRJTURfN1QyeGRQNHF0VW83WjlUNjl2ZEZ0Zk9kZ3NFdXBUOHQxWlhteVU5ZEh4OFdrYU5CTzNJbVlJNm5R?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-25T04:00:30Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Schneider Electric, Endüstriyel Otomasyon Modernizasyon Hizmetini Başlatıyor - Teknik Özetler Schneider Electric, Endüstriyel Otomasyon Modernizasyon Hizmetini Başlatıyor Teknik Özetler Schneider Electric Launches Industrial Automation Modernization Service - Tech Briefs Schneider Electric Launches Industrial Automation Modernization Service Tech Briefs Robotics Automation Industry",
-      "title_original": "Schneider Electric Launches Industrial Automation Modernization Service - Tech Briefs",
-      "summary_original": "Schneider Electric Launches Industrial Automation Modernization Service Tech Briefs",
-      "published_display": "2026-06-25",
-      "id": "00fa1a4970fd"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır - Teknik Özetler",
       "summary": "Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır? Teknik Özetler",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1ZxZjg5YmluQlh3bzFBTEFxZjB6dFVrdDJlREw0NE9ueHNOVEZlWm1jTGF4OWtKX1VOUENSVjhHTGRLcTJ0VXFuekt0WXA2UnFieFJBR0d1ODYzTmVGS182SXNuZ3B0M3VoR2h6WGtkUGd5TVAxdHJIcjBJaG5wS054ZlhoVFVLdXpzVzhDZzNaOG9VbEFIMFpvSnZKYmxDNUpxTkJ3Z1JPU09Kbi1mRURodlZNTnZ1TkE?oc=5",
@@ -370,6 +350,26 @@
       "summary_original": "Interview with Clearpath Robotics co-founder Ryan Gariepy: ‘Most industries in Canada are under-automated’ Robotics & Automation News",
       "published_display": "2026-06-22",
       "id": "1630c76e4d3c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Cognex CEO'su Matt Moschner, Yapay Zeka Destekli Makine Görme ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda - Teknik Özetler",
+      "summary": "Cognex CEO'su Matt Moschner, Yapay Zeka ile Güçlendirilmiş Yapay Görme Teknolojisi ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda Konuşuyor",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZVdsVHBhNi0yeUNSeW9IWm04UVdZUG8yeWd3dHZSeVpNWFpzYWlJRGlmTkxnLUl5d0JuNFQ4Q2g3cVNiSFNyVUxpZ2FFa0FISlh3Z2hHMVpBZmwzUzQ0MWFSTTlHUF90aHJvLUNtd0tjRWMxeTBwMTg3MmNIUGROUmw1UXhXVFdoMzZtbWtLa1pvOGFRMEdJUDF1ZTRrQkc2OHBCVFE4WFF2ZWJaYjBtMkNkckExNTctQV9SVmZfSFRDM0xoYnpZWGV4S2c1b0cxTUlnczlZSk16S3ZiR0pYRnVWRQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-19T11:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Cognex CEO'su Matt Moschner, Yapay Zeka Destekli Makine Görme ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda - Teknik Özetler Cognex CEO'su Matt Moschner, Yapay Zeka ile Güçlendirilmiş Yapay Görme Teknolojisi ile Endüstriyel Otomasyonun Geliştirilmesi Konusunda Konuşuyor Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs Robotics Automation Industry",
+      "title_original": "Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs",
+      "summary_original": "Cognex CEO Matt Moschner on Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs",
+      "published_display": "2026-06-19",
+      "id": "99eda2807b75"
     },
     {
       "category": "web",
