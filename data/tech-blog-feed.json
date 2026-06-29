@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-29T16:10:20Z",
+  "updated_at": "2026-06-29T17:25:25Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Git 2.55'ten öne çıkanlar",
+      "summary": "Açık kaynak Git projesi Git 2.55'i yayınladı. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.55'ten Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-29T17:25:25Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Git 2.55'ten öne çıkanlar Açık kaynak Git projesi Git 2.55'i yayınladı. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.55'ten Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.55 The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Highlights from Git 2.55",
+      "summary_original": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
+      "published_display": "2026-06-29",
+      "id": "d674003974fa"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilcinizin zaten bir planı var",
-      "summary": "Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
+      "summary": "Bir temsilci doğru olanı yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
       "url": "https://devblogs.microsoft.com/blog/your-agent-already-has-a-plan",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
+      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru olanı yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
       "title_original": "Your agent already has a plan",
       "summary_original": "If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh...",
       "published_display": "2026-06-26",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme",
-      "summary": "GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla karşılaştırmada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde nasıl öncü olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası...",
+      "summary": "GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla kıyaslamada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde lider olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası...",
       "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,31 +125,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla karşılaştırmada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde nasıl öncü olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası... Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici... GitHub Dev Platform",
+      "keywords": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla kıyaslamada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde lider olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası... Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici... GitHub Dev Platform",
       "title_original": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
       "summary_original": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici...",
       "published_display": "2026-06-25",
       "id": "8f9ac599026a"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Microsoft'tan öğrenin: Yazılım geliştirmeyi aracılı bir platform aracılığıyla dönüştürün",
-      "summary": "Microsoft'un, mühendislik yaşam döngüsü boyunca aracılı iş akışları, yapay zeka destekli otomasyon ve uzman aracılarla yazılım geliştirmeyi nasıl dönüştürdüğünü görün. Microsoft'tan Öğrenin: Bir aracı aracılığıyla yazılım geliştirmeyi dönüştürün yazısı...",
-      "url": "https://devblogs.microsoft.com/blog/learn-from-microsoft-transform-software-development-through-an-agentic-platform",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-06-25T18:00:30Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Microsoft'tan öğrenin: Yazılım geliştirmeyi aracılı bir platform aracılığıyla dönüştürün Microsoft'un, mühendislik yaşam döngüsü boyunca aracılı iş akışları, yapay zeka destekli otomasyon ve uzman aracılarla yazılım geliştirmeyi nasıl dönüştürdüğünü görün. Microsoft'tan Öğrenin: Bir aracı aracılığıyla yazılım geliştirmeyi dönüştürün yazısı... Learn from Microsoft: Transform software development through an agentic platform See how Microsoft is transforming software development with agentic workflows, AI-powered automation, and specialized agents across the engineering lifecycle. The post Learn from Microsoft: Transform software development through an agent... Microsoft Dev Cloud",
-      "title_original": "Learn from Microsoft: Transform software development through an agentic platform",
-      "summary_original": "See how Microsoft is transforming software development with agentic workflows, AI-powered automation, and specialized agents across the engineering lifecycle. The post Learn from Microsoft: Transform software development through an agent...",
-      "published_display": "2026-06-25",
-      "id": "86bda8953cc2"
     },
     {
       "category": "ai",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Avrupa'nın Yapay Zeka İşgücü Fırsatını Haritalamak",
-      "summary": "Yeni bir OpenAI raporu, yapay zekanın AB genelinde işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor.",
+      "summary": "Yeni bir OpenAI raporu, yapay zekanın AB çapında işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor.",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Avrupa'nın Yapay Zeka İşgücü Fırsatını Haritalamak Yeni bir OpenAI raporu, yapay zekanın AB genelinde işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor. Mapping Europe’s AI Workforce Opportunity A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes. AI OpenAI Model",
+      "keywords": "Avrupa'nın Yapay Zeka İşgücü Fırsatını Haritalamak Yeni bir OpenAI raporu, yapay zekanın AB çapında işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor. Mapping Europe’s AI Workforce Opportunity A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes. AI OpenAI Model",
       "title_original": "Mapping Europe’s AI Workforce Opportunity",
       "summary_original": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "published_display": "2026-06-29",
@@ -295,7 +295,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Anscer Robotics LBR 500'ü Tanıtıyor: Atölye Otomasyonunu Yeniden Tanımlayan Alçak Yataklı Robot - Machine Maker",
-      "summary": "Anscer Robotics LBR 500'ü Tanıtıyor: Atölye Otomasyonu Makine Üreticisini Yeniden Tanımlayan Low-Bed Robot",
+      "summary": "Anscer Robotics LBR 500'ü Tanıtıyor: Üretim Otomasyonu Makine Üreticisini Yeniden Tanımlayan Low-Bed Robot",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2pMcVFNWE56eXd5UUl3MGY0R0kxdFFLWUNpY3lvVzlpS2JqYVNpZzNwMm5fU3JiZnA2MUpEQ2pWeERZU3QtM21XRVhQdy0tN3c0OWl3b0x2N3JSdXk3UDhVM2JNaW4xQ3NjRnRHOHgyVjNpQ0pXTmRRTUZtOEVBaDJJeUJtWFNHU0Q4cjhTX1hmQzZub3owb25PTHhrdXdLNnlHa21sOVhhamxS?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,7 +305,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Anscer Robotics LBR 500'ü Tanıtıyor: Atölye Otomasyonunu Yeniden Tanımlayan Alçak Yataklı Robot - Machine Maker Anscer Robotics LBR 500'ü Tanıtıyor: Atölye Otomasyonu Makine Üreticisini Yeniden Tanımlayan Low-Bed Robot Anscer Robotics Unveils LBR 500: A Low-Bed Robot Redefining Shopfloor Automation - Machine Maker Anscer Robotics Unveils LBR 500: A Low-Bed Robot Redefining Shopfloor Automation Machine Maker Robotics Automation Industry",
+      "keywords": "Anscer Robotics LBR 500'ü Tanıtıyor: Atölye Otomasyonunu Yeniden Tanımlayan Alçak Yataklı Robot - Machine Maker Anscer Robotics LBR 500'ü Tanıtıyor: Üretim Otomasyonu Makine Üreticisini Yeniden Tanımlayan Low-Bed Robot Anscer Robotics Unveils LBR 500: A Low-Bed Robot Redefining Shopfloor Automation - Machine Maker Anscer Robotics Unveils LBR 500: A Low-Bed Robot Redefining Shopfloor Automation Machine Maker Robotics Automation Industry",
       "title_original": "Anscer Robotics Unveils LBR 500: A Low-Bed Robot Redefining Shopfloor Automation - Machine Maker",
       "summary_original": "Anscer Robotics Unveils LBR 500: A Low-Bed Robot Redefining Shopfloor Automation Machine Maker",
       "published_display": "2026-06-29",
@@ -494,7 +494,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -505,11 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "ee48359b34f2"
+      "id": "55bfd5ae49b2"
     },
     {
       "category": "siber",
@@ -574,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "27b0f26a0dc9"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
