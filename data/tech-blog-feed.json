@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilcinizin zaten bir planı var",
-      "summary": "Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
+      "summary": "Bir temsilci doğru olanı yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
       "url": "https://devblogs.microsoft.com/blog/your-agent-already-has-a-plan",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
+      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru olanı yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
       "title_original": "Your agent already has a plan",
       "summary_original": "If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh...",
       "published_display": "2026-06-26",
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme",
-      "summary": "GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla karşılaştırmada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde nasıl öncü olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası...",
+      "summary": "GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla kıyaslamada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde lider olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası...",
       "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla karşılaştırmada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde nasıl öncü olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası... Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici... GitHub Dev Platform",
+      "keywords": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla kıyaslamada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde lider olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası... Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici... GitHub Dev Platform",
       "title_original": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
       "summary_original": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici...",
       "published_display": "2026-06-25",
@@ -234,7 +234,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Temsilciler işleri nasıl dönüştürüyor?",
+      "title": "Temsilciler işlerini nasıl dönüştürüyor?",
       "summary": "Yeni bir OpenAI araştırma makalesi, AI temsilcilerinin işi nasıl dönüştürdüğünü, daha uzun, daha karmaşık görevleri mümkün kıldığını ve roller arasında üretkenliği nasıl artırdığını gösteriyor.",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
       "image_url": null,
@@ -245,11 +245,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Temsilciler işleri nasıl dönüştürüyor? Yeni bir OpenAI araştırma makalesi, AI temsilcilerinin işi nasıl dönüştürdüğünü, daha uzun, daha karmaşık görevleri mümkün kıldığını ve roller arasında üretkenliği nasıl artırdığını gösteriyor. How agents are transforming work A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles. AI OpenAI Model",
+      "keywords": "Temsilciler işlerini nasıl dönüştürüyor? Yeni bir OpenAI araştırma makalesi, AI temsilcilerinin işi nasıl dönüştürdüğünü, daha uzun, daha karmaşık görevleri mümkün kıldığını ve roller arasında üretkenliği nasıl artırdığını gösteriyor. How agents are transforming work A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles. AI OpenAI Model",
       "title_original": "How agents are transforming work",
       "summary_original": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "published_display": "2026-06-25",
-      "id": "3865afc94ea9"
+      "id": "85531044f92a"
     },
     {
       "category": "robotik",
@@ -270,26 +270,6 @@
       "summary_original": "It’s Time for the Robotics Industry to “Prove it” Quality Magazine",
       "published_display": "2026-06-27",
       "id": "b5ad5c31d9e5"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Kawasaki Robotics, Automate 2026'da 8 eksenli Fiziksel Yapay Zeka robotunu ve akıllı otomasyon teknolojilerini sergiliyor - Robotics & Automation News",
-      "summary": "Kawasaki Robotics, Automate 2026 Robotics & Automation News'te 8 eksenli Fiziksel Yapay Zeka robotunu ve akıllı otomasyon teknolojilerini sergiliyor",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONVJuNkYxRnk5aTFTSDZoZ3dlZldSMDAycnpydVpHSUNfYXpYdjFTQWV4NWp1THo1MU85TTBUTE9zcUxRdEFRQjdoaWY4aWVIRFlFWXVtTjlVeGlnbDQ0RXF3VGxIZjFjbHVmbnRjN2t1dExpZkRDMExpTk5kNEQ1SWs4OUtzZURMdEQ0Y0xlTGl0eFNTS1ZMTGQ3MHVlbXhXc2dpUUhtMmZhOUdmekRRQWc3b05zOWkzOFhkZFVGOUFodmRvS2ZoWThNeTg2MldVWk1haHFfbFlRTk92NUVRU2VvNU9vdnV2dnVsa3REZlBmZTIxWDB6LTVn?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-26T20:09:39Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Kawasaki Robotics, Automate 2026'da 8 eksenli Fiziksel Yapay Zeka robotunu ve akıllı otomasyon teknolojilerini sergiliyor - Robotics & Automation News Kawasaki Robotics, Automate 2026 Robotics & Automation News'te 8 eksenli Fiziksel Yapay Zeka robotunu ve akıllı otomasyon teknolojilerini sergiliyor Kawasaki Robotics showcases 8-axis Physical AI robot and intelligent automation technologies at Automate 2026 - Robotics & Automation News Kawasaki Robotics showcases 8-axis Physical AI robot and intelligent automation technologies at Automate 2026 Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Kawasaki Robotics showcases 8-axis Physical AI robot and intelligent automation technologies at Automate 2026 - Robotics & Automation News",
-      "summary_original": "Kawasaki Robotics showcases 8-axis Physical AI robot and intelligent automation technologies at Automate 2026 Robotics & Automation News",
-      "published_display": "2026-06-26",
-      "id": "9a835db394e2"
     },
     {
       "category": "robotik",
@@ -370,6 +350,26 @@
       "summary_original": "How automation professionals are future-proofing their wealth in the AI era Robotics & Automation News",
       "published_display": "2026-06-26",
       "id": "c8d2ef1a7c03"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır - Teknik Özetler",
+      "summary": "Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır? Teknik Özetler",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1ZxZjg5YmluQlh3bzFBTEFxZjB6dFVrdDJlREw0NE9ueHNOVEZlWm1jTGF4OWtKX1VOUENSVjhHTGRLcTJ0VXFuekt0WXA2UnFieFJBR0d1ODYzTmVGS182SXNuZ3B0M3VoR2h6WGtkUGd5TVAxdHJIcjBJaG5wS054ZlhoVFVLdXpzVzhDZzNaOG9VbEFIMFpvSnZKYmxDNUpxTkJ3Z1JPU09Kbi1mRURodlZNTnZ1TkE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-23T16:32:45Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır - Teknik Özetler Ölçeklenebilir Makine Bakım Otomasyonuna Nasıl Başlanır? Teknik Özetler How to Get Started with Scalable Machine Tending Automation - Tech Briefs How to Get Started with Scalable Machine Tending Automation Tech Briefs Robotics Automation Industry",
+      "title_original": "How to Get Started with Scalable Machine Tending Automation - Tech Briefs",
+      "summary_original": "How to Get Started with Scalable Machine Tending Automation Tech Briefs",
+      "published_display": "2026-06-23",
+      "id": "e43438195e5b"
     },
     {
       "category": "web",
@@ -494,7 +494,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -505,11 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "ee48359b34f2"
+      "id": "55bfd5ae49b2"
     },
     {
       "category": "siber",
@@ -554,47 +554,27 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
-      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
+      "title": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review",
+      "summary": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0t1RjdWejRoeWZLX1JyaGNlaS1aS0RvZkthWkViVWVwaVFGeHdaU0dOeXJsYTVNN1BKbk5Wakt5U29YTTc2SkJVRngtUF9XZXM0X0FXT1ltMUxNVVNUQmVXTTdPalR6dW9SdDVaOXZnUkVvVWNHVk5OWFZUeFdnb0pUZFIxTU5fb2lRY3BfVGlyTlpld0xWV2JvT1U2akhVWWx3?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-05-18T07:00:00Z",
+      "published_at": "2026-04-02T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
-      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
-      "published_display": "2026-05-18",
-      "id": "89e9ec78b392"
+      "keywords": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review IP Camera Video Surveillance",
+      "title_original": "India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review",
+      "summary_original": "India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review",
+      "published_display": "2026-04-02",
+      "id": "196e24575946"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily",
-      "summary": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUFremVzOGxOX1A2M2pzQTdCaVZDN1ZwcnNidVhpdXRxaEloUUg5UWtUNk1zdm9ZcW9ON3pKNk81VU51Q3VCbHkxU0hNMnNCRDBXNm1HMjEtLU5obTZUVWx2LUVuOVpwWG81R2Q3MXJNVDZ5Yzc1SHdfdGRNXzRrV3NkMUFGb09BUkdnS1Z4NXBMNWZRQ1AyQ2EwYnhZTlhRU21Fd3Z6dnlBdW5LNkttLUVYeE9jWUhxRWc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-25T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily IP Camera Video Surveillance",
-      "title_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily",
-      "summary_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily",
-      "published_display": "2026-03-25",
-      "id": "88b8f95c1622"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -605,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna göre, Ulus-Devletler Hedefleme için Gizli Gözetim Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "015a81ebc793"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
@@ -670,6 +650,26 @@
       "summary_original": "HikvisionExploiter – An Automated Exploitation Toolkit Targeting Hikvision IP Cameras CyberSecurityNews",
       "published_display": "2025-10-29",
       "id": "1507d39095d1"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "TLS Bağlantı Noktası 9091 Aracılığıyla Çin'de Barındırılan Bulut Sunuculara Veri Gönderen Polis Vücut Kamerası Uygulamaları - CyberSecurityNews",
+      "summary": "TLS Bağlantı Noktası 9091 Aracılığıyla Çin'de Barındırılan Bulut Sunuculara Veri Gönderen Polis Vücut Kamerası Uygulamaları CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY2RjczFEbUhhV253MTFzXy0yMVhzNEpyN0RjOWxPR2s5OUtTUHZzRmVmNVM2RkNQSDZ0SmtvSW5DNEZINDlLTTFyT3FFWlpSelUwQUVhYTRIRi1CaVR4RjZPTl9iaHIzNW9UelRKNWJLLThzQV84YzZReEhCaVFmbjFVNVpINTc2ZlY2cQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2025-09-09T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "TLS Bağlantı Noktası 9091 Aracılığıyla Çin'de Barındırılan Bulut Sunuculara Veri Gönderen Polis Vücut Kamerası Uygulamaları - CyberSecurityNews TLS Bağlantı Noktası 9091 Aracılığıyla Çin'de Barındırılan Bulut Sunuculara Veri Gönderen Polis Vücut Kamerası Uygulamaları CyberSecurityNews Police Body Camera Apps Sending Data to Cloud Servers Hosted in China Via TLS Port 9091 - CyberSecurityNews Police Body Camera Apps Sending Data to Cloud Servers Hosted in China Via TLS Port 9091 CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Police Body Camera Apps Sending Data to Cloud Servers Hosted in China Via TLS Port 9091 - CyberSecurityNews",
+      "summary_original": "Police Body Camera Apps Sending Data to Cloud Servers Hosted in China Via TLS Port 9091 CyberSecurityNews",
+      "published_display": "2025-09-09",
+      "id": "a1ba4980f611"
     }
   ]
 }
