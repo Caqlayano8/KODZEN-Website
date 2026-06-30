@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilcinizin zaten bir planı var",
-      "summary": "Bir temsilci doğru olanı yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
+      "summary": "Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
       "url": "https://devblogs.microsoft.com/blog/your-agent-already-has-a-plan",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -125,7 +125,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru olanı yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
+      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
       "title_original": "Your agent already has a plan",
       "summary_original": "If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh...",
       "published_display": "2026-06-26",
@@ -154,8 +154,28 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "TabFM ile tanışın: Tablosal veriler için sıfır atışlı temel modeli",
+      "summary": "Veri Yönetimi",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/TabFM1_Hero.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-06-30T10:26:00Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "TabFM ile tanışın: Tablosal veriler için sıfır atışlı temel modeli Veri Yönetimi Introducing TabFM: A zero-shot foundation model for tabular data Data Management AI Research Google",
+      "title_original": "Introducing TabFM: A zero-shot foundation model for tabular data",
+      "summary_original": "Data Management",
+      "published_display": "2026-06-30",
+      "id": "781f5937305d"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "ChatGPT'nin benimsenmesi nasıl genişledi?",
-      "summary": "Yeni OpenAI Sinyalleri verileri, ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü, kullanıcıların kullanımı artırmasıyla, daha fazla özellik keşfetmesiyle ve bölgeler ve diller arasında büyümeyi artırmasıyla gösteriyor.",
+      "summary": "Yeni OpenAI Sinyalleri verileri, kullanıcıların kullanımı artırması, daha fazla özellik keşfetmesi ve bölgeler ve diller arasında büyümeyi artırmasıyla ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü gösteriyor.",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT'nin benimsenmesi nasıl genişledi? Yeni OpenAI Sinyalleri verileri, ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü, kullanıcıların kullanımı artırmasıyla, daha fazla özellik keşfetmesiyle ve bölgeler ve diller arasında büyümeyi artırmasıyla gösteriyor. How ChatGPT adoption has expanded New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. AI OpenAI Model",
+      "keywords": "ChatGPT'nin benimsenmesi nasıl genişledi? Yeni OpenAI Sinyalleri verileri, kullanıcıların kullanımı artırması, daha fazla özellik keşfetmesi ve bölgeler ve diller arasında büyümeyi artırmasıyla ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü gösteriyor. How ChatGPT adoption has expanded New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. AI OpenAI Model",
       "title_original": "How ChatGPT adoption has expanded",
       "summary_original": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "published_display": "2026-06-30",
@@ -232,26 +252,6 @@
       "id": "933fd684223a"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Genebench-Pro'nun İçinde",
-      "summary": "Genebench-Pro'nun İçinde",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-30T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Genebench-Pro'nun İçinde Genebench-Pro'nun İçinde Inside Genebench-Pro Inside Genebench-Pro AI OpenAI Model",
-      "title_original": "Inside Genebench-Pro",
-      "summary_original": "Inside Genebench-Pro",
-      "published_display": "2026-06-30",
-      "id": "011e6f12b5ae"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Depo Otomasyonu RaaS Pazarını Yönlendiriyor - MHL Haberleri",
@@ -270,26 +270,6 @@
       "summary_original": "Warehouse Automation Driving RaaS Market MHL News",
       "published_display": "2026-06-30",
       "id": "9aab745b5886"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Telford otomasyon firması Avrupa ortaklığıyla robotik kapasitesini artırıyor - TheBusinessDesk.com",
-      "summary": "Telford otomasyon firması, Avrupa ortaklığı TheBusinessDesk.com aracılığıyla robotik kapasitesini artırıyor",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVRYZ2FGQXYxUU00Q0l5Y1NmZDB4M1ZreFRTNWFMR1RyeDN4TEVoTDB0ZTBEc1JTaUkzT0lSYWpVakVaU3ByblpTUUZheHNVQlFteGVobVZWRjdfa2lVQnkxdzhmZGljZTEwTnYtWHBIa0hIUWh4SHF0Y2FlLWlyTzRkc3hQLVF5OFg2Slp3?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-30T11:45:42Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Telford otomasyon firması Avrupa ortaklığıyla robotik kapasitesini artırıyor - TheBusinessDesk.com Telford otomasyon firması, Avrupa ortaklığı TheBusinessDesk.com aracılığıyla robotik kapasitesini artırıyor Telford automation firm boosts robotics capability through European partnership - TheBusinessDesk.com Telford automation firm boosts robotics capability through European partnership TheBusinessDesk.com Robotics Automation Industry",
-      "title_original": "Telford automation firm boosts robotics capability through European partnership - TheBusinessDesk.com",
-      "summary_original": "Telford automation firm boosts robotics capability through European partnership TheBusinessDesk.com",
-      "published_display": "2026-06-30",
-      "id": "d09798fa565c"
     },
     {
       "category": "robotik",
@@ -370,6 +350,26 @@
       "summary_original": "Standard Bots: How AI-Native Robotics is Redefining Industrial Automation ARC Advisory Group",
       "published_display": "2026-06-29",
       "id": "966a166ae97c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Otomasyon sektörüne genel bakış: sensörler, yazılım ve yapay zeka desteği Haziran 2026 ürün dalgası - MarketScale",
+      "summary": "Otomasyon sektörüne genel bakış: sensörler, yazılım ve yapay zeka desteği Haziran 2026 ürün dalgası MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY3hsQ0xEYXhJRVVkNzc4M0ltd19idHViWWthUURkUmxzTGZxb2lpUDhSWHdaa05rT19pOVFrTVhoMHh3RWhSQnFxWXVuMmkzQktKRWVHa3U1YnVyYWdFalVqcWh5TEdrWDhfZHlpOF9XZnVySHR3YW5iN0pmY3Zwa3BqbWRlOUJKQ19jdWhVUGhNTUl6UUdIc2JCVC1jVWhGWS01Y1ZzNDFXUGVuVVJLeVA2OUxMSWpoeTNMbXpUdFdBQUJiSHRmTjdrb1ZVVkk?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-29T01:51:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Otomasyon sektörüne genel bakış: sensörler, yazılım ve yapay zeka desteği Haziran 2026 ürün dalgası - MarketScale Otomasyon sektörüne genel bakış: sensörler, yazılım ve yapay zeka desteği Haziran 2026 ürün dalgası MarketScale Automation industry roundup: sensors, software, and AI drive June 2026 product wave - MarketScale Automation industry roundup: sensors, software, and AI drive June 2026 product wave MarketScale Robotics Automation Industry",
+      "title_original": "Automation industry roundup: sensors, software, and AI drive June 2026 product wave - MarketScale",
+      "summary_original": "Automation industry roundup: sensors, software, and AI drive June 2026 product wave MarketScale",
+      "published_display": "2026-06-29",
+      "id": "9c6d9cc4dc20"
     },
     {
       "category": "web",
@@ -494,7 +494,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -505,11 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
+      "id": "ee48359b34f2"
     },
     {
       "category": "siber",
@@ -535,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
-      "summary": "Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -545,7 +545,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
       "title_original": "Project Glasswing: what Mythos showed us",
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
@@ -594,7 +594,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -605,16 +605,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "3fd52ec52b0c"
+      "id": "651206b2fe26"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -625,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
