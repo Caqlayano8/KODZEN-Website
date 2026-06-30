@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-30T14:47:22Z",
+  "updated_at": "2026-06-30T17:28:16Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub açık kaynak bağımlılıkları için uyumluluğu nasıl sürdürüyor?",
+      "summary": "Açık Kaynak Program Ofisi'nin açık kaynak bağımlılıklarını geniş ölçekte yönetmek için GitHub'un yeni lisans uyumluluğu ürününü nasıl kullandığını keşfedin. GitHub açık kaynak bağımlılıkları için uyumluluğu nasıl korur yazısı ilk olarak GitHub Blogunda yayınlandı.",
+      "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-06-30T17:28:16Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub açık kaynak bağımlılıkları için uyumluluğu nasıl sürdürüyor? Açık Kaynak Program Ofisi'nin açık kaynak bağımlılıklarını geniş ölçekte yönetmek için GitHub'un yeni lisans uyumluluğu ürününü nasıl kullandığını keşfedin. GitHub açık kaynak bağımlılıkları için uyumluluğu nasıl korur yazısı ilk olarak GitHub Blogunda yayınlandı. How GitHub maintains compliance for open source dependencies Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "How GitHub maintains compliance for open source dependencies",
+      "summary_original": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
+      "published_display": "2026-06-30",
+      "id": "157114fdc4ff"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,30 +132,30 @@
       "id": "fdc4c5489924"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme",
-      "summary": "GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla karşılaştırmada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde nasıl öncü olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-25T22:59:45Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Isı Direnci verilerimizi 50'den fazla küresel şehre genişletiyoruz",
+      "summary": "İklim ve Sürdürülebilirlik",
+      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Heat-Resilience-1.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-06-30T17:03:10Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Research",
+        "Google"
       ],
-      "keywords": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla karşılaştırmada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde nasıl öncü olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası... Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici... GitHub Dev Platform",
-      "title_original": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-      "summary_original": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici...",
-      "published_display": "2026-06-25",
-      "id": "8f9ac599026a"
+      "keywords": "Isı Direnci verilerimizi 50'den fazla küresel şehre genişletiyoruz İklim ve Sürdürülebilirlik Expanding our Heat Resilience data to 50+ global cities Climate & Sustainability AI Research Google",
+      "title_original": "Expanding our Heat Resilience data to 50+ global cities",
+      "summary_original": "Climate & Sustainability",
+      "published_display": "2026-06-30",
+      "id": "95da7b1c6e18"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT'nin benimsenmesi nasıl genişledi?",
-      "summary": "Yeni OpenAI Sinyalleri verileri, kullanıcıların kullanımı artırması, daha fazla özellik keşfetmesi ve bölgeler ve diller arasında büyümeyi artırmasıyla ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü gösteriyor.",
+      "summary": "Yeni OpenAI Sinyalleri verileri, ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü, kullanıcıların kullanımı artırmasıyla, daha fazla özellik keşfetmesiyle ve bölgeler ve diller arasında büyümeyi artırmasıyla gösteriyor.",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT'nin benimsenmesi nasıl genişledi? Yeni OpenAI Sinyalleri verileri, kullanıcıların kullanımı artırması, daha fazla özellik keşfetmesi ve bölgeler ve diller arasında büyümeyi artırmasıyla ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü gösteriyor. How ChatGPT adoption has expanded New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. AI OpenAI Model",
+      "keywords": "ChatGPT'nin benimsenmesi nasıl genişledi? Yeni OpenAI Sinyalleri verileri, ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü, kullanıcıların kullanımı artırmasıyla, daha fazla özellik keşfetmesiyle ve bölgeler ve diller arasında büyümeyi artırmasıyla gösteriyor. How ChatGPT adoption has expanded New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. AI OpenAI Model",
       "title_original": "How ChatGPT adoption has expanded",
       "summary_original": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "published_display": "2026-06-30",
@@ -155,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak",
-      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporunu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
+      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -165,11 +185,31 @@
         "Product",
         "Google"
       ],
-      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporunu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
+      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
       "title_original": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "summary_original": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
       "published_display": "2026-06-30",
       "id": "b02566f535df"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GeneBench-Pro'ya Giriş",
+      "summary": "Karmaşık, gerçek dünya veri kümelerini kullanarak genomik, biyoloji ve bilimsel araştırmalarda yapay zeka performansını test eden yeni bir kıyaslama olan GeneBench-Pro ile tanışın.",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-06-30T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GeneBench-Pro'ya Giriş Karmaşık, gerçek dünya veri kümelerini kullanarak genomik, biyoloji ve bilimsel araştırmalarda yapay zeka performansını test eden yeni bir kıyaslama olan GeneBench-Pro ile tanışın. Introducing GeneBench-Pro Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets. AI OpenAI Model",
+      "title_original": "Introducing GeneBench-Pro",
+      "summary_original": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "published_display": "2026-06-30",
+      "id": "34c09dd3d0ca"
     },
     {
       "category": "ai",
@@ -194,67 +234,27 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Bir yapay zeka uzmanına sorun: Tam yığın nedir?",
-      "summary": "Bir Google uzmanı, yapay zekaya tam kapsamlı bir yaklaşım benimsemenin ne anlama geldiğini ve bunun neden bu kadar uzun süredir yapay zeka çalışmalarımızın temelini oluşturduğunu açıklıyor.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-29T16:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Bir yapay zeka uzmanına sorun: Tam yığın nedir? Bir Google uzmanı, yapay zekaya tam kapsamlı bir yaklaşım benimsemenin ne anlama geldiğini ve bunun neden bu kadar uzun süredir yapay zeka çalışmalarımızın temelini oluşturduğunu açıklıyor. Ask an AI expert: What exactly is the full stack? A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long. AI Product Google",
-      "title_original": "Ask an AI expert: What exactly is the full stack?",
-      "summary_original": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
-      "published_display": "2026-06-29",
-      "id": "13414262eb6e"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Avrupa'nın Yapay Zeka İşgücü Fırsatını Haritalamak",
-      "summary": "Yeni bir OpenAI raporu, yapay zekanın AB genelinde işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor.",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "title": "Genebench-Pro'nun İçinde",
+      "summary": "Genebench-Pro'nun İçinde",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "image_url": null,
       "source": "OpenAI News",
-      "published_at": "2026-06-29T07:00:00Z",
+      "published_at": "2026-06-30T00:00:00Z",
       "tags": [
         "AI",
         "OpenAI",
         "Model"
       ],
-      "keywords": "Avrupa'nın Yapay Zeka İşgücü Fırsatını Haritalamak Yeni bir OpenAI raporu, yapay zekanın AB genelinde işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor. Mapping Europe’s AI Workforce Opportunity A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes. AI OpenAI Model",
-      "title_original": "Mapping Europe’s AI Workforce Opportunity",
-      "summary_original": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "published_display": "2026-06-29",
-      "id": "e17e8bb1f25a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "HP Inc., OpenAI ile Frontier stratejik ortaklığını başlatıyor",
-      "summary": "HP Inc., müşteri deneyimleri, yazılım geliştirme ve kurumsal operasyonlarda yapay zekayı dağıtmak için OpenAI Frontier ortaklığını ölçeklendiriyor.",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-28T17:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "HP Inc., OpenAI ile Frontier stratejik ortaklığını başlatıyor HP Inc., müşteri deneyimleri, yazılım geliştirme ve kurumsal operasyonlarda yapay zekayı dağıtmak için OpenAI Frontier ortaklığını ölçeklendiriyor. HP Inc. launches Frontier strategic partnership with OpenAI HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations. AI OpenAI Model",
-      "title_original": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary_original": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "published_display": "2026-06-28",
-      "id": "718587cb00ff"
+      "keywords": "Genebench-Pro'nun İçinde Genebench-Pro'nun İçinde Inside Genebench-Pro Inside Genebench-Pro AI OpenAI Model",
+      "title_original": "Inside Genebench-Pro",
+      "summary_original": "Inside Genebench-Pro",
+      "published_display": "2026-06-30",
+      "id": "011e6f12b5ae"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Depo Otomasyonu RaaS Pazarını Güçlendiriyor - MHL Haberleri",
+      "title": "Depo Otomasyonu RaaS Pazarını Yönlendiriyor - MHL Haberleri",
       "summary": "Depo Otomasyonu RaaS Pazarını Güçlendiriyor MHL Haberleri",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWU53a3g1aGQ4X2V5Q0JBdWRpeEhKZHFNendiVl9UWEFKNXRYZ0hrSmIxaEVqM3BKNEg2cFptckswNWNCS19Rd3FDdDRsU2NoajF0T3Q4MUttd0FTcEk2Y2VTN2JsUks1RmxyUjMzeWpwMUNkNlc5OEljS1Y5d2pLZnd3M1BvS08zT3U3OVlQYzhiTlBf?oc=5",
       "image_url": null,
@@ -265,11 +265,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Depo Otomasyonu RaaS Pazarını Güçlendiriyor - MHL Haberleri Depo Otomasyonu RaaS Pazarını Güçlendiriyor MHL Haberleri Warehouse Automation Driving RaaS Market - MHL News Warehouse Automation Driving RaaS Market MHL News Robotics Automation Industry",
+      "keywords": "Depo Otomasyonu RaaS Pazarını Yönlendiriyor - MHL Haberleri Depo Otomasyonu RaaS Pazarını Güçlendiriyor MHL Haberleri Warehouse Automation Driving RaaS Market - MHL News Warehouse Automation Driving RaaS Market MHL News Robotics Automation Industry",
       "title_original": "Warehouse Automation Driving RaaS Market - MHL News",
       "summary_original": "Warehouse Automation Driving RaaS Market MHL News",
       "published_display": "2026-06-30",
-      "id": "b57fe74e7030"
+      "id": "9aab745b5886"
     },
     {
       "category": "robotik",
@@ -594,7 +594,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -605,17 +605,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "27b0f26a0dc9"
+      "id": "3fd52ec52b0c"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "3d63787c804b"
+      "id": "fcce6214680e"
     },
     {
       "category": "kamera",
