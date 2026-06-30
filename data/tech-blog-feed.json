@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-06-29T17:25:25Z",
+  "updated_at": "2026-06-30T06:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilcinizin zaten bir planı var",
-      "summary": "Bir temsilci doğru olanı yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
+      "summary": "Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
       "url": "https://devblogs.microsoft.com/blog/your-agent-already-has-a-plan",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru olanı yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
+      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
       "title_original": "Your agent already has a plan",
       "summary_original": "If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh...",
       "published_display": "2026-06-26",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme",
-      "summary": "GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla kıyaslamada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde lider olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası...",
+      "summary": "GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla karşılaştırmada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde nasıl öncü olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası...",
       "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,31 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla kıyaslamada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde lider olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası... Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici... GitHub Dev Platform",
+      "keywords": "Modeller ve görevler genelinde GitHub Copilot aracı donanımının performansını ve verimliliğini değerlendirme GitHub Copilot aracılı donanımın, 20'den fazla model arasından seçim yapma esnekliğini korurken birden fazla karşılaştırmada nasıl güçlü sonuçlar verdiğini ve token verimliliğinde nasıl öncü olduğunu keşfedin. Performans ve verimliliğin değerlendirilmesi sonrası... Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici... GitHub Dev Platform",
       "title_original": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
       "summary_original": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and effici...",
       "published_display": "2026-06-25",
       "id": "8f9ac599026a"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak",
+      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-30T06:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
+      "title_original": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "summary_original": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
+      "published_display": "2026-06-30",
+      "id": "b02566f535df"
     },
     {
       "category": "ai",
@@ -155,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Avrupa'nın Yapay Zeka İşgücü Fırsatını Haritalamak",
-      "summary": "Yeni bir OpenAI raporu, yapay zekanın AB çapında işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor.",
+      "summary": "Yeni bir OpenAI raporu, yapay zekanın AB genelinde işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor.",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Avrupa'nın Yapay Zeka İşgücü Fırsatını Haritalamak Yeni bir OpenAI raporu, yapay zekanın AB çapında işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor. Mapping Europe’s AI Workforce Opportunity A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes. AI OpenAI Model",
+      "keywords": "Avrupa'nın Yapay Zeka İşgücü Fırsatını Haritalamak Yeni bir OpenAI raporu, yapay zekanın AB genelinde işleri nasıl yeniden şekillendirebileceğini haritalandırıyor ve hangi mesleklerin otomasyon, büyüme veya iş akışı değişiklikleriyle karşı karşıya kalabileceğini vurguluyor. Mapping Europe’s AI Workforce Opportunity A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes. AI OpenAI Model",
       "title_original": "Mapping Europe’s AI Workforce Opportunity",
       "summary_original": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "published_display": "2026-06-29",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "published_display": "2026-06-26",
       "id": "f888e5b67876"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yeni bir uygulama da dahil olmak üzere en son Google Finans yükseltmelerimiz",
-      "summary": "Yeni Google Finans betadan çıkıyor ve yeni bir Android uygulamasını kullanıma sunuyor.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-25T16:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Yeni bir uygulama da dahil olmak üzere en son Google Finans yükseltmelerimiz Yeni Google Finans betadan çıkıyor ve yeni bir Android uygulamasını kullanıma sunuyor. Our latest Google Finance upgrades, including a new app The new Google Finance is coming out of beta and launching a new Android app. AI Product Google",
-      "title_original": "Our latest Google Finance upgrades, including a new app",
-      "summary_original": "The new Google Finance is coming out of beta and launching a new Android app.",
-      "published_display": "2026-06-25",
-      "id": "893b891f1a4f"
     },
     {
       "category": "robotik",
@@ -494,7 +494,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -505,11 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
+      "id": "ee48359b34f2"
     },
     {
       "category": "siber",
@@ -535,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Glasswing Projesi: Mythos'un bize gösterdiği şey",
-      "summary": "Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
+      "summary": "Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz...",
       "url": "https://blog.cloudflare.com/cyber-frontier-models/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -545,7 +545,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Geçtiğimiz haftalarda Mythos ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
+      "keywords": "Glasswing Projesi: Mythos'un bize gösterdiği şey Son haftalarda Mythos'u ve diğer güvenlik odaklı LLM'leri altyapımızın kritik bölümlerinde canlı koda yönlendirdik. Gözlemlediklerimizi, modellerin güçlü ve zayıf yönlerini ve etraflarındaki çalışmaların neye benzemesi gerektiğini paylaşıyoruz... Project Glasswing: what Mythos showed us In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik... Cloudflare Security Web",
       "title_original": "Project Glasswing: what Mythos showed us",
       "summary_original": "In recent weeks, we pointed Mythos and other security-focused LLMs at live code across critical parts of our infrastructure. We share what we observed, the models’ strengths and weaknesses, and what the work around them needs to look lik...",
       "published_display": "2026-05-18",
@@ -574,8 +574,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International",
-      "summary": "ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
+      "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
-      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International",
-      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
+      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "d9558ccc7fa2"
+      "id": "651206b2fe26"
     },
     {
       "category": "kamera",
