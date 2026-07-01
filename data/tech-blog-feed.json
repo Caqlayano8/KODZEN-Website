@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-01T15:16:27Z",
+  "updated_at": "2026-07-01T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Her GitHub bakımcısının bu hafta etkinleştirmesi gereken 6 güvenlik ayarı",
+      "summary": "Bu altı ücretsiz ayar, projenizi hacklenemez hale getirmeyecek. Hiçbir şey olmayacak. Yapacakları şey kolay kapıları kapatmak olacaktır. Bunları etkinleştirdiğinizde projenize saldırmak eskisinden anlamlı ölçüde daha zor olacaktır. Post 6 güvenlik ayarı...",
+      "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-01T15:59:29Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Her GitHub bakımcısının bu hafta etkinleştirmesi gereken 6 güvenlik ayarı Bu altı ücretsiz ayar, projenizi hacklenemez hale getirmeyecek. Hiçbir şey olmayacak. Yapacakları şey kolay kapıları kapatmak olacaktır. Bunları etkinleştirdiğinizde projenize saldırmak eskisinden anlamlı ölçüde daha zor olacaktır. Post 6 güvenlik ayarı... 6 security settings every GitHub maintainer should enable this week These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security setting... GitHub Dev Platform",
+      "title_original": "6 security settings every GitHub maintainer should enable this week",
+      "summary_original": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security setting...",
+      "published_display": "2026-07-01",
+      "id": "6a53cc2481d1"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,24 @@
       "id": "5e12ce804ec5"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Hubber Olarak Geçiş",
-      "summary": "GitHub'ın kültürü ve faydaları kendimin en iyi versiyonu olmama nasıl yardımcı oldu? Hubber Olarak Geçiş yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-26T12:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "New York City'deki eğitimciler ve sektör liderleri, sınıflarda yapay zekanın geleceğini şekillendirmek için Google'ın ofislerinde bir araya geldi.",
+      "summary": "Google, New York Jobs CEO Konseyi ve Urban Assembly, 150 eğitim ve sektör liderinin katıldığı bir yapay zeka zirvesine ev sahipliği yaptı.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T16:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Product",
+        "Google"
       ],
-      "keywords": "Hubber Olarak Geçiş GitHub'ın kültürü ve faydaları kendimin en iyi versiyonu olmama nasıl yardımcı oldu? Hubber Olarak Geçiş yazısı ilk olarak GitHub Blogunda yayınlandı. Transitioning as a Hubber How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Transitioning as a Hubber",
-      "summary_original": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog .",
-      "published_display": "2026-06-26",
-      "id": "4bdcc167935f"
+      "keywords": "New York City'deki eğitimciler ve sektör liderleri, sınıflarda yapay zekanın geleceğini şekillendirmek için Google'ın ofislerinde bir araya geldi. Google, New York Jobs CEO Konseyi ve Urban Assembly, 150 eğitim ve sektör liderinin katıldığı bir yapay zeka zirvesine ev sahipliği yaptı. New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms. Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders. AI Product Google",
+      "title_original": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "summary_original": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "published_display": "2026-07-01",
+      "id": "335bcbe54aa0"
     },
     {
       "category": "ai",
@@ -195,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak",
-      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
+      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporunu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -205,7 +225,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
+      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporunu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
       "title_original": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "summary_original": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
       "published_display": "2026-06-30",
@@ -232,29 +252,9 @@
       "id": "34c09dd3d0ca"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Çekirdek dökümü epidemiyolojisi: 18 yıllık bir hatayı düzeltmek",
-      "summary": "OpenAI mühendisleri, nadir görülen altyapı çökmelerinde hata ayıklamak için büyük ölçekli çekirdek dökümü analizini kullanarak hem donanım hatasını hem de uzun süredir devam eden bir yazılım hatasını ortaya çıkardı.",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-30T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Çekirdek dökümü epidemiyolojisi: 18 yıllık bir hatayı düzeltmek OpenAI mühendisleri, nadir görülen altyapı çökmelerinde hata ayıklamak için büyük ölçekli çekirdek dökümü analizini kullanarak hem donanım hatasını hem de uzun süredir devam eden bir yazılım hatasını ortaya çıkardı. Core dump epidemiology: fixing an 18-year-old bug OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug. AI OpenAI Model",
-      "title_original": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary_original": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "published_display": "2026-06-30",
-      "id": "933fd684223a"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor - PES Media",
+      "title": "Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor - PES Medya",
       "summary": "Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor PES Media",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVnBBOEFPNTA1Y0ZoOXRiQktJUDVMYVBEcjRRbEp3MS1QR1FWV0NQd2FmaU51d3J5VlFHZU5HREJFcEU3WWp5SDVMUEhmb0tfaUJtcDJwNDFaN29PR2tQbTlJLVktY2dTZjZOMmlLZlhhck1pbk16S250QlJXMEY5Y0t2SFdWRDVLYnU3d1dNQ0hMM0JwODZ3ZGJTNA?oc=5",
       "image_url": null,
@@ -265,11 +265,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor - PES Media Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor PES Media New partnership aims to modernise UK industry with robotic cells - PES Media New partnership aims to modernise UK industry with robotic cells PES Media Robotics Automation Industry",
+      "keywords": "Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor - PES Medya Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor PES Media New partnership aims to modernise UK industry with robotic cells - PES Media New partnership aims to modernise UK industry with robotic cells PES Media Robotics Automation Industry",
       "title_original": "New partnership aims to modernise UK industry with robotic cells - PES Media",
       "summary_original": "New partnership aims to modernise UK industry with robotic cells PES Media",
       "published_display": "2026-07-01",
-      "id": "c3a38ee230c7"
+      "id": "bf0077651552"
     },
     {
       "category": "robotik",
@@ -514,7 +514,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -525,11 +525,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "ee48359b34f2"
+      "id": "55bfd5ae49b2"
     },
     {
       "category": "siber",
@@ -574,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS",
       "summary": "ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -585,17 +585,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS ASIS Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS",
       "published_display": "2026-03-11",
-      "id": "651206b2fe26"
+      "id": "27b0f26a0dc9"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,7 +605,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
