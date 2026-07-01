@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-01T06:00:00Z",
+  "updated_at": "2026-07-01T15:16:27Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yapay zeka kıyaslamalarının size söylemediği şeyler",
+      "summary": "Bu, Ajan Deneyimi (AX) hakkındaki bir serinin altıncı makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, aracı yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, aracınızın olup olmadığını nasıl ölçebileceğinizi kapsar.",
+      "url": "https://devblogs.microsoft.com/blog/what-ai-benchmarks-are-not-telling-you",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-07-01T14:31:55Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Yapay zeka kıyaslamalarının size söylemediği şeyler Bu, Ajan Deneyimi (AX) hakkındaki bir serinin altıncı makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, aracı yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, aracınızın olup olmadığını nasıl ölçebileceğinizi kapsar. What AI benchmarks are not telling you This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measure whether y... Microsoft Dev Cloud",
+      "title_original": "What AI benchmarks are not telling you",
+      "summary_original": "This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measure whether y...",
+      "published_display": "2026-07-01",
+      "id": "81174cf7ce0d"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog .",
       "published_display": "2026-06-26",
       "id": "4bdcc167935f"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Temsilcinizin zaten bir planı var",
-      "summary": "Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar...",
-      "url": "https://devblogs.microsoft.com/blog/your-agent-already-has-a-plan",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-06-26T00:00:05Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Temsilcinizin zaten bir planı var Bir temsilci doğru şeyi yapmıyorsa, yapılacak en bariz hamle, dokümanları daha net hale getirmektir. Bir ipucu ekleyin, doğru komutu yazın, doğru yaklaşımı daha belirgin bir şekilde tanımlayın. Bunların hepsini yapıyorsunuz ama temsilci hâlâ görmezden geliyor. Ne yapar... Your agent already has a plan If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh... Microsoft Dev Cloud",
-      "title_original": "Your agent already has a plan",
-      "summary_original": "If an agent isn’t doing the right thing, the obvious move is to make the docs clearer. Add a tip, spell out the correct command, describe the right approach more prominently. You do all of that, and the agent still ignores it. It does wh...",
-      "published_display": "2026-06-26",
-      "id": "fdc4c5489924"
     },
     {
       "category": "ai",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor - PES Media",
+      "summary": "Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor PES Media",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVnBBOEFPNTA1Y0ZoOXRiQktJUDVMYVBEcjRRbEp3MS1QR1FWV0NQd2FmaU51d3J5VlFHZU5HREJFcEU3WWp5SDVMUEhmb0tfaUJtcDJwNDFaN29PR2tQbTlJLVktY2dTZjZOMmlLZlhhck1pbk16S250QlJXMEY5Y0t2SFdWRDVLYnU3d1dNQ0hMM0JwODZ3ZGJTNA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-07-01T15:16:27Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor - PES Media Yeni ortaklık, Birleşik Krallık endüstrisini robotik hücrelerle modernleştirmeyi amaçlıyor PES Media New partnership aims to modernise UK industry with robotic cells - PES Media New partnership aims to modernise UK industry with robotic cells PES Media Robotics Automation Industry",
+      "title_original": "New partnership aims to modernise UK industry with robotic cells - PES Media",
+      "summary_original": "New partnership aims to modernise UK industry with robotic cells PES Media",
+      "published_display": "2026-07-01",
+      "id": "c3a38ee230c7"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı - Robotik ve Otomasyon Haberleri",
       "summary": "Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm9vVlNfQk5UampPSjZCeEwxQ3N0QVIzY280N21qVDdJVjZsUUlnVjF1dElzNW42eDVFY1RvLU1PTGZZZEZ6aVJyRlNrTC1RZ3NlcDBuZXV4NjlxOUVFRkJKcHM2dVRkNENCT2VmTkdRal9hNlpBdW9ab01JOUFBbFZLeGNoaERUUW5nOEJOa2FMcFIzS3FaOVZMZkZ4QWM0ZzFJVHlTQ2FDNlpPQnVwTDJuRDRmaWZ3dmdrMFhpcHNPNklDSlJZUHdYbEFScHR5d1M2V0szUEU?oc=5",
@@ -350,26 +370,6 @@
       "summary_original": "Automation industry roundup: sensors, software, and AI drive June 2026 product wave MarketScale",
       "published_display": "2026-06-29",
       "id": "9c6d9cc4dc20"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine",
-      "summary": "Robotik Sektörünün “İspatlama” Zamanı Quality Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2xadXl4ZWh0VW1sMXFsb1ZoU0dBaVJyMTRIMVdPbGJxbkkzYWRONTNiNlNiRjFjdVJQeGw3SDloOUo1TU9DRDI1ek54RzlaczVsTnBYV3BEWWp4VDM0LXpQT0tLWDR6Z3ZmTzNvOVNOQmdWN0poQmJ4YTEteGJRcEZ5LVZPanNPY1VtOFFRSU1FQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-27T04:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Sektörünün “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
-      "title_original": "It’s Time for the Robotics Industry to “Prove it” - Quality Magazine",
-      "summary_original": "It’s Time for the Robotics Industry to “Prove it” Quality Magazine",
-      "published_display": "2026-06-27",
-      "id": "b5ad5c31d9e5"
     },
     {
       "category": "web",
