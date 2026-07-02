@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-02T15:34:18Z",
+  "updated_at": "2026-07-02T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub, sıfır gelen kutusuna ulaşmak için gizli taramayı nasıl kullandı?",
+      "summary": "GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı...",
+      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-02T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub, sıfır gelen kutusuna ulaşmak için gizli taramayı nasıl kullandı? GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı... How GitHub used secret scanning to reach inbox zero GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox... GitHub Dev Platform",
+      "title_original": "How GitHub used secret scanning to reach inbox zero",
+      "summary_original": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox...",
+      "published_display": "2026-07-02",
+      "id": "3074e751f59c"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "7c1a206cf79d"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub ve UNDP, Gana'daki kalkınma önceliklerini açık kaynakla ilerletmek için iş birliği yapıyor",
-      "summary": "GitHub, açık kaynak yönetiminin Batı Afrika'nın en iddialı dijital reform çabalarından birini nasıl destekleyebileceğini keşfetmek için Gana'daki Birleşmiş Milletler Kalkınma Programına katıldı. Post GitHub ve UNDP, geliştirme önceliğini ilerletmek için iş birliği yapıyor...",
-      "url": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-26T16:53:57Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub ve UNDP, Gana'daki kalkınma önceliklerini açık kaynakla ilerletmek için iş birliği yapıyor GitHub, açık kaynak yönetiminin Batı Afrika'nın en iddialı dijital reform çabalarından birini nasıl destekleyebileceğini keşfetmek için Gana'daki Birleşmiş Milletler Kalkınma Programına katıldı. Post GitHub ve UNDP, geliştirme önceliğini ilerletmek için iş birliği yapıyor... GitHub and UNDP team up to advance development priorities in Ghana with open source GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. The post GitHub and UNDP team up to advance development priorit... GitHub Dev Platform",
-      "title_original": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
-      "summary_original": "GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. The post GitHub and UNDP team up to advance development priorit...",
-      "published_display": "2026-06-26",
-      "id": "5e12ce804ec5"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Haziran 2026'da duyurduğumuz en son yapay zeka haberleri",
@@ -215,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT'nin benimsenmesi nasıl genişledi?",
-      "summary": "Yeni OpenAI Sinyalleri verileri, ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü, kullanıcıların kullanımı artırmasıyla, daha fazla özellik keşfetmesiyle ve bölgeler ve diller arasında büyümeyi artırmasıyla gösteriyor.",
+      "summary": "Yeni OpenAI Sinyalleri verileri, kullanıcıların kullanımı artırması, daha fazla özellik keşfetmesi ve bölgeler ve diller arasında büyümeyi artırmasıyla ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü gösteriyor.",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT'nin benimsenmesi nasıl genişledi? Yeni OpenAI Sinyalleri verileri, ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü, kullanıcıların kullanımı artırmasıyla, daha fazla özellik keşfetmesiyle ve bölgeler ve diller arasında büyümeyi artırmasıyla gösteriyor. How ChatGPT adoption has expanded New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. AI OpenAI Model",
+      "keywords": "ChatGPT'nin benimsenmesi nasıl genişledi? Yeni OpenAI Sinyalleri verileri, kullanıcıların kullanımı artırması, daha fazla özellik keşfetmesi ve bölgeler ve diller arasında büyümeyi artırmasıyla ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü gösteriyor. How ChatGPT adoption has expanded New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. AI OpenAI Model",
       "title_original": "How ChatGPT adoption has expanded",
       "summary_original": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "published_display": "2026-06-30",
@@ -334,6 +334,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Sonraki Normal – Robotiğin geleceği: Akıllı, uyarlanabilir ve ekibinizde - McKinsey & Company",
+      "summary": "Sonraki Normal – Robotiğin geleceği: Akıllı, uyarlanabilir ve ekibinizde McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vY1NaTFlMak1wYkNodXlMWDNFUkliZjZKVU5WTjFBNDN4X3YtSmUybkFMOVpsUTlYeFE5b3laTkZ0WUJ2UE9RLUdyOS1NcFB1OFpMMjE4RXVPcld5WjFDRm91akRKTXJxZ0RUaENjallIN1FFMkE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-06-30T04:28:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Sonraki Normal – Robotiğin geleceği: Akıllı, uyarlanabilir ve ekibinizde - McKinsey & Company Sonraki Normal – Robotiğin geleceği: Akıllı, uyarlanabilir ve ekibinizde McKinsey & Company The Next Normal – The future of robotics: Intelligent, adaptable, and on your team - McKinsey & Company The Next Normal – The future of robotics: Intelligent, adaptable, and on your team McKinsey & Company Robotics Automation Industry",
+      "title_original": "The Next Normal – The future of robotics: Intelligent, adaptable, and on your team - McKinsey & Company",
+      "summary_original": "The Next Normal – The future of robotics: Intelligent, adaptable, and on your team McKinsey & Company",
+      "published_display": "2026-06-30",
+      "id": "65e260e18f14"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Yapay zeka, insansılar ve tesis yatırımları birbirine yaklaştıkça endüstriyel otomasyon 2026'da hızlanacak - MarketScale",
       "summary": "Yapay zeka, insansılar ve tesis yatırımları birbirine yaklaştıkça endüstriyel otomasyon 2026'da hızlanacak MarketScale",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMjNvOG9WbXp0dlF1ZjFKRnUxTjVXcGJ5aUMtdUQ5NV82eF9UdTJNaGdjR05VclpKN3l2R2RQUzZ1M2NfNVR1T0U1ZTdydEhEMWRUdFRtZmRUMlkwbEVMRzdYdnZVYWRqMEpOTVdyNkxCVTk2ZEViaWYyaVEydTVnMWZCRDkybE5CNkNQak9ELTczUkxXWG5XUHVIdnpJOWFWMHQ5Zkc2STZ4T2hqR1dZTzBRa01Jd3JHV3U2dEhrV1ZranUxSUpidElrUl9UNGNueHdDbjVNdVhUVDRvYjZxV2tENVUzeUU?oc=5",
@@ -350,26 +370,6 @@
       "summary_original": "Industrial automation accelerates in 2026 as AI, humanoids, and facility investments converge MarketScale",
       "published_display": "2026-06-29",
       "id": "256cd3abd35e"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Standart Robotlar: Yapay Zeka Yerli Robotik, Endüstriyel Otomasyonu Nasıl Yeniden Tanımlıyor - ARC Danışma Grubu",
-      "summary": "Standart Robotlar: Yapay Zeka Yerli Robotik, Endüstriyel Otomasyonu Nasıl Yeniden Tanımlıyor ARC Danışma Grubu",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDdEX1lGMnY4Q1o4anN4dlB4bGFjY1NCSm5HMWlxLTdQUXAzTEN5WXNvZmdGbVB1aWpsRmVsM25vM3RnZ1JuQ21aVnYzdHBTUFVEb09nNHZ4U2RTQy1ndWZqY080bExnazZ5UzJWWlhZTG9laGdjeUI3QjByUUZOem5kTUFUVGpWTmNuR0xhRkp0LWFrRWtuWndzbDFlUQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-29T12:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Standart Robotlar: Yapay Zeka Yerli Robotik, Endüstriyel Otomasyonu Nasıl Yeniden Tanımlıyor - ARC Danışma Grubu Standart Robotlar: Yapay Zeka Yerli Robotik, Endüstriyel Otomasyonu Nasıl Yeniden Tanımlıyor ARC Danışma Grubu Standard Bots: How AI-Native Robotics is Redefining Industrial Automation - ARC Advisory Group Standard Bots: How AI-Native Robotics is Redefining Industrial Automation ARC Advisory Group Robotics Automation Industry",
-      "title_original": "Standard Bots: How AI-Native Robotics is Redefining Industrial Automation - ARC Advisory Group",
-      "summary_original": "Standard Bots: How AI-Native Robotics is Redefining Industrial Automation ARC Advisory Group",
-      "published_display": "2026-06-29",
-      "id": "966a166ae97c"
     },
     {
       "category": "web",
@@ -594,7 +594,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International",
       "summary": "ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -605,16 +605,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International",
       "published_display": "2026-03-11",
-      "id": "d9558ccc7fa2"
+      "id": "0621fc7000c8"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -625,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     },
     {
       "category": "kamera",
