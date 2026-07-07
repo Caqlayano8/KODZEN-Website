@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-06T07:49:44Z",
+  "updated_at": "2026-07-07T13:52:06Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilciler için CLI'nizi yeniden yazmayın",
+      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi....",
+      "url": "https://devblogs.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-07-07T13:52:06Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi.... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
+      "title_original": "Don’t rewrite your CLI for agents",
+      "summary_original": "There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON....",
+      "published_display": "2026-07-07",
+      "id": "c4a408d30ddd"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
       "published_display": "2026-06-30",
       "id": "157114fdc4ff"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Git 2.55'ten öne çıkanlar",
-      "summary": "Açık kaynak Git projesi Git 2.55'i yayınladı. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.55'ten Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/open-source/git/highlights-from-git-2-55/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-29T17:25:25Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Git 2.55'ten öne çıkanlar Açık kaynak Git projesi Git 2.55'i yayınladı. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.55'ten Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.55 The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Highlights from Git 2.55",
-      "summary_original": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog .",
-      "published_display": "2026-06-29",
-      "id": "d674003974fa"
     },
     {
       "category": "ai",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak",
-      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
+      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporunu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -245,7 +245,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
+      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporunu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
       "title_original": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "summary_original": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
       "published_display": "2026-06-30",
@@ -355,7 +355,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine",
-      "summary": "Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine",
+      "summary": "Robotik Sektörünün “İspatlama” Zamanı Quality Magazine",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2xadXl4ZWh0VW1sMXFsb1ZoU0dBaVJyMTRIMVdPbGJxbkkzYWRONTNiNlNiRjFjdVJQeGw3SDloOUo1TU9DRDI1ek54RzlaczVsTnBYV3BEWWp4VDM0LXpQT0tLWDR6Z3ZmTzNvOVNOQmdWN0poQmJ4YTEteGJRcEZ5LVZPanNPY1VtOFFRSU1FQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,7 +365,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
+      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Sektörünün “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
       "title_original": "It’s Time for the Robotics Industry to “Prove it” - Quality Magazine",
       "summary_original": "It’s Time for the Robotics Industry to “Prove it” Quality Magazine",
       "published_display": "2026-06-27",
@@ -514,7 +514,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -525,11 +525,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "ee48359b34f2"
+      "id": "55bfd5ae49b2"
     },
     {
       "category": "siber",
@@ -550,26 +550,6 @@
       "summary_original": "Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted indu...",
       "published_display": "2026-06-08",
       "id": "c350c7aade00"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider",
-      "summary": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSnRaVmxYZXEyNWhEYjRZS01ERl9qTFJDOXRaYlNsMUtVWUYxVG9nLTZXVzg5M05zVXNUdmJMazdlUWp0VG5kbmozcjE5ZHFhb20ySVRVN1hTWV9sMENFU0xLOVg5b3JWeGc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-06-30T10:26:08Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider Top Security Camera Companies Transforming Threat Detection - SNS Insider Top Security Camera Companies Transforming Threat Detection SNS Insider IP Camera Video Surveillance",
-      "title_original": "Top Security Camera Companies Transforming Threat Detection - SNS Insider",
-      "summary_original": "Top Security Camera Companies Transforming Threat Detection SNS Insider",
-      "published_display": "2026-06-30",
-      "id": "6457418f53ed"
     },
     {
       "category": "kamera",
@@ -670,6 +650,26 @@
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
       "id": "3d63787c804b"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com",
+      "summary": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-22T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "published_display": "2026-01-22",
+      "id": "50e5e9d0bb44"
     }
   ]
 }
