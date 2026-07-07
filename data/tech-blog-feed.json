@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-07T16:00:00Z",
+  "updated_at": "2026-07-07T16:42:08Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Tüm model yükseltmeleri yükseltme değildir",
-      "summary": "Token başına daha düşük fiyatlandırma ve daha iyi kıyaslamalarla yeni bir model çıkıyor. Sen değiştir. Bir hafta sonra birisi, aracının neden aynı görevde daha kötü çıktı üretirken 12 kat daha fazla token yaktığını sordu. 15 senaryoda 150 temsilci görevi yürüttük...",
+      "summary": "Token başına daha düşük fiyatlandırma ve daha iyi kıyaslamalarla yeni bir model çıkıyor. Sen değiştir. Bir hafta sonra birisi, aracının neden aynı görevde 12 kat daha fazla token yakıp daha kötü çıktı ürettiğini soruyor. 15 senaryoda 150 temsilci görevi yürüttük...",
       "url": "https://devblogs.microsoft.com/blog/not-all-model-upgrades-are-upgrades",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Tüm model yükseltmeleri yükseltme değildir Token başına daha düşük fiyatlandırma ve daha iyi kıyaslamalarla yeni bir model çıkıyor. Sen değiştir. Bir hafta sonra birisi, aracının neden aynı görevde daha kötü çıktı üretirken 12 kat daha fazla token yaktığını sordu. 15 senaryoda 150 temsilci görevi yürüttük... Not all model upgrades are upgrades A new model drops with lower per-token pricing and better benchmarks. You switch. A week later someone asks why the agent is burning 12x more tokens on the same task while producing worse output. We ran 150 agent tasks across 15 scenario... Microsoft Dev Cloud",
+      "keywords": "Tüm model yükseltmeleri yükseltme değildir Token başına daha düşük fiyatlandırma ve daha iyi kıyaslamalarla yeni bir model çıkıyor. Sen değiştir. Bir hafta sonra birisi, aracının neden aynı görevde 12 kat daha fazla token yakıp daha kötü çıktı ürettiğini soruyor. 15 senaryoda 150 temsilci görevi yürüttük... Not all model upgrades are upgrades A new model drops with lower per-token pricing and better benchmarks. You switch. A week later someone asks why the agent is burning 12x more tokens on the same task while producing worse output. We ran 150 agent tasks across 15 scenario... Microsoft Dev Cloud",
       "title_original": "Not all model upgrades are upgrades",
       "summary_original": "A new model drops with lower per-token pricing and better benchmarks. You switch. A week later someone asks why the agent is burning 12x more tokens on the same task while producing worse output. We ran 150 agent tasks across 15 scenario...",
       "published_display": "2026-07-06",
@@ -130,6 +130,46 @@
       "summary_original": "This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measure whether y...",
       "published_display": "2026-07-01",
       "id": "81174cf7ce0d"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "İşbirliğinin gücü: Trafik sıkışıklığını nasıl azaltabiliriz",
+      "summary": "Algoritmalar ve Teori",
+      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/NetworkAwareRouting_HeroStill.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-07-07T16:42:08Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "İşbirliğinin gücü: Trafik sıkışıklığını nasıl azaltabiliriz Algoritmalar ve Teori The power of collaboration: How we can reduce traffic congestion Algorithms & Theory AI Research Google",
+      "title_original": "The power of collaboration: How we can reduce traffic congestion",
+      "summary_original": "Algorithms & Theory",
+      "published_display": "2026-07-07",
+      "id": "cd21e612fd9e"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Gemini API'sinde Yönetilen Aracıların Genişletilmesi: arka plan görevleri, uzak MCP ve daha fazlası",
+      "summary": "Geliştiricilerin güvenilir, üretime hazır aracılar oluşturabilmesi için Gemini API'deki Yönetilen Aracılar'daki yeni özellikleri duyuruyoruz.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-07T08:54:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Gemini API'sinde Yönetilen Aracıların Genişletilmesi: arka plan görevleri, uzak MCP ve daha fazlası Geliştiricilerin güvenilir, üretime hazır aracılar oluşturabilmesi için Gemini API'deki Yönetilen Aracılar'daki yeni özellikleri duyuruyoruz. Expanding Managed Agents in Gemini API: background tasks, remote MCP and more We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents. AI Product Google",
+      "title_original": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "summary_original": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "published_display": "2026-07-07",
+      "id": "b0419708b31f"
     },
     {
       "category": "ai",
@@ -210,46 +250,6 @@
       "summary_original": "Data Management",
       "published_display": "2026-06-30",
       "id": "781f5937305d"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "ChatGPT'nin benimsenmesi nasıl genişledi?",
-      "summary": "Yeni OpenAI Sinyalleri verileri, kullanıcıların kullanımı artırması, daha fazla özellik keşfetmesi ve bölgeler ve diller arasında büyümeyi artırmasıyla ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü gösteriyor.",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-06-30T09:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "ChatGPT'nin benimsenmesi nasıl genişledi? Yeni OpenAI Sinyalleri verileri, kullanıcıların kullanımı artırması, daha fazla özellik keşfetmesi ve bölgeler ve diller arasında büyümeyi artırmasıyla ChatGPT'nin benimsenmesinin dünya çapında nasıl büyüdüğünü gösteriyor. How ChatGPT adoption has expanded New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages. AI OpenAI Model",
-      "title_original": "How ChatGPT adoption has expanded",
-      "summary_original": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "published_display": "2026-06-30",
-      "id": "5862c912ddf8"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak",
-      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-30T06:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
-      "title_original": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "summary_original": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
-      "published_display": "2026-06-30",
-      "id": "b02566f535df"
     },
     {
       "category": "robotik",
@@ -434,6 +434,26 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Cloudflare, Birleşik Krallık hükümetinin Siber Dayanıklılık Taahhüdüne gururla katılıyor",
+      "summary": "Taahhüt, kuruluşları temel siber güvenlik yönetişimi, yönetim kurulu düzeyinde hesap verebilirlik ve tedarik zinciri titizliği taahhüt etmeye davet eden gönüllü bir çerçevedir. On yılı aşkın süredir Cloudflare bu çerçevenin temel direklerine öncülük ediyor...",
+      "url": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-07-07T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Cloudflare, Birleşik Krallık hükümetinin Siber Dayanıklılık Taahhüdüne gururla katılıyor Taahhüt, kuruluşları temel siber güvenlik yönetişimi, yönetim kurulu düzeyinde hesap verebilirlik ve tedarik zinciri titizliği taahhüt etmeye davet eden gönüllü bir çerçevedir. On yılı aşkın süredir Cloudflare bu çerçevenin temel direklerine öncülük ediyor... Cloudflare proudly joins the UK government's Cyber Resilience Pledge The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this fram... Cloudflare Security Web",
+      "title_original": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
+      "summary_original": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this fram...",
+      "published_display": "2026-07-07",
+      "id": "0bcb1545ac93"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "Attribution Business Insights ile taramaların maskesini kaldırma",
       "summary": "Cloudflare'in yeni Attribution Business Insights kontrol paneli, web sitesi sahiplerinin tarayıcı davranışını, iştahını ve potansiyel değerini anlamalarına yardımcı olarak tarama ücretiyle ilgili iş düzeyindeki görüşmeleri teşvik eder.",
       "url": "https://blog.cloudflare.com/attribution-business-insights/",
@@ -530,26 +550,6 @@
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
       "id": "ee48359b34f2"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Cloudflare'in tehdit göstergelerini gerçek zamanlı WAF kurallarına dönüştürme",
-      "summary": "Cloudflare müşterileri artık yüksek riskli trafiği engellemek için Cloudforce One tehdit istihbaratını doğrudan WAF içerisinde kullanabilir. Güvenlik ekipleri, yeni cf.intel alanlarını kullanarak belirli tehdit aktörlerine ve hedeflenen sektörlere karşı korumayı otomatikleştirebiliyor.",
-      "url": "https://blog.cloudflare.com/realtime-threat-intel-waf-rules/",
-      "image_url": null,
-      "source": "Cloudflare Security",
-      "published_at": "2026-06-08T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Cloudflare'in tehdit göstergelerini gerçek zamanlı WAF kurallarına dönüştürme Cloudflare müşterileri artık yüksek riskli trafiği engellemek için Cloudforce One tehdit istihbaratını doğrudan WAF içerisinde kullanabilir. Güvenlik ekipleri, yeni cf.intel alanlarını kullanarak belirli tehdit aktörlerine ve hedeflenen sektörlere karşı korumayı otomatikleştirebiliyor. Turning Cloudflare’s threat indicators into real-time WAF rules Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted indu... Cloudflare Security Web",
-      "title_original": "Turning Cloudflare’s threat indicators into real-time WAF rules",
-      "summary_original": "Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted indu...",
-      "published_display": "2026-06-08",
-      "id": "c350c7aade00"
     },
     {
       "category": "kamera",
