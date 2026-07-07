@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-07T13:52:06Z",
+  "updated_at": "2026-07-07T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "2026 1. Çeyrek İnovasyon Grafiği güncellemesi: Açık kaynak işbirliği dünya çapında hızlanıyor",
+      "summary": "Yeni İnovasyon Grafiği verileri, küresel geliştirici topluluklarının her zamankinden daha hızlı büyüdüğünü ve birçok ekonomide işbirliğinin yeni zirvelere ulaştığını gösteriyor. 2026 1. Çeyrek İnovasyon Grafiği güncellemesi sonrası: Açık kaynak işbirliği, dünyayı hızlandırıyor...",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-07T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "2026 1. Çeyrek İnovasyon Grafiği güncellemesi: Açık kaynak işbirliği dünya çapında hızlanıyor Yeni İnovasyon Grafiği verileri, küresel geliştirici topluluklarının her zamankinden daha hızlı büyüdüğünü ve birçok ekonomide işbirliğinin yeni zirvelere ulaştığını gösteriyor. 2026 1. Çeyrek İnovasyon Grafiği güncellemesi sonrası: Açık kaynak işbirliği, dünyayı hızlandırıyor... Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating world... GitHub Dev Platform",
+      "title_original": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+      "summary_original": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating world...",
+      "published_display": "2026-07-07",
+      "id": "53382130dc38"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measure whether y...",
       "published_display": "2026-07-01",
       "id": "81174cf7ce0d"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub açık kaynak bağımlılıkları için uyumluluğu nasıl sürdürüyor?",
-      "summary": "Açık Kaynak Program Ofisi'nin açık kaynak bağımlılıklarını geniş ölçekte yönetmek için GitHub'un yeni lisans uyumluluğu ürününü nasıl kullandığını keşfedin. GitHub açık kaynak bağımlılıkları için uyumluluğu nasıl korur yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-06-30T17:28:16Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub açık kaynak bağımlılıkları için uyumluluğu nasıl sürdürüyor? Açık Kaynak Program Ofisi'nin açık kaynak bağımlılıklarını geniş ölçekte yönetmek için GitHub'un yeni lisans uyumluluğu ürününü nasıl kullandığını keşfedin. GitHub açık kaynak bağımlılıkları için uyumluluğu nasıl korur yazısı ilk olarak GitHub Blogunda yayınlandı. How GitHub maintains compliance for open source dependencies Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "How GitHub maintains compliance for open source dependencies",
-      "summary_original": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog .",
-      "published_display": "2026-06-30",
-      "id": "157114fdc4ff"
     },
     {
       "category": "ai",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak",
-      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporunu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
+      "summary": "Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor.",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -245,7 +245,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporunu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
+      "keywords": "Britanya'nın bir sonraki üretkenlik çağının kilidini açmak: Yapay zeka öncülerinden oluşan bir ulus oluşturmak Google Birleşik Krallık, en son Ekonomik Etki Raporu'nu ve daha fazla kişinin yapay zeka destekli teknolojilerin avantajlarından yararlanmasını nasıl sağlayacağını paylaşıyor. Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies. AI Product Google",
       "title_original": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "summary_original": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
       "published_display": "2026-06-30",
@@ -355,7 +355,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine",
-      "summary": "Robotik Sektörünün “İspatlama” Zamanı Quality Magazine",
+      "summary": "Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2xadXl4ZWh0VW1sMXFsb1ZoU0dBaVJyMTRIMVdPbGJxbkkzYWRONTNiNlNiRjFjdVJQeGw3SDloOUo1TU9DRDI1ek54RzlaczVsTnBYV3BEWWp4VDM0LXpQT0tLWDR6Z3ZmTzNvOVNOQmdWN0poQmJ4YTEteGJRcEZ5LVZPanNPY1VtOFFRSU1FQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,7 +365,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Sektörünün “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
+      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
       "title_original": "It’s Time for the Robotics Industry to “Prove it” - Quality Magazine",
       "summary_original": "It’s Time for the Robotics Industry to “Prove it” Quality Magazine",
       "published_display": "2026-06-27",
@@ -514,7 +514,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -525,11 +525,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
+      "id": "ee48359b34f2"
     },
     {
       "category": "siber",
