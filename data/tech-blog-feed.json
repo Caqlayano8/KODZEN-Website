@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-08T12:11:17Z",
+  "updated_at": "2026-07-08T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot, GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirir?",
+      "summary": "Tek bir DNS kaydını manuel olarak düzenlemeye gerek kalmadan, yaklaşık 14 dakika içinde boş bir depodan HTTPS ile canlı bir özel etki alanına geçin. GitHub Copilot'un GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirdiği yazısı ilk olarak GitHub Bl...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-08T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Copilot, GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirir? Tek bir DNS kaydını manuel olarak düzenlemeye gerek kalmadan, yaklaşık 14 dakika içinde boş bir depodan HTTPS ile canlı bir özel etki alanına geçin. GitHub Copilot'un GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirdiği yazısı ilk olarak GitHub Bl... How GitHub Copilot enables zero DNS configuration for GitHub Pages Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Bl... GitHub Dev Platform",
+      "title_original": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "summary_original": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Bl...",
+      "published_display": "2026-07-08",
+      "id": "af6f2263306b"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox...",
       "published_display": "2026-07-02",
       "id": "8c37af09e5f3"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Her GitHub bakımcısının bu hafta etkinleştirmesi gereken 6 güvenlik ayarı",
-      "summary": "Bu altı ücretsiz ayar, projenizi hacklenemez hale getirmeyecek. Hiçbir şey olmayacak. Yapacakları şey kolay kapıları kapatmak olacaktır. Bunları etkinleştirdiğinizde projenize saldırmak eskisinden anlamlı ölçüde daha zor olacaktır. Post 6 güvenlik ayarı...",
-      "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-01T15:59:29Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Her GitHub bakımcısının bu hafta etkinleştirmesi gereken 6 güvenlik ayarı Bu altı ücretsiz ayar, projenizi hacklenemez hale getirmeyecek. Hiçbir şey olmayacak. Yapacakları şey kolay kapıları kapatmak olacaktır. Bunları etkinleştirdiğinizde projenize saldırmak eskisinden anlamlı ölçüde daha zor olacaktır. Post 6 güvenlik ayarı... 6 security settings every GitHub maintainer should enable this week These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security setting... GitHub Dev Platform",
-      "title_original": "6 security settings every GitHub maintainer should enable this week",
-      "summary_original": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security setting...",
-      "published_display": "2026-07-01",
-      "id": "6a53cc2481d1"
     },
     {
       "category": "ai",
