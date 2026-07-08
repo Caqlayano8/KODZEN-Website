@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-08T19:35:51Z",
+  "updated_at": "2026-07-08T20:11:26Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilciler için CLI'nizi yeniden yazmayın",
-      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi...",
+      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi....",
       "url": "https://devblogs.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -125,11 +125,31 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
+      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi.... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
       "title_original": "Don’t rewrite your CLI for agents",
       "summary_original": "There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON....",
       "published_display": "2026-07-07",
       "id": "c4a408d30ddd"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Hükümet ve ulusal güvenlik ortaklıklarına yaklaşımımız",
+      "summary": "OpenAI'nin sorumlu yapay zeka kullanımı, demokratik hesap verebilirlik ve kamu güvenliği ilkeleriyle hükümet ve ulusal güvenlik ortaklıklarına nasıl yaklaştığını öğrenin.",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-08T13:30:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Hükümet ve ulusal güvenlik ortaklıklarına yaklaşımımız OpenAI'nin sorumlu yapay zeka kullanımı, demokratik hesap verebilirlik ve kamu güvenliği ilkeleriyle hükümet ve ulusal güvenlik ortaklıklarına nasıl yaklaştığını öğrenin. Our approach to government and national security partnerships Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety. AI OpenAI Model",
+      "title_original": "Our approach to government and national security partnerships",
+      "summary_original": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "published_display": "2026-07-08",
+      "id": "994b20d641c6"
     },
     {
       "category": "ai",
@@ -232,24 +252,24 @@
       "id": "b0419708b31f"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor",
-      "summary": "MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
-      "url": "https://openai.com/index/mufg",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "JLCMC, Modern Fabrikalar için Endüstriyel Otomasyon Çözümlerini Nasıl Yeniden Tanımlıyor - Robotik ve Otomasyon Haberleri",
+      "summary": "JLCMC, Modern Fabrikalar için Endüstriyel Otomasyon Çözümlerini Nasıl Yeniden Tanımlıyor? Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdDV2NFlhT1RwejA5Q2daWENaRWx1UVpTZ1BnX1pOTktEZ2V3b2U3QTQ5OWJIdldFZWIySFIySXBqUmRfRElxYlVZTDZiRlVKOS1XaXh3X3c2YnVfTHB6WEp0TDdYQ2RVTFV2eFpIN2VSRGxELUh0MTlkVE8zZ1dWeUptYXktYVRiRi1GTGxkSmdqSTJOOHB1Z0dwR1lseVBDUGY4djZiTnhROFJ4T3NqenRaV25zZEVWY1JPMjkyeGluRWp5VDBOU3d6TEo5Zw?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-07T00:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-07-08T20:11:26Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
-      "title_original": "MUFG aims to become AI-native with OpenAI",
-      "summary_original": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "published_display": "2026-07-07",
-      "id": "8ff48dff56ce"
+      "keywords": "JLCMC, Modern Fabrikalar için Endüstriyel Otomasyon Çözümlerini Nasıl Yeniden Tanımlıyor - Robotik ve Otomasyon Haberleri JLCMC, Modern Fabrikalar için Endüstriyel Otomasyon Çözümlerini Nasıl Yeniden Tanımlıyor? Robotik ve Otomasyon Haberleri How JLCMC is Redefining Industrial Automation Solutions for Modern Factories - Robotics & Automation News How JLCMC is Redefining Industrial Automation Solutions for Modern Factories Robotics & Automation News Robotics Automation Industry",
+      "title_original": "How JLCMC is Redefining Industrial Automation Solutions for Modern Factories - Robotics & Automation News",
+      "summary_original": "How JLCMC is Redefining Industrial Automation Solutions for Modern Factories Robotics & Automation News",
+      "published_display": "2026-07-08",
+      "id": "ea906d453abe"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Industrial automation's big week: fenceless robots, humanoid IPOs, and a $100M expansion MarketScale",
       "published_display": "2026-07-02",
       "id": "d555b07f89a7"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı - Robotik ve Otomasyon Haberleri",
-      "summary": "Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm9vVlNfQk5UampPSjZCeEwxQ3N0QVIzY280N21qVDdJVjZsUUlnVjF1dElzNW42eDVFY1RvLU1PTGZZZEZ6aVJyRlNrTC1RZ3NlcDBuZXV4NjlxOUVFRkJKcHM2dVRkNENCT2VmTkdRal9hNlpBdW9ab01JOUFBbFZLeGNoaERUUW5nOEJOa2FMcFIzS3FaOVZMZkZ4QWM0ZzFJVHlTQ2FDNlpPQnVwTDJuRDRmaWZ3dmdrMFhpcHNPNklDSlJZUHdYbEFScHR5d1M2V0szUEU?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-30T07:19:09Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı - Robotik ve Otomasyon Haberleri Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı Robotik ve Otomasyon Haberleri Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line - Robotics & Automation News Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line - Robotics & Automation News",
-      "summary_original": "Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line Robotics & Automation News",
-      "published_display": "2026-06-30",
-      "id": "65d259c49411"
     },
     {
       "category": "web",
@@ -534,7 +534,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -545,11 +545,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
+      "id": "ee48359b34f2"
     },
     {
       "category": "kamera",
@@ -654,7 +654,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -665,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "fcce6214680e"
+      "id": "3d63787c804b"
     }
   ]
 }
