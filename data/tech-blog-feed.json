@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-08T16:00:00Z",
+  "updated_at": "2026-07-08T17:30:28Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği",
+      "summary": "GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı.",
+      "url": "https://devblogs.microsoft.com/blog/lets-learn-github-copilot-app-free-virtual-training-event",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-07-08T17:30:28Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı. Let’s Learn GitHub Copilot App – Free Virtual Training Event Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers . Microsoft Dev Cloud",
+      "title_original": "Let’s Learn GitHub Copilot App – Free Virtual Training Event",
+      "summary_original": "Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers .",
+      "published_display": "2026-07-08",
+      "id": "20549b3f438a"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilciler için CLI'nizi yeniden yazmayın",
-      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi...",
+      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi....",
       "url": "https://devblogs.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
+      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi.... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
       "title_original": "Don’t rewrite your CLI for agents",
       "summary_original": "There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON....",
       "published_display": "2026-07-07",
@@ -112,24 +132,44 @@
       "id": "029f06ca67e3"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub, gelen kutusunun sıfır noktasına ulaşmak için gizli taramayı nasıl kullandı?",
-      "summary": "GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı...",
-      "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "K-12 eğitimcilerinin pratik yapay zeka becerileri geliştirmelerine yardımcı oluyoruz",
+      "summary": "OpenAI Akademisi ve Walton Family Foundation, K-12 eğitimcilerinin sınıf için pratik AI becerileri geliştirmelerine yardımcı olmak amacıyla uygulamalı AI Beceri Jam'leri getiriyor.",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-02T16:00:00Z",
+      "source": "OpenAI News",
+      "published_at": "2026-07-08T10:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "GitHub, gelen kutusunun sıfır noktasına ulaşmak için gizli taramayı nasıl kullandı? GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı... How GitHub used secret scanning to reach inbox zero GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox... GitHub Dev Platform",
-      "title_original": "How GitHub used secret scanning to reach inbox zero",
-      "summary_original": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox...",
-      "published_display": "2026-07-02",
-      "id": "8c37af09e5f3"
+      "keywords": "K-12 eğitimcilerinin pratik yapay zeka becerileri geliştirmelerine yardımcı oluyoruz OpenAI Akademisi ve Walton Family Foundation, K-12 eğitimcilerinin sınıf için pratik AI becerileri geliştirmelerine yardımcı olmak amacıyla uygulamalı AI Beceri Jam'leri getiriyor. Helping K–12 educators build practical AI skills OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom. AI OpenAI Model",
+      "title_original": "Helping K–12 educators build practical AI skills",
+      "summary_original": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "published_display": "2026-07-08",
+      "id": "d466de84f1f5"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT-Live ile tanışın",
+      "summary": "Doğal insan-yapay zeka etkileşimi için yeni nesil ses modelleri artık ChatGPT Voice'u destekliyor.",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-08T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GPT-Live ile tanışın Doğal insan-yapay zeka etkileşimi için yeni nesil ses modelleri artık ChatGPT Voice'u destekliyor. Introducing GPT-Live A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice. AI OpenAI Model",
+      "title_original": "Introducing GPT-Live",
+      "summary_original": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "published_display": "2026-07-08",
+      "id": "7483095e95c0"
     },
     {
       "category": "ai",
@@ -175,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor",
-      "summary": "MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
+      "summary": "MUFG, yapay zekaya dayalı bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
       "url": "https://openai.com/index/mufg",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
+      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya dayalı bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
       "title_original": "MUFG aims to become AI-native with OpenAI",
       "summary_original": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "published_display": "2026-07-07",
@@ -210,46 +250,6 @@
       "summary_original": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "published_display": "2026-07-07",
       "id": "0383bfe8163c"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Haziran 2026'da duyurduğumuz en son yapay zeka haberleri",
-      "summary": "İşte Google'ın Haziran 2026'daki en son yapay zeka güncellemeleri.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T18:15:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Haziran 2026'da duyurduğumuz en son yapay zeka haberleri İşte Google'ın Haziran 2026'daki en son yapay zeka güncellemeleri. The latest AI news we announced in June 2026 Here are Google’s latest AI updates from June 2026. AI Product Google",
-      "title_original": "The latest AI news we announced in June 2026",
-      "summary_original": "Here are Google’s latest AI updates from June 2026.",
-      "published_display": "2026-07-01",
-      "id": "6a05494c6ace"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "New York City'deki eğitimciler ve sektör liderleri, sınıflarda yapay zekanın geleceğini şekillendirmek için Google'ın ofislerinde bir araya geldi.",
-      "summary": "Google, New York Jobs CEO Konseyi ve Urban Assembly, 150 eğitim ve sektör liderinin katıldığı bir yapay zeka zirvesine ev sahipliği yaptı.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T16:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "New York City'deki eğitimciler ve sektör liderleri, sınıflarda yapay zekanın geleceğini şekillendirmek için Google'ın ofislerinde bir araya geldi. Google, New York Jobs CEO Konseyi ve Urban Assembly, 150 eğitim ve sektör liderinin katıldığı bir yapay zeka zirvesine ev sahipliği yaptı. New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms. Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders. AI Product Google",
-      "title_original": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "summary_original": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "published_display": "2026-07-01",
-      "id": "335bcbe54aa0"
     },
     {
       "category": "robotik",
@@ -534,7 +534,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -545,11 +545,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
+      "id": "ee48359b34f2"
     },
     {
       "category": "kamera",
@@ -654,22 +654,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Ukrayna'dan İran'a, Güvenlik Kameralarını Hacklemek Artık Savaşın 'Başucu Kitabının' Bir Parçası - WIRED",
-      "summary": "Ukrayna'dan İran'a, Güvenlik Kameralarını Hacklemek Artık Savaşın 'Başucu Kitabının' Bir Parçası WIRED",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmFtX2pYOHRDbDk1MjR3LUdiaUc2NHNkMWJoMm1yM0NiQjBXX1pySUZyOWZLeE8zM214clVfMFZQSDQtU2lraGp3STJZZzNhT0hYNGVmc2E0Yk1aYmRUNGNzVjJlTU5UOGFQVURYaFNPdGtiOE5kMktyV2VJRzdvN0xjZmFQQ1N6cVUzQ0xvTDlINWdJLUtsaURmZ2NXam92eFhEenZ3?oc=5",
+      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-03-06T08:00:00Z",
+      "published_at": "2026-01-29T08:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Ukrayna'dan İran'a, Güvenlik Kameralarını Hacklemek Artık Savaşın 'Başucu Kitabının' Bir Parçası - WIRED Ukrayna'dan İran'a, Güvenlik Kameralarını Hacklemek Artık Savaşın 'Başucu Kitabının' Bir Parçası WIRED From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’ - WIRED From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’ WIRED IP Camera Video Surveillance",
-      "title_original": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’ - WIRED",
-      "summary_original": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’ WIRED",
-      "published_display": "2026-03-06",
-      "id": "ae65b0861f63"
+      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
+      "published_display": "2026-01-29",
+      "id": "3d63787c804b"
     }
   ]
 }
