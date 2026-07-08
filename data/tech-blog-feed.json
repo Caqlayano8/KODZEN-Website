@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-07-07T16:42:08Z",
-  "total_posts": 33,
+  "total_posts": 21,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 6,
+    "robotik": 0,
     "web": 3,
     "siber": 6,
-    "kamera": 6
+    "kamera": 0
   },
   "posts": [
     {
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilciler için CLI'nizi yeniden yazmayın",
-      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi....",
+      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi...",
       "url": "https://devblogs.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi.... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
+      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
       "title_original": "Don’t rewrite your CLI for agents",
       "summary_original": "There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON....",
       "published_display": "2026-07-07",
@@ -74,7 +74,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub, sıfır gelen kutusuna ulaşmak için gizli taramayı nasıl kullandı?",
+      "title": "GitHub, gelen kutusunun sıfır noktasına ulaşmak için gizli taramayı nasıl kullandı?",
       "summary": "GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı...",
       "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
       "image_url": null,
@@ -85,11 +85,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub, sıfır gelen kutusuna ulaşmak için gizli taramayı nasıl kullandı? GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı... How GitHub used secret scanning to reach inbox zero GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox... GitHub Dev Platform",
+      "keywords": "GitHub, gelen kutusunun sıfır noktasına ulaşmak için gizli taramayı nasıl kullandı? GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı... How GitHub used secret scanning to reach inbox zero GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox... GitHub Dev Platform",
       "title_original": "How GitHub used secret scanning to reach inbox zero",
       "summary_original": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox...",
       "published_display": "2026-07-02",
-      "id": "3074e751f59c"
+      "id": "8c37af09e5f3"
     },
     {
       "category": "yazilim",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor",
-      "summary": "MUFG, yapay zekaya dayalı bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
+      "summary": "MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
       "url": "https://openai.com/index/mufg",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya dayalı bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
+      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
       "title_original": "MUFG aims to become AI-native with OpenAI",
       "summary_original": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "published_display": "2026-07-07",
@@ -250,126 +250,6 @@
       "summary_original": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
       "published_display": "2026-07-01",
       "id": "335bcbe54aa0"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Yapay Zeka, Otomasyon ve Endüstri 4.0 Tarafından Yönlendirilen Robotik Pazarı - SNS Insider",
-      "summary": "Yapay Zeka, Otomasyon ve Endüstri 4.0 Tarafından Yönlendirilen Robotik Pazarı SNS Insider",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56dXV0Q0dYS1VmR2VfRkNISndpVC01bDJZQnF5ME1wd1FYTzFRVnVIZE9kcHhZSWE0T2wwY29adkotWXJ4NVR1TURqM0l2VWtyYjNkSnZzREJ0bGcxTnZF?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-03T09:42:46Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Yapay Zeka, Otomasyon ve Endüstri 4.0 Tarafından Yönlendirilen Robotik Pazarı - SNS Insider Yapay Zeka, Otomasyon ve Endüstri 4.0 Tarafından Yönlendirilen Robotik Pazarı SNS Insider Robotics Market Driven by AI, Automation & Industry 4.0 - SNS Insider Robotics Market Driven by AI, Automation & Industry 4.0 SNS Insider Robotics Automation Industry",
-      "title_original": "Robotics Market Driven by AI, Automation & Industry 4.0 - SNS Insider",
-      "summary_original": "Robotics Market Driven by AI, Automation & Industry 4.0 SNS Insider",
-      "published_display": "2026-07-03",
-      "id": "9a090457a1a0"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Yapay zeka anlaşmaları ve somutlaştırılmış robot teknolojisi, fabrika otomasyonunu yeni bir çağa taşıyor - MarketScale",
-      "summary": "Yapay zeka anlaşmaları ve somutlaştırılmış robot teknolojisi, fabrika otomasyonunu yeni bir çağa taşıyor MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXp4QzBhdE5tdEVydFhpME5JckFLY050ZEJ3amZiX1lFUXNLT3V6T0pIa1hTYlVmSHRjd3NqV0JGc0lEOUNuN3hsUFNid3pIRXZPV0NhUGVuN0h4MFk5R2Ziczl0T2hnWFNTcWxaSTdyRXd4UVlsaWxqaGVOMnlQeG12M0ZQbkRzZEpqUmJUU1Z5ZDhxb1U5QUlBQW1JbkFYUHVtNVJQWkxwR29zTWxtSWJvY1JlTDRpLU16Tm0tdC0?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-02T15:34:18Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Yapay zeka anlaşmaları ve somutlaştırılmış robot teknolojisi, fabrika otomasyonunu yeni bir çağa taşıyor - MarketScale Yapay zeka anlaşmaları ve somutlaştırılmış robot teknolojisi, fabrika otomasyonunu yeni bir çağa taşıyor MarketScale AI deals and embodied robotics push factory automation into a new era - MarketScale AI deals and embodied robotics push factory automation into a new era MarketScale Robotics Automation Industry",
-      "title_original": "AI deals and embodied robotics push factory automation into a new era - MarketScale",
-      "summary_original": "AI deals and embodied robotics push factory automation into a new era MarketScale",
-      "published_display": "2026-07-02",
-      "id": "19bfe1a75c5e"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Endüstriyel otomasyonun büyük haftası: çitsiz robotlar, insansı halka arzlar ve 100 milyon dolarlık genişleme - MarketScale",
-      "summary": "Endüstriyel otomasyonun büyük haftası: çitsiz robotlar, insansı halka arzlar ve 100 milyon dolarlık genişleme MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPenQtTmY2Q1FvaFJib2stRHFIbHlJcnVLTlFfUGZuRUN4emd5VzVKT1RtU213aUtkYjJFRmYxcDFNcE0wa0xuLXlYeE9wQjF1TU96dU1nZzhrd005MU1UWmV5YkNUY1FGVldtc1lvZ01XZGJQVWtPckh2R3NIcF9iaTIwTHpVWWl1QzVxVy1WT1h0dVI1ZU5ZSC1Xb2VMVlpybjFjSFhJdDNrX2hiZVVYaHlPaDBBR0V3RjdKTWJ3Ry0zdGMzNlNQTEZQUW1TS2FmZHlV?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-02T04:13:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Endüstriyel otomasyonun büyük haftası: çitsiz robotlar, insansı halka arzlar ve 100 milyon dolarlık genişleme - MarketScale Endüstriyel otomasyonun büyük haftası: çitsiz robotlar, insansı halka arzlar ve 100 milyon dolarlık genişleme MarketScale Industrial automation's big week: fenceless robots, humanoid IPOs, and a $100M expansion - MarketScale Industrial automation's big week: fenceless robots, humanoid IPOs, and a $100M expansion MarketScale Robotics Automation Industry",
-      "title_original": "Industrial automation's big week: fenceless robots, humanoid IPOs, and a $100M expansion - MarketScale",
-      "summary_original": "Industrial automation's big week: fenceless robots, humanoid IPOs, and a $100M expansion MarketScale",
-      "published_display": "2026-07-02",
-      "id": "d555b07f89a7"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı - Robotik ve Otomasyon Haberleri",
-      "summary": "Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbm9vVlNfQk5UampPSjZCeEwxQ3N0QVIzY280N21qVDdJVjZsUUlnVjF1dElzNW42eDVFY1RvLU1PTGZZZEZ6aVJyRlNrTC1RZ3NlcDBuZXV4NjlxOUVFRkJKcHM2dVRkNENCT2VmTkdRal9hNlpBdW9ab01JOUFBbFZLeGNoaERUUW5nOEJOa2FMcFIzS3FaOVZMZkZ4QWM0ZzFJVHlTQ2FDNlpPQnVwTDJuRDRmaWZ3dmdrMFhpcHNPNklDSlJZUHdYbEFScHR5d1M2V0szUEU?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-30T07:19:09Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı - Robotik ve Otomasyon Haberleri Agibot, 15.000'inci insansı robotunun üretim hattından çıkmasıyla yeni bir dönüm noktasına ulaştı Robotik ve Otomasyon Haberleri Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line - Robotics & Automation News Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line - Robotics & Automation News",
-      "summary_original": "Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line Robotics & Automation News",
-      "published_display": "2026-06-30",
-      "id": "65d259c49411"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine",
-      "summary": "Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2xadXl4ZWh0VW1sMXFsb1ZoU0dBaVJyMTRIMVdPbGJxbkkzYWRONTNiNlNiRjFjdVJQeGw3SDloOUo1TU9DRDI1ek54RzlaczVsTnBYV3BEWWp4VDM0LXpQT0tLWDR6Z3ZmTzNvOVNOQmdWN0poQmJ4YTEteGJRcEZ5LVZPanNPY1VtOFFRSU1FQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-27T04:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
-      "title_original": "It’s Time for the Robotics Industry to “Prove it” - Quality Magazine",
-      "summary_original": "It’s Time for the Robotics Industry to “Prove it” Quality Magazine",
-      "published_display": "2026-06-27",
-      "id": "b5ad5c31d9e5"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXFDVjQ3TkpXV3A0dWFEeUFrZTNKcmcyUlJpY2pOWDRKZ3pDMF9IOUl5d25DQktyS3FlUHl4TkZGNGtrYlB1UHN3Wm9jaXhiSHF6RXRXejRqanZqSzEyMTJiOWtPbUJQTGo5SXYwWFNlNk0zSzJ0TERXQVIxQ3ZHTjNzVUpLWFBWMlBkVllXWTV3TllYMXE5UVQxUURhd0ZQS0tsRHFJQnhUc3ZiZmVYNGhhSTI1TmNfVlo0NUdlZFpMeUo1WTFZ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-26T09:30:08Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor - Robotik ve Otomasyon Haberleri Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor Robotik ve Otomasyon Haberleri Automation is Leaving the Factory Floor and Moving into the Back Office - Robotics & Automation News Automation is Leaving the Factory Floor and Moving into the Back Office Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Automation is Leaving the Factory Floor and Moving into the Back Office - Robotics & Automation News",
-      "summary_original": "Automation is Leaving the Factory Floor and Moving into the Back Office Robotics & Automation News",
-      "published_display": "2026-06-26",
-      "id": "d92c5d7035ca"
     },
     {
       "category": "web",
@@ -534,7 +414,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -545,131 +425,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "ee48359b34f2"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider",
-      "summary": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSnRaVmxYZXEyNWhEYjRZS01ERl9qTFJDOXRaYlNsMUtVWUYxVG9nLTZXVzg5M05zVXNUdmJMazdlUWp0VG5kbmozcjE5ZHFhb20ySVRVN1hTWV9sMENFU0xLOVg5b3JWeGc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-06-30T10:26:08Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider Top Security Camera Companies Transforming Threat Detection - SNS Insider Top Security Camera Companies Transforming Threat Detection SNS Insider IP Camera Video Surveillance",
-      "title_original": "Top Security Camera Companies Transforming Threat Detection - SNS Insider",
-      "summary_original": "Top Security Camera Companies Transforming Threat Detection SNS Insider",
-      "published_display": "2026-06-30",
-      "id": "6457418f53ed"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
-      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-05-18T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
-      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
-      "published_display": "2026-05-18",
-      "id": "89e9ec78b392"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review",
-      "summary": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0t1RjdWejRoeWZLX1JyaGNlaS1aS0RvZkthWkViVWVwaVFGeHdaU0dOeXJsYTVNN1BKbk5Wakt5U29YTTc2SkJVRngtUF9XZXM0X0FXT1ltMUxNVVNUQmVXTTdPalR6dW9SdDVaOXZnUkVvVWNHVk5OWFZUeFdnb0pUZFIxTU5fb2lRY3BfVGlyTlpld0xWV2JvT1U2akhVWWx3?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-04-02T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review IP Camera Video Surveillance",
-      "title_original": "India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review",
-      "summary_original": "India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review",
-      "published_display": "2026-04-02",
-      "id": "196e24575946"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily",
-      "summary": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUFremVzOGxOX1A2M2pzQTdCaVZDN1ZwcnNidVhpdXRxaEloUUg5UWtUNk1zdm9ZcW9ON3pKNk81VU51Q3VCbHkxU0hNMnNCRDBXNm1HMjEtLU5obTZUVWx2LUVuOVpwWG81R2Q3MXJNVDZ5Yzc1SHdfdGRNXzRrV3NkMUFGb09BUkdnS1Z4NXBMNWZRQ1AyQ2EwYnhZTlhRU21Fd3Z6dnlBdW5LNkttLUVYeE9jWUhxRWc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-25T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily IP Camera Video Surveillance",
-      "title_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily",
-      "summary_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily",
-      "published_display": "2026-03-25",
-      "id": "88b8f95c1622"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International",
-      "summary": "ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
-      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International",
-      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International",
-      "published_display": "2026-03-11",
-      "id": "0621fc7000c8"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-29T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
-      "published_display": "2026-01-29",
-      "id": "3d63787c804b"
+      "id": "55bfd5ae49b2"
     }
   ]
 }
