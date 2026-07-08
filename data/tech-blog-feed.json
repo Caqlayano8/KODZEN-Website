@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-07T16:42:08Z",
+  "updated_at": "2026-07-08T12:11:17Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilci değerlendirmenizdeki gizli değişkenler",
+      "summary": "Bu, Ajan Deneyimi (AX) hakkındaki bir serinin yedinci makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, ajan yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, olup olmadığının nasıl ölçüleceğini kapsar...",
+      "url": "https://devblogs.microsoft.com/blog/the-hidden-variables-in-your-agent-eval",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-07-08T12:11:17Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilci değerlendirmenizdeki gizli değişkenler Bu, Ajan Deneyimi (AX) hakkındaki bir serinin yedinci makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, ajan yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, olup olmadığının nasıl ölçüleceğini kapsar... The hidden variables in your agent eval This is the seventh article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measure whether... Microsoft Dev Cloud",
+      "title_original": "The hidden variables in your agent eval",
+      "summary_original": "This is the seventh article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measure whether...",
+      "published_display": "2026-07-08",
+      "id": "636b143faecd"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilciler için CLI'nizi yeniden yazmayın",
-      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi....",
+      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi...",
       "url": "https://devblogs.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi.... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
+      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
       "title_original": "Don’t rewrite your CLI for agents",
       "summary_original": "There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON....",
       "published_display": "2026-07-07",
@@ -74,7 +94,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub, sıfır gelen kutusuna ulaşmak için gizli taramayı nasıl kullandı?",
+      "title": "GitHub, gelen kutusunun sıfır noktasına ulaşmak için gizli taramayı nasıl kullandı?",
       "summary": "GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı...",
       "url": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
       "image_url": null,
@@ -85,11 +105,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub, sıfır gelen kutusuna ulaşmak için gizli taramayı nasıl kullandı? GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı... How GitHub used secret scanning to reach inbox zero GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox... GitHub Dev Platform",
+      "keywords": "GitHub, gelen kutusunun sıfır noktasına ulaşmak için gizli taramayı nasıl kullandı? GitHub'un 15.000 depoda 20.000'den fazla gizli tarama uyarısı vardı. Sinyali gürültüden nasıl ayırdığımızı, iyileştirme iş akışlarını nasıl oluşturduğumuzu ve dokuz ayda sıfır gelen kutusuna nasıl ulaştığımızı burada bulabilirsiniz. GitHub'un gelen kutusuna ulaşmak için gizli taramayı nasıl kullandığı yazısı... How GitHub used secret scanning to reach inbox zero GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox... GitHub Dev Platform",
       "title_original": "How GitHub used secret scanning to reach inbox zero",
       "summary_original": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox...",
       "published_display": "2026-07-02",
-      "id": "3074e751f59c"
+      "id": "8c37af09e5f3"
     },
     {
       "category": "yazilim",
@@ -110,26 +130,6 @@
       "summary_original": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security setting...",
       "published_display": "2026-07-01",
       "id": "6a53cc2481d1"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yapay zeka kıyaslamalarının size söylemediği şeyler",
-      "summary": "Bu, Ajan Deneyimi (AX) hakkındaki bir serinin altıncı makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, aracı yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, aracınızın olup olmadığını nasıl ölçebileceğinizi kapsar.",
-      "url": "https://devblogs.microsoft.com/blog/what-ai-benchmarks-are-not-telling-you",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-07-01T14:31:55Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Yapay zeka kıyaslamalarının size söylemediği şeyler Bu, Ajan Deneyimi (AX) hakkındaki bir serinin altıncı makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, aracı yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, aracınızın olup olmadığını nasıl ölçebileceğinizi kapsar. What AI benchmarks are not telling you This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measure whether y... Microsoft Dev Cloud",
-      "title_original": "What AI benchmarks are not telling you",
-      "summary_original": "This is the sixth article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measure whether y...",
-      "published_display": "2026-07-01",
-      "id": "81174cf7ce0d"
     },
     {
       "category": "ai",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor",
-      "summary": "MUFG, yapay zekaya dayalı bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
+      "summary": "MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
       "url": "https://openai.com/index/mufg",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya dayalı bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
+      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
       "title_original": "MUFG aims to become AI-native with OpenAI",
       "summary_original": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "published_display": "2026-07-07",
@@ -335,7 +335,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine",
-      "summary": "Robotik Sektörünün “İspatlama” Zamanı Quality Magazine",
+      "summary": "Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2xadXl4ZWh0VW1sMXFsb1ZoU0dBaVJyMTRIMVdPbGJxbkkzYWRONTNiNlNiRjFjdVJQeGw3SDloOUo1TU9DRDI1ek54RzlaczVsTnBYV3BEWWp4VDM0LXpQT0tLWDR6Z3ZmTzNvOVNOQmdWN0poQmJ4YTEteGJRcEZ5LVZPanNPY1VtOFFRSU1FQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,7 +345,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Sektörünün “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
+      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
       "title_original": "It’s Time for the Robotics Industry to “Prove it” - Quality Magazine",
       "summary_original": "It’s Time for the Robotics Industry to “Prove it” Quality Magazine",
       "published_display": "2026-06-27",
@@ -354,7 +354,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Otomasyon Fabrika Katından Çıkıp Arka Ofise Taşınıyor - Robotik ve Otomasyon Haberleri",
+      "title": "Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor - Robotik ve Otomasyon Haberleri",
       "summary": "Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXFDVjQ3TkpXV3A0dWFEeUFrZTNKcmcyUlJpY2pOWDRKZ3pDMF9IOUl5d25DQktyS3FlUHl4TkZGNGtrYlB1UHN3Wm9jaXhiSHF6RXRXejRqanZqSzEyMTJiOWtPbUJQTGo5SXYwWFNlNk0zSzJ0TERXQVIxQ3ZHTjNzVUpLWFBWMlBkVllXWTV3TllYMXE5UVQxUURhd0ZQS0tsRHFJQnhUc3ZiZmVYNGhhSTI1TmNfVlo0NUdlZFpMeUo1WTFZ?oc=5",
       "image_url": null,
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Otomasyon Fabrika Katından Çıkıp Arka Ofise Taşınıyor - Robotik ve Otomasyon Haberleri Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor Robotik ve Otomasyon Haberleri Automation is Leaving the Factory Floor and Moving into the Back Office - Robotics & Automation News Automation is Leaving the Factory Floor and Moving into the Back Office Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor - Robotik ve Otomasyon Haberleri Otomasyon Fabrikadan Çıkıp Arka Ofise Taşınıyor Robotik ve Otomasyon Haberleri Automation is Leaving the Factory Floor and Moving into the Back Office - Robotics & Automation News Automation is Leaving the Factory Floor and Moving into the Back Office Robotics & Automation News Robotics Automation Industry",
       "title_original": "Automation is Leaving the Factory Floor and Moving into the Back Office - Robotics & Automation News",
       "summary_original": "Automation is Leaving the Factory Floor and Moving into the Back Office Robotics & Automation News",
       "published_display": "2026-06-26",
-      "id": "df3846a54763"
+      "id": "d92c5d7035ca"
     },
     {
       "category": "web",
@@ -634,7 +634,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International",
       "summary": "ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
@@ -645,17 +645,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
       "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International",
       "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International",
       "published_display": "2026-03-11",
-      "id": "0621fc7000c8"
+      "id": "d9558ccc7fa2"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -665,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "id": "fcce6214680e"
     }
   ]
 }
