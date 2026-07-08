@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-08T19:08:15Z",
+  "updated_at": "2026-07-08T19:35:51Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub kullanılabilirlik raporu: Haziran 2026",
+      "summary": "Haziran ayında GitHub hizmetlerinde performansın düşmesine neden olan altı olay yaşadık. GitHub kullanılabilirlik raporu: Haziran 2026 ilk olarak The GitHub Blog'da yayınlandı.",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-08T19:35:51Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub kullanılabilirlik raporu: Haziran 2026 Haziran ayında GitHub hizmetlerinde performansın düşmesine neden olan altı olay yaşadık. GitHub kullanılabilirlik raporu: Haziran 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: June 2026 In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub availability report: June 2026",
+      "summary_original": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog .",
+      "published_display": "2026-07-08",
+      "id": "ada2b28ec524"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilciler için CLI'nizi yeniden yazmayın",
-      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi....",
+      "summary": "Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi...",
       "url": "https://devblogs.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,31 +125,31 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili bir şekilde kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi.... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
+      "keywords": "Temsilciler için CLI'nizi yeniden yazmayın Ortalıkta dolaşan tavsiyeler var: Temsilcilerin aracınızı daha etkili kullanabilmesi için CLI argümanlarınızı tek bir --json yüküyle değiştirin. Aracıların zaten yapılandırılmış formatlarda düşünmesi ve iç içe geçmiş verilerin temiz bir şekilde JSON ile eşlenmesi düşüncesi... Don’t rewrite your CLI for agents There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON.... Microsoft Dev Cloud",
       "title_original": "Don’t rewrite your CLI for agents",
       "summary_original": "There’s advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being, that agents already think in structured formats, and nested data maps cleanly to JSON....",
       "published_display": "2026-07-07",
       "id": "c4a408d30ddd"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Tüm model yükseltmeleri yükseltme değildir",
-      "summary": "Token başına daha düşük fiyatlandırma ve daha iyi kıyaslamalarla yeni bir model çıkıyor. Sen değiştir. Bir hafta sonra birisi, aracının neden aynı görevde daha kötü çıktı üretirken 12 kat daha fazla token yaktığını sordu. 15 senaryoda 150 temsilci görevi yürüttük...",
-      "url": "https://devblogs.microsoft.com/blog/not-all-model-upgrades-are-upgrades",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Kodlama değerlendirmelerinde sinyali gürültüden ayırma",
+      "summary": "OpenAI tarafından yapılan yeni bir analiz, popüler bir kodlama kriteri olan SWE-Bench Pro'daki sorunları ortaya çıkarıyor ve yapay zeka modellerinin değerlendirilmesinde güvenilirlik ve doğruluk konusundaki endişeleri artırıyor.",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-07-06T07:49:44Z",
+      "source": "OpenAI News",
+      "published_at": "2026-07-08T13:00:00Z",
       "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Tüm model yükseltmeleri yükseltme değildir Token başına daha düşük fiyatlandırma ve daha iyi kıyaslamalarla yeni bir model çıkıyor. Sen değiştir. Bir hafta sonra birisi, aracının neden aynı görevde daha kötü çıktı üretirken 12 kat daha fazla token yaktığını sordu. 15 senaryoda 150 temsilci görevi yürüttük... Not all model upgrades are upgrades A new model drops with lower per-token pricing and better benchmarks. You switch. A week later someone asks why the agent is burning 12x more tokens on the same task while producing worse output. We ran 150 agent tasks across 15 scenario... Microsoft Dev Cloud",
-      "title_original": "Not all model upgrades are upgrades",
-      "summary_original": "A new model drops with lower per-token pricing and better benchmarks. You switch. A week later someone asks why the agent is burning 12x more tokens on the same task while producing worse output. We ran 150 agent tasks across 15 scenario...",
-      "published_display": "2026-07-06",
-      "id": "029f06ca67e3"
+      "keywords": "Kodlama değerlendirmelerinde sinyali gürültüden ayırma OpenAI tarafından yapılan yeni bir analiz, popüler bir kodlama kriteri olan SWE-Bench Pro'daki sorunları ortaya çıkarıyor ve yapay zeka modellerinin değerlendirilmesinde güvenilirlik ve doğruluk konusundaki endişeleri artırıyor. Separating signal from noise in coding evaluations A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models. AI OpenAI Model",
+      "title_original": "Separating signal from noise in coding evaluations",
+      "summary_original": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "published_display": "2026-07-08",
+      "id": "0f308ae8faaf"
     },
     {
       "category": "ai",
@@ -215,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor",
-      "summary": "MUFG, yapay zekaya dayalı bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
+      "summary": "MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor.",
       "url": "https://openai.com/index/mufg",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,31 +245,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya dayalı bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
+      "keywords": "MUFG, OpenAI ile yapay zekaya özgü olmayı hedefliyor MUFG, yapay zekaya özgü bir organizasyon oluşturmak, iş akışlarını iyileştirmek ve geniş ölçekte yapay zeka destekli yeni finansal hizmetler sunmak için ChatGPT Enterprise'ı kullanıyor. MUFG aims to become AI-native with OpenAI MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale. AI OpenAI Model",
       "title_original": "MUFG aims to become AI-native with OpenAI",
       "summary_original": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "published_display": "2026-07-07",
       "id": "8ff48dff56ce"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Australian Payments Plus, ChatGPT ve Codex ile daha hızlı hareket ediyor",
-      "summary": "Australian Payments Plus'ın ödeme karmaşıklığında daha hızlı ilerlemek için ChatGPT Enterprise ve Codex'i nasıl kullandığını görün. AP+ zamandan tasarruf sağlar, kaliteyi artırır ve insan muhakemesini merkezi tutar.",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-07T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Australian Payments Plus, ChatGPT ve Codex ile daha hızlı hareket ediyor Australian Payments Plus'ın ödeme karmaşıklığında daha hızlı ilerlemek için ChatGPT Enterprise ve Codex'i nasıl kullandığını görün. AP+ zamandan tasarruf sağlar, kaliteyi artırır ve insan muhakemesini merkezi tutar. Australian Payments Plus moves faster with ChatGPT and Codex See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central. AI OpenAI Model",
-      "title_original": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "summary_original": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
-      "published_display": "2026-07-07",
-      "id": "0383bfe8163c"
     },
     {
       "category": "robotik",
@@ -259,7 +259,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnlERFNRakVuTTY2VjBRbXlvRVVSRmRrM2FPalViRnlSNXpjb2VWbmRUcjVSdFpkRVZBbk5DTmduX0d3cGRqNlZ4LXZKdkN2VExGemMtUTNWaVN4dkxiRmpxNkNRU1JIOXpYV1U0YXh1WFZqLUtzTjBudkZFNmtJc00waUpaTFU?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-07-08T19:08:15Z",
+      "published_at": "2026-07-08T19:08:18Z",
       "tags": [
         "Robotics",
         "Automation",
@@ -270,6 +270,26 @@
       "summary_original": "The Biggest US Robotics and Automation Manufacturers Thomasnet",
       "published_display": "2026-07-08",
       "id": "48c2bf5c7d89"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Otomotivin Ötesinde: Sağlık Hizmetleri Otomasyonu Robotik ETF'lerinin Bir Sonraki Ayağını Yönlendiriyor - TradingView",
+      "summary": "Otomotivin Ötesinde: Sağlık Hizmetleri Otomasyonu Robotik ETF'lerinin Bir Sonraki Ayağını Yönlendiriyor TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN1NiRE5mTTB2TlNEOEVPZlZwODJfYXMtLXcwMzlXWDVPRU1RMG1SUUQ5Ym9jbHByN0RVbVRMd3dzdzJXeE4weWdienRvbUg4VEZOb1pETzFicXVNZmdaTVBNVldFSzc1OFI4NFFJTDI1cFJwR09aUUJCa194cDNhMnRyN1lnQXoxLW1PaUhNb2RUOTNDbHV3YTBhdmRnRS1jbzRlRks0OXVEbXItOHZJNUx6Y2ozejVOSXI0b1FPVmFUUXB6TVRhVUd3N3RhUQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-07-08T18:04:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Otomotivin Ötesinde: Sağlık Hizmetleri Otomasyonu Robotik ETF'lerinin Bir Sonraki Ayağını Yönlendiriyor - TradingView Otomotivin Ötesinde: Sağlık Hizmetleri Otomasyonu Robotik ETF'lerinin Bir Sonraki Ayağını Yönlendiriyor TradingView Beyond Automotive: Healthcare Automation Drives the Next Leg for Robotics ETFs - TradingView Beyond Automotive: Healthcare Automation Drives the Next Leg for Robotics ETFs TradingView Robotics Automation Industry",
+      "title_original": "Beyond Automotive: Healthcare Automation Drives the Next Leg for Robotics ETFs - TradingView",
+      "summary_original": "Beyond Automotive: Healthcare Automation Drives the Next Leg for Robotics ETFs TradingView",
+      "published_display": "2026-07-08",
+      "id": "4c8938adca93"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Agibot reaches new milestone as its 15,000th humanoid robot rolls off production line Robotics & Automation News",
       "published_display": "2026-06-30",
       "id": "65d259c49411"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine",
-      "summary": "Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2xadXl4ZWh0VW1sMXFsb1ZoU0dBaVJyMTRIMVdPbGJxbkkzYWRONTNiNlNiRjFjdVJQeGw3SDloOUo1TU9DRDI1ek54RzlaczVsTnBYV3BEWWp4VDM0LXpQT0tLWDR6Z3ZmTzNvOVNOQmdWN0poQmJ4YTEteGJRcEZ5LVZPanNPY1VtOFFRSU1FQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-06-27T04:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik Endüstrisinin “İspatlama” Zamanı - Quality Magazine Robotik Endüstrisinin “İspatlama” Zamanı Quality Magazine It’s Time for the Robotics Industry to “Prove it” - Quality Magazine It’s Time for the Robotics Industry to “Prove it” Quality Magazine Robotics Automation Industry",
-      "title_original": "It’s Time for the Robotics Industry to “Prove it” - Quality Magazine",
-      "summary_original": "It’s Time for the Robotics Industry to “Prove it” Quality Magazine",
-      "published_display": "2026-06-27",
-      "id": "b5ad5c31d9e5"
     },
     {
       "category": "web",
@@ -534,7 +534,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -545,11 +545,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "ee48359b34f2"
+      "id": "55bfd5ae49b2"
     },
     {
       "category": "kamera",
@@ -654,7 +654,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
       "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
@@ -665,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
       "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "3d63787c804b"
+      "id": "fcce6214680e"
     }
   ]
 }
