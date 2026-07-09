@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "updated_at": "2026-07-09T16:29:37Z",
-  "total_posts": 33,
+  "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 6
+    "kamera": 2
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub her depoya nasıl dayanıklı bir sahip verdi?",
-      "summary": "GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz açıklamayı burada bulabilirsiniz. T...",
+      "summary": "GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz şey şu şekildedir. T...",
       "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub her depoya nasıl dayanıklı bir sahip verdi? GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz açıklamayı burada bulabilirsiniz. T... How GitHub gave every repository a durable owner GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T... GitHub Dev Platform",
+      "keywords": "GitHub her depoya nasıl dayanıklı bir sahip verdi? GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz şey şu şekildedir. T... How GitHub gave every repository a durable owner GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T... GitHub Dev Platform",
       "title_original": "How GitHub gave every repository a durable owner",
       "summary_original": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T...",
       "published_display": "2026-07-09",
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme",
-      "summary": "Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgeleme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı.",
+      "summary": "Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgelendirme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı.",
       "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgeleme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı. Automating cross-repo documentation with GitHub Agentic Workflows Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o... GitHub Dev Platform",
+      "keywords": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgelendirme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı. Automating cross-repo documentation with GitHub Agentic Workflows Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o... GitHub Dev Platform",
       "title_original": "Automating cross-repo documentation with GitHub Agentic Workflows",
       "summary_original": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o...",
       "published_display": "2026-07-08",
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği",
-      "summary": "GitHub Copilot Uygulamasına nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı.",
+      "summary": "GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı.",
       "url": "https://devblogs.microsoft.com/blog/lets-learn-github-copilot-app-free-virtual-training-event",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +85,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği GitHub Copilot Uygulamasına nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı. Let’s Learn GitHub Copilot App – Free Virtual Training Event Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers . Microsoft Dev Cloud",
+      "keywords": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı. Let’s Learn GitHub Copilot App – Free Virtual Training Event Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers . Microsoft Dev Cloud",
       "title_original": "Let’s Learn GitHub Copilot App – Free Virtual Training Event",
       "summary_original": "Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers .",
       "published_display": "2026-07-08",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot, GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirir?",
-      "summary": "Tek bir DNS kaydını manuel olarak düzenlemeye gerek kalmadan, yaklaşık 14 dakika içinde boş bir depodan HTTPS ile canlı bir özel etki alanına geçin. GitHub Copilot'un GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirdiği yazısı ilk olarak GitHub Bl'de göründü...",
+      "summary": "Tek bir DNS kaydını manuel olarak düzenlemeye gerek kalmadan, yaklaşık 14 dakika içinde boş bir depodan HTTPS ile canlı bir özel etki alanına geçin. GitHub Copilot'un GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirdiği yazısı ilk olarak GitHub Bl...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot, GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirir? Tek bir DNS kaydını manuel olarak düzenlemeye gerek kalmadan, yaklaşık 14 dakika içinde boş bir depodan HTTPS ile canlı bir özel etki alanına geçin. GitHub Copilot'un GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirdiği yazısı ilk olarak GitHub Bl'de göründü... How GitHub Copilot enables zero DNS configuration for GitHub Pages Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Bl... GitHub Dev Platform",
+      "keywords": "GitHub Copilot, GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirir? Tek bir DNS kaydını manuel olarak düzenlemeye gerek kalmadan, yaklaşık 14 dakika içinde boş bir depodan HTTPS ile canlı bir özel etki alanına geçin. GitHub Copilot'un GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirdiği yazısı ilk olarak GitHub Bl... How GitHub Copilot enables zero DNS configuration for GitHub Pages Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Bl... GitHub Dev Platform",
       "title_original": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
       "summary_original": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Bl...",
       "published_display": "2026-07-08",
@@ -574,102 +574,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
-      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
+      "title": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 - Pazar Araştırmasının Geleceği",
+      "summary": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 Pazar Araştırması Geleceği",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYVMxZjhwdTFmRWRJZ1FWR0pqSzBEU1JqeVg1TUVackF3b0NhcnRuOVFYOGdVdjNMNy0wV21abzF1OWFvZXVuUjJ0THd4ZVpuSVhMekpxWWppMlFDbElxaUdBUVp0UkdwSm9Lcg?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-05-18T07:00:00Z",
+      "published_at": "2026-06-22T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
-      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
-      "published_display": "2026-05-18",
-      "id": "89e9ec78b392"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review",
-      "summary": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0t1RjdWejRoeWZLX1JyaGNlaS1aS0RvZkthWkViVWVwaVFGeHdaU0dOeXJsYTVNN1BKbk5Wakt5U29YTTc2SkJVRngtUF9XZXM0X0FXT1ltMUxNVVNUQmVXTTdPalR6dW9SdDVaOXZnUkVvVWNHVk5OWFZUeFdnb0pUZFIxTU5fb2lRY3BfVGlyTlpld0xWV2JvT1U2akhVWWx3?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-04-02T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review IP Camera Video Surveillance",
-      "title_original": "India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review",
-      "summary_original": "India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review",
-      "published_display": "2026-04-02",
-      "id": "196e24575946"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily",
-      "summary": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUFremVzOGxOX1A2M2pzQTdCaVZDN1ZwcnNidVhpdXRxaEloUUg5UWtUNk1zdm9ZcW9ON3pKNk81VU51Q3VCbHkxU0hNMnNCRDBXNm1HMjEtLU5obTZUVWx2LUVuOVpwWG81R2Q3MXJNVDZ5Yzc1SHdfdGRNXzRrV3NkMUFGb09BUkdnS1Z4NXBMNWZRQ1AyQ2EwYnhZTlhRU21Fd3Z6dnlBdW5LNkttLUVYeE9jWUhxRWc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-25T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily IP Camera Video Surveillance",
-      "title_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily",
-      "summary_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily",
-      "published_display": "2026-03-25",
-      "id": "88b8f95c1622"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International",
-      "summary": "ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
-      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International",
-      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International",
-      "published_display": "2026-03-11",
-      "id": "0621fc7000c8"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-29T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
-      "published_display": "2026-01-29",
-      "id": "f4f88664728b"
+      "keywords": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 - Pazar Araştırmasının Geleceği CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 Pazar Araştırması Geleceği CCTV Market Size, Share, Growth Analysis | Forecast 2035 - Market Research Future CCTV Market Size, Share, Growth Analysis | Forecast 2035 Market Research Future IP Camera Video Surveillance",
+      "title_original": "CCTV Market Size, Share, Growth Analysis | Forecast 2035 - Market Research Future",
+      "summary_original": "CCTV Market Size, Share, Growth Analysis | Forecast 2035 Market Research Future",
+      "published_display": "2026-06-22",
+      "id": "e22a2ff8fc75"
     }
   ]
 }
