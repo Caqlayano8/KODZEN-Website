@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-09T20:44:20Z",
+  "updated_at": "2026-07-10T07:00:00Z",
   "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub her depoya nasıl dayanıklı bir sahip verdi?",
-      "summary": "GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz şey şu şekildedir. T...",
+      "summary": "GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz açıklamayı burada bulabilirsiniz. T...",
       "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub her depoya nasıl dayanıklı bir sahip verdi? GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz şey şu şekildedir. T... How GitHub gave every repository a durable owner GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T... GitHub Dev Platform",
+      "keywords": "GitHub her depoya nasıl dayanıklı bir sahip verdi? GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz açıklamayı burada bulabilirsiniz. T... How GitHub gave every repository a durable owner GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T... GitHub Dev Platform",
       "title_original": "How GitHub gave every repository a durable owner",
       "summary_original": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T...",
       "published_display": "2026-07-09",
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Deutsche Telekom telekomünikasyonu yapay zeka ile nasıl yeniden donatıyor?",
+      "summary": "Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zeka yerli bir telekomünikasyon şirketine dönüşüyor?",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-10T07:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Deutsche Telekom telekomünikasyonu yapay zeka ile nasıl yeniden donatıyor? Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zeka yerli bir telekomünikasyon şirketine dönüşüyor? How Deutsche Telekom is rewiring telecommunications with AI How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice. AI OpenAI Model",
+      "title_original": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary_original": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "published_display": "2026-07-10",
+      "id": "a1cd60a88c3d"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "GPT-5.6 artık Microsoft 365 Copilot'ta tercih edilen model",
       "summary": "GPT-5.6'nın daha hızlı, daha kaliteli çalışma için Microsoft 365 Copilot'u Word, Excel, PowerPoint, Chat ve Cowork'te daha güçlü yapay zeka özellikleriyle nasıl güçlendirdiğini öğrenin.",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -232,24 +252,24 @@
       "id": "1edf0d441463"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Hükümet ve ulusal güvenlik ortaklıklarına yaklaşımımız",
-      "summary": "OpenAI'nin sorumlu yapay zeka kullanımı, demokratik hesap verebilirlik ve kamu güvenliği ilkeleriyle hükümet ve ulusal güvenlik ortaklıklarına nasıl yaklaştığını öğrenin.",
-      "url": "https://openai.com/index/government-national-security-partnerships",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Project MFG İleri Ulusal Yarışma, Robotik, Otomasyon, CNC İşleme ve Eklemeli İmalat Alanında İleri Becerileri Sergiliyor - PR.com",
+      "summary": "Project MFG İleri Ulusal Yarışma, Robotik, Otomasyon, CNC İşleme ve Eklemeli İmalat Alanında İleri Becerileri Sergiliyor PR.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90SXhYaW00UGZhM3dmNjJYVVpCeDM3OWViXzYxMHdyai1nZjlYa0JfZXNSZmZZdjFPOHVBZmNVNFBKVWVCdUdsb2VUOF9oWmxm?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-08T13:30:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-07-10T07:00:00Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Hükümet ve ulusal güvenlik ortaklıklarına yaklaşımımız OpenAI'nin sorumlu yapay zeka kullanımı, demokratik hesap verebilirlik ve kamu güvenliği ilkeleriyle hükümet ve ulusal güvenlik ortaklıklarına nasıl yaklaştığını öğrenin. Our approach to government and national security partnerships Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety. AI OpenAI Model",
-      "title_original": "Our approach to government and national security partnerships",
-      "summary_original": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
-      "published_display": "2026-07-08",
-      "id": "994b20d641c6"
+      "keywords": "Project MFG İleri Ulusal Yarışma, Robotik, Otomasyon, CNC İşleme ve Eklemeli İmalat Alanında İleri Becerileri Sergiliyor - PR.com Project MFG İleri Ulusal Yarışma, Robotik, Otomasyon, CNC İşleme ve Eklemeli İmalat Alanında İleri Becerileri Sergiliyor PR.com Project MFG Advanced National Competition Demonstrates Advanced Skills in Robotics, Automation, CNC Machining and Additive Manufacturing - PR.com Project MFG Advanced National Competition Demonstrates Advanced Skills in Robotics, Automation, CNC Machining and Additive Manufacturing PR.com Robotics Automation Industry",
+      "title_original": "Project MFG Advanced National Competition Demonstrates Advanced Skills in Robotics, Automation, CNC Machining and Additive Manufacturing - PR.com",
+      "summary_original": "Project MFG Advanced National Competition Demonstrates Advanced Skills in Robotics, Automation, CNC Machining and Additive Manufacturing PR.com",
+      "published_display": "2026-07-10",
+      "id": "0c5c49cf36c5"
     },
     {
       "category": "robotik",
@@ -335,7 +355,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "2027 Küresel Otel Endüstrisi Teknik Raporu—Robotik Devrimi ve Varlık \"İkili Iraksama\" - Hospitality Net",
-      "summary": "2027 Küresel Otel Endüstrisi Teknik Raporu—Robotik Devrimi ve Varlık \"İkili Iraksama\" Konaklama Ağı",
+      "summary": "2027 Küresel Otel Endüstrisi Teknik Raporu - Robotik Devrimi ve Varlık \"İkili Iraksama\" Konaklama Ağı",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUnhYUHM4X3NYN3A5Q1hSdGVfNmhkU25ZNnNLTXlIcGNEXzVidkUzOGVueDNvX1dJeGZhaTgxUDlIeUhzYkdBWmluTVFXTHFfSGJXWF9TRHFJMzIxTzBpa3hoSU1iV3dhVEpRR2JKUXJxQThYYjZHdWNEVFA4U3JPQlBWM1duNjVXUXpES0NrSHFjVTVMR1QyUWg5RXl4WGQ0RXlRejdPUlFSOXVnc3hsZlByY3R4X1J6UTR0MFhMOGZsdDV3d3ZCbGtHWFNwTHgwY3JrYVlB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,31 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "2027 Küresel Otel Endüstrisi Teknik Raporu—Robotik Devrimi ve Varlık \"İkili Iraksama\" - Hospitality Net 2027 Küresel Otel Endüstrisi Teknik Raporu—Robotik Devrimi ve Varlık \"İkili Iraksama\" Konaklama Ağı 2027 Global Hotel Industry White Paper—The Robotics Revolution and Asset \"Binary Divergence\" - Hospitality Net 2027 Global Hotel Industry White Paper—The Robotics Revolution and Asset \"Binary Divergence\" Hospitality Net Robotics Automation Industry",
+      "keywords": "2027 Küresel Otel Endüstrisi Teknik Raporu—Robotik Devrimi ve Varlık \"İkili Iraksama\" - Hospitality Net 2027 Küresel Otel Endüstrisi Teknik Raporu - Robotik Devrimi ve Varlık \"İkili Iraksama\" Konaklama Ağı 2027 Global Hotel Industry White Paper—The Robotics Revolution and Asset \"Binary Divergence\" - Hospitality Net 2027 Global Hotel Industry White Paper—The Robotics Revolution and Asset \"Binary Divergence\" Hospitality Net Robotics Automation Industry",
       "title_original": "2027 Global Hotel Industry White Paper—The Robotics Revolution and Asset \"Binary Divergence\" - Hospitality Net",
       "summary_original": "2027 Global Hotel Industry White Paper—The Robotics Revolution and Asset \"Binary Divergence\" Hospitality Net",
       "published_display": "2026-07-08",
       "id": "32cbe9b06eb9"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Yapay Zeka, Otomasyon ve Endüstri 4.0 Tarafından Yönlendirilen Robotik Pazarı - SNS Insider",
-      "summary": "Yapay Zeka, Otomasyon ve Endüstri 4.0 Tarafından Yönlendirilen Robotik Pazarı SNS Insider",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56dXV0Q0dYS1VmR2VfRkNISndpVC01bDJZQnF5ME1wd1FYTzFRVnVIZE9kcHhZSWE0T2wwY29adkotWXJ4NVR1TURqM0l2VWtyYjNkSnZzREJ0bGcxTnZF?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-03T09:42:46Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Yapay Zeka, Otomasyon ve Endüstri 4.0 Tarafından Yönlendirilen Robotik Pazarı - SNS Insider Yapay Zeka, Otomasyon ve Endüstri 4.0 Tarafından Yönlendirilen Robotik Pazarı SNS Insider Robotics Market Driven by AI, Automation & Industry 4.0 - SNS Insider Robotics Market Driven by AI, Automation & Industry 4.0 SNS Insider Robotics Automation Industry",
-      "title_original": "Robotics Market Driven by AI, Automation & Industry 4.0 - SNS Insider",
-      "summary_original": "Robotics Market Driven by AI, Automation & Industry 4.0 SNS Insider",
-      "published_display": "2026-07-03",
-      "id": "9a090457a1a0"
     },
     {
       "category": "web",
