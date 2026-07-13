@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-10T16:24:57Z",
-  "total_posts": 28,
+  "updated_at": "2026-07-13T08:02:53Z",
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
-    "web": 2,
+    "web": 6,
     "siber": 6,
     "kamera": 2
   },
@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Daha iyi araçlar Copilot kod incelemesini daha da kötüleştirdi. Bunu aslında nasıl iyileştirdiğimizi burada bulabilirsiniz.",
-      "summary": "Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarını çekme isteği kanıtları etrafında yeniden şekillendirerek inceleme maliyetini nasıl düşürdü? Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız...",
+      "summary": "Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarının çekme isteği kanıtları etrafında yeniden şekillendirilmesiyle inceleme maliyetini nasıl azalttı. Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız...",
       "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Daha iyi araçlar Copilot kod incelemesini daha da kötüleştirdi. Bunu aslında nasıl iyileştirdiğimizi burada bulabilirsiniz. Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarını çekme isteği kanıtları etrafında yeniden şekillendirerek inceleme maliyetini nasıl düşürdü? Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız... Better tools made Copilot code review worse. Here’s how we actually improved it. How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp... GitHub Dev Platform",
+      "keywords": "Daha iyi araçlar Copilot kod incelemesini daha da kötüleştirdi. Bunu aslında nasıl iyileştirdiğimizi burada bulabilirsiniz. Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarının çekme isteği kanıtları etrafında yeniden şekillendirilmesiyle inceleme maliyetini nasıl azalttı. Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız... Better tools made Copilot code review worse. Here’s how we actually improved it. How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp... GitHub Dev Platform",
       "title_original": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
       "summary_original": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp...",
       "published_display": "2026-07-10",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme",
-      "summary": "Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme isteklerine nasıl dönüştürdüğünü ve sürüm ile belgeler arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı.",
+      "summary": "Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgeleme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı.",
       "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme isteklerine nasıl dönüştürdüğünü ve sürüm ile belgeler arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı. Automating cross-repo documentation with GitHub Agentic Workflows Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o... GitHub Dev Platform",
+      "keywords": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgeleme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı. Automating cross-repo documentation with GitHub Agentic Workflows Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o... GitHub Dev Platform",
       "title_original": "Automating cross-repo documentation with GitHub Agentic Workflows",
       "summary_original": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o...",
       "published_display": "2026-07-08",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği",
-      "summary": "GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı.",
+      "summary": "GitHub Copilot Uygulamasına nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı.",
       "url": "https://devblogs.microsoft.com/blog/lets-learn-github-copilot-app-free-virtual-training-event",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı. Let’s Learn GitHub Copilot App – Free Virtual Training Event Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers . Microsoft Dev Cloud",
+      "keywords": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği GitHub Copilot Uygulamasına nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı. Let’s Learn GitHub Copilot App – Free Virtual Training Event Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers . Microsoft Dev Cloud",
       "title_original": "Let’s Learn GitHub Copilot App – Free Virtual Training Event",
       "summary_original": "Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers .",
       "published_display": "2026-07-08",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Deutsche Telekom telekomünikasyonu yapay zeka ile nasıl yeniden donatıyor?",
-      "summary": "Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zekaya özgü bir telekomünikasyon şirketine dönüşüyor?",
+      "summary": "Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zeka yerli bir telekomünikasyon şirketine dönüşüyor?",
       "url": "https://openai.com/index/deutsche-telekom",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +145,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Deutsche Telekom telekomünikasyonu yapay zeka ile nasıl yeniden donatıyor? Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zekaya özgü bir telekomünikasyon şirketine dönüşüyor? How Deutsche Telekom is rewiring telecommunications with AI How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice. AI OpenAI Model",
+      "keywords": "Deutsche Telekom telekomünikasyonu yapay zeka ile nasıl yeniden donatıyor? Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zeka yerli bir telekomünikasyon şirketine dönüşüyor? How Deutsche Telekom is rewiring telecommunications with AI How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice. AI OpenAI Model",
       "title_original": "How Deutsche Telekom is rewiring telecommunications with AI",
       "summary_original": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "published_display": "2026-07-10",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Küresel robot endüstrisi ortak otomasyon stratejilerini savunmak için güçlerini birleştiriyor - IFR Uluslararası Robotik Federasyonu",
+      "summary": "Küresel robot endüstrisi ortak otomasyon stratejilerini savunmak için güçlerini birleştiriyor IFR Uluslararası Robotik Federasyonu",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFlLRGt1bUxRQ0M2S3VYZVNtSFVXZHpjTWxoZ3ZBM0lEZFlJaWtGNDdWMTlYQU5qcEpDRUNFME9PLXIxTFVzNTIzYVU1M0wxMEtIVlR0QlE0TV9ldFU2SEFBRXRVQi0wQTlIR3c4SVJBZVRoUVJ5dmhCdVJJWF9aVGNDWlpiaXcyUkppLTJPLVh6aHhiTWZNNl96RjRvejJmMWg2cTg1Um85WmtBRXRMN3BEZEhXdE54VmNvQ2stZw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-07-13T08:02:53Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Küresel robot endüstrisi ortak otomasyon stratejilerini savunmak için güçlerini birleştiriyor - IFR Uluslararası Robotik Federasyonu Küresel robot endüstrisi ortak otomasyon stratejilerini savunmak için güçlerini birleştiriyor IFR Uluslararası Robotik Federasyonu Global robotics industry joins forces to advocate for common automation strategies - IFR International Federation of Robotics Global robotics industry joins forces to advocate for common automation strategies IFR International Federation of Robotics Robotics Automation Industry",
+      "title_original": "Global robotics industry joins forces to advocate for common automation strategies - IFR International Federation of Robotics",
+      "summary_original": "Global robotics industry joins forces to advocate for common automation strategies IFR International Federation of Robotics",
+      "published_display": "2026-07-13",
+      "id": "60f0228841c8"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Tayvan Mükemmellik Pavyonu, Automate 2026 - Gömülü Bilgi İşlem Tasarımı'nda 23 Şirketin Yapay Zeka, Robotik ve Akıllı Üretim Yeniliklerini Sergiledi",
       "summary": "Tayvan Mükemmellik Pavyonu, Automate 2026 Gömülü Bilgi İşlem Tasarımında 23 Şirketin Yapay Zeka, Robotik ve Akıllı Üretim Yeniliklerini Sergiledi",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORzl2UEJwbDJsOUNyZkFMbzEwSktpN2Jmc25HdGttbzM3cnZiZkxJNFZ6NTQwZEJhVUU1U1h0X2J2RGdDRGJJZ2o4SWkxSWNsejNON2pvd0dKVEhmeGU1Sm1oSmc4R3hta19yY0U3SmMzV0lKN1N2alQyaUVOeUN5M2hSNm9Kd203QXhFUXdGQXVoT2JJcjJTSFRPN05jRE9nejRZYWdNc214ZlgxY25Cc0FYcU9xQUdSaXM2Nl9WNS1lT1doSHdIUnBSR0Q1TldKdFBkaE9jdGxfTjFrX09WaGdfcWM1WG43TmJaLWJ5QUd6dW00MjNEUFQ5dDZqdk9pNVZpOGZzQ01VNzdrcXU0Tjd6NzBteFlPMVcxaA?oc=5",
@@ -290,26 +310,6 @@
       "summary_original": "Robotics Competitions Power the Next Generation of Automation Talent A3 Association for Advancing Automation",
       "published_display": "2026-07-10",
       "id": "250d83094e28"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Elektroniğin yeni kariyer motoru: Robotik, otomasyon ve mekatronik - Manufacturing Today Hindistan",
-      "summary": "Elektroniğin yeni kariyer motoru: Robotik, otomasyon ve mekatronik Manufacturing Today Hindistan",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14VkN1M2o0Q3lPZFE2aGlCNTk3RzFBcW8yVEZxOXI0eTV6REFtanVUVlVocmg1Rl80WUpZSGNTRWxraFExV0hBdEhSR1ZpZ1ZZakJtc1N0Q25TbHN1dVJnZ2x1S0lJeG5nc1FJ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-10T05:50:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Elektroniğin yeni kariyer motoru: Robotik, otomasyon ve mekatronik - Manufacturing Today Hindistan Elektroniğin yeni kariyer motoru: Robotik, otomasyon ve mekatronik Manufacturing Today Hindistan New career engine of electronics: Robotics, automation and mechatronics - Manufacturing Today India New career engine of electronics: Robotics, automation and mechatronics Manufacturing Today India Robotics Automation Industry",
-      "title_original": "New career engine of electronics: Robotics, automation and mechatronics - Manufacturing Today India",
-      "summary_original": "New career engine of electronics: Robotics, automation and mechatronics Manufacturing Today India",
-      "published_display": "2026-07-10",
-      "id": "def70b96d67e"
     },
     {
       "category": "robotik",
@@ -410,6 +410,86 @@
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
       "published_display": "2026-05-29",
       "id": "aaa5419645c6"
+    },
+    {
+      "category": "web",
+      "category_label": "Web Tasarimi",
+      "title": "Nisan 2026 Temel aylık özet",
+      "summary": "Nisan 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "url": "https://web.dev/blog/baseline-digest-apr-2026?hl=en",
+      "image_url": null,
+      "source": "web.dev",
+      "published_at": "2026-05-27T07:00:00Z",
+      "tags": [
+        "Web",
+        "Performance",
+        "Frontend"
+      ],
+      "keywords": "Nisan 2026 Temel aylık özet Nisan 2026'da Baseline ile ilgili çeşitli olayları okuyun. April 2026 Baseline monthly digest Read about various happenings with Baseline during April 2026. Web Performance Frontend",
+      "title_original": "April 2026 Baseline monthly digest",
+      "summary_original": "Read about various happenings with Baseline during April 2026.",
+      "published_display": "2026-05-27",
+      "id": "6b855c964fcf"
+    },
+    {
+      "category": "web",
+      "category_label": "Web Tasarimi",
+      "title": "Nisan ayında web platformunda yeni",
+      "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
+      "image_url": null,
+      "source": "web.dev",
+      "published_at": "2026-04-24T07:00:00Z",
+      "tags": [
+        "Web",
+        "Performance",
+        "Frontend"
+      ],
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "title_original": "New to the web platform in April",
+      "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
+      "published_display": "2026-04-24",
+      "id": "bed7d25dddcc"
+    },
+    {
+      "category": "web",
+      "category_label": "Web Tasarimi",
+      "title": "Mart 2026 Temel aylık özet",
+      "summary": "Mart 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "url": "https://web.dev/blog/baseline-digest-mar-2026?hl=en",
+      "image_url": null,
+      "source": "web.dev",
+      "published_at": "2026-04-14T07:00:00Z",
+      "tags": [
+        "Web",
+        "Performance",
+        "Frontend"
+      ],
+      "keywords": "Mart 2026 Temel aylık özet Mart 2026'da Baseline ile ilgili çeşitli olayları okuyun. March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. Web Performance Frontend",
+      "title_original": "March 2026 Baseline monthly digest",
+      "summary_original": "Read about various happenings with Baseline during March 2026.",
+      "published_display": "2026-04-14",
+      "id": "11541f4784e5"
+    },
+    {
+      "category": "web",
+      "category_label": "Web Tasarimi",
+      "title": "MDN'nin yeni arayüzünün altında",
+      "summary": "MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım.",
+      "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/",
+      "image_url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/featured.png",
+      "source": "MDN Blog",
+      "published_at": "2026-04-08T00:00:00Z",
+      "tags": [
+        "Web",
+        "Standards",
+        "Browser"
+      ],
+      "keywords": "MDN'nin yeni arayüzünün altında MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım. Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Web Standards Browser",
+      "title_original": "Under the hood of MDN's new frontend",
+      "summary_original": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
+      "published_display": "2026-04-08",
+      "id": "1c6156ef07a0"
     },
     {
       "category": "siber",
