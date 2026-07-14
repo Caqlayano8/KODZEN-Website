@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "updated_at": "2026-07-13T15:22:09Z",
-  "total_posts": 36,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 6
+    "kamera": 2
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Daha iyi araçlar Copilot kod incelemesini daha da kötüleştirdi. Bunu aslında nasıl iyileştirdiğimizi burada bulabilirsiniz.",
-      "summary": "Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarının çekme isteği kanıtları etrafında yeniden şekillendirilmesiyle inceleme maliyetini nasıl azalttı. Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız...",
+      "summary": "Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarını çekme isteği kanıtları etrafında yeniden şekillendirerek inceleme maliyetini nasıl düşürdü? Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız...",
       "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Daha iyi araçlar Copilot kod incelemesini daha da kötüleştirdi. Bunu aslında nasıl iyileştirdiğimizi burada bulabilirsiniz. Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarının çekme isteği kanıtları etrafında yeniden şekillendirilmesiyle inceleme maliyetini nasıl azalttı. Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız... Better tools made Copilot code review worse. Here’s how we actually improved it. How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp... GitHub Dev Platform",
+      "keywords": "Daha iyi araçlar Copilot kod incelemesini daha da kötüleştirdi. Bunu aslında nasıl iyileştirdiğimizi burada bulabilirsiniz. Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarını çekme isteği kanıtları etrafında yeniden şekillendirerek inceleme maliyetini nasıl düşürdü? Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız... Better tools made Copilot code review worse. Here’s how we actually improved it. How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp... GitHub Dev Platform",
       "title_original": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
       "summary_original": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp...",
       "published_display": "2026-07-10",
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub her depoya nasıl dayanıklı bir sahip verdi?",
-      "summary": "GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz şey şu şekildedir. T...",
+      "summary": "GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz açıklamayı burada bulabilirsiniz. T...",
       "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub her depoya nasıl dayanıklı bir sahip verdi? GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz şey şu şekildedir. T... How GitHub gave every repository a durable owner GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T... GitHub Dev Platform",
+      "keywords": "GitHub her depoya nasıl dayanıklı bir sahip verdi? GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz açıklamayı burada bulabilirsiniz. T... How GitHub gave every repository a durable owner GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T... GitHub Dev Platform",
       "title_original": "How GitHub gave every repository a durable owner",
       "summary_original": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T...",
       "published_display": "2026-07-09",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme",
-      "summary": "Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgeleme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı.",
+      "summary": "Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme isteklerine nasıl dönüştürdüğünü ve sürüm ile belgeler arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı.",
       "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgeleme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı. Automating cross-repo documentation with GitHub Agentic Workflows Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o... GitHub Dev Platform",
+      "keywords": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme isteklerine nasıl dönüştürdüğünü ve sürüm ile belgeler arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı. Automating cross-repo documentation with GitHub Agentic Workflows Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o... GitHub Dev Platform",
       "title_original": "Automating cross-repo documentation with GitHub Agentic Workflows",
       "summary_original": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o...",
       "published_display": "2026-07-08",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği",
-      "summary": "GitHub Copilot Uygulamasına nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı.",
+      "summary": "GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı.",
       "url": "https://devblogs.microsoft.com/blog/lets-learn-github-copilot-app-free-virtual-training-event",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği GitHub Copilot Uygulamasına nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı. Let’s Learn GitHub Copilot App – Free Virtual Training Event Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers . Microsoft Dev Cloud",
+      "keywords": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı. Let’s Learn GitHub Copilot App – Free Virtual Training Event Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers . Microsoft Dev Cloud",
       "title_original": "Let’s Learn GitHub Copilot App – Free Virtual Training Event",
       "summary_original": "Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers .",
       "published_display": "2026-07-08",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Deutsche Telekom telekomünikasyonu yapay zeka ile nasıl yeniden donatıyor?",
-      "summary": "Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zeka yerli bir telekomünikasyon şirketine dönüşüyor?",
+      "summary": "Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zekaya özgü bir telekomünikasyon şirketine dönüşüyor?",
       "url": "https://openai.com/index/deutsche-telekom",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +145,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Deutsche Telekom telekomünikasyonu yapay zeka ile nasıl yeniden donatıyor? Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zeka yerli bir telekomünikasyon şirketine dönüşüyor? How Deutsche Telekom is rewiring telecommunications with AI How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice. AI OpenAI Model",
+      "keywords": "Deutsche Telekom telekomünikasyonu yapay zeka ile nasıl yeniden donatıyor? Deutsche Telekom, OpenAI'yi dönüştüren müşteri hizmetleri, çalışan iş akışları, ağ operasyonları ve sesin geleceği ile nasıl yapay zekaya özgü bir telekomünikasyon şirketine dönüşüyor? How Deutsche Telekom is rewiring telecommunications with AI How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice. AI OpenAI Model",
       "title_original": "How Deutsche Telekom is rewiring telecommunications with AI",
       "summary_original": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "published_display": "2026-07-10",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -494,7 +494,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Precursor ile Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek",
+      "title": "Precursor'la Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek",
       "summary": "Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot algılama sinyallerine dönüştürerek,...",
       "url": "https://blog.cloudflare.com/introducing-precursor/",
       "image_url": null,
@@ -505,11 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Precursor ile Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot algılama sinyallerine dönüştürerek,... Introducing Precursor: detecting agentic behavior with continuous client-side signals Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it id... Cloudflare Security Web",
+      "keywords": "Precursor'la Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot algılama sinyallerine dönüştürerek,... Introducing Precursor: detecting agentic behavior with continuous client-side signals Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it id... Cloudflare Security Web",
       "title_original": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
       "summary_original": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it id...",
       "published_display": "2026-07-13",
-      "id": "623230057b11"
+      "id": "1196ecf58198"
     },
     {
       "category": "siber",
@@ -614,6 +614,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider",
+      "summary": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSnRaVmxYZXEyNWhEYjRZS01ERl9qTFJDOXRaYlNsMUtVWUYxVG9nLTZXVzg5M05zVXNUdmJMazdlUWp0VG5kbmozcjE5ZHFhb20ySVRVN1hTWV9sMENFU0xLOVg5b3JWeGc?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-06-30T10:26:08Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider Top Security Camera Companies Transforming Threat Detection - SNS Insider Top Security Camera Companies Transforming Threat Detection SNS Insider IP Camera Video Surveillance",
+      "title_original": "Top Security Camera Companies Transforming Threat Detection - SNS Insider",
+      "summary_original": "Top Security Camera Companies Transforming Threat Detection SNS Insider",
+      "published_display": "2026-06-30",
+      "id": "6457418f53ed"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 - Pazar Araştırmasının Geleceği",
       "summary": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 Pazar Araştırması Geleceği",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYVMxZjhwdTFmRWRJZ1FWR0pqSzBEU1JqeVg1TUVackF3b0NhcnRuOVFYOGdVdjNMNy0wV21abzF1OWFvZXVuUjJ0THd4ZVpuSVhMekpxWWppMlFDbElxaUdBUVp0UkdwSm9Lcg?oc=5",
@@ -630,106 +650,6 @@
       "summary_original": "CCTV Market Size, Share, Growth Analysis | Forecast 2035 Market Research Future",
       "published_display": "2026-06-22",
       "id": "e22a2ff8fc75"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
-      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-05-18T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
-      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
-      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
-      "published_display": "2026-05-18",
-      "id": "89e9ec78b392"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review",
-      "summary": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0t1RjdWejRoeWZLX1JyaGNlaS1aS0RvZkthWkViVWVwaVFGeHdaU0dOeXJsYTVNN1BKbk5Wakt5U29YTTc2SkJVRngtUF9XZXM0X0FXT1ltMUxNVVNUQmVXTTdPalR6dW9SdDVaOXZnUkVvVWNHVk5OWFZUeFdnb0pUZFIxTU5fb2lRY3BfVGlyTlpld0xWV2JvT1U2akhVWWx3?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-04-02T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review IP Camera Video Surveillance",
-      "title_original": "India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review",
-      "summary_original": "India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review",
-      "published_display": "2026-04-02",
-      "id": "196e24575946"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily",
-      "summary": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUFremVzOGxOX1A2M2pzQTdCaVZDN1ZwcnNidVhpdXRxaEloUUg5UWtUNk1zdm9ZcW9ON3pKNk81VU51Q3VCbHkxU0hNMnNCRDBXNm1HMjEtLU5obTZUVWx2LUVuOVpwWG81R2Q3MXJNVDZ5Yzc1SHdfdGRNXzRrV3NkMUFGb09BUkdnS1Z4NXBMNWZRQ1AyQ2EwYnhZTlhRU21Fd3Z6dnlBdW5LNkttLUVYeE9jWUhxRWc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-25T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily IP Camera Video Surveillance",
-      "title_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily",
-      "summary_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily",
-      "published_display": "2026-03-25",
-      "id": "88b8f95c1622"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International",
-      "summary": "ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-03-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
-      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International",
-      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International",
-      "published_display": "2026-03-11",
-      "id": "d9558ccc7fa2"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-01-29T08:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Güvenlik Açığı Tek Tıklamayla Kurbanın Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
-      "published_display": "2026-01-29",
-      "id": "f4f88664728b"
     }
   ]
 }
