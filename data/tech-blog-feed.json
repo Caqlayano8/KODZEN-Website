@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-07-14T04:01:30Z",
-  "total_posts": 32,
+  "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 2
+    "kamera": 6
   },
   "posts": [
     {
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme",
-      "summary": "Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme isteklerine nasıl dönüştürdüğünü ve sürüm ile belgeler arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı.",
+      "summary": "Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgelendirme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı.",
       "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme isteklerine nasıl dönüştürdüğünü ve sürüm ile belgeler arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı. Automating cross-repo documentation with GitHub Agentic Workflows Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o... GitHub Dev Platform",
+      "keywords": "GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme Aspire ekibinin birleştirilmiş ürün değişikliklerini KOBİ tarafından incelenen belge çekme taleplerine nasıl dönüştürdüğünü ve sürüm ile belgelendirme arasındaki boşluğu nasıl kapattığını keşfedin. İlk olarak GitHub Agentic Workflows ile çapraz repo belgelerini otomatikleştirme yazısı çıktı. Automating cross-repo documentation with GitHub Agentic Workflows Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o... GitHub Dev Platform",
       "title_original": "Automating cross-repo documentation with GitHub Agentic Workflows",
       "summary_original": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o...",
       "published_display": "2026-07-08",
@@ -314,26 +314,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Savvy Robotics: \"Dünyanın biyoimalat için özel olarak tasarlanmış tek robotu ile yapay zeka çağında üretim otomasyonunu ilerletmek\" - 더바이오",
-      "summary": "Savvy Robotics: \"Dünyanın biyolojik üretim için özel olarak tasarlanmış tek robotu ile yapay zeka çağında üretim otomasyonunu ilerletmek\"",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tbjc3ZTY5emp0M1BuVVNUREdoRzE4OUR3QS1VRlFlMVhHNzlYSFVKWDVIOFV0RnNyRGFYYXVuZVFSdFNlZzFQOVEzMlpaQzJnem5fT0lWR0dkSVd2ZGEtSWJmV2xCOFBWTjZCbtIBcEFVX3lxTE51bFVnV0RCZHlfczc2OG9lckJOTFVSdDZoODJvZnhIMTVhODI3bkp6VGxNU3hsSXdtZ2hVNEw5Q2NuVUNpX1ZyN3RBRXFTMkV4cDNkaXo3a3JMbWk0aV9nOW5VZ3ZwMkFMYVgwXzV5ZWI?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-13T10:11:28Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Savvy Robotics: \"Dünyanın biyoimalat için özel olarak tasarlanmış tek robotu ile yapay zeka çağında üretim otomasyonunu ilerletmek\" - 더바이오 Savvy Robotics: \"Dünyanın biyolojik üretim için özel olarak tasarlanmış tek robotu ile yapay zeka çağında üretim otomasyonunu ilerletmek\" Savvy Robotics: “Driving production automation in the AI era with the world’s only robot purpose-built for biomanufacturing” - 더바이오 Savvy Robotics: “Driving production automation in the AI era with the world’s only robot purpose-built for biomanufacturing” 더바이오 Robotics Automation Industry",
-      "title_original": "Savvy Robotics: “Driving production automation in the AI era with the world’s only robot purpose-built for biomanufacturing” - 더바이오",
-      "summary_original": "Savvy Robotics: “Driving production automation in the AI era with the world’s only robot purpose-built for biomanufacturing” 더바이오",
-      "published_display": "2026-07-13",
-      "id": "e0ce41d6ee90"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Savey Robotics, Temiz-Steril Robotlarla Biyo-İmalat Otomasyonunu Hedefliyor - Seul Ekonomik Günlük",
       "summary": "Savey Robotics, Temiz-Steril Robotlarla Biyo-İmalat Otomasyonunu Hedefliyor Seul Ekonomik Günlük",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYndOeElWRWswckJsZGFJU1o2NGtUOGNYVmdINnc5WkhlQlZpeEpRWmx6VnVDVDNvMmg3S0tsVWVpNkVEc1hqUUVEM1pOQk5BVV9zbHJlRnNlQm9pOWgxYzlOQklRaHZNMkdERE1iNDI4cFF1bTNSb1dZamoxUTF1YmptMy1DNW9wTFdUTGNEQU9McktIQXRsWV9TczV1RFk?oc=5",
@@ -370,6 +350,26 @@
       "summary_original": "Global robotics industry joins forces to advocate for common automation strategies IFR International Federation of Robotics",
       "published_display": "2026-07-13",
       "id": "60f0228841c8"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotik Yarışmaları Yeni Nesil Otomasyon Yeteneğine Güç Veriyor - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Robotik Yarışmaları Yeni Nesil Otomasyon Yeteneğine Güç Veriyor A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXg5T3FPWGZta3hrY1hkWmlhQloxUDJLZ2NtUmU4Rl9tdjlWZnNSTWNlX3JsM1pHSWJubi1RM2ZZQlVnQ1hzZDNpdWtRT0l5RTVnOGJIR3ktTjJNNWxtWHRPcEhmMC1NYlUzc0x1WDd6eEJ1aUxESFpSbndCVHZKY3dzYU1vanc5bWNRMGRETF8xMjV0TkpSTUd2amc3RmN5TU5Bb2lDWjZVQkwz?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-07-10T15:04:58Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotik Yarışmaları Yeni Nesil Otomasyon Yeteneğine Güç Veriyor - A3 Otomasyonu Geliştirme Derneği Robotik Yarışmaları Yeni Nesil Otomasyon Yeteneğine Güç Veriyor A3 Otomasyonu Geliştirme Derneği Robotics Competitions Power the Next Generation of Automation Talent - A3 Association for Advancing Automation Robotics Competitions Power the Next Generation of Automation Talent A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Robotics Competitions Power the Next Generation of Automation Talent - A3 Association for Advancing Automation",
+      "summary_original": "Robotics Competitions Power the Next Generation of Automation Talent A3 Association for Advancing Automation",
+      "published_display": "2026-07-10",
+      "id": "250d83094e28"
     },
     {
       "category": "web",
@@ -494,8 +494,8 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Precursor'la Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek",
-      "summary": "Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot algılama sinyallerine dönüştürerek,...",
+      "title": "Precursor ile Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek",
+      "summary": "Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz olan Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot tespit sinyallerine dönüştürerek,...",
       "url": "https://blog.cloudflare.com/introducing-precursor/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -505,11 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Precursor'la Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot algılama sinyallerine dönüştürerek,... Introducing Precursor: detecting agentic behavior with continuous client-side signals Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it id... Cloudflare Security Web",
+      "keywords": "Precursor ile Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz olan Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot tespit sinyallerine dönüştürerek,... Introducing Precursor: detecting agentic behavior with continuous client-side signals Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it id... Cloudflare Security Web",
       "title_original": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
       "summary_original": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it id...",
       "published_display": "2026-07-13",
-      "id": "1196ecf58198"
+      "id": "623230057b11"
     },
     {
       "category": "siber",
@@ -614,26 +614,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider",
-      "summary": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSnRaVmxYZXEyNWhEYjRZS01ERl9qTFJDOXRaYlNsMUtVWUYxVG9nLTZXVzg5M05zVXNUdmJMazdlUWp0VG5kbmozcjE5ZHFhb20ySVRVN1hTWV9sMENFU0xLOVg5b3JWeGc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-06-30T10:26:08Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider Top Security Camera Companies Transforming Threat Detection - SNS Insider Top Security Camera Companies Transforming Threat Detection SNS Insider IP Camera Video Surveillance",
-      "title_original": "Top Security Camera Companies Transforming Threat Detection - SNS Insider",
-      "summary_original": "Top Security Camera Companies Transforming Threat Detection SNS Insider",
-      "published_display": "2026-06-30",
-      "id": "6457418f53ed"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 - Pazar Araştırmasının Geleceği",
       "summary": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 Pazar Araştırması Geleceği",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYVMxZjhwdTFmRWRJZ1FWR0pqSzBEU1JqeVg1TUVackF3b0NhcnRuOVFYOGdVdjNMNy0wV21abzF1OWFvZXVuUjJ0THd4ZVpuSVhMekpxWWppMlFDbElxaUdBUVp0UkdwSm9Lcg?oc=5",
@@ -650,6 +630,106 @@
       "summary_original": "CCTV Market Size, Share, Growth Analysis | Forecast 2035 Market Research Future",
       "published_display": "2026-06-22",
       "id": "e22a2ff8fc75"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye",
+      "summary": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1pOSnlKai1ka3kzazRZT3Y5akZtZXktUVJBU21lS2tpZnNIWTUxRG5WSWV6ZmpqWTRmRy1SWGdBN3p6cUhPOTA0RjI2TVJtSHhZek5sNW12YmcxR19Fb1JhZUVfV3dTcURIU0VsZXdycE54UFFqR0pCVWdOR2FCWkJOcmhCYUNpVlZZMHVUbVRwNnEzVkRqOWp1UDdMRVRudl80WnIwY3bSAa4BQVVfeXFMTnhrenI2N2M1OVhmUktFZnVodW1zN25DTHUtbVZmMTVHcllVM3FEX0ZGVDBWZWJaYnBuZ0hlWkZxQmRTbF8wWWVmOWZrcUFPc0tjdVhDSlBJc3NkS1lOeVdtTkpnTWlGQ1hNWTJ0VmxGeXhPZ0ppT0hUdWotZFRkTTJyRklQOHNZY2JaakpYZlBNT0hlc0JEdFAxWmxrM3NvaGhZby1vVDBIVVlfaUpR?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-05-18T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim - Hans Türkiye HIFOCUS IP Kameralar: Hindistan için Daha Akıllı, Daha Güvenli Gözetim The Hans Turkey HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India IP Camera Video Surveillance",
+      "title_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India - The Hans India",
+      "summary_original": "HIFOCUS IP Cameras: Smarter, Safer Surveillance for India The Hans India",
+      "published_display": "2026-05-18",
+      "id": "89e9ec78b392"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review",
+      "summary": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0t1RjdWejRoeWZLX1JyaGNlaS1aS0RvZkthWkViVWVwaVFGeHdaU0dOeXJsYTVNN1BKbk5Wakt5U29YTTc2SkJVRngtUF9XZXM0X0FXT1ltMUxNVVNUQmVXTTdPalR6dW9SdDVaOXZnUkVvVWNHVk5OWFZUeFdnb0pUZFIxTU5fb2lRY3BfVGlyTlpld0xWV2JvT1U2akhVWWx3?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-04-02T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak - Tibetan Review Hindistan, güvenlik endişeleri nedeniyle Çin CCTV kameralarını etkili bir şekilde yasaklayacak Tibet İncelemesi India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review IP Camera Video Surveillance",
+      "title_original": "India to effectively ban Chinese CCTV cameras due to security concerns - Tibetan Review",
+      "summary_original": "India to effectively ban Chinese CCTV cameras due to security concerns Tibetan Review",
+      "published_display": "2026-04-02",
+      "id": "196e24575946"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily",
+      "summary": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUFremVzOGxOX1A2M2pzQTdCaVZDN1ZwcnNidVhpdXRxaEloUUg5UWtUNk1zdm9ZcW9ON3pKNk81VU51Q3VCbHkxU0hNMnNCRDBXNm1HMjEtLU5obTZUVWx2LUVuOVpwWG81R2Q3MXJNVDZ5Yzc1SHdfdGRNXzRrV3NkMUFGb09BUkdnS1Z4NXBMNWZRQ1AyQ2EwYnhZTlhRU21Fd3Z6dnlBdW5LNkttLUVYeE9jWUhxRWc?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-25T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision'un ihlal edildiğini iddia ediyor - Cyber ​​Daily Özel: Yeni fidye yazılımı, güvenlik kamerası firması Hikvision Cyber ​​Daily'nin ihlal edildiğini iddia ediyor Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily IP Camera Video Surveillance",
+      "title_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision - Cyber Daily",
+      "summary_original": "Exclusive: Ransomware newcomer claims breach of security camera firm Hikvision Cyber Daily",
+      "published_display": "2026-03-25",
+      "id": "88b8f95c1622"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International",
+      "summary": "ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-11T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
+      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International",
+      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International",
+      "published_display": "2026-03-11",
+      "id": "0621fc7000c8"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-01-29T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarında Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
+      "published_display": "2026-01-29",
+      "id": "fcce6214680e"
     }
   ]
 }
