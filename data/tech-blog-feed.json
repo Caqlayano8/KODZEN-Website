@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-14T16:00:00Z",
+  "updated_at": "2026-07-15T12:53:13Z",
   "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Gerçekten işe yarayan AX değerlendirmeleri oluşturma",
+      "summary": "Bu, Ajan Deneyimi (AX) hakkındaki bir serinin sekizinci ve son makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, ajan yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, nasıl ölçülebileceğini kapsar.",
+      "url": "https://devblogs.microsoft.com/blog/building-ax-evals-that-actually-work",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-07-15T12:53:13Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Gerçekten işe yarayan AX değerlendirmeleri oluşturma Bu, Ajan Deneyimi (AX) hakkındaki bir serinin sekizinci ve son makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, ajan yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, nasıl ölçülebileceğini kapsar. Building AX evals that actually work This is the eighth and final article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measur... Microsoft Dev Cloud",
+      "title_original": "Building AX evals that actually work",
+      "summary_original": "This is the eighth and final article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measur...",
+      "published_display": "2026-07-15",
+      "id": "03e2269866b4"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers .",
       "published_display": "2026-07-08",
       "id": "20549b3f438a"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot, GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirir?",
-      "summary": "Tek bir DNS kaydını manuel olarak düzenlemeye gerek kalmadan, yaklaşık 14 dakika içinde boş bir depodan HTTPS ile canlı bir özel etki alanına geçin. GitHub Copilot'un GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirdiği yazısı ilk olarak GitHub Bl...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-08T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub Copilot, GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirir? Tek bir DNS kaydını manuel olarak düzenlemeye gerek kalmadan, yaklaşık 14 dakika içinde boş bir depodan HTTPS ile canlı bir özel etki alanına geçin. GitHub Copilot'un GitHub Sayfaları için sıfır DNS yapılandırmasını nasıl etkinleştirdiği yazısı ilk olarak GitHub Bl... How GitHub Copilot enables zero DNS configuration for GitHub Pages Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Bl... GitHub Dev Platform",
-      "title_original": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-      "summary_original": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Bl...",
-      "published_display": "2026-07-08",
-      "id": "af6f2263306b"
     },
     {
       "category": "ai",
