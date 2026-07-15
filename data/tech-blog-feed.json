@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-15T14:19:58Z",
+  "updated_at": "2026-07-15T17:29:31Z",
   "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni Başlayanlar için GitHub: GitHub'un temel öğelerinde uzmanlaşmaya yönelik yol haritanız",
+      "summary": "GitHub'ta yeni misiniz? Bu başlangıç ​​kılavuzunda sürüm kontrolü, depolar ve çekme isteklerinin yanı sıra GitHub'da güvenle çalışmaya başlamanız için ihtiyacınız olan her şey açıklanmaktadır. Yeni Başlayanlar için GitHub yazısı: GitHub özünde uzmanlaşmaya yönelik yol haritanız...",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-15T17:29:31Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yeni Başlayanlar için GitHub: GitHub'un temel öğelerinde uzmanlaşmaya yönelik yol haritanız GitHub'ta yeni misiniz? Bu başlangıç ​​kılavuzunda sürüm kontrolü, depolar ve çekme isteklerinin yanı sıra GitHub'da güvenle çalışmaya başlamanız için ihtiyacınız olan her şey açıklanmaktadır. Yeni Başlayanlar için GitHub yazısı: GitHub özünde uzmanlaşmaya yönelik yol haritanız... GitHub for Beginners: Your roadmap to mastering the GitHub essentials New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub esse... GitHub Dev Platform",
+      "title_original": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+      "summary_original": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub esse...",
+      "published_display": "2026-07-15",
+      "id": "d507f1ccbb54"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog .",
       "published_display": "2026-07-08",
       "id": "ada2b28ec524"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği",
-      "summary": "GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı.",
-      "url": "https://devblogs.microsoft.com/blog/lets-learn-github-copilot-app-free-virtual-training-event",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-07-08T17:30:28Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "GitHub Copilot Uygulamasını Öğrenelim – Ücretsiz Sanal Eğitim Etkinliği GitHub Copilot Uygulamasını kullanmaya nasıl başlayacağınızı öğrenmek için 16 Temmuz'da başlayacak ücretsiz çevrimiçi etkinlik serisi için bize katılın! Haydi Öğrenelim GitHub Copilot Uygulaması – Ücretsiz Sanal Eğitim Etkinliği yazısı ilk olarak Geliştiriciler için Microsoft'ta yayınlandı. Let’s Learn GitHub Copilot App – Free Virtual Training Event Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers . Microsoft Dev Cloud",
-      "title_original": "Let’s Learn GitHub Copilot App – Free Virtual Training Event",
-      "summary_original": "Join us for a free online event series kicking off July 16 to learn how to get started with the GitHub Copilot App! The post Let’s Learn GitHub Copilot App – Free Virtual Training Event appeared first on Microsoft for Developers .",
-      "published_display": "2026-07-08",
-      "id": "20549b3f438a"
     },
     {
       "category": "ai",
