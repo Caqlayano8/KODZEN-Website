@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-16T23:32:44Z",
+  "updated_at": "2026-07-17T09:27:50Z",
   "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilci becerileri gerçek API'lere başvurmadan nasıl test edilir?",
+      "summary": "Temsilci beceriniz bir API çağırır. Değerlendirmeye başladığınız anda, her çalıştırma ya paraya mal olur ya da üretim verilerini değiştirir. Becerilerinizi değiştirmeden veya gerçek uç noktalara ulaşmadan değerlendirmeleri çalıştırabilmek için API'lerle şeffaf bir şekilde nasıl alay edeceğinizi öğrenin....",
+      "url": "https://devblogs.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-07-17T09:27:50Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilci becerileri gerçek API'lere başvurmadan nasıl test edilir? Temsilci beceriniz bir API çağırır. Değerlendirmeye başladığınız anda, her çalıştırma ya paraya mal olur ya da üretim verilerini değiştirir. Becerilerinizi değiştirmeden veya gerçek uç noktalara ulaşmadan değerlendirmeleri çalıştırabilmek için API'lerle şeffaf bir şekilde nasıl alay edeceğinizi öğrenin.... How to test agent skills without hitting real APIs Your agent skill calls an API. The moment you start evaluating it, every run either costs money or mutates production data. Learn how to mock APIs transparently so you can run evals without changing your skill or hitting real endpoints.... Microsoft Dev Cloud",
+      "title_original": "How to test agent skills without hitting real APIs",
+      "summary_original": "Your agent skill calls an API. The moment you start evaluating it, every run either costs money or mutates production data. Learn how to mock APIs transparently so you can run evals without changing your skill or hitting real endpoints....",
+      "published_display": "2026-07-17",
+      "id": "db5707116da8"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first o...",
       "published_display": "2026-07-08",
       "id": "fc0e86bbe9ee"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub kullanılabilirlik raporu: Haziran 2026",
-      "summary": "Haziran ayında GitHub hizmetlerinde performansın düşmesine neden olan altı olay yaşadık. GitHub kullanılabilirlik raporu: Haziran 2026 ilk olarak The GitHub Blog'da yayınlandı.",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-08T19:35:51Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub kullanılabilirlik raporu: Haziran 2026 Haziran ayında GitHub hizmetlerinde performansın düşmesine neden olan altı olay yaşadık. GitHub kullanılabilirlik raporu: Haziran 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: June 2026 In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub availability report: June 2026",
-      "summary_original": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog .",
-      "published_display": "2026-07-08",
-      "id": "ada2b28ec524"
     },
     {
       "category": "ai",
