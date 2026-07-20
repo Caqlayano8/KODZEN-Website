@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-20T12:39:51Z",
+  "updated_at": "2026-07-20T16:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Açık kaynak için 100 milyon dolar: Topluluk tarafından oluşturulan bir kilometre taşı",
+      "summary": "Topluluğun her gün açık kaynak oluşturan ve sürdüren insanlara sağladığı 100 milyon doları kutluyoruz. Açık kaynak için 100 milyon dolarlık gönderi: Topluluk tarafından oluşturulan bir kilometre taşı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-20T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Açık kaynak için 100 milyon dolar: Topluluk tarafından oluşturulan bir kilometre taşı Topluluğun her gün açık kaynak oluşturan ve sürdüren insanlara sağladığı 100 milyon doları kutluyoruz. Açık kaynak için 100 milyon dolarlık gönderi: Topluluk tarafından oluşturulan bir kilometre taşı ilk olarak GitHub Blogunda göründü. $100 million for open source: A milestone built by the community Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "$100 million for open source: A milestone built by the community",
+      "summary_original": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .",
+      "published_display": "2026-07-20",
+      "id": "f897ae3a7a51"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp...",
       "published_display": "2026-07-10",
       "id": "55ed50461b48"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub her depoya nasıl dayanıklı bir sahip verdi?",
-      "summary": "GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz şey şu şekildedir. T...",
-      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-09T16:29:37Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub her depoya nasıl dayanıklı bir sahip verdi? GitHub'un 14.000'den fazla deposu vardı. Yarıdan azının net mülkiyeti vardı. Her aktif veri havuzuna 45 günden kısa bir sürede doğrulanmış bir sahip verdiğimiz, geri kalanını arşivlediğimiz ve sahipliği sonraki her şeyin temeli haline getirdiğimiz şey şu şekildedir. T... How GitHub gave every repository a durable owner GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T... GitHub Dev Platform",
-      "title_original": "How GitHub gave every repository a durable owner",
-      "summary_original": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. T...",
-      "published_display": "2026-07-09",
-      "id": "b3b672c5609f"
     },
     {
       "category": "ai",
@@ -354,22 +354,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Otomasyon Pazarında Üretken Yapay Zekanın Hızlı Büyümesini Keşfetmek: Trendlere ve Öngörülere Derin Bir Bakış - Yahoo Finance",
-      "summary": "Otomasyon Pazarında Üretken Yapay Zekanın Hızlı Büyümesini Keşfetmek: Trendlere ve Öngörülere Derin Bir Bakış Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbnBuZzQwRUZFblliR3ItdUd6Ty1oaWlpU3VCelMyYnF2RUUxYm1xZFllV3U1WU9KSTZVQXlrbWxXY1RTdDFoV0MwYXFhTDJCWFZGV3lfOFZ1UDF1NUp6Um92ZWZSYnB6TnByUGN5a0lVb1A0RmxkelJUc3FUeUZDSmhwOXhpZ3BpM1AtWno2NDNoV044ZXQyNXdRR1VQTC1IblE?oc=5",
+      "title": "Robotik Sektörü 'Büyüme Patlamasına Hazır' - Packaging World",
+      "summary": "Robotik Sektörü 'Büyüme Patlamasına Hazır' Ambalaj Dünyası",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmJOZWpibERJUlY3WE1HR3R3RktPNmp1ZXpUUU9XZmlKNF9jQ3QyRExwNFVkcDJGRTBBNmNXOEU2RzA4cU1yeWNlN0h6dnpfUkt3NGxyeVVQVHNjeUphcGdYTDR0dGg4bWFOYWFLSC1jT1NNYkpxU1Bfc2NmcXVwbjJ0ZlJ0VHJOalo2cS13TXFYenI1VFh4cFRYTUQ1ZnRwMGY2OG9kUGxHNnVNQktsLWlvb0Jad3Z6UVJVaGZn?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-07-13T08:03:00Z",
+      "published_at": "2026-07-09T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Otomasyon Pazarında Üretken Yapay Zekanın Hızlı Büyümesini Keşfetmek: Trendlere ve Öngörülere Derin Bir Bakış - Yahoo Finance Otomasyon Pazarında Üretken Yapay Zekanın Hızlı Büyümesini Keşfetmek: Trendlere ve Öngörülere Derin Bir Bakış Yahoo Finance Exploring the Rapid Growth of the Generative AI in Automation Market: A Deep Dive into Trends and Projections - Yahoo Finance Exploring the Rapid Growth of the Generative AI in Automation Market: A Deep Dive into Trends and Projections Yahoo Finance Robotics Automation Industry",
-      "title_original": "Exploring the Rapid Growth of the Generative AI in Automation Market: A Deep Dive into Trends and Projections - Yahoo Finance",
-      "summary_original": "Exploring the Rapid Growth of the Generative AI in Automation Market: A Deep Dive into Trends and Projections Yahoo Finance",
-      "published_display": "2026-07-13",
-      "id": "b4c1481ef8f6"
+      "keywords": "Robotik Sektörü 'Büyüme Patlamasına Hazır' - Packaging World Robotik Sektörü 'Büyüme Patlamasına Hazır' Ambalaj Dünyası Robotics Industry ‘Poised for an Explosion of Growth’ - Packaging World Robotics Industry ‘Poised for an Explosion of Growth’ Packaging World Robotics Automation Industry",
+      "title_original": "Robotics Industry ‘Poised for an Explosion of Growth’ - Packaging World",
+      "summary_original": "Robotics Industry ‘Poised for an Explosion of Growth’ Packaging World",
+      "published_display": "2026-07-09",
+      "id": "3122c0f3b120"
     },
     {
       "category": "web",
