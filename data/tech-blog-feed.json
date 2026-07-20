@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Uzun ufuklu modeller çağında güvenlik ve uyum",
+      "summary": "OpenAI, uzun süredir devam eden yapay zeka modellerinin dağıtımından alınan dersleri paylaşıyor, yeni güvenlik risklerini, gözlemlenen hataları ve yinelemeli dağıtım yoluyla iyileştirilmiş korumaları vurguluyor.",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-20T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Uzun ufuklu modeller çağında güvenlik ve uyum OpenAI, uzun süredir devam eden yapay zeka modellerinin dağıtımından alınan dersleri paylaşıyor, yeni güvenlik risklerini, gözlemlenen hataları ve yinelemeli dağıtım yoluyla iyileştirilmiş korumaları vurguluyor. Safety and alignment in an era of long-horizon models OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment. AI OpenAI Model",
+      "title_original": "Safety and alignment in an era of long-horizon models",
+      "summary_original": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "published_display": "2026-07-20",
+      "id": "3d1e4b5040cf"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Yapay zeka çağına yönelik bir puan kartı",
       "summary": "OpenAI CFO'su Sarah Friar, faydalı çalışma, başarılı görev başına maliyet, güvenilirlik ve bilgi işlem getirisi yoluyla yatırım getirisini ölçmek için pratik bir AI puan kartını tanıtıyor.",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -230,26 +250,6 @@
       "summary_original": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "published_display": "2026-07-16",
       "id": "8a205c822350"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yayılma modellerinin yaratıcılığını açığa çıkarmaya doğru",
-      "summary": "Algoritmalar ve Teori",
-      "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-1.gif",
-      "source": "Google Research Blog",
-      "published_at": "2026-07-15T18:06:00Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Yayılma modellerinin yaratıcılığını açığa çıkarmaya doğru Algoritmalar ve Teori Towards demystifying the creativity of diffusion models Algorithms & Theory AI Research Google",
-      "title_original": "Towards demystifying the creativity of diffusion models",
-      "summary_original": "Algorithms & Theory",
-      "published_display": "2026-07-15",
-      "id": "d9c73b22fbdb"
     },
     {
       "category": "robotik",
@@ -494,66 +494,6 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Precursor ile Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek",
-      "summary": "Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot tespit sinyallerine dönüştürerek,...",
-      "url": "https://blog.cloudflare.com/introducing-precursor/",
-      "image_url": null,
-      "source": "Cloudflare Security",
-      "published_at": "2026-07-13T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Precursor ile Tanışın: sürekli istemci tarafı sinyalleriyle ajan davranışını tespit etmek Bot yönetimi için yeni sürekli davranışsal doğrulama motorumuz Precursor, tüm kullanıcı yolculuğu boyunca insanların ve botların gerçekte nasıl etkileşime girdiğine dair görünürlük sunar. Oturum düzeyindeki davranışı bot tespit sinyallerine dönüştürerek,... Introducing Precursor: detecting agentic behavior with continuous client-side signals Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it id... Cloudflare Security Web",
-      "title_original": "Introducing Precursor: detecting agentic behavior with continuous client-side signals",
-      "summary_original": "Precursor, our new continuous behavioral validation engine for bot management, offers visibility into how humans and bots actually interact across the full user journey. By turning session-level behavior into bot detection signals, it id...",
-      "published_display": "2026-07-13",
-      "id": "623230057b11"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz?",
-      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
-      "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
-      "image_url": null,
-      "source": "Cloudflare Security",
-      "published_at": "2026-07-09T14:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
-      "title_original": "Why we cannot wait for better post-quantum signature algorithms",
-      "summary_original": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-...",
-      "published_display": "2026-07-09",
-      "id": "3190b5cc5cbb"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Cloudflare, Birleşik Krallık hükümetinin Siber Dayanıklılık Taahhüdüne gururla katılıyor",
-      "summary": "Taahhüt, kuruluşları temel siber güvenlik yönetişimi, yönetim kurulu düzeyinde hesap verebilirlik ve tedarik zinciri titizliği taahhüt etmeye davet eden gönüllü bir çerçevedir. On yılı aşkın süredir Cloudflare bu çerçevenin temel direklerine öncülük ediyor...",
-      "url": "https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/",
-      "image_url": null,
-      "source": "Cloudflare Security",
-      "published_at": "2026-07-07T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Cloudflare, Birleşik Krallık hükümetinin Siber Dayanıklılık Taahhüdüne gururla katılıyor Taahhüt, kuruluşları temel siber güvenlik yönetişimi, yönetim kurulu düzeyinde hesap verebilirlik ve tedarik zinciri titizliği taahhüt etmeye davet eden gönüllü bir çerçevedir. On yılı aşkın süredir Cloudflare bu çerçevenin temel direklerine öncülük ediyor... Cloudflare proudly joins the UK government's Cyber Resilience Pledge The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this fram... Cloudflare Security Web",
-      "title_original": "Cloudflare proudly joins the UK government's Cyber Resilience Pledge",
-      "summary_original": "The pledge is a voluntary framework inviting organizations to commit to foundational cyber security governance, board-level accountability, and supply chain rigor. For over a decade, Cloudflare has pioneered the core pillars of this fram...",
-      "published_display": "2026-07-07",
-      "id": "0bcb1545ac93"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
       "title": "Attribution Business Insights ile taramaların maskesini kaldırma",
       "summary": "Cloudflare'in yeni Attribution Business Insights kontrol paneli, web sitesi sahiplerinin tarayıcı davranışını, iştahını ve potansiyel değerini anlamalarına yardımcı olarak tarama ücretiyle ilgili iş düzeyindeki görüşmeleri teşvik eder.",
       "url": "https://blog.cloudflare.com/attribution-business-insights/",
@@ -610,6 +550,66 @@
       "summary_original": "The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry.",
       "published_display": "2026-06-23",
       "id": "fff29f8bde5c"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Kendi güvenlik açığı koşumunuzu oluşturun",
+      "summary": "Çok aşamalı güvenlik açığı keşif donanımımızın ve otomatik önceliklendirme döngümüzün arkasındaki teknik mimariyi parçalara ayırıyoruz. Durum kontrollerini nasıl yönettiğimizi, çekişmeli inceleme yoluyla yanlış pozitifleri nasıl ortadan kaldırdığımızı ve LLM bağlamını nasıl yönlendirdiğimizi öğrenin...",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-06-18T17:59:40Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Kendi güvenlik açığı koşumunuzu oluşturun Çok aşamalı güvenlik açığı keşif donanımımızın ve otomatik önceliklendirme döngümüzün arkasındaki teknik mimariyi parçalara ayırıyoruz. Durum kontrollerini nasıl yönettiğimizi, çekişmeli inceleme yoluyla yanlış pozitifleri nasıl ortadan kaldırdığımızı ve LLM bağlamını nasıl yönlendirdiğimizi öğrenin... Build your own vulnerability harness We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex... Cloudflare Security Web",
+      "title_original": "Build your own vulnerability harness",
+      "summary_original": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex...",
+      "published_display": "2026-06-18",
+      "id": "b8ae76a3b4f9"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
+      "url": "https://blog.cloudflare.com/frontier-model-defense/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-06-09T06:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
+      "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
+      "published_display": "2026-06-09",
+      "id": "55bfd5ae49b2"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Cloudflare'in tehdit göstergelerini gerçek zamanlı WAF kurallarına dönüştürme",
+      "summary": "Cloudflare müşterileri artık yüksek riskli trafiği engellemek için Cloudforce One tehdit istihbaratını doğrudan WAF içerisinde kullanabilir. Güvenlik ekipleri, yeni cf.intel alanlarını kullanarak belirli tehdit aktörlerine ve hedeflenen sektörlere karşı korumayı otomatikleştirebiliyor.",
+      "url": "https://blog.cloudflare.com/realtime-threat-intel-waf-rules/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-06-08T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Cloudflare'in tehdit göstergelerini gerçek zamanlı WAF kurallarına dönüştürme Cloudflare müşterileri artık yüksek riskli trafiği engellemek için Cloudforce One tehdit istihbaratını doğrudan WAF içerisinde kullanabilir. Güvenlik ekipleri, yeni cf.intel alanlarını kullanarak belirli tehdit aktörlerine ve hedeflenen sektörlere karşı korumayı otomatikleştirebiliyor. Turning Cloudflare’s threat indicators into real-time WAF rules Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted indu... Cloudflare Security Web",
+      "title_original": "Turning Cloudflare’s threat indicators into real-time WAF rules",
+      "summary_original": "Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. By using new cf.intel fields, security teams can automate protection against specific threat actors and targeted indu...",
+      "published_display": "2026-06-08",
+      "id": "c350c7aade00"
     },
     {
       "category": "kamera",
