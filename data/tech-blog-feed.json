@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-21T07:15:12Z",
+  "updated_at": "2026-07-21T16:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Tuvallerle etkileşimli deneyimler nasıl oluşturulur?",
+      "summary": "Kanvaslar, yapay zekayı bilgileri görselleştirebileceğiniz, iş akışlarını keşfedebileceğiniz ve karmaşık görevlerde harekete geçebileceğiniz etkileşimli çalışma alanlarına dönüştürür. Tuvallerle etkileşimli deneyimler nasıl oluşturulur yazısı ilk olarak GitHub Blogunda yayınlandı.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-21T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Tuvallerle etkileşimli deneyimler nasıl oluşturulur? Kanvaslar, yapay zekayı bilgileri görselleştirebileceğiniz, iş akışlarını keşfedebileceğiniz ve karmaşık görevlerde harekete geçebileceğiniz etkileşimli çalışma alanlarına dönüştürür. Tuvallerle etkileşimli deneyimler nasıl oluşturulur yazısı ilk olarak GitHub Blogunda yayınlandı. How to build interactive experiences with canvases Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "How to build interactive experiences with canvases",
+      "summary_original": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog .",
+      "published_display": "2026-07-21",
+      "id": "28176d3c8c79"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub esse...",
       "published_display": "2026-07-15",
       "id": "d507f1ccbb54"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Gerçekten işe yarayan AX değerlendirmeleri oluşturma",
-      "summary": "Bu, Ajan Deneyimi (AX) hakkındaki bir serinin sekizinci ve son makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, ajan yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, nasıl ölçülebileceğini kapsar.",
-      "url": "https://devblogs.microsoft.com/blog/building-ax-evals-that-actually-work/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-07-15T12:53:13Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Gerçekten işe yarayan AX değerlendirmeleri oluşturma Bu, Ajan Deneyimi (AX) hakkındaki bir serinin sekizinci ve son makalesidir: AI kodlama aracılarının teknolojinizle doğru şekilde çalışmasını sağlama uygulaması. Bu seri, ajan yığınında neyi kontrol edebileceğinizi ve neyi kontrol edemeyeceğinizi, nasıl ölçülebileceğini kapsar. Building AX evals that actually work This is the eighth and final article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measur... Microsoft Dev Cloud",
-      "title_original": "Building AX evals that actually work",
-      "summary_original": "This is the eighth and final article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measur...",
-      "published_display": "2026-07-15",
-      "id": "857b7daa51c3"
     },
     {
       "category": "ai",
