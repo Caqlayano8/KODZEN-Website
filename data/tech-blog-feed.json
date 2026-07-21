@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-20T23:42:25Z",
+  "updated_at": "2026-07-21T07:15:12Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim?",
+      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
+      "url": "https://devblogs.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-07-21T07:15:12Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
+      "title_original": "How to test agent experience changes without shipping them",
+      "summary_original": "Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali...",
+      "published_display": "2026-07-21",
+      "id": "8a1a9f562753"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "This is the eighth and final article in a series about Agent Experience (AX): the practice of making AI coding agents work correctly with your technology. The series covers what you can and can’t control in the agent stack, how to measur...",
       "published_display": "2026-07-15",
       "id": "857b7daa51c3"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Daha iyi araçlar Copilot kod incelemesini daha da kötüleştirdi. Bunu aslında nasıl iyileştirdiğimizi burada bulabilirsiniz.",
-      "summary": "Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarını çekme isteği kanıtları etrafında yeniden şekillendirerek inceleme maliyetini nasıl düşürdü? Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-10T15:57:47Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Daha iyi araçlar Copilot kod incelemesini daha da kötüleştirdi. Bunu aslında nasıl iyileştirdiğimizi burada bulabilirsiniz. Copilot kod incelemesinin paylaşılan Unix tarzı kod araştırma araçlarına taşınması, aracı iş akışlarını çekme isteği kanıtları etrafında yeniden şekillendirerek inceleme maliyetini nasıl düşürdü? Daha iyi araçlar yazısı, Copilot kod incelemesini daha da kötüleştirdi. İşte aslında nasıl etki yarattığımız... Better tools made Copilot code review worse. Here’s how we actually improved it. How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp... GitHub Dev Platform",
-      "title_original": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
-      "summary_original": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually imp...",
-      "published_display": "2026-07-10",
-      "id": "55ed50461b48"
     },
     {
       "category": "ai",
