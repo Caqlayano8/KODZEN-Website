@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-22T16:00:00Z",
+  "updated_at": "2026-07-22T18:40:21Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim?",
-      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
+      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
       "url": "https://devblogs.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
+      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
       "title_original": "How to test agent experience changes without shipping them",
       "summary_original": "Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali...",
       "published_display": "2026-07-21",
@@ -134,8 +134,28 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Hatalarından ders alan bir kuantum bilgisayara doğru",
+      "summary": "Makine Zekası",
+      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-07-22T18:40:21Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "Hatalarından ders alan bir kuantum bilgisayara doğru Makine Zekası Towards a quantum computer that learns from its errors Machine Intelligence AI Research Google",
+      "title_original": "Towards a quantum computer that learns from its errors",
+      "summary_original": "Machine Intelligence",
+      "published_display": "2026-07-22",
+      "id": "d47848adc8b2"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma",
-      "summary": "OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
+      "summary": "OpenAI, sorumlu enerji, toplumsal yatırım, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
+      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, toplumsal yatırım, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
       "title_original": "Building AI infrastructure with the Effingham County community",
       "summary_original": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "published_display": "2026-07-22",
@@ -175,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Ulusal bilimin bir sonraki çağını ilerletmek",
-      "summary": "OpenAI, keşifleri hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir.",
+      "summary": "OpenAI, keşfi hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir.",
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Ulusal bilimin bir sonraki çağını ilerletmek OpenAI, keşifleri hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir. Advancing the next era of national science OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery. AI OpenAI Model",
+      "keywords": "Ulusal bilimin bir sonraki çağını ilerletmek OpenAI, keşfi hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir. Advancing the next era of national science OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery. AI OpenAI Model",
       "title_original": "Advancing the next era of national science",
       "summary_original": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "published_display": "2026-07-22",
@@ -215,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Küçük işletme programına yönelik ChatGPT ile tanışın",
-      "summary": "OpenAI, Girişimcilerin Yapay Zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı.",
+      "summary": "OpenAI, girişimcilerin yapay zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,31 +245,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Küçük işletme programına yönelik ChatGPT ile tanışın OpenAI, Girişimcilerin Yapay Zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı. Introducing the ChatGPT for small business program OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work. AI OpenAI Model",
+      "keywords": "Küçük işletme programına yönelik ChatGPT ile tanışın OpenAI, girişimcilerin yapay zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı. Introducing the ChatGPT for small business program OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work. AI OpenAI Model",
       "title_original": "Introducing the ChatGPT for small business program",
       "summary_original": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "published_display": "2026-07-21",
       "id": "ceccace4f949"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Model değerlendirmesi sırasında güvenlik sorununu ele almak için OpenAI ve Hugging Face iş birliği yapıyor",
-      "summary": "OpenAI ve Hugging Face, yapay zeka modeli değerlendirmesi sırasında bir güvenlik olayından elde edilen ilk bulguları paylaşarak gelişmiş siber yetenekleri ve savunucular için dersleri vurguluyor.",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-21T07:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Model değerlendirmesi sırasında güvenlik sorununu ele almak için OpenAI ve Hugging Face iş birliği yapıyor OpenAI ve Hugging Face, yapay zeka modeli değerlendirmesi sırasında bir güvenlik olayından elde edilen ilk bulguları paylaşarak gelişmiş siber yetenekleri ve savunucular için dersleri vurguluyor. OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders. AI OpenAI Model",
-      "title_original": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "summary_original": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-      "published_display": "2026-07-21",
-      "id": "2bcfcb576027"
     },
     {
       "category": "robotik",
@@ -594,7 +594,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -605,11 +605,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
+      "id": "ee48359b34f2"
     },
     {
       "category": "kamera",
@@ -635,7 +635,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme",
-      "summary": "Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
+      "summary": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzk2b19qRUl0bkdUdkFUZ0psd1pzUlJ6a2M1Y3lPbWVGaHZuTTBrRmI2bnRlZFZIV0VaVXhSTWVvN1daX0otSHhwRmFqYkF3U2s3RExZMFpzc2FvMGRwcjNJWElmTnlpSFBpS2pPNTVDZ3dMc3BHNEQ0bXp3NG9XME1ZdzBWOFJaN0hVb1JXQ3RKSVBPN2dPWUQyby1MUUZHVnQyMTlucThZUmct?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,7 +645,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
+      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
       "title_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch",
       "summary_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch",
       "published_display": "2026-07-20",
