@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-21T17:44:23Z",
+  "updated_at": "2026-07-22T13:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma",
+      "summary": "OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-22T13:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
+      "title_original": "Building AI infrastructure with the Effingham County community",
+      "summary_original": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "published_display": "2026-07-22",
+      "id": "a1fa6b46225f"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI Varlığıyla Tanışın",
+      "summary": "Kuruluşların müşteri ve dahili iş akışları için güvenilir ses ve sohbet aracılarını dağıtmasına yardımcı olan kanıtlanmış bir kurumsal yapay zeka aracı platformu olan OpenAI Presence ile tanışın.",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-22T05:30:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "OpenAI Varlığıyla Tanışın Kuruluşların müşteri ve dahili iş akışları için güvenilir ses ve sohbet aracılarını dağıtmasına yardımcı olan kanıtlanmış bir kurumsal yapay zeka aracı platformu olan OpenAI Presence ile tanışın. Introducing OpenAI Presence Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows. AI OpenAI Model",
+      "title_original": "Introducing OpenAI Presence",
+      "summary_original": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "published_display": "2026-07-22",
+      "id": "74276632e065"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Küçük işletme programına yönelik ChatGPT ile tanışın",
       "summary": "OpenAI, Girişimcilerin Yapay Zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -210,46 +250,6 @@
       "summary_original": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "published_display": "2026-07-20",
       "id": "3d1e4b5040cf"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yapay zeka çağına yönelik bir puan kartı",
-      "summary": "OpenAI CFO'su Sarah Friar, faydalı çalışma, başarılı görev başına maliyet, güvenilirlik ve bilgi işlem getirisi yoluyla yatırım getirisini ölçmek için pratik bir AI puan kartını tanıtıyor.",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-17T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Yapay zeka çağına yönelik bir puan kartı OpenAI CFO'su Sarah Friar, faydalı çalışma, başarılı görev başına maliyet, güvenilirlik ve bilgi işlem getirisi yoluyla yatırım getirisini ölçmek için pratik bir AI puan kartını tanıtıyor. A scorecard for the AI age Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute. AI OpenAI Model",
-      "title_original": "A scorecard for the AI age",
-      "summary_original": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "published_display": "2026-07-17",
-      "id": "5ed6dcc2ffa3"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Gençler neden güvenli yapay zekaya erişimi hak ediyor?",
-      "summary": "OpenAI'nin yaşa uygun korumalar, öğrenme araçları, ebeveyn denetimleri ve uzman ortaklıklarıyla ChatGPT'yi gençler için nasıl daha güvenli hale getirdiğini öğrenin.",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-16T16:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Gençler neden güvenli yapay zekaya erişimi hak ediyor? OpenAI'nin yaşa uygun korumalar, öğrenme araçları, ebeveyn denetimleri ve uzman ortaklıklarıyla ChatGPT'yi gençler için nasıl daha güvenli hale getirdiğini öğrenin. Why teens deserve access to safe AI Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships. AI OpenAI Model",
-      "title_original": "Why teens deserve access to safe AI",
-      "summary_original": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "published_display": "2026-07-16",
-      "id": "9137e21db1b4"
     },
     {
       "category": "robotik",
