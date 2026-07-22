@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-22T18:40:21Z",
+  "updated_at": "2026-07-22T19:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yardımcı pilot ve ham API erişimi: Gerçekte ne için para ödüyorsunuz?",
+      "summary": "Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak The GitHub Bl'de göründü...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-22T19:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yardımcı pilot ve ham API erişimi: Gerçekte ne için para ödüyorsunuz? Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak The GitHub Bl'de göründü... Copilot vs. raw API access: What are you actually paying for? Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl... GitHub Dev Platform",
+      "title_original": "Copilot vs. raw API access: What are you actually paying for?",
+      "summary_original": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl...",
+      "published_display": "2026-07-22",
+      "id": "2e84b213d627"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim?",
-      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
+      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
       "url": "https://devblogs.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +85,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
+      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
       "title_original": "How to test agent experience changes without shipping them",
       "summary_original": "Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali...",
       "published_display": "2026-07-21",
@@ -112,26 +132,6 @@
       "id": "a14d446bdd84"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Temsilci becerileri gerçek API'lere başvurmadan nasıl test edilir?",
-      "summary": "Temsilci beceriniz bir API çağırır. Değerlendirmeye başladığınız anda, her çalıştırma ya paraya mal olur ya da üretim verilerini değiştirir. Becerilerinizi değiştirmeden veya gerçek uç noktalara ulaşmadan değerlendirmeleri çalıştırabilmek için API'lerle şeffaf bir şekilde nasıl alay edeceğinizi öğrenin....",
-      "url": "https://devblogs.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-07-17T09:27:50Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Temsilci becerileri gerçek API'lere başvurmadan nasıl test edilir? Temsilci beceriniz bir API çağırır. Değerlendirmeye başladığınız anda, her çalıştırma ya paraya mal olur ya da üretim verilerini değiştirir. Becerilerinizi değiştirmeden veya gerçek uç noktalara ulaşmadan değerlendirmeleri çalıştırabilmek için API'lerle şeffaf bir şekilde nasıl alay edeceğinizi öğrenin.... How to test agent skills without hitting real APIs Your agent skill calls an API. The moment you start evaluating it, every run either costs money or mutates production data. Learn how to mock APIs transparently so you can run evals without changing your skill or hitting real endpoints.... Microsoft Dev Cloud",
-      "title_original": "How to test agent skills without hitting real APIs",
-      "summary_original": "Your agent skill calls an API. The moment you start evaluating it, every run either costs money or mutates production data. Learn how to mock APIs transparently so you can run evals without changing your skill or hitting real endpoints....",
-      "published_display": "2026-07-17",
-      "id": "db5707116da8"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Hatalarından ders alan bir kuantum bilgisayara doğru",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma",
-      "summary": "OpenAI, sorumlu enerji, toplumsal yatırım, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
+      "summary": "OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, toplumsal yatırım, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
+      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
       "title_original": "Building AI infrastructure with the Effingham County community",
       "summary_original": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "published_display": "2026-07-22",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Ulusal bilimin bir sonraki çağını ilerletmek",
-      "summary": "OpenAI, keşfi hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir.",
+      "summary": "OpenAI, keşifleri hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir.",
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Ulusal bilimin bir sonraki çağını ilerletmek OpenAI, keşfi hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir. Advancing the next era of national science OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery. AI OpenAI Model",
+      "keywords": "Ulusal bilimin bir sonraki çağını ilerletmek OpenAI, keşifleri hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir. Advancing the next era of national science OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery. AI OpenAI Model",
       "title_original": "Advancing the next era of national science",
       "summary_original": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "published_display": "2026-07-22",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Küçük işletme programına yönelik ChatGPT ile tanışın",
-      "summary": "OpenAI, girişimcilerin yapay zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı.",
+      "summary": "OpenAI, Girişimcilerin Yapay Zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,7 +245,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Küçük işletme programına yönelik ChatGPT ile tanışın OpenAI, girişimcilerin yapay zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı. Introducing the ChatGPT for small business program OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work. AI OpenAI Model",
+      "keywords": "Küçük işletme programına yönelik ChatGPT ile tanışın OpenAI, Girişimcilerin Yapay Zeka becerileri geliştirmesine, işi otomatikleştirmesine ve ChatGPT Work ile büyümesine yardımcı olan Küçük İşletmeler için ChatGPT programını başlattı. Introducing the ChatGPT for small business program OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work. AI OpenAI Model",
       "title_original": "Introducing the ChatGPT for small business program",
       "summary_original": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "published_display": "2026-07-21",
@@ -594,7 +594,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -605,11 +605,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "ee48359b34f2"
+      "id": "55bfd5ae49b2"
     },
     {
       "category": "kamera",
@@ -635,7 +635,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme",
-      "summary": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
+      "summary": "Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzk2b19qRUl0bkdUdkFUZ0psd1pzUlJ6a2M1Y3lPbWVGaHZuTTBrRmI2bnRlZFZIV0VaVXhSTWVvN1daX0otSHhwRmFqYkF3U2s3RExZMFpzc2FvMGRwcjNJWElmTnlpSFBpS2pPNTVDZ3dMc3BHNEQ0bXp3NG9XME1ZdzBWOFJaN0hVb1JXQ3RKSVBPN2dPWUQyby1MUUZHVnQyMTlucThZUmct?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,7 +645,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
+      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
       "title_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch",
       "summary_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch",
       "published_display": "2026-07-20",
