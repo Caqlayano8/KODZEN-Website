@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-22T19:00:00Z",
+  "updated_at": "2026-07-22T21:32:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "SymptomAI: Günlük semptom değerlendirmesi için konuşkan bir yapay zeka aracısına doğru",
+      "summary": "Genel Bilim",
+      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-07-22T21:32:00Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "SymptomAI: Günlük semptom değerlendirmesi için konuşkan bir yapay zeka aracısına doğru Genel Bilim SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science AI Research Google",
+      "title_original": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
+      "summary_original": "General Science",
+      "published_display": "2026-07-22",
+      "id": "8a28ca590b0d"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Hatalarından ders alan bir kuantum bilgisayara doğru",
       "summary": "Makine Zekası",
       "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "published_display": "2026-07-22",
       "id": "ad1a9b0cc2e5"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI Varlığıyla Tanışın",
-      "summary": "Kuruluşların müşteri ve dahili iş akışları için güvenilir ses ve sohbet aracılarını dağıtmasına yardımcı olan kanıtlanmış bir kurumsal yapay zeka aracı platformu olan OpenAI Presence ile tanışın.",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-22T05:30:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI Varlığıyla Tanışın Kuruluşların müşteri ve dahili iş akışları için güvenilir ses ve sohbet aracılarını dağıtmasına yardımcı olan kanıtlanmış bir kurumsal yapay zeka aracı platformu olan OpenAI Presence ile tanışın. Introducing OpenAI Presence Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows. AI OpenAI Model",
-      "title_original": "Introducing OpenAI Presence",
-      "summary_original": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "published_display": "2026-07-22",
-      "id": "74276632e065"
     },
     {
       "category": "robotik",
