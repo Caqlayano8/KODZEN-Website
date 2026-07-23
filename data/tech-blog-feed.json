@@ -14,7 +14,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi",
+      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmak İçin Pratik Bir Canlı Yayın Serisi",
       "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
       "url": "https://devblogs.microsoft.com/blog/the-microsoft-365-copilot-agents-playbook-a-practical-livestream-series-for-building-better-agents/",
       "image_url": null,
@@ -25,11 +25,11 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
+      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmak İçin Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
       "title_original": "The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents",
       "summary_original": "Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo...",
       "published_display": "2026-07-23",
-      "id": "73f8dd9d09c0"
+      "id": "3cc55a9225e1"
     },
     {
       "category": "yazilim",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim?",
-      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
+      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
       "url": "https://devblogs.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -125,7 +125,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
+      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
       "title_original": "How to test agent experience changes without shipping them",
       "summary_original": "Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali...",
       "published_display": "2026-07-21",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT'de Sağlığı Başlatma",
-      "summary": "ChatGPT'deki Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtlara ve Apple Health'e güvenli bir şekilde bağlanmasını sağlıyor.",
+      "summary": "ChatGPT'de Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtları ve Apple Health'i güvenli bir şekilde bağlamasına olanak tanıyor.",
       "url": "https://openai.com/index/health-in-chatgpt",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +145,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT'de Sağlığı Başlatma ChatGPT'deki Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtlara ve Apple Health'e güvenli bir şekilde bağlanmasını sağlıyor. Launching Health in ChatGPT Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health. AI OpenAI Model",
+      "keywords": "ChatGPT'de Sağlığı Başlatma ChatGPT'de Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtları ve Apple Health'i güvenli bir şekilde bağlamasına olanak tanıyor. Launching Health in ChatGPT Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health. AI OpenAI Model",
       "title_original": "Launching Health in ChatGPT",
       "summary_original": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "published_display": "2026-07-23",
@@ -215,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma",
-      "summary": "OpenAI, sorumlu enerji, toplumsal yatırım, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
+      "summary": "OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, toplumsal yatırım, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
+      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
       "title_original": "Building AI infrastructure with the Effingham County community",
       "summary_original": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "published_display": "2026-07-22",
@@ -334,7 +334,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Bütünleştirilmesi - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegre Edilmesi - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLV80TzJtUVZFVWRmTWNGc0JGNHVIeHdibnJvdENwR1BpNVk5TTlMS3pHWENpWFVwZnRoNXBUSTlKc2ZvZUJ5REJGRGVwNjVUZG10ZjdwRmRKVjhVemdQVGk5aXRKQmxCbVRiZ20wMlhNTkhtdjNVcG40MG96UjZPcWJvMGZ2Y1hfV2RLVmdybWlHSjRKZFpuNlpNSDZ2QVl1?oc=5",
       "image_url": null,
@@ -345,31 +345,31 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Bütünleştirilmesi - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegre Edilmesi - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation",
       "published_display": "2026-07-20",
-      "id": "01de4c851ed7"
+      "id": "749b1b0ddbb0"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Grid Dynamics, Üretim ve Lojistik Otomasyonu için Doosan Robotics ile Ortaklığa Giriyor - AI Insider",
-      "summary": "Grid Dynamics, Üretim ve Lojistik Otomasyonu için Doosan Robotics ile Ortaklığa Giriyor AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzVQSUNxSHB1Q2VFYlZRRm1iRkpmOHkwQnZmV0g4MzNuYlNFcW5HOEJkcXJSbHdBR3N1MktRVXNpNENhNmxjTkxZa3BJeHJjX1p1bzBTcnA0dUtuSXB6MjJiNTBqdXNzWm13TnNvLV9iaVVadWtfMzRDTks4YUNHTjk4QVduTE9WMGkxUHBBdUwzUVJIX2plam9Vc3lkdkFrS01rRFl5dEFKb1JoZkhUdXFpalpQTWpUbDlSZm1QdklDREk4Z1dCcXRaMU80Vlk?oc=5",
+      "title": "Küresel Robotik Endüstrisi Ortak Otomasyon Stratejisini Savunuyor - Assembly Magazine",
+      "summary": "Küresel Robotik Endüstrisi Ortak Otomasyon Stratejisini Savunuyor Assembly Dergisi",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUDJfOEtKSWtjWW1jNThwUTZFSmJNNWRJMXBmVFJCZjVPV3c5YTJSMW1EbXBhenB4bEJrbnU4ZzBjcGVwSEgxQXV4MzNkVTNjNDBBbGdUMWFTY2s4RWlBU2hEMHNFd3U5LVI4anhSZzN0TW9sMHRMVnJua2wxakdVN001Slc2Nk5YS2dqcWRtNWdFT0FnRHhHU0s0YlZ3eUxBU2ZVWGpUTU5TOV9OLVE?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-07-19T11:34:10Z",
+      "published_at": "2026-07-16T13:15:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Grid Dynamics, Üretim ve Lojistik Otomasyonu için Doosan Robotics ile Ortaklığa Giriyor - AI Insider Grid Dynamics, Üretim ve Lojistik Otomasyonu için Doosan Robotics ile Ortaklığa Giriyor AI Insider Grid Dynamics Enters Partnership with Doosan Robotics for Manufacturing and Logistics Automation - AI Insider Grid Dynamics Enters Partnership with Doosan Robotics for Manufacturing and Logistics Automation AI Insider Robotics Automation Industry",
-      "title_original": "Grid Dynamics Enters Partnership with Doosan Robotics for Manufacturing and Logistics Automation - AI Insider",
-      "summary_original": "Grid Dynamics Enters Partnership with Doosan Robotics for Manufacturing and Logistics Automation AI Insider",
-      "published_display": "2026-07-19",
-      "id": "41a621406f5e"
+      "keywords": "Küresel Robotik Endüstrisi Ortak Otomasyon Stratejisini Savunuyor - Assembly Magazine Küresel Robotik Endüstrisi Ortak Otomasyon Stratejisini Savunuyor Assembly Dergisi Global Robotics Industry Advocates for Common Automation Strategy - Assembly Magazine Global Robotics Industry Advocates for Common Automation Strategy Assembly Magazine Robotics Automation Industry",
+      "title_original": "Global Robotics Industry Advocates for Common Automation Strategy - Assembly Magazine",
+      "summary_original": "Global Robotics Industry Advocates for Common Automation Strategy Assembly Magazine",
+      "published_display": "2026-07-16",
+      "id": "2e755af79152"
     },
     {
       "category": "web",
@@ -635,7 +635,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme",
-      "summary": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
+      "summary": "Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzk2b19qRUl0bkdUdkFUZ0psd1pzUlJ6a2M1Y3lPbWVGaHZuTTBrRmI2bnRlZFZIV0VaVXhSTWVvN1daX0otSHhwRmFqYkF3U2s3RExZMFpzc2FvMGRwcjNJWElmTnlpSFBpS2pPNTVDZ3dMc3BHNEQ0bXp3NG9XME1ZdzBWOFJaN0hVb1JXQ3RKSVBPN2dPWUQyby1MUUZHVnQyMTlucThZUmct?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,7 +645,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
+      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
       "title_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch",
       "summary_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch",
       "published_display": "2026-07-20",
