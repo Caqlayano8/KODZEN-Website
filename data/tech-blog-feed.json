@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-22T21:32:00Z",
+  "updated_at": "2026-07-23T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Bekleme süresi durumu: Dependabot şimdi sürüm güncellemelerini yayınlamadan önce neden bekliyor?",
+      "summary": "Yeni varsayılan üç günlük bekleme süresi, sürüm güncellemesi çekme isteklerini geciktirir, böylece bakımcılar ve güvenlik araştırmacıları bir sürümdeki bulguları kodunuza girmeden önce ele alabilirler. Gönderi Bekleme süresi durumu: Dependabot neden şimdi bekliyor?",
+      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-23T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Bekleme süresi durumu: Dependabot şimdi sürüm güncellemelerini yayınlamadan önce neden bekliyor? Yeni varsayılan üç günlük bekleme süresi, sürüm güncellemesi çekme isteklerini geciktirir, böylece bakımcılar ve güvenlik araştırmacıları bir sürümdeki bulguları kodunuza girmeden önce ele alabilirler. Gönderi Bekleme süresi durumu: Dependabot neden şimdi bekliyor? The case for a cooldown: Why Dependabot now waits before issuing version updates A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits befo... GitHub Dev Platform",
+      "title_original": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+      "summary_original": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits befo...",
+      "published_display": "2026-07-23",
+      "id": "dba4d345439f"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim?",
-      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
+      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
       "url": "https://devblogs.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
+      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
       "title_original": "How to test agent experience changes without shipping them",
       "summary_original": "Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali...",
       "published_display": "2026-07-21",
@@ -110,26 +130,6 @@
       "summary_original": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog .",
       "published_display": "2026-07-20",
       "id": "f897ae3a7a51"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Evet demenin maliyeti değişti",
-      "summary": "Kod yazmanın maliyeti düştü; ona sahip olmanın maliyeti değişmedi. Yapay zeka çağında hangi değişikliklerin aslında ucuz olduğuna karar vermek için bir çerçeve. Evet demenin maliyeti değişti yazısı ilk olarak GitHub Blog'da çıktı.",
-      "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-17T16:46:47Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Evet demenin maliyeti değişti Kod yazmanın maliyeti düştü; ona sahip olmanın maliyeti değişmedi. Yapay zeka çağında hangi değişikliklerin aslında ucuz olduğuna karar vermek için bir çerçeve. Evet demenin maliyeti değişti yazısı ilk olarak GitHub Blog'da çıktı. The cost of saying yes has changed The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "The cost of saying yes has changed",
-      "summary_original": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog .",
-      "published_display": "2026-07-17",
-      "id": "a14d446bdd84"
     },
     {
       "category": "ai",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma",
-      "summary": "OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
+      "summary": "OpenAI, sorumlu enerji, toplumsal yatırım, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
+      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, toplumsal yatırım, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
       "title_original": "Building AI infrastructure with the Effingham County community",
       "summary_original": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "published_display": "2026-07-22",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Ulusal bilimin bir sonraki çağını ilerletmek",
-      "summary": "OpenAI, keşifleri hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir.",
+      "summary": "OpenAI, keşfi hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir.",
       "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,7 +245,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Ulusal bilimin bir sonraki çağını ilerletmek OpenAI, keşifleri hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir. Advancing the next era of national science OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery. AI OpenAI Model",
+      "keywords": "Ulusal bilimin bir sonraki çağını ilerletmek OpenAI, keşfi hızlandırmak için öncü yapay zekayı kullanmak amacıyla ABD Enerji Bakanlığı ve ulusal laboratuvarlarla birlikte çalışarak Amerikan bilimini ilerletme konusundaki kararlılığını özetlemektedir. Advancing the next era of national science OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery. AI OpenAI Model",
       "title_original": "Advancing the next era of national science",
       "summary_original": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "published_display": "2026-07-22",
@@ -314,7 +314,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegre Edilmesi - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Bütünleştirilmesi - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLV80TzJtUVZFVWRmTWNGc0JGNHVIeHdibnJvdENwR1BpNVk5TTlMS3pHWENpWFVwZnRoNXBUSTlKc2ZvZUJ5REJGRGVwNjVUZG10ZjdwRmRKVjhVemdQVGk5aXRKQmxCbVRiZ20wMlhNTkhtdjNVcG40MG96UjZPcWJvMGZ2Y1hfV2RLVmdybWlHSjRKZFpuNlpNSDZ2QVl1?oc=5",
       "image_url": null,
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegre Edilmesi - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Bütünleştirilmesi - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation",
       "published_display": "2026-07-20",
-      "id": "749b1b0ddbb0"
+      "id": "01de4c851ed7"
     },
     {
       "category": "robotik",
@@ -594,7 +594,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": null,
@@ -605,11 +605,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
+      "id": "ee48359b34f2"
     },
     {
       "category": "kamera",
@@ -635,7 +635,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme",
-      "summary": "Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
+      "summary": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzk2b19qRUl0bkdUdkFUZ0psd1pzUlJ6a2M1Y3lPbWVGaHZuTTBrRmI2bnRlZFZIV0VaVXhSTWVvN1daX0otSHhwRmFqYkF3U2s3RExZMFpzc2FvMGRwcjNJWElmTnlpSFBpS2pPNTVDZ3dMc3BHNEQ0bXp3NG9XME1ZdzBWOFJaN0hVb1JXQ3RKSVBPN2dPWUQyby1MUUZHVnQyMTlucThZUmct?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,7 +645,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
+      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
       "title_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch",
       "summary_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch",
       "published_display": "2026-07-20",
