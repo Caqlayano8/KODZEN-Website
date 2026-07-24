@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "updated_at": "2026-07-24T05:17:24Z",
-  "total_posts": 33,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
-    "siber": 6,
+    "siber": 5,
     "kamera": 3
   },
   "posts": [
@@ -590,26 +590,6 @@
       "summary_original": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex...",
       "published_display": "2026-06-18",
       "id": "b8ae76a3b4f9"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
-      "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
-      "url": "https://blog.cloudflare.com/frontier-model-defense/",
-      "image_url": null,
-      "source": "Cloudflare Security",
-      "published_at": "2026-06-09T06:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
-      "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
-      "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
-      "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
     },
     {
       "category": "kamera",
