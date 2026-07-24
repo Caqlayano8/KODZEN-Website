@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "updated_at": "2026-07-24T10:19:43Z",
-  "total_posts": 27,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
-    "siber": 0,
+    "siber": 5,
     "kamera": 3
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi",
+      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmak İçin Pratik Bir Canlı Yayın Serisi",
       "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
       "url": "https://devblogs.microsoft.com/blog/the-microsoft-365-copilot-agents-playbook-a-practical-livestream-series-for-building-better-agents/",
       "image_url": null,
@@ -25,11 +25,11 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
+      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmak İçin Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
       "title_original": "The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents",
       "summary_original": "Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo...",
       "published_display": "2026-07-23",
-      "id": "73f8dd9d09c0"
+      "id": "3cc55a9225e1"
     },
     {
       "category": "yazilim",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim?",
-      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
+      "summary": "Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin...",
       "url": "https://devblogs.microsoft.com/blog/how-to-test-agent-experience-changes-without-shipping-them/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -125,7 +125,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz değişikliklerin çoğu bunu sağlamayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
+      "keywords": "Temsilci deneyimindeki değişiklikleri göndermeden nasıl test edebilirim? Yapay zeka aracısının davranışını iyileştireceğini düşündüğünüz çoğu değişiklik bunu yapmayacaktır. Gerçek bir proje yükseltme senaryosunda bir düzine hipotezi test ettik ve çoğunluğu başarısız oldu. Doğrulayabilmeniz için belgeleri, API'yi ve MCP sunucusu değişikliklerini yerel olarak nasıl taklit edeceğinizi öğrenin... How to test agent experience changes without shipping them Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali... Microsoft Dev Cloud",
       "title_original": "How to test agent experience changes without shipping them",
       "summary_original": "Most changes you think will improve AI agent behavior won't. We tested a dozen hypotheses on a real project upgrade scenario and the majority failed. Learn how to emulate documentation, API, and MCP server changes locally so you can vali...",
       "published_display": "2026-07-21",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT'de Sağlığı Başlatma",
-      "summary": "ChatGPT'deki Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtlara ve Apple Health'e güvenli bir şekilde bağlanmasını sağlıyor.",
+      "summary": "ChatGPT'de Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtları ve Apple Health'i güvenli bir şekilde bağlamasına olanak tanıyor.",
       "url": "https://openai.com/index/health-in-chatgpt",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +145,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT'de Sağlığı Başlatma ChatGPT'deki Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtlara ve Apple Health'e güvenli bir şekilde bağlanmasını sağlıyor. Launching Health in ChatGPT Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health. AI OpenAI Model",
+      "keywords": "ChatGPT'de Sağlığı Başlatma ChatGPT'de Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtları ve Apple Health'i güvenli bir şekilde bağlamasına olanak tanıyor. Launching Health in ChatGPT Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health. AI OpenAI Model",
       "title_original": "Launching Health in ChatGPT",
       "summary_original": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "published_display": "2026-07-23",
@@ -294,7 +294,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXR5SUNRblNNRDhsdXFxMVk1LU4xSnhjTm5pcUJBOW9WWVdDS1k3djBBdHkwRTEyN3RWQ0ZELVp1NEdETWowT2RxZWNQbmo0Q3dYaUFGR2N4X3VuS25xeHJZUXBhS2pGT3lPcWFQeVFHVkNFQk4zaG42U1NlNk93WU94SFBicmxGWEo2NzJ6MnhYWUJJSENCeFB2OGs5WURxRW1DaEp2aVZ0SmdSNEJyaDhzTnJIVGs?oc=5",
       "image_url": null,
@@ -305,16 +305,16 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-07-22",
-      "id": "ab37d9b4acb8"
+      "id": "ca6bfea1276c"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektörde İnovasyona Öncü Olan İlk 3 Gıda Robotiği Şirketi - SNS Insider",
+      "title": "Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi - SNS Insider",
       "summary": "Sektörde Yeniliklere Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hX2tjNWstbG40bHFxUEh3ZU5taTZOcnBLdlE1OU1hRW05bUNCTzdVY1drcWY1U2h1Z3c0TnlISFlEM1hZcXRZelRwZTBqMHBnZW9DY01zbEd3Yzd6R1NwaGVIdjM?oc=5",
       "image_url": null,
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektörde İnovasyona Öncü Olan İlk 3 Gıda Robotiği Şirketi - SNS Insider Sektörde Yeniliklere Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider Robotics Automation Industry",
+      "keywords": "Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi - SNS Insider Sektörde Yeniliklere Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider Robotics Automation Industry",
       "title_original": "Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider",
       "summary_original": "Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider",
       "published_display": "2026-07-22",
-      "id": "94e760afa34c"
+      "id": "cd12c6824aa6"
     },
     {
       "category": "robotik",
@@ -354,7 +354,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Bütünleştirilmesi - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegre Edilmesi - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLV80TzJtUVZFVWRmTWNGc0JGNHVIeHdibnJvdENwR1BpNVk5TTlMS3pHWENpWFVwZnRoNXBUSTlKc2ZvZUJ5REJGRGVwNjVUZG10ZjdwRmRKVjhVemdQVGk5aXRKQmxCbVRiZ20wMlhNTkhtdjNVcG40MG96UjZPcWJvMGZ2Y1hfV2RLVmdybWlHSjRKZFpuNlpNSDZ2QVl1?oc=5",
       "image_url": null,
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Bütünleştirilmesi - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegre Edilmesi - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation",
       "published_display": "2026-07-20",
-      "id": "01de4c851ed7"
+      "id": "749b1b0ddbb0"
     },
     {
       "category": "web",
@@ -492,6 +492,106 @@
       "id": "1c6156ef07a0"
     },
     {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz?",
+      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
+      "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-07-09T14:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
+      "title_original": "Why we cannot wait for better post-quantum signature algorithms",
+      "summary_original": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-...",
+      "published_display": "2026-07-09",
+      "id": "3190b5cc5cbb"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Attribution Business Insights ile taramaların maskesini kaldırma",
+      "summary": "Cloudflare'in yeni Attribution Business Insights kontrol paneli, web sitesi sahiplerinin tarayıcı davranışını, iştahını ve potansiyel değerini anlamalarına yardımcı olarak tarama ücretiyle ilgili iş düzeyindeki görüşmeleri teşvik eder.",
+      "url": "https://blog.cloudflare.com/attribution-business-insights/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-07-01T06:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Attribution Business Insights ile taramaların maskesini kaldırma Cloudflare'in yeni Attribution Business Insights kontrol paneli, web sitesi sahiplerinin tarayıcı davranışını, iştahını ve potansiyel değerini anlamalarına yardımcı olarak tarama ücretiyle ilgili iş düzeyindeki görüşmeleri teşvik eder. Unmasking the crawls with Attribution Business Insights Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation. Cloudflare Security Web",
+      "title_original": "Unmasking the crawls with Attribution Business Insights",
+      "summary_original": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
+      "published_display": "2026-07-01",
+      "id": "e9a379d2ad38"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Herkes için OAuth ile Cloudflare uygulama ekosisteminin kilidini açma",
+      "summary": "Kendi Kendini Yöneten OAuth artık Cloudflare'deki tüm geliştiricilerin kullanımına sunuldu. Bunu gerçekleştirmek için temel OAuth motorumuzda sıfır kesinti süreli geçiş işlemini şu şekilde gerçekleştirdik.",
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-06-24T06:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Herkes için OAuth ile Cloudflare uygulama ekosisteminin kilidini açma Kendi Kendini Yöneten OAuth artık Cloudflare'deki tüm geliştiricilerin kullanımına sunuldu. Bunu gerçekleştirmek için temel OAuth motorumuzda sıfır kesinti süreli geçiş işlemini şu şekilde gerçekleştirdik. Unlocking the Cloudflare app ecosystem with OAuth for all Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen. Cloudflare Security Web",
+      "title_original": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+      "summary_original": "Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen.",
+      "published_display": "2026-06-24",
+      "id": "d40eca897ef5"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Beyaz Saray'ın kuantum sonrası yönetim emri önemli bir kilometre taşıdır. İşe başlama zamanı",
+      "summary": "Yeni idari emir, geçiş için son tarihi 2030 olarak belirliyor ve kuantum sonrası dayanıklılık için güçlü bir temel oluşturuyor. Neyin doğru olduğuna, nerede daha ileri gidebileceğine ve hükümet ile endüstri için geçiş taktik kitabımıza bakıyoruz.",
+      "url": "https://blog.cloudflare.com/post-quantum-eo-2026/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-06-23T18:25:18Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Beyaz Saray'ın kuantum sonrası yönetim emri önemli bir kilometre taşıdır. İşe başlama zamanı Yeni idari emir, geçiş için son tarihi 2030 olarak belirliyor ve kuantum sonrası dayanıklılık için güçlü bir temel oluşturuyor. Neyin doğru olduğuna, nerede daha ileri gidebileceğine ve hükümet ile endüstri için geçiş taktik kitabımıza bakıyoruz. The White House's post-quantum executive order is an important milestone. It’s time to get to work The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry. Cloudflare Security Web",
+      "title_original": "The White House's post-quantum executive order is an important milestone. It’s time to get to work",
+      "summary_original": "The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry.",
+      "published_display": "2026-06-23",
+      "id": "fff29f8bde5c"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Kendi güvenlik açığı koşumunuzu oluşturun",
+      "summary": "Çok aşamalı güvenlik açığı keşif donanımımızın ve otomatik önceliklendirme döngümüzün arkasındaki teknik mimariyi parçalara ayırıyoruz. Durum kontrollerini nasıl yönettiğimizi, çekişmeli inceleme yoluyla yanlış pozitifleri nasıl ortadan kaldırdığımızı ve LLM bağlamını nasıl yönlendirdiğimizi öğrenin...",
+      "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+      "image_url": null,
+      "source": "Cloudflare Security",
+      "published_at": "2026-06-18T17:59:40Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Kendi güvenlik açığı koşumunuzu oluşturun Çok aşamalı güvenlik açığı keşif donanımımızın ve otomatik önceliklendirme döngümüzün arkasındaki teknik mimariyi parçalara ayırıyoruz. Durum kontrollerini nasıl yönettiğimizi, çekişmeli inceleme yoluyla yanlış pozitifleri nasıl ortadan kaldırdığımızı ve LLM bağlamını nasıl yönlendirdiğimizi öğrenin... Build your own vulnerability harness We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex... Cloudflare Security Web",
+      "title_original": "Build your own vulnerability harness",
+      "summary_original": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex...",
+      "published_display": "2026-06-18",
+      "id": "b8ae76a3b4f9"
+    },
+    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews",
@@ -515,7 +615,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme",
-      "summary": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
+      "summary": "Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzk2b19qRUl0bkdUdkFUZ0psd1pzUlJ6a2M1Y3lPbWVGaHZuTTBrRmI2bnRlZFZIV0VaVXhSTWVvN1daX0otSHhwRmFqYkF3U2s3RExZMFpzc2FvMGRwcjNJWElmTnlpSFBpS2pPNTVDZ3dMc3BHNEQ0bXp3NG9XME1ZdzBWOFJaN0hVb1JXQ3RKSVBPN2dPWUQyby1MUUZHVnQyMTlucThZUmct?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -525,7 +625,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
+      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
       "title_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch",
       "summary_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch",
       "published_display": "2026-07-20",
