@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-27T16:00:00Z",
+  "updated_at": "2026-07-27T18:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla)",
+      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/company/the-harness-is-all-you-need-mostly/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-27T18:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "The harness is all you need (mostly)",
+      "summary_original": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
+      "published_display": "2026-07-27",
+      "id": "b3f23b063a73"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yardımcı pilot ve ham API erişimi: Gerçekte ne için para ödüyorsunuz?",
-      "summary": "Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak GitHub Bl'de göründü...",
+      "summary": "Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak The GitHub Bl'de göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yardımcı pilot ve ham API erişimi: Gerçekte ne için para ödüyorsunuz? Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak GitHub Bl'de göründü... Copilot vs. raw API access: What are you actually paying for? Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl... GitHub Dev Platform",
+      "keywords": "Yardımcı pilot ve ham API erişimi: Gerçekte ne için para ödüyorsunuz? Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak The GitHub Bl'de göründü... Copilot vs. raw API access: What are you actually paying for? Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl... GitHub Dev Platform",
       "title_original": "Copilot vs. raw API access: What are you actually paying for?",
       "summary_original": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl...",
       "published_display": "2026-07-22",
@@ -112,26 +132,6 @@
       "id": "2a7815678128"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Tuvallerle etkileşimli deneyimler nasıl oluşturulur?",
-      "summary": "Kanvaslar, yapay zekayı bilgileri görselleştirebileceğiniz, iş akışlarını keşfedebileceğiniz ve karmaşık görevlerde harekete geçebileceğiniz etkileşimli çalışma alanlarına dönüştürür. Tuvallerle etkileşimli deneyimler nasıl oluşturulur yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-21T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Tuvallerle etkileşimli deneyimler nasıl oluşturulur? Kanvaslar, yapay zekayı bilgileri görselleştirebileceğiniz, iş akışlarını keşfedebileceğiniz ve karmaşık görevlerde harekete geçebileceğiniz etkileşimli çalışma alanlarına dönüştürür. Tuvallerle etkileşimli deneyimler nasıl oluşturulur yazısı ilk olarak GitHub Blogunda yayınlandı. How to build interactive experiences with canvases Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "How to build interactive experiences with canvases",
-      "summary_original": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog .",
-      "published_display": "2026-07-21",
-      "id": "28176d3c8c79"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Yapay zeka insanların işte yaptıklarını nasıl genişletiyor?",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT'de Sağlığı Başlatma",
-      "summary": "ChatGPT'deki Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtlara ve Apple Health'e güvenli bir şekilde bağlanmasını sağlıyor.",
+      "summary": "ChatGPT'de Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtları ve Apple Health'i güvenli bir şekilde bağlamasına olanak tanıyor.",
       "url": "https://openai.com/index/health-in-chatgpt",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT'de Sağlığı Başlatma ChatGPT'deki Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtlara ve Apple Health'e güvenli bir şekilde bağlanmasını sağlıyor. Launching Health in ChatGPT Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health. AI OpenAI Model",
+      "keywords": "ChatGPT'de Sağlığı Başlatma ChatGPT'de Sağlık artık uygun ABD'li kullanıcıların daha kişiselleştirilmiş bilgiler elde etmek ve sağlıklarını daha iyi anlamak için tıbbi kayıtları ve Apple Health'i güvenli bir şekilde bağlamasına olanak tanıyor. Launching Health in ChatGPT Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health. AI OpenAI Model",
       "title_original": "Launching Health in ChatGPT",
       "summary_original": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "published_display": "2026-07-23",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Robot Barmenler ve Kokteyl Otomasyonu Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 - Gelecek Piyasa Görüşleri",
+      "summary": "Robot Barmenler ve Kokteyl Otomasyonu Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 Gelecek Piyasa Görüşleri",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmtrcWhiSWs1elhMc3hOSHBkZTc4cENGS0lqcUVGWHdKbzhKbHl1VVlMenlvbFlNdWthWlk2eGc4blRnb0U2OHhzSjZvZ0FpNk9mY0p4YkkzMm0tb052T1FGbTJYY05aTVZJcXRjLUhCVWxGMDlDU3dnQ1Znb0oxQ2h6X3NnVnlfWmwxdDBqbGROdmFXSVNr?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-07-27T12:27:26Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robot Barmenler ve Kokteyl Otomasyonu Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 - Gelecek Piyasa Görüşleri Robot Barmenler ve Kokteyl Otomasyonu Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 Gelecek Piyasa Görüşleri Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 Future Market Insights Robotics Automation Industry",
+      "title_original": "Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
+      "summary_original": "Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 Future Market Insights",
+      "published_display": "2026-07-27",
+      "id": "bdfe46fd8dc0"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Soft Robotics Pazar Büyüklüğü 2035'e Kadar 32,87 Milyar Doları Aşacak - SNS Insider",
       "summary": "Soft Robotics Pazar Büyüklüğü 2035'e Kadar 32,87 Milyar Doları Aşacak SNS Insider",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UaVJISVBOZUZlNTBtbFk4SmE1eVlUS1hsTWRFRmswZm5EenpuSmt2MWZBczI4b2Q0WGgxcGxvMzBtOGEtWVltNHhubE04YkQzNFMxTTdTelFDMDlhMm9aVEQzekFYWE9zV0pwSno1T1hBb1laRVJr?oc=5",
@@ -294,8 +314,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi - SNS Insider",
-      "summary": "Sektörde Yeniliklere Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider",
+      "title": "Sektörde İnovasyona Öncü Olan İlk 3 Gıda Robotiği Şirketi - SNS Insider",
+      "summary": "Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hX2tjNWstbG40bHFxUEh3ZU5taTZOcnBLdlE1OU1hRW05bUNCTzdVY1drcWY1U2h1Z3c0TnlISFlEM1hZcXRZelRwZTBqMHBnZW9DY01zbEd3Yzd6R1NwaGVIdjM?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi - SNS Insider Sektörde Yeniliklere Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider Robotics Automation Industry",
+      "keywords": "Sektörde İnovasyona Öncü Olan İlk 3 Gıda Robotiği Şirketi - SNS Insider Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider Robotics Automation Industry",
       "title_original": "Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider",
       "summary_original": "Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider",
       "published_display": "2026-07-22",
-      "id": "cd12c6824aa6"
+      "id": "94e760afa34c"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Global Robotics Industry Advocates for Common Automation Strategy Assembly Magazine",
       "published_display": "2026-07-16",
       "id": "2e755af79152"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Otomasyon kuruluşları robot bilimini dünya çapında teşvik etmek için güçlerini birleştiriyor -drivencontrols.com",
-      "summary": "Otomasyon kuruluşları robot bilimini dünya çapında teşvik etmek için güçlerini birleştiriyordrivencontrols.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXA2VGRXOFZyQ0g2bUtudXJhSzAxRE9Sa0ZPd3czU3dqRGpsbU9YWkdkNWNNSU1HNENYbzhYNlhkSEt1VzBjcU5wcXpjSjZSbTFIc09laVEyZjVfNHdYUjBTdmg2U3pmZGI4OFZyMkE4OXBrTzdhZFRnUUpTQlFTbVBTczhidkx2M0Y0SjJpUHNzQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-15T12:39:29Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Otomasyon kuruluşları robot bilimini dünya çapında teşvik etmek için güçlerini birleştiriyor -drivencontrols.com Otomasyon kuruluşları robot bilimini dünya çapında teşvik etmek için güçlerini birleştiriyordrivencontrols.com Automation bodies join forces to promote robotics worldwide - drivesncontrols.com Automation bodies join forces to promote robotics worldwide drivesncontrols.com Robotics Automation Industry",
-      "title_original": "Automation bodies join forces to promote robotics worldwide - drivesncontrols.com",
-      "summary_original": "Automation bodies join forces to promote robotics worldwide drivesncontrols.com",
-      "published_display": "2026-07-15",
-      "id": "f3d0199d6aa8"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
