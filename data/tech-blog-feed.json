@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-28T16:00:00Z",
+  "updated_at": "2026-07-28T17:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi",
-      "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar, hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
+      "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
       "url": "https://devblogs.microsoft.com/blog/the-microsoft-365-copilot-agents-playbook-a-practical-livestream-series-for-building-better-agents/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +85,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar, hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
+      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
       "title_original": "The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents",
       "summary_original": "Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo...",
       "published_display": "2026-07-23",
@@ -130,6 +130,26 @@
       "summary_original": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl...",
       "published_display": "2026-07-22",
       "id": "2e84b213d627"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Ajansal yapay zeka çağında bilimsel hesaplama",
+      "summary": "Yeni bir saha raporu, bilim adamlarının bilimsel bilişimi modernleştirmek, yazılım geliştirmeyi ve genomik ve ötesindeki keşifleri hızlandırmak için yapay zeka kodlama aracılarını nasıl kullandığını gösteriyor.",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-28T17:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Ajansal yapay zeka çağında bilimsel hesaplama Yeni bir saha raporu, bilim adamlarının bilimsel bilişimi modernleştirmek, yazılım geliştirmeyi ve genomik ve ötesindeki keşifleri hızlandırmak için yapay zeka kodlama aracılarını nasıl kullandığını gösteriyor. Scientific computing in the age of agentic AI A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond. AI OpenAI Model",
+      "title_original": "Scientific computing in the age of agentic AI",
+      "summary_original": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "published_display": "2026-07-28",
+      "id": "48a432145bc0"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "published_display": "2026-07-23",
       "id": "bd5a1e411611"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "SymptomAI: Günlük semptom değerlendirmesi için konuşkan bir yapay zeka aracısına doğru",
-      "summary": "Genel Bilim",
-      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
-      "source": "Google Research Blog",
-      "published_at": "2026-07-22T21:32:00Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "SymptomAI: Günlük semptom değerlendirmesi için konuşkan bir yapay zeka aracısına doğru Genel Bilim SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science AI Research Google",
-      "title_original": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
-      "summary_original": "General Science",
-      "published_display": "2026-07-22",
-      "id": "8a28ca590b0d"
     },
     {
       "category": "robotik",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz?",
-      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
+      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve bunlar üzerinde çalışırken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
       "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
+      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve bunlar üzerinde çalışırken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
       "title_original": "Why we cannot wait for better post-quantum signature algorithms",
       "summary_original": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-...",
       "published_display": "2026-07-09",
