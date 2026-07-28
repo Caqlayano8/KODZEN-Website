@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-27T18:53:16Z",
+  "updated_at": "2026-07-28T13:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla)",
-      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "The harness is all you need (mostly)",
       "summary_original": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
       "published_display": "2026-07-27",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yardımcı pilot ve ham API erişimi: Gerçekte ne için para ödüyorsunuz?",
-      "summary": "Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak GitHub Bl'de göründü...",
+      "summary": "Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak The GitHub Bl'de göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yardımcı pilot ve ham API erişimi: Gerçekte ne için para ödüyorsunuz? Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak GitHub Bl'de göründü... Copilot vs. raw API access: What are you actually paying for? Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl... GitHub Dev Platform",
+      "keywords": "Yardımcı pilot ve ham API erişimi: Gerçekte ne için para ödüyorsunuz? Copilot artık kullanımı listelenen API oranları üzerinden faturalandırıyor. Doğrudan model erişimini kodlama iş akışı, politika ve donanım çalışmaları ile karşılaştırın. Copilot sonrası ham API erişimine karşı: Gerçekte ne için para ödüyorsunuz? İlk olarak The GitHub Bl'de göründü... Copilot vs. raw API access: What are you actually paying for? Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl... GitHub Dev Platform",
       "title_original": "Copilot vs. raw API access: What are you actually paying for?",
       "summary_original": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Bl...",
       "published_display": "2026-07-22",
@@ -130,6 +130,46 @@
       "summary_original": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub’s bug bounty program appeared first...",
       "published_display": "2026-07-22",
       "id": "2a7815678128"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Google Arama ile mükemmel bir akşam yemeği partisine ev sahipliği yapmanın 5 yolu",
+      "summary": "Bu yapay zeka özellikleri bir menü oluşturmanıza, bir tablo tasarımı tasarlamanıza ve diğer parti planlama görevlerini yerine getirmenize yardımcı olabilir.",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-28T13:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Google Arama ile mükemmel bir akşam yemeği partisine ev sahipliği yapmanın 5 yolu Bu yapay zeka özellikleri bir menü oluşturmanıza, bir tablo tasarımı tasarlamanıza ve diğer parti planlama görevlerini yerine getirmenize yardımcı olabilir. 5 ways to host the ultimate dinner party with Google Search These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks. AI Product Google",
+      "title_original": "5 ways to host the ultimate dinner party with Google Search",
+      "summary_original": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "published_display": "2026-07-28",
+      "id": "3cc7221d9bf1"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Arama'daki Yapay Zeka Modunun gerçek dünyanın tadını çıkarmanıza yardımcı olacağı 5 yol",
+      "summary": "Kulağa mantıksız gelebilir ama Arama'nın yapay zeka araçları, ister konser bileti rezervasyonu yaptırmak, ister en uygun seçeneği bulmak isteyin, çevrimdışı zamanınızı en iyi şekilde değerlendirmenize yardımcı olabilir.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-28T13:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Arama'daki Yapay Zeka Modunun gerçek dünyanın tadını çıkarmanıza yardımcı olacağı 5 yol Kulağa mantıksız gelebilir ama Arama'nın yapay zeka araçları, ister konser bileti rezervasyonu yaptırmak, ister en uygun seçeneği bulmak isteyin, çevrimdışı zamanınızı en iyi şekilde değerlendirmenize yardımcı olabilir. 5 ways AI Mode in Search helps you enjoy the real world It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf… AI Product Google",
+      "title_original": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary_original": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "published_display": "2026-07-28",
+      "id": "6fee0db871c8"
     },
     {
       "category": "ai",
@@ -212,46 +252,6 @@
       "id": "d47848adc8b2"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Haber kuruluşları hayati görevlerini ilerletmek için yapay zekayı nasıl kullanıyor?",
-      "summary": "Haber kuruluşları, dünya çapındaki gazetecileri ve yayıncıları destekleyen OpenAI araçlarıyla haberciliği güçlendirmek, hedef kitleyi büyütmek ve iş operasyonlarını iyileştirmek için yapay zekayı kullanıyor.",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-22T13:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Haber kuruluşları hayati görevlerini ilerletmek için yapay zekayı nasıl kullanıyor? Haber kuruluşları, dünya çapındaki gazetecileri ve yayıncıları destekleyen OpenAI araçlarıyla haberciliği güçlendirmek, hedef kitleyi büyütmek ve iş operasyonlarını iyileştirmek için yapay zekayı kullanıyor. How news organizations are using AI to advance their vital missions News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide. AI OpenAI Model",
-      "title_original": "How news organizations are using AI to advance their vital missions",
-      "summary_original": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "published_display": "2026-07-22",
-      "id": "ceadc32b1037"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma",
-      "summary": "OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-22T13:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Effingham County topluluğuyla yapay zeka altyapısı oluşturma OpenAI, sorumlu enerji, topluluk yatırımı, istihdam ve Codex'e erişim taahhütleriyle Georgia'nın Effingham İlçesinde Camellia Projesi'ni duyurdu. Building AI infrastructure with the Effingham County community OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex. AI OpenAI Model",
-      "title_original": "Building AI infrastructure with the Effingham County community",
-      "summary_original": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "published_display": "2026-07-22",
-      "id": "a1fa6b46225f"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Endüstriyel otomasyonun 2026 ortası anı: Yapay zeka toplama, süper insansılar ve güvenlik sertifikası hamlesi - MarketScale",
@@ -274,8 +274,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robot Barmenler ve Kokteyl Otomasyon Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 - Gelecek Piyasa Görüşleri",
-      "summary": "Robot Barmenler ve Kokteyl Otomasyon Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 Gelecek Piyasa Görüşleri",
+      "title": "Robot Barmenler ve Kokteyl Otomasyonu Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 - Gelecek Piyasa Görüşleri",
+      "summary": "Robot Barmenler ve Kokteyl Otomasyonu Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 Gelecek Piyasa Görüşleri",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmtrcWhiSWs1elhMc3hOSHBkZTc4cENGS0lqcUVGWHdKbzhKbHl1VVlMenlvbFlNdWthWlk2eGc4blRnb0U2OHhzSjZvZ0FpNk9mY0p4YkkzMm0tb052T1FGbTJYY05aTVZJcXRjLUhCVWxGMDlDU3dnQ1Znb0oxQ2h6X3NnVnlfWmwxdDBqbGROdmFXSVNr?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robot Barmenler ve Kokteyl Otomasyon Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 - Gelecek Piyasa Görüşleri Robot Barmenler ve Kokteyl Otomasyon Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 Gelecek Piyasa Görüşleri Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 Future Market Insights Robotics Automation Industry",
+      "keywords": "Robot Barmenler ve Kokteyl Otomasyonu Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 - Gelecek Piyasa Görüşleri Robot Barmenler ve Kokteyl Otomasyonu Pazarı: Küresel Endüstri Analizi ve Fırsat Değerlendirmesi, 2036 Gelecek Piyasa Görüşleri Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 Future Market Insights Robotics Automation Industry",
       "title_original": "Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
       "summary_original": "Robot Bartenders & Cocktail Automation Market : Global Industry Analysis and Opportunity Assessment, 2036 Future Market Insights",
       "published_display": "2026-07-27",
-      "id": "b83eae9d3d39"
+      "id": "bdfe46fd8dc0"
     },
     {
       "category": "robotik",
@@ -334,8 +334,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi - SNS Insider",
-      "summary": "Sektörde Yeniliklere Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider",
+      "title": "Sektörde İnovasyona Öncü Olan İlk 3 Gıda Robotiği Şirketi - SNS Insider",
+      "summary": "Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hX2tjNWstbG40bHFxUEh3ZU5taTZOcnBLdlE1OU1hRW05bUNCTzdVY1drcWY1U2h1Z3c0TnlISFlEM1hZcXRZelRwZTBqMHBnZW9DY01zbEd3Yzd6R1NwaGVIdjM?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,16 +345,16 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi - SNS Insider Sektörde Yeniliklere Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider Robotics Automation Industry",
+      "keywords": "Sektörde İnovasyona Öncü Olan İlk 3 Gıda Robotiği Şirketi - SNS Insider Sektörde İnovasyona Öncü Olan En İyi 3 Gıda Robotiği Şirketi SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider Robotics Automation Industry",
       "title_original": "Top 3 Food Robotics Companies Leading Industry Innovation - SNS Insider",
       "summary_original": "Top 3 Food Robotics Companies Leading Industry Innovation SNS Insider",
       "published_display": "2026-07-22",
-      "id": "cd12c6824aa6"
+      "id": "94e760afa34c"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegre Edilmesi - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Bütünleştirilmesi - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLV80TzJtUVZFVWRmTWNGc0JGNHVIeHdibnJvdENwR1BpNVk5TTlMS3pHWENpWFVwZnRoNXBUSTlKc2ZvZUJ5REJGRGVwNjVUZG10ZjdwRmRKVjhVemdQVGk5aXRKQmxCbVRiZ20wMlhNTkhtdjNVcG40MG96UjZPcWJvMGZ2Y1hfV2RLVmdybWlHSjRKZFpuNlpNSDZ2QVl1?oc=5",
       "image_url": null,
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegre Edilmesi - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Bütünleştirilmesi - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Modern Otomasyon: Robotik ve Hassas Hareketin Entegrasyonu A3 Otomasyonu Geliştirme Derneği Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: Modern Automation: Integrating Robotics and Precision Motion - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: Modern Automation: Integrating Robotics and Precision Motion A3 Association for Advancing Automation",
       "published_display": "2026-07-20",
-      "id": "749b1b0ddbb0"
+      "id": "01de4c851ed7"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
