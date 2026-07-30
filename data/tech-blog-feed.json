@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T10:33:26Z",
+  "updated_at": "2026-07-30T17:30:24Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot uygulamasında yığılmış oturumlar ve çekme istekleri",
+      "summary": "GitHub Copilot uygulamasında yığılmış oturumları ve çekme isteklerini kullanarak eski kod tabanımı nasıl modernleştirdiğimi öğrenin. GitHub Copilot uygulamasındaki Yığılmış oturumlar ve çekme istekleri yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-30T17:30:24Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Copilot uygulamasında yığılmış oturumlar ve çekme istekleri GitHub Copilot uygulamasında yığılmış oturumları ve çekme isteklerini kullanarak eski kod tabanımı nasıl modernleştirdiğimi öğrenin. GitHub Copilot uygulamasındaki Yığılmış oturumlar ve çekme istekleri yazısı ilk olarak GitHub Blogunda göründü. Stacked sessions and pull requests in the GitHub Copilot app Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "summary_original": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "published_display": "2026-07-30",
+      "id": "ad2b9825b81f"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla)",
-      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "The harness is all you need (mostly)",
       "summary_original": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
       "published_display": "2026-07-27",
@@ -94,8 +114,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi",
-      "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
+      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmak İçin Pratik Bir Canlı Yayın Serisi",
+      "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar, hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
       "url": "https://devblogs.microsoft.com/blog/the-microsoft-365-copilot-agents-playbook-a-practical-livestream-series-for-building-better-agents/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,31 +125,31 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
+      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmak İçin Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar, hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
       "title_original": "The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents",
       "summary_original": "Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo...",
       "published_display": "2026-07-23",
-      "id": "73f8dd9d09c0"
+      "id": "3cc55a9225e1"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Bekleme süresi durumu: Dependabot şimdi sürüm güncellemelerini yayınlamadan önce neden bekliyor?",
-      "summary": "Yeni varsayılan üç günlük bekleme süresi, sürüm güncellemesi çekme isteklerini geciktirir, böylece bakımcılar ve güvenlik araştırmacıları bir sürümdeki bulguları kodunuza girmeden önce ele alabilirler. Gönderi Bekleme süresi durumu: Dependabot neden şimdi bekliyor?",
-      "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT-5.6 ile fiyat-performans sınırını ilerletmek",
+      "summary": "Luna ve Terra için daha düşük GPT‑5.6 fiyatlandırmasını ve OpenAI'nin daha verimli modellerinin kuruluşların yapay zeka iş akışlarını geniş ölçekte dağıtmasına nasıl yardımcı olduğunu keşfedin.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-23T16:00:00Z",
+      "source": "OpenAI News",
+      "published_at": "2026-07-30T10:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Bekleme süresi durumu: Dependabot şimdi sürüm güncellemelerini yayınlamadan önce neden bekliyor? Yeni varsayılan üç günlük bekleme süresi, sürüm güncellemesi çekme isteklerini geciktirir, böylece bakımcılar ve güvenlik araştırmacıları bir sürümdeki bulguları kodunuza girmeden önce ele alabilirler. Gönderi Bekleme süresi durumu: Dependabot neden şimdi bekliyor? The case for a cooldown: Why Dependabot now waits before issuing version updates A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits befo... GitHub Dev Platform",
-      "title_original": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
-      "summary_original": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits befo...",
-      "published_display": "2026-07-23",
-      "id": "dba4d345439f"
+      "keywords": "GPT-5.6 ile fiyat-performans sınırını ilerletmek Luna ve Terra için daha düşük GPT‑5.6 fiyatlandırmasını ve OpenAI'nin daha verimli modellerinin kuruluşların yapay zeka iş akışlarını geniş ölçekte dağıtmasına nasıl yardımcı olduğunu keşfedin. Advancing the price-performance frontier with GPT-5.6 Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale. AI OpenAI Model",
+      "title_original": "Advancing the price-performance frontier with GPT-5.6",
+      "summary_original": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "published_display": "2026-07-30",
+      "id": "971bc66d6e60"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "8853841bf91a"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Google Arama ile mükemmel bir akşam yemeği partisine ev sahipliği yapmanın 5 yolu",
-      "summary": "Bu yapay zeka özellikleri bir menü oluşturmanıza, bir tablo tasarımı tasarlamanıza ve diğer parti planlama görevlerini yerine getirmenize yardımcı olabilir.",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T13:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Google Arama ile mükemmel bir akşam yemeği partisine ev sahipliği yapmanın 5 yolu Bu yapay zeka özellikleri bir menü oluşturmanıza, bir tablo tasarımı tasarlamanıza ve diğer parti planlama görevlerini yerine getirmenize yardımcı olabilir. 5 ways to host the ultimate dinner party with Google Search These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks. AI Product Google",
-      "title_original": "5 ways to host the ultimate dinner party with Google Search",
-      "summary_original": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-      "published_display": "2026-07-28",
-      "id": "3cc7221d9bf1"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - Robotik ve Otomasyon Haberleri",
@@ -270,6 +270,26 @@
       "summary_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies Robotics & Automation News",
       "published_display": "2026-07-30",
       "id": "7c886d364bfc"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor - BBC",
+      "summary": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYlBJZF9xOGpsaDBRRkVnRGpsN2FDNXdfSXVGM0pfYlhOM0tYQ1JjbjdoczktRHBrbVhNbGM5TThUeFI4YTkzcWl6WFkyOEJOMUpabGZCZzA0Zw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-07-29T22:08:29Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor - BBC Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor BBC The Chinese robot army transforming the UK's retail industry - BBC The Chinese robot army transforming the UK's retail industry BBC Robotics Automation Industry",
+      "title_original": "The Chinese robot army transforming the UK's retail industry - BBC",
+      "summary_original": "The Chinese robot army transforming the UK's retail industry BBC",
+      "published_display": "2026-07-29",
+      "id": "f94246c571bc"
     },
     {
       "category": "robotik",
@@ -294,7 +314,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1g4em44MHI5Q0FxdnllYWhvOGZNVHdQdFAwSlNwTzZRaGJfOWZjcExMMVd2NF80ZGJqVHBRbWpwTUtPS1R5QnhmMGY5ZUROOE9TSTJsekNYcjFBLXdldUNYWnhTZHNtSkNBVWJfMEFKaWo5NTdRVnFZUkdmeDU2TjRqYVlWZmQwZ19XcVljaE1LMTRoX3RaMGZ4QWg0cUczNENXT2o3bVlvSm90MGt4aC1icEplbFU?oc=5",
       "image_url": null,
@@ -305,16 +325,16 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-07-29",
-      "id": "321fca79a57b"
+      "id": "41159ee50598"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi - PW",
+      "title": "Hindistan'ın Robotik ve Otomasyon Durumu: 2025 Analizi - PW",
       "summary": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi PW",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzNYd0FBd1ZVWGNzVUtLcXlFOXFGSDRFZm9ERWhvWDRWY1NPZXAxeTFzWXU2b19tRzlBN29FR010ZC1LY1FsRWNzX21mWVVyakJONmF5aVFtei1fYzRXbzYxSTVXZURrYnk2bjFrODhfZEFReG1fRTBPQnRwMzRORUF1N1ZnLVI1SmdjZC02dmNPY3BMN1ZYWGxQb2w5R1RpUF9EWDVIUHFua3A2blE?oc=5",
       "image_url": null,
@@ -325,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi - PW Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi PW India's Robotics & Automation Landscape: 2025 Analysis - PW India's Robotics & Automation Landscape: 2025 Analysis PW Robotics Automation Industry",
+      "keywords": "Hindistan'ın Robotik ve Otomasyon Durumu: 2025 Analizi - PW Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi PW India's Robotics & Automation Landscape: 2025 Analysis - PW India's Robotics & Automation Landscape: 2025 Analysis PW Robotics Automation Industry",
       "title_original": "India's Robotics & Automation Landscape: 2025 Analysis - PW",
       "summary_original": "India's Robotics & Automation Landscape: 2025 Analysis PW",
       "published_display": "2026-07-29",
-      "id": "ce2405dd366b"
+      "id": "0c5d0d031b63"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "India's Robotics Growth: Skills Gap & Automation Degree Needs PW",
       "published_display": "2026-07-29",
       "id": "179dd110f1af"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotik Mühendisi Maaşları: Otomasyon Derecesi ve 2025 Görünümü - PW",
-      "summary": "Robotik Mühendisi Maaşları: Otomasyon Derecesi ve 2025 Görünümü PW",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQelItOXU2d0w3S2t3MFVMekRDbmYzcWdPMVlJeWJqZVdES1ZKdnlGNGxsV3VodWkyRlVBSVQwcmFEdDIzd1h3VHE1QWNlRW9OTExsSlVQSFZCQ2gwNkl3c0lESjhaakhIcnVIS2NwWmZUaGZTUkVIYUtqWjdRVWdBekdWZ1lFVmVuem1HUHBsY0xDZ0M4aWxvUVRLNHRvTFhqSlgydVFDWDZKTzNhOGdjSw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-29T12:40:10Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik Mühendisi Maaşları: Otomasyon Derecesi ve 2025 Görünümü - PW Robotik Mühendisi Maaşları: Otomasyon Derecesi ve 2025 Görünümü PW Robotics Engineer Salaries: Automation Degree & 2025 Outlook - PW Robotics Engineer Salaries: Automation Degree & 2025 Outlook PW Robotics Automation Industry",
-      "title_original": "Robotics Engineer Salaries: Automation Degree & 2025 Outlook - PW",
-      "summary_original": "Robotics Engineer Salaries: Automation Degree & 2025 Outlook PW",
-      "published_display": "2026-07-29",
-      "id": "2152c2c7875d"
     },
     {
       "category": "web",
@@ -614,8 +614,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider",
-      "summary": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider",
+      "title": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - snsinsider.com",
+      "summary": "Tehdit Algılamayı Dönüştüren En İyi Güvenlik Kamerası Şirketleri snsinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSnRaVmxYZXEyNWhEYjRZS01ERl9qTFJDOXRaYlNsMUtVWUYxVG9nLTZXVzg5M05zVXNUdmJMazdlUWp0VG5kbmozcjE5ZHFhb20ySVRVN1hTWV9sMENFU0xLOVg5b3JWeGc?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider Top Security Camera Companies Transforming Threat Detection - SNS Insider Top Security Camera Companies Transforming Threat Detection SNS Insider IP Camera Video Surveillance",
-      "title_original": "Top Security Camera Companies Transforming Threat Detection - SNS Insider",
-      "summary_original": "Top Security Camera Companies Transforming Threat Detection SNS Insider",
+      "keywords": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - snsinsider.com Tehdit Algılamayı Dönüştüren En İyi Güvenlik Kamerası Şirketleri snsinsider.com Top Security Camera Companies Transforming Threat Detection - snsinsider.com Top Security Camera Companies Transforming Threat Detection snsinsider.com IP Camera Video Surveillance",
+      "title_original": "Top Security Camera Companies Transforming Threat Detection - snsinsider.com",
+      "summary_original": "Top Security Camera Companies Transforming Threat Detection snsinsider.com",
       "published_display": "2026-06-30",
-      "id": "6457418f53ed"
+      "id": "46d2ff7a8535"
     },
     {
       "category": "kamera",
