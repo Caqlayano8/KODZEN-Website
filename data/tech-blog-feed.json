@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-07-29T16:00:00Z",
-  "total_posts": 32,
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 5,
-    "kamera": 3
+    "kamera": 4
   },
   "posts": [
     {
@@ -590,6 +590,26 @@
       "summary_original": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex...",
       "published_display": "2026-06-18",
       "id": "b8ae76a3b4f9"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Güvenlik Bilgili",
+      "summary": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Güvenlik Bilgisi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEhUMDhNRERDc0x4X3YycG9EbGhjWkp2TUlzbVI2R25OVW5ZWXJMa3VBNGFrUW9ycHBPa1JXNzZ5ZnRRbUlVQ3cwLS1JVDFvcFZkV3RDdFhKQnE5RTdZbXBQeng4V2d2WDNOVkdFbHk4UjlRMHptZVQ5blFDaUlieUxnY3BqQ1NQRUw5b294c1hvUElZTUtja182QlhPTWMx?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-28T14:25:33Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Güvenlik Bilgili Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Güvenlik Bilgisi Hanwha Vision Cameras Earn BSI IT Security Label - Security Informed Hanwha Vision Cameras Earn BSI IT Security Label Security Informed IP Camera Video Surveillance",
+      "title_original": "Hanwha Vision Cameras Earn BSI IT Security Label - Security Informed",
+      "summary_original": "Hanwha Vision Cameras Earn BSI IT Security Label Security Informed",
+      "published_display": "2026-07-28",
+      "id": "cf355802b7fa"
     },
     {
       "category": "kamera",
