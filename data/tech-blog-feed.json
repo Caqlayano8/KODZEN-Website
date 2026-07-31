@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-07-31T15:00:00Z",
-  "total_posts": 33,
+  "total_posts": 23,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 6,
+    "robotik": 0,
     "web": 6,
     "siber": 5,
-    "kamera": 4
+    "kamera": 0
   },
   "posts": [
     {
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla)",
-      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "The harness is all you need (mostly)",
       "summary_original": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
       "published_display": "2026-07-27",
@@ -114,8 +114,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi",
-      "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
+      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmak İçin Pratik Bir Canlı Yayın Serisi",
+      "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar, hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
       "url": "https://devblogs.microsoft.com/blog/the-microsoft-365-copilot-agents-playbook-a-practical-livestream-series-for-building-better-agents/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -125,11 +125,11 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
+      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmak İçin Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar, hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
       "title_original": "The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents",
       "summary_original": "Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo...",
       "published_display": "2026-07-23",
-      "id": "73f8dd9d09c0"
+      "id": "3cc55a9225e1"
     },
     {
       "category": "ai",
@@ -250,126 +250,6 @@
       "summary_original": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "published_display": "2026-07-29",
       "id": "1c3ab70123cd"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMC1LVi1KcG84bmgwaHZYV2pESmIzUUlWbC1ocHJYRDhwdTJ0azNiUEtNQUVfRGNnUWZxWFlNREZJbFRzcGFGdk5iQ3ZVZllvR1dMN3JZTENGUkdOeTNRcXl4d3JYMmE1REVxWjlVYUpaWEh3UHR2VzlqNUFjN21aWFBvTU04UVpFbFFwZ2I1eS1RNHhsLVNjNmR4MXdTYm01T1BUdzRWaWFSajR6TXZJRlBtaGxubXVSWXpCbGZmTktOVzJmN3JOZklEMzFDQjhzVUlGMU9IMTZteXN1Wl9IRjlR?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-30T10:33:26Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - Robotik ve Otomasyon Haberleri Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor Robotik ve Otomasyon Haberleri Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies - Robotics & Automation News Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies - Robotics & Automation News",
-      "summary_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies Robotics & Automation News",
-      "published_display": "2026-07-30",
-      "id": "7c886d364bfc"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor - BBC",
-      "summary": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYlBJZF9xOGpsaDBRRkVnRGpsN2FDNXdfSXVGM0pfYlhOM0tYQ1JjbjdoczktRHBrbVhNbGM5TThUeFI4YTkzcWl6WFkyOEJOMUpabGZCZzA0Zw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-29T22:08:29Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor - BBC Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor BBC The Chinese robot army transforming the UK's retail industry - BBC The Chinese robot army transforming the UK's retail industry BBC Robotics Automation Industry",
-      "title_original": "The Chinese robot army transforming the UK's retail industry - BBC",
-      "summary_original": "The Chinese robot army transforming the UK's retail industry BBC",
-      "published_display": "2026-07-29",
-      "id": "f94246c571bc"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
-      "summary": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZU0zWFpOeF9FMTZZMmFySEpQcFI4enF2UDd4ZXR1WFFINnFQU2F0d25zVGQ0RmRDQlRmS0RYaUZIck9LV1ZlRWtLbjFhUVk0dXhNVk9WRkZGSGRjUW5ud01uVVA1VVZvQ0ZBNndFNnZJVjhtTFZlNVNvQmQtMEJuanU4S3NMVHNhWWVXWXBtVW5XTEdkbHk4MWVB?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-29T17:53:41Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
-      "title_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-      "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
-      "published_display": "2026-07-29",
-      "id": "6d3a4e352eb0"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1g4em44MHI5Q0FxdnllYWhvOGZNVHdQdFAwSlNwTzZRaGJfOWZjcExMMVd2NF80ZGJqVHBRbWpwTUtPS1R5QnhmMGY5ZUROOE9TSTJsekNYcjFBLXdldUNYWnhTZHNtSkNBVWJfMEFKaWo5NTdRVnFZUkdmeDU2TjRqYVlWZmQwZ19XcVljaE1LMTRoX3RaMGZ4QWg0cUczNENXT2o3bVlvSm90MGt4aC1icEplbFU?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-29T13:35:24Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
-      "published_display": "2026-07-29",
-      "id": "321fca79a57b"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi - PW",
-      "summary": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi PW",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzNYd0FBd1ZVWGNzVUtLcXlFOXFGSDRFZm9ERWhvWDRWY1NPZXAxeTFzWXU2b19tRzlBN29FR010ZC1LY1FsRWNzX21mWVVyakJONmF5aVFtei1fYzRXbzYxSTVXZURrYnk2bjFrODhfZEFReG1fRTBPQnRwMzRORUF1N1ZnLVI1SmdjZC02dmNPY3BMN1ZYWGxQb2w5R1RpUF9EWDVIUHFua3A2blE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-29T12:46:22Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi - PW Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi PW India's Robotics & Automation Landscape: 2025 Analysis - PW India's Robotics & Automation Landscape: 2025 Analysis PW Robotics Automation Industry",
-      "title_original": "India's Robotics & Automation Landscape: 2025 Analysis - PW",
-      "summary_original": "India's Robotics & Automation Landscape: 2025 Analysis PW",
-      "published_display": "2026-07-29",
-      "id": "ce2405dd366b"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotik ve otomasyon şirketleri ChatGPT, Gemini ve Perplexity'de görünürlüğü nasıl artırabilir? - Robotik ve Otomasyon Haberleri",
-      "summary": "Robotik ve otomasyon şirketleri ChatGPT, Gemini ve Perplexity'de görünürlüğü nasıl artırabilir? Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVmQ0UHBjUXFlcnBsd0xEMTdQZWpZcHoxWkdhdVJDUHNEVDRCVVZCeDd3d0tsVXM3X1o0bFZ4YTJPUTJDY0NPdlpjQ0w1cmpaTzRrbGk1OGc2MUxJbEw4eWIxeS1aSGUySEVwZFlkbGxYVUJxV1kyN2N2cEpMa3U2SXpIMnhIZklpS0dyZ0Jqc1R2T1BNSlpUeVpITG40a3pHNTgtU2ZDa2k3dzlfQ0RVYVlVb1Y5Vnk0ek5UVF95bGEyaFBkMDRmdTJfSHRMWmhjMVRUamhvVFByWXZYNUtzUzlDNWR4blhPS2FBUVZoS2toUnFsLVZGU2VjV0VVUnIt?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-28T14:06:29Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik ve otomasyon şirketleri ChatGPT, Gemini ve Perplexity'de görünürlüğü nasıl artırabilir? - Robotik ve Otomasyon Haberleri Robotik ve otomasyon şirketleri ChatGPT, Gemini ve Perplexity'de görünürlüğü nasıl artırabilir? Robotik ve Otomasyon Haberleri How robotics and automation companies can improve visibility in ChatGPT, Gemini, and Perplexity - Robotics & Automation News How robotics and automation companies can improve visibility in ChatGPT, Gemini, and Perplexity Robotics & Automation News Robotics Automation Industry",
-      "title_original": "How robotics and automation companies can improve visibility in ChatGPT, Gemini, and Perplexity - Robotics & Automation News",
-      "summary_original": "How robotics and automation companies can improve visibility in ChatGPT, Gemini, and Perplexity Robotics & Automation News",
-      "published_display": "2026-07-28",
-      "id": "2298f5106995"
     },
     {
       "category": "web",
@@ -590,86 +470,6 @@
       "summary_original": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex...",
       "published_display": "2026-06-18",
       "id": "b8ae76a3b4f9"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Securityinformed.com",
-      "summary": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Securityinformed.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEhUMDhNRERDc0x4X3YycG9EbGhjWkp2TUlzbVI2R25OVW5ZWXJMa3VBNGFrUW9ycHBPa1JXNzZ5ZnRRbUlVQ3cwLS1JVDFvcFZkV3RDdFhKQnE5RTdZbXBQeng4V2d2WDNOVkdFbHk4UjlRMHptZVQ5blFDaUlieUxnY3BqQ1NQRUw5b294c1hvUElZTUtja182QlhPTWMx?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-07-28T16:29:13Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Securityinformed.com Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Securityinformed.com Hanwha Vision Cameras Earn BSI IT Security Label - securityinformed.com Hanwha Vision Cameras Earn BSI IT Security Label securityinformed.com IP Camera Video Surveillance",
-      "title_original": "Hanwha Vision Cameras Earn BSI IT Security Label - securityinformed.com",
-      "summary_original": "Hanwha Vision Cameras Earn BSI IT Security Label securityinformed.com",
-      "published_display": "2026-07-28",
-      "id": "b30d79ced483"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews",
-      "summary": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNk9NNUdtbThFQ3luZGEtRXhxVXR4SWVuMGZuRGVXbTh0MEYxMm9hNzhfaXgxRHpORGYzbjlCTllOV1Q1WF92TFVEQ1Y1bTR6QUtBZGI3MUxUVTI0OGdhbXpkZ0RlZmNnR1FUeldPZTI1RnpnMmNrTVZn0gF_QVVfeXFMT0czeWtvZWFiVjE0RXFDS1pEUS1wWG1WTTlVMi1wNnVnS1llV2x3NzgtcDlnMXZWbENNemotR1hLV0pJTXpTdnJnMGtWb0paX3p4dF9GdDFWOFhqdEdfNF9rcnF2NGZKZGVkM29WdlZFTXhjWU9rS3hBSTlqMzZXcw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-07-22T14:16:32Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi CyberSecurityNews Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - CyberSecurityNews Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - CyberSecurityNews",
-      "summary_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews",
-      "published_display": "2026-07-22",
-      "id": "23b142dc3456"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider",
-      "summary": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSnRaVmxYZXEyNWhEYjRZS01ERl9qTFJDOXRaYlNsMUtVWUYxVG9nLTZXVzg5M05zVXNUdmJMazdlUWp0VG5kbmozcjE5ZHFhb20ySVRVN1hTWV9sMENFU0xLOVg5b3JWeGc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-06-30T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider Top Security Camera Companies Transforming Threat Detection - SNS Insider Top Security Camera Companies Transforming Threat Detection SNS Insider IP Camera Video Surveillance",
-      "title_original": "Top Security Camera Companies Transforming Threat Detection - SNS Insider",
-      "summary_original": "Top Security Camera Companies Transforming Threat Detection SNS Insider",
-      "published_display": "2026-06-30",
-      "id": "6457418f53ed"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 - Pazar Araştırmasının Geleceği",
-      "summary": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 Pazar Araştırması Geleceği",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYVMxZjhwdTFmRWRJZ1FWR0pqSzBEU1JqeVg1TUVackF3b0NhcnRuOVFYOGdVdjNMNy0wV21abzF1OWFvZXVuUjJ0THd4ZVpuSVhMekpxWWppMlFDbElxaUdBUVp0UkdwSm9Lcg?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-06-22T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 - Pazar Araştırmasının Geleceği CCTV Pazar Büyüklüğü, Payı, Büyüme Analizi | Tahmin 2035 Pazar Araştırması Geleceği CCTV Market Size, Share, Growth Analysis | Forecast 2035 - Market Research Future CCTV Market Size, Share, Growth Analysis | Forecast 2035 Market Research Future IP Camera Video Surveillance",
-      "title_original": "CCTV Market Size, Share, Growth Analysis | Forecast 2035 - Market Research Future",
-      "summary_original": "CCTV Market Size, Share, Growth Analysis | Forecast 2035 Market Research Future",
-      "published_display": "2026-06-22",
-      "id": "e22a2ff8fc75"
     }
   ]
 }
