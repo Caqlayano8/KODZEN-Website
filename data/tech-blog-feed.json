@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-31T15:00:00Z",
+  "updated_at": "2026-07-31T16:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Erken durmayın: Bellek hızında kaynak kodu katlama",
+      "summary": "Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-07-31T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Erken durmayın: Bellek hızında kaynak kodu katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Don’t stop early: Case-folding source code at memory speed",
+      "summary_original": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
+      "published_display": "2026-07-31",
+      "id": "dd650c99509b"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "6ab322fef189"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi",
-      "summary": "Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor...",
-      "url": "https://devblogs.microsoft.com/blog/the-microsoft-365-copilot-agents-playbook-a-practical-livestream-series-for-building-better-agents/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-07-23T19:03:53Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Microsoft 365 Copilot Temsilcisinin Başucu Kitabı: Daha İyi Temsilciler Oluşturmaya Yönelik Pratik Bir Canlı Yayın Serisi Microsoft 365 Copilot'u mu geliştiriyorsunuz? İşte başucu kitabınız. Bildirime dayalı aracılar hızla Microsoft 365 Copilot'u genişletmenin ve kurumsal bilgiyi, iş akışlarını ve araçları doğrudan flo'ya getirmenin en heyecan verici yollarından biri haline geliyor... The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo... Microsoft Dev Cloud",
-      "title_original": "The Microsoft 365 Copilot Agent’s Playbook: A Practical Livestream Series for Building Better Agents",
-      "summary_original": "Building on Microsoft 365 Copilot? Here’s your playbook. Declarative agents are quickly becoming one of the most exciting ways to extend Microsoft 365 Copilot and bring organizational knowledge, workflows, and tools directly into the flo...",
-      "published_display": "2026-07-23",
-      "id": "73f8dd9d09c0"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Bol zeka oluşturmak",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Sorumlu yapay zekayı Avrupa çapında ilerletmek",
-      "summary": "OpenAI, güvenlik, güvenlik, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Yasası ilerledikçe çalışmalar devam edecek.",
+      "summary": "OpenAI, güvenlik, emniyet, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Kanunu ilerledikçe çalışmalar devam edecek.",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Sorumlu yapay zekayı Avrupa çapında ilerletmek OpenAI, güvenlik, güvenlik, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Yasası ilerledikçe çalışmalar devam edecek. Advancing responsible AI across Europe OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances. AI OpenAI Model",
+      "keywords": "Sorumlu yapay zekayı Avrupa çapında ilerletmek OpenAI, güvenlik, emniyet, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Kanunu ilerledikçe çalışmalar devam edecek. Advancing responsible AI across Europe OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances. AI OpenAI Model",
       "title_original": "Advancing responsible AI across Europe",
       "summary_original": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "published_display": "2026-07-31",
@@ -314,8 +314,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1g4em44MHI5Q0FxdnllYWhvOGZNVHdQdFAwSlNwTzZRaGJfOWZjcExMMVd2NF80ZGJqVHBRbWpwTUtPS1R5QnhmMGY5ZUROOE9TSTJsekNYcjFBLXdldUNYWnhTZHNtSkNBVWJfMEFKaWo5NTdRVnFZUkdmeDU2TjRqYVlWZmQwZ19XcVljaE1LMTRoX3RaMGZ4QWg0cUczNENXT2o3bVlvSm90MGt4aC1icEplbFU?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-07-29",
-      "id": "9a1d3e921088"
+      "id": "321fca79a57b"
     },
     {
       "category": "robotik",
@@ -614,8 +614,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews",
-      "summary": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi CyberSecurityNews",
+      "title": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - cybersecuritynews.com",
+      "summary": "Rus İstihbaratı Ukrayna'ya Yapılan Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi cybersecuritynews.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNk9NNUdtbThFQ3luZGEtRXhxVXR4SWVuMGZuRGVXbTh0MEYxMm9hNzhfaXgxRHpORGYzbjlCTllOV1Q1WF92TFVEQ1Y1bTR6QUtBZGI3MUxUVTI0OGdhbXpkZ0RlZmNnR1FUeldPZTI1RnpnMmNrTVZn0gF_QVVfeXFMT0czeWtvZWFiVjE0RXFDS1pEUS1wWG1WTTlVMi1wNnVnS1llV2x3NzgtcDlnMXZWbENNemotR1hLV0pJTXpTdnJnMGtWb0paX3p4dF9GdDFWOFhqdEdfNF9rcnF2NGZKZGVkM29WdlZFTXhjWU9rS3hBSTlqMzZXcw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi CyberSecurityNews Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - CyberSecurityNews Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - CyberSecurityNews",
-      "summary_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews",
+      "keywords": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - cybersecuritynews.com Rus İstihbaratı Ukrayna'ya Yapılan Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi cybersecuritynews.com Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - cybersecuritynews.com Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine cybersecuritynews.com IP Camera Video Surveillance",
+      "title_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - cybersecuritynews.com",
+      "summary_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine cybersecuritynews.com",
       "published_display": "2026-07-22",
-      "id": "23b142dc3456"
+      "id": "13cc9817e6d3"
     },
     {
       "category": "kamera",
