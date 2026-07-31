@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-30T20:36:36Z",
+  "updated_at": "2026-07-31T15:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Sorumlu yapay zekayı Avrupa çapında ilerletmek",
+      "summary": "OpenAI, güvenlik, emniyet, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Kanunu ilerledikçe çalışmalar devam edecek.",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-31T15:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Sorumlu yapay zekayı Avrupa çapında ilerletmek OpenAI, güvenlik, emniyet, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Kanunu ilerledikçe çalışmalar devam edecek. Advancing responsible AI across Europe OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances. AI OpenAI Model",
+      "title_original": "Advancing responsible AI across Europe",
+      "summary_original": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "published_display": "2026-07-31",
+      "id": "fdfd26d1bcfa"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Univé yapay zekaya hazır iş gücünü oluşturuyor",
+      "summary": "Univé'nin, işi geniş ölçekte dönüştürmek için liderliği, sorumlu yönetimi ve çalışan liderliğindeki inovasyonu birleştirerek ChatGPT Enterprise ile nasıl yapay zekaya hazır bir iş gücü oluşturduğunu görün.",
+      "url": "https://openai.com/index/unive",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-07-31T07:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Univé yapay zekaya hazır iş gücünü oluşturuyor Univé'nin, işi geniş ölçekte dönüştürmek için liderliği, sorumlu yönetimi ve çalışan liderliğindeki inovasyonu birleştirerek ChatGPT Enterprise ile nasıl yapay zekaya hazır bir iş gücü oluşturduğunu görün. Univé builds an AI-ready workforce See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale. AI OpenAI Model",
+      "title_original": "Univé builds an AI-ready workforce",
+      "summary_original": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "published_display": "2026-07-31",
+      "id": "1a2421098a4b"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Science One Çerçevesi: Kanıt Zinciri aracılığıyla doğrulanabilir özerk bir araştırma çerçevesi",
       "summary": "Genel Bilim",
       "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
@@ -210,46 +250,6 @@
       "summary_original": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "published_display": "2026-07-29",
       "id": "1c3ab70123cd"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Akademik Araştırmacılar için ChatGPT ile bilimsel keşifleri hızlandırma",
-      "summary": "OpenAI, bilimsel araştırmayı, işbirliğini ve keşfi hızlandırmak için 100.000 akademik araştırmacıya ChatGPT'nin en gelişmiş yapay zeka modellerine ücretsiz erişim sağlıyor.",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-29T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Akademik Araştırmacılar için ChatGPT ile bilimsel keşifleri hızlandırma OpenAI, bilimsel araştırmayı, işbirliğini ve keşfi hızlandırmak için 100.000 akademik araştırmacıya ChatGPT'nin en gelişmiş yapay zeka modellerine ücretsiz erişim sağlıyor. Accelerating scientific discovery with ChatGPT for Academic Researchers OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery. AI OpenAI Model",
-      "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary_original": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "published_display": "2026-07-29",
-      "id": "f6484e2f0b01"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-5.6 sınır zekasını sınır verimliliğiyle nasıl birleştiriyor?",
-      "summary": "GPT-5.6 modeller, çıkarımlar ve aracılı iş akışları genelinde yapay zeka verimliliğini artırarak dolar başına daha yararlı zeka sağlanmasına yardımcı olur.",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-07-29T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "GPT-5.6 sınır zekasını sınır verimliliğiyle nasıl birleştiriyor? GPT-5.6 modeller, çıkarımlar ve aracılı iş akışları genelinde yapay zeka verimliliğini artırarak dolar başına daha yararlı zeka sağlanmasına yardımcı olur. How GPT-5.6 fuses frontier intelligence with frontier efficiency GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar. AI OpenAI Model",
-      "title_original": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary_original": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "published_display": "2026-07-29",
-      "id": "0efd0b7e2284"
     },
     {
       "category": "robotik",
@@ -594,8 +594,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Güvenlik Bilgili",
-      "summary": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Güvenlik Bilgisi",
+      "title": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Securityinformed.com",
+      "summary": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Securityinformed.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEhUMDhNRERDc0x4X3YycG9EbGhjWkp2TUlzbVI2R25OVW5ZWXJMa3VBNGFrUW9ycHBPa1JXNzZ5ZnRRbUlVQ3cwLS1JVDFvcFZkV3RDdFhKQnE5RTdZbXBQeng4V2d2WDNOVkdFbHk4UjlRMHptZVQ5blFDaUlieUxnY3BqQ1NQRUw5b294c1hvUElZTUtja182QlhPTWMx?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,11 +605,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Güvenlik Bilgili Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Güvenlik Bilgisi Hanwha Vision Cameras Earn BSI IT Security Label - Security Informed Hanwha Vision Cameras Earn BSI IT Security Label Security Informed IP Camera Video Surveillance",
-      "title_original": "Hanwha Vision Cameras Earn BSI IT Security Label - Security Informed",
-      "summary_original": "Hanwha Vision Cameras Earn BSI IT Security Label Security Informed",
+      "keywords": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Securityinformed.com Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Securityinformed.com Hanwha Vision Cameras Earn BSI IT Security Label - securityinformed.com Hanwha Vision Cameras Earn BSI IT Security Label securityinformed.com IP Camera Video Surveillance",
+      "title_original": "Hanwha Vision Cameras Earn BSI IT Security Label - securityinformed.com",
+      "summary_original": "Hanwha Vision Cameras Earn BSI IT Security Label securityinformed.com",
       "published_display": "2026-07-28",
-      "id": "cf355802b7fa"
+      "id": "b30d79ced483"
     },
     {
       "category": "kamera",
