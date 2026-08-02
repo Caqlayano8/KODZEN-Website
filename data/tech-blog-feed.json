@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-08-01T00:00:00Z",
-  "total_posts": 33,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 5,
-    "kamera": 4
+    "kamera": 3
   },
   "posts": [
     {
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Tame Dependabot: Güncellemelerinizi gruplayın, tempoyu yavaşlatın, güvenliği hızlı tutun",
-      "summary": "Dependabot bağımlılıklarınızı güncel tutar, ancak varsayılanları deponuzu çekme istekleriyle doldurabilir. Güncelleştirmeleri gruplandırmanın, tempoyu yavaşlatmanın ve güvenlik düzeltmelerini hızlı tutmanın bir Microsoft açık kaynak projesinde gürültüyü nasıl azalttığını burada bulabilirsiniz...",
+      "summary": "Dependabot bağımlılıklarınızı güncel tutar, ancak varsayılanları deponuzu çekme istekleriyle doldurabilir. Güncelleştirmeleri gruplandırmanın, tempoyu yavaşlatmanın ve güvenlik düzeltmelerini hızlı tutmanın Microsoft açık kaynaklı bir projedeki gürültüyü nasıl azalttığını burada bulabilirsiniz...",
       "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Tame Dependabot: Güncellemelerinizi gruplayın, tempoyu yavaşlatın, güvenliği hızlı tutun Dependabot bağımlılıklarınızı güncel tutar, ancak varsayılanları deponuzu çekme istekleriyle doldurabilir. Güncelleştirmeleri gruplandırmanın, tempoyu yavaşlatmanın ve güvenlik düzeltmelerini hızlı tutmanın bir Microsoft açık kaynak projesinde gürültüyü nasıl azalttığını burada bulabilirsiniz... Tame Dependabot: Group your updates, slow the cadence, keep security fast Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project... GitHub Dev Platform",
+      "keywords": "Tame Dependabot: Güncellemelerinizi gruplayın, tempoyu yavaşlatın, güvenliği hızlı tutun Dependabot bağımlılıklarınızı güncel tutar, ancak varsayılanları deponuzu çekme istekleriyle doldurabilir. Güncelleştirmeleri gruplandırmanın, tempoyu yavaşlatmanın ve güvenlik düzeltmelerini hızlı tutmanın Microsoft açık kaynaklı bir projedeki gürültüyü nasıl azalttığını burada bulabilirsiniz... Tame Dependabot: Group your updates, slow the cadence, keep security fast Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project... GitHub Dev Platform",
       "title_original": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
       "summary_original": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project...",
       "published_display": "2026-07-29",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla)",
-      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmak, planlamak, uygulamak ve incelemek için pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "The harness is all you need (mostly)",
       "summary_original": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
       "published_display": "2026-07-27",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Bol zeka oluşturmak",
-      "summary": "Gelişmiş yapay zekayı daha yetenekli, daha uygun maliyetli ve daha geniş çapta kullanışlı hale getirmeye yönelik kapsamlı bir yaklaşım.",
+      "summary": "Gelişmiş yapay zekayı daha yetenekli, daha uygun fiyatlı ve daha geniş çapta kullanışlı hale getirmeye yönelik kapsamlı bir yaklaşım.",
       "url": "https://openai.com/index/building-abundant-intelligence",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Bol zeka oluşturmak Gelişmiş yapay zekayı daha yetenekli, daha uygun maliyetli ve daha geniş çapta kullanışlı hale getirmeye yönelik kapsamlı bir yaklaşım. Building abundant intelligence A full-stack approach to making advanced AI more capable, more affordable, and more widely useful. AI OpenAI Model",
+      "keywords": "Bol zeka oluşturmak Gelişmiş yapay zekayı daha yetenekli, daha uygun fiyatlı ve daha geniş çapta kullanışlı hale getirmeye yönelik kapsamlı bir yaklaşım. Building abundant intelligence A full-stack approach to making advanced AI more capable, more affordable, and more widely useful. AI OpenAI Model",
       "title_original": "Building abundant intelligence",
       "summary_original": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "published_display": "2026-07-31",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Sorumlu yapay zekayı Avrupa çapında ilerletmek",
-      "summary": "OpenAI, güvenlik, güvenlik, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Yasası ilerledikçe çalışmalar devam edecek.",
+      "summary": "OpenAI, güvenlik, emniyet, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Kanunu ilerledikçe çalışmalar devam edecek.",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Sorumlu yapay zekayı Avrupa çapında ilerletmek OpenAI, güvenlik, güvenlik, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Yasası ilerledikçe çalışmalar devam edecek. Advancing responsible AI across Europe OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances. AI OpenAI Model",
+      "keywords": "Sorumlu yapay zekayı Avrupa çapında ilerletmek OpenAI, güvenlik, emniyet, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Kanunu ilerledikçe çalışmalar devam edecek. Advancing responsible AI across Europe OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances. AI OpenAI Model",
       "title_original": "Advancing responsible AI across Europe",
       "summary_original": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "published_display": "2026-07-31",
@@ -234,7 +234,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Science One Çerçevesi: Kanıt Zinciri aracılığıyla doğrulanabilir özerk bir araştırma çerçevesi",
+      "title": "Science One Çerçevesi: Kanıt Zinciri yoluyla doğrulanabilir özerk bir araştırma çerçevesi",
       "summary": "Genel Bilim",
       "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
@@ -245,17 +245,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Science One Çerçevesi: Kanıt Zinciri aracılığıyla doğrulanabilir özerk bir araştırma çerçevesi Genel Bilim Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science AI Research Google",
+      "keywords": "Science One Çerçevesi: Kanıt Zinciri yoluyla doğrulanabilir özerk bir araştırma çerçevesi Genel Bilim Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science AI Research Google",
       "title_original": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
       "summary_original": "General Science",
       "published_display": "2026-07-30",
-      "id": "70f1f4af8d29"
+      "id": "9de8a8a374c0"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor Robotik ve Otomasyon Haberleri",
+      "title": "Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - roboticsandautomationnews.com",
+      "summary": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zekalı akıllı fabrika teknolojilerini tanıtıyor roboticsandautomationnews.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMC1LVi1KcG84bmgwaHZYV2pESmIzUUlWbC1ocHJYRDhwdTJ0azNiUEtNQUVfRGNnUWZxWFlNREZJbFRzcGFGdk5iQ3ZVZllvR1dMN3JZTENGUkdOeTNRcXl4d3JYMmE1REVxWjlVYUpaWEh3UHR2VzlqNUFjN21aWFBvTU04UVpFbFFwZ2I1eS1RNHhsLVNjNmR4MXdTYm01T1BUdzRWaWFSajR6TXZJRlBtaGxubXVSWXpCbGZmTktOVzJmN3JOZklEMzFDQjhzVUlGMU9IMTZteXN1Wl9IRjlR?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,17 +265,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - Robotik ve Otomasyon Haberleri Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor Robotik ve Otomasyon Haberleri Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies - Robotics & Automation News Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies - Robotics & Automation News",
-      "summary_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies Robotics & Automation News",
+      "keywords": "Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - roboticsandautomationnews.com Shanghai Electric, insansı ve endüstriyel robotları ve yapay zekalı akıllı fabrika teknolojilerini tanıtıyor roboticsandautomationnews.com Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies - roboticsandautomationnews.com Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies roboticsandautomationnews.com Robotics Automation Industry",
+      "title_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies - roboticsandautomationnews.com",
+      "summary_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies roboticsandautomationnews.com",
       "published_display": "2026-07-30",
-      "id": "7c886d364bfc"
+      "id": "1dc18c4600c1"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor - BBC",
-      "summary": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor BBC",
+      "title": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor - bbc.co.uk",
+      "summary": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor bbc.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZYTR5dHYtUWJHRTVNbDJ6ZWlXNFBKSWFqMDhlYk80d2tpZGF3bFZ1RWFVM2FIZVVYR3d5ZXBZYy11LTZRZllyX3M4TzZjM0hVNlg2eFc1eEdzNklk?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor - BBC Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor BBC The Chinese robot army transforming the UK's retail industry - BBC The Chinese robot army transforming the UK's retail industry BBC Robotics Automation Industry",
-      "title_original": "The Chinese robot army transforming the UK's retail industry - BBC",
-      "summary_original": "The Chinese robot army transforming the UK's retail industry BBC",
+      "keywords": "Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor - bbc.co.uk Çin robot ordusu İngiltere'nin perakende sektörünü dönüştürüyor bbc.co.uk The Chinese robot army transforming the UK's retail industry - bbc.co.uk The Chinese robot army transforming the UK's retail industry bbc.co.uk Robotics Automation Industry",
+      "title_original": "The Chinese robot army transforming the UK's retail industry - bbc.co.uk",
+      "summary_original": "The Chinese robot army transforming the UK's retail industry bbc.co.uk",
       "published_display": "2026-07-29",
-      "id": "ae20f776e6a1"
+      "id": "55039ad1a39f"
     },
     {
       "category": "robotik",
@@ -334,7 +334,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi - PW",
+      "title": "Hindistan'ın Robotik ve Otomasyon Durumu: 2025 Analizi - PW",
       "summary": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi PW",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzNYd0FBd1ZVWGNzVUtLcXlFOXFGSDRFZm9ERWhvWDRWY1NPZXAxeTFzWXU2b19tRzlBN29FR010ZC1LY1FsRWNzX21mWVVyakJONmF5aVFtei1fYzRXbzYxSTVXZURrYnk2bjFrODhfZEFReG1fRTBPQnRwMzRORUF1N1ZnLVI1SmdjZC02dmNPY3BMN1ZYWGxQb2w5R1RpUF9EWDVIUHFua3A2blE?oc=5",
       "image_url": null,
@@ -345,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi - PW Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi PW India's Robotics & Automation Landscape: 2025 Analysis - PW India's Robotics & Automation Landscape: 2025 Analysis PW Robotics Automation Industry",
+      "keywords": "Hindistan'ın Robotik ve Otomasyon Durumu: 2025 Analizi - PW Hindistan'ın Robotik ve Otomasyon Ortamı: 2025 Analizi PW India's Robotics & Automation Landscape: 2025 Analysis - PW India's Robotics & Automation Landscape: 2025 Analysis PW Robotics Automation Industry",
       "title_original": "India's Robotics & Automation Landscape: 2025 Analysis - PW",
       "summary_original": "India's Robotics & Automation Landscape: 2025 Analysis PW",
       "published_display": "2026-07-29",
-      "id": "ce2405dd366b"
+      "id": "0c5d0d031b63"
     },
     {
       "category": "robotik",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz?",
-      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
+      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve bunlar üzerinde çalışırken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
       "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
+      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve bunlar üzerinde çalışırken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
       "title_original": "Why we cannot wait for better post-quantum signature algorithms",
       "summary_original": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-...",
       "published_display": "2026-07-09",
@@ -610,26 +610,6 @@
       "summary_original": "Hanwha Vision Cameras Earn BSI IT Security Label Security Informed",
       "published_display": "2026-07-28",
       "id": "cf355802b7fa"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Video Gözetlemede Yapay Zeka Pazar Büyüklüğü, Paylaş | Rapor [2035] - Pazar Araştırmasının Geleceği",
-      "summary": "Video Gözetlemede Yapay Zeka Pazar Büyüklüğü, Paylaş | Rapor [2035] Pazar Araştırmasının Geleceği",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFE0X3RoRXJFdERyUk1QNGNDa0JCQ2t1cHhESTBFN2lGbWxyNE5kQ2RxVlZSMFdzd2x5N2NRdFl3N0VjUmFVSXdTazA1bEhteDkyNVlTQ1hIeUUtVVl6Wkkwal8tYnpaN21KcVNvdjRoeW5lRUQ4UTBJX1hiWk5LWDBEUkVSYTJpdmc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-07-06T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Video Gözetlemede Yapay Zeka Pazar Büyüklüğü, Paylaş | Rapor [2035] - Pazar Araştırmasının Geleceği Video Gözetlemede Yapay Zeka Pazar Büyüklüğü, Paylaş | Rapor [2035] Pazar Araştırmasının Geleceği AI in Video Surveillance Market Size, Share | Report [2035] - Market Research Future AI in Video Surveillance Market Size, Share | Report [2035] Market Research Future IP Camera Video Surveillance",
-      "title_original": "AI in Video Surveillance Market Size, Share | Report [2035] - Market Research Future",
-      "summary_original": "AI in Video Surveillance Market Size, Share | Report [2035] Market Research Future",
-      "published_display": "2026-07-06",
-      "id": "3c48c0378783"
     },
     {
       "category": "kamera",
