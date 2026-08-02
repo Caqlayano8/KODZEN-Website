@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-08-01T00:00:00Z",
-  "total_posts": 33,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 5,
-    "kamera": 4
+    "kamera": 3
   },
   "posts": [
     {
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Sorumlu yapay zekayı Avrupa çapında ilerletmek",
-      "summary": "OpenAI, güvenlik, emniyet, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Kanunu ilerledikçe çalışmalar devam edecek.",
+      "summary": "OpenAI, güvenlik, güvenlik, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Yasası ilerledikçe çalışmalar devam edecek.",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Sorumlu yapay zekayı Avrupa çapında ilerletmek OpenAI, güvenlik, emniyet, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Kanunu ilerledikçe çalışmalar devam edecek. Advancing responsible AI across Europe OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances. AI OpenAI Model",
+      "keywords": "Sorumlu yapay zekayı Avrupa çapında ilerletmek OpenAI, güvenlik, güvenlik, şeffaflık ve kaynak uygulamalarının Avrupa'da sorumlu yapay zeka yönetimini nasıl desteklediğini paylaşıyor. AB Yapay Zeka Yasası ilerledikçe çalışmalar devam edecek. Advancing responsible AI across Europe OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances. AI OpenAI Model",
       "title_original": "Advancing responsible AI across Europe",
       "summary_original": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "published_display": "2026-07-31",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz?",
-      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve bunlar üzerinde çalışırken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
+      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
       "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
       "image_url": null,
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve bunlar üzerinde çalışırken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
+      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
       "title_original": "Why we cannot wait for better post-quantum signature algorithms",
       "summary_original": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-...",
       "published_display": "2026-07-09",
@@ -610,26 +610,6 @@
       "summary_original": "Hanwha Vision Cameras Earn BSI IT Security Label Security Informed",
       "published_display": "2026-07-28",
       "id": "cf355802b7fa"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Video Gözetlemede Yapay Zeka Pazar Büyüklüğü, Paylaş | Rapor [2035] - Pazar Araştırmasının Geleceği",
-      "summary": "Video Gözetlemede Yapay Zeka Pazar Büyüklüğü, Paylaş | Rapor [2035] Pazar Araştırmasının Geleceği",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFE0X3RoRXJFdERyUk1QNGNDa0JCQ2t1cHhESTBFN2lGbWxyNE5kQ2RxVlZSMFdzd2x5N2NRdFl3N0VjUmFVSXdTazA1bEhteDkyNVlTQ1hIeUUtVVl6Wkkwal8tYnpaN21KcVNvdjRoeW5lRUQ4UTBJX1hiWk5LWDBEUkVSYTJpdmc?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-07-06T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Video Gözetlemede Yapay Zeka Pazar Büyüklüğü, Paylaş | Rapor [2035] - Pazar Araştırmasının Geleceği Video Gözetlemede Yapay Zeka Pazar Büyüklüğü, Paylaş | Rapor [2035] Pazar Araştırmasının Geleceği AI in Video Surveillance Market Size, Share | Report [2035] - Market Research Future AI in Video Surveillance Market Size, Share | Report [2035] Market Research Future IP Camera Video Surveillance",
-      "title_original": "AI in Video Surveillance Market Size, Share | Report [2035] - Market Research Future",
-      "summary_original": "AI in Video Surveillance Market Size, Share | Report [2035] Market Research Future",
-      "published_display": "2026-07-06",
-      "id": "3c48c0378783"
     },
     {
       "category": "kamera",
