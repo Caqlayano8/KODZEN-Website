@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T16:47:18Z",
+  "updated_at": "2026-08-04T19:44:21Z",
   "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,28 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
+      "title": "GitHub hukuk ekibi iş akışlarını kolaylaştırmak için Copilot CLI'yi nasıl kullandı?",
+      "summary": "Tek satır kod yazmanıza gerek kalmadan çalışma şeklinizi basitleştirecek araçları nasıl oluşturacağınızı öğrenin. GitHub hukuk ekibinin iş akışlarını kolaylaştırmak için Copilot CLI'yi nasıl kullandığı yazısı ilk olarak GitHub Blogunda yayınlandı.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-08-04T19:02:34Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub hukuk ekibi iş akışlarını kolaylaştırmak için Copilot CLI'yi nasıl kullandı? Tek satır kod yazmanıza gerek kalmadan çalışma şeklinizi basitleştirecek araçları nasıl oluşturacağınızı öğrenin. GitHub hukuk ekibinin iş akışlarını kolaylaştırmak için Copilot CLI'yi nasıl kullandığı yazısı ilk olarak GitHub Blogunda yayınlandı. How the GitHub legal team used Copilot CLI to streamline their workflows Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "summary_original": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
+      "published_display": "2026-08-04",
+      "id": "860b788802a5"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
       "title": "Yapay zeka tarafından oluşturulan devasa bir çekme isteğini incelenebilir bir yığına dönüştürün",
-      "summary": "Büyük, incelenemeyen bir çekme isteği yerine, kodlama aracılarına işleri GitHub yığılmış çekme istekleriyle temiz, düzenli bir yığına ayırmayı öğretin. Yapay zeka tarafından oluşturulan devasa bir çekme isteğini incelenebilir bir yığına dönüştürün yazısı ilk olarak ortaya çıktı...",
+      "summary": "Büyük, incelenemeyen bir çekme isteği yerine, kodlama aracılarına işleri GitHub yığılmış çekme istekleriyle temiz, düzenli bir yığına ayırmayı öğretin. Yapay zeka tarafından oluşturulan dev bir çekme isteğini incelenebilir bir yığına dönüştürün yazısı ilk olarak ortaya çıktı...",
       "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yapay zeka tarafından oluşturulan devasa bir çekme isteğini incelenebilir bir yığına dönüştürün Büyük, incelenemeyen bir çekme isteği yerine, kodlama aracılarına işleri GitHub yığılmış çekme istekleriyle temiz, düzenli bir yığına ayırmayı öğretin. Yapay zeka tarafından oluşturulan devasa bir çekme isteğini incelenebilir bir yığına dönüştürün yazısı ilk olarak ortaya çıktı... Turn one giant AI-generated pull request to a reviewable stack Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first... GitHub Dev Platform",
+      "keywords": "Yapay zeka tarafından oluşturulan devasa bir çekme isteğini incelenebilir bir yığına dönüştürün Büyük, incelenemeyen bir çekme isteği yerine, kodlama aracılarına işleri GitHub yığılmış çekme istekleriyle temiz, düzenli bir yığına ayırmayı öğretin. Yapay zeka tarafından oluşturulan dev bir çekme isteğini incelenebilir bir yığına dönüştürün yazısı ilk olarak ortaya çıktı... Turn one giant AI-generated pull request to a reviewable stack Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first... GitHub Dev Platform",
       "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
       "summary_original": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first...",
       "published_display": "2026-08-04",
@@ -110,26 +130,6 @@
       "summary_original": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first...",
       "published_display": "2026-07-28",
       "id": "d45349e17c84"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla)",
-      "summary": "Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-27T18:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) Her yeni yapay zeka aracını takip etmeden yazılımın prototipini oluşturmaya, planlamaya, uygulamaya ve incelemeye yönelik pratik bir GitHub Copilot iş akışı. Koşum takımı ihtiyacınız olan tek şey (çoğunlukla) yazısı ilk olarak GitHub Blogunda göründü. The harness is all you need (mostly) A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "The harness is all you need (mostly)",
-      "summary_original": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
-      "published_display": "2026-07-27",
-      "id": "f1baffcca331"
     },
     {
       "category": "ai",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOFVsZ0ZvNXZTVGtPN3VQdlhjeWRCVnpacTEyOExpTzYtdmtyUUJNdlpnTW56YkdNVW91LWdpbXZ4SmVxOWt4NVowaTZQWUhHU3d4Z1RqNjVhblFvZF84V3ZydWtUYWlUVUd1UUo3bGZPQ2l2akV4MHVnb1l6STU1SXhEbGg3WW1sa182VkJ2bDVJZ1FhQVN3Umo5ZVhFMDkyRHpVR0h0ekZfZnRVa2hnSmJLM1UwdC13Nl9TUVZDTDNIZVB3TG9Xa0ZSR0xyZVE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-04T19:44:21Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-08-04",
+      "id": "d848c2a6f268"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Global X ROBO Global Robotik ve Otomasyon ETF (ASX:ROBO): Küresel Robotik ve Otomasyon Yatırımına Farklı Bir Yaklaşım - Kalkine",
       "summary": "Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Küresel Robotik ve Otomasyon Yatırımına Farklı Bir Yaklaşım Kalkine",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaDFWLVk3OS0xZVhKdG1MbEZzOVR4Rm11eVEtcDdDZWZJNGdfVFc0QU5RMDhNdHQ3VG1Za2E0VlJ2NnRxMFFBaDJ5Mi1jX0ZxOV9VWXVaSTk2My1aeWlydzRqUjNvbTljVE9JTU1BQlcyTmljTGFmSDdBRENaUEhtTDdDVG5wQ1lrSDhYUFpnS0VvbUFKU3hkeFNWNTFiUWVlOTlpMmNET1ZMX1h3RDlfSzlDTjJSZzl4cTY2MTVlQXdnbVg1QXRsTkNWTlJnd0xoblkycGN5dkdWOGJ6MHBESmxPc3NjU0VyNE5wZ2pn?oc=5",
@@ -274,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Çin Otonom Mobil Robotlar (AMR) Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 -marketsandmarkets.com",
-      "summary": "Çin Otonom Mobil Robotlar (AMR) Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031marketsandmarkets.com",
+      "title": "Çin Otonom Mobil Robotlar (AMR) Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
+      "summary": "Çin Otonom Mobil Robotlar (AMR) Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdHowOHE2Y2tvbDRhMlhGUUxUX2Vzd256c0NWbEw3NkQwN3dOX3dvV2dzaFZLRENoQzJreTExYzAzV0hiaXpSR3RlNU5qSzN6YlRER2xJcFZ6aDM0aVNnbnZteTJtRGUzdUxhYTZsblVKcUdEVHVXRFpUTTg4UTluRU9NX3dtZ3A0U1BtS1NVelFHaEFYRDdQd0oxN0I?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Çin Otonom Mobil Robotlar (AMR) Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 -marketsandmarkets.com Çin Otonom Mobil Robotlar (AMR) Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031marketsandmarkets.com China Autonomous Mobile Robots (AMR) Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com China Autonomous Mobile Robots (AMR) Market Size, Share,Trends, Growth Analysis Report, 2031 marketsandmarkets.com Robotics Automation Industry",
-      "title_original": "China Autonomous Mobile Robots (AMR) Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
-      "summary_original": "China Autonomous Mobile Robots (AMR) Market Size, Share,Trends, Growth Analysis Report, 2031 marketsandmarkets.com",
+      "keywords": "Çin Otonom Mobil Robotlar (AMR) Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Çin Otonom Mobil Robotlar (AMR) Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets China Autonomous Mobile Robots (AMR) Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets China Autonomous Mobile Robots (AMR) Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
+      "title_original": "China Autonomous Mobile Robots (AMR) Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "summary_original": "China Autonomous Mobile Robots (AMR) Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
       "published_display": "2026-08-03",
-      "id": "341206421733"
+      "id": "e7939ded1f56"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies Robotics & Automation News",
       "published_display": "2026-07-30",
       "id": "7c886d364bfc"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 -marketsandmarkets.com",
-      "summary": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031marketsandmarkets.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZU0zWFpOeF9FMTZZMmFySEpQcFI4enF2UDd4ZXR1WFFINnFQU2F0d25zVGQ0RmRDQlRmS0RYaUZIck9LV1ZlRWtLbjFhUVk0dXhNVk9WRkZGSGRjUW5ud01uVVA1VVZvQ0ZBNndFNnZJVjhtTFZlNVNvQmQtMEJuanU4S3NMVHNhWWVXWXBtVW5XTEdkbHk4MWVB?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-29T17:53:41Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 -marketsandmarkets.com Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031marketsandmarkets.com Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 marketsandmarkets.com Robotics Automation Industry",
-      "title_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
-      "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 marketsandmarkets.com",
-      "published_display": "2026-07-29",
-      "id": "97a7116a2918"
     },
     {
       "category": "web",
