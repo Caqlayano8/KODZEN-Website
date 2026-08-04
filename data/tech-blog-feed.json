@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-04T13:02:00Z",
+  "updated_at": "2026-08-04T16:47:18Z",
   "total_posts": 30,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yapay zeka tarafından oluşturulan devasa bir çekme isteğini incelenebilir bir yığına dönüştürün",
+      "summary": "Büyük, incelenemeyen bir çekme isteği yerine, kodlama aracılarına işleri GitHub yığılmış çekme istekleriyle temiz, düzenli bir yığına ayırmayı öğretin. Yapay zeka tarafından oluşturulan dev bir çekme isteğini incelenebilir bir yığına dönüştürün yazısı ilk olarak ortaya çıktı...",
+      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-08-04T16:47:18Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yapay zeka tarafından oluşturulan devasa bir çekme isteğini incelenebilir bir yığına dönüştürün Büyük, incelenemeyen bir çekme isteği yerine, kodlama aracılarına işleri GitHub yığılmış çekme istekleriyle temiz, düzenli bir yığına ayırmayı öğretin. Yapay zeka tarafından oluşturulan dev bir çekme isteğini incelenebilir bir yığına dönüştürün yazısı ilk olarak ortaya çıktı... Turn one giant AI-generated pull request to a reviewable stack Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first... GitHub Dev Platform",
+      "title_original": "Turn one giant AI-generated pull request to a reviewable stack",
+      "summary_original": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first...",
+      "published_display": "2026-08-04",
+      "id": "688dfa2f7be7"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "f1baffcca331"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Başlarken",
-      "summary": "GitHub Copilot uygulamasında yeni misiniz? Projelere nasıl başlayacağınızı, yapay zeka aracılarıyla nasıl çalışacağınızı, tuvalleri nasıl keşfedeceğinizi ve geliştirme iş akışınızı nasıl kolaylaştıracağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Başlarken yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-27T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Başlarken GitHub Copilot uygulamasında yeni misiniz? Projelere nasıl başlayacağınızı, yapay zeka aracılarıyla nasıl çalışacağınızı, tuvalleri nasıl keşfedeceğinizi ve geliştirme iş akışınızı nasıl kolaylaştıracağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Başlarken yazısı ilk olarak GitHub Blogunda göründü. GitHub Copilot app for Beginners: Getting started New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub Copilot app for Beginners: Getting started",
-      "summary_original": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
-      "published_display": "2026-07-27",
-      "id": "6ab322fef189"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Temmuz 2026'da duyurduğumuz en son yapay zeka haberleri",
@@ -150,6 +150,26 @@
       "summary_original": "Here are Google’s latest AI updates from July 2026",
       "published_display": "2026-08-04",
       "id": "5485eb0051ae"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "ChatGPT Work ve Codex ile öğrenmenin ve öğretmenin yeni yolları",
+      "summary": "K–12 öğretmenlerinin, üniversite eğitimcilerinin ve öğrencilerin öğrenmesine, öğretmesine, araştırmasına ve oluşturmasına yardımcı olan ChatGPT Work ve Codex'e yönelik yeni eğitim eklentilerini keşfedin.",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-08-04T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "ChatGPT Work ve Codex ile öğrenmenin ve öğretmenin yeni yolları K–12 öğretmenlerinin, üniversite eğitimcilerinin ve öğrencilerin öğrenmesine, öğretmesine, araştırmasına ve oluşturmasına yardımcı olan ChatGPT Work ve Codex'e yönelik yeni eğitim eklentilerini keşfedin. New ways to learn and teach with ChatGPT Work and Codex Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build. AI OpenAI Model",
+      "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
+      "summary_original": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "published_display": "2026-08-04",
+      "id": "836ebc3573b4"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "67ae32ffa11a"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Matematik ve teorik bilgisayar bilimlerinde on ilerleme",
-      "summary": "OpenAI, geometri, kriptografi ve karmaşıklıktaki ilerlemeler de dahil olmak üzere matematik ve teorik bilgisayar bilimlerinde uzun süredir devam eden açık problemlere ilişkin yeni sonuçları paylaşıyor.",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-01T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Matematik ve teorik bilgisayar bilimlerinde on ilerleme OpenAI, geometri, kriptografi ve karmaşıklıktaki ilerlemeler de dahil olmak üzere matematik ve teorik bilgisayar bilimlerinde uzun süredir devam eden açık problemlere ilişkin yeni sonuçları paylaşıyor. Ten advances in mathematics and theoretical computer science OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity. AI OpenAI Model",
-      "title_original": "Ten advances in mathematics and theoretical computer science",
-      "summary_original": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "published_display": "2026-08-01",
-      "id": "32d52215f092"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Global X ROBO Global Robotik ve Otomasyon ETF (ASX:ROBO): Küresel Robotik ve Otomasyon Yatırımına Farklı Bir Yaklaşım - Kalkine",
@@ -314,6 +314,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Yapay Zeka Destekli Yapay Görme ile Endüstriyel Otomasyonu Geliştirme - Teknik Özetler",
+      "summary": "Yapay Zeka Destekli Yapay Görme Teknolojisi Özetleri ile Endüstriyel Otomasyonu Geliştirme",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXVuUEhWbjkteHI5T0J1ME9mV0g2Um91WXFwUGZyWnBmZzR0dmtwM1Q1Uko4cTY1dkh5ZGhybzhmUzM3NWhxWngwc3Z2Wm4zMExxbVQzdE9TbmJ1VFEyLWs1dWRVUEl2VkpmOTdTLUV2LWoyVHJkZklzT1BwOWdGaE1vSGhUcnc0aTZST0haam50WEx2M3VSLU1lRl9MbHNsZDRKVFVETXVoRkY4a0NiSTJNX3FYeV9KU3ptWC13?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-01T12:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Yapay Zeka Destekli Yapay Görme ile Endüstriyel Otomasyonu Geliştirme - Teknik Özetler Yapay Zeka Destekli Yapay Görme Teknolojisi Özetleri ile Endüstriyel Otomasyonu Geliştirme Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs Robotics Automation Industry",
+      "title_original": "Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs",
+      "summary_original": "Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs",
+      "published_display": "2026-08-01",
+      "id": "5f130a9af9b3"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - Robotik ve Otomasyon Haberleri",
       "summary": "Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMC1LVi1KcG84bmgwaHZYV2pESmIzUUlWbC1ocHJYRDhwdTJ0azNiUEtNQUVfRGNnUWZxWFlNREZJbFRzcGFGdk5iQ3ZVZllvR1dMN3JZTENGUkdOeTNRcXl4d3JYMmE1REVxWjlVYUpaWEh3UHR2VzlqNUFjN21aWFBvTU04UVpFbFFwZ2I1eS1RNHhsLVNjNmR4MXdTYm01T1BUdzRWaWFSajR6TXZJRlBtaGxubXVSWXpCbGZmTktOVzJmN3JOZklEMzFDQjhzVUlGMU9IMTZteXN1Wl9IRjlR?oc=5",
@@ -350,26 +370,6 @@
       "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
       "published_display": "2026-07-29",
       "id": "6d3a4e352eb0"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1g4em44MHI5Q0FxdnllYWhvOGZNVHdQdFAwSlNwTzZRaGJfOWZjcExMMVd2NF80ZGJqVHBRbWpwTUtPS1R5QnhmMGY5ZUROOE9TSTJsekNYcjFBLXdldUNYWnhTZHNtSkNBVWJfMEFKaWo5NTdRVnFZUkdmeDU2TjRqYVlWZmQwZ19XcVljaE1LMTRoX3RaMGZ4QWg0cUczNENXT2o3bVlvSm90MGt4aC1icEplbFU?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-29T13:35:24Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
-      "published_display": "2026-07-29",
-      "id": "321fca79a57b"
     },
     {
       "category": "web",
