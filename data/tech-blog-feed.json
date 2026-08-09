@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık?",
-      "summary": "GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve boru hattını neden paranoyak oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı...",
+      "summary": "GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve neden paranoyak bir boru hattı oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı...",
       "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık? GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve boru hattını neden paranoyak oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı... How we took malware advisories beyond npm GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first... GitHub Dev Platform",
+      "keywords": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık? GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve neden paranoyak bir boru hattı oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı... How we took malware advisories beyond npm GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first... GitHub Dev Platform",
       "title_original": "How we took malware advisories beyond npm",
       "summary_original": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first...",
       "published_display": "2026-08-06",
@@ -94,7 +94,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Erken durmayın: Bellek hızında kaynak kodu katlama",
+      "title": "Erken durmayın: Kaynak kodunu bellek hızında katlama",
       "summary": "Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "image_url": null,
@@ -105,11 +105,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Erken durmayın: Bellek hızında kaynak kodu katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Erken durmayın: Kaynak kodunu bellek hızında katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Don’t stop early: Case-folding source code at memory speed",
       "summary_original": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
       "published_display": "2026-07-31",
-      "id": "dd650c99509b"
+      "id": "44897a359899"
     },
     {
       "category": "yazilim",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak",
-      "summary": "OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve güvenlik önlemleri geliştiriyor.",
+      "summary": "OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve korumalar geliştiriyor.",
       "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve güvenlik önlemleri geliştiriyor. Working with the American Psychological Association on youth mental health and AI OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health. AI OpenAI Model",
+      "keywords": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve korumalar geliştiriyor. Working with the American Psychological Association on youth mental health and AI OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health. AI OpenAI Model",
       "title_original": "Working with the American Psychological Association on youth mental health and AI",
       "summary_original": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
       "published_display": "2026-08-06",
@@ -575,7 +575,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak - cyberpress.org",
-      "summary": "Hindistan, Hikvision, TP-Link ve CCTV Ürün Satışlarını Nisandan İtibaren Yasaklayacak cyberpress.org",
+      "summary": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak cyberpress.org",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzUmhCck9YUW1uUFV6dENPRjQ0MDkwRDRMaHlxX2VqNko2MDJoczBCWVhMUWJ0SXBoVU5RU3U4N2hhd192OFRBT2E1WTJTOHA3V0FTQ0pHTHEwRVNodV9ScXNzcVLSAWRBVV95cUxQc1JoQnJPWFFtblBVenRDT0Y0NDA5MEQ0TGh5cV9lajZKNjAyaHMwQllYTFFidElwaFVOUVN1ODdoYXdfdjhUQU9hNVkyUzhwN1dBU0NKR0xxMEVTaHVfUnFzc3FS?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,7 +585,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak - cyberpress.org Hindistan, Hikvision, TP-Link ve CCTV Ürün Satışlarını Nisandan İtibaren Yasaklayacak cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April - cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April cyberpress.org IP Camera Video Surveillance",
+      "keywords": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak - cyberpress.org Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April - cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April cyberpress.org IP Camera Video Surveillance",
       "title_original": "India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April - cyberpress.org",
       "summary_original": "India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April cyberpress.org",
       "published_display": "2026-03-30",
@@ -614,8 +614,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Gizli Gözetleme Kameraları Kullandığı Belirtildi - asisonline.org",
-      "summary": "asisonline.org Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
+      "title": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International",
+      "summary": "ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHlTNk9sSzlCbk4xT2tUdTRmVXJoT2dEcVlEcUdtUzdJTUZwSnoza2kxWmJxVWRhM0c0QnlLVXRnOUYwSjdoOVVWUTVuUXlLSlU0dk9yVnhseUlmTzVXbGhRQWZtODh6ZkRJR3NBZ0xtUW90eFd6cVFzOGpoWExKNnItLTdob3VtWE9ETk92dndxbkQwYkVGTngwVjdqR0U0U3A0Q3V1LTA0MW0tWXZVcUhRVVhZcFp3azIyQmRlQmxMTUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,17 +625,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Gizli Gözetleme Kameraları Kullandığı Belirtildi - asisonline.org asisonline.org Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - asisonline.org Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says asisonline.org IP Camera Video Surveillance",
-      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - asisonline.org",
-      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says asisonline.org",
+      "keywords": "Raporda, Ulus-Devletlerin Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetim Kameraları Kullandığı Belirtildi - ASIS International ASIS International Raporuna Göre Ulus-Devletler Hedefleme İçin Güvenliği Tehlikeye Atılmış Gözetleme Kameraları Kullanıyor Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International IP Camera Video Surveillance",
+      "title_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says - ASIS International",
+      "summary_original": "Nation-States Use Compromised Surveillance Cameras for Targeting, Report Says ASIS International",
       "published_display": "2026-03-11",
-      "id": "e160328abf7c"
+      "id": "d9558ccc7fa2"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - cybersecuritynews.com",
-      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor cybersecuritynews.com",
+      "title": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews",
+      "summary": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU212WEt1ZzY3MWxJVW1xU2t5Vi1vd1BjNWlRRE1kOVlGQWpZU1VQendyT19RN2FHd3VTcklKdW9oXzZrQlFrY2N5cGptb0p0YUEwQnZTTjdRcFBYaXRCUDRZVUU4dzV6Ry11Rk1Gc0N0YU1XVENoajNXZHIzVVQxYnE5ZWVidw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,11 +645,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - cybersecuritynews.com IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor cybersecuritynews.com Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - cybersecuritynews.com Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer cybersecuritynews.com IP Camera Video Surveillance",
-      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - cybersecuritynews.com",
-      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer cybersecuritynews.com",
+      "keywords": "IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor - CyberSecurityNews IDIS IP Kameralarındaki Kritik Tek Tıklamayla Açılan Güvenlik Açığı, Mağdurun Bilgisayarının Tamamen Ele Geçirilmesine Yol Açıyor CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer - CyberSecurityNews",
+      "summary_original": "Critical IDIS IP Cameras One-Click Vulnerability Leads to full Compromise of Victim’s Computer CyberSecurityNews",
       "published_display": "2026-01-29",
-      "id": "5858d149b450"
+      "id": "fcce6214680e"
     }
   ]
 }
