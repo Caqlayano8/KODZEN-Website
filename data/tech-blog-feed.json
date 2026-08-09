@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık?",
-      "summary": "GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve neden paranoyak bir boru hattı oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı...",
+      "summary": "GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve boru hattını neden paranoyak oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı...",
       "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık? GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve neden paranoyak bir boru hattı oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı... How we took malware advisories beyond npm GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first... GitHub Dev Platform",
+      "keywords": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık? GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve boru hattını neden paranoyak oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı... How we took malware advisories beyond npm GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first... GitHub Dev Platform",
       "title_original": "How we took malware advisories beyond npm",
       "summary_original": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first...",
       "published_display": "2026-08-06",
@@ -94,7 +94,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Erken durmayın: Kaynak kodunu bellek hızında katlama",
+      "title": "Erken durmayın: Bellek hızında kaynak kodu katlama",
       "summary": "Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "image_url": null,
@@ -105,11 +105,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Erken durmayın: Kaynak kodunu bellek hızında katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Erken durmayın: Bellek hızında kaynak kodu katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Don’t stop early: Case-folding source code at memory speed",
       "summary_original": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
       "published_display": "2026-07-31",
-      "id": "44897a359899"
+      "id": "dd650c99509b"
     },
     {
       "category": "yazilim",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak",
-      "summary": "OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve korumalar geliştiriyor.",
+      "summary": "OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve güvenlik önlemleri geliştiriyor.",
       "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve korumalar geliştiriyor. Working with the American Psychological Association on youth mental health and AI OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health. AI OpenAI Model",
+      "keywords": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve güvenlik önlemleri geliştiriyor. Working with the American Psychological Association on youth mental health and AI OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health. AI OpenAI Model",
       "title_original": "Working with the American Psychological Association on youth mental health and AI",
       "summary_original": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
       "published_display": "2026-08-06",
@@ -314,8 +314,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Yapay Zeka Destekli Makine Görüşü ile Endüstriyel Otomasyonu Geliştirme - techbriefs.com",
-      "summary": "Yapay Zeka Destekli Yapay Görme ile Endüstriyel Otomasyonu Geliştirme techbriefs.com",
+      "title": "Yapay Zeka Destekli Yapay Görme ile Endüstriyel Otomasyonu Geliştirme - Teknik Özetler",
+      "summary": "Yapay Zeka Destekli Yapay Görme Teknolojisi Özetleri ile Endüstriyel Otomasyonu Geliştirme",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXVuUEhWbjkteHI5T0J1ME9mV0g2Um91WXFwUGZyWnBmZzR0dmtwM1Q1Uko4cTY1dkh5ZGhybzhmUzM3NWhxWngwc3Z2Wm4zMExxbVQzdE9TbmJ1VFEyLWs1dWRVUEl2VkpmOTdTLUV2LWoyVHJkZklzT1BwOWdGaE1vSGhUcnc0aTZST0haam50WEx2M3VSLU1lRl9MbHNsZDRKVFVETXVoRkY4a0NiSTJNX3FYeV9KU3ptWC13?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Yapay Zeka Destekli Makine Görüşü ile Endüstriyel Otomasyonu Geliştirme - techbriefs.com Yapay Zeka Destekli Yapay Görme ile Endüstriyel Otomasyonu Geliştirme techbriefs.com Advancing Industrial Automation with AI-Powered Machine Vision - techbriefs.com Advancing Industrial Automation with AI-Powered Machine Vision techbriefs.com Robotics Automation Industry",
-      "title_original": "Advancing Industrial Automation with AI-Powered Machine Vision - techbriefs.com",
-      "summary_original": "Advancing Industrial Automation with AI-Powered Machine Vision techbriefs.com",
+      "keywords": "Yapay Zeka Destekli Yapay Görme ile Endüstriyel Otomasyonu Geliştirme - Teknik Özetler Yapay Zeka Destekli Yapay Görme Teknolojisi Özetleri ile Endüstriyel Otomasyonu Geliştirme Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs Robotics Automation Industry",
+      "title_original": "Advancing Industrial Automation with AI-Powered Machine Vision - Tech Briefs",
+      "summary_original": "Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs",
       "published_display": "2026-08-04",
-      "id": "e9cafa7300ba"
+      "id": "5f130a9af9b3"
     },
     {
       "category": "robotik",
@@ -595,7 +595,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak - cyberpress.org",
-      "summary": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak cyberpress.org",
+      "summary": "Hindistan, Hikvision, TP-Link ve CCTV Ürün Satışlarını Nisandan İtibaren Yasaklayacak cyberpress.org",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzUmhCck9YUW1uUFV6dENPRjQ0MDkwRDRMaHlxX2VqNko2MDJoczBCWVhMUWJ0SXBoVU5RU3U4N2hhd192OFRBT2E1WTJTOHA3V0FTQ0pHTHEwRVNodV9ScXNzcVLSAWRBVV95cUxQc1JoQnJPWFFtblBVenRDT0Y0NDA5MEQ0TGh5cV9lajZKNjAyaHMwQllYTFFidElwaFVOUVN1ODdoYXdfdjhUQU9hNVkyUzhwN1dBU0NKR0xxMEVTaHVfUnFzc3FS?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,7 +605,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak - cyberpress.org Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April - cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April cyberpress.org IP Camera Video Surveillance",
+      "keywords": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak - cyberpress.org Hindistan, Hikvision, TP-Link ve CCTV Ürün Satışlarını Nisandan İtibaren Yasaklayacak cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April - cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April cyberpress.org IP Camera Video Surveillance",
       "title_original": "India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April - cyberpress.org",
       "summary_original": "India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April cyberpress.org",
       "published_display": "2026-03-30",
