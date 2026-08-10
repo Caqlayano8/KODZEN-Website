@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık?",
-      "summary": "GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve neden paranoyak bir boru hattı oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı...",
+      "summary": "GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve boru hattını neden paranoyak oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı...",
       "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık? GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve neden paranoyak bir boru hattı oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı... How we took malware advisories beyond npm GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first... GitHub Dev Platform",
+      "keywords": "Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl taşıdık? GitHub kötü amaçlı yazılım uyarıları artık npm'de durmuyor. OpenSSF'nin kötü amaçlı paket verilerini Danışma Veritabanına nasıl bağladığımızı ve boru hattını neden paranoyak oluşturduğumuzu burada bulabilirsiniz. Kötü amaçlı yazılım uyarılarını npm'nin ötesine nasıl götürdük yazısı ilk olarak ortaya çıktı... How we took malware advisories beyond npm GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first... GitHub Dev Platform",
       "title_original": "How we took malware advisories beyond npm",
       "summary_original": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first...",
       "published_display": "2026-08-06",
@@ -94,7 +94,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Erken durmayın: Kaynak kodunu bellek hızında katlama",
+      "title": "Erken durmayın: Bellek hızında kaynak kodu katlama",
       "summary": "Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "image_url": null,
@@ -105,11 +105,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Erken durmayın: Kaynak kodunu bellek hızında katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Erken durmayın: Bellek hızında kaynak kodu katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Don’t stop early: Case-folding source code at memory speed",
       "summary_original": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
       "published_display": "2026-07-31",
-      "id": "44897a359899"
+      "id": "dd650c99509b"
     },
     {
       "category": "yazilim",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak",
-      "summary": "OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve korumalar geliştiriyor.",
+      "summary": "OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve güvenlik önlemleri geliştiriyor.",
       "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve korumalar geliştiriyor. Working with the American Psychological Association on youth mental health and AI OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health. AI OpenAI Model",
+      "keywords": "Gençlerin ruh sağlığı ve yapay zeka konusunda Amerikan Psikoloji Derneği ile birlikte çalışmak OpenAI ve Amerikan Psikoloji Derneği, sorumlu yapay zeka kullanımı ve gençlerin ruh sağlığı için kanıta dayalı rehberlik, kaynaklar ve güvenlik önlemleri geliştiriyor. Working with the American Psychological Association on youth mental health and AI OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health. AI OpenAI Model",
       "title_original": "Working with the American Psychological Association on youth mental health and AI",
       "summary_original": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
       "published_display": "2026-08-06",
@@ -294,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOFVsZ0ZvNXZTVGtPN3VQdlhjeWRCVnpacTEyOExpTzYtdmtyUUJNdlpnTW56YkdNVW91LWdpbXZ4SmVxOWt4NVowaTZQWUhHU3d4Z1RqNjVhblFvZF84V3ZydWtUYWlUVUd1UUo3bGZPQ2l2akV4MHVnb1l6STU1SXhEbGg3WW1sa182VkJ2bDVJZ1FhQVN3Umo5ZVhFMDkyRHpVR0h0ekZfZnRVa2hnSmJLM1UwdC13Nl9TUVZDTDNIZVB3TG9Xa0ZSR0xyZVE?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-08-04",
-      "id": "5a318e318fd4"
+      "id": "d848c2a6f268"
     },
     {
       "category": "robotik",
@@ -354,8 +354,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 -marketsandmarkets.com",
-      "summary": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031marketsandmarkets.com",
+      "title": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
+      "summary": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZU0zWFpOeF9FMTZZMmFySEpQcFI4enF2UDd4ZXR1WFFINnFQU2F0d25zVGQ0RmRDQlRmS0RYaUZIck9LV1ZlRWtLbjFhUVk0dXhNVk9WRkZGSGRjUW5ud01uVVA1VVZvQ0ZBNndFNnZJVjhtTFZlNVNvQmQtMEJuanU4S3NMVHNhWWVXWXBtVW5XTEdkbHk4MWVB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 -marketsandmarkets.com Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031marketsandmarkets.com Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 marketsandmarkets.com Robotics Automation Industry",
-      "title_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
-      "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 marketsandmarkets.com",
+      "keywords": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
+      "title_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
       "published_display": "2026-07-29",
-      "id": "97a7116a2918"
+      "id": "6d3a4e352eb0"
     },
     {
       "category": "web",
