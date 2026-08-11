@@ -114,7 +114,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Erken durmayın: Kaynak kodunu bellek hızında katlama",
+      "title": "Erken durmayın: Bellek hızında kaynak kodu katlama",
       "summary": "Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "image_url": null,
@@ -125,11 +125,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Erken durmayın: Kaynak kodunu bellek hızında katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Erken durmayın: Bellek hızında kaynak kodu katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Don’t stop early: Case-folding source code at memory speed",
       "summary_original": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
       "published_display": "2026-07-31",
-      "id": "44897a359899"
+      "id": "dd650c99509b"
     },
     {
       "category": "ai",
