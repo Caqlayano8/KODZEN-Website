@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-11T17:04:46Z",
+  "updated_at": "2026-08-11T18:38:17Z",
   "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Kodlayıcıdan orkestratöre: Aracılar geliştiricinin rolünü nasıl değiştiriyor?",
+      "summary": "Geliştiriciler, yalnızca kodun kendisine değil, kodun etrafındaki dağıtım sistemine daha fazla sahip oluyor. Diğer geliştiricilerle tanışmak, yeni bir şeyler öğrenmek ve sırada ne olduğunu keşfetmek için GitHub Universe sırasında bize katılın. Yazı Kodlayıcıdan orkestratöre: Temsilciler nasıl geçiş yapıyor?",
+      "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-08-11T18:38:17Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Kodlayıcıdan orkestratöre: Aracılar geliştiricinin rolünü nasıl değiştiriyor? Geliştiriciler, yalnızca kodun kendisine değil, kodun etrafındaki dağıtım sistemine daha fazla sahip oluyor. Diğer geliştiricilerle tanışmak, yeni bir şeyler öğrenmek ve sırada ne olduğunu keşfetmek için GitHub Universe sırasında bize katılın. Yazı Kodlayıcıdan orkestratöre: Temsilciler nasıl geçiş yapıyor? From coder to orchestrator: How agents shift the role of a developer Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift t... GitHub Dev Platform",
+      "title_original": "From coder to orchestrator: How agents shift the role of a developer",
+      "summary_original": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift t...",
+      "published_display": "2026-08-11",
+      "id": "23e42a4a1df9"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "688dfa2f7be7"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Erken durmayın: Bellek hızında kaynak kodu katlama",
-      "summary": "Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-07-31T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Erken durmayın: Bellek hızında kaynak kodu katlama Dalsız döngü ve bayt alanı aritmetiği, GitHub'un tek bir çekirdekte >45 GiB/s hızla kod aramasının her baytını büyük/küçük harfe katlamasına nasıl olanak tanıyor? Erken durma: Bellek hızında vaka katlama kaynak kodu yazısı ilk olarak GitHub Blogunda göründü. Don’t stop early: Case-folding source code at memory speed How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Don’t stop early: Case-folding source code at memory speed",
-      "summary_original": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
-      "published_display": "2026-07-31",
-      "id": "dd650c99509b"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "AMIE'yi uzman düzeyinde görsel-işitsel klinik konsültasyonlara doğru ilerletmek",
@@ -139,7 +139,7 @@
       "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AMIE_Video-hero.png",
       "source": "Google Research Blog",
-      "published_at": "2026-08-11T17:04:46Z",
+      "published_at": "2026-08-11T17:04:00Z",
       "tags": [
         "AI",
         "Research",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri İkinci Çeyrekte Arttı - Business Wire",
+      "summary": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri İkinci Çeyrekte Arttı",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2E0V3RjZFhfUFdOTVZzcFNJZk1PTXM4OGlCdWhFbE9JS1lMWFdMUmc5VEtPM3V2QVVieXNua2ZIOF9weklGQWtXczZRTU1sTkhRWGhCenJxX2FENEtXbm1OZXhqU0NCWTlwMTBkam5xWmVMUzJzOUJnZE83OENtamREVThiQ1hUQWYxMUhldUpQNXRWNU9YZ1J4aXpDd0lTZ0xCM1RoZUxkR2RIM05uZHFoUUZ0dkcyR3pyQlVyNEFNTlF4MjZOTV84Nlk?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-11T14:04:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri İkinci Çeyrekte Arttı - Business Wire Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri İkinci Çeyrekte Arttı Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries - Business Wire Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries Business Wire Robotics Automation Industry",
+      "title_original": "Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries - Business Wire",
+      "summary_original": "Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries Business Wire",
+      "published_display": "2026-08-11",
+      "id": "722e08d14077"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "IEEE'den Dejan Milojicic ile röportaj: 2030 için 30 mega teknoloji trendi - Robotik ve Otomasyon Haberleri",
       "summary": "IEEE'den Dejan Milojicic ile röportaj: 2030 Robotik ve Otomasyon Haberleri için 30 mega teknoloji trendi",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUg0NGx2ZWljYk9FQmJJVm1LYlNVXzE4Uk1mdk84ZHRvV3dfaFRyWloxNzB1S0lNVGhMcmVpWTR6ZFhQY3k3bDZIdXpwZGVfZ2NMeXZSbndmNS04R2I2UnprUS1WMEJFbFBsMnRZY0xIWDhKOUFjcGo0LVJJQzdvTEYzN0p6ZDMyRzBiaGZEVkRUQWJCbzYyejd1dW43M0lvYTR1OEZRSU1raHZ2b1hNRVFEYXRNZGlhT25xWk41YU1hbzRGdG9SZVZsdw?oc=5",
@@ -350,26 +370,6 @@
       "summary_original": "Advancing Industrial Automation with AI-Powered Machine Vision Tech Briefs",
       "published_display": "2026-08-04",
       "id": "5f130a9af9b3"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMC1LVi1KcG84bmgwaHZYV2pESmIzUUlWbC1ocHJYRDhwdTJ0azNiUEtNQUVfRGNnUWZxWFlNREZJbFRzcGFGdk5iQ3ZVZllvR1dMN3JZTENGUkdOeTNRcXl4d3JYMmE1REVxWjlVYUpaWEh3UHR2VzlqNUFjN21aWFBvTU04UVpFbFFwZ2I1eS1RNHhsLVNjNmR4MXdTYm01T1BUdzRWaWFSajR6TXZJRlBtaGxubXVSWXpCbGZmTktOVzJmN3JOZklEMzFDQjhzVUlGMU9IMTZteXN1Wl9IRjlR?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-07-30T10:33:26Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Shanghai Electric, insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor - Robotik ve Otomasyon Haberleri Shanghai Electric insansı ve endüstriyel robotları ve yapay zeka akıllı fabrika teknolojilerini tanıtıyor Robotik ve Otomasyon Haberleri Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies - Robotics & Automation News Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies - Robotics & Automation News",
-      "summary_original": "Shanghai Electric unveils humanoids and industrial robots and AI smart factory technologies Robotics & Automation News",
-      "published_display": "2026-07-30",
-      "id": "7c886d364bfc"
     },
     {
       "category": "web",
