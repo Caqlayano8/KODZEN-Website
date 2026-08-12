@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-12T18:00:08Z",
+  "updated_at": "2026-08-12T19:00:00Z",
   "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot uygulamasıyla ilk isteminizi yazın",
+      "summary": "GitHub Copilot uygulamasında ilk isteminizi nasıl yazacağınızı, doğru bağlamı ve modeli nasıl seçeceğinizi ve ilk görevinize güvenle nasıl başlayacağınızı öğrenin. GitHub Copilot uygulamasıyla ilk isteminizi yazın yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-08-12T19:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Copilot uygulamasıyla ilk isteminizi yazın GitHub Copilot uygulamasında ilk isteminizi nasıl yazacağınızı, doğru bağlamı ve modeli nasıl seçeceğinizi ve ilk görevinize güvenle nasıl başlayacağınızı öğrenin. GitHub Copilot uygulamasıyla ilk isteminizi yazın yazısı ilk olarak GitHub Blogunda göründü. Write your first prompt with the GitHub Copilot app Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Write your first prompt with the GitHub Copilot app",
+      "summary_original": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+      "published_display": "2026-08-12",
+      "id": "28abe693fdeb"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first...",
       "published_display": "2026-08-06",
       "id": "64bf5ecd65c0"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub hukuk ekibi iş akışlarını kolaylaştırmak için Copilot CLI'yi nasıl kullandı?",
-      "summary": "Tek satır kod yazmanıza gerek kalmadan çalışma şeklinizi basitleştirecek araçları nasıl oluşturacağınızı öğrenin. GitHub hukuk ekibinin iş akışlarını kolaylaştırmak için Copilot CLI'yi nasıl kullandığı yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-08-04T19:02:34Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub hukuk ekibi iş akışlarını kolaylaştırmak için Copilot CLI'yi nasıl kullandı? Tek satır kod yazmanıza gerek kalmadan çalışma şeklinizi basitleştirecek araçları nasıl oluşturacağınızı öğrenin. GitHub hukuk ekibinin iş akışlarını kolaylaştırmak için Copilot CLI'yi nasıl kullandığı yazısı ilk olarak GitHub Blogunda yayınlandı. How the GitHub legal team used Copilot CLI to streamline their workflows Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-      "summary_original": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
-      "published_display": "2026-08-04",
-      "id": "860b788802a5"
     },
     {
       "category": "ai",
