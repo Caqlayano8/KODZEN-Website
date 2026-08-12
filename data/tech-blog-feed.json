@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-08-12T19:00:00Z",
-  "total_posts": 28,
+  "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 2,
-    "kamera": 2
+    "kamera": 3
   },
   "posts": [
     {
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi?",
-      "summary": "Yapay zekaya katkıda bulunanlar zaten sıranızda. AutoGPT sorumlusu Nicholas Tindle, bakımcıların kontrolü elinde tutan repo talimatlarını, geçitleri ve sınırları paylaşıyor. Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? ortaya çıktı...",
+      "summary": "Yapay zekaya katkıda bulunanlar zaten sıranızda. AutoGPT sorumlusu Nicholas Tindle, bakımcıların kontrolü elinde tutan repo talimatlarını, geçitleri ve sınırları paylaşıyor. Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? fi ortaya çıktı...",
       "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? Yapay zekaya katkıda bulunanlar zaten sıranızda. AutoGPT sorumlusu Nicholas Tindle, bakımcıların kontrolü elinde tutan repo talimatlarını, geçitleri ve sınırları paylaşıyor. Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? ortaya çıktı... Your contributors are AI-first now. Is your project? AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared fi... GitHub Dev Platform",
+      "keywords": "Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? Yapay zekaya katkıda bulunanlar zaten sıranızda. AutoGPT sorumlusu Nicholas Tindle, bakımcıların kontrolü elinde tutan repo talimatlarını, geçitleri ve sınırları paylaşıyor. Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? fi ortaya çıktı... Your contributors are AI-first now. Is your project? AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared fi... GitHub Dev Platform",
       "title_original": "Your contributors are AI-first now. Is your project?",
       "summary_original": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared fi...",
       "published_display": "2026-08-12",
@@ -174,6 +174,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "RingCentral, mühendislikten operasyonlara kadar yapay zekaya dayalı çalışmaları nasıl oluşturuyor?",
+      "summary": "RingCentral'ın AI ürün geliştirmeyi hızlandırmak ve mühendislik ve operasyonlar genelinde operasyonel zekayı merkezileştirmek için ChatGPT Work ve Codex'i nasıl kullandığını görün.",
+      "url": "https://openai.com/index/ringcentral",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-08-12T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "RingCentral, mühendislikten operasyonlara kadar yapay zekaya dayalı çalışmaları nasıl oluşturuyor? RingCentral'ın AI ürün geliştirmeyi hızlandırmak ve mühendislik ve operasyonlar genelinde operasyonel zekayı merkezileştirmek için ChatGPT Work ve Codex'i nasıl kullandığını görün. How RingCentral builds AI-native work from engineering to ops See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations. AI OpenAI Model",
+      "title_original": "How RingCentral builds AI-native work from engineering to ops",
+      "summary_original": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "published_display": "2026-08-12",
+      "id": "6b2f30ec3b2b"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "AMIE'yi uzman düzeyinde görsel-işitsel klinik konsültasyonlara doğru ilerletmek",
       "summary": "Sağlık ve Biyoloji",
       "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
@@ -232,26 +252,6 @@
       "id": "9355f852b1c0"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "ChatGPT'de reklamları test etme",
-      "summary": "OpenAI, açık etiketleme, yanıt bağımsızlığı, güçlü gizlilik korumaları ve kullanıcı kontrolü ile ücretsiz erişimi desteklemek için ChatGPT'deki reklamları test etmeye başlıyor.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-11T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "ChatGPT'de reklamları test etme OpenAI, açık etiketleme, yanıt bağımsızlığı, güçlü gizlilik korumaları ve kullanıcı kontrolü ile ücretsiz erişimi desteklemek için ChatGPT'deki reklamları test etmeye başlıyor. Testing ads in ChatGPT OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control. AI OpenAI Model",
-      "title_original": "Testing ads in ChatGPT",
-      "summary_original": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "published_display": "2026-08-11",
-      "id": "35cf613ce103"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
@@ -274,8 +274,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri 2. Çeyrekte Arttı - businesswire.com",
-      "summary": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri 2. Çeyrekte Arttı businesswire.com",
+      "title": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri İkinci Çeyrekte Arttı - Business Wire",
+      "summary": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri İkinci Çeyrekte Arttı",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2E0V3RjZFhfUFdOTVZzcFNJZk1PTXM4OGlCdWhFbE9JS1lMWFdMUmc5VEtPM3V2QVVieXNua2ZIOF9weklGQWtXczZRTU1sTkhRWGhCenJxX2FENEtXbm1OZXhqU0NCWTlwMTBkam5xWmVMUzJzOUJnZE83OENtamREVThiQ1hUQWYxMUhldUpQNXRWNU9YZ1J4aXpDd0lTZ0xCM1RoZUxkR2RIM05uZHFoUUZ0dkcyR3pyQlVyNEFNTlF4MjZOTV84Nlk?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri 2. Çeyrekte Arttı - businesswire.com Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri 2. Çeyrekte Arttı businesswire.com Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries - businesswire.com Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries businesswire.com Robotics Automation Industry",
-      "title_original": "Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries - businesswire.com",
-      "summary_original": "Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries businesswire.com",
+      "keywords": "Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri İkinci Çeyrekte Arttı - Business Wire Endüstriler Genelinde Otomasyon Talebi Genişledikçe Robot Siparişleri İkinci Çeyrekte Arttı Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries - Business Wire Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries Business Wire Robotics Automation Industry",
+      "title_original": "Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries - Business Wire",
+      "summary_original": "Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries Business Wire",
       "published_display": "2026-08-11",
-      "id": "edd8a47ed82a"
+      "id": "722e08d14077"
     },
     {
       "category": "robotik",
@@ -334,8 +334,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "CNC Robotics, Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor - Manufacturingmanagement.co.uk",
-      "summary": "CNC Robotics, Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor",
+      "title": "CNC Robotics Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor - Üretim Yönetimi",
+      "summary": "CNC Robotics, Endüstriyel Otomasyon Üretim Yönetiminde 16 Yıl Sonra Kapanıyor",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVGwzZjZCYWJ4MkpIdHo0bkQwOTNFZHI5NThPR3pyMWJHU3N6TklCU0RTcXdiU2lUeVd1bXk1ZE0tU2llcVNqQnNBazA1b1VtYmd4Zk9qUDVBc0s0c2pKOENhMXNMLUdvTGRfNHQzY0JnSWZmOUtydGRFOEc0Y3Z2aXVOVjFkZmQtRnRlbmR6enVLNmdJb3hWWjkxb2g1cFVfRlVodHp4ckxsWFhYMEtVLW1SQlA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "CNC Robotics, Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor - Manufacturingmanagement.co.uk CNC Robotics, Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor CNC Robotics Closes After 16 Years In Industrial Automation - manufacturingmanagement.co.uk CNC Robotics Closes After 16 Years In Industrial Automation manufacturingmanagement.co.uk Robotics Automation Industry",
-      "title_original": "CNC Robotics Closes After 16 Years In Industrial Automation - manufacturingmanagement.co.uk",
-      "summary_original": "CNC Robotics Closes After 16 Years In Industrial Automation manufacturingmanagement.co.uk",
+      "keywords": "CNC Robotics Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor - Üretim Yönetimi CNC Robotics, Endüstriyel Otomasyon Üretim Yönetiminde 16 Yıl Sonra Kapanıyor CNC Robotics Closes After 16 Years In Industrial Automation - Manufacturing Management CNC Robotics Closes After 16 Years In Industrial Automation Manufacturing Management Robotics Automation Industry",
+      "title_original": "CNC Robotics Closes After 16 Years In Industrial Automation - Manufacturing Management",
+      "summary_original": "CNC Robotics Closes After 16 Years In Industrial Automation Manufacturing Management",
       "published_display": "2026-08-05",
-      "id": "9de5e6d985f1"
+      "id": "73e82a1c438f"
     },
     {
       "category": "robotik",
@@ -534,8 +534,28 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - thehackernews.com",
-      "summary": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi thehackernews.com",
+      "title": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Güvenlik Bilgili",
+      "summary": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Güvenlik Bilgisi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEhUMDhNRERDc0x4X3YycG9EbGhjWkp2TUlzbVI2R25OVW5ZWXJMa3VBNGFrUW9ycHBPa1JXNzZ5ZnRRbUlVQ3cwLS1JVDFvcFZkV3RDdFhKQnE5RTdZbXBQeng4V2d2WDNOVkdFbHk4UjlRMHptZVQ5blFDaUlieUxnY3BqQ1NQRUw5b294c1hvUElZTUtja182QlhPTWMx?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-28T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı - Güvenlik Bilgili Hanwha Vision Kameraları BSI BT Güvenlik Etiketini Kazandı Güvenlik Bilgisi Hanwha Vision Cameras Earn BSI IT Security Label - Security Informed Hanwha Vision Cameras Earn BSI IT Security Label Security Informed IP Camera Video Surveillance",
+      "title_original": "Hanwha Vision Cameras Earn BSI IT Security Label - Security Informed",
+      "summary_original": "Hanwha Vision Cameras Earn BSI IT Security Label Security Informed",
+      "published_display": "2026-07-28",
+      "id": "cf355802b7fa"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - The Hacker News",
+      "summary": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjlxSHAtNnkzZ3BESHJKb0xDVXlocTN3VEJmV2lmcUw3YVFWN3kxTFhpZlJpOWcySG1sSUZhOFkwY3FRLU1pTU8xbDV1TlpQWFJwVkZMd3JUTjBUU3c5dlBZdHg0VDAyVVQ1aU9ENGtWRVVJbUY0Mk5jM1JkVWtab19B?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - thehackernews.com Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi thehackernews.com Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - thehackernews.com Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine thehackernews.com IP Camera Video Surveillance",
-      "title_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - thehackernews.com",
-      "summary_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine thehackernews.com",
+      "keywords": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - The Hacker News Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News IP Camera Video Surveillance",
+      "title_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News",
+      "summary_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News",
       "published_display": "2026-07-20",
-      "id": "9618b45d797e"
+      "id": "0f3ed63e27bd"
     },
     {
       "category": "kamera",
