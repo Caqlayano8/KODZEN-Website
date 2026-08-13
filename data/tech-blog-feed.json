@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T16:45:00Z",
+  "updated_at": "2026-08-13T19:00:00Z",
   "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Universe 2026 rehberiniz burada: Program yeni başladı!",
+      "summary": "GitHub Universe oturum kataloğu yayında. Etkileşimli atölyeleri, topluluk konuşmalarını, demoları ve panelleri keşfedin. Ayrıca 300 $ tasarruf etmek için 19 Ağustos'tan önce kaydolun. GitHub Evreni 2026 Rehberiniz yazısı burada: Program yeni başlatıldı...",
+      "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-08-13T19:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Universe 2026 rehberiniz burada: Program yeni başladı! GitHub Universe oturum kataloğu yayında. Etkileşimli atölyeleri, topluluk konuşmalarını, demoları ve panelleri keşfedin. Ayrıca 300 $ tasarruf etmek için 19 Ağustos'tan önce kaydolun. GitHub Evreni 2026 Rehberiniz yazısı burada: Program yeni başlatıldı... Your guide to GitHub Universe 2026 is here: The schedule just launched! The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched... GitHub Dev Platform",
+      "title_original": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "summary_original": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched...",
+      "published_display": "2026-08-13",
+      "id": "ae668ac7d54a"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi?",
-      "summary": "Yapay zekaya katkıda bulunanlar zaten sıranızda. AutoGPT sorumlusu Nicholas Tindle, bakımcıların kontrolü elinde tutan repo talimatlarını, geçitleri ve sınırları paylaşıyor. Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? fi ortaya çıktı...",
+      "summary": "Yapay zekaya katkıda bulunanlar zaten sıranızda. AutoGPT sorumlusu Nicholas Tindle, bakımcıların kontrolü elinde tutan repo talimatlarını, geçitleri ve sınırları paylaşıyor. Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? ortaya çıktı...",
       "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? Yapay zekaya katkıda bulunanlar zaten sıranızda. AutoGPT sorumlusu Nicholas Tindle, bakımcıların kontrolü elinde tutan repo talimatlarını, geçitleri ve sınırları paylaşıyor. Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? fi ortaya çıktı... Your contributors are AI-first now. Is your project? AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared fi... GitHub Dev Platform",
+      "keywords": "Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? Yapay zekaya katkıda bulunanlar zaten sıranızda. AutoGPT sorumlusu Nicholas Tindle, bakımcıların kontrolü elinde tutan repo talimatlarını, geçitleri ve sınırları paylaşıyor. Katkıda bulunanlarınız artık yapay zekaya öncelik veriyor. Projeniz mi? ortaya çıktı... Your contributors are AI-first now. Is your project? AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared fi... GitHub Dev Platform",
       "title_original": "Your contributors are AI-first now. Is your project?",
       "summary_original": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared fi...",
       "published_display": "2026-08-12",
@@ -112,26 +132,6 @@
       "id": "23e42a4a1df9"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Java için GitHub Copilot SDK'yı kullanma",
-      "summary": "Kurumsal Java geliştiricilerinin yeni bir süper gücü var; GitHub Copilot'u ek açıklamalar, sanal iş parçacıkları ve daha fazlasıyla deyimsel Java kodundan yönlendirin. Java için GitHub Copilot SDK'yı Kullanma yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-08-10T19:30:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Java için GitHub Copilot SDK'yı kullanma Kurumsal Java geliştiricilerinin yeni bir süper gücü var; GitHub Copilot'u ek açıklamalar, sanal iş parçacıkları ve daha fazlasıyla deyimsel Java kodundan yönlendirin. Java için GitHub Copilot SDK'yı Kullanma yazısı ilk olarak GitHub Blogunda göründü. Using the GitHub Copilot SDK for Java Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Using the GitHub Copilot SDK for Java",
-      "summary_original": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
-      "published_display": "2026-08-10",
-      "id": "f883fd6b84a1"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "E-Tablolar tuvaliyle e-tablo verilerinize hayat verin",
@@ -150,6 +150,26 @@
       "summary_original": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
       "published_display": "2026-08-13",
       "id": "fa87178c11fb"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT‑5.6 inşaatçı kılavuzu",
+      "summary": "Startup'ların daha akıllı model seçimi ve yeni Responses API yetenekleriyle daha hızlı, daha uygun maliyetli yapay zeka aracıları oluşturmak için GPT-5.6'yı nasıl kullandığını öğrenin.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-08-13T11:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GPT‑5.6 inşaatçı kılavuzu Startup'ların daha akıllı model seçimi ve yeni Responses API yetenekleriyle daha hızlı, daha uygun maliyetli yapay zeka aracıları oluşturmak için GPT-5.6'yı nasıl kullandığını öğrenin. The builder’s guide to GPT‑5.6 Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities. AI OpenAI Model",
+      "title_original": "The builder’s guide to GPT‑5.6",
+      "summary_original": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "published_display": "2026-08-13",
+      "id": "1072784d8979"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
       "published_display": "2026-08-12",
       "id": "367e3aa7b5e0"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "RingCentral, mühendislikten operasyonlara kadar yapay zekaya dayalı çalışmaları nasıl oluşturuyor?",
-      "summary": "RingCentral'ın AI ürün geliştirmeyi hızlandırmak ve mühendislik ve operasyonlar genelinde operasyonel zekayı merkezileştirmek için ChatGPT Work ve Codex'i nasıl kullandığını görün.",
-      "url": "https://openai.com/index/ringcentral",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-12T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "RingCentral, mühendislikten operasyonlara kadar yapay zekaya dayalı çalışmaları nasıl oluşturuyor? RingCentral'ın AI ürün geliştirmeyi hızlandırmak ve mühendislik ve operasyonlar genelinde operasyonel zekayı merkezileştirmek için ChatGPT Work ve Codex'i nasıl kullandığını görün. How RingCentral builds AI-native work from engineering to ops See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations. AI OpenAI Model",
-      "title_original": "How RingCentral builds AI-native work from engineering to ops",
-      "summary_original": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "published_display": "2026-08-12",
-      "id": "6b2f30ec3b2b"
     },
     {
       "category": "robotik",
@@ -354,8 +354,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "CNC Robotics, Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor - Manufacturingmanagement.co.uk",
-      "summary": "CNC Robotics, Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor",
+      "title": "CNC Robotics Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor - Üretim Yönetimi",
+      "summary": "CNC Robotics, Endüstriyel Otomasyon Üretim Yönetiminde 16 Yıl Sonra Kapanıyor",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVGwzZjZCYWJ4MkpIdHo0bkQwOTNFZHI5NThPR3pyMWJHU3N6TklCU0RTcXdiU2lUeVd1bXk1ZE0tU2llcVNqQnNBazA1b1VtYmd4Zk9qUDVBc0s0c2pKOENhMXNMLUdvTGRfNHQzY0JnSWZmOUtydGRFOEc0Y3Z2aXVOVjFkZmQtRnRlbmR6enVLNmdJb3hWWjkxb2g1cFVfRlVodHp4ckxsWFhYMEtVLW1SQlA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "CNC Robotics, Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor - Manufacturingmanagement.co.uk CNC Robotics, Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor CNC Robotics Closes After 16 Years In Industrial Automation - manufacturingmanagement.co.uk CNC Robotics Closes After 16 Years In Industrial Automation manufacturingmanagement.co.uk Robotics Automation Industry",
-      "title_original": "CNC Robotics Closes After 16 Years In Industrial Automation - manufacturingmanagement.co.uk",
-      "summary_original": "CNC Robotics Closes After 16 Years In Industrial Automation manufacturingmanagement.co.uk",
+      "keywords": "CNC Robotics Endüstriyel Otomasyonda 16 Yıl Sonra Kapanıyor - Üretim Yönetimi CNC Robotics, Endüstriyel Otomasyon Üretim Yönetiminde 16 Yıl Sonra Kapanıyor CNC Robotics Closes After 16 Years In Industrial Automation - Manufacturing Management CNC Robotics Closes After 16 Years In Industrial Automation Manufacturing Management Robotics Automation Industry",
+      "title_original": "CNC Robotics Closes After 16 Years In Industrial Automation - Manufacturing Management",
+      "summary_original": "CNC Robotics Closes After 16 Years In Industrial Automation Manufacturing Management",
       "published_display": "2026-08-05",
-      "id": "9de5e6d985f1"
+      "id": "73e82a1c438f"
     },
     {
       "category": "web",
