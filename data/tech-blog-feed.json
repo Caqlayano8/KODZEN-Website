@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-13T10:09:30Z",
+  "updated_at": "2026-08-13T16:00:00Z",
   "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "50 açık kaynak projesinin bize yapay zeka çağında güvenlik hakkında öğrettikleri",
+      "summary": "GitHub Güvenli Açık Kaynak Fonu'nun 4. Oturumundaki açık kaynak projelerinin, proje güvenliğini artırmak için yapay zeka destekli iş akışlarını, bakımcı uzmanlığını, GitHub güvenlik araçlarını, uzman rehberliğini ve finansmanı nasıl birleştirdiğini görün. Ne 50 o yazı...",
+      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-08-13T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "50 açık kaynak projesinin bize yapay zeka çağında güvenlik hakkında öğrettikleri GitHub Güvenli Açık Kaynak Fonu'nun 4. Oturumundaki açık kaynak projelerinin, proje güvenliğini artırmak için yapay zeka destekli iş akışlarını, bakımcı uzmanlığını, GitHub güvenlik araçlarını, uzman rehberliğini ve finansmanı nasıl birleştirdiğini görün. Ne 50 o yazı... What 50 open source projects taught us about security in the AI era See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 o... GitHub Dev Platform",
+      "title_original": "What 50 open source projects taught us about security in the AI era",
+      "summary_original": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 o...",
+      "published_display": "2026-08-13",
+      "id": "9f1c9b26322c"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,24 @@
       "id": "f883fd6b84a1"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot uygulamasında eğik çizgi komutları kılavuzu",
-      "summary": "Bu eğik çizgi komutlarıyla GitHub Copilot uygulamasında sohbetin ötesine geçin. Geliştirici iş akışınızı planlamanıza, işbirliği yapmanıza, otomatikleştirmenize ve özelleştirmenize yardımcı olacaklar. GitHub Copilot uygulamasında eğik çizgi komutları için bir kılavuz yazısı ilk olarak GitHub'da göründü...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI, Dali Rajic'i Gelirler Direktörü olarak atadı",
+      "summary": "OpenAI, küresel gelir organizasyonuna liderlik etmek ve işletmelerin yapay zekanın tam değerini anlamasına yardımcı olmak için Dali Rajic'i Gelirlerden Sorumlu Başkan olarak atadı.",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-08-06T19:49:34Z",
+      "source": "OpenAI News",
+      "published_at": "2026-08-13T09:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "GitHub Copilot uygulamasında eğik çizgi komutları kılavuzu Bu eğik çizgi komutlarıyla GitHub Copilot uygulamasında sohbetin ötesine geçin. Geliştirici iş akışınızı planlamanıza, işbirliği yapmanıza, otomatikleştirmenize ve özelleştirmenize yardımcı olacaklar. GitHub Copilot uygulamasında eğik çizgi komutları için bir kılavuz yazısı ilk olarak GitHub'da göründü... A guide to slash commands in the GitHub Copilot app Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub... GitHub Dev Platform",
-      "title_original": "A guide to slash commands in the GitHub Copilot app",
-      "summary_original": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub...",
-      "published_display": "2026-08-06",
-      "id": "c0a0aa50b3ae"
+      "keywords": "OpenAI, Dali Rajic'i Gelirler Direktörü olarak atadı OpenAI, küresel gelir organizasyonuna liderlik etmek ve işletmelerin yapay zekanın tam değerini anlamasına yardımcı olmak için Dali Rajic'i Gelirlerden Sorumlu Başkan olarak atadı. OpenAI appoints Dali Rajic as Chief Revenue Officer OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI. AI OpenAI Model",
+      "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "published_display": "2026-08-13",
+      "id": "8580465db09b"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "95ad32cb79c0"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Daybreak modelleri artık AWS'de mevcut",
-      "summary": "OpenAI ve AWS, kurumsal güvenlik iş akışlarını desteklemek için Daybreak siber güvenlik özelliklerini Amazon Bedrock aracılığıyla kullanıma sunuyor.",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-11T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Daybreak modelleri artık AWS'de mevcut OpenAI ve AWS, kurumsal güvenlik iş akışlarını desteklemek için Daybreak siber güvenlik özelliklerini Amazon Bedrock aracılığıyla kullanıma sunuyor. Daybreak models are now available on AWS OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows. AI OpenAI Model",
-      "title_original": "Daybreak models are now available on AWS",
-      "summary_original": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "published_display": "2026-08-11",
-      "id": "9355f852b1c0"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Otomasyon talebinin sektörler arasında genişlemesiyle robot siparişleri ikinci çeyrekte 622 milyon dolara yükseldi - roboticsandautomationnews.com",
@@ -279,7 +279,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vMnVUazRsaFpCbi1PWm90YV9Db1VuY0kweWlNYW9nLWRUVzdkVVZVejNqX3FEU3dDTno2cXQ5b0swYnJFclhlVHJJUXZBTGF6REdaLU5LMGJqdUdJMlA3RUFFMU9hV1dZTlViekZuT09MelVhYk1B?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-08-13T09:29:06Z",
+      "published_at": "2026-08-13T09:58:20Z",
       "tags": [
         "Robotics",
         "Automation",
