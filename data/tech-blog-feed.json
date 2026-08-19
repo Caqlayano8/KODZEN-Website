@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-08-19T19:00:00Z",
-  "total_posts": 32,
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 2
+    "kamera": 3
   },
   "posts": [
     {
@@ -154,6 +154,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Arama ile öğrenme seviyenizi yükseltmenin 5 yeni yolu",
+      "summary": "Derslere ve standart testlere çalışmak için Google Arama araçlarını nasıl kullanabileceğinizi burada bulabilirsiniz.",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-19T19:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Arama ile öğrenme seviyenizi yükseltmenin 5 yeni yolu Derslere ve standart testlere çalışmak için Google Arama araçlarını nasıl kullanabileceğinizi burada bulabilirsiniz. 5 new ways to level up your learning with Search Here’s how you can use Google Search tools to study for classes and standardized tests. AI Product Google",
+      "title_original": "5 new ways to level up your learning with Search",
+      "summary_original": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "published_display": "2026-08-19",
+      "id": "fe10b89472d8"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Replit, GPT-5.6 Luna ile yazılım oluşturmaya erişimi genişletiyor",
       "summary": "Replit, GPT-5.6 Luna tarafından desteklenen Serbest Modu sunar, böylece herkes jeton maliyetleri konusunda endişelenmeden fikirlerini çalışan yazılımlara dönüştürebilir.",
       "url": "https://openai.com/index/replit",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
       "published_display": "2026-08-18",
       "id": "2b3847c90b4d"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "İlk yapay zeka neslini hazırlamak için CodeAI ile ortaklık kuruyoruz",
-      "summary": "OpenAI ve CodeAI, öğrencilerin yapay zeka okuryazarlığı geliştirmelerine, yapay zeka hakkında eleştirel düşünmelerine ve onu sorumlu bir şekilde kullanma ve şekillendirme becerilerini geliştirmelerine yardımcı olmak için iş birliği yapıyor.",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-18T11:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "İlk yapay zeka neslini hazırlamak için CodeAI ile ortaklık kuruyoruz OpenAI ve CodeAI, öğrencilerin yapay zeka okuryazarlığı geliştirmelerine, yapay zeka hakkında eleştirel düşünmelerine ve onu sorumlu bir şekilde kullanma ve şekillendirme becerilerini geliştirmelerine yardımcı olmak için iş birliği yapıyor. Partnering with CodeAI to prepare the first AI generation OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly. AI OpenAI Model",
-      "title_original": "Partnering with CodeAI to prepare the first AI generation",
-      "summary_original": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "published_display": "2026-08-18",
-      "id": "f8a44a29a41f"
     },
     {
       "category": "robotik",
@@ -630,6 +630,26 @@
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
       "id": "2dd56e341c6e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "CCTV Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR - Pazar Araştırmasının Geleceği",
+      "summary": "CCTV Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR Pazar Araştırmasının Geleceği",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYVMxZjhwdTFmRWRJZ1FWR0pqSzBEU1JqeVg1TUVackF3b0NhcnRuOVFYOGdVdjNMNy0wV21abzF1OWFvZXVuUjJ0THd4ZVpuSVhMekpxWWppMlFDbElxaUdBUVp0UkdwSm9Lcg?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-04T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "CCTV Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR - Pazar Araştırmasının Geleceği CCTV Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR Pazar Araştırmasının Geleceği CCTV Market Size, Share & Growth Report | MRFR - Market Research Future CCTV Market Size, Share & Growth Report | MRFR Market Research Future IP Camera Video Surveillance",
+      "title_original": "CCTV Market Size, Share & Growth Report | MRFR - Market Research Future",
+      "summary_original": "CCTV Market Size, Share & Growth Report | MRFR Market Research Future",
+      "published_display": "2026-08-04",
+      "id": "8ff20699b2bc"
     },
     {
       "category": "kamera",
