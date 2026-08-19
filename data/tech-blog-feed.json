@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-19T13:22:36Z",
+  "updated_at": "2026-08-19T19:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Sınır modelleri için Sıfır Veri Saklama Teklifi",
+      "summary": "OpenAI, uygun API müşterileri için Sıfır Veri Saklamayı yeniden onaylıyor ve veri gizliliğinden ödün vermeden gelişmiş yapay zeka güvenliği için Özel Güvenlik İşlemesinin ön izlemesini yapıyor.",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-08-19T19:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Sınır modelleri için Sıfır Veri Saklama Teklifi OpenAI, uygun API müşterileri için Sıfır Veri Saklamayı yeniden onaylıyor ve veri gizliliğinden ödün vermeden gelişmiş yapay zeka güvenliği için Özel Güvenlik İşlemesinin ön izlemesini yapıyor. Offering Zero Data Retention for frontier models OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy. AI OpenAI Model",
+      "title_original": "Offering Zero Data Retention for frontier models",
+      "summary_original": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "published_display": "2026-08-19",
+      "id": "35d40141f3c8"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Replit, GPT-5.6 Luna ile yazılım oluşturmaya erişimi genişletiyor",
       "summary": "Replit, GPT-5.6 Luna tarafından desteklenen Serbest Modu sunar, böylece herkes jeton maliyetleri konusunda endişelenmeden fikirlerini çalışan yazılımlara dönüştürebilir.",
       "url": "https://openai.com/index/replit",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
       "published_display": "2026-08-18",
       "id": "f8a44a29a41f"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Gençler için ChatGPT ile Tanışın: Öğrenmek için tasarlandı, korumalarla destekleniyor",
-      "summary": "Gençler için ChatGPT, daha güçlü yerleşik korumalar, sağlıklı kullanım özellikleri ve ebeveynlere yönelik ek kontrollerle gençlerin öğrenmesine, eleştirel düşünmesine ve yapay zekayı güvenle kullanmasına yardımcı olur.",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-18T11:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Gençler için ChatGPT ile Tanışın: Öğrenmek için tasarlandı, korumalarla destekleniyor Gençler için ChatGPT, daha güçlü yerleşik korumalar, sağlıklı kullanım özellikleri ve ebeveynlere yönelik ek kontrollerle gençlerin öğrenmesine, eleştirel düşünmesine ve yapay zekayı güvenle kullanmasına yardımcı olur. Introducing ChatGPT for Teens: Built for learning, backed by protections ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents. AI OpenAI Model",
-      "title_original": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "summary_original": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "published_display": "2026-08-18",
-      "id": "75eed265922c"
     },
     {
       "category": "robotik",
