@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-08-21T17:02:24Z",
-  "total_posts": 33,
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 3
+    "kamera": 4
   },
   "posts": [
     {
@@ -610,6 +610,26 @@
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
       "id": "55bfd5ae49b2"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
+      "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-17T07:37:08Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
+      "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
+      "published_display": "2026-08-17",
+      "id": "2dd56e341c6e"
     },
     {
       "category": "kamera",
