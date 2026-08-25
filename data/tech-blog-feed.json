@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-25T19:10:59Z",
+  "updated_at": "2026-08-25T21:35:11Z",
   "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "How to evaluate LLMs before production",
+      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-08-25T21:35:11Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "How to evaluate LLMs before production These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog . How to evaluate LLMs before production These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "How to evaluate LLMs before production",
+      "summary_original": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "published_display": "2026-08-25",
+      "id": "f7fa27ba1bf1"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .",
       "published_display": "2026-08-19",
       "id": "93836853fec3"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cos...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-08-17T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "How canvases make agentic workflows visible, steerable, and cost-efficient Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cos... How canvases make agentic workflows visible, steerable, and cost-efficient Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cos... GitHub Dev Platform",
-      "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "summary_original": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cos...",
-      "published_display": "2026-08-17",
-      "id": "dda4d48a2e0c"
     },
     {
       "category": "ai",
