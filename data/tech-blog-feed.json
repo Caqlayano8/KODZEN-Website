@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-08-28T11:00:32Z",
-  "total_posts": 35,
+  "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 5
+    "kamera": 6
   },
   "posts": [
     {
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-08-28T06:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Our decision on Cursor following its acquisition by SpaceX Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX. Our decision on Cursor following its acquisition by SpaceX Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX. AI OpenAI Model",
+      "title_original": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary_original": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "published_display": "2026-08-28",
+      "id": "1ea98e4a02ce"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Supporting Thailand’s next generation of AI startups",
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -230,26 +250,6 @@
       "summary_original": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "published_display": "2026-08-27",
       "id": "c34df0cf0203"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GlucoFM: Foundation model for continuous glucose monitoring",
-      "summary": "Health & Bioscience",
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/GlucoFM1_Overview.png",
-      "source": "Google Research Blog",
-      "published_at": "2026-08-26T18:42:43Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "GlucoFM: Foundation model for continuous glucose monitoring Health & Bioscience GlucoFM: Foundation model for continuous glucose monitoring Health & Bioscience AI Research Google",
-      "title_original": "GlucoFM: Foundation model for continuous glucose monitoring",
-      "summary_original": "Health & Bioscience",
-      "published_display": "2026-08-26",
-      "id": "455a0ff114c7"
     },
     {
       "category": "robotik",
@@ -670,6 +670,26 @@
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
       "id": "1353b8bf37a5"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 - Market Data Forecast",
+      "summary": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 Market Data Forecast",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRW9GRER5SHl6cXFoR3A3WlhqY3dWak9VUHFmQy1IdG1YNjNoMHZkcDU5YUtzaWotbFVjMUhUYUxETG90UEt1Um1SalA3YkdERlhrclREZVdJb09tcTVQM2FtZWpoYmxMTGhLOFRRcHJZejdTUkVxUDVxaXhRbzMteVJ4UktzZw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-23T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 - Market Data Forecast Asia Pacific IP Camera Market Size, Share & Trends, 2034 Market Data Forecast Asia Pacific IP Camera Market Size, Share & Trends, 2034 - Market Data Forecast Asia Pacific IP Camera Market Size, Share & Trends, 2034 Market Data Forecast IP Camera Video Surveillance",
+      "title_original": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 - Market Data Forecast",
+      "summary_original": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 Market Data Forecast",
+      "published_display": "2026-07-23",
+      "id": "288116b91b93"
     },
     {
       "category": "kamera",
