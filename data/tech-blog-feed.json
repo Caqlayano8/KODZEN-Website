@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-28T06:00:00Z",
-  "total_posts": 24,
+  "updated_at": "2026-08-28T11:00:32Z",
+  "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 0,
+    "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 0
+    "kamera": 6
   },
   "posts": [
     {
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "OpenAI'nin Brezilya'daki varlığını genişletmek",
-      "summary": "OpenAI Brezilya'daki varlığını genişletiyor; ülke genelinde yapay zekanın benimsenmesini desteklemek için geliştiriciler, işletmeler ve topluluklarla etkileşimi derinleştiriyor.",
+      "summary": "OpenAI, Brezilya'daki varlığını genişletiyor; ülke çapında yapay zekanın benimsenmesini desteklemek için geliştiriciler, işletmeler ve topluluklarla etkileşimi derinleştiriyor.",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,11 +245,131 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI'nin Brezilya'daki varlığını genişletmek OpenAI Brezilya'daki varlığını genişletiyor; ülke genelinde yapay zekanın benimsenmesini desteklemek için geliştiriciler, işletmeler ve topluluklarla etkileşimi derinleştiriyor. Expanding OpenAI’s presence in Brazil OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country. AI OpenAI Model",
+      "keywords": "OpenAI'nin Brezilya'daki varlığını genişletmek OpenAI, Brezilya'daki varlığını genişletiyor; ülke çapında yapay zekanın benimsenmesini desteklemek için geliştiriciler, işletmeler ve topluluklarla etkileşimi derinleştiriyor. Expanding OpenAI’s presence in Brazil OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country. AI OpenAI Model",
       "title_original": "Expanding OpenAI’s presence in Brazil",
       "summary_original": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "published_display": "2026-08-27",
       "id": "213b832bb0d5"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotlar Otomotiv Camı Üretimini Nasıl Yeniden Şekillendiriyor - Robotik ve Otomasyon Haberleri",
+      "summary": "Robotlar Otomotiv Camı Üretimini Nasıl Yeniden Şekillendiriyor? Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLUdyWVdxMkJ0U3B6RDdTc0RWdFphd2RBYkFDQ2R4NmZqQVhTS01ZdGxLUTlWM3FvaVJJRnNFcVNWeWVNalQyYTh1WGM5eGs2ZlRiSFBQYVhUbEY0dUtmQnRJdWd3QzQtd1g5NUJveENWRTVGeDFfTXFwYjlHQkVJT1FLSThqWTNZYXhCSXlNdlhvMW83Z19ldkVmdzJvNGgyNUJUV3JEZk5kNTN2RGc?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-28T11:00:32Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotlar Otomotiv Camı Üretimini Nasıl Yeniden Şekillendiriyor - Robotik ve Otomasyon Haberleri Robotlar Otomotiv Camı Üretimini Nasıl Yeniden Şekillendiriyor? Robotik ve Otomasyon Haberleri How Robots Are Reshaping Automotive Glass Production - Robotics & Automation News How Robots Are Reshaping Automotive Glass Production Robotics & Automation News Robotics Automation Industry",
+      "title_original": "How Robots Are Reshaping Automotive Glass Production - Robotics & Automation News",
+      "summary_original": "How Robots Are Reshaping Automotive Glass Production Robotics & Automation News",
+      "published_display": "2026-08-28",
+      "id": "fe21ec6c6751"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Endüstriyel Otomasyon Gelişiyor: Robotik Tek Başına Yeterli Değil - L&T Technology Services",
+      "summary": "Endüstriyel Otomasyon Gelişiyor: Robotik Tek Başına Yeterli Değil L&T Teknoloji Hizmetleri",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1SmRFd2dDeVdibTdKQ2hYa0lpLW9LUVI3R1hLb0U1Y2RoT1BFVHlsalJKQTRSTXlWdnRJeGxJb0c1VGJGd2UxR3ZhWlg1bGJLTmVFNExGa19BOXMtN0NaTm5jREx3THc?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-28T07:59:04Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Endüstriyel Otomasyon Gelişiyor: Robotik Tek Başına Yeterli Değil - L&T Technology Services Endüstriyel Otomasyon Gelişiyor: Robotik Tek Başına Yeterli Değil L&T Teknoloji Hizmetleri Industrial Automation Is Evolving: Robotics Alone Is Not Enough - L&T Technology Services Industrial Automation Is Evolving: Robotics Alone Is Not Enough L&T Technology Services Robotics Automation Industry",
+      "title_original": "Industrial Automation Is Evolving: Robotics Alone Is Not Enough - L&T Technology Services",
+      "summary_original": "Industrial Automation Is Evolving: Robotics Alone Is Not Enough L&T Technology Services",
+      "published_display": "2026-08-28",
+      "id": "8dc657873d0a"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3YwS3IzYUpFNmJZcHFId3B4MzJwUnBFX19VRVA0ZDJ6T18yMjBnWTNvM1BsYlp4UkMtb05RQmhLbkh0NEVaX1VSU081ZXFndEVNZWh3WHlXTEMyOW5lc3VVd09ZQ0NPbUZiaDd6bUpKMkJ3Yzk1TkVnTnlqSnFFQUxyems1NXdvQm54dWEtdmVjWThLODFxNkZnTEx4MGlNMEREZ0R6ekduT2doVU1jMXVLN0xfdjFV?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-26T17:35:23Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-08-26",
+      "id": "8d965ca6ef96"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotik Mühendislerini İşe Alan 11 Şirket - Yerleşik",
+      "summary": "Yerleşik Robotik Mühendislerini İşe Alan 11 Şirket",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mN282d0lWaTlubHkzUmxFZS1ob3V6Wmc2UElabmtjSExndHRWbHFHWUN1R0ZBTVFxMEUtOVlaT0Vtb0VodEdLcl9zd2Z5TFhKbDJEZmFhbDVCbXZYaEJqZlZobnlBWF92NFZ5R2ItTFRUdw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-18T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotik Mühendislerini İşe Alan 11 Şirket - Yerleşik Yerleşik Robotik Mühendislerini İşe Alan 11 Şirket 11 Companies Hiring Robotics Engineers - Built In 11 Companies Hiring Robotics Engineers Built In Robotics Automation Industry",
+      "title_original": "11 Companies Hiring Robotics Engineers - Built In",
+      "summary_original": "11 Companies Hiring Robotics Engineers Built In",
+      "published_display": "2026-08-18",
+      "id": "344091fb4352"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Otomasyon talebinin sektörler arasında genişlemesiyle robot siparişleri ikinci çeyrekte 622 milyon dolara yükseldi - Robotik ve Otomasyon Haberleri",
+      "summary": "Endüstriler arasında otomasyon talebinin artmasıyla birlikte robot siparişleri ikinci çeyrekte 622 milyon dolara yükseldi Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWTZxMWRfTldBbTNrWlZDNnBMZjFMcU50QzlkWW50a2cyLWZ3TDRVZEc3WWlUUmJDak43RDJ1S3d2S2I2Y2U3NXAwcDJoRS12dVNvYWljNTZKSl9XdkdmVEFab1Zic0lVNnlBZDVia2pVX2xGd2ZiRDQ3dVdRakcwVnczeUlWMGhrTU82OTJaSUVQRXMxNlcydHdSd1UyNC1Ud0hBRVFzRGkxRklkRk5ad2ZKQWU0ZnUyOXY3WkN3RHRYd2I5V3FCX2pGaGh4N1o5bGxkZTdkQ29MLWxOY2hjYw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-13T10:09:30Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Otomasyon talebinin sektörler arasında genişlemesiyle robot siparişleri ikinci çeyrekte 622 milyon dolara yükseldi - Robotik ve Otomasyon Haberleri Endüstriler arasında otomasyon talebinin artmasıyla birlikte robot siparişleri ikinci çeyrekte 622 milyon dolara yükseldi Robotik ve Otomasyon Haberleri Robot orders increase to $622 million in Q2 as automation demand broadens across industries - Robotics & Automation News Robot orders increase to $622 million in Q2 as automation demand broadens across industries Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Robot orders increase to $622 million in Q2 as automation demand broadens across industries - Robotics & Automation News",
+      "summary_original": "Robot orders increase to $622 million in Q2 as automation demand broadens across industries Robotics & Automation News",
+      "published_display": "2026-08-13",
+      "id": "9f262f02458b"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "IMTS 2026 Konferansı: Robotsuz Lights-Out Üretimi: İş Mili İçi Otomasyondan Pratik Mühendislik Dersleri - Günümüzün Tıbbi Gelişmeleri",
+      "summary": "IMTS 2026 Konferansı: Robotsuz Lights-Out Üretimi: İş Mili İçi Otomasyondan Pratik Mühendislik Dersleri Günümüzün Tıbbi Gelişmeleri",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaTlCUk93UGpOeDZFX20zaThONDJUaTlLU3RFMGRJZ3AtVzFldjNBT1BXb2I4YnFKTHRfUnVtemV6em1RM2FNU0M3NFFTeTN5TE1LVVR2TExLUjlLRmtZMFpBOUZmMG9TcWJpTHpRcDF4QWdPVHh4bUMtRHVhSDJucjBPUEh6a0k2QjFFcTRpQVJvbi0zdUpZUmVCSFNQTVQ0dGluN1JrTUhQQUR6bmdHczBib0t3WDZSR1Z4NnVSZ2djT1UtQUFyYkt5aUlOYUVXQ09NVG1qV1hzbVUxdE4zSWlZMzlvWXRlYkVYbWVUMG5xTVJ5T2lma3BOOVk?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-13T05:30:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "IMTS 2026 Konferansı: Robotsuz Lights-Out Üretimi: İş Mili İçi Otomasyondan Pratik Mühendislik Dersleri - Günümüzün Tıbbi Gelişmeleri IMTS 2026 Konferansı: Robotsuz Lights-Out Üretimi: İş Mili İçi Otomasyondan Pratik Mühendislik Dersleri Günümüzün Tıbbi Gelişmeleri IMTS 2026 Conference: Lights-Out Manufacturing Without the Robot: Practical Engineering Lessons from In-Spindle Automation - Today's Medical Developments IMTS 2026 Conference: Lights-Out Manufacturing Without the Robot: Practical Engineering Lessons from In-Spindle Automation Today's Medical Developments Robotics Automation Industry",
+      "title_original": "IMTS 2026 Conference: Lights-Out Manufacturing Without the Robot: Practical Engineering Lessons from In-Spindle Automation - Today's Medical Developments",
+      "summary_original": "IMTS 2026 Conference: Lights-Out Manufacturing Without the Robot: Practical Engineering Lessons from In-Spindle Automation Today's Medical Developments",
+      "published_display": "2026-08-13",
+      "id": "a5e20ee738cc"
     },
     {
       "category": "web",
@@ -314,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -325,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -474,7 +594,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi",
+      "title": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi",
       "summary": "Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve...",
       "url": "https://blog.cloudflare.com/frontier-model-defense/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KW4835YARQCT6F3SPE8T0JJD.png",
@@ -485,11 +605,131 @@
         "Security",
         "Web"
       ],
-      "keywords": "Sınır siber modellerine karşı savunma: Cloudflare'in sıfır müşteri mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
+      "keywords": "Sınır siber modellerine karşı savunma: Müşteri sıfır olarak Cloudflare mimarisi Project Glasswing hakkındaki yazımızda, bir güvenlik açığının etrafındaki mimarinin yamanın hızından daha önemli olduğunu savunduk. Burada mimarinin neye benzediğini, savunduğu tehditleri ve... Defend against frontier cyber models: Cloudflare's architecture as customer zero In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and... Cloudflare Security Web",
       "title_original": "Defend against frontier cyber models: Cloudflare's architecture as customer zero",
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
-      "id": "55bfd5ae49b2"
+      "id": "ee48359b34f2"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Hunt.io Araştırması, IP Kamera Kurulumları için Uzaktan Erişim Risklerini Vurguluyor - Güvenlik Bilgileri İzleme",
+      "summary": "Hunt.io Araştırması, IP Kamera Dağıtımları için Uzaktan Erişim Risklerini Vurguluyor Güvenlik Bilgilerini İzleme",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSW5LaVozQ2xHcnI3RVFxd3cycHRmZUFnNkt1cmtIWG5lV0RMZzZqaDhaOHNrbXp6WjNJT2k5aUdxaEpZWFVWTW9SM3gxVVJWUTVtUjYtbXh4T3RmYzQwR2ZCVVJVc0UwaDJ2bHA2cWV2SU1XQzBGellqUGxVX093Y0xoY3FKaGpTUzhPM1B3MDdpMWtHRmdoemxuTkJLNGRtbzVLd1c2STNkbHJCcWctYm1hTHhOMHdvVG5FV2p2Q0tYYkdxMjJSUE0wSUg2cVk?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-24T20:22:02Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hunt.io Araştırması, IP Kamera Kurulumları için Uzaktan Erişim Risklerini Vurguluyor - Güvenlik Bilgileri İzleme Hunt.io Araştırması, IP Kamera Dağıtımları için Uzaktan Erişim Risklerini Vurguluyor Güvenlik Bilgilerini İzleme Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments - Security Info Watch Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments Security Info Watch IP Camera Video Surveillance",
+      "title_original": "Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments - Security Info Watch",
+      "summary_original": "Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments Security Info Watch",
+      "published_display": "2026-08-24",
+      "id": "01c9bc0f1245"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com",
+      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T22:25:07Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "published_display": "2026-08-21",
+      "id": "f8c52e210230"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
+      "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-17T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
+      "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
+      "published_display": "2026-08-17",
+      "id": "2dd56e341c6e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Payı ve Trendler, 2034 - Pazar Verileri Tahmini",
+      "summary": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Paylaşım ve Trendler, 2034 Pazar Verileri Tahmini",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRW9GRER5SHl6cXFoR3A3WlhqY3dWak9VUHFmQy1IdG1YNjNoMHZkcDU5YUtzaWotbFVjMUhUYUxETG90UEt1Um1SalA3YkdERlhrclREZVdJb09tcTVQM2FtZWpoYmxMTGhLOFRRcHJZejdTUkVxUDVxaXhRbzMteVJ4UktzZw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-23T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Payı ve Trendler, 2034 - Pazar Verileri Tahmini Asya Pasifik IP Kamera Pazar Büyüklüğü, Paylaşım ve Trendler, 2034 Pazar Verileri Tahmini Asia Pacific IP Camera Market Size, Share & Trends, 2034 - Market Data Forecast Asia Pacific IP Camera Market Size, Share & Trends, 2034 Market Data Forecast IP Camera Video Surveillance",
+      "title_original": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 - Market Data Forecast",
+      "summary_original": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 Market Data Forecast",
+      "published_display": "2026-07-23",
+      "id": "fbbd84042eef"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews",
+      "summary": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNk9NNUdtbThFQ3luZGEtRXhxVXR4SWVuMGZuRGVXbTh0MEYxMm9hNzhfaXgxRHpORGYzbjlCTllOV1Q1WF92TFVEQ1Y1bTR6QUtBZGI3MUxUVTI0OGdhbXpkZ0RlZmNnR1FUeldPZTI1RnpnMmNrTVZn0gF_QVVfeXFMT0czeWtvZWFiVjE0RXFDS1pEUS1wWG1WTTlVMi1wNnVnS1llV2x3NzgtcDlnMXZWbENNemotR1hLV0pJTXpTdnJnMGtWb0paX3p4dF9GdDFWOFhqdEdfNF9rcnF2NGZKZGVkM29WdlZFTXhjWU9rS3hBSTlqMzZXcw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-22T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi CyberSecurityNews Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - CyberSecurityNews Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - CyberSecurityNews",
+      "summary_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews",
+      "published_display": "2026-07-22",
+      "id": "23b142dc3456"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - Hacker News",
+      "summary": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjlxSHAtNnkzZ3BESHJKb0xDVXlocTN3VEJmV2lmcUw3YVFWN3kxTFhpZlJpOWcySG1sSUZhOFkwY3FRLU1pTU8xbDV1TlpQWFJwVkZMd3JUTjBUU3c5dlBZdHg0VDAyVVQ1aU9ENGtWRVVJbUY0Mk5jM1JkVWtab19B?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-20T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - Hacker News Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News IP Camera Video Surveillance",
+      "title_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News",
+      "summary_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News",
+      "published_display": "2026-07-20",
+      "id": "fa827cf1e911"
     }
   ]
 }
