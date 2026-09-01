@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-01T04:00:00Z",
-  "total_posts": 35,
+  "updated_at": "2026-09-01T17:00:00Z",
+  "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 5
+    "kamera": 6
   },
   "posts": [
     {
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Alternatif metniniz otomatik kontrollerden geçer. Bu onun iyi olduğu anlamına gelmez.",
-      "summary": "Alternatif metninizin gerçekten erişilebilir olduğundan emin olmak amacıyla GitHub Erişilebilirlik Tarayıcısı için bir eklenti geliştirdik. İşte nasıl çalışıyor? Gönderi Alternatif metniniz otomatik kontrollerden geçiyor. Bu onun iyi olduğu anlamına gelmez. İlk olarak GitHub'da ortaya çıktı...",
+      "summary": "Alternatif metninizin gerçekten erişilebilir olduğundan emin olmak amacıyla GitHub Erişilebilirlik Tarayıcısı için bir eklenti oluşturduk. İşte nasıl çalışıyor? Gönderi Alternatif metniniz otomatik kontrollerden geçiyor. Bu onun iyi olduğu anlamına gelmez. İlk olarak GitHub'da ortaya çıktı...",
       "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,71 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Alternatif metniniz otomatik kontrollerden geçer. Bu onun iyi olduğu anlamına gelmez. Alternatif metninizin gerçekten erişilebilir olduğundan emin olmak amacıyla GitHub Erişilebilirlik Tarayıcısı için bir eklenti geliştirdik. İşte nasıl çalışıyor? Gönderi Alternatif metniniz otomatik kontrollerden geçiyor. Bu onun iyi olduğu anlamına gelmez. İlk olarak GitHub'da ortaya çıktı... Your alt text passes automated checks. That doesn’t mean it’s any good. We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "Alternatif metniniz otomatik kontrollerden geçer. Bu onun iyi olduğu anlamına gelmez. Alternatif metninizin gerçekten erişilebilir olduğundan emin olmak amacıyla GitHub Erişilebilirlik Tarayıcısı için bir eklenti oluşturduk. İşte nasıl çalışıyor? Gönderi Alternatif metniniz otomatik kontrollerden geçiyor. Bu onun iyi olduğu anlamına gelmez. İlk olarak GitHub'da ortaya çıktı... Your alt text passes automated checks. That doesn’t mean it’s any good. We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
       "summary_original": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub...",
       "published_display": "2026-08-24",
       "id": "6d0e6c102d59"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Yapay zekaya dayalı şirketler iş akışlarını işletim yeteneğine nasıl dönüştürüyor?",
+      "summary": "Basis, Clay ve Exa Labs, katılım, hesap yönetimi ve geliştirici entegrasyonlarını iyileştirmek için AI aracılarını kullanıyor. Kurumsal liderlerin neleri uygulayabileceğini görün.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-01T17:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Yapay zekaya dayalı şirketler iş akışlarını işletim yeteneğine nasıl dönüştürüyor? Basis, Clay ve Exa Labs, katılım, hesap yönetimi ve geliştirici entegrasyonlarını iyileştirmek için AI aracılarını kullanıyor. Kurumsal liderlerin neleri uygulayabileceğini görün. How AI-native companies turn workflows into operating capability Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply. AI OpenAI Model",
+      "title_original": "How AI-native companies turn workflows into operating capability",
+      "summary_original": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "published_display": "2026-09-01",
+      "id": "f9a5ead08129"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Google Pics'i deneyin: Google Workspace'te kolay resim oluşturma ve düzenleme",
+      "summary": "En son Nano Banana modelimizi temel alan Google Pics (resim oluşturma ve düzenleme aracımız) artık kullanıma sunuldu.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-01T16:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Google Pics'i deneyin: Google Workspace'te kolay resim oluşturma ve düzenleme En son Nano Banana modelimizi temel alan Google Pics (resim oluşturma ve düzenleme aracımız) artık kullanıma sunuldu. Try Google Pics: Easy image creation and editing in Google Workspace Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available. AI Product Google",
+      "title_original": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary_original": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "published_display": "2026-09-01",
+      "id": "15783198e9e0"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Sağlık kuruluşları artık EHR ve ek sektör verilerini ChatGPT'ye bağlayabilir",
+      "summary": "ChatGPT artık güvenilir sağlık verilerine bağlanarak klinisyenlerin hasta bağlamına, tıbbi araştırmalara ve daha fazlasına güvenli bir şekilde erişmesine yardımcı oluyor.",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-01T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Sağlık kuruluşları artık EHR ve ek sektör verilerini ChatGPT'ye bağlayabilir ChatGPT artık güvenilir sağlık verilerine bağlanarak klinisyenlerin hasta bağlamına, tıbbi araştırmalara ve daha fazlasına güvenli bir şekilde erişmesine yardımcı oluyor. Healthcare organizations can now connect EHR and additional industry data to ChatGPT ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more. AI OpenAI Model",
+      "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary_original": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "published_display": "2026-09-01",
+      "id": "e715a348d1ed"
     },
     {
       "category": "ai",
@@ -174,8 +234,8 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "OpenAI, gençlerin yapay zeka güvenliğini geliştirmek için Kaliforniya'nın yasa tasarısını destekliyor",
-      "summary": "OpenAI, California SB 1119'u destekleyerek öğrenme, yaratma ve keşfetme fırsatlarını korurken gençler için güçlü, yaşa uygun yapay zeka korumalarını geliştiriyor.",
+      "title": "OpenAI, Kaliforniya'nın gençlerin yapay zeka güvenliğini geliştirmeye yönelik yasa tasarısını destekliyor",
+      "summary": "OpenAI, öğrenme, yaratma ve keşfetme fırsatlarını korurken gençler için güçlü, yaşa uygun yapay zeka korumalarını geliştirerek California SB 1119'u destekler.",
       "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,77 +245,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI, gençlerin yapay zeka güvenliğini geliştirmek için Kaliforniya'nın yasa tasarısını destekliyor OpenAI, California SB 1119'u destekleyerek öğrenme, yaratma ve keşfetme fırsatlarını korurken gençler için güçlü, yaşa uygun yapay zeka korumalarını geliştiriyor. OpenAI supports California’s bill to advance youth AI safety OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore. AI OpenAI Model",
+      "keywords": "OpenAI, Kaliforniya'nın gençlerin yapay zeka güvenliğini geliştirmeye yönelik yasa tasarısını destekliyor OpenAI, öğrenme, yaratma ve keşfetme fırsatlarını korurken gençler için güçlü, yaşa uygun yapay zeka korumalarını geliştirerek California SB 1119'u destekler. OpenAI supports California’s bill to advance youth AI safety OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore. AI OpenAI Model",
       "title_original": "OpenAI supports California’s bill to advance youth AI safety",
       "summary_original": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "published_display": "2026-08-31",
-      "id": "6d90d15b7308"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yapay zekaya erişimin genişletilmesinde bir dönüm noktası",
-      "summary": "ChatGPT Reklamları, yıllık gelir oranı olarak 1 milyar dolara ulaşıyor ve ücretsiz ve uygun fiyatlı seçeneklerle yapay zekaya daha geniş erişimi destekleyerek dünya çapında genişliyor.",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-31T04:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Yapay zekaya erişimin genişletilmesinde bir dönüm noktası ChatGPT Reklamları, yıllık gelir oranı olarak 1 milyar dolara ulaşıyor ve ücretsiz ve uygun fiyatlı seçeneklerle yapay zekaya daha geniş erişimi destekleyerek dünya çapında genişliyor. A milestone in expanding access to AI ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options. AI OpenAI Model",
-      "title_original": "A milestone in expanding access to AI",
-      "summary_original": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "published_display": "2026-08-31",
-      "id": "0cd03e3a0a23"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Cursor'un SpaceX tarafından satın alınmasının ardından kararımız",
-      "summary": "Cursor'un SpaceX tarafından satın alınmasının ardından OpenAI modelleri sağlayan sözleşmemizi sona erdirme kararımız.",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-28T06:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Cursor'un SpaceX tarafından satın alınmasının ardından kararımız Cursor'un SpaceX tarafından satın alınmasının ardından OpenAI modelleri sağlayan sözleşmemizi sona erdirme kararımız. Our decision on Cursor following its acquisition by SpaceX Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX. AI OpenAI Model",
-      "title_original": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary_original": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "published_display": "2026-08-28",
-      "id": "46626f160a6c"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Tayland'ın yeni nesil yapay zeka girişimlerini destekliyoruz",
-      "summary": "OpenAI ve Taylandlı MHESI, 10 sağlık, sağlıklı yaşam ve eğitim girişiminin yapay zeka prototiplerini güvenilir ürünlere dönüştürmesine yardımcı olacak sekiz haftalık bir hızlandırıcı başlattı.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-08-28T02:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Tayland'ın yeni nesil yapay zeka girişimlerini destekliyoruz OpenAI ve Taylandlı MHESI, 10 sağlık, sağlıklı yaşam ve eğitim girişiminin yapay zeka prototiplerini güvenilir ürünlere dönüştürmesine yardımcı olacak sekiz haftalık bir hızlandırıcı başlattı. Supporting Thailand’s next generation of AI startups OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products. AI OpenAI Model",
-      "title_original": "Supporting Thailand’s next generation of AI startups",
-      "summary_original": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "published_display": "2026-08-28",
-      "id": "c5ca45f268ff"
+      "id": "1612afc5f17a"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik Hisse Senetleri: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli - analyzeinsight.net",
-      "summary": "Robotik Hisse Senetleri: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli?",
+      "title": "Robotik Stokları: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli - Analytics Insight",
+      "summary": "Robotik Stoklar: Otomasyon Sektöründe Şirketler Nasıl Değerlendirilmeli? Analitik İçgörü",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0dTaDBrMFMxamhzNzVpSWlkMVdMLS1CWWJzdjFBeVJtVnFwdTl0bklraHRPSTZuYlNxaDBxNDJFQmV0V0syNkU3dUVNTThIcWRFR0RVQnBvNjllV3ByWFBvNUVMdlA3VHpqUTlpbmk3SG51LUVkdkN0V3ZySmZMWGlxZG0tOUk0Y0hIdlhiZXhHTTBMNzh6aEQ3Y25SazBGVld6WXQ1dmZZdmJl0gG6AUFVX3lxTE9WSkYwakRpRlEtZEhsNlQycEdxUTNBcDhwZmdOR0VJQkJjMUF5Q09vMnlaQlB6cDE3TWxmeUJ5UWFfNHQ3eF8zWjlvdHFqX2pFa3J5bXdoMnljSnVOMk5oN1h4SE41UG4zcUxqU3FEM29qRWpTU19TNWZsTTFya01JWXhycDNVa09fa2d3bVBURDJEQTM3VjMzdFc1aG5fTlo4VGoxUTlEdVJXbzlGRUx0aWxObjNQcHNaZw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,11 +265,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Hisse Senetleri: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli - analyzeinsight.net Robotik Hisse Senetleri: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli? Robotics Stocks: How to Evaluate Companies in the Automation Industry - analyticsinsight.net Robotics Stocks: How to Evaluate Companies in the Automation Industry analyticsinsight.net Robotics Automation Industry",
-      "title_original": "Robotics Stocks: How to Evaluate Companies in the Automation Industry - analyticsinsight.net",
-      "summary_original": "Robotics Stocks: How to Evaluate Companies in the Automation Industry analyticsinsight.net",
+      "keywords": "Robotik Stokları: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli - Analytics Insight Robotik Stoklar: Otomasyon Sektöründe Şirketler Nasıl Değerlendirilmeli? Analitik İçgörü Robotics Stocks: How to Evaluate Companies in the Automation Industry - Analytics Insight Robotics Stocks: How to Evaluate Companies in the Automation Industry Analytics Insight Robotics Automation Industry",
+      "title_original": "Robotics Stocks: How to Evaluate Companies in the Automation Industry - Analytics Insight",
+      "summary_original": "Robotics Stocks: How to Evaluate Companies in the Automation Industry Analytics Insight",
       "published_display": "2026-09-01",
-      "id": "d8a4ca1dcd29"
+      "id": "4ad15136946d"
     },
     {
       "category": "robotik",
@@ -614,7 +614,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com",
       "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
       "image_url": null,
@@ -625,16 +625,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
       "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
       "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
       "published_display": "2026-08-21",
-      "id": "8fc2aac65cb9"
+      "id": "f8c52e210230"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
       "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
       "image_url": null,
@@ -645,11 +645,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
       "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
-      "id": "3e495a0121de"
+      "id": "2dd56e341c6e"
     },
     {
       "category": "kamera",
@@ -694,8 +694,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - Hacker News",
-      "summary": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri",
+      "title": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - thehackernews.com",
+      "summary": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjlxSHAtNnkzZ3BESHJKb0xDVXlocTN3VEJmV2lmcUw3YVFWN3kxTFhpZlJpOWcySG1sSUZhOFkwY3FRLU1pTU8xbDV1TlpQWFJwVkZMd3JUTjBUU3c5dlBZdHg0VDAyVVQ1aU9ENGtWRVVJbUY0Mk5jM1JkVWtab19B?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -705,11 +705,31 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - Hacker News Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News IP Camera Video Surveillance",
-      "title_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News",
-      "summary_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News",
+      "keywords": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - thehackernews.com Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi thehackernews.com Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - thehackernews.com Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine thehackernews.com IP Camera Video Surveillance",
+      "title_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - thehackernews.com",
+      "summary_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine thehackernews.com",
       "published_display": "2026-07-20",
-      "id": "fa827cf1e911"
+      "id": "9618b45d797e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme",
+      "summary": "Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzk2b19qRUl0bkdUdkFUZ0psd1pzUlJ6a2M1Y3lPbWVGaHZuTTBrRmI2bnRlZFZIV0VaVXhSTWVvN1daX0otSHhwRmFqYkF3U2s3RExZMFpzc2FvMGRwcjNJWElmTnlpSFBpS2pPNTVDZ3dMc3BHNEQ0bXp3NG9XME1ZdzBWOFJaN0hVb1JXQ3RKSVBPN2dPWUQyby1MUUZHVnQyMTlucThZUmct?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-20T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Teknoloji Trendleri: Edge AI Kameranın Rolünü Nasıl Yeniden Tanımlıyor - Güvenlik Bilgileri İzleme Teknoloji Trendleri: Edge AI, Kameranın Rolünü Nasıl Yeniden Tanımlıyor? Güvenlik Bilgilerini İzle Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch IP Camera Video Surveillance",
+      "title_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role - Security Info Watch",
+      "summary_original": "Tech Trends: How Edge AI Is Redefining the Camera's Role Security Info Watch",
+      "published_display": "2026-07-20",
+      "id": "270d74a737ae"
     }
   ]
 }
