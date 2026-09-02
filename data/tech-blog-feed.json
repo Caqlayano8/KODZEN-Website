@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T18:00:00Z",
+  "updated_at": "2026-09-02T21:00:00Z",
   "total_posts": 36,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım!",
+      "summary": "Döngü mühendisliğinden koşum takımlarına, takımlara ve açık ağırlıklara kadar GitHub Podcast, geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilini çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü...",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-02T21:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! Döngü mühendisliğinden koşum takımlarına, takımlara ve açık ağırlıklara kadar GitHub Podcast, geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilini çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
+      "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "summary_original": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared...",
+      "published_display": "2026-09-02",
+      "id": "1c647c9c8cfc"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "Most developers I talk to aren’t asking whether Azure SQL Database can handle their next app. They’re asking where to start when it comes to modernization, migration, and AI in the database. If you’re reading this, you’re probably in a s...",
       "published_display": "2026-08-25",
       "id": "e2d02d767a86"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Azure SRE Agent'ı her zaman açık ücret ödemeden deneyin",
-      "summary": "Azure SRE Aracısı için 30 günlük deneme deneyimini duyurmaktan mutluluk duyuyoruz. Yeni müşteriler, kurulum süresi veya aracıların hazır tutulması için herhangi bir ücret ödemeden, SRE Aracısını kendi hızlarına göre oluşturabilir ve yapılandırabilir. Deneme sırasında bağlantı kurabilirsiniz...",
-      "url": "https://devblogs.microsoft.com/blog/try-azure-sre-agent-with-no-always-on-charges/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-08-25T15:00:00Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Azure SRE Agent'ı her zaman açık ücret ödemeden deneyin Azure SRE Aracısı için 30 günlük deneme deneyimini duyurmaktan mutluluk duyuyoruz. Yeni müşteriler, kurulum süresi veya aracıların hazır tutulması için herhangi bir ücret ödemeden, SRE Aracısını kendi hızlarına göre oluşturabilir ve yapılandırabilir. Deneme sırasında bağlantı kurabilirsiniz... Try Azure SRE Agent with no always-on charges We are happy to announce a 30-day trial experience for Azure SRE Agent. New customers can create and configure the SRE Agent at their own pace, with no charges for setup time or keeping agents ready. During the trial, you can connect you... Microsoft Dev Cloud",
-      "title_original": "Try Azure SRE Agent with no always-on charges",
-      "summary_original": "We are happy to announce a 30-day trial experience for Azure SRE Agent. New customers can create and configure the SRE Agent at their own pace, with no charges for setup time or keeping agents ready. During the trial, you can connect you...",
-      "published_display": "2026-08-25",
-      "id": "706e029c8fec"
     },
     {
       "category": "ai",
@@ -274,26 +274,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzQ1eDBnOV9KdGM2ZWVyXzJFYzJtOEhfSTVGZ1ctXzlBUF9yLTQwX2hXcE42YjBWY2ZYTU5DU19uenM0X2FaTTRBZEVLQ1ZJSnZCTnNOQktEYlI0a2JEOFdHLUp2bUd0SFR6bnd4azktMFZqeFQ0Y3A3TU5CMEJPZEpMUU56cHFNS0kxSk9EekhKRGdTWDZjZ0ViVUlTUmJaQzZGUHBfNU04dllvSWY1Y1kzR0FKRzlmd0FhV2p5aGUtQ00?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-02T13:54:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
-      "published_display": "2026-09-02",
-      "id": "8fece8834572"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Çevik Robotlar, Endüstriyel Otomasyondan Robot Eğitim Verilerine kadar Fiziksel Yapay Zekayı Gerçek Dünyaya Getiriyor - Yahoo Finance Singapur",
       "summary": "Çevik Robotlar, Fiziksel Yapay Zekayı Gerçek Dünyaya Taşıyor - Endüstriyel Otomasyondan Robot Eğitim Verilerine kadar Yahoo Finance Türkiye",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUFRpLWF5eWt4c3JZQmNzTVgwd0JwdGVtTjRseC04VUJGSklKUXJWTkZEcjQ2a3lySlBweUZDMFNzS3hrM0pHbzhPQklSMHBuclprdXdWd09oR3FrTl9GR1d3MFN0dE1iMVhxYkRkdDduQ3o1c3ZaTXBIV0tZT0xzNFNkeGhRd0k?oc=5",
@@ -334,8 +314,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor - einnews.com",
-      "summary": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor einnews.com",
+      "title": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor - EIN News",
+      "summary": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor EIN Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUnFTcGlFTzlXczlaWHhzVVZwWWV1LXBHa2FRRHkySEJsazloZWRqQktXQW42eTJiMzBTckVWUlRuT2l6QWFKd3hkdmNtWlJmYVBOYlNlUHNfbFRUUHRFWkVzTGFBSFh5UE1TZEEtWmxxSFBEZk1kU0JTN3BPVWVQQ2NGYkhaUEZ3TGZoN3c0U0R5ZjBnenFMcVliNjRGU0dhTGxaNXVGbkxWcHhfajZxczFkWlFoWm0tRnoxN2RybUFXWUVyWndXdkVmMnF0UThaVDRNYy0zSkU5UHdnbWxTalR4dzhQOENYRnAyQXln?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,31 +325,51 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor - einnews.com Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor einnews.com Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. - einnews.com Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. einnews.com Robotics Automation Industry",
-      "title_original": "Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. - einnews.com",
-      "summary_original": "Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. einnews.com",
+      "keywords": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor - EIN News Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor EIN Haberleri Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. - EIN News Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. EIN News Robotics Automation Industry",
+      "title_original": "Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. - EIN News",
+      "summary_original": "Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. EIN News",
       "published_display": "2026-08-31",
-      "id": "7099e8871ff2"
+      "id": "77a55ad4c2c6"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik Strateji Forumu 2026 - Therecursive.com",
-      "summary": "Robotik Strateji Forumu 2026 Therecursive.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vYUxleVdqR3Z2TUw2YmxxR0gtR0paT3kzRnE3TnhpbGUzQUNTemozcjJwLU1WX1hCc2FwOV9SRXNWSHJtcjZ2VnlaRUhHTmxSSXY2dGpVejhLcTZHQVZOZnp0X3BXRVZWcVE?oc=5",
+      "title": "Robotik Mühendislerini İşe Alan 11 Şirket - Yerleşik",
+      "summary": "Yerleşik Robotik Mühendislerini İşe Alan 11 Şirket",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mN282d0lWaTlubHkzUmxFZS1ob3V6Wmc2UElabmtjSExndHRWbHFHWUN1R0ZBTVFxMEUtOVlaT0Vtb0VodEdLcl9zd2Z5TFhKbDJEZmFhbDVCbXZYaEJqZlZobnlBWF92NFZ5R2ItTFRUdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-08-20T07:00:00Z",
+      "published_at": "2026-08-18T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Strateji Forumu 2026 - Therecursive.com Robotik Strateji Forumu 2026 Therecursive.com Robotics Strategy Forum 2026 - therecursive.com Robotics Strategy Forum 2026 therecursive.com Robotics Automation Industry",
-      "title_original": "Robotics Strategy Forum 2026 - therecursive.com",
-      "summary_original": "Robotics Strategy Forum 2026 therecursive.com",
-      "published_display": "2026-08-20",
-      "id": "3397df05217f"
+      "keywords": "Robotik Mühendislerini İşe Alan 11 Şirket - Yerleşik Yerleşik Robotik Mühendislerini İşe Alan 11 Şirket 11 Companies Hiring Robotics Engineers - Built In 11 Companies Hiring Robotics Engineers Built In Robotics Automation Industry",
+      "title_original": "11 Companies Hiring Robotics Engineers - Built In",
+      "summary_original": "11 Companies Hiring Robotics Engineers Built In",
+      "published_display": "2026-08-18",
+      "id": "344091fb4352"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1VYazhkSm1adjVTa0xvSGYxM1UwaEdSYkVtSlpKNmFOcUlvNEhLeWctN2NtNmJpcDh1bUVJc1FlZUFkMm9GeWtrZ1daOXRJRlgzQW1WQ0xsTEN2Zm45NnFKaHhzT1hqLTJmS0JEU2ZQUGhOd2UxTHVqMEhNYm4zTThyaG1MZTFOMGZySzVDVVMtZFB6aGo5LTdIbkN6NGEzTW9NVkg4ZUJKajNwZHBVbUZzRmEtd05ZTUl0czBsVQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-12T14:33:49Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-08-12",
+      "id": "a9ba5027ef3d"
     },
     {
       "category": "web",
@@ -614,6 +614,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
+      "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
+      "published_display": "2026-08-21",
+      "id": "260fa5b969f0"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com",
       "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
@@ -674,8 +694,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Paylaşım ve Trendler, 2034 - marketdataforecast.com",
-      "summary": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Paylaşım ve Trendler, 2034 marketdataforecast.com",
+      "title": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Payı ve Trendler, 2034 - Pazar Verileri Tahmini",
+      "summary": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Paylaşım ve Trendler, 2034 Pazar Verileri Tahmini",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRW9GRER5SHl6cXFoR3A3WlhqY3dWak9VUHFmQy1IdG1YNjNoMHZkcDU5YUtzaWotbFVjMUhUYUxETG90UEt1Um1SalA3YkdERlhrclREZVdJb09tcTVQM2FtZWpoYmxMTGhLOFRRcHJZejdTUkVxUDVxaXhRbzMteVJ4UktzZw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -685,11 +705,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Paylaşım ve Trendler, 2034 - marketdataforecast.com Asya Pasifik IP Kamera Pazar Büyüklüğü, Paylaşım ve Trendler, 2034 marketdataforecast.com Asia Pacific IP Camera Market Size, Share & Trends, 2034 - marketdataforecast.com Asia Pacific IP Camera Market Size, Share & Trends, 2034 marketdataforecast.com IP Camera Video Surveillance",
-      "title_original": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 - marketdataforecast.com",
-      "summary_original": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 marketdataforecast.com",
+      "keywords": "Asya Pasifik IP Kamera Pazar Büyüklüğü, Payı ve Trendler, 2034 - Pazar Verileri Tahmini Asya Pasifik IP Kamera Pazar Büyüklüğü, Paylaşım ve Trendler, 2034 Pazar Verileri Tahmini Asia Pacific IP Camera Market Size, Share & Trends, 2034 - Market Data Forecast Asia Pacific IP Camera Market Size, Share & Trends, 2034 Market Data Forecast IP Camera Video Surveillance",
+      "title_original": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 - Market Data Forecast",
+      "summary_original": "Asia Pacific IP Camera Market Size, Share & Trends, 2034 Market Data Forecast",
       "published_display": "2026-07-23",
-      "id": "3e30678f7fc8"
+      "id": "fbbd84042eef"
     },
     {
       "category": "kamera",
@@ -710,26 +730,6 @@
       "summary_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews",
       "published_display": "2026-07-22",
       "id": "23b142dc3456"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - Hacker News",
-      "summary": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjlxSHAtNnkzZ3BESHJKb0xDVXlocTN3VEJmV2lmcUw3YVFWN3kxTFhpZlJpOWcySG1sSUZhOFkwY3FRLU1pTU8xbDV1TlpQWFJwVkZMd3JUTjBUU3c5dlBZdHg0VDAyVVQ1aU9ENGtWRVVJbUY0Mk5jM1JkVWtab19B?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-07-20T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - Hacker News Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News IP Camera Video Surveillance",
-      "title_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News",
-      "summary_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News",
-      "published_display": "2026-07-20",
-      "id": "fa827cf1e911"
     }
   ]
 }
