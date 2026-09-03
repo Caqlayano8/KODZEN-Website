@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T21:00:00Z",
-  "total_posts": 24,
+  "updated_at": "2026-09-03T16:00:03Z",
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 0,
+    "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 0
+    "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birden fazla aracıyı çalıştırın",
+      "summary": "GitHub Copilot uygulamasında paralel aracıları nasıl çalıştıracağınızı öğrenin ve korkutucu hissetmeyi bırakıp güçlü hissetmeye başladığınız anı deneyimleyin. Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birkaç aracıyı çalıştırın yazısı ilk olarak GitHub'da göründü...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-03T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birden fazla aracıyı çalıştırın GitHub Copilot uygulamasında paralel aracıları nasıl çalıştıracağınızı öğrenin ve korkutucu hissetmeyi bırakıp güçlü hissetmeye başladığınız anı deneyimleyin. Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birkaç aracıyı çalıştırın yazısı ilk olarak GitHub'da göründü... GitHub Copilot app for Beginners: Run several agents at once Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub... GitHub Dev Platform",
+      "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
+      "summary_original": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub...",
+      "published_display": "2026-09-03",
+      "id": "ed87ba46b63b"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,24 @@
       "id": "4f80088bbd9d"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Buradan başlayın: Azure SQL Temelleri serisi",
-      "summary": "Konuştuğum geliştiricilerin çoğu, Azure SQL Veritabanının bir sonraki uygulamalarını işleyip işleyemeyeceğini sormuyor. Veritabanında modernizasyon, geçiş ve yapay zeka söz konusu olduğunda nereden başlayacaklarını soruyorlar. Eğer bunu okuyorsanız muhtemelen bir durumdasınız...",
-      "url": "https://devblogs.microsoft.com/blog/start-here-azure-sql-foundations-series/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-08-25T16:00:18Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Konnektör biliminde bir dönüm noktası: Erkek meyve sineği beyninin tamamının haritalandırılması",
+      "summary": "Genel Bilim",
+      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Male-Fruit-Fly-Brain-Map-hero.jpg",
+      "source": "Google Research Blog",
+      "published_at": "2026-09-03T16:00:03Z",
       "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
+        "AI",
+        "Research",
+        "Google"
       ],
-      "keywords": "Buradan başlayın: Azure SQL Temelleri serisi Konuştuğum geliştiricilerin çoğu, Azure SQL Veritabanının bir sonraki uygulamalarını işleyip işleyemeyeceğini sormuyor. Veritabanında modernizasyon, geçiş ve yapay zeka söz konusu olduğunda nereden başlayacaklarını soruyorlar. Eğer bunu okuyorsanız muhtemelen bir durumdasınız... Start here: Azure SQL Foundations series Most developers I talk to aren’t asking whether Azure SQL Database can handle their next app. They’re asking where to start when it comes to modernization, migration, and AI in the database. If you’re reading this, you’re probably in a s... Microsoft Dev Cloud",
-      "title_original": "Start here: Azure SQL Foundations series",
-      "summary_original": "Most developers I talk to aren’t asking whether Azure SQL Database can handle their next app. They’re asking where to start when it comes to modernization, migration, and AI in the database. If you’re reading this, you’re probably in a s...",
-      "published_display": "2026-08-25",
-      "id": "e2d02d767a86"
+      "keywords": "Konnektör biliminde bir dönüm noktası: Erkek meyve sineği beyninin tamamının haritalandırılması Genel Bilim A connectomics milestone: Mapping the complete male fruit fly brain General Science AI Research Google",
+      "title_original": "A connectomics milestone: Mapping the complete male fruit fly brain",
+      "summary_original": "General Science",
+      "published_display": "2026-09-03",
+      "id": "f0241724edd9"
     },
     {
       "category": "ai",
@@ -232,24 +252,124 @@
       "id": "f9a5ead08129"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Google Pics'i deneyin: Google Workspace'te kolay resim oluşturma ve düzenleme",
-      "summary": "En son Nano Banana modelimizi temel alan Google Pics (resim oluşturma ve düzenleme aracımız) artık kullanıma sunuldu.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-01T16:00:00Z",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Yahoo Finance Singapur",
+      "summary": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor Yahoo Finance Singapur",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTdGa2V3bmdrSzUxeEFzcFA2U0tPTGY4eFlWXzhwdW4zUkRWdWxUWVpZZU9ocVRySkJGcTZrdmNNRnlaMFNTMDdsSlloZl9tVlgwS0tyZzZneDRMRzJhM3pzMGZSRlZtNGN3QktIRHlORVJwc20zSXNEQ0dnVUZaclVXMEJscHZTaElybmhubGhlN0U?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-03T15:19:00Z",
       "tags": [
-        "AI",
-        "Product",
-        "Google"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Google Pics'i deneyin: Google Workspace'te kolay resim oluşturma ve düzenleme En son Nano Banana modelimizi temel alan Google Pics (resim oluşturma ve düzenleme aracımız) artık kullanıma sunuldu. Try Google Pics: Easy image creation and editing in Google Workspace Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available. AI Product Google",
-      "title_original": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "summary_original": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "keywords": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Yahoo Finance Singapur FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor Yahoo Finance Singapur FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Yahoo Finance Singapore FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Yahoo Finance Singapore Robotics Automation Industry",
+      "title_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Yahoo Finance Singapore",
+      "summary_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Yahoo Finance Singapore",
+      "published_display": "2026-09-03",
+      "id": "5336f9a474c8"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Çevik Robotlar, Endüstriyel Otomasyondan Robot Eğitim Verilerine kadar Fiziksel Yapay Zekayı Gerçek Dünyaya Getiriyor - bastillepost.com",
+      "summary": "Çevik Robotlar, Endüstriyel Otomasyondan Robot Eğitim Verilerine kadar Fiziksel Yapay Zekayı Gerçek Dünyaya Getiriyor bastillepost.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV0xTQjFtQTNYYzJrMHpDaC1lR2pSSmdQMEx6bjZ6dWJzQVBHT3VVZHp6NVNJZU5WMDl0MVNCd1VKZHM0dnVZRkdxYkV2SHlQTjBXaUJEcjNsUVdaTVlNTm80bE9HOFhKZXpsVnNxcXZtOFluZVVZS0FhV2pBQVpLd3hxVXNEREFYM2w4dHE1QUp3dXV5cEZsaEZ1WUFUQ1pvazJSY0U3VVVYcGlwWlQ5bG1WQTRHUnFNX1ZLejZfbUc2ZGlQbnBqbldCZ2h4cVhpd05wNTVxaW50TDJtdngya0dSd1VrTzRS?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-02T05:40:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Çevik Robotlar, Endüstriyel Otomasyondan Robot Eğitim Verilerine kadar Fiziksel Yapay Zekayı Gerçek Dünyaya Getiriyor - bastillepost.com Çevik Robotlar, Endüstriyel Otomasyondan Robot Eğitim Verilerine kadar Fiziksel Yapay Zekayı Gerçek Dünyaya Getiriyor bastillepost.com Agile Robots Brings Physical AI into the Real World - From Industrial Automation to Robot Training Data - bastillepost.com Agile Robots Brings Physical AI into the Real World - From Industrial Automation to Robot Training Data bastillepost.com Robotics Automation Industry",
+      "title_original": "Agile Robots Brings Physical AI into the Real World - From Industrial Automation to Robot Training Data - bastillepost.com",
+      "summary_original": "Agile Robots Brings Physical AI into the Real World - From Industrial Automation to Robot Training Data bastillepost.com",
+      "published_display": "2026-09-02",
+      "id": "18b1e5a40a73"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotik Stokları: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli - Analytics Insight",
+      "summary": "Robotik Stoklar: Otomasyon Sektöründe Şirketler Nasıl Değerlendirilmeli? Analitik İçgörü",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0dTaDBrMFMxamhzNzVpSWlkMVdMLS1CWWJzdjFBeVJtVnFwdTl0bklraHRPSTZuYlNxaDBxNDJFQmV0V0syNkU3dUVNTThIcWRFR0RVQnBvNjllV3ByWFBvNUVMdlA3VHpqUTlpbmk3SG51LUVkdkN0V3ZySmZMWGlxZG0tOUk0Y0hIdlhiZXhHTTBMNzh6aEQ3Y25SazBGVld6WXQ1dmZZdmJl0gG6AUFVX3lxTE9WSkYwakRpRlEtZEhsNlQycEdxUTNBcDhwZmdOR0VJQkJjMUF5Q09vMnlaQlB6cDE3TWxmeUJ5UWFfNHQ3eF8zWjlvdHFqX2pFa3J5bXdoMnljSnVOMk5oN1h4SE41UG4zcUxqU3FEM29qRWpTU19TNWZsTTFya01JWXhycDNVa09fa2d3bVBURDJEQTM3VjMzdFc1aG5fTlo4VGoxUTlEdVJXbzlGRUx0aWxObjNQcHNaZw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-01T04:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotik Stokları: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli - Analytics Insight Robotik Stoklar: Otomasyon Sektöründe Şirketler Nasıl Değerlendirilmeli? Analitik İçgörü Robotics Stocks: How to Evaluate Companies in the Automation Industry - Analytics Insight Robotics Stocks: How to Evaluate Companies in the Automation Industry Analytics Insight Robotics Automation Industry",
+      "title_original": "Robotics Stocks: How to Evaluate Companies in the Automation Industry - Analytics Insight",
+      "summary_original": "Robotics Stocks: How to Evaluate Companies in the Automation Industry Analytics Insight",
       "published_display": "2026-09-01",
-      "id": "15783198e9e0"
+      "id": "4ad15136946d"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor - EIN News",
+      "summary": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor EIN Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUnFTcGlFTzlXczlaWHhzVVZwWWV1LXBHa2FRRHkySEJsazloZWRqQktXQW42eTJiMzBTckVWUlRuT2l6QWFKd3hkdmNtWlJmYVBOYlNlUHNfbFRUUHRFWkVzTGFBSFh5UE1TZEEtWmxxSFBEZk1kU0JTN3BPVWVQQ2NGYkhaUEZ3TGZoN3c0U0R5ZjBnenFMcVliNjRGU0dhTGxaNXVGbkxWcHhfajZxczFkWlFoWm0tRnoxN2RybUFXWUVyWndXdkVmMnF0UThaVDRNYy0zSkU5UHdnbWxTalR4dzhQOENYRnAyQXln?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-31T14:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor - EIN News Bigwave Robotics, ABD'de Endüstriyel Fiziksel Yapay Zekayı Ölçeklendirmek İçin Önde Gelen Robotik Otomasyon Tedarikçileriyle Güçlerini Birleştiriyor EIN Haberleri Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. - EIN News Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. EIN News Robotics Automation Industry",
+      "title_original": "Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. - EIN News",
+      "summary_original": "Bigwave Robotics Joins Forces with Leading Robotics Automation Suppliers to Scale Industrial Physical AI in the U.S. EIN News",
+      "published_display": "2026-08-31",
+      "id": "77a55ad4c2c6"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Endüstriyel Otomasyon Hizmetleri Pazar Büyüklüğü, Payı [2026-2034] - Fortune Business Insights",
+      "summary": "Endüstriyel Otomasyon Hizmetleri Pazar Büyüklüğü, Payı [2026-2034] Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2tWM1dkT2ZXVnF0enpoVGZkWmdTY3gxQVk1SDB4dmYtUjBZamNKQXhVa0R1Zk5sSGZ1TTdwaXlaLVlkNXMtcTlQNHlNeXBjSlNqem9mS2Z6cmMxWXVSeTZQYlRJTTNXZks2VFllYlFBX1U0N0JDbmNMR1NmSmNCM0tfTVRBRV9XT1p0cA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-17T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Endüstriyel Otomasyon Hizmetleri Pazar Büyüklüğü, Payı [2026-2034] - Fortune Business Insights Endüstriyel Otomasyon Hizmetleri Pazar Büyüklüğü, Payı [2026-2034] Fortune Business Insights Industrial Automation Services Market Size, Share [2026-2034] - Fortune Business Insights Industrial Automation Services Market Size, Share [2026-2034] Fortune Business Insights Robotics Automation Industry",
+      "title_original": "Industrial Automation Services Market Size, Share [2026-2034] - Fortune Business Insights",
+      "summary_original": "Industrial Automation Services Market Size, Share [2026-2034] Fortune Business Insights",
+      "published_display": "2026-08-17",
+      "id": "81eb56929e67"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotlar 2035 yılına kadar ABD'deki 35 milyon evin tükettiği kadar elektrik tüketebilir - Robotik ve Otomasyon Haberleri",
+      "summary": "Robotlar, 2035 yılına kadar ABD'deki 35 milyon evin tükettiği kadar elektrik tüketebilir Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX09OcnFBV1lQVjhpUWxfNmhRMEotZnoxU21wWG43RS1nTTZWLUprcnlwVTdIMjZsZHNBNi12WnJzVXBjOTdJQlJvVEdtTDBtYUVZX2Zzb18wNnc5NjdTcF94N050MWUwTFY4ak4tdWNXM2NfNHRoNTFjbXRhcFdSTGVSbXU5SWZ1dTFmdXRORU9nMWktMUEtcjBEeXVnX3dLQXNId2owNFo4YVVzcVN5TTZpTzFMNE9GTDg4N0M4THRRa21rZVJr?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-08-12T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotlar 2035 yılına kadar ABD'deki 35 milyon evin tükettiği kadar elektrik tüketebilir - Robotik ve Otomasyon Haberleri Robotlar, 2035 yılına kadar ABD'deki 35 milyon evin tükettiği kadar elektrik tüketebilir Robotik ve Otomasyon Haberleri Robots could consume as much electricity as 35 million US homes by 2035 - Robotics & Automation News Robots could consume as much electricity as 35 million US homes by 2035 Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Robots could consume as much electricity as 35 million US homes by 2035 - Robotics & Automation News",
+      "summary_original": "Robots could consume as much electricity as 35 million US homes by 2035 Robotics & Automation News",
+      "published_display": "2026-08-12",
+      "id": "17f284b4aad2"
     },
     {
       "category": "web",
@@ -314,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -325,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -490,6 +610,46 @@
       "summary_original": "In our post about Project Glasswing, we made the argument that the architecture around a vulnerability matters more than the speed of the patch. Here we walk through what that architecture looks like, the threats it defends against, and...",
       "published_display": "2026-06-09",
       "id": "55bfd5ae49b2"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Ev Güvenlik Kamerası Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR - Pazar Araştırmasının Geleceği",
+      "summary": "Ev Güvenlik Kamerası Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR Pazar Araştırmasının Geleceği",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1V3UDJBMVMzOWRtaHRJemRScUIwZ2tiaGVxbW16SDU1MXdrc3ZQVGlJdEFybjl6SDZscE5qNnYtM1hQVEJkWk95amdfN0xWdkJCaVp2eGxsaTNhTTQ2Y1pFa0xvX2Z4dmp5TERTN0JJOVByazI1SmM5amw5YU5VYjZpTQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-24T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Ev Güvenlik Kamerası Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR - Pazar Araştırmasının Geleceği Ev Güvenlik Kamerası Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR Pazar Araştırmasının Geleceği Home Security Camera Market Size, Share & Growth Report | MRFR - Market Research Future Home Security Camera Market Size, Share & Growth Report | MRFR Market Research Future IP Camera Video Surveillance",
+      "title_original": "Home Security Camera Market Size, Share & Growth Report | MRFR - Market Research Future",
+      "summary_original": "Home Security Camera Market Size, Share & Growth Report | MRFR Market Research Future",
+      "published_display": "2026-08-24",
+      "id": "809ad4bcd3e7"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetim Hizmeti Sunmak İçin Ortak Oluyor - IT Voice Media Pvt. Ltd.",
+      "summary": "Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetimi Sağlayacak IT Voice Media Pvt. Ltd.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1NfMTRvTmJ4SHBlQlZXdG5vVm1mLTUyYno4c3pDdFE1LTVReFNQQnljSFROakVjRDBKeS0xTWc0dFpNN0FOOTFUblhacHcxT3BQYmdMMENNV0N4YlpVeG81Szkyd3hZTG93RDhPUnhsV0VTdEhWSXlST1ZGcFB2X0k2bjFDNGlDMUlNZ0lwb2VBOXBiWVQySWpZcHExNnBkZXYxLXVwU3FOSTF1bkhELVotZU1tNWNq?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-28T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetim Hizmeti Sunmak İçin Ortak Oluyor - IT Voice Media Pvt. Ltd. Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetimi Sağlayacak IT Voice Media Pvt. Ltd. Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises - IT Voice Media Pvt. Ltd. Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises IT Voice Media Pvt. Ltd. IP Camera Video Surveillance",
+      "title_original": "Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises - IT Voice Media Pvt. Ltd.",
+      "summary_original": "Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises IT Voice Media Pvt. Ltd.",
+      "published_display": "2026-07-28",
+      "id": "b79039c2041a"
     }
   ]
 }
