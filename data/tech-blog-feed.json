@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-04T11:49:00Z",
-  "total_posts": 35,
+  "updated_at": "2026-09-04T16:04:14Z",
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 5
+    "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite",
+      "summary": "Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-04T16:04:14Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası... Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project... GitHub Dev Platform",
+      "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary_original": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project...",
+      "published_display": "2026-09-04",
+      "id": "31111add5af4"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B...",
       "published_display": "2026-08-26",
       "id": "1fa6e75d2933"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yüksek Lisans'lar üretimden önce nasıl değerlendirilmelidir?",
-      "summary": "Bunlar, gerçek dünyadaki gizli tarama için Yüksek Lisans'ları değerlendirirken öğrendiğimiz derslerdir. Üretimden önce Yüksek Lisanslar Nasıl Değerlendirilir yazısı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-08-25T21:35:11Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Yüksek Lisans'lar üretimden önce nasıl değerlendirilmelidir? Bunlar, gerçek dünyadaki gizli tarama için Yüksek Lisans'ları değerlendirirken öğrendiğimiz derslerdir. Üretimden önce Yüksek Lisanslar Nasıl Değerlendirilir yazısı ilk olarak GitHub Blogunda yayınlandı. How to evaluate LLMs before production These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "How to evaluate LLMs before production",
-      "summary_original": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
-      "published_display": "2026-08-25",
-      "id": "4f80088bbd9d"
     },
     {
       "category": "ai",
@@ -614,26 +614,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Ev Güvenlik Kamerası Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR - marketresearchfuture.com",
-      "summary": "Ev Güvenlik Kamerası Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR marketresearchfuture.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1V3UDJBMVMzOWRtaHRJemRScUIwZ2tiaGVxbW16SDU1MXdrc3ZQVGlJdEFybjl6SDZscE5qNnYtM1hQVEJkWk95amdfN0xWdkJCaVp2eGxsaTNhTTQ2Y1pFa0xvX2Z4dmp5TERTN0JJOVByazI1SmM5amw5YU5VYjZpTQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-08-24T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Ev Güvenlik Kamerası Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR - marketresearchfuture.com Ev Güvenlik Kamerası Pazar Büyüklüğü, Payı ve Büyüme Raporu | MRFR marketresearchfuture.com Home Security Camera Market Size, Share & Growth Report | MRFR - marketresearchfuture.com Home Security Camera Market Size, Share & Growth Report | MRFR marketresearchfuture.com IP Camera Video Surveillance",
-      "title_original": "Home Security Camera Market Size, Share & Growth Report | MRFR - marketresearchfuture.com",
-      "summary_original": "Home Security Camera Market Size, Share & Growth Report | MRFR marketresearchfuture.com",
-      "published_display": "2026-08-24",
-      "id": "ff65599206ad"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
       "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
@@ -654,8 +634,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com",
-      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - mynorthwest.com",
+      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' mynorthwest.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -665,11 +645,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
-      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
-      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - mynorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com",
       "published_display": "2026-08-21",
-      "id": "8fc2aac65cb9"
+      "id": "542750a3049e"
     },
     {
       "category": "kamera",
@@ -694,7 +674,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetim Hizmeti Sağlayacak - IT Voice Media Pvt. Ltd.",
+      "title": "Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetim Hizmeti Sunmak İçin Ortak Oluyor - IT Voice Media Pvt. Ltd.",
       "summary": "Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetimi Sağlayacak IT Voice Media Pvt. Ltd.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1NfMTRvTmJ4SHBlQlZXdG5vVm1mLTUyYno4c3pDdFE1LTVReFNQQnljSFROakVjRDBKeS0xTWc0dFpNN0FOOTFUblhacHcxT3BQYmdMMENNV0N4YlpVeG81Szkyd3hZTG93RDhPUnhsV0VTdEhWSXlST1ZGcFB2X0k2bjFDNGlDMUlNZ0lwb2VBOXBiWVQySWpZcHExNnBkZXYxLXVwU3FOSTF1bkhELVotZU1tNWNq?oc=5",
       "image_url": null,
@@ -705,11 +685,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetim Hizmeti Sağlayacak - IT Voice Media Pvt. Ltd. Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetimi Sağlayacak IT Voice Media Pvt. Ltd. Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises - IT Voice Media Pvt. Ltd. Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises IT Voice Media Pvt. Ltd. IP Camera Video Surveillance",
+      "keywords": "Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetim Hizmeti Sunmak İçin Ortak Oluyor - IT Voice Media Pvt. Ltd. Matrix ve Yotta, Modern İşletmeler için Yapay Zeka Destekli Bulut Video Gözetimi Sağlayacak IT Voice Media Pvt. Ltd. Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises - IT Voice Media Pvt. Ltd. Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises IT Voice Media Pvt. Ltd. IP Camera Video Surveillance",
       "title_original": "Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises - IT Voice Media Pvt. Ltd.",
       "summary_original": "Matrix and Yotta Partner to Deliver AI-Powered Cloud Video Surveillance for Modern Enterprises IT Voice Media Pvt. Ltd.",
       "published_display": "2026-07-28",
-      "id": "ef2acb8fffed"
+      "id": "b79039c2041a"
     }
   ]
 }
