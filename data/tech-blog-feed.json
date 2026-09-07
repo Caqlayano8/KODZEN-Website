@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-06T09:00:00Z",
+  "updated_at": "2026-09-07T00:00:00Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım!",
-      "summary": "Döngü mühendisliğinden koşum takımlarına, takımlara ve açık ağırlıklara kadar GitHub Podcast, geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilini çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü...",
+      "summary": "GitHub Podcast'i, döngü mühendisliğinden koşum takımlarına, ekiplere ve açık ağırlıklara kadar geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilinin kodunu çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü...",
       "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! Döngü mühendisliğinden koşum takımlarına, takımlara ve açık ağırlıklara kadar GitHub Podcast, geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilini çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
+      "keywords": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! GitHub Podcast'i, döngü mühendisliğinden koşum takımlarına, ekiplere ve açık ağırlıklara kadar geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilinin kodunu çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
       "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
       "summary_original": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared...",
       "published_display": "2026-09-02",
@@ -130,6 +130,26 @@
       "summary_original": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B...",
       "published_display": "2026-08-26",
       "id": "1fa6e75d2933"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Ukrayna'da bağımsız gazeteciliği desteklemek",
+      "summary": "OpenAI, AIRPPU ve WAN-IFRA, Ukraynalı haber kuruluşlarının yenilikçiliği, dayanıklılığı ve bağımsız gazeteciliği güçlendirmesine yardımcı olmak için bir yapay zeka programı başlattı.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-07T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Ukrayna'da bağımsız gazeteciliği desteklemek OpenAI, AIRPPU ve WAN-IFRA, Ukraynalı haber kuruluşlarının yenilikçiliği, dayanıklılığı ve bağımsız gazeteciliği güçlendirmesine yardımcı olmak için bir yapay zeka programı başlattı. Supporting independent journalism in Ukraine OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism. AI OpenAI Model",
+      "title_original": "Supporting independent journalism in Ukraine",
+      "summary_original": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "published_display": "2026-09-07",
+      "id": "7bcaa2639e3a"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "e050e04691b2"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Playco, GPT-6 Astra ile oyun prototiplemesinde %50 manuel düzeltmeyi kesti",
-      "summary": "Playco, GPT-6 Astra'yı kullanarak tek bir gri kutu temelinden üç temalı oyun prototipi oluşturdu ve önceki modele göre %50 daha az manuel düzeltme bildirdi.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-03T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Playco, GPT-6 Astra ile oyun prototiplemesinde %50 manuel düzeltmeyi kesti Playco, GPT-6 Astra'yı kullanarak tek bir gri kutu temelinden üç temalı oyun prototipi oluşturdu ve önceki modele göre %50 daha az manuel düzeltme bildirdi. Playco cut manual fixes 50% prototyping games with GPT-6 Astra Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model. AI OpenAI Model",
-      "title_original": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary_original": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "published_display": "2026-09-03",
-      "id": "8e8e5bc9f6e0"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotlar Yeni Normal mi? Geleceğe Yatırım Yapmak için Bu ETF'lere Bahis Yapın - TradingView",
@@ -294,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "50. Yıl Sektörüne Bakış: Robotik, Otomasyon ve Yapay Zeka - Teknik Özetler",
-      "summary": "50. Yıl Sektörüne Bakış: Robotik, Otomasyon ve Yapay Zeka Teknik Özetleri",
+      "title": "50. Yıl Sektörüne Bakış: Robotik, Otomasyon ve Yapay Zeka - techbriefs.com",
+      "summary": "50. Yıl Sektörü İncelemesi: Robotik, Otomasyon ve Yapay Zeka techbriefs.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMVRxdGJpLTZsWW82R3ZONzlZVlRocXlQRzhlUC1qTlFUcUZSMk56S2M2VTM5QjdPanMtME5rUXZZd2pLNDItQUdBU3M0cW5qOXQ4Ni12cjg0REtaUGFUc2lGd2ZINktZMkQyYjRSdXd4RlAwNUsxNzF6V3lqU0lvWkpmQlZ6SFprNzdNUWF2SVhqREJsOWxyenBzRXg2cXRTWlVnbU83RDg5RVVGbzB2V25oWUhDQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "50. Yıl Sektörüne Bakış: Robotik, Otomasyon ve Yapay Zeka - Teknik Özetler 50. Yıl Sektörüne Bakış: Robotik, Otomasyon ve Yapay Zeka Teknik Özetleri 50th Anniversary Sector Spotlight: Robotics, Automation & AI - Tech Briefs 50th Anniversary Sector Spotlight: Robotics, Automation & AI Tech Briefs Robotics Automation Industry",
-      "title_original": "50th Anniversary Sector Spotlight: Robotics, Automation & AI - Tech Briefs",
-      "summary_original": "50th Anniversary Sector Spotlight: Robotics, Automation & AI Tech Briefs",
+      "keywords": "50. Yıl Sektörüne Bakış: Robotik, Otomasyon ve Yapay Zeka - techbriefs.com 50. Yıl Sektörü İncelemesi: Robotik, Otomasyon ve Yapay Zeka techbriefs.com 50th Anniversary Sector Spotlight: Robotics, Automation & AI - techbriefs.com 50th Anniversary Sector Spotlight: Robotics, Automation & AI techbriefs.com Robotics Automation Industry",
+      "title_original": "50th Anniversary Sector Spotlight: Robotics, Automation & AI - techbriefs.com",
+      "summary_original": "50th Anniversary Sector Spotlight: Robotics, Automation & AI techbriefs.com",
       "published_display": "2026-09-02",
-      "id": "5102c970fd27"
+      "id": "2570b3bfe6e6"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzQ1eDBnOV9KdGM2ZWVyXzJFYzJtOEhfSTVGZ1ctXzlBUF9yLTQwX2hXcE42YjBWY2ZYTU5DU19uenM0X2FaTTRBZEVLQ1ZJSnZCTnNOQktEYlI0a2JEOFdHLUp2bUd0SFR6bnd4azktMFZqeFQ0Y3A3TU5CMEJPZEpMUU56cHFNS0kxSk9EekhKRGdTWDZjZ0ViVUlTUmJaQzZGUHBfNU04dllvSWY1Y1kzR0FKRzlmd0FhV2p5aGUtQ00?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-02",
-      "id": "b9abdf35de97"
+      "id": "8fece8834572"
     },
     {
       "category": "robotik",
@@ -354,22 +354,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik Stokları: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli - Analytics Insight",
-      "summary": "Robotik Stoklar: Otomasyon Sektöründe Şirketler Nasıl Değerlendirilmeli? Analitik İçgörü",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0dTaDBrMFMxamhzNzVpSWlkMVdMLS1CWWJzdjFBeVJtVnFwdTl0bklraHRPSTZuYlNxaDBxNDJFQmV0V0syNkU3dUVNTThIcWRFR0RVQnBvNjllV3ByWFBvNUVMdlA3VHpqUTlpbmk3SG51LUVkdkN0V3ZySmZMWGlxZG0tOUk0Y0hIdlhiZXhHTTBMNzh6aEQ3Y25SazBGVld6WXQ1dmZZdmJl0gG6AUFVX3lxTE9WSkYwakRpRlEtZEhsNlQycEdxUTNBcDhwZmdOR0VJQkJjMUF5Q09vMnlaQlB6cDE3TWxmeUJ5UWFfNHQ3eF8zWjlvdHFqX2pFa3J5bXdoMnljSnVOMk5oN1h4SE41UG4zcUxqU3FEM29qRWpTU19TNWZsTTFya01JWXhycDNVa09fa2d3bVBURDJEQTM3VjMzdFc1aG5fTlo4VGoxUTlEdVJXbzlGRUx0aWxObjNQcHNaZw?oc=5",
+      "title": "Veri Merkezi Robotik Pazarı Şirketleri, Büyüklüğü ve Trendleri 2026-2035 - precedenceresearch.com",
+      "summary": "Veri Merkezi Robotik Pazarı Şirketleri, Büyüklüğü ve Trendleri 2026-2035 precedenceresearch.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmRGxMQlMzUTN1WUZrTy0wZmFHRnA4UTZydkxQcy1yZ3dEV3BBR2g4NWhFTXNkc3JQN2pNSzVodzM3VG9xd0hGVXRTY3ltZVVnZEk2aWdSa1ZzRzM4Vks4MmZZQmo2TmhjSUV0TEh5cw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-01T04:00:00Z",
+      "published_at": "2026-09-01T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Stokları: Otomasyon Sektöründeki Şirketler Nasıl Değerlendirilmeli - Analytics Insight Robotik Stoklar: Otomasyon Sektöründe Şirketler Nasıl Değerlendirilmeli? Analitik İçgörü Robotics Stocks: How to Evaluate Companies in the Automation Industry - Analytics Insight Robotics Stocks: How to Evaluate Companies in the Automation Industry Analytics Insight Robotics Automation Industry",
-      "title_original": "Robotics Stocks: How to Evaluate Companies in the Automation Industry - Analytics Insight",
-      "summary_original": "Robotics Stocks: How to Evaluate Companies in the Automation Industry Analytics Insight",
+      "keywords": "Veri Merkezi Robotik Pazarı Şirketleri, Büyüklüğü ve Trendleri 2026-2035 - precedenceresearch.com Veri Merkezi Robotik Pazarı Şirketleri, Büyüklüğü ve Trendleri 2026-2035 precedenceresearch.com Data Center Robotics Market Companies, Size & Trends 2026-2035 - precedenceresearch.com Data Center Robotics Market Companies, Size & Trends 2026-2035 precedenceresearch.com Robotics Automation Industry",
+      "title_original": "Data Center Robotics Market Companies, Size & Trends 2026-2035 - precedenceresearch.com",
+      "summary_original": "Data Center Robotics Market Companies, Size & Trends 2026-2035 precedenceresearch.com",
       "published_display": "2026-09-01",
-      "id": "4ad15136946d"
+      "id": "3dee5d7d0c12"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -615,7 +615,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
-      "summary": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,7 +625,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
       "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
@@ -634,8 +634,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
+      "title": "Slovakya, 279 yeni trafik kamerasında Rusya'nın arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen dağıtımda bulunan şifresiz canlı yayınlar - tomshardware.com",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen tomshardware.com'da bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,11 +645,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
-      "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rusya'nın arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen dağıtımda bulunan şifresiz canlı yayınlar - tomshardware.com Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen tomshardware.com'da bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - tomshardware.com Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout tomshardware.com IP Camera Video Surveillance",
+      "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - tomshardware.com",
+      "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout tomshardware.com",
       "published_display": "2026-08-21",
-      "id": "bf6b46c1653c"
+      "id": "51d9be0e5d6b"
     },
     {
       "category": "kamera",
