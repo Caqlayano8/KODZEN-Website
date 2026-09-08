@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T14:25:49Z",
+  "updated_at": "2026-09-08T17:00:00Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "GPT-5.6 Sol, kuantum hesaplama deneylerinin yürütülmesine nasıl yardımcı oluyor?",
+      "summary": "Bir MIT araştırmacısının kuantum hesaplama deneylerini özerk bir şekilde yürütmek, sonuçları analiz etmek ve kübitleri kalibre etmek için Codex ile GPT-5.6 Sol'u nasıl kullandığını görün.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-08T17:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GPT-5.6 Sol, kuantum hesaplama deneylerinin yürütülmesine nasıl yardımcı oluyor? Bir MIT araştırmacısının kuantum hesaplama deneylerini özerk bir şekilde yürütmek, sonuçları analiz etmek ve kübitleri kalibre etmek için Codex ile GPT-5.6 Sol'u nasıl kullandığını görün. How GPT-5.6 Sol helps run quantum computing experiments See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits. AI OpenAI Model",
+      "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary_original": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "published_display": "2026-09-08",
+      "id": "948495d8fac0"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "İş Artık Ulaşabileceğiniz Kadar Yakın",
       "summary": "Daha yetenekli ve uygun fiyatlı yapay zekanın insanların ve işletmelerin başarabileceği işleri nasıl genişletebileceğini ve büyümeyi nasıl daha ekonomik hale getirebileceğini keşfedin.",
       "url": "https://openai.com/index/the-work-now-within-reach",
@@ -150,6 +170,46 @@
       "summary_original": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "published_display": "2026-09-08",
       "id": "207b2125639b"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "ChatGPT Görüntüleri 2.5 ile Tanışın",
+      "summary": "ChatGPT Images 2.5 fikirlerinizi, eskizlerinizi ve referans fotoğraflarınızı fikirlerinizi daha iyi yansıtan daha kişiselleştirilmiş, gösterişli görüntülere dönüştürmenize yardımcı olur.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-08T11:30:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "ChatGPT Görüntüleri 2.5 ile Tanışın ChatGPT Images 2.5 fikirlerinizi, eskizlerinizi ve referans fotoğraflarınızı fikirlerinizi daha iyi yansıtan daha kişiselleştirilmiş, gösterişli görüntülere dönüştürmenize yardımcı olur. Introducing ChatGPT Images 2.5 ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas. AI OpenAI Model",
+      "title_original": "Introducing ChatGPT Images 2.5",
+      "summary_original": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "published_display": "2026-09-08",
+      "id": "d52ca8b57bda"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Navier-Stokes Milenyum Ödülü Problemi Üzerine",
+      "summary": "Navier-Stokes Milenyum Ödül Sorunu için Yapay Zeka tarafından oluşturulan bir çözümü, Lean'da bir yazı ve resmi bir kanıt da dahil olmak üzere paylaşıyoruz.",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-08T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Navier-Stokes Milenyum Ödülü Problemi Üzerine Navier-Stokes Milenyum Ödül Sorunu için Yapay Zeka tarafından oluşturulan bir çözümü, Lean'da bir yazı ve resmi bir kanıt da dahil olmak üzere paylaşıyoruz. On the Navier–Stokes Millennium Prize Problem We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. AI OpenAI Model",
+      "title_original": "On the Navier–Stokes Millennium Prize Problem",
+      "summary_original": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "published_display": "2026-09-08",
+      "id": "9afb168b1b54"
     },
     {
       "category": "ai",
@@ -192,70 +252,10 @@
       "id": "2cfc7829a801"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Ukrayna'da bağımsız gazeteciliği desteklemek",
-      "summary": "OpenAI, AIRPPU ve WAN-IFRA, Ukraynalı haber kuruluşlarının yenilikçiliği, dayanıklılığı ve bağımsız gazeteciliği güçlendirmesine yardımcı olmak için bir yapay zeka programı başlattı.",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-07T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Ukrayna'da bağımsız gazeteciliği desteklemek OpenAI, AIRPPU ve WAN-IFRA, Ukraynalı haber kuruluşlarının yenilikçiliği, dayanıklılığı ve bağımsız gazeteciliği güçlendirmesine yardımcı olmak için bir yapay zeka programı başlattı. Supporting independent journalism in Ukraine OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism. AI OpenAI Model",
-      "title_original": "Supporting independent journalism in Ukraine",
-      "summary_original": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "published_display": "2026-09-07",
-      "id": "7bcaa2639e3a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Uzaylı Zihni",
-      "summary": "Jakub Pachocki giderek daha yetenekli hale gelen yapay zekayı ve onu uyumlu tutmanın zorluklarını anlatıyor. Daha güçlü koruma önlemleri ve uluslararası koordinasyon çağrısında bulunuyor.",
-      "url": "https://openai.com/index/an-alien-mind",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-06T09:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Uzaylı Zihni Jakub Pachocki giderek daha yetenekli hale gelen yapay zekayı ve onu uyumlu tutmanın zorluklarını anlatıyor. Daha güçlü koruma önlemleri ve uluslararası koordinasyon çağrısında bulunuyor. An Alien Mind Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination. AI OpenAI Model",
-      "title_original": "An Alien Mind",
-      "summary_original": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "published_display": "2026-09-06",
-      "id": "fc49bb2be9ae"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Araştırma hızlandırma: OpenAI'nin içindeki görünüm",
-      "summary": "OpenAI'nin içinde kodlama ajanları yapay zeka araştırmalarını yeniden şekillendiriyor. Aracı kullanımı, deneme hızı, görev karmaşıklığı ve araştırma hızlandırma ile ilgili ilk verileri keşfedin.",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-06T08:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Araştırma hızlandırma: OpenAI'nin içindeki görünüm OpenAI'nin içinde kodlama ajanları yapay zeka araştırmalarını yeniden şekillendiriyor. Aracı kullanımı, deneme hızı, görev karmaşıklığı ve araştırma hızlandırma ile ilgili ilk verileri keşfedin. Research acceleration: The view inside OpenAI Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration. AI OpenAI Model",
-      "title_original": "Research acceleration: The view inside OpenAI",
-      "summary_original": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "published_display": "2026-09-06",
-      "id": "f030fc1ae213"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik 2030: Otomasyon Endüstrileri Nasıl Yeniden Tanımlayacak - TechBullion",
-      "summary": "Robotik 2030: Otomasyon Endüstrileri Nasıl Yeniden Tanımlayacak TechBullion",
+      "title": "Robotik 2030: Otomasyon Endüstrileri Nasıl Yeniden Tanımlayacak - techbullion.com",
+      "summary": "Robotik 2030: Otomasyon Endüstrileri Nasıl Yeniden Tanımlayacak techbullion.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS3dSa3BvaGdQdDNUT3BTdWE2MlFkTzdFMTlOLXNTRlE5MEZteHBRelVtQmQxcU1YdlU2blUwZkpBdk9TSFJpM2ZnMEFiQzJQNV9xN0ctSFVRSmdTX1ByTkxZNG5telNBN3hSeVhLWXZaV3E5bUx1aVp6Y3E0a3Y5T084NzU?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,11 +265,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik 2030: Otomasyon Endüstrileri Nasıl Yeniden Tanımlayacak - TechBullion Robotik 2030: Otomasyon Endüstrileri Nasıl Yeniden Tanımlayacak TechBullion Robotics 2030: How Automation Will Redefine Industries - TechBullion Robotics 2030: How Automation Will Redefine Industries TechBullion Robotics Automation Industry",
-      "title_original": "Robotics 2030: How Automation Will Redefine Industries - TechBullion",
-      "summary_original": "Robotics 2030: How Automation Will Redefine Industries TechBullion",
+      "keywords": "Robotik 2030: Otomasyon Endüstrileri Nasıl Yeniden Tanımlayacak - techbullion.com Robotik 2030: Otomasyon Endüstrileri Nasıl Yeniden Tanımlayacak techbullion.com Robotics 2030: How Automation Will Redefine Industries - techbullion.com Robotics 2030: How Automation Will Redefine Industries techbullion.com Robotics Automation Industry",
+      "title_original": "Robotics 2030: How Automation Will Redefine Industries - techbullion.com",
+      "summary_original": "Robotics 2030: How Automation Will Redefine Industries techbullion.com",
       "published_display": "2026-09-08",
-      "id": "0e5d93098571"
+      "id": "c54d3d0751ff"
     },
     {
       "category": "robotik",
@@ -615,7 +615,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
-      "summary": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,7 +625,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
       "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
