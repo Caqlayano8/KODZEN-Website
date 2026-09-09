@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T17:00:00Z",
-  "total_posts": 24,
+  "updated_at": "2026-09-09T09:14:04Z",
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 0,
+    "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 0
+    "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Your work might not need the smartest model",
+      "summary": "The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared...",
+      "url": "https://devblogs.microsoft.com/blog/your-work-might-not-need-the-smartest-model/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-09T09:14:04Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Your work might not need the smartest model The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared... Your work might not need the smartest model The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared... Microsoft Dev Cloud",
+      "title_original": "Your work might not need the smartest model",
+      "summary_original": "The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared...",
+      "published_display": "2026-09-09",
+      "id": "38c5067d84b9"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it....",
       "published_display": "2026-08-27",
       "id": "abc24339d970"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-      "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-08-26T20:12:53Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B... GitHub Copilot app for Beginners: Automate Dependabot pull request triage Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B... GitHub Dev Platform",
-      "title_original": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-      "summary_original": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B...",
-      "published_display": "2026-08-26",
-      "id": "24d52cc45e10"
     },
     {
       "category": "ai",
@@ -250,6 +250,126 @@
       "summary_original": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "published_display": "2026-09-08",
       "id": "61df0c22a1a2"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground - Gasgoo",
+      "summary": "Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFlfN0UtZ19EMEp4dVozLUhHVG5WT01kSGoyMWRlU01HWnBoQnRmenlhQ0VOeU11dnVYdDd0aDhJMzY5TjRlMUJPSEhtWnU4ZVU5QUM4S0FpLUdsMkN0V1JfMExRQkZXanNNaTZiSVhRZE9fV09iQ0h3dVF6eWNUT09ZLXpHWV9HMEJiOWcwY3VlV1pHTWpxR1pCSHhyUTBlN2hHeW5sT2poQnAwbXl0NVkwSEdnNXBQcmZLdXh1Q2Mtd29EY0h0QTZqaG9jUQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-09T06:56:06Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground - Gasgoo Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground Gasgoo Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground - Gasgoo Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground Gasgoo Robotics Automation Industry",
+      "title_original": "Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground - Gasgoo",
+      "summary_original": "Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground Gasgoo",
+      "published_display": "2026-09-09",
+      "id": "36f35f8c8a74"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotics 2030: How Automation Will Redefine Industries - TechBullion",
+      "summary": "Robotics 2030: How Automation Will Redefine Industries TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS3dSa3BvaGdQdDNUT3BTdWE2MlFkTzdFMTlOLXNTRlE5MEZteHBRelVtQmQxcU1YdlU2blUwZkpBdk9TSFJpM2ZnMEFiQzJQNV9xN0ctSFVRSmdTX1ByTkxZNG5telNBN3hSeVhLWXZaV3E5bUx1aVp6Y3E0a3Y5T084NzU?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-08T14:25:49Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotics 2030: How Automation Will Redefine Industries - TechBullion Robotics 2030: How Automation Will Redefine Industries TechBullion Robotics 2030: How Automation Will Redefine Industries - TechBullion Robotics 2030: How Automation Will Redefine Industries TechBullion Robotics Automation Industry",
+      "title_original": "Robotics 2030: How Automation Will Redefine Industries - TechBullion",
+      "summary_original": "Robotics 2030: How Automation Will Redefine Industries TechBullion",
+      "published_display": "2026-09-08",
+      "id": "b7231a98f04c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire",
+      "summary": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcFkyaFhpX0ZmalB3Q01PemhMUklwelpKQ1plWkZ0OHJuREhxSDh2ZkFkb1dVSVhpM1VJR3dfOEpSNnhBUVVmRWFZYWFGZktzcUxSOXhfdDU5anJpZ1VJekI4WEY4OVZrN3dSVzZXZk4zNzN6U2hsNmtjTEZYQVFKWUZVQllwTnpabkQ2TlN2dzN2MUZkeUpNRmhwdU92MmhJUFFXRURxazd6dEdrQlBlaUswMm10VmI2NHV5eC1UTXFiMmMwSWMxY0dKYXRGb1FiWmdRWEZIS1pGU0t2bGh4Sm4yYlhROW5sN1lvSXB0em1FMTlq?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-08T11:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire Robotics Automation Industry",
+      "title_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire",
+      "summary_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire",
+      "published_display": "2026-09-08",
+      "id": "58b38efc019f"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation - Bisinfotech",
+      "summary": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation Bisinfotech",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalJmTUJHZXlpWWg2Y1RQVzBlTnlremRoWGxlYkJRYklfM1dCZzQzRHk3Y3pScGFRMWRmc1VYNDJBdW1tYms1Z1RIQ2R5cklGX0tTOGNReVMxVnpfUEFtRmFHdmkwR3pDNEcycU9ZSGVyR1VLcF9wdFFKVjVtenFoVUY1ZkppSFFkQVNJdGtwYm9LRHRrclpDaWYtOA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-07T10:45:50Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation - Bisinfotech Neura Robotics and Seco Partner on AI-Driven Industrial Automation Bisinfotech Neura Robotics and Seco Partner on AI-Driven Industrial Automation - Bisinfotech Neura Robotics and Seco Partner on AI-Driven Industrial Automation Bisinfotech Robotics Automation Industry",
+      "title_original": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation - Bisinfotech",
+      "summary_original": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation Bisinfotech",
+      "published_display": "2026-09-07",
+      "id": "81245533128f"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider",
+      "summary": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW5EaXc3M19mUjE4VVF0UU95WUJUeGpibi1LSXpYRUVrU2pKQkxxaDNFQVNab0FHRFNvcTUzdXhPOExTbTA1WXM0SWRYRXAyTmRMMGJZczYySk5JYWp1OHV2WkQ0dzBwMXBVTFZvSXVwRFp1d29laHcyNVpWOEFZVnpoaFc3a0tBZXVuaXVMQVN1N296TDQ4WU52ZUNORzdLajYwWVJDazBwbzVkUkN3emY1b2c2Umpsa3ZoSw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-07T09:43:26Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider Robotics Automation Industry",
+      "title_original": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider",
+      "summary_original": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider",
+      "published_display": "2026-09-07",
+      "id": "49e796ed4cee"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire",
+      "summary": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSk5VY3hLdEN4VVlnNGE5Ulh0cVFRY0lsZC0zeXZMSHlWbTdrdk04Nll1X2x0dXIxcnNPejg4bTlQY2hqTnJacmtTVTJTZEI2aFpTY29sbm0wYms1QWh0RUg0bnF5M2hsMWRwZk80clN1aTQwT3FaWHAtYlkxZi1RM0xhMFk0b25KTDBwN2JCVWJpSzMwdVhDSlNNekxmQWlMbWpVQk92YmVubFV0cUVKVXl3U1ZmQWJkbUhCVlJTbzJFVXBOVzBfclVKRnJudUVENFVkcUZmQQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-03T15:19:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire Robotics Automation Industry",
+      "title_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire",
+      "summary_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire",
+      "published_display": "2026-09-03",
+      "id": "a490117e2b5c"
     },
     {
       "category": "web",
@@ -490,6 +610,86 @@
       "summary_original": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex...",
       "published_display": "2026-06-18",
       "id": "ddf19bf6fac1"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
+      "summary": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-04T07:23:53Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
+      "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
+      "published_display": "2026-09-04",
+      "id": "d54a3d41267b"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
+      "summary": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
+      "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
+      "published_display": "2026-08-21",
+      "id": "2c941312bb65"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com",
+      "summary": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com",
+      "published_display": "2026-08-21",
+      "id": "2da111a7f6d0"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
+      "summary": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-17T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
+      "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
+      "published_display": "2026-08-17",
+      "id": "1353b8bf37a5"
     }
   ]
 }
