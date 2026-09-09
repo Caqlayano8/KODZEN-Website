@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-08T17:00:00Z",
-  "total_posts": 24,
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 0,
+    "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 0
+    "kamera": 4
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite",
-      "summary": "Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası...",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project...",
       "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,17 +25,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası... Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project... GitHub Dev Platform",
+      "keywords": "Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project... Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project... GitHub Dev Platform",
       "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "summary_original": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project...",
       "published_display": "2026-09-04",
-      "id": "31111add5af4"
+      "id": "71123a416cfe"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birden fazla aracıyı çalıştırın",
-      "summary": "GitHub Copilot uygulamasında paralel aracıları nasıl çalıştıracağınızı öğrenin ve korkutucu hissetmeyi bırakıp güçlü hissetmeye başladığınız anı deneyimleyin. Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birkaç aracıyı çalıştırın yazısı ilk olarak GitHub'da göründü...",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub...",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,17 +45,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birden fazla aracıyı çalıştırın GitHub Copilot uygulamasında paralel aracıları nasıl çalıştıracağınızı öğrenin ve korkutucu hissetmeyi bırakıp güçlü hissetmeye başladığınız anı deneyimleyin. Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birkaç aracıyı çalıştırın yazısı ilk olarak GitHub'da göründü... GitHub Copilot app for Beginners: Run several agents at once Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "GitHub Copilot app for Beginners: Run several agents at once Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub... GitHub Copilot app for Beginners: Run several agents at once Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
       "summary_original": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub...",
       "published_display": "2026-09-03",
-      "id": "ed87ba46b63b"
+      "id": "b746d98ae6e4"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım!",
-      "summary": "GitHub Podcast'i, döngü mühendisliğinden koşum takımlarına, ekiplere ve açık ağırlıklara kadar geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilinin kodunu çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü...",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared...",
       "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,17 +65,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! GitHub Podcast'i, döngü mühendisliğinden koşum takımlarına, ekiplere ve açık ağırlıklara kadar geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilinin kodunu çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
+      "keywords": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
       "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
       "summary_original": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared...",
       "published_display": "2026-09-02",
-      "id": "1c647c9c8cfc"
+      "id": "ea0219ab5240"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiriyoruz?",
-      "summary": "Daha kısa çıktıların neden daha pahalıya mal olabileceği ve GitHub Copilot'un kodlama görevinin tamamında boşa giden işleri nasıl azalttığı. Görev kalitesinden ödün vermeden AI kodlamasını nasıl daha uygun maliyetli hale getiririz yazısı ilk olarak GitHub Blogunda göründü.",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,17 +85,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiriyoruz? Daha kısa çıktıların neden daha pahalıya mal olabileceği ve GitHub Copilot'un kodlama görevinin tamamında boşa giden işleri nasıl azalttığı. Görev kalitesinden ödün vermeden AI kodlamasını nasıl daha uygun maliyetli hale getiririz yazısı ilk olarak GitHub Blogunda göründü. How we make AI coding more cost efficient without sacrificing task quality Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "How we make AI coding more cost efficient without sacrificing task quality Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog . How we make AI coding more cost efficient without sacrificing task quality Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
       "summary_original": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
       "published_display": "2026-09-02",
-      "id": "6921a3839b6a"
+      "id": "825110a9ebb9"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "OpenClaw viral hale geldi. Binayı inşa eden ve güvenliğini sağlayan bakımcılarla tanışın.",
-      "summary": "OpenClaw, GitHub tarihindeki en hızlı büyüyen projedir. Peter Steinberger ve birkaç bakımcı projenin ilk altı ayında öğrendiklerini paylaşıyor. OpenClaw yazısı viral oldu. Binayı inşa eden ve güvenliğini sağlayan bakımcılarla tanışın....",
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it....",
       "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,17 +105,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "OpenClaw viral hale geldi. Binayı inşa eden ve güvenliğini sağlayan bakımcılarla tanışın. OpenClaw, GitHub tarihindeki en hızlı büyüyen projedir. Peter Steinberger ve birkaç bakımcı projenin ilk altı ayında öğrendiklerini paylaşıyor. OpenClaw yazısı viral oldu. Binayı inşa eden ve güvenliğini sağlayan bakımcılarla tanışın.... OpenClaw went viral. Meet the maintainers building and securing it. OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it.... GitHub Dev Platform",
+      "keywords": "OpenClaw went viral. Meet the maintainers building and securing it. OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it.... OpenClaw went viral. Meet the maintainers building and securing it. OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it.... GitHub Dev Platform",
       "title_original": "OpenClaw went viral. Meet the maintainers building and securing it.",
       "summary_original": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it....",
       "published_display": "2026-08-27",
-      "id": "f2855e4f2fab"
+      "id": "abc24339d970"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Dependabot çekme isteği önceliklendirmesini otomatikleştirin",
-      "summary": "Kütüphane güncellemelerini yönetmek bazen sıkıcı olabilir. GitHub Copilot uygulamasının bu tür tekrarlanan görevleri nasıl gerçekleştirebileceğini öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Dependabot çekme isteği önceliklendirmesini otomatikleştirin yazısı ilk olarak GitHub B'de göründü...",
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B...",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,17 +125,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Dependabot çekme isteği önceliklendirmesini otomatikleştirin Kütüphane güncellemelerini yönetmek bazen sıkıcı olabilir. GitHub Copilot uygulamasının bu tür tekrarlanan görevleri nasıl gerçekleştirebileceğini öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Dependabot çekme isteği önceliklendirmesini otomatikleştirin yazısı ilk olarak GitHub B'de göründü... GitHub Copilot app for Beginners: Automate Dependabot pull request triage Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B... GitHub Dev Platform",
+      "keywords": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B... GitHub Copilot app for Beginners: Automate Dependabot pull request triage Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B... GitHub Dev Platform",
       "title_original": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
       "summary_original": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub B...",
       "published_display": "2026-08-26",
-      "id": "1fa6e75d2933"
+      "id": "24d52cc45e10"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "GPT-5.6 Sol, kuantum hesaplama deneylerinin yürütülmesine nasıl yardımcı oluyor?",
-      "summary": "Bir MIT araştırmacısının kuantum hesaplama deneylerini özerk bir şekilde yürütmek, sonuçları analiz etmek ve kübitleri kalibre etmek için Codex ile GPT-5.6 Sol'u nasıl kullandığını görün.",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "url": "https://openai.com/index/codex-quantum-computing-experiments",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,17 +145,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "GPT-5.6 Sol, kuantum hesaplama deneylerinin yürütülmesine nasıl yardımcı oluyor? Bir MIT araştırmacısının kuantum hesaplama deneylerini özerk bir şekilde yürütmek, sonuçları analiz etmek ve kübitleri kalibre etmek için Codex ile GPT-5.6 Sol'u nasıl kullandığını görün. How GPT-5.6 Sol helps run quantum computing experiments See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits. AI OpenAI Model",
+      "keywords": "How GPT-5.6 Sol helps run quantum computing experiments See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits. How GPT-5.6 Sol helps run quantum computing experiments See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits. AI OpenAI Model",
       "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
       "summary_original": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "published_display": "2026-09-08",
-      "id": "948495d8fac0"
+      "id": "dfdb0a70f62a"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "İş Artık Ulaşabileceğiniz Kadar Yakın",
-      "summary": "Daha yetenekli ve uygun fiyatlı yapay zekanın insanların ve işletmelerin başarabileceği işleri nasıl genişletebileceğini ve büyümeyi nasıl daha ekonomik hale getirebileceğini keşfedin.",
+      "title": "The Work Now Within Reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "url": "https://openai.com/index/the-work-now-within-reach",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,17 +165,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "İş Artık Ulaşabileceğiniz Kadar Yakın Daha yetenekli ve uygun fiyatlı yapay zekanın insanların ve işletmelerin başarabileceği işleri nasıl genişletebileceğini ve büyümeyi nasıl daha ekonomik hale getirebileceğini keşfedin. The Work Now Within Reach Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical. AI OpenAI Model",
+      "keywords": "The Work Now Within Reach Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical. The Work Now Within Reach Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical. AI OpenAI Model",
       "title_original": "The Work Now Within Reach",
       "summary_original": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "published_display": "2026-09-08",
-      "id": "207b2125639b"
+      "id": "f79c58f7422d"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "ChatGPT Görüntüleri 2.5 ile Tanışın",
-      "summary": "ChatGPT Images 2.5 fikirlerinizi, eskizlerinizi ve referans fotoğraflarınızı fikirlerinizi daha iyi yansıtan daha kişiselleştirilmiş, gösterişli görüntülere dönüştürmenize yardımcı olur.",
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,17 +185,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT Görüntüleri 2.5 ile Tanışın ChatGPT Images 2.5 fikirlerinizi, eskizlerinizi ve referans fotoğraflarınızı fikirlerinizi daha iyi yansıtan daha kişiselleştirilmiş, gösterişli görüntülere dönüştürmenize yardımcı olur. Introducing ChatGPT Images 2.5 ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas. AI OpenAI Model",
+      "keywords": "Introducing ChatGPT Images 2.5 ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas. Introducing ChatGPT Images 2.5 ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas. AI OpenAI Model",
       "title_original": "Introducing ChatGPT Images 2.5",
       "summary_original": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "published_display": "2026-09-08",
-      "id": "d52ca8b57bda"
+      "id": "ab43c73f667a"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Navier-Stokes Milenyum Ödülü Problemi Üzerine",
-      "summary": "Navier-Stokes Milenyum Ödül Sorunu için Yapay Zeka tarafından oluşturulan bir çözümü, Lean'da bir yazı ve resmi bir kanıt da dahil olmak üzere paylaşıyoruz.",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "url": "https://openai.com/index/navier-stokes-solution",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,17 +205,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Navier-Stokes Milenyum Ödülü Problemi Üzerine Navier-Stokes Milenyum Ödül Sorunu için Yapay Zeka tarafından oluşturulan bir çözümü, Lean'da bir yazı ve resmi bir kanıt da dahil olmak üzere paylaşıyoruz. On the Navier–Stokes Millennium Prize Problem We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. AI OpenAI Model",
+      "keywords": "On the Navier–Stokes Millennium Prize Problem We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. On the Navier–Stokes Millennium Prize Problem We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. AI OpenAI Model",
       "title_original": "On the Navier–Stokes Millennium Prize Problem",
       "summary_original": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "published_display": "2026-09-08",
-      "id": "9afb168b1b54"
+      "id": "bf4fcdc4b8a9"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Yapay zeka ve gençlerin gelişimine yönelik yeni araştırmalar için finansman hibeleri",
-      "summary": "Üretken yapay zekanın gençlerin gelişimini, refahını ve güvenliğini nasıl etkilediğine ilişkin bağımsız araştırmaları destekleyen OpenAI'nin 5 milyon dolarlık hibe programına şimdi başvurun.",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
       "url": "https://openai.com/index/teen-development-research-grants",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,17 +225,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Yapay zeka ve gençlerin gelişimine yönelik yeni araştırmalar için finansman hibeleri Üretken yapay zekanın gençlerin gelişimini, refahını ve güvenliğini nasıl etkilediğine ilişkin bağımsız araştırmaları destekleyen OpenAI'nin 5 milyon dolarlık hibe programına şimdi başvurun. Funding grants for new research into AI and teen development Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety. AI OpenAI Model",
+      "keywords": "Funding grants for new research into AI and teen development Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety. Funding grants for new research into AI and teen development Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety. AI OpenAI Model",
       "title_original": "Funding grants for new research into AI and teen development",
       "summary_original": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
       "published_display": "2026-09-08",
-      "id": "cbbd32104e95"
+      "id": "ea4aefcfc81f"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "OpenAI, gazeteciliği desteklemeye yönelik girişimleri sınıflardan haber odalarına kadar genişletiyor",
-      "summary": "OpenAI, öğrencilere, eğitimcilere, gazetecilere ve haber kuruluşlarına yönelik araçlar, eğitimler ve ortaklıklarla gazeteciliğe yönelik desteği genişletiyor.",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,17 +245,137 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI, gazeteciliği desteklemeye yönelik girişimleri sınıflardan haber odalarına kadar genişletiyor OpenAI, öğrencilere, eğitimcilere, gazetecilere ve haber kuruluşlarına yönelik araçlar, eğitimler ve ortaklıklarla gazeteciliğe yönelik desteği genişletiyor. OpenAI expands initiatives to support journalism from classrooms to newsrooms OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations. AI OpenAI Model",
+      "keywords": "OpenAI expands initiatives to support journalism from classrooms to newsrooms OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations. OpenAI expands initiatives to support journalism from classrooms to newsrooms OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations. AI OpenAI Model",
       "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
       "summary_original": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "published_display": "2026-09-08",
-      "id": "2cfc7829a801"
+      "id": "61df0c22a1a2"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotics 2030: How Automation Will Redefine Industries - TechBullion",
+      "summary": "Robotics 2030: How Automation Will Redefine Industries TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS3dSa3BvaGdQdDNUT3BTdWE2MlFkTzdFMTlOLXNTRlE5MEZteHBRelVtQmQxcU1YdlU2blUwZkpBdk9TSFJpM2ZnMEFiQzJQNV9xN0ctSFVRSmdTX1ByTkxZNG5telNBN3hSeVhLWXZaV3E5bUx1aVp6Y3E0a3Y5T084NzU?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-08T14:25:49Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotics 2030: How Automation Will Redefine Industries - TechBullion Robotics 2030: How Automation Will Redefine Industries TechBullion Robotics 2030: How Automation Will Redefine Industries - TechBullion Robotics 2030: How Automation Will Redefine Industries TechBullion Robotics Automation Industry",
+      "title_original": "Robotics 2030: How Automation Will Redefine Industries - TechBullion",
+      "summary_original": "Robotics 2030: How Automation Will Redefine Industries TechBullion",
+      "published_display": "2026-09-08",
+      "id": "b7231a98f04c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire",
+      "summary": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcFkyaFhpX0ZmalB3Q01PemhMUklwelpKQ1plWkZ0OHJuREhxSDh2ZkFkb1dVSVhpM1VJR3dfOEpSNnhBUVVmRWFZYWFGZktzcUxSOXhfdDU5anJpZ1VJekI4WEY4OVZrN3dSVzZXZk4zNzN6U2hsNmtjTEZYQVFKWUZVQllwTnpabkQ2TlN2dzN2MUZkeUpNRmhwdU92MmhJUFFXRURxazd6dEdrQlBlaUswMm10VmI2NHV5eC1UTXFiMmMwSWMxY0dKYXRGb1FiWmdRWEZIS1pGU0t2bGh4Sm4yYlhROW5sN1lvSXB0em1FMTlq?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-08T11:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire Robotics Automation Industry",
+      "title_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire",
+      "summary_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire",
+      "published_display": "2026-09-08",
+      "id": "58b38efc019f"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation - Bisinfotech",
+      "summary": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation Bisinfotech",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalJmTUJHZXlpWWg2Y1RQVzBlTnlremRoWGxlYkJRYklfM1dCZzQzRHk3Y3pScGFRMWRmc1VYNDJBdW1tYms1Z1RIQ2R5cklGX0tTOGNReVMxVnpfUEFtRmFHdmkwR3pDNEcycU9ZSGVyR1VLcF9wdFFKVjVtenFoVUY1ZkppSFFkQVNJdGtwYm9LRHRrclpDaWYtOA?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-07T10:45:50Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation - Bisinfotech Neura Robotics and Seco Partner on AI-Driven Industrial Automation Bisinfotech Neura Robotics and Seco Partner on AI-Driven Industrial Automation - Bisinfotech Neura Robotics and Seco Partner on AI-Driven Industrial Automation Bisinfotech Robotics Automation Industry",
+      "title_original": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation - Bisinfotech",
+      "summary_original": "Neura Robotics and Seco Partner on AI-Driven Industrial Automation Bisinfotech",
+      "published_display": "2026-09-07",
+      "id": "81245533128f"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider",
+      "summary": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW5EaXc3M19mUjE4VVF0UU95WUJUeGpibi1LSXpYRUVrU2pKQkxxaDNFQVNab0FHRFNvcTUzdXhPOExTbTA1WXM0SWRYRXAyTmRMMGJZczYySk5JYWp1OHV2WkQ0dzBwMXBVTFZvSXVwRFp1d29laHcyNVpWOEFZVnpoaFc3a0tBZXVuaXVMQVN1N296TDQ4WU52ZUNORzdLajYwWVJDazBwbzVkUkN3emY1b2c2Umpsa3ZoSw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-07T09:43:26Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider Robotics Automation Industry",
+      "title_original": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider",
+      "summary_original": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider",
+      "published_display": "2026-09-07",
+      "id": "49e796ed4cee"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire",
+      "summary": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSk5VY3hLdEN4VVlnNGE5Ulh0cVFRY0lsZC0zeXZMSHlWbTdrdk04Nll1X2x0dXIxcnNPejg4bTlQY2hqTnJacmtTVTJTZEI2aFpTY29sbm0wYms1QWh0RUg0bnF5M2hsMWRwZk80clN1aTQwT3FaWHAtYlkxZi1RM0xhMFk0b25KTDBwN2JCVWJpSzMwdVhDSlNNekxmQWlMbWpVQk92YmVubFV0cUVKVXl3U1ZmQWJkbUhCVlJTbzJFVXBOVzBfclVKRnJudUVENFVkcUZmQQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-03T15:19:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire Robotics Automation Industry",
+      "title_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire",
+      "summary_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire",
+      "published_display": "2026-09-03",
+      "id": "a490117e2b5c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "50th Anniversary Sector Spotlight: Robotics, Automation & AI - Tech Briefs",
+      "summary": "50th Anniversary Sector Spotlight: Robotics, Automation & AI Tech Briefs",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMVRxdGJpLTZsWW82R3ZONzlZVlRocXlQRzhlUC1qTlFUcUZSMk56S2M2VTM5QjdPanMtME5rUXZZd2pLNDItQUdBU3M0cW5qOXQ4Ni12cjg0REtaUGFUc2lGd2ZINktZMkQyYjRSdXd4RlAwNUsxNzF6V3lqU0lvWkpmQlZ6SFprNzdNUWF2SVhqREJsOWxyenBzRXg2cXRTWlVnbU83RDg5RVVGbzB2V25oWUhDQQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-02T16:24:10Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "50th Anniversary Sector Spotlight: Robotics, Automation & AI - Tech Briefs 50th Anniversary Sector Spotlight: Robotics, Automation & AI Tech Briefs 50th Anniversary Sector Spotlight: Robotics, Automation & AI - Tech Briefs 50th Anniversary Sector Spotlight: Robotics, Automation & AI Tech Briefs Robotics Automation Industry",
+      "title_original": "50th Anniversary Sector Spotlight: Robotics, Automation & AI - Tech Briefs",
+      "summary_original": "50th Anniversary Sector Spotlight: Robotics, Automation & AI Tech Briefs",
+      "published_display": "2026-09-02",
+      "id": "0681a303c5bf"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "MDN MCP sunucusuyla tanışın",
-      "summary": "MDN'nin MCP sunucusu, MDN'nin belgelerini ve tarayıcı uyumluluk verilerini doğrudan editörünüze veya IDE'nize getirerek Yüksek Lisans veya kodlama aracınızın doğru, güncel web platformu bilgilerine erişmesini sağlar.",
+      "title": "Introducing the MDN MCP server",
+      "summary": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information.",
       "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/",
       "image_url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/featured.png",
       "source": "MDN Blog",
@@ -265,17 +385,17 @@
         "Standards",
         "Browser"
       ],
-      "keywords": "MDN MCP sunucusuyla tanışın MDN'nin MCP sunucusu, MDN'nin belgelerini ve tarayıcı uyumluluk verilerini doğrudan editörünüze veya IDE'nize getirerek Yüksek Lisans veya kodlama aracınızın doğru, güncel web platformu bilgilerine erişmesini sağlar. Introducing the MDN MCP server MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information. Web Standards Browser",
+      "keywords": "Introducing the MDN MCP server MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information. Introducing the MDN MCP server MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information. Web Standards Browser",
       "title_original": "Introducing the MDN MCP server",
       "summary_original": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information.",
       "published_display": "2026-06-15",
-      "id": "0f8f06410655"
+      "id": "137fa268e168"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Mayıs ayında web platformuna yeni",
-      "summary": "Mayıs 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "title": "New to the web platform in May",
+      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
       "url": "https://web.dev/blog/web-platform-05-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -285,17 +405,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Mayıs ayında web platformuna yeni Mayıs 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in May Discover some of the interesting features that have landed in stable and beta web browsers during May 2026. Web Performance Frontend",
+      "keywords": "New to the web platform in May Discover some of the interesting features that have landed in stable and beta web browsers during May 2026. New to the web platform in May Discover some of the interesting features that have landed in stable and beta web browsers during May 2026. Web Performance Frontend",
       "title_original": "New to the web platform in May",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
       "published_display": "2026-05-29",
-      "id": "aaa5419645c6"
+      "id": "b50202f63def"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan 2026 Temel aylık özet",
-      "summary": "Nisan 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "title": "April 2026 Baseline monthly digest",
+      "summary": "Read about various happenings with Baseline during April 2026.",
       "url": "https://web.dev/blog/baseline-digest-apr-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -305,17 +425,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan 2026 Temel aylık özet Nisan 2026'da Baseline ile ilgili çeşitli olayları okuyun. April 2026 Baseline monthly digest Read about various happenings with Baseline during April 2026. Web Performance Frontend",
+      "keywords": "April 2026 Baseline monthly digest Read about various happenings with Baseline during April 2026. April 2026 Baseline monthly digest Read about various happenings with Baseline during April 2026. Web Performance Frontend",
       "title_original": "April 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during April 2026.",
       "published_display": "2026-05-27",
-      "id": "6b855c964fcf"
+      "id": "dc29ba7b6ca5"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
-      "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "title": "New to the web platform in April",
+      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -325,17 +445,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "3b401d72d68b"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Mart 2026 Temel aylık özet",
-      "summary": "Mart 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "title": "March 2026 Baseline monthly digest",
+      "summary": "Read about various happenings with Baseline during March 2026.",
       "url": "https://web.dev/blog/baseline-digest-mar-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -345,17 +465,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Mart 2026 Temel aylık özet Mart 2026'da Baseline ile ilgili çeşitli olayları okuyun. March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. Web Performance Frontend",
+      "keywords": "March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. Web Performance Frontend",
       "title_original": "March 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during March 2026.",
       "published_display": "2026-04-14",
-      "id": "11541f4784e5"
+      "id": "484651532f7c"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "MDN'nin yeni arayüzünün altında",
-      "summary": "MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım.",
+      "title": "Under the hood of MDN's new frontend",
+      "summary": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
       "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/",
       "image_url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/featured.png",
       "source": "MDN Blog",
@@ -365,17 +485,17 @@
         "Standards",
         "Browser"
       ],
-      "keywords": "MDN'nin yeni arayüzünün altında MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım. Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Web Standards Browser",
+      "keywords": "Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Web Standards Browser",
       "title_original": "Under the hood of MDN's new frontend",
       "summary_original": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
       "published_display": "2026-04-08",
-      "id": "1c6156ef07a0"
+      "id": "c35943c71825"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare Yönetilen Savunma ve OpenAI Daybreak modelleriyle bağlama duyarlı güvenlik açığı keşfi ve iyileştirmeyle tanışın",
-      "summary": "Bulguları önceliklendirmek, güvenli olduğunda uç azaltımlarını hazırlamak ve kod yamaları önermek için üretim trafiğini ve güvenlik sinyallerini kullanın. WAF verilerini OpenAI Daybreak modelleriyle birleştiren Güvenlik Açığı Keşfi ve Düzeltme, ekiplerin tespit etmesine yardımcı olur...",
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden...",
       "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png",
       "source": "Cloudflare Security",
@@ -385,17 +505,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare Yönetilen Savunma ve OpenAI Daybreak modelleriyle bağlama duyarlı güvenlik açığı keşfi ve iyileştirmeyle tanışın Bulguları önceliklendirmek, güvenli olduğunda uç azaltımlarını hazırlamak ve kod yamaları önermek için üretim trafiğini ve güvenlik sinyallerini kullanın. WAF verilerini OpenAI Daybreak modelleriyle birleştiren Güvenlik Açığı Keşfi ve Düzeltme, ekiplerin tespit etmesine yardımcı olur... Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden... Cloudflare Security Web",
+      "keywords": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden... Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden... Cloudflare Security Web",
       "title_original": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
       "summary_original": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden...",
       "published_display": "2026-09-03",
-      "id": "1ae1d8d6cdd7"
+      "id": "0e24c27306bb"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz?",
-      "summary": "NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz...",
+      "title": "Why we cannot wait for better post-quantum signature algorithms",
+      "summary": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-...",
       "url": "https://blog.cloudflare.com/ml-dsa-will-have-to-do/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KX364WXBKAH0H8Y5MYTVJKTX.png",
       "source": "Cloudflare Security",
@@ -405,17 +525,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Neden daha iyi kuantum sonrası imza algoritmalarını bekleyemiyoruz? NIST, gelecekteki standardizasyon için potansiyel adaylar olarak dokuz yeni kuantum sonrası imza algoritması geliştiriyor. Hepsine daha yakından bakıyoruz ve üzerinde çalışılıyorken ve büyük potansiyel gösterirken ML'yi kullanmamız gerektiğini savunuyoruz... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
+      "keywords": "Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Why we cannot wait for better post-quantum signature algorithms NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-... Cloudflare Security Web",
       "title_original": "Why we cannot wait for better post-quantum signature algorithms",
       "summary_original": "NIST is advancing nine new post-quantum signature algorithms as potential candidates for future standardization. We take a closer look at all of them, and argue that while they are in the works and show great potential, we should use ML-...",
       "published_display": "2026-07-09",
-      "id": "3190b5cc5cbb"
+      "id": "18ff2be4dac8"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Attribution Business Insights ile taramaların maskesini kaldırma",
-      "summary": "Cloudflare'in yeni Attribution Business Insights kontrol paneli, web sitesi sahiplerinin tarayıcı davranışını, iştahını ve potansiyel değerini anlamalarına yardımcı olarak tarama ücretiyle ilgili iş düzeyindeki görüşmeleri teşvik eder.",
+      "title": "Unmasking the crawls with Attribution Business Insights",
+      "summary": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
       "url": "https://blog.cloudflare.com/attribution-business-insights/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KWW2PJ1NVHGXWZT4VHRSC3CQ.png",
       "source": "Cloudflare Security",
@@ -425,17 +545,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Attribution Business Insights ile taramaların maskesini kaldırma Cloudflare'in yeni Attribution Business Insights kontrol paneli, web sitesi sahiplerinin tarayıcı davranışını, iştahını ve potansiyel değerini anlamalarına yardımcı olarak tarama ücretiyle ilgili iş düzeyindeki görüşmeleri teşvik eder. Unmasking the crawls with Attribution Business Insights Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation. Cloudflare Security Web",
+      "keywords": "Unmasking the crawls with Attribution Business Insights Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation. Unmasking the crawls with Attribution Business Insights Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation. Cloudflare Security Web",
       "title_original": "Unmasking the crawls with Attribution Business Insights",
       "summary_original": "Cloudflare’s new Attribution Business Insights dashboard helps website owners understand crawler behavior, appetite, and potential value, fueling business-level conversations around crawl compensation.",
       "published_display": "2026-07-01",
-      "id": "e9a379d2ad38"
+      "id": "5489ed012538"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Herkes için OAuth ile Cloudflare uygulama ekosisteminin kilidini açma",
-      "summary": "Kendi Kendini Yöneten OAuth artık Cloudflare'deki tüm geliştiricilerin kullanımına sunuldu. Bunu gerçekleştirmek için temel OAuth motorumuzda sıfır kesinti süreli geçiş işlemini şu şekilde gerçekleştirdik.",
+      "title": "Unlocking the Cloudflare app ecosystem with OAuth for all",
+      "summary": "Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen.",
       "url": "https://blog.cloudflare.com/oauth-for-all/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KW9WM966J0DJ3PV3H3XS7J9M.png",
       "source": "Cloudflare Security",
@@ -445,17 +565,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Herkes için OAuth ile Cloudflare uygulama ekosisteminin kilidini açma Kendi Kendini Yöneten OAuth artık Cloudflare'deki tüm geliştiricilerin kullanımına sunuldu. Bunu gerçekleştirmek için temel OAuth motorumuzda sıfır kesinti süreli geçiş işlemini şu şekilde gerçekleştirdik. Unlocking the Cloudflare app ecosystem with OAuth for all Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen. Cloudflare Security Web",
+      "keywords": "Unlocking the Cloudflare app ecosystem with OAuth for all Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen. Unlocking the Cloudflare app ecosystem with OAuth for all Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen. Cloudflare Security Web",
       "title_original": "Unlocking the Cloudflare app ecosystem with OAuth for all",
       "summary_original": "Self-Managed OAuth is now available to all developers on Cloudflare. Here's how we executed a zero-downtime migration of our core OAuth engine to make it happen.",
       "published_display": "2026-06-24",
-      "id": "d40eca897ef5"
+      "id": "cfa979a196a7"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Beyaz Saray'ın kuantum sonrası yönetim emri önemli bir kilometre taşıdır. İşe başlama zamanı",
-      "summary": "Yeni idari emir, geçiş için son tarihi 2030 olarak belirliyor ve kuantum sonrası dayanıklılık için güçlü bir temel oluşturuyor. Neyin doğru olduğuna, nerede daha ileri gidebileceğine ve hükümet ile endüstri için geçiş taktik kitabımıza bakıyoruz.",
+      "title": "The White House's post-quantum executive order is an important milestone. It’s time to get to work",
+      "summary": "The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry.",
       "url": "https://blog.cloudflare.com/post-quantum-eo-2026/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KW9WMW43QN7R2PE4NQQJ1TBG.png",
       "source": "Cloudflare Security",
@@ -465,17 +585,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Beyaz Saray'ın kuantum sonrası yönetim emri önemli bir kilometre taşıdır. İşe başlama zamanı Yeni idari emir, geçiş için son tarihi 2030 olarak belirliyor ve kuantum sonrası dayanıklılık için güçlü bir temel oluşturuyor. Neyin doğru olduğuna, nerede daha ileri gidebileceğine ve hükümet ile endüstri için geçiş taktik kitabımıza bakıyoruz. The White House's post-quantum executive order is an important milestone. It’s time to get to work The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry. Cloudflare Security Web",
+      "keywords": "The White House's post-quantum executive order is an important milestone. It’s time to get to work The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry. The White House's post-quantum executive order is an important milestone. It’s time to get to work The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry. Cloudflare Security Web",
       "title_original": "The White House's post-quantum executive order is an important milestone. It’s time to get to work",
       "summary_original": "The new executive order sets a 2030 migration deadline and establishes a powerful foundation for post-quantum resilience. We look at what it gets right, where it can go further, and our migration playbook for government and industry.",
       "published_display": "2026-06-23",
-      "id": "fff29f8bde5c"
+      "id": "45ce556fcc69"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Kendi güvenlik açığı koşumunuzu oluşturun",
-      "summary": "Çok aşamalı güvenlik açığı keşif donanımımızın ve otomatik önceliklendirme döngümüzün arkasındaki teknik mimariyi parçalara ayırıyoruz. Durum kontrollerini nasıl yönettiğimizi, çekişmeli inceleme yoluyla yanlış pozitifleri nasıl ortadan kaldırdığımızı ve LLM bağlamını nasıl yönlendirdiğimizi öğrenin...",
+      "title": "Build your own vulnerability harness",
+      "summary": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex...",
       "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KW9WMH2DTTTS46DXHQ9KHJE0.png",
       "source": "Cloudflare Security",
@@ -485,11 +605,91 @@
         "Security",
         "Web"
       ],
-      "keywords": "Kendi güvenlik açığı koşumunuzu oluşturun Çok aşamalı güvenlik açığı keşif donanımımızın ve otomatik önceliklendirme döngümüzün arkasındaki teknik mimariyi parçalara ayırıyoruz. Durum kontrollerini nasıl yönettiğimizi, çekişmeli inceleme yoluyla yanlış pozitifleri nasıl ortadan kaldırdığımızı ve LLM bağlamını nasıl yönlendirdiğimizi öğrenin... Build your own vulnerability harness We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex... Cloudflare Security Web",
+      "keywords": "Build your own vulnerability harness We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex... Build your own vulnerability harness We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex... Cloudflare Security Web",
       "title_original": "Build your own vulnerability harness",
       "summary_original": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM contex...",
       "published_display": "2026-06-18",
-      "id": "b8ae76a3b4f9"
+      "id": "ddf19bf6fac1"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
+      "summary": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-04T07:23:53Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
+      "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
+      "published_display": "2026-09-04",
+      "id": "d54a3d41267b"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - tomshardware.com",
+      "summary": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - tomshardware.com Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout tomshardware.com Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - tomshardware.com Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout tomshardware.com IP Camera Video Surveillance",
+      "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - tomshardware.com",
+      "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout tomshardware.com",
+      "published_display": "2026-08-21",
+      "id": "6687657dfa85"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
+      "summary": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "published_display": "2026-08-21",
+      "id": "6c94a1bdbf8c"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
+      "summary": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-17T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
+      "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
+      "published_display": "2026-08-17",
+      "id": "1353b8bf37a5"
     }
   ]
 }
