@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T13:00:00Z",
+  "updated_at": "2026-09-10T16:00:00Z",
   "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiriyoruz?",
-      "summary": "Daha kısa çıktıların neden daha pahalıya mal olabileceği ve GitHub Copilot'un kodlama görevinin tamamında boşa giden işleri nasıl azalttığı. Görev kalitesinden ödün vermeden AI kodlamasını nasıl daha uygun maliyetli hale getiririz yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Daha kısa çıktıların neden daha pahalıya mal olabileceği ve GitHub Copilot'un kodlama görevinin tamamında boşa giden işleri nasıl azalttığı. Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiririz yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,111 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiriyoruz? Daha kısa çıktıların neden daha pahalıya mal olabileceği ve GitHub Copilot'un kodlama görevinin tamamında boşa giden işleri nasıl azalttığı. Görev kalitesinden ödün vermeden AI kodlamasını nasıl daha uygun maliyetli hale getiririz yazısı ilk olarak GitHub Blogunda göründü. How we make AI coding more cost efficient without sacrificing task quality Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiriyoruz? Daha kısa çıktıların neden daha pahalıya mal olabileceği ve GitHub Copilot'un kodlama görevinin tamamında boşa giden işleri nasıl azalttığı. Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiririz yazısı ilk olarak GitHub Blogunda göründü. How we make AI coding more cost efficient without sacrificing task quality Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
       "summary_original": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
       "published_display": "2026-09-02",
       "id": "6921a3839b6a"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Arama ile bir sonraki büyük yarışınıza hazırlanmanın 3 yolu",
+      "summary": "Arama, kayıt uyarıları, özel eğitim planları ve daha fazlasıyla koşucuların yarış gününe hazırlanmalarına yardımcı olabilir.",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-10T16:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Arama ile bir sonraki büyük yarışınıza hazırlanmanın 3 yolu Arama, kayıt uyarıları, özel eğitim planları ve daha fazlasıyla koşucuların yarış gününe hazırlanmalarına yardımcı olabilir. 3 ways to prep for your next big race with Search Search can help runners get race-day ready with registration alerts, tailored training plans, and more. AI Product Google",
+      "title_original": "3 ways to prep for your next big race with Search",
+      "summary_original": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "published_display": "2026-09-10",
+      "id": "090ee73886b7"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Bir araştırmacı yeni antimikrobiyal molekülleri aramak için Codex ve ChatGPT'yi nasıl kullanıyor?",
+      "summary": "César de la Fuente'nin laboratuvarı, ilaca dirençli enfeksiyonlarla savaşacak antimikrobiyal adayları bulmak için yaşayan ve soyu tükenmiş genomları araştırmak amacıyla Codex ve ChatGPT'yi kullanıyor.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-10T16:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Bir araştırmacı yeni antimikrobiyal molekülleri aramak için Codex ve ChatGPT'yi nasıl kullanıyor? César de la Fuente'nin laboratuvarı, ilaca dirençli enfeksiyonlarla savaşacak antimikrobiyal adayları bulmak için yaşayan ve soyu tükenmiş genomları araştırmak amacıyla Codex ve ChatGPT'yi kullanıyor. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections. AI OpenAI Model",
+      "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary_original": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "published_display": "2026-09-10",
+      "id": "6db19335d36d"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Artık herkes verileri işe koyabilir",
+      "summary": "ChatGPT Work'teki Veri aracısıyla tanışın. Doğal dili kullanarak yapay zeka ile şirket verilerini bağlayın, içgörüleri ortaya çıkarın ve etkileşimli kontrol panelleri oluşturun.",
+      "url": "https://openai.com/index/put-data-to-work",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-10T15:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Artık herkes verileri işe koyabilir ChatGPT Work'teki Veri aracısıyla tanışın. Doğal dili kullanarak yapay zeka ile şirket verilerini bağlayın, içgörüleri ortaya çıkarın ve etkileşimli kontrol panelleri oluşturun. Now everyone can put data to work Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language. AI OpenAI Model",
+      "title_original": "Now everyone can put data to work",
+      "summary_original": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "published_display": "2026-09-10",
+      "id": "cddd4c74f565"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Federal, eyalet, yerel ve kabile hükümetleri için yapay zeka erişimini ve siber savunmayı genişletme",
+      "summary": "OpenAI ve GSA, uygun federal, eyalet, yerel ve kabile hükümetlerine 0 ABD doları lisans ücreti, %50 kullanım indirimi ve genişletilmiş siber savunma desteği sunacak.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-10T07:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Federal, eyalet, yerel ve kabile hükümetleri için yapay zeka erişimini ve siber savunmayı genişletme OpenAI ve GSA, uygun federal, eyalet, yerel ve kabile hükümetlerine 0 ABD doları lisans ücreti, %50 kullanım indirimi ve genişletilmiş siber savunma desteği sunacak. Expanding AI access and cyber defense for federal, state, local, and tribal governments OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support. AI OpenAI Model",
+      "title_original": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary_original": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "published_display": "2026-09-10",
+      "id": "1207dd4016e0"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "API'de GPT‑Live‑1 ile daha doğal ses deneyimleri oluşturun",
+      "summary": "GPT‑Live‑1, daha güçlü talimat takibi, özel sesler ve telefon desteğiyle doğal, tam çift yönlü sesli konuşmaları API'ye getirir.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-10T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "API'de GPT‑Live‑1 ile daha doğal ses deneyimleri oluşturun GPT‑Live‑1, daha güçlü talimat takibi, özel sesler ve telefon desteğiyle doğal, tam çift yönlü sesli konuşmaları API'ye getirir. Build more natural voice experiences with GPT‑Live‑1 in the API GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support. AI OpenAI Model",
+      "title_original": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary_original": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "published_display": "2026-09-10",
+      "id": "6dd9038b6264"
     },
     {
       "category": "ai",
@@ -150,106 +250,6 @@
       "summary_original": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "published_display": "2026-09-09",
       "id": "98553f378db1"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "70 yıllık bir aşk hikayesini kare kare yeniden yaratmak",
-      "summary": "\"Love, Rendered\" adlı kısa filmde film yapımcılarının ve Google DeepMind'ın bir çiftin kaydedilmemiş geçmişini yeniden yaratmak için yapay zekayı nasıl kullandığını keşfedin.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-09T16:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "70 yıllık bir aşk hikayesini kare kare yeniden yaratmak \"Love, Rendered\" adlı kısa filmde film yapımcılarının ve Google DeepMind'ın bir çiftin kaydedilmemiş geçmişini yeniden yaratmak için yapay zekayı nasıl kullandığını keşfedin. Recreating a 70-year love story frame by frame Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\" AI Product Google",
-      "title_original": "Recreating a 70-year love story frame by frame",
-      "summary_original": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "published_display": "2026-09-09",
-      "id": "ede3c8f82526"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Arama'daki yeni futbol özellikleriyle oyuna hazır olun",
-      "summary": "Bu sezon doğrudan Arama'dan canlı oyun yayınlarını takip edin, ayrıntılı istatistikleri keşfedin ve özel fantezi önerileri alın.",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-09T16:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Arama'daki yeni futbol özellikleriyle oyuna hazır olun Bu sezon doğrudan Arama'dan canlı oyun yayınlarını takip edin, ayrıntılı istatistikleri keşfedin ve özel fantezi önerileri alın. Get ready for the game with new football features in Search Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season. AI Product Google",
-      "title_original": "Get ready for the game with new football features in Search",
-      "summary_original": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-      "published_display": "2026-09-09",
-      "id": "584b59a79ab2"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yapay zeka politikası penceresi açık. Harekete geçmemiz gerekiyor.",
-      "summary": "Chris Lehane, politika penceresi açık kalırken daha güçlü yapay zeka yeteneklerinin daha güçlü güvenlik kanıtları, ortak standartlar ve dayanıklı politika eylemleri gerektirdiğini savunuyor.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-09T13:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Yapay zeka politikası penceresi açık. Harekete geçmemiz gerekiyor. Chris Lehane, politika penceresi açık kalırken daha güçlü yapay zeka yeteneklerinin daha güçlü güvenlik kanıtları, ortak standartlar ve dayanıklı politika eylemleri gerektirdiğini savunuyor. The AI policy window is open. We need to act. Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open. AI OpenAI Model",
-      "title_original": "The AI policy window is open. We need to act.",
-      "summary_original": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "published_display": "2026-09-09",
-      "id": "92bc52068e77"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-6 Astra: İş zekasında yeni nesil",
-      "summary": "Gelişmiş akıl yürütme, bilgisayar kullanımı ve daha güçlü yazma ve tasarım muhakemesi özellikleriyle OpenAI'nin iş dünyasına yönelik en yetenekli modeli olan GPT-6 Astra ile tanışın.",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-09T11:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "GPT-6 Astra: İş zekasında yeni nesil Gelişmiş akıl yürütme, bilgisayar kullanımı ve daha güçlü yazma ve tasarım muhakemesi özellikleriyle OpenAI'nin iş dünyasına yönelik en yetenekli modeli olan GPT-6 Astra ile tanışın. GPT-6 Astra: The next generation in intelligence for work Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment. AI OpenAI Model",
-      "title_original": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary_original": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "published_display": "2026-09-09",
-      "id": "1be9172ff2fd"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-5.6 Sol, kuantum hesaplama deneylerinin yürütülmesine nasıl yardımcı oluyor?",
-      "summary": "Bir MIT araştırmacısının kuantum hesaplama deneylerini otonom bir şekilde yürütmek, sonuçları analiz etmek ve kübitleri kalibre etmek için Codex ile GPT-5.6 Sol'u nasıl kullandığını görün.",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-08T17:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "GPT-5.6 Sol, kuantum hesaplama deneylerinin yürütülmesine nasıl yardımcı oluyor? Bir MIT araştırmacısının kuantum hesaplama deneylerini otonom bir şekilde yürütmek, sonuçları analiz etmek ve kübitleri kalibre etmek için Codex ile GPT-5.6 Sol'u nasıl kullandığını görün. How GPT-5.6 Sol helps run quantum computing experiments See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits. AI OpenAI Model",
-      "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary_original": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "published_display": "2026-09-08",
-      "id": "948495d8fac0"
     },
     {
       "category": "robotik",
@@ -274,7 +274,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3lyT0Z6M0tXMlAwcFk5dVFGcm5pb0FId0dEZWhQd09aSlZsTjhhX2FSY0NRMHV4Qjg3Y2gzc1JPbTNzTG82OWNDWWZIbk9VREQ5QXJyWlRoYXUyMzdQRExiX2ZfazlHb3pIQUJhRlEzcFBaa0p2RWNVcnZ4THRTTzEyMHdqSVZUTHVocmY2XzFsbWRpekV6ajZaWWtFQVRzR0UzV0FGWXpjMUdtR3VUazY3blQ4QmhyS2dWWVJtdE1RWXBmWEJxV0JiMFJSQQ?oc=5",
       "image_url": null,
@@ -285,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-09",
-      "id": "70a2404a5d40"
+      "id": "aa843b91bc33"
     },
     {
       "category": "robotik",
@@ -334,8 +334,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu - Business Wire",
-      "summary": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyon İş Bağlantısını Geliştirmek İçin Stratejik İşbirliğini Duyurdu",
+      "title": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu - businesswire.com",
+      "summary": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu businesswire.com",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcFkyaFhpX0ZmalB3Q01PemhMUklwelpKQ1plWkZ0OHJuREhxSDh2ZkFkb1dVSVhpM1VJR3dfOEpSNnhBUVVmRWFZYWFGZktzcUxSOXhfdDU5anJpZ1VJekI4WEY4OVZrN3dSVzZXZk4zNzN6U2hsNmtjTEZYQVFKWUZVQllwTnpabkQ2TlN2dzN2MUZkeUpNRmhwdU92MmhJUFFXRURxazd6dEdrQlBlaUswMm10VmI2NHV5eC1UTXFiMmMwSWMxY0dKYXRGb1FiWmdRWEZIS1pGU0t2bGh4Sm4yYlhROW5sN1lvSXB0em1FMTlq?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,31 +345,31 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu - Business Wire Palladyne AI ve FANUC America, Akıllı Robotik Otomasyon İş Bağlantısını Geliştirmek İçin Stratejik İşbirliğini Duyurdu Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire Robotics Automation Industry",
-      "title_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire",
-      "summary_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire",
+      "keywords": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu - businesswire.com Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu businesswire.com Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - businesswire.com Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation businesswire.com Robotics Automation Industry",
+      "title_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - businesswire.com",
+      "summary_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation businesswire.com",
       "published_display": "2026-09-08",
-      "id": "eadf3fce6b6d"
+      "id": "cdaf3b9b7315"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Neura Robotics, Seco'nun Fiziksel Yapay Zeka, Robot Bilgi İşlem ve Endüstriyel Otomasyon İş Ortağı - AI Insider",
-      "summary": "Neura Robotics, Seco'nun Fiziksel Yapay Zeka, Robot Bilgi İşlem ve Endüstriyel Otomasyon İş Ortağı AI Insider",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW5EaXc3M19mUjE4VVF0UU95WUJUeGpibi1LSXpYRUVrU2pKQkxxaDNFQVNab0FHRFNvcTUzdXhPOExTbTA1WXM0SWRYRXAyTmRMMGJZczYySk5JYWp1OHV2WkQ0dzBwMXBVTFZvSXVwRFp1d29laHcyNVpWOEFZVnpoaFc3a0tBZXVuaXVMQVN1N296TDQ4WU52ZUNORzdLajYwWVJDazBwbzVkUkN3emY1b2c2Umpsa3ZoSw?oc=5",
+      "title": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - PR Newswire",
+      "summary": "FANUC Amerika IMTS 2026 PR Newswire'a Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSk5VY3hLdEN4VVlnNGE5Ulh0cVFRY0lsZC0zeXZMSHlWbTdrdk04Nll1X2x0dXIxcnNPejg4bTlQY2hqTnJacmtTVTJTZEI2aFpTY29sbm0wYms1QWh0RUg0bnF5M2hsMWRwZk80clN1aTQwT3FaWHAtYlkxZi1RM0xhMFk0b25KTDBwN2JCVWJpSzMwdVhDSlNNekxmQWlMbWpVQk92YmVubFV0cUVKVXl3U1ZmQWJkbUhCVlJTbzJFVXBOVzBfclVKRnJudUVENFVkcUZmQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-07T09:43:26Z",
+      "published_at": "2026-09-03T15:19:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Neura Robotics, Seco'nun Fiziksel Yapay Zeka, Robot Bilgi İşlem ve Endüstriyel Otomasyon İş Ortağı - AI Insider Neura Robotics, Seco'nun Fiziksel Yapay Zeka, Robot Bilgi İşlem ve Endüstriyel Otomasyon İş Ortağı AI Insider Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider Robotics Automation Industry",
-      "title_original": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation - AI Insider",
-      "summary_original": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation AI Insider",
-      "published_display": "2026-09-07",
-      "id": "abe291ca03e6"
+      "keywords": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - PR Newswire FANUC Amerika IMTS 2026 PR Newswire'a Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire Robotics Automation Industry",
+      "title_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - PR Newswire",
+      "summary_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 PR Newswire",
+      "published_display": "2026-09-03",
+      "id": "70a9d4985134"
     },
     {
       "category": "web",
@@ -535,7 +535,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
-      "summary": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,7 +545,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
       "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
@@ -554,8 +554,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
+      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,16 +565,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
-      "id": "260fa5b969f0"
+      "id": "bf6b46c1653c"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
       "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
       "image_url": null,
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
       "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
-      "id": "3e495a0121de"
+      "id": "2dd56e341c6e"
     }
   ]
 }
