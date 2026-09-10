@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-09T17:00:00Z",
-  "total_posts": 34,
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 4
+    "kamera": 3
   },
   "posts": [
     {
@@ -194,6 +194,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Yapay zeka politikası penceresi açık. Harekete geçmemiz gerekiyor.",
+      "summary": "Chris Lehane, politika penceresi açık kalırken daha güçlü yapay zeka yeteneklerinin daha güçlü güvenlik kanıtları, ortak standartlar ve dayanıklı politika eylemleri gerektirdiğini savunuyor.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-09T13:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Yapay zeka politikası penceresi açık. Harekete geçmemiz gerekiyor. Chris Lehane, politika penceresi açık kalırken daha güçlü yapay zeka yeteneklerinin daha güçlü güvenlik kanıtları, ortak standartlar ve dayanıklı politika eylemleri gerektirdiğini savunuyor. The AI policy window is open. We need to act. Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open. AI OpenAI Model",
+      "title_original": "The AI policy window is open. We need to act.",
+      "summary_original": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "published_display": "2026-09-09",
+      "id": "92bc52068e77"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "GPT-6 Astra: İş zekasında yeni nesil",
       "summary": "Gelişmiş akıl yürütme, bilgisayar kullanımı ve daha güçlü yazma ve tasarım muhakemesi özellikleriyle OpenAI'nin iş dünyasına yönelik en yetenekli modeli olan GPT-6 Astra ile tanışın.",
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
@@ -230,26 +250,6 @@
       "summary_original": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "published_display": "2026-09-08",
       "id": "948495d8fac0"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "İş Artık Ulaşabileceğiniz Kadar Yakın",
-      "summary": "Daha yetenekli ve uygun fiyatlı yapay zekanın insanların ve işletmelerin başarabileceği işleri nasıl genişletebileceğini ve büyümeyi nasıl daha ekonomik hale getirebileceğini keşfedin.",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-08T13:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "İş Artık Ulaşabileceğiniz Kadar Yakın Daha yetenekli ve uygun fiyatlı yapay zekanın insanların ve işletmelerin başarabileceği işleri nasıl genişletebileceğini ve büyümeyi nasıl daha ekonomik hale getirebileceğini keşfedin. The Work Now Within Reach Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical. AI OpenAI Model",
-      "title_original": "The Work Now Within Reach",
-      "summary_original": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "published_display": "2026-09-08",
-      "id": "207b2125639b"
     },
     {
       "category": "robotik",
@@ -650,26 +650,6 @@
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
       "id": "bf6b46c1653c"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com",
-      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-08-21T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
-      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
-      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
-      "published_display": "2026-08-21",
-      "id": "8fc2aac65cb9"
     },
     {
       "category": "kamera",
