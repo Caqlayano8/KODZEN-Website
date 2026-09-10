@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T17:29:51Z",
-  "total_posts": 29,
+  "updated_at": "2026-09-10T21:31:19Z",
+  "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 2,
-    "kamera": 3
+    "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma",
+      "summary": "Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-10T21:31:19Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter... GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter... GitHub Dev Platform",
+      "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "summary_original": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter...",
+      "published_display": "2026-09-10",
+      "id": "a7b7ae8f55d0"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite",
-      "summary": "Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası...",
+      "summary": "Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, tahmini iş akışı maliyetini düşürürken değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası...",
       "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası... Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project... GitHub Dev Platform",
+      "keywords": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, tahmini iş akışı maliyetini düşürürken değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası... Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project... GitHub Dev Platform",
       "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "summary_original": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project...",
       "published_display": "2026-09-04",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım!",
-      "summary": "Döngü mühendisliğinden koşum takımlarına, takımlara ve açık ağırlıklara kadar GitHub Podcast, geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilini çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü...",
+      "summary": "GitHub Podcast'i, döngü mühendisliğinden koşum takımlarına, ekiplere ve açık ağırlıklara kadar geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilinin kodunu çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü...",
       "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,31 +125,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! Döngü mühendisliğinden koşum takımlarına, takımlara ve açık ağırlıklara kadar GitHub Podcast, geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilini çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
+      "keywords": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! GitHub Podcast'i, döngü mühendisliğinden koşum takımlarına, ekiplere ve açık ağırlıklara kadar geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilinin kodunu çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
       "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
       "summary_original": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared...",
       "published_display": "2026-09-02",
       "id": "1c647c9c8cfc"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiriyoruz?",
-      "summary": "Daha kısa çıktıların neden daha pahalıya mal olabileceği ve GitHub Copilot'un kodlama görevinin tamamında boşa giden işleri nasıl azalttığı. Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiririz yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-02T18:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiriyoruz? Daha kısa çıktıların neden daha pahalıya mal olabileceği ve GitHub Copilot'un kodlama görevinin tamamında boşa giden işleri nasıl azalttığı. Görev kalitesinden ödün vermeden yapay zeka kodlamasını nasıl daha uygun maliyetli hale getiririz yazısı ilk olarak GitHub Blogunda göründü. How we make AI coding more cost efficient without sacrificing task quality Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
-      "summary_original": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
-      "published_display": "2026-09-02",
-      "id": "6921a3839b6a"
     },
     {
       "category": "ai",
@@ -234,9 +234,9 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "API'de GPT‑Live‑1 ile daha doğal ses deneyimleri oluşturun",
-      "summary": "GPT‑Live‑1, daha güçlü talimat takibi, özel sesler ve telefon desteğiyle doğal, tam çift yönlü sesli konuşmaları API'ye getirir.",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "title": "Agents API'ye Giriş",
+      "summary": "Düzenleme, uzun süreli oturumlar ve araç kullanımı için Codex donanımı tarafından desteklenen yönetilen bir hizmet olan Agents API ile bulut aracıları oluşturun ve başlatın.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
       "image_url": null,
       "source": "OpenAI News",
       "published_at": "2026-09-10T00:00:00Z",
@@ -245,11 +245,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "API'de GPT‑Live‑1 ile daha doğal ses deneyimleri oluşturun GPT‑Live‑1, daha güçlü talimat takibi, özel sesler ve telefon desteğiyle doğal, tam çift yönlü sesli konuşmaları API'ye getirir. Build more natural voice experiences with GPT‑Live‑1 in the API GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support. AI OpenAI Model",
-      "title_original": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary_original": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "keywords": "Agents API'ye Giriş Düzenleme, uzun süreli oturumlar ve araç kullanımı için Codex donanımı tarafından desteklenen yönetilen bir hizmet olan Agents API ile bulut aracıları oluşturun ve başlatın. Introducing the Agents API Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use. AI OpenAI Model",
+      "title_original": "Introducing the Agents API",
+      "summary_original": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "published_display": "2026-09-10",
-      "id": "6dd9038b6264"
+      "id": "37c67fd1db42"
     },
     {
       "category": "robotik",
@@ -294,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3lyT0Z6M0tXMlAwcFk5dVFGcm5pb0FId0dEZWhQd09aSlZsTjhhX2FSY0NRMHV4Qjg3Y2gzc1JPbTNzTG82OWNDWWZIbk9VREQ5QXJyWlRoYXUyMzdQRExiX2ZfazlHb3pIQUJhRlEzcFBaa0p2RWNVcnZ4THRTTzEyMHdqSVZUTHVocmY2XzFsbWRpekV6ajZaWWtFQVRzR0UzV0FGWXpjMUdtR3VUazY3blQ4QmhyS2dWWVJtdE1RWXBmWEJxV0JiMFJSQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org",
       "published_display": "2026-09-09",
-      "id": "aa843b91bc33"
+      "id": "d141baaf51d3"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Meltio, endüstriyel metal 3D baskı için ABD'de monte edilen robot hücresini piyasaya sürüyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Meltio, endüstriyel metal 3D baskı için ABD'de monte edilen robot hücresini piyasaya sürüyor Robotik ve Otomasyon Haberleri",
+      "title": "Meltio, endüstriyel metal 3D baskı için ABD'de monte edilen robot hücresini piyasaya sürüyor - roboticsandautomationnews.com",
+      "summary": "Meltio, endüstriyel metal 3D baskı için ABD'de monte edilen robot hücresini piyasaya sürüyor roboticsandautomationnews.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHhSUzM3cFc3TENzb29hNVFlUG5xNy1tUjREX2FOaEtpNl9peGtCR0VXbmlxZG05TjBLcF9SS2xMVzNBNW1vdmJ5dkdJVHNEV29oYUltZU05bjg5a2dPMGdtcVh3amxjYldiQnVYQ1BCNTBWZWg4SW9sM2gtZVdjUmVPREVsTnAwc25KLVRPb3ZWSUpyT1BWWGR0eEhzZWJ2MlVkUEVDbV8zRVRUYXpiajl3eHctbzZVNVNBendJcE5oNV9GVGNRVw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Meltio, endüstriyel metal 3D baskı için ABD'de monte edilen robot hücresini piyasaya sürüyor - Robotik ve Otomasyon Haberleri Meltio, endüstriyel metal 3D baskı için ABD'de monte edilen robot hücresini piyasaya sürüyor Robotik ve Otomasyon Haberleri Meltio launches US-assembled robot cell for industrial metal 3D printing - Robotics & Automation News Meltio launches US-assembled robot cell for industrial metal 3D printing Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Meltio launches US-assembled robot cell for industrial metal 3D printing - Robotics & Automation News",
-      "summary_original": "Meltio launches US-assembled robot cell for industrial metal 3D printing Robotics & Automation News",
+      "keywords": "Meltio, endüstriyel metal 3D baskı için ABD'de monte edilen robot hücresini piyasaya sürüyor - roboticsandautomationnews.com Meltio, endüstriyel metal 3D baskı için ABD'de monte edilen robot hücresini piyasaya sürüyor roboticsandautomationnews.com Meltio launches US-assembled robot cell for industrial metal 3D printing - roboticsandautomationnews.com Meltio launches US-assembled robot cell for industrial metal 3D printing roboticsandautomationnews.com Robotics Automation Industry",
+      "title_original": "Meltio launches US-assembled robot cell for industrial metal 3D printing - roboticsandautomationnews.com",
+      "summary_original": "Meltio launches US-assembled robot cell for industrial metal 3D printing roboticsandautomationnews.com",
       "published_display": "2026-09-09",
-      "id": "f016b21bf76c"
+      "id": "87c3c4ac262e"
     },
     {
       "category": "robotik",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -550,26 +550,6 @@
       "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
       "id": "dab0bd92473a"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-08-21T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
-      "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
-      "published_display": "2026-08-21",
-      "id": "260fa5b969f0"
     },
     {
       "category": "kamera",
