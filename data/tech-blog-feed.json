@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-10T16:00:00Z",
+  "updated_at": "2026-09-10T17:29:51Z",
   "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım!",
-      "summary": "GitHub Podcast'i, döngü mühendisliğinden koşum takımlarına, ekiplere ve açık ağırlıklara kadar geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilinin kodunu çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü...",
+      "summary": "Döngü mühendisliğinden koşum takımlarına, takımlara ve açık ağırlıklara kadar GitHub Podcast, geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilini çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü...",
       "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! GitHub Podcast'i, döngü mühendisliğinden koşum takımlarına, ekiplere ve açık ağırlıklara kadar geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilinin kodunu çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
+      "keywords": "Yeni AI dilini çözüyoruz: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! Döngü mühendisliğinden koşum takımlarına, takımlara ve açık ağırlıklara kadar GitHub Podcast, geliştirici konuşmalarında ortaya çıkan yapay zeka terimlerini ayrıntılı olarak açıklıyor. Yeni AI dilini çözen yazı: Döngüler, koşum takımları, takımlar, tepe tırmanışı… aman tanrım! göründü... Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared... GitHub Dev Platform",
       "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
       "summary_original": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared...",
       "published_display": "2026-09-02",
@@ -194,6 +194,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Finansal Hizmetler için ChatGPT ile Tanışın",
+      "summary": "Araştırma, modelleme ve müşteriye hazır materyaller için yerleşik finansal veriler ile GPT-6 Astra'yı birleştiren Finansal Hizmetler için ChatGPT ile tanışın.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-10T07:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Finansal Hizmetler için ChatGPT ile Tanışın Araştırma, modelleme ve müşteriye hazır materyaller için yerleşik finansal veriler ile GPT-6 Astra'yı birleştiren Finansal Hizmetler için ChatGPT ile tanışın. Introducing ChatGPT for Financial Services Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials. AI OpenAI Model",
+      "title_original": "Introducing ChatGPT for Financial Services",
+      "summary_original": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "published_display": "2026-09-10",
+      "id": "abc7d236b4d4"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Federal, eyalet, yerel ve kabile hükümetleri için yapay zeka erişimini ve siber savunmayı genişletme",
       "summary": "OpenAI ve GSA, uygun federal, eyalet, yerel ve kabile hükümetlerine 0 ABD doları lisans ücreti, %50 kullanım indirimi ve genişletilmiş siber savunma desteği sunacak.",
       "url": "https://openai.com/index/expanding-ai-access-us-government",
@@ -232,24 +252,24 @@
       "id": "6dd9038b6264"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Paul Christiano OpenAI Vakfı Yönetim Kurulu'na katıldı",
-      "summary": "Paul Christiano, OpenAI Vakfı Yönetim Kuruluna ve Güvenlik ve Güvenlik Komitesine katılarak yapay zeka uyumu, güvenliği ve standartları konusunda deneyim kazandırıyor.",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - americanmachinist.com",
+      "summary": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi americanmachinist.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMmR3SmFxb3Fvb3ppcEJuMFlDQU0tcWM3Uy1RNkFUM0UwWkw4aFRLMzJRRkNZUmxldjRTeG1XUWFHS1NHeXBsNWtEVmdVLUY0SThZQmU5anhPNDJCWFZTSVpNM2c0UFUxVkhYamRSRUd3S2VOT2x5YkZBX3k4aEE4NzlCX3p6TGhMUEJwR2FOOERqcVUzRGU1LWZCMEtrWVJGRDNPd0NZZ1F4bGpsR1puSDFPRW1ad3ZYaXRRTDdqUU5hemxYalBCTWNIYUkybU1zVWRPcXpET09fTUtseEpQdkpJdEkwc0ZxR1hv?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-09T17:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-09-10T17:29:51Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Paul Christiano OpenAI Vakfı Yönetim Kurulu'na katıldı Paul Christiano, OpenAI Vakfı Yönetim Kuruluna ve Güvenlik ve Güvenlik Komitesine katılarak yapay zeka uyumu, güvenliği ve standartları konusunda deneyim kazandırıyor. Paul Christiano joins OpenAI Foundation Board Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards. AI OpenAI Model",
-      "title_original": "Paul Christiano joins OpenAI Foundation Board",
-      "summary_original": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "published_display": "2026-09-09",
-      "id": "98553f378db1"
+      "keywords": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - americanmachinist.com Robotik, Otomasyon ve Akıllı Üretim Teknolojisi americanmachinist.com Robotics, Automation, and Intelligent Manufacturing Tech - americanmachinist.com Robotics, Automation, and Intelligent Manufacturing Tech americanmachinist.com Robotics Automation Industry",
+      "title_original": "Robotics, Automation, and Intelligent Manufacturing Tech - americanmachinist.com",
+      "summary_original": "Robotics, Automation, and Intelligent Manufacturing Tech americanmachinist.com",
+      "published_display": "2026-09-10",
+      "id": "e651d44442fa"
     },
     {
       "category": "robotik",
@@ -314,28 +334,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Mucize Otomasyonun Somutlaştırılmış Yapay Zeka Robotik Endüstriyel Projesi Temel Atıyor - Gasgoo",
-      "summary": "Mucize Otomasyonun Somutlaştırılmış Yapay Zeka Robotik Endüstriyel Projesi Çığır Açıyor Gasgoo",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFlfN0UtZ19EMEp4dVozLUhHVG5WT01kSGoyMWRlU01HWnBoQnRmenlhQ0VOeU11dnVYdDd0aDhJMzY5TjRlMUJPSEhtWnU4ZVU5QUM4S0FpLUdsMkN0V1JfMExRQkZXanNNaTZiSVhRZE9fV09iQ0h3dVF6eWNUT09ZLXpHWV9HMEJiOWcwY3VlV1pHTWpxR1pCSHhyUTBlN2hHeW5sT2poQnAwbXl0NVkwSEdnNXBQcmZLdXh1Q2Mtd29EY0h0QTZqaG9jUQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-09T06:58:17Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Mucize Otomasyonun Somutlaştırılmış Yapay Zeka Robotik Endüstriyel Projesi Temel Atıyor - Gasgoo Mucize Otomasyonun Somutlaştırılmış Yapay Zeka Robotik Endüstriyel Projesi Çığır Açıyor Gasgoo Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground - Gasgoo Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground Gasgoo Robotics Automation Industry",
-      "title_original": "Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground - Gasgoo",
-      "summary_original": "Miracle Automation Embodied AI Robotics Industrial Project Breaks Ground Gasgoo",
-      "published_display": "2026-09-09",
-      "id": "5c09a5b31ebc"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu - businesswire.com",
-      "summary": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu businesswire.com",
+      "title": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu - Business Wire",
+      "summary": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyon İş Bağlantısını Geliştirmek İçin Stratejik İşbirliğini Duyurdu",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcFkyaFhpX0ZmalB3Q01PemhMUklwelpKQ1plWkZ0OHJuREhxSDh2ZkFkb1dVSVhpM1VJR3dfOEpSNnhBUVVmRWFZYWFGZktzcUxSOXhfdDU5anJpZ1VJekI4WEY4OVZrN3dSVzZXZk4zNzN6U2hsNmtjTEZYQVFKWUZVQllwTnpabkQ2TlN2dzN2MUZkeUpNRmhwdU92MmhJUFFXRURxazd6dEdrQlBlaUswMm10VmI2NHV5eC1UTXFiMmMwSWMxY0dKYXRGb1FiWmdRWEZIS1pGU0t2bGh4Sm4yYlhROW5sN1lvSXB0em1FMTlq?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu - businesswire.com Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu businesswire.com Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - businesswire.com Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation businesswire.com Robotics Automation Industry",
-      "title_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - businesswire.com",
-      "summary_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation businesswire.com",
+      "keywords": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonu Geliştirmek İçin Stratejik İşbirliğini Duyurdu - Business Wire Palladyne AI ve FANUC America, Akıllı Robotik Otomasyon İş Bağlantısını Geliştirmek İçin Stratejik İşbirliğini Duyurdu Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire Robotics Automation Industry",
+      "title_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation - Business Wire",
+      "summary_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire",
       "published_display": "2026-09-08",
-      "id": "cdaf3b9b7315"
+      "id": "eadf3fce6b6d"
     },
     {
       "category": "robotik",
@@ -535,7 +535,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
-      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,7 +545,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
       "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
@@ -554,8 +554,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
+      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,16 +565,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
-      "id": "bf6b46c1653c"
+      "id": "260fa5b969f0"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com",
       "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
       "image_url": null,
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
       "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
-      "id": "2dd56e341c6e"
+      "id": "3e495a0121de"
     }
   ]
 }
