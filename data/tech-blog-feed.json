@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-11T18:26:10Z",
-  "total_posts": 28,
+  "updated_at": "2026-09-14T00:00:00Z",
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 2,
-    "kamera": 2
+    "kamera": 6
   },
   "posts": [
     {
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Perplexity, uçtan uca sistemler konusunda GPT-6 Astra'ya güveniyor",
+      "summary": "Perplexity, iletişim yazmak, yazılımı değiştirmek ve üretim sistemlerini izlemek için Astra'yı kullanıyor ve önceki modellere göre çok daha az sıklıkta kontrol yapıyor.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-14T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Perplexity, uçtan uca sistemler konusunda GPT-6 Astra'ya güveniyor Perplexity, iletişim yazmak, yazılımı değiştirmek ve üretim sistemlerini izlemek için Astra'yı kullanıyor ve önceki modellere göre çok daha az sıklıkta kontrol yapıyor. Perplexity trusts GPT-6 Astra with end-to-end systems Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models. AI OpenAI Model",
+      "title_original": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary_original": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "published_display": "2026-09-14",
+      "id": "2e432f6e54e3"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor",
+      "summary": "GPT‑6 Astra, mühendislerin daha az kodu incelemesine ve daha fazlasını göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor.",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-11T16:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor GPT‑6 Astra, mühendislerin daha az kodu incelemesine ve daha fazlasını göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor. Cognition helps Devin test its own work with GPT‑6 Astra GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. AI OpenAI Model",
+      "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary_original": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "published_display": "2026-09-11",
+      "id": "7c0d442af295"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "1 milyardan fazla ChatGPT kullanıcısına hizmet verecek şekilde çevrimiçi depolamayı hızla ölçeklendiriyor",
       "summary": "OpenAI'nin Habitat'ı bir Python kitaplığından 1 milyar ChatGPT kullanıcısına ve saniyede 22 milyon isteğe hizmet veren küresel olarak dağıtılmış bir depolama platformuna nasıl dönüştürdüğünü öğrenin.",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -212,50 +252,10 @@
       "id": "6db19335d36d"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Artık herkes verileri işe koyabilir",
-      "summary": "ChatGPT Work'teki Veri aracısıyla tanışın. Doğal dili kullanarak yapay zeka ile şirket verilerini bağlayın, içgörüleri ortaya çıkarın ve etkileşimli kontrol panelleri oluşturun.",
-      "url": "https://openai.com/index/put-data-to-work",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-10T15:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Artık herkes verileri işe koyabilir ChatGPT Work'teki Veri aracısıyla tanışın. Doğal dili kullanarak yapay zeka ile şirket verilerini bağlayın, içgörüleri ortaya çıkarın ve etkileşimli kontrol panelleri oluşturun. Now everyone can put data to work Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language. AI OpenAI Model",
-      "title_original": "Now everyone can put data to work",
-      "summary_original": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "published_display": "2026-09-10",
-      "id": "cddd4c74f565"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Finansal Hizmetler için ChatGPT ile Tanışın",
-      "summary": "Araştırma, modelleme ve müşteriye hazır materyaller için yerleşik finansal veriler ile GPT-6 Astra'yı birleştiren Finansal Hizmetler için ChatGPT ile tanışın.",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-10T07:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Finansal Hizmetler için ChatGPT ile Tanışın Araştırma, modelleme ve müşteriye hazır materyaller için yerleşik finansal veriler ile GPT-6 Astra'yı birleştiren Finansal Hizmetler için ChatGPT ile tanışın. Introducing ChatGPT for Financial Services Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials. AI OpenAI Model",
-      "title_original": "Introducing ChatGPT for Financial Services",
-      "summary_original": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "published_display": "2026-09-10",
-      "id": "abc7d236b4d4"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - americanmachinist.com",
-      "summary": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi americanmachinist.com",
+      "title": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - Amerikalı Makinist",
+      "summary": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi Amerikalı Makinist",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMmR3SmFxb3Fvb3ppcEJuMFlDQU0tcWM3Uy1RNkFUM0UwWkw4aFRLMzJRRkNZUmxldjRTeG1XUWFHS1NHeXBsNWtEVmdVLUY0SThZQmU5anhPNDJCWFZTSVpNM2c0UFUxVkhYamRSRUd3S2VOT2x5YkZBX3k4aEE4NzlCX3p6TGhMUEJwR2FOOERqcVUzRGU1LWZCMEtrWVJGRDNPd0NZZ1F4bGpsR1puSDFPRW1ad3ZYaXRRTDdqUU5hemxYalBCTWNIYUkybU1zVWRPcXpET09fTUtseEpQdkpJdEkwc0ZxR1hv?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,11 +265,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - americanmachinist.com Robotik, Otomasyon ve Akıllı Üretim Teknolojisi americanmachinist.com Robotics, Automation, and Intelligent Manufacturing Tech - americanmachinist.com Robotics, Automation, and Intelligent Manufacturing Tech americanmachinist.com Robotics Automation Industry",
-      "title_original": "Robotics, Automation, and Intelligent Manufacturing Tech - americanmachinist.com",
-      "summary_original": "Robotics, Automation, and Intelligent Manufacturing Tech americanmachinist.com",
+      "keywords": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - Amerikalı Makinist Robotik, Otomasyon ve Akıllı Üretim Teknolojisi Amerikalı Makinist Robotics, Automation, and Intelligent Manufacturing Tech - American Machinist Robotics, Automation, and Intelligent Manufacturing Tech American Machinist Robotics Automation Industry",
+      "title_original": "Robotics, Automation, and Intelligent Manufacturing Tech - American Machinist",
+      "summary_original": "Robotics, Automation, and Intelligent Manufacturing Tech American Machinist",
       "published_display": "2026-09-10",
-      "id": "e651d44442fa"
+      "id": "82f38dbdc5ad"
     },
     {
       "category": "robotik",
@@ -554,22 +554,102 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
-      "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
+      "title": "Hollandalı kurumlar, Rus siber casusluk kampanyasının Avrupa ve Ukrayna'daki güvenli olmayan IP kameralardan yararlandığını söylüyor - Endüstriyel Siber",
+      "summary": "Hollanda ajansları, Endüstriyel Siber Rus siber casusluk kampanyasının Avrupa ve Ukrayna'daki güvenli olmayan IP kameralardan yararlandığını söylüyor",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMUEzZmFXRzhQaFhkbVhXQ2duV2MtZXBFWHZTQWFWeXVIRC1lV1FISEIwcWdSTHdCdFhGTkRIZm8xaUVlRXdacWxnNXEzalk5ZmhxMDBXQWQ5TlFWTk92c0RJeWM1X3lXN0pfYkVtZTg4OUZSR3BrWV9MaVduWnlTd2NOX0ZfT2QyZzVzekYzMTNjQ0t1OUJtYVpWdGNyQVd3OXpCX0tHREY3OXBrOE9iUm9DVGpaZ3JyLXN4ZVFRcUgtTTU1RW9Qb1pVeGtVeXl4dTd5WXMyOFMyeG5ESHA0WnpFUlRJdGpGQVE?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-08-17T07:00:00Z",
+      "published_at": "2026-07-22T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
-      "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
-      "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
-      "published_display": "2026-08-17",
-      "id": "2dd56e341c6e"
+      "keywords": "Hollandalı kurumlar, Rus siber casusluk kampanyasının Avrupa ve Ukrayna'daki güvenli olmayan IP kameralardan yararlandığını söylüyor - Endüstriyel Siber Hollanda ajansları, Endüstriyel Siber Rus siber casusluk kampanyasının Avrupa ve Ukrayna'daki güvenli olmayan IP kameralardan yararlandığını söylüyor Russian cyber espionage campaign exploits insecure IP cameras in Europe and Ukraine, Dutch agencies say - Industrial Cyber Russian cyber espionage campaign exploits insecure IP cameras in Europe and Ukraine, Dutch agencies say Industrial Cyber IP Camera Video Surveillance",
+      "title_original": "Russian cyber espionage campaign exploits insecure IP cameras in Europe and Ukraine, Dutch agencies say - Industrial Cyber",
+      "summary_original": "Russian cyber espionage campaign exploits insecure IP cameras in Europe and Ukraine, Dutch agencies say Industrial Cyber",
+      "published_display": "2026-07-22",
+      "id": "5ccc2d6bbb6f"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews",
+      "summary": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RNk9NNUdtbThFQ3luZGEtRXhxVXR4SWVuMGZuRGVXbTh0MEYxMm9hNzhfaXgxRHpORGYzbjlCTllOV1Q1WF92TFVEQ1Y1bTR6QUtBZGI3MUxUVTI0OGdhbXpkZ0RlZmNnR1FUeldPZTI1RnpnMmNrTVZn0gF_QVVfeXFMT0czeWtvZWFiVjE0RXFDS1pEUS1wWG1WTTlVMi1wNnVnS1llV2x3NzgtcDlnMXZWbENNemotR1hLV0pJTXpTdnJnMGtWb0paX3p4dF9GdDFWOFhqdEdfNF9rcnF2NGZKZGVkM29WdlZFTXhjWU9rS3hBSTlqMzZXcw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-22T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi - CyberSecurityNews Rus İstihbaratı Ukrayna'ya Silah Teslimatını İzlemek İçin IP Kameraları Ele Geçirdi CyberSecurityNews Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - CyberSecurityNews Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine - CyberSecurityNews",
+      "summary_original": "Russian Intelligence Hijacks IP Cameras to Monitor Weapons Deliveries to Ukraine CyberSecurityNews",
+      "published_display": "2026-07-22",
+      "id": "23b142dc3456"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - Hacker News",
+      "summary": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjlxSHAtNnkzZ3BESHJKb0xDVXlocTN3VEJmV2lmcUw3YVFWN3kxTFhpZlJpOWcySG1sSUZhOFkwY3FRLU1pTU8xbDV1TlpQWFJwVkZMd3JUTjBUU3c5dlBZdHg0VDAyVVQ1aU9ENGtWRVVJbUY0Mk5jM1JkVWtab19B?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-07-20T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackledi - Hacker News Rus İstihbaratı, NATO Devletleri ve Ukrayna'daki Askeri Lojistiği Gözetlemek İçin IP Kameraları Hackliyor Hacker Haberleri Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News IP Camera Video Surveillance",
+      "title_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine - The Hacker News",
+      "summary_original": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine The Hacker News",
+      "published_display": "2026-07-20",
+      "id": "fa827cf1e911"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider",
+      "summary": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBSnRaVmxYZXEyNWhEYjRZS01ERl9qTFJDOXRaYlNsMUtVWUYxVG9nLTZXVzg5M05zVXNUdmJMazdlUWp0VG5kbmozcjE5ZHFhb20ySVRVN1hTWV9sMENFU0xLOVg5b3JWeGc?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-06-30T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri - SNS Insider Tehdit Algılamada Dönüşüm Sağlayan En İyi Güvenlik Kamerası Şirketleri SNS Insider Top Security Camera Companies Transforming Threat Detection - SNS Insider Top Security Camera Companies Transforming Threat Detection SNS Insider IP Camera Video Surveillance",
+      "title_original": "Top Security Camera Companies Transforming Threat Detection - SNS Insider",
+      "summary_original": "Top Security Camera Companies Transforming Threat Detection SNS Insider",
+      "published_display": "2026-06-30",
+      "id": "6457418f53ed"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak - cyberpress.org",
+      "summary": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak cyberpress.org",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzUmhCck9YUW1uUFV6dENPRjQ0MDkwRDRMaHlxX2VqNko2MDJoczBCWVhMUWJ0SXBoVU5RU3U4N2hhd192OFRBT2E1WTJTOHA3V0FTQ0pHTHEwRVNodV9ScXNzcVLSAWRBVV95cUxQc1JoQnJPWFFtblBVenRDT0Y0NDA5MEQ0TGh5cV9lajZKNjAyaHMwQllYTFFidElwaFVOUVN1ODdoYXdfdjhUQU9hNVkyUzhwN1dBU0NKR0xxMEVTaHVfUnFzc3FS?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-03-30T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak - cyberpress.org Hindistan Nisan'dan İtibaren Hikvision, TP-Link ve CCTV Ürün Satışlarını Yasaklayacak cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April - cyberpress.org India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April cyberpress.org IP Camera Video Surveillance",
+      "title_original": "India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April - cyberpress.org",
+      "summary_original": "India to Ban Hikvision, TP-Link, and CCTV Product Sales Starting April cyberpress.org",
+      "published_display": "2026-03-30",
+      "id": "7707613b3ab2"
     }
   ]
 }
