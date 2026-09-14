@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T00:00:00Z",
+  "updated_at": "2026-09-14T16:00:00Z",
   "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "DevFest geri döndü",
+      "summary": "DevFest 2026 geri döndü ve ajans yapay zeka çağında oluşturmak, güvenliğini sağlamak ve ölçeklendirmek için 800'den fazla küresel etkinlikten birine nasıl bağlanabileceğinizi burada bulabilirsiniz.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-14T16:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "DevFest geri döndü DevFest 2026 geri döndü ve ajans yapay zeka çağında oluşturmak, güvenliğini sağlamak ve ölçeklendirmek için 800'den fazla küresel etkinlikten birine nasıl bağlanabileceğinizi burada bulabilirsiniz. DevFest is back DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era. AI Product Google",
+      "title_original": "DevFest is back",
+      "summary_original": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "published_display": "2026-09-14",
+      "id": "a2898fa83e50"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Fyxer, insanların güvendiği bir yapay zeka yönetici asistanını nasıl oluşturdu?",
+      "summary": "Fyxer, gelen kutularını düzenlemek ve e-posta taslaklarını her kullanıcının sesine göre düzenlemek için OpenAI modellerini, ince ayarı, belleği ve gerçek kullanıcı geri bildirimini kullanır.",
+      "url": "https://openai.com/index/fyxer",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-14T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Fyxer, insanların güvendiği bir yapay zeka yönetici asistanını nasıl oluşturdu? Fyxer, gelen kutularını düzenlemek ve e-posta taslaklarını her kullanıcının sesine göre düzenlemek için OpenAI modellerini, ince ayarı, belleği ve gerçek kullanıcı geri bildirimini kullanır. How Fyxer built an AI executive assistant people trust Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice. AI OpenAI Model",
+      "title_original": "How Fyxer built an AI executive assistant people trust",
+      "summary_original": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "published_display": "2026-09-14",
+      "id": "5519e2f7eb66"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Perplexity, uçtan uca sistemler konusunda GPT-6 Astra'ya güveniyor",
       "summary": "Perplexity, iletişim yazmak, yazılımı değiştirmek ve üretim sistemlerini izlemek için Astra'yı kullanıyor ve önceki modellere göre çok daha az sıklıkta kontrol yapıyor.",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -154,8 +194,8 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Cognition, Devin'in kendi çalışmasını GPT‑6 Astra ile test etmesine yardımcı oluyor",
-      "summary": "GPT‑6 Astra, mühendislerin daha az kod incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor.",
+      "title": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor",
+      "summary": "GPT‑6 Astra, mühendislerin daha az kodu incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor.",
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,11 +205,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Cognition, Devin'in kendi çalışmasını GPT‑6 Astra ile test etmesine yardımcı oluyor GPT‑6 Astra, mühendislerin daha az kod incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor. Cognition helps Devin test its own work with GPT‑6 Astra GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. AI OpenAI Model",
+      "keywords": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor GPT‑6 Astra, mühendislerin daha az kodu incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor. Cognition helps Devin test its own work with GPT‑6 Astra GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. AI OpenAI Model",
       "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "summary_original": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "published_display": "2026-09-11",
-      "id": "d09e5c55a089"
+      "id": "7c0d442af295"
     },
     {
       "category": "ai",
@@ -212,50 +252,10 @@
       "id": "7a1ce1c40c95"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Arama ile bir sonraki büyük yarışınıza hazırlanmanın 3 yolu",
-      "summary": "Arama, kayıt uyarıları, özel eğitim planları ve daha fazlasıyla koşucuların yarış gününe hazırlanmalarına yardımcı olabilir.",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-10T16:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Arama ile bir sonraki büyük yarışınıza hazırlanmanın 3 yolu Arama, kayıt uyarıları, özel eğitim planları ve daha fazlasıyla koşucuların yarış gününe hazırlanmalarına yardımcı olabilir. 3 ways to prep for your next big race with Search Search can help runners get race-day ready with registration alerts, tailored training plans, and more. AI Product Google",
-      "title_original": "3 ways to prep for your next big race with Search",
-      "summary_original": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "published_display": "2026-09-10",
-      "id": "090ee73886b7"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Bir araştırmacı yeni antimikrobiyal molekülleri aramak için Codex ve ChatGPT'yi nasıl kullanıyor?",
-      "summary": "César de la Fuente'nin laboratuvarı, ilaca dirençli enfeksiyonlarla savaşacak antimikrobiyal adayları bulmak için yaşayan ve soyu tükenmiş genomları araştırmak amacıyla Codex ve ChatGPT'yi kullanıyor.",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-10T16:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Bir araştırmacı yeni antimikrobiyal molekülleri aramak için Codex ve ChatGPT'yi nasıl kullanıyor? César de la Fuente'nin laboratuvarı, ilaca dirençli enfeksiyonlarla savaşacak antimikrobiyal adayları bulmak için yaşayan ve soyu tükenmiş genomları araştırmak amacıyla Codex ve ChatGPT'yi kullanıyor. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections. AI OpenAI Model",
-      "title_original": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary_original": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "published_display": "2026-09-10",
-      "id": "6db19335d36d"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "IMTS 2026 Konferansı: Kesinti Süresini Ortadan Kaldırmak: Çevrimdışı Robot Programlama Yüksek Karışımlı Otomasyonu Nasıl Sağlar - aerospacemanufacturinganddesign.com",
-      "summary": "IMTS 2026 Konferansı: Kesinti Süresini Ortadan Kaldırmak: Çevrimdışı Robot Programlama Yüksek Karışımlı Otomasyonu Nasıl Sağlar? aerospacemanufacturinganddesign.com",
+      "title": "IMTS 2026 Konferansı: Kesinti Süresini Ortadan Kaldırmak: Çevrimdışı Robot Programlama Yüksek Karışımlı Otomasyonu Nasıl Sağlar - Havacılık ve Uzay Üretimi ve Tasarımı",
+      "summary": "IMTS 2026 Konferansı: Kesinti Süresini Ortadan Kaldırmak: Çevrimdışı Robot Programlama, Yüksek Karışımlı Otomasyon Havacılık ve Uzay Üretimi ve Tasarımını Nasıl Sağlar?",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRVp6NmhMbnhpZjFtNjg3blZPYVZqbXB4alkwaktYSEJYMmdCV1F6NlFVeWhpUU5mWUlIU0ZJd05yaHF3eV9CdW5ycTdYbnpPQl9sSXV2ZkZaeXVVWFF4alFkYjI4alZlU1Rja05XcVJoRDcwUl9WczdHUWtqVlcwT2U3MkJOZlZta1BzdVFnbV9ha0xDaThSanAzTWVHWVF3eEVaR3hWeVEtazhrQ1FMTFBNNUtKRWg0bDNiY3hBNDdBandNZXY3NFlYVEhndl8ycGFOeDR6VGNUdnc0aTRDN2tHN0NEd1l2?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,11 +265,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "IMTS 2026 Konferansı: Kesinti Süresini Ortadan Kaldırmak: Çevrimdışı Robot Programlama Yüksek Karışımlı Otomasyonu Nasıl Sağlar - aerospacemanufacturinganddesign.com IMTS 2026 Konferansı: Kesinti Süresini Ortadan Kaldırmak: Çevrimdışı Robot Programlama Yüksek Karışımlı Otomasyonu Nasıl Sağlar? aerospacemanufacturinganddesign.com IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - aerospacemanufacturinganddesign.com IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation aerospacemanufacturinganddesign.com Robotics Automation Industry",
-      "title_original": "IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - aerospacemanufacturinganddesign.com",
-      "summary_original": "IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation aerospacemanufacturinganddesign.com",
+      "keywords": "IMTS 2026 Konferansı: Kesinti Süresini Ortadan Kaldırmak: Çevrimdışı Robot Programlama Yüksek Karışımlı Otomasyonu Nasıl Sağlar - Havacılık ve Uzay Üretimi ve Tasarımı IMTS 2026 Konferansı: Kesinti Süresini Ortadan Kaldırmak: Çevrimdışı Robot Programlama, Yüksek Karışımlı Otomasyon Havacılık ve Uzay Üretimi ve Tasarımını Nasıl Sağlar? IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - Aerospace Manufacturing and Design IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation Aerospace Manufacturing and Design Robotics Automation Industry",
+      "title_original": "IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - Aerospace Manufacturing and Design",
+      "summary_original": "IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation Aerospace Manufacturing and Design",
       "published_display": "2026-09-13",
-      "id": "87c3ec7b7772"
+      "id": "ea9295ea7520"
     },
     {
       "category": "robotik",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -535,7 +535,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
-      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,7 +545,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
       "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
