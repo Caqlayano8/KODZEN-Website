@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-15T13:00:00Z",
+  "updated_at": "2026-09-15T16:00:11Z",
   "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot SDK'sıyla röportaj koçu uygulaması oluşturun",
+      "summary": "Bir röportaj koçunun soru sormaktan daha fazlasını yapması gerekir. Bir özgeçmişi okuması, eksik bir yanıtı takip etmesi ve sonunda yararlı geri bildirim sağlamak için yeterli bağlamı kaydetmesi gerekir. Bu işin bir kısmı sohbettir. Bazıları aramayı gerektiriyor...",
+      "url": "https://devblogs.microsoft.com/blog/build-an-interview-coach-app-with-the-github-copilot-sdk/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-15T16:00:11Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "GitHub Copilot SDK'sıyla röportaj koçu uygulaması oluşturun Bir röportaj koçunun soru sormaktan daha fazlasını yapması gerekir. Bir özgeçmişi okuması, eksik bir yanıtı takip etmesi ve sonunda yararlı geri bildirim sağlamak için yeterli bağlamı kaydetmesi gerekir. Bu işin bir kısmı sohbettir. Bazıları aramayı gerektiriyor... Build an interview coach app with the GitHub Copilot SDK An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin... Microsoft Dev Cloud",
+      "title_original": "Build an interview coach app with the GitHub Copilot SDK",
+      "summary_original": "An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin...",
+      "published_display": "2026-09-15",
+      "id": "9c498cde7a77"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,64 @@
       "id": "31111add5af4"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birden fazla aracıyı çalıştırın",
-      "summary": "GitHub Copilot uygulamasında paralel aracıları nasıl çalıştıracağınızı öğrenin ve korkutucu hissetmeyi bırakıp güçlü hissetmeye başladığınız anı deneyimleyin. Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birkaç aracıyı çalıştırın yazısı ilk olarak GitHub'da göründü...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-03T16:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Herkes için her dilde yapay zeka",
+      "summary": "Dünyanın zengin, yaşayan dillerini tam olarak ifade edildikleri gibi anlayan modeller oluşturmak için geleneksel metin çevirisinin ötesine geçiyoruz.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-15T16:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Product",
+        "Google"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birden fazla aracıyı çalıştırın GitHub Copilot uygulamasında paralel aracıları nasıl çalıştıracağınızı öğrenin ve korkutucu hissetmeyi bırakıp güçlü hissetmeye başladığınız anı deneyimleyin. Yeni Başlayanlar için GitHub Copilot uygulaması: Aynı anda birkaç aracıyı çalıştırın yazısı ilk olarak GitHub'da göründü... GitHub Copilot app for Beginners: Run several agents at once Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub... GitHub Dev Platform",
-      "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
-      "summary_original": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub...",
-      "published_display": "2026-09-03",
-      "id": "ed87ba46b63b"
+      "keywords": "Herkes için her dilde yapay zeka Dünyanın zengin, yaşayan dillerini tam olarak ifade edildikleri gibi anlayan modeller oluşturmak için geleneksel metin çevirisinin ötesine geçiyoruz. AI for everyone in every language We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed. AI Product Google",
+      "title_original": "AI for everyone in every language",
+      "summary_original": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "published_display": "2026-09-15",
+      "id": "eeec133d79cc"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Bilimi hızlandırmak ve yaşamları iyileştirmek için yapay zeka oluşturma",
+      "summary": "Yapay zekanın gerçek ölçüsü kime yardım ettiğidir. İşte bugünün hayatlarını nasıl etkilediği. İleri teknolojinin olağanüstü ilerleme kaydetmeye yardımcı olabileceği kilit alanlara odaklanıyoruz…",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-15T16:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Bilimi hızlandırmak ve yaşamları iyileştirmek için yapay zeka oluşturma Yapay zekanın gerçek ölçüsü kime yardım ettiğidir. İşte bugünün hayatlarını nasıl etkilediği. İleri teknolojinin olağanüstü ilerleme kaydetmeye yardımcı olabileceği kilit alanlara odaklanıyoruz… Building AI to accelerate science and improve lives The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress … AI Product Google",
+      "title_original": "Building AI to accelerate science and improve lives",
+      "summary_original": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "published_display": "2026-09-15",
+      "id": "6300cbd8cd3c"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Toplumsal Etki için Yapay Zeka",
+      "summary": "Herkesin yapay zeka fırsatını paylaşabilmesini sağlamak için uzmanların ve yerel liderlerin yapay zeka buluşlarını nasıl kullandığını görmek için bu koleksiyonu keşfedin.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-15T16:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Toplumsal Etki için Yapay Zeka Herkesin yapay zeka fırsatını paylaşabilmesini sağlamak için uzmanların ve yerel liderlerin yapay zeka buluşlarını nasıl kullandığını görmek için bu koleksiyonu keşfedin. AI for Societal Impact Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI. AI Product Google",
+      "title_original": "AI for Societal Impact",
+      "summary_original": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "published_display": "2026-09-15",
+      "id": "fdf321997094"
     },
     {
       "category": "ai",
@@ -192,64 +252,24 @@
       "id": "a2898fa83e50"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Fyxer, insanların güvendiği bir yapay zeka yönetici asistanını nasıl oluşturdu?",
-      "summary": "Fyxer, gelen kutularını düzenlemek ve e-posta taslaklarını her kullanıcının sesine göre düzenlemek için OpenAI modellerini, ince ayarı, belleği ve gerçek kullanıcı geri bildirimini kullanır.",
-      "url": "https://openai.com/index/fyxer",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon - Almanya Ticaret ve Yatırım (GTAI)",
+      "summary": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon Almanya Ticaret ve Yatırım (GTAI)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUS0tMmJ5Y2o5dEZqWklISGZldDltdWFWdUk0SXpKM2dSbUZHOGFCS1M2cmdkNEZGSWhZbUQtWmVPSjdINFFwZUFOWGo4V2VScmFxaTdIRzdScU9uc19sbi1CaDk3M0MxdWNWdEtoY0lFN0c2OEVtazVFblhFT2h2dHFrakdpeG5reDVVcG9xdFdtZGREYjZ2dEtVREF3UkFZeUpTUmc0RQ?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-14T12:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-09-15T09:22:07Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Fyxer, insanların güvendiği bir yapay zeka yönetici asistanını nasıl oluşturdu? Fyxer, gelen kutularını düzenlemek ve e-posta taslaklarını her kullanıcının sesine göre düzenlemek için OpenAI modellerini, ince ayarı, belleği ve gerçek kullanıcı geri bildirimini kullanır. How Fyxer built an AI executive assistant people trust Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice. AI OpenAI Model",
-      "title_original": "How Fyxer built an AI executive assistant people trust",
-      "summary_original": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "published_display": "2026-09-14",
-      "id": "5519e2f7eb66"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Perplexity, uçtan uca sistemler konusunda GPT-6 Astra'ya güveniyor",
-      "summary": "Perplexity, iletişim yazmak, yazılımı değiştirmek ve üretim sistemlerini izlemek için Astra'yı kullanıyor ve önceki modellere göre çok daha az sıklıkta kontrol yapıyor.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-14T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Perplexity, uçtan uca sistemler konusunda GPT-6 Astra'ya güveniyor Perplexity, iletişim yazmak, yazılımı değiştirmek ve üretim sistemlerini izlemek için Astra'yı kullanıyor ve önceki modellere göre çok daha az sıklıkta kontrol yapıyor. Perplexity trusts GPT-6 Astra with end-to-end systems Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models. AI OpenAI Model",
-      "title_original": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary_original": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "published_display": "2026-09-14",
-      "id": "2e432f6e54e3"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor",
-      "summary": "GPT‑6 Astra, mühendislerin daha az kodu incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor.",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-11T16:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor GPT‑6 Astra, mühendislerin daha az kodu incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor. Cognition helps Devin test its own work with GPT‑6 Astra GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. AI OpenAI Model",
-      "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "summary_original": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "published_display": "2026-09-11",
-      "id": "7c0d442af295"
+      "keywords": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon - Almanya Ticaret ve Yatırım (GTAI) Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon Almanya Ticaret ve Yatırım (GTAI) Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation - Germany Trade & Invest (GTAI) Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation Germany Trade & Invest (GTAI) Robotics Automation Industry",
+      "title_original": "Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation - Germany Trade & Invest (GTAI)",
+      "summary_original": "Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation Germany Trade & Invest (GTAI)",
+      "published_display": "2026-09-15",
+      "id": "485c14b3c768"
     },
     {
       "category": "robotik",
@@ -314,8 +334,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3lyT0Z6M0tXMlAwcFk5dVFGcm5pb0FId0dEZWhQd09aSlZsTjhhX2FSY0NRMHV4Qjg3Y2gzc1JPbTNzTG82OWNDWWZIbk9VREQ5QXJyWlRoYXUyMzdQRExiX2ZfazlHb3pIQUJhRlEzcFBaa0p2RWNVcnZ4THRTTzEyMHdqSVZUTHVocmY2XzFsbWRpekV6ajZaWWtFQVRzR0UzV0FGWXpjMUdtR3VUazY3blQ4QmhyS2dWWVJtdE1RWXBmWEJxV0JiMFJSQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org",
       "published_display": "2026-09-09",
-      "id": "aa843b91bc33"
+      "id": "d141baaf51d3"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Palladyne AI and FANUC America Announce Strategic Collaboration to Advance Intelligent Robotic Automation Business Wire",
       "published_display": "2026-09-08",
       "id": "eadf3fce6b6d"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotics Tomorrow",
-      "summary": "FANUC Amerika, IMTS 2026 Robotics Yarına Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-04T13:15:10Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotics Tomorrow FANUC Amerika, IMTS 2026 Robotics Yarına Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow Robotics Automation Industry",
-      "title_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow",
-      "summary_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow",
-      "published_display": "2026-09-04",
-      "id": "de6cc3b6fb58"
     },
     {
       "category": "web",
