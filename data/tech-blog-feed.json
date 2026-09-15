@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-14T19:00:00Z",
-  "total_posts": 29,
+  "updated_at": "2026-09-15T13:00:00Z",
+  "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
-    "siber": 2,
+    "siber": 4,
     "kamera": 3
   },
   "posts": [
@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme",
-      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
+      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
+      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
       "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "summary_original": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
       "published_display": "2026-09-11",
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Google'ın Yapay Zeka ve Ekonomi ATLAS'ından yeni bilgiler",
+      "summary": "ATLAS'ın milyonlarca küresel veri noktasını etkileşimli, açık erişimli bir deneyime dönüştürdük.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-15T13:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Google'ın Yapay Zeka ve Ekonomi ATLAS'ından yeni bilgiler ATLAS'ın milyonlarca küresel veri noktasını etkileşimli, açık erişimli bir deneyime dönüştürdük. New insights from Google’s AI & Economy ATLAS We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience. AI Product Google",
+      "title_original": "New insights from Google’s AI & Economy ATLAS",
+      "summary_original": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "published_display": "2026-09-15",
+      "id": "74f34e02764b"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Astronot Christina Koch ve Google'dan James Manyika'nın uzay, teknoloji ve keşif hakkındaki tartışmalarını izleyin.",
       "summary": "Christina Koch, Google'ın Araştırma, Laboratuvarlar, Teknoloji ve Toplumdan Sorumlu Kıdemli Başkan Yardımcısı James Manyika ile bir araya geliyor.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
@@ -155,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "DevFest geri döndü",
-      "summary": "DevFest 2026 geri döndü ve ajansal yapay zeka çağında oluşturmak, güvenliğini sağlamak ve ölçeklendirmek için 800'den fazla küresel etkinlikten birine nasıl bağlanabileceğinizi burada bulabilirsiniz.",
+      "summary": "DevFest 2026 geri döndü ve ajans yapay zeka çağında oluşturmak, güvenliğini sağlamak ve ölçeklendirmek için 800'den fazla küresel etkinlikten birine nasıl bağlanabileceğinizi burada bulabilirsiniz.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -165,7 +185,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "DevFest geri döndü DevFest 2026 geri döndü ve ajansal yapay zeka çağında oluşturmak, güvenliğini sağlamak ve ölçeklendirmek için 800'den fazla küresel etkinlikten birine nasıl bağlanabileceğinizi burada bulabilirsiniz. DevFest is back DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era. AI Product Google",
+      "keywords": "DevFest geri döndü DevFest 2026 geri döndü ve ajans yapay zeka çağında oluşturmak, güvenliğini sağlamak ve ölçeklendirmek için 800'den fazla küresel etkinlikten birine nasıl bağlanabileceğinizi burada bulabilirsiniz. DevFest is back DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era. AI Product Google",
       "title_original": "DevFest is back",
       "summary_original": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
       "published_display": "2026-09-14",
@@ -215,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor",
-      "summary": "GPT‑6 Astra, mühendislerin daha az kod incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor.",
+      "summary": "GPT‑6 Astra, mühendislerin daha az kodu incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor.",
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,31 +245,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor GPT‑6 Astra, mühendislerin daha az kod incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor. Cognition helps Devin test its own work with GPT‑6 Astra GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. AI OpenAI Model",
+      "keywords": "Cognition, Devin'in GPT‑6 Astra ile kendi çalışmasını test etmesine yardımcı oluyor GPT‑6 Astra, mühendislerin daha az kodu incelemesine ve daha fazla göndermesine yardımcı olmak amacıyla Devin'in yazılımı test etme ve çalıştığını gösterme yeteneğini geliştiriyor. Cognition helps Devin test its own work with GPT‑6 Astra GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. AI OpenAI Model",
       "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "summary_original": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "published_display": "2026-09-11",
       "id": "7c0d442af295"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "1 milyardan fazla ChatGPT kullanıcısına hizmet verecek şekilde çevrimiçi depolamayı hızla ölçeklendiriyor",
-      "summary": "OpenAI'nin Habitat'ı bir Python kitaplığından 1 milyar ChatGPT kullanıcısına ve saniyede 22 milyon isteğe hizmet veren küresel olarak dağıtılmış bir depolama platformuna nasıl dönüştürdüğünü öğrenin.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-11T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "1 milyardan fazla ChatGPT kullanıcısına hizmet verecek şekilde çevrimiçi depolamayı hızla ölçeklendiriyor OpenAI'nin Habitat'ı bir Python kitaplığından 1 milyar ChatGPT kullanıcısına ve saniyede 22 milyon isteğe hizmet veren küresel olarak dağıtılmış bir depolama platformuna nasıl dönüştürdüğünü öğrenin. Rapidly scaling online storage to serve over 1 billion ChatGPT users Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. AI OpenAI Model",
-      "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary_original": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "published_display": "2026-09-11",
-      "id": "974ca315fc49"
     },
     {
       "category": "robotik",
@@ -314,7 +314,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3lyT0Z6M0tXMlAwcFk5dVFGcm5pb0FId0dEZWhQd09aSlZsTjhhX2FSY0NRMHV4Qjg3Y2gzc1JPbTNzTG82OWNDWWZIbk9VREQ5QXJyWlRoYXUyMzdQRExiX2ZfazlHb3pIQUJhRlEzcFBaa0p2RWNVcnZ4THRTTzEyMHdqSVZUTHVocmY2XzFsbWRpekV6ajZaWWtFQVRzR0UzV0FGWXpjMUdtR3VUazY3blQ4QmhyS2dWWVJtdE1RWXBmWEJxV0JiMFJSQQ?oc=5",
       "image_url": null,
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-09",
-      "id": "70a2404a5d40"
+      "id": "aa843b91bc33"
     },
     {
       "category": "robotik",
@@ -354,7 +354,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotik Yarın",
+      "title": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotics Tomorrow",
       "summary": "FANUC Amerika, IMTS 2026 Robotics Yarına Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5",
       "image_url": null,
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotik Yarın FANUC Amerika, IMTS 2026 Robotics Yarına Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow Robotics Automation Industry",
+      "keywords": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotics Tomorrow FANUC Amerika, IMTS 2026 Robotics Yarına Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow Robotics Automation Industry",
       "title_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow",
       "summary_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow",
       "published_display": "2026-09-04",
-      "id": "0ed502bcdfe9"
+      "id": "de6cc3b6fb58"
     },
     {
       "category": "web",
@@ -494,6 +494,46 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Her iki şekilde de yararlanın: AI eğitimine izin vermezken aramada keşfedilebilir kalın",
+      "summary": "Cloudflare, site sahiplerine AI eğitimine izin vermezken keşfedilebilir kalmaları için bir yol sunuyor. Yeni kontroller ve Sorumlu atama, Apple, Google ve Microsoft ile ortak bir model oluşturuyor.",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2H2Z9EEQXN77GRVF484P66A.01M2H2ZAMANYA3DTBA92G3WQ5X.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-09-15T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Her iki şekilde de yararlanın: AI eğitimine izin vermezken aramada keşfedilebilir kalın Cloudflare, site sahiplerine AI eğitimine izin vermezken keşfedilebilir kalmaları için bir yol sunuyor. Yeni kontroller ve Sorumlu atama, Apple, Google ve Microsoft ile ortak bir model oluşturuyor. Have it both ways: stay discoverable in search while disallowing AI training Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft. Cloudflare Security Web",
+      "title_original": "Have it both ways: stay discoverable in search while disallowing AI training",
+      "summary_original": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+      "published_display": "2026-09-15",
+      "id": "27a613e60951"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Her takım arkadaşınıza ve temsilcinize Çalışanlarınıza doğru düzeyde erişim verin",
+      "summary": "Artık bireysel Çalışanlara erişimin kapsamını belirleyebilir ve daha dar Geliştirici Platformu rolleri atayabilirsiniz; böylece ekip arkadaşlarınız, CI belirteçleri ve aracılar yalnızca güvenli bir şekilde hata ayıklamak, dağıtmak veya izlemek için ihtiyaç duydukları erişime sahip olur.",
+      "url": "https://blog.cloudflare.com/workers-granular-authorization/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KW448A863P1CW4V1VXP9CBBR.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-09-15T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Her takım arkadaşınıza ve temsilcinize Çalışanlarınıza doğru düzeyde erişim verin Artık bireysel Çalışanlara erişimin kapsamını belirleyebilir ve daha dar Geliştirici Platformu rolleri atayabilirsiniz; böylece ekip arkadaşlarınız, CI belirteçleri ve aracılar yalnızca güvenli bir şekilde hata ayıklamak, dağıtmak veya izlemek için ihtiyaç duydukları erişime sahip olur. Give every teammate and agent the right level of access to your Workers You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely. Cloudflare Security Web",
+      "title_original": "Give every teammate and agent the right level of access to your Workers",
+      "summary_original": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+      "published_display": "2026-09-15",
+      "id": "069908c8987a"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "1.1.1.1 artık kuantum sonrası DNSSEC'yi destekliyor; bunun 2.420 baytının tamamı",
       "summary": "1.1.1.1 artık NIST'in kuantum sonrası ML-DSA-44 algoritmasını kullanarak DNSSEC imzalarını doğruluyor. 2.420 baytlık imzaları nasıl yöneteceğimizi ve riskleri geniş ölçekte nasıl düşüreceğimizi burada bulabilirsiniz.",
       "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
@@ -535,7 +575,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
-      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,7 +585,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
       "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
@@ -554,8 +594,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com",
-      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - mynorthwest.com",
+      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' mynorthwest.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,16 +605,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
-      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
-      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - mynorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com",
       "published_display": "2026-08-21",
-      "id": "f8c52e210230"
+      "id": "542750a3049e"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com",
       "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
       "image_url": null,
@@ -585,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
       "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
-      "id": "2dd56e341c6e"
+      "id": "3e495a0121de"
     }
   ]
 }
