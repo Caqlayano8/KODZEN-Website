@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-14T19:00:00Z",
-  "total_posts": 28,
+  "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 2,
-    "kamera": 2
+    "kamera": 3
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme",
-      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
+      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
+      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
       "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "summary_original": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
       "published_display": "2026-09-11",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Fyxer, insanların güvendiği bir yapay zeka yönetici asistanını nasıl oluşturdu?",
-      "summary": "Fyxer, gelen kutularını düzenlemek ve e-posta taslaklarını her kullanıcının sesiyle düzenlemek için OpenAI modellerini, ince ayarları, belleği ve gerçek kullanıcı geri bildirimlerini kullanır.",
+      "summary": "Fyxer, gelen kutularını düzenlemek ve e-posta taslaklarını her kullanıcının sesine göre düzenlemek için OpenAI modellerini, ince ayarı, belleği ve gerçek kullanıcı geri bildirimini kullanır.",
       "url": "https://openai.com/index/fyxer",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Fyxer, insanların güvendiği bir yapay zeka yönetici asistanını nasıl oluşturdu? Fyxer, gelen kutularını düzenlemek ve e-posta taslaklarını her kullanıcının sesiyle düzenlemek için OpenAI modellerini, ince ayarları, belleği ve gerçek kullanıcı geri bildirimlerini kullanır. How Fyxer built an AI executive assistant people trust Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice. AI OpenAI Model",
+      "keywords": "Fyxer, insanların güvendiği bir yapay zeka yönetici asistanını nasıl oluşturdu? Fyxer, gelen kutularını düzenlemek ve e-posta taslaklarını her kullanıcının sesine göre düzenlemek için OpenAI modellerini, ince ayarı, belleği ve gerçek kullanıcı geri bildirimini kullanır. How Fyxer built an AI executive assistant people trust Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice. AI OpenAI Model",
       "title_original": "How Fyxer built an AI executive assistant people trust",
       "summary_original": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
       "published_display": "2026-09-14",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "1 milyardan fazla ChatGPT kullanıcısına hizmet verecek şekilde çevrimiçi depolamayı hızla ölçeklendiriyor",
-      "summary": "OpenAI'nin, Habitat'ı bir Python kitaplığından 1 milyar ChatGPT kullanıcısına ve saniyede 22 milyon isteğe hizmet veren küresel olarak dağıtılmış bir depolama platformuna nasıl dönüştürdüğünü öğrenin.",
+      "summary": "OpenAI'nin Habitat'ı bir Python kitaplığından 1 milyar ChatGPT kullanıcısına ve saniyede 22 milyon isteğe hizmet veren küresel olarak dağıtılmış bir depolama platformuna nasıl dönüştürdüğünü öğrenin.",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,7 +245,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "1 milyardan fazla ChatGPT kullanıcısına hizmet verecek şekilde çevrimiçi depolamayı hızla ölçeklendiriyor OpenAI'nin, Habitat'ı bir Python kitaplığından 1 milyar ChatGPT kullanıcısına ve saniyede 22 milyon isteğe hizmet veren küresel olarak dağıtılmış bir depolama platformuna nasıl dönüştürdüğünü öğrenin. Rapidly scaling online storage to serve over 1 billion ChatGPT users Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. AI OpenAI Model",
+      "keywords": "1 milyardan fazla ChatGPT kullanıcısına hizmet verecek şekilde çevrimiçi depolamayı hızla ölçeklendiriyor OpenAI'nin Habitat'ı bir Python kitaplığından 1 milyar ChatGPT kullanıcısına ve saniyede 22 milyon isteğe hizmet veren küresel olarak dağıtılmış bir depolama platformuna nasıl dönüştürdüğünü öğrenin. Rapidly scaling online storage to serve over 1 billion ChatGPT users Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. AI OpenAI Model",
       "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "summary_original": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "published_display": "2026-09-11",
@@ -274,8 +274,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - americanmachinist.com",
-      "summary": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi americanmachinist.com",
+      "title": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - Amerikalı Makinist",
+      "summary": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi Amerikalı Makinist",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMmR3SmFxb3Fvb3ppcEJuMFlDQU0tcWM3Uy1RNkFUM0UwWkw4aFRLMzJRRkNZUmxldjRTeG1XUWFHS1NHeXBsNWtEVmdVLUY0SThZQmU5anhPNDJCWFZTSVpNM2c0UFUxVkhYamRSRUd3S2VOT2x5YkZBX3k4aEE4NzlCX3p6TGhMUEJwR2FOOERqcVUzRGU1LWZCMEtrWVJGRDNPd0NZZ1F4bGpsR1puSDFPRW1ad3ZYaXRRTDdqUU5hemxYalBCTWNIYUkybU1zVWRPcXpET09fTUtseEpQdkpJdEkwc0ZxR1hv?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - americanmachinist.com Robotik, Otomasyon ve Akıllı Üretim Teknolojisi americanmachinist.com Robotics, Automation, and Intelligent Manufacturing Tech - americanmachinist.com Robotics, Automation, and Intelligent Manufacturing Tech americanmachinist.com Robotics Automation Industry",
-      "title_original": "Robotics, Automation, and Intelligent Manufacturing Tech - americanmachinist.com",
-      "summary_original": "Robotics, Automation, and Intelligent Manufacturing Tech americanmachinist.com",
+      "keywords": "Robotik, Otomasyon ve Akıllı Üretim Teknolojisi - Amerikalı Makinist Robotik, Otomasyon ve Akıllı Üretim Teknolojisi Amerikalı Makinist Robotics, Automation, and Intelligent Manufacturing Tech - American Machinist Robotics, Automation, and Intelligent Manufacturing Tech American Machinist Robotics Automation Industry",
+      "title_original": "Robotics, Automation, and Intelligent Manufacturing Tech - American Machinist",
+      "summary_original": "Robotics, Automation, and Intelligent Manufacturing Tech American Machinist",
       "published_display": "2026-09-10",
-      "id": "e651d44442fa"
+      "id": "82f38dbdc5ad"
     },
     {
       "category": "robotik",
@@ -314,7 +314,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT3lyT0Z6M0tXMlAwcFk5dVFGcm5pb0FId0dEZWhQd09aSlZsTjhhX2FSY0NRMHV4Qjg3Y2gzc1JPbTNzTG82OWNDWWZIbk9VREQ5QXJyWlRoYXUyMzdQRExiX2ZfazlHb3pIQUJhRlEzcFBaa0p2RWNVcnZ4THRTTzEyMHdqSVZUTHVocmY2XzFsbWRpekV6ajZaWWtFQVRzR0UzV0FGWXpjMUdtR3VUazY3blQ4QmhyS2dWWVJtdE1RWXBmWEJxV0JiMFJSQQ?oc=5",
       "image_url": null,
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-09",
-      "id": "aa843b91bc33"
+      "id": "70a2404a5d40"
     },
     {
       "category": "robotik",
@@ -354,7 +354,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotics Tomorrow",
+      "title": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotik Yarın",
       "summary": "FANUC Amerika, IMTS 2026 Robotics Yarına Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5",
       "image_url": null,
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotics Tomorrow FANUC Amerika, IMTS 2026 Robotics Yarına Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow Robotics Automation Industry",
+      "keywords": "FANUC Amerika, IMTS 2026'ya Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor - Robotik Yarın FANUC Amerika, IMTS 2026 Robotics Yarına Robotik, Otomasyon, Fiziksel Yapay Zeka ve CNC Yeniliklerini Getiriyor FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow Robotics Automation Industry",
       "title_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow",
       "summary_original": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow",
       "published_display": "2026-09-04",
-      "id": "de6cc3b6fb58"
+      "id": "0ed502bcdfe9"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -534,8 +534,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulur - cybersecuritynews.com",
-      "summary": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Hayatta Kalıyor cybersecuritynews.com",
+      "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,11 +545,31 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulur - cybersecuritynews.com Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Hayatta Kalıyor cybersecuritynews.com Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - cybersecuritynews.com Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices cybersecuritynews.com IP Camera Video Surveillance",
-      "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - cybersecuritynews.com",
-      "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices cybersecuritynews.com",
+      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
+      "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
-      "id": "dbf4a8e72c42"
+      "id": "dab0bd92473a"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com",
+      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "published_display": "2026-08-21",
+      "id": "f8c52e210230"
     },
     {
       "category": "kamera",
