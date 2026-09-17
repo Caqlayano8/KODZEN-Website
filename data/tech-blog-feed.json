@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-16T17:00:00Z",
+  "updated_at": "2026-09-17T00:26:43Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,28 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Your AI coding agent evaluation is only as good as its sandbox",
-      "summary": "Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its...",
+      "title": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme",
+      "summary": "Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısı çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı:",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-17T00:26:43Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısı çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı: Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on... GitHub Dev Platform",
+      "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "summary_original": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on...",
+      "published_display": "2026-09-17",
+      "id": "e825f5acc495"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "AI kodlama aracısı değerlendirmeniz yalnızca korumalı alanı kadar iyidir",
+      "summary": "Yapay zeka kodlama temsilciniz değerlendirmeyi geçti. Peki model cevabı biliyor muydu, yoksa makinenizde bir yerde mi buldu? Doğru bir cevap yine de ölçümünüzü geçersiz kılabilir. AI kodlama aracınızın değerlendirmesi yalnızca onun kadar iyidir...",
       "url": "https://devblogs.microsoft.com/blog/your-ai-coding-agent-evaluation-is-only-as-good-as-its-sandbox/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,17 +45,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Your AI coding agent evaluation is only as good as its sandbox Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its... Your AI coding agent evaluation is only as good as its sandbox Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its... Microsoft Dev Cloud",
+      "keywords": "AI kodlama aracısı değerlendirmeniz yalnızca korumalı alanı kadar iyidir Yapay zeka kodlama temsilciniz değerlendirmeyi geçti. Peki model cevabı biliyor muydu, yoksa makinenizde bir yerde mi buldu? Doğru bir cevap yine de ölçümünüzü geçersiz kılabilir. AI kodlama aracınızın değerlendirmesi yalnızca onun kadar iyidir... Your AI coding agent evaluation is only as good as its sandbox Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its... Microsoft Dev Cloud",
       "title_original": "Your AI coding agent evaluation is only as good as its sandbox",
       "summary_original": "Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its...",
       "published_display": "2026-09-16",
-      "id": "f7c82f6b47c5"
+      "id": "e72414dc9f6b"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Build an interview coach app with the GitHub Copilot SDK",
-      "summary": "An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin...",
+      "title": "GitHub Copilot SDK'sıyla röportaj koçu uygulaması oluşturun",
+      "summary": "Bir röportaj koçunun soru sormaktan daha fazlasını yapması gerekir. Bir özgeçmişi okuması, eksik bir yanıtı takip etmesi ve sonunda yararlı geri bildirim sağlamak için yeterli bağlamı kaydetmesi gerekir. Bu işin bir kısmı sohbettir. Bazıları aramayı gerektiriyor...",
       "url": "https://devblogs.microsoft.com/blog/build-an-interview-coach-app-with-the-github-copilot-sdk/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,17 +65,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Build an interview coach app with the GitHub Copilot SDK An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin... Build an interview coach app with the GitHub Copilot SDK An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin... Microsoft Dev Cloud",
+      "keywords": "GitHub Copilot SDK'sıyla röportaj koçu uygulaması oluşturun Bir röportaj koçunun soru sormaktan daha fazlasını yapması gerekir. Bir özgeçmişi okuması, eksik bir yanıtı takip etmesi ve sonunda yararlı geri bildirim sağlamak için yeterli bağlamı kaydetmesi gerekir. Bu işin bir kısmı sohbettir. Bazıları aramayı gerektiriyor... Build an interview coach app with the GitHub Copilot SDK An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin... Microsoft Dev Cloud",
       "title_original": "Build an interview coach app with the GitHub Copilot SDK",
       "summary_original": "An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin...",
       "published_display": "2026-09-15",
-      "id": "89b73136735d"
+      "id": "9c498cde7a77"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
+      "title": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme",
+      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,17 +85,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
+      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
       "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "summary_original": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
       "published_display": "2026-09-11",
-      "id": "a3464a360169"
+      "id": "5bed9927ab74"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter...",
+      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma",
+      "summary": "Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter...",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,17 +105,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter... GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter... GitHub Dev Platform",
+      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter... GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter... GitHub Dev Platform",
       "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
       "summary_original": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter...",
       "published_display": "2026-09-10",
-      "id": "1e76446a6f8c"
+      "id": "a7b7ae8f55d0"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub availability report: August 2026",
-      "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
+      "title": "GitHub kullanılabilirlik raporu: Ağustos 2026",
+      "summary": "Ağustos ayında GitHub hizmetlerinde performansın düşmesine neden olan beş olay yaşadık. GitHub kullanılabilirlik raporu: Ağustos 2026 ilk olarak The GitHub Blog'da yayınlandı.",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,37 +125,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub availability report: August 2026 In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog . GitHub availability report: August 2026 In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub kullanılabilirlik raporu: Ağustos 2026 Ağustos ayında GitHub hizmetlerinde performansın düşmesine neden olan beş olay yaşadık. GitHub kullanılabilirlik raporu: Ağustos 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: August 2026 In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub availability report: August 2026",
       "summary_original": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
       "published_display": "2026-09-10",
-      "id": "ec8570b453bc"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Your work might not need the smartest model",
-      "summary": "The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared...",
-      "url": "https://devblogs.microsoft.com/blog/your-work-might-not-need-the-smartest-model/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-09-09T09:14:04Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Your work might not need the smartest model The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared... Your work might not need the smartest model The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared... Microsoft Dev Cloud",
-      "title_original": "Your work might not need the smartest model",
-      "summary_original": "The smartest model can cost five times more and deliver the same result, or even a worse one. See how evaluating your own work helps you get more value from your agent budget. The post Your work might not need the smartest model appeared...",
-      "published_display": "2026-09-09",
-      "id": "38c5067d84b9"
+      "id": "bcbe7058be72"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Our framework for reporting model misalignment",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "title": "Model yanlış hizalamasını raporlamaya yönelik çerçevemiz",
+      "summary": "OpenAI, beklenmedik veya endişe verici model davranışına ilişkin altı raporun yanı sıra model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçeveyi paylaşıyor.",
       "url": "https://openai.com/index/model-misalignment-reporting-framework",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,17 +145,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Our framework for reporting model misalignment OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. Our framework for reporting model misalignment OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. AI OpenAI Model",
+      "keywords": "Model yanlış hizalamasını raporlamaya yönelik çerçevemiz OpenAI, beklenmedik veya endişe verici model davranışına ilişkin altı raporun yanı sıra model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçeveyi paylaşıyor. Our framework for reporting model misalignment OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. AI OpenAI Model",
       "title_original": "Our framework for reporting model misalignment",
       "summary_original": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "published_display": "2026-09-16",
-      "id": "1b9e1a6ddd91"
+      "id": "5e1d8baf984c"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Helping older adults use AI in everyday life",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "title": "Yaşlı yetişkinlerin yapay zekayı günlük yaşamda kullanmalarına yardımcı olmak",
+      "summary": "OpenAI ve AARP, pratik yapay zeka becerilerini güvenli bir şekilde geliştirmek için ABD'nin 10 şehrinde 1.000 yaşlı yetişkine ücretsiz, uygulamalı ChatGPT atölyeleri sunuyor.",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,17 +165,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Helping older adults use AI in everyday life OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely. Helping older adults use AI in everyday life OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely. AI OpenAI Model",
+      "keywords": "Yaşlı yetişkinlerin yapay zekayı günlük yaşamda kullanmalarına yardımcı olmak OpenAI ve AARP, pratik yapay zeka becerilerini güvenli bir şekilde geliştirmek için ABD'nin 10 şehrinde 1.000 yaşlı yetişkine ücretsiz, uygulamalı ChatGPT atölyeleri sunuyor. Helping older adults use AI in everyday life OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely. AI OpenAI Model",
       "title_original": "Helping older adults use AI in everyday life",
       "summary_original": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "published_display": "2026-09-16",
-      "id": "733b37d02ac8"
+      "id": "83a042e9793b"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Reimagining advertising with AI",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "title": "Yapay zeka ile reklamcılığı yeniden tasarlamak",
+      "summary": "Sponsorlu Temsilciler, pazarlamacılara yönelik araçlar ve HubSpot ve Shopify ile entegrasyonlar da dahil olmak üzere OpenAI'nin yeni yapay zeka destekli reklam deneyimlerini keşfedin.",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,17 +185,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Reimagining advertising with AI Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify. Reimagining advertising with AI Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify. AI OpenAI Model",
+      "keywords": "Yapay zeka ile reklamcılığı yeniden tasarlamak Sponsorlu Temsilciler, pazarlamacılara yönelik araçlar ve HubSpot ve Shopify ile entegrasyonlar da dahil olmak üzere OpenAI'nin yeni yapay zeka destekli reklam deneyimlerini keşfedin. Reimagining advertising with AI Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify. AI OpenAI Model",
       "title_original": "Reimagining advertising with AI",
       "summary_original": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "published_display": "2026-09-16",
-      "id": "fabe4756486e"
+      "id": "f95f4b3880a5"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "How to connect AI usage to business value",
-      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "title": "Yapay zeka kullanımını iş değerine bağlama",
+      "summary": "ChatGPT Work ve Codex analizlerinin ekiplerin yapay zeka kullanımını ve harcamalarını anlamalarına, eğitim ihtiyaçlarını belirlemelerine ve benimsemeyi iş sonuçlarına bağlamalarına nasıl yardımcı olduğunu öğrenin.",
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,17 +205,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "How to connect AI usage to business value Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes. How to connect AI usage to business value Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes. AI OpenAI Model",
+      "keywords": "Yapay zeka kullanımını iş değerine bağlama ChatGPT Work ve Codex analizlerinin ekiplerin yapay zeka kullanımını ve harcamalarını anlamalarına, eğitim ihtiyaçlarını belirlemelerine ve benimsemeyi iş sonuçlarına bağlamalarına nasıl yardımcı olduğunu öğrenin. How to connect AI usage to business value Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes. AI OpenAI Model",
       "title_original": "How to connect AI usage to business value",
       "summary_original": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "published_display": "2026-09-16",
-      "id": "daac17ed2514"
+      "id": "816f6a903f47"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "How workers are unlocking new ways of working",
-      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "title": "İşçiler yeni çalışma yöntemlerinin kilidini nasıl açıyor?",
+      "summary": "Yeni OpenAI Ekonomik Araştırması, çalışanların yapay zekayı geleneksel rollerin ötesinde nasıl kullandığını ve hangi yeni etkinliklerin işlerinin yinelenen parçaları haline geldiğini gösteriyor.",
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,17 +225,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "How workers are unlocking new ways of working New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work. How workers are unlocking new ways of working New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work. AI OpenAI Model",
+      "keywords": "İşçiler yeni çalışma yöntemlerinin kilidini nasıl açıyor? Yeni OpenAI Ekonomik Araştırması, çalışanların yapay zekayı geleneksel rollerin ötesinde nasıl kullandığını ve hangi yeni etkinliklerin işlerinin yinelenen parçaları haline geldiğini gösteriyor. How workers are unlocking new ways of working New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work. AI OpenAI Model",
       "title_original": "How workers are unlocking new ways of working",
       "summary_original": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
       "published_display": "2026-09-16",
-      "id": "1ed4039c6458"
+      "id": "8c425efe8df8"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-      "summary": "Algorithms & Theory",
+      "title": "Çıkarım darboğazlarının aşılması: Retrieve for Train ile karmaşık yapay zeka aramasını hızlandırma",
+      "summary": "Algoritmalar ve Teori",
       "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Retrieve-for-Train_hero.png",
       "source": "Google Research Blog",
@@ -245,17 +245,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & Theory Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & Theory AI Research Google",
+      "keywords": "Çıkarım darboğazlarının aşılması: Retrieve for Train ile karmaşık yapay zeka aramasını hızlandırma Algoritmalar ve Teori Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & Theory AI Research Google",
       "title_original": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
       "summary_original": "Algorithms & Theory",
       "published_display": "2026-09-15",
-      "id": "105290d4979b"
+      "id": "6193e9829ad0"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers - Univest",
-      "summary": "Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers Univest",
+      "title": "Uygun Fiyatlı Robotik ve Otomasyon Sektöründeki En İyi Hisse Senedi mi? Rakamlara Bir Bakış - Univest",
+      "summary": "Uygun Fiyatlı Robotik ve Otomasyon Sektöründeki En İyi Hisse Senedi mi? Rakamlara Bir Bakış Univest",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTDM0MnI5X21BSmJ4T0VnZFJlbTI4QW94RDlHd08yZWlxSEhnLXhHYWp3ZEo2UUx0Uld0TjlqdDhkWmpUcEJBZi1McS14a29TbHFsaDRPb1ZuWVNtR1VyOERPZXQ5NlJWdnBnb2NjUFM1T3psYVRTaGtxMGtTVUV0dHhFSWFQWWozQnpz?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,17 +265,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers - Univest Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers Univest Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers - Univest Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers Univest Robotics Automation Industry",
+      "keywords": "Uygun Fiyatlı Robotik ve Otomasyon Sektöründeki En İyi Hisse Senedi mi? Rakamlara Bir Bakış - Univest Uygun Fiyatlı Robotik ve Otomasyon Sektöründeki En İyi Hisse Senedi mi? Rakamlara Bir Bakış Univest Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers - Univest Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers Univest Robotics Automation Industry",
       "title_original": "Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers - Univest",
       "summary_original": "Is Affordable Robotic and Automation the Best Stock in Its Sector? A Look at the Numbers Univest",
       "published_display": "2026-09-16",
-      "id": "a0939f05bfa2"
+      "id": "13313d03a2cc"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation - Business Wire",
-      "summary": "A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation Business Wire",
+      "title": "A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor - Business Wire",
+      "summary": "A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY3Jybm5Ga3IyZVpKa01ORDlFVFpMeTlCdmNpdklmcUMxazF0WHUwYjNZUWNZMlZwZkRVUERVeHNsTjhkdUx4Z3NmV3I5eWZCdkRvYUxNTlJHeU5BUTZRa3h4SHZSU2FXZmpkS2dxQkxOVEVJOWp6NGV4XzBTc2VoWGNQV3Z4ZThPcS1NQ2RUU2pOdGdpTy1udDRkdFNDclRmWlNLVlNsNjZJY0pXeGFhNWk4TG1ZV01uLXVkdHdKbjVGSWJUSm9RMkl4R21xLTB0OXd1NjR6SXVFQUxI?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,17 +285,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation - Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation - Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation Business Wire Robotics Automation Industry",
+      "keywords": "A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor - Business Wire A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation - Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation Business Wire Robotics Automation Industry",
       "title_original": "A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation - Business Wire",
       "summary_original": "A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation Business Wire",
       "published_display": "2026-09-16",
-      "id": "eacc3cea7ce2"
+      "id": "7712a58b6570"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZTVfNWlBRUFiNkpQTWs3cDlVcFl1TVlyRVVuNHZ4TG93Y0JkYkl5OW0zdlBfV0dKRzU1YnhXb2lUZUVLYWp4ODNLZjNNams3ZWNYZWppeTBxVFJOY1JlSDFfUFNpRFdsOE5sUEl3SFBrd0JjclgwQ0N1NkhrV1ltRVhxd1NJblY2YlRPWlBYZmdmbzJ6cHZFaGQtVFVMNEtKOEczekFqNFROak9FRlNUTEZKblhxT20zQ1YtR3VscnFnUC16Q3BNYlVxRlZuQ1FWMmtHYnI2b1M?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-16",
-      "id": "cfe7b6abd32f"
+      "id": "9e2ab53082e4"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs",
-      "summary": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs",
+      "title": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler",
+      "summary": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9feHlpbVA4WXJtSTNHM0RxZGsxbHVpVXdkY2FkbDNSRTY2UUtUdnh4VlNxVXFubERpSlRJSGNydS1PT2ZkVkNuRU44a3dTYzA1aURmRC11eEVkU0lraE5rY1VYRTc0S29uMHlRSjZSX3Q2YzhHOEE?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs Robotics Automation Industry",
+      "keywords": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs Robotics Automation Industry",
       "title_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs",
       "summary_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs",
       "published_display": "2026-09-16",
-      "id": "c08b7af8649f"
+      "id": "9588e99d0b9a"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community - azorobotics.com",
-      "summary": "OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community azorobotics.com",
+      "title": "OpenRobOps, Robotik Topluluğuna Standartlarla Uyumlu Filo Yönetimi Getiriyor - AZoRobotics",
+      "summary": "OpenRobOps, Robotik Topluluğuna Standartlarla Uyumlu Filo Yönetimi Getiriyor AZoRobotics",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40ZlB6UlJ4c3k3dko5cWFtaERkSVFob1dENEJCd3dDb01ULTZEOGkzcU14ZmhWMkk1S2NTd1pYLW1adDFDZGJzRmc4ek94WnBqRUJQRlFTTko3RGEtVHdn?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,17 +345,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community - azorobotics.com OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community azorobotics.com OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community - azorobotics.com OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community azorobotics.com Robotics Automation Industry",
-      "title_original": "OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community - azorobotics.com",
-      "summary_original": "OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community azorobotics.com",
+      "keywords": "OpenRobOps, Robotik Topluluğuna Standartlarla Uyumlu Filo Yönetimi Getiriyor - AZoRobotics OpenRobOps, Robotik Topluluğuna Standartlarla Uyumlu Filo Yönetimi Getiriyor AZoRobotics OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community - AZoRobotics OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community AZoRobotics Robotics Automation Industry",
+      "title_original": "OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community - AZoRobotics",
+      "summary_original": "OpenRobOps Brings Standard-Compliant Fleet Management to the Robotics Community AZoRobotics",
       "published_display": "2026-09-16",
-      "id": "3333bf2c7891"
+      "id": "02f1dc3e7000"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment - sdcexec.com",
-      "summary": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment sdcexec.com",
+      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Platformu Tanıtıyor - Arz ve Talep Zinciri Yöneticisi",
+      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Dağıtımı Arz ve Talep Zinciri Yöneticisi Platformunu Tanıtıyor",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY19CTE10UkVMNkdSR0tHYnhsdDUwakhEZzNMQXA2SC1WT0MtdnZsc1RkazBDcjdxT0JkQWl4SHdRWEJTSHVpbzhoblp0QTYxRVZ6WktyOTZVcHVaeE0zQUNJZm5DVlp2cWQ4dzhiVldRRjMwNHRxblBUa29fWDQ5QkUtR29lNDZPTllfWjM5LWlrbWhvYkxSaTZaMTJXUy1BN0tQenVIVW9DVXlrUGNJNHdsZlFHOUxlT0dlM2VGQnUwWUI3V2tjUXc2YXpYTUtZOVFBam14QU9MTHcxQkhGWXhGT1VycEVfMkEzcm1pWWRnVmYx?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,17 +365,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment - sdcexec.com Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment sdcexec.com Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment - sdcexec.com Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment sdcexec.com Robotics Automation Industry",
-      "title_original": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment - sdcexec.com",
-      "summary_original": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment sdcexec.com",
+      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Platformu Tanıtıyor - Arz ve Talep Zinciri Yöneticisi Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Dağıtımı Arz ve Talep Zinciri Yöneticisi Platformunu Tanıtıyor Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment - Supply & Demand Chain Executive Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment Supply & Demand Chain Executive Robotics Automation Industry",
+      "title_original": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment - Supply & Demand Chain Executive",
+      "summary_original": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment Supply & Demand Chain Executive",
       "published_display": "2026-09-15",
-      "id": "9516ad234f9b"
+      "id": "ce5097c075a1"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Introducing the MDN MCP server",
-      "summary": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information.",
+      "title": "MDN MCP sunucusuyla tanışın",
+      "summary": "MDN'nin MCP sunucusu, MDN'nin belgelerini ve tarayıcı uyumluluk verilerini doğrudan editörünüze veya IDE'nize getirerek Yüksek Lisans veya kodlama aracınızın doğru, güncel web platformu bilgilerine erişmesini sağlar.",
       "url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/",
       "image_url": "https://developer.mozilla.org/en-US/blog/introducing-mdn-mcp-server/featured.png",
       "source": "MDN Blog",
@@ -385,17 +385,17 @@
         "Standards",
         "Browser"
       ],
-      "keywords": "Introducing the MDN MCP server MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information. Introducing the MDN MCP server MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information. Web Standards Browser",
+      "keywords": "MDN MCP sunucusuyla tanışın MDN'nin MCP sunucusu, MDN'nin belgelerini ve tarayıcı uyumluluk verilerini doğrudan editörünüze veya IDE'nize getirerek Yüksek Lisans veya kodlama aracınızın doğru, güncel web platformu bilgilerine erişmesini sağlar. Introducing the MDN MCP server MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information. Web Standards Browser",
       "title_original": "Introducing the MDN MCP server",
       "summary_original": "MDN's MCP server brings MDN's documentation and browser compatibility data directly into your editor or IDE, giving your LLM or coding agent access to accurate, up-to-date web platform information.",
       "published_display": "2026-06-15",
-      "id": "137fa268e168"
+      "id": "0f8f06410655"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "New to the web platform in May",
-      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
+      "title": "Mayıs ayında web platformuna yeni",
+      "summary": "Mayıs 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-05-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -405,17 +405,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "New to the web platform in May Discover some of the interesting features that have landed in stable and beta web browsers during May 2026. New to the web platform in May Discover some of the interesting features that have landed in stable and beta web browsers during May 2026. Web Performance Frontend",
+      "keywords": "Mayıs ayında web platformuna yeni Mayıs 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in May Discover some of the interesting features that have landed in stable and beta web browsers during May 2026. Web Performance Frontend",
       "title_original": "New to the web platform in May",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during May 2026.",
       "published_display": "2026-05-29",
-      "id": "b50202f63def"
+      "id": "aaa5419645c6"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "April 2026 Baseline monthly digest",
-      "summary": "Read about various happenings with Baseline during April 2026.",
+      "title": "Nisan 2026 Temel aylık özet",
+      "summary": "Nisan 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
       "url": "https://web.dev/blog/baseline-digest-apr-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -425,17 +425,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "April 2026 Baseline monthly digest Read about various happenings with Baseline during April 2026. April 2026 Baseline monthly digest Read about various happenings with Baseline during April 2026. Web Performance Frontend",
+      "keywords": "Nisan 2026 Temel aylık özet Nisan 2026'da Baseline ile ilgili çeşitli olayları okuyun. April 2026 Baseline monthly digest Read about various happenings with Baseline during April 2026. Web Performance Frontend",
       "title_original": "April 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during April 2026.",
       "published_display": "2026-05-27",
-      "id": "dc29ba7b6ca5"
+      "id": "6b855c964fcf"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "New to the web platform in April",
-      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
+      "title": "Nisan ayında web platformundaki yenilikler",
+      "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -445,17 +445,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "3b401d72d68b"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "March 2026 Baseline monthly digest",
-      "summary": "Read about various happenings with Baseline during March 2026.",
+      "title": "Mart 2026 Temel aylık özet",
+      "summary": "Mart 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
       "url": "https://web.dev/blog/baseline-digest-mar-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -465,17 +465,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. Web Performance Frontend",
+      "keywords": "Mart 2026 Temel aylık özet Mart 2026'da Baseline ile ilgili çeşitli olayları okuyun. March 2026 Baseline monthly digest Read about various happenings with Baseline during March 2026. Web Performance Frontend",
       "title_original": "March 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during March 2026.",
       "published_display": "2026-04-14",
-      "id": "484651532f7c"
+      "id": "11541f4784e5"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Under the hood of MDN's new frontend",
-      "summary": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
+      "title": "MDN'nin yeni arayüzünün altında",
+      "summary": "MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım.",
       "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/",
       "image_url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/featured.png",
       "source": "MDN Blog",
@@ -485,17 +485,17 @@
         "Standards",
         "Browser"
       ],
-      "keywords": "Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Web Standards Browser",
+      "keywords": "MDN'nin yeni arayüzünün altında MDN'nin yeni bir ön uca sahip olduğunu fark etmiş olabilirsiniz. Görünürde çok şey oluyor; o halde seçtiğimiz teknolojileri, aldığımız mimari kararları ve neden yeniden inşa ettiğimizi açalım. Under the hood of MDN's new frontend You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all. Web Standards Browser",
       "title_original": "Under the hood of MDN's new frontend",
       "summary_original": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
       "published_display": "2026-04-08",
-      "id": "c35943c71825"
+      "id": "1c6156ef07a0"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Have it both ways: stay discoverable in search while disallowing AI training",
-      "summary": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
+      "title": "Her iki şekilde de yararlanın: AI eğitimine izin vermezken aramada keşfedilebilir kalın",
+      "summary": "Cloudflare, site sahiplerine AI eğitimine izin vermezken keşfedilebilir kalmaları için bir yol sunuyor. Yeni kontroller ve Sorumlu atama, Apple, Google ve Microsoft ile ortak bir model oluşturuyor.",
       "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2H2Z9EEQXN77GRVF484P66A.01M2H2ZAMANYA3DTBA92G3WQ5X.png",
       "source": "Cloudflare Security",
@@ -505,17 +505,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Have it both ways: stay discoverable in search while disallowing AI training Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft. Have it both ways: stay discoverable in search while disallowing AI training Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft. Cloudflare Security Web",
+      "keywords": "Her iki şekilde de yararlanın: AI eğitimine izin vermezken aramada keşfedilebilir kalın Cloudflare, site sahiplerine AI eğitimine izin vermezken keşfedilebilir kalmaları için bir yol sunuyor. Yeni kontroller ve Sorumlu atama, Apple, Google ve Microsoft ile ortak bir model oluşturuyor. Have it both ways: stay discoverable in search while disallowing AI training Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft. Cloudflare Security Web",
       "title_original": "Have it both ways: stay discoverable in search while disallowing AI training",
       "summary_original": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
       "published_display": "2026-09-15",
-      "id": "4f4b3341adf2"
+      "id": "27a613e60951"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Give every teammate and agent the right level of access to your Workers",
-      "summary": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
+      "title": "Her takım arkadaşınıza ve temsilcinize Çalışanlarınıza doğru düzeyde erişim verin",
+      "summary": "Artık bireysel Çalışanlara erişimin kapsamını belirleyebilir ve daha dar Geliştirici Platformu rolleri atayabilirsiniz; böylece ekip arkadaşlarınız, CI belirteçleri ve aracılar yalnızca güvenli bir şekilde hata ayıklamak, dağıtmak veya izlemek için ihtiyaç duydukları erişime sahip olur.",
       "url": "https://blog.cloudflare.com/workers-granular-authorization/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KW448A863P1CW4V1VXP9CBBR.png",
       "source": "Cloudflare Security",
@@ -525,17 +525,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Give every teammate and agent the right level of access to your Workers You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely. Give every teammate and agent the right level of access to your Workers You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely. Cloudflare Security Web",
+      "keywords": "Her takım arkadaşınıza ve temsilcinize Çalışanlarınıza doğru düzeyde erişim verin Artık bireysel Çalışanlara erişimin kapsamını belirleyebilir ve daha dar Geliştirici Platformu rolleri atayabilirsiniz; böylece ekip arkadaşlarınız, CI belirteçleri ve aracılar yalnızca güvenli bir şekilde hata ayıklamak, dağıtmak veya izlemek için ihtiyaç duydukları erişime sahip olur. Give every teammate and agent the right level of access to your Workers You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely. Cloudflare Security Web",
       "title_original": "Give every teammate and agent the right level of access to your Workers",
       "summary_original": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
       "published_display": "2026-09-15",
-      "id": "b580920e061b"
+      "id": "069908c8987a"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-      "summary": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
+      "title": "1.1.1.1 artık kuantum sonrası DNSSEC'yi destekliyor; bunun 2.420 baytının tamamı",
+      "summary": "1.1.1.1 artık NIST'in kuantum sonrası ML-DSA-44 algoritmasını kullanarak DNSSEC imzalarını doğruluyor. 2.420 baytlık imzaları nasıl yöneteceğimizi ve riskleri geniş ölçekte nasıl düşüreceğimizi burada bulabilirsiniz.",
       "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M25DK32HZ1WQH3H12JRZ8W35.01M25DK70WYHHWWR2VQYE94TNP.png",
       "source": "Cloudflare Security",
@@ -545,17 +545,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it 1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale. 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it 1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale. Cloudflare Security Web",
+      "keywords": "1.1.1.1 artık kuantum sonrası DNSSEC'yi destekliyor; bunun 2.420 baytının tamamı 1.1.1.1 artık NIST'in kuantum sonrası ML-DSA-44 algoritmasını kullanarak DNSSEC imzalarını doğruluyor. 2.420 baytlık imzaları nasıl yöneteceğimizi ve riskleri geniş ölçekte nasıl düşüreceğimizi burada bulabilirsiniz. 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it 1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale. Cloudflare Security Web",
       "title_original": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
       "summary_original": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
       "published_display": "2026-09-10",
-      "id": "81445ca5a1ea"
+      "id": "e3223cfafc81"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
-      "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden...",
+      "title": "Cloudflare Yönetilen Savunma ve OpenAI Daybreak modelleriyle bağlama duyarlı güvenlik açığı keşfi ve iyileştirmeyle tanışın",
+      "summary": "Bulguları önceliklendirmek, güvenli olduğunda uç azaltımlarını hazırlamak ve kod yamaları önermek için üretim trafiğini ve güvenlik sinyallerini kullanın. WAF verilerini OpenAI Daybreak modelleriyle birleştiren Güvenlik Açığı Keşfi ve Düzeltme, ekiplerin tespit etmesine yardımcı olur...",
       "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png",
       "source": "Cloudflare Security",
@@ -565,17 +565,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden... Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden... Cloudflare Security Web",
+      "keywords": "Cloudflare Yönetilen Savunma ve OpenAI Daybreak modelleriyle bağlama duyarlı güvenlik açığı keşfi ve iyileştirmeyle tanışın Bulguları önceliklendirmek, güvenli olduğunda uç azaltımlarını hazırlamak ve kod yamaları önermek için üretim trafiğini ve güvenlik sinyallerini kullanın. WAF verilerini OpenAI Daybreak modelleriyle birleştiren Güvenlik Açığı Keşfi ve Düzeltme, ekiplerin tespit etmesine yardımcı olur... Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden... Cloudflare Security Web",
       "title_original": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
       "summary_original": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden...",
       "published_display": "2026-09-03",
-      "id": "0e24c27306bb"
+      "id": "1ae1d8d6cdd7"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
-      "summary": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
+      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
+      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,17 +585,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
+      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
       "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
       "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
       "published_display": "2026-09-16",
-      "id": "5ada6f6765fc"
+      "id": "8218ddf01fee"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
-      "summary": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
+      "title": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,17 +605,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Dahua Kamera Arka Kapısı, Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
       "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
       "published_display": "2026-09-04",
-      "id": "d54a3d41267b"
+      "id": "8bb3e211cf7f"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
-      "summary": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com",
+      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,17 +625,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
       "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
       "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
       "published_display": "2026-08-21",
-      "id": "6c94a1bdbf8c"
+      "id": "8fc2aac65cb9"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
-      "summary": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com",
+      "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,11 +645,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
       "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
-      "id": "1353b8bf37a5"
+      "id": "3e495a0121de"
     }
   ]
 }
