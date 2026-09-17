@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-17T12:00:00Z",
-  "total_posts": 32,
+  "updated_at": "2026-09-17T20:00:00Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 4,
-    "kamera": 4
+    "kamera": 5
   },
   "posts": [
     {
@@ -134,6 +134,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Küresel verilerin keşfedilmesini kolaylaştırma",
+      "summary": "Google ve BM sistemi, küresel istatistikleri erişilebilir ve aramayı kolay hale getiren yeni bir açık platform olan BM Sistem Veri Ortakları'nı başlattı.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-17T20:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Küresel verilerin keşfedilmesini kolaylaştırma Google ve BM sistemi, küresel istatistikleri erişilebilir ve aramayı kolay hale getiren yeni bir açık platform olan BM Sistem Veri Ortakları'nı başlattı. Making global data easier to explore Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search. AI Product Google",
+      "title_original": "Making global data easier to explore",
+      "summary_original": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "published_display": "2026-09-17",
+      "id": "1bb86e24b47d"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Hukuk için Astra ile Tanışın",
+      "summary": "Hukuk için OpenAI, hukuk için sınır istihbaratı, özel firma iş akışları, bağlantılı hukuki veri kaynakları ve gizli müşteri çalışmaları için hukuki düzeyde kontroller sunar.",
+      "url": "https://openai.com/index/astra-for-law",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-17T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Hukuk için Astra ile Tanışın Hukuk için OpenAI, hukuk için sınır istihbaratı, özel firma iş akışları, bağlantılı hukuki veri kaynakları ve gizli müşteri çalışmaları için hukuki düzeyde kontroller sunar. Introducing Astra for Law OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work. AI OpenAI Model",
+      "title_original": "Introducing Astra for Law",
+      "summary_original": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "published_display": "2026-09-17",
+      "id": "43b2a8fb4dfc"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Model yanlış hizalamasını raporlamaya yönelik çerçevemiz",
       "summary": "OpenAI, model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçevenin yanı sıra beklenmedik veya endişe verici model davranışına ilişkin altı raporu paylaşıyor.",
       "url": "https://openai.com/index/model-misalignment-reporting-framework",
@@ -210,46 +250,6 @@
       "summary_original": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "published_display": "2026-09-16",
       "id": "836ca27ad552"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "İşçiler yeni çalışma yöntemlerinin kilidini nasıl açıyor?",
-      "summary": "Yeni OpenAI Ekonomik Araştırması, çalışanların yapay zekayı geleneksel rollerin ötesinde nasıl kullandığını ve hangi yeni etkinliklerin işlerinin yinelenen parçaları haline geldiğini gösteriyor.",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-16T09:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "İşçiler yeni çalışma yöntemlerinin kilidini nasıl açıyor? Yeni OpenAI Ekonomik Araştırması, çalışanların yapay zekayı geleneksel rollerin ötesinde nasıl kullandığını ve hangi yeni etkinliklerin işlerinin yinelenen parçaları haline geldiğini gösteriyor. How workers are unlocking new ways of working New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work. AI OpenAI Model",
-      "title_original": "How workers are unlocking new ways of working",
-      "summary_original": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "published_display": "2026-09-16",
-      "id": "8c425efe8df8"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Çıkarım darboğazlarının aşılması: Retrieve for Train ile karmaşık yapay zeka aramasını hızlandırma",
-      "summary": "Algoritmalar ve Teori",
-      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Retrieve-for-Train_hero.png",
-      "source": "Google Research Blog",
-      "published_at": "2026-09-15T20:00:35Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Çıkarım darboğazlarının aşılması: Retrieve for Train ile karmaşık yapay zeka aramasını hızlandırma Algoritmalar ve Teori Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & Theory AI Research Google",
-      "title_original": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-      "summary_original": "Algorithms & Theory",
-      "published_display": "2026-09-15",
-      "id": "6193e9829ad0"
     },
     {
       "category": "robotik",
@@ -354,8 +354,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon - gtai.de",
-      "summary": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon gtai.de",
+      "title": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon - Almanya Ticaret ve Yatırım (GTAI)",
+      "summary": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon Almanya Ticaret ve Yatırım (GTAI)",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUS0tMmJ5Y2o5dEZqWklISGZldDltdWFWdUk0SXpKM2dSbUZHOGFCS1M2cmdkNEZGSWhZbUQtWmVPSjdINFFwZUFOWGo4V2VScmFxaTdIRzdScU9uc19sbi1CaDk3M0MxdWNWdEtoY0lFN0c2OEVtazVFblhFT2h2dHFrakdpeG5reDVVcG9xdFdtZGREYjZ2dEtVREF3UkFZeUpTUmc0RQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon - gtai.de Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon gtai.de Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation - gtai.de Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation gtai.de Robotics Automation Industry",
-      "title_original": "Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation - gtai.de",
-      "summary_original": "Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation gtai.de",
+      "keywords": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon - Almanya Ticaret ve Yatırım (GTAI) Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon Almanya Ticaret ve Yatırım (GTAI) Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation - Germany Trade & Invest (GTAI) Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation Germany Trade & Invest (GTAI) Robotics Automation Industry",
+      "title_original": "Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation - Germany Trade & Invest (GTAI)",
+      "summary_original": "Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation Germany Trade & Invest (GTAI)",
       "published_display": "2026-09-15",
-      "id": "50779000d312"
+      "id": "485c14b3c768"
     },
     {
       "category": "web",
@@ -570,6 +570,26 @@
       "summary_original": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden...",
       "published_display": "2026-09-03",
       "id": "1ae1d8d6cdd7"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı - NewsGram",
+      "summary": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı? NewsGram",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDNydi1pMEcwVU1MaDlaTVAzdGVrYnVZZHFTbUlUWmllOTdybzJfWFZlcVFNLXJxWlpOd0xVTlEzZlplS2czb3FlNzJiX1VfUTRaZUlheTZjVGRIcFhUeG5zLWh4Z3p6dmxGdTNQcXRKWmh2dm5hdnIxYXRyUmVhSlZpNk5LYWhveG5GUjctWkxTUlNHSmNKVTVWYm5oLVBTTlhUYlo2cnF1N3BQLXlYLWtvRF9JbG9LZDVKekUtMDVqeV9z0gHSAUFVX3lxTE9hR25LRGJwV3RZTk40VllZc2tiN1BicDFlNnVHMkdadUJxdFdaVl9uSkVDOUVRTWhQNjZyRllRWWF2QUVsM3ViZVRVd3RaaTVQckkyTE1ael9wM3ZWUGM5a2N0M3lSblROTnhFTDdGS1lHU2R1dDl4OUJpdGhCTl9QQ2hHZWxCMFAwSlY5MDdELTdQSzJjbVRlZEU0MnluMXdsaFBmXzMzN2ZsZWNKT0JPNHA3bWgyMXFmam1WZnpXNl9nRk1FQUtwNW5DRDZDNmhzUQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-17T13:45:29Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı - NewsGram Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı? NewsGram Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - NewsGram Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 NewsGram IP Camera Video Surveillance",
+      "title_original": "Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - NewsGram",
+      "summary_original": "Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 NewsGram",
+      "published_display": "2026-09-17",
+      "id": "d6552c24c98a"
     },
     {
       "category": "kamera",
