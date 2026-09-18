@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-17T20:45:00Z",
-  "total_posts": 34,
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 4,
-    "kamera": 6
+    "kamera": 5
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme",
-      "summary": "Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısı çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı:",
+      "summary": "Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısının çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı:",
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısı çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı: Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on... GitHub Dev Platform",
+      "keywords": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısının çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı: Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on... GitHub Dev Platform",
       "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "summary_original": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on...",
       "published_display": "2026-09-17",
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme",
-      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
+      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
+      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
       "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "summary_original": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
       "published_display": "2026-09-11",
@@ -134,7 +134,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile etkileşimli öğrenmeler oluşturmasına olanak sağlamak",
+      "title": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile öğrenme etkileşimli ortamları oluşturmasına olanak sağlanması",
       "summary": "Eğitim İnovasyonu",
       "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
@@ -145,17 +145,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile etkileşimli öğrenmeler oluşturmasına olanak sağlamak Eğitim İnovasyonu The future of practice: Enabling teachers to create learning interactives with generative UI Education Innovation AI Research Google",
+      "keywords": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile öğrenme etkileşimli ortamları oluşturmasına olanak sağlanması Eğitim İnovasyonu The future of practice: Enabling teachers to create learning interactives with generative UI Education Innovation AI Research Google",
       "title_original": "The future of practice: Enabling teachers to create learning interactives with generative UI",
       "summary_original": "Education Innovation",
       "published_display": "2026-09-17",
-      "id": "e06845b3ed04"
+      "id": "f2295679b755"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Küresel verilerin keşfedilmesini kolaylaştırma",
-      "summary": "Google ve BM sistemi, küresel istatistiklerin erişilebilir ve aranmasını kolay hale getiren yeni bir açık platform olan BM Sistem Veri Ortakları'nı başlattı.",
+      "summary": "Google ve BM sistemi, küresel istatistikleri erişilebilir ve aramayı kolay hale getiren yeni bir açık platform olan BM Sistem Veri Ortakları'nı başlattı.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -165,7 +165,7 @@
         "Product",
         "Google"
       ],
-      "keywords": "Küresel verilerin keşfedilmesini kolaylaştırma Google ve BM sistemi, küresel istatistiklerin erişilebilir ve aranmasını kolay hale getiren yeni bir açık platform olan BM Sistem Veri Ortakları'nı başlattı. Making global data easier to explore Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search. AI Product Google",
+      "keywords": "Küresel verilerin keşfedilmesini kolaylaştırma Google ve BM sistemi, küresel istatistikleri erişilebilir ve aramayı kolay hale getiren yeni bir açık platform olan BM Sistem Veri Ortakları'nı başlattı. Making global data easier to explore Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search. AI Product Google",
       "title_original": "Making global data easier to explore",
       "summary_original": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
       "published_display": "2026-09-17",
@@ -174,8 +174,28 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Cooley, ChatGPT ile halka arz çalışmalarını nasıl hızlandırıyor?",
+      "summary": "Cooley, halka arz sürecine bilgi sağlamak, avukatların sorunları daha erken ortaya çıkarmasına ve yargılamayı en önemli yere odaklamasına yardımcı olmak için ChatGPT Work ile GO Public'i kurdu.",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-17T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Cooley, ChatGPT ile halka arz çalışmalarını nasıl hızlandırıyor? Cooley, halka arz sürecine bilgi sağlamak, avukatların sorunları daha erken ortaya çıkarmasına ve yargılamayı en önemli yere odaklamasına yardımcı olmak için ChatGPT Work ile GO Public'i kurdu. How Cooley is accelerating IPO work with ChatGPT Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most. AI OpenAI Model",
+      "title_original": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary_original": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "published_display": "2026-09-17",
+      "id": "b62812854100"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Hukuk için Astra ile Tanışın",
-      "summary": "Hukuk için OpenAI, hukuk için sınır istihbaratı, özel firma iş akışları, bağlantılı hukuki veri kaynakları ve gizli müşteri çalışmaları için hukuki düzeyde kontroller sağlar.",
+      "summary": "Hukuk için OpenAI, hukuk için sınır istihbaratı, özel firma iş akışları, bağlantılı hukuki veri kaynakları ve gizli müşteri çalışmaları için hukuki düzeyde kontroller sunar.",
       "url": "https://openai.com/index/astra-for-law",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Hukuk için Astra ile Tanışın Hukuk için OpenAI, hukuk için sınır istihbaratı, özel firma iş akışları, bağlantılı hukuki veri kaynakları ve gizli müşteri çalışmaları için hukuki düzeyde kontroller sağlar. Introducing Astra for Law OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work. AI OpenAI Model",
+      "keywords": "Hukuk için Astra ile Tanışın Hukuk için OpenAI, hukuk için sınır istihbaratı, özel firma iş akışları, bağlantılı hukuki veri kaynakları ve gizli müşteri çalışmaları için hukuki düzeyde kontroller sunar. Introducing Astra for Law OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work. AI OpenAI Model",
       "title_original": "Introducing Astra for Law",
       "summary_original": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "published_display": "2026-09-17",
@@ -195,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Model yanlış hizalamasını raporlamaya yönelik çerçevemiz",
-      "summary": "OpenAI, beklenmedik veya endişe verici model davranışına ilişkin altı raporun yanı sıra model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçeveyi paylaşıyor.",
+      "summary": "OpenAI, model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçevenin yanı sıra beklenmedik veya endişe verici model davranışına ilişkin altı raporu paylaşıyor.",
       "url": "https://openai.com/index/model-misalignment-reporting-framework",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Model yanlış hizalamasını raporlamaya yönelik çerçevemiz OpenAI, beklenmedik veya endişe verici model davranışına ilişkin altı raporun yanı sıra model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçeveyi paylaşıyor. Our framework for reporting model misalignment OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. AI OpenAI Model",
+      "keywords": "Model yanlış hizalamasını raporlamaya yönelik çerçevemiz OpenAI, model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçevenin yanı sıra beklenmedik veya endişe verici model davranışına ilişkin altı raporu paylaşıyor. Our framework for reporting model misalignment OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. AI OpenAI Model",
       "title_original": "Our framework for reporting model misalignment",
       "summary_original": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "published_display": "2026-09-16",
@@ -215,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Yaşlı yetişkinlerin yapay zekayı günlük yaşamda kullanmalarına yardımcı olmak",
-      "summary": "OpenAI ve AARP, pratik yapay zeka becerilerini güvenli bir şekilde geliştirmek için ABD'nin 10 şehrinde 1.000 yaşlı yetişkine ücretsiz, uygulamalı ChatGPT atölyeleri sunuyor.",
+      "summary": "OpenAI ve AARP, pratik yapay zeka becerilerini güvenli bir şekilde geliştirmek için ABD'nin 10 şehrinde 1.000 yaşlı yetişkine ücretsiz, uygulamalı ChatGPT atölye çalışmaları sunuyor.",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,37 +245,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Yaşlı yetişkinlerin yapay zekayı günlük yaşamda kullanmalarına yardımcı olmak OpenAI ve AARP, pratik yapay zeka becerilerini güvenli bir şekilde geliştirmek için ABD'nin 10 şehrinde 1.000 yaşlı yetişkine ücretsiz, uygulamalı ChatGPT atölyeleri sunuyor. Helping older adults use AI in everyday life OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely. AI OpenAI Model",
+      "keywords": "Yaşlı yetişkinlerin yapay zekayı günlük yaşamda kullanmalarına yardımcı olmak OpenAI ve AARP, pratik yapay zeka becerilerini güvenli bir şekilde geliştirmek için ABD'nin 10 şehrinde 1.000 yaşlı yetişkine ücretsiz, uygulamalı ChatGPT atölye çalışmaları sunuyor. Helping older adults use AI in everyday life OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely. AI OpenAI Model",
       "title_original": "Helping older adults use AI in everyday life",
       "summary_original": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "published_display": "2026-09-16",
       "id": "83a042e9793b"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yapay zeka ile reklamcılığı yeniden tasarlamak",
-      "summary": "Sponsorlu Temsilciler, pazarlamacılara yönelik araçlar ve HubSpot ve Shopify ile entegrasyonlar da dahil olmak üzere OpenAI'nin yeni yapay zeka destekli reklam deneyimlerini keşfedin.",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-16T13:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Yapay zeka ile reklamcılığı yeniden tasarlamak Sponsorlu Temsilciler, pazarlamacılara yönelik araçlar ve HubSpot ve Shopify ile entegrasyonlar da dahil olmak üzere OpenAI'nin yeni yapay zeka destekli reklam deneyimlerini keşfedin. Reimagining advertising with AI Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify. AI OpenAI Model",
-      "title_original": "Reimagining advertising with AI",
-      "summary_original": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "published_display": "2026-09-16",
-      "id": "f95f4b3880a5"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Advisory",
-      "summary": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı",
+      "summary": "Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUpfRHR3RHVVUDI4SlM0ajhjVVVHRnNWQWI3VUJlSkZ4NjZBNWlMQU91U3g4blNxdDJOR01oSkxnSFBJcEt0WDQ2VlhuM1RsV2ViYzZOZm5saW1qRm5KU2h2eVlxVC1xMHhEcUZCeE5ZNm54eFJsZ0tnc0tTb0tVRlhLdW85YjRYMGdnZURXREZILXU0cndsNDJzb2tyNGpvamkyRGJUakZXQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,7 +265,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Advisory Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Robotics Automation Industry",
+      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Advisory Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Robotics Automation Industry",
       "title_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory",
       "summary_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory",
       "published_display": "2026-09-17",
@@ -275,7 +275,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor - Business Wire",
-      "summary": "A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor Business Wire",
+      "summary": "A3, Otomasyona Yönelik İş Senaryosu ile Endüstriyel Robotiğe Giriş Kursunu Genişletiyor Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY3Jybm5Ga3IyZVpKa01ORDlFVFpMeTlCdmNpdklmcUMxazF0WHUwYjNZUWNZMlZwZkRVUERVeHNsTjhkdUx4Z3NmV3I5eWZCdkRvYUxNTlJHeU5BUTZRa3h4SHZSU2FXZmpkS2dxQkxOVEVJOWp6NGV4XzBTc2VoWGNQV3Z4ZThPcS1NQ2RUU2pOdGdpTy1udDRkdFNDclRmWlNLVlNsNjZJY0pXeGFhNWk4TG1ZV01uLXVkdHdKbjVGSWJUSm9RMkl4R21xLTB0OXd1NjR6SXVFQUxI?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor - Business Wire A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation - Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation Business Wire Robotics Automation Industry",
+      "keywords": "A3, Endüstriyel Robotiğe Giriş Kursunu Otomasyona Yönelik İş Senaryosu ile Genişletiyor - Business Wire A3, Otomasyona Yönelik İş Senaryosu ile Endüstriyel Robotiğe Giriş Kursunu Genişletiyor Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation - Business Wire A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation Business Wire Robotics Automation Industry",
       "title_original": "A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation - Business Wire",
       "summary_original": "A3 Expands Introduction to Industrial Robotics Course with Business Case for Automation Business Wire",
       "published_display": "2026-09-16",
@@ -354,22 +354,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon - Almanya Ticaret ve Yatırım (GTAI)",
-      "summary": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon Almanya Ticaret ve Yatırım (GTAI)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUS0tMmJ5Y2o5dEZqWklISGZldDltdWFWdUk0SXpKM2dSbUZHOGFCS1M2cmdkNEZGSWhZbUQtWmVPSjdINFFwZUFOWGo4V2VScmFxaTdIRzdScU9uc19sbi1CaDk3M0MxdWNWdEtoY0lFN0c2OEVtazVFblhFT2h2dHFrakdpeG5reDVVcG9xdFdtZGREYjZ2dEtVREF3UkFZeUpTUmc0RQ?oc=5",
+      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Yeni Bir Platform olan Gen 7'yi Tanıtıyor - Yahoo! Finans Kanada",
+      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Yeni Bir Platform olan Gen 7'yi Tanıtıyor Yahoo! Finans Kanada",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEpkRGxTeXpOTFVwd3k2STkxTHdHRkFvbDB6bU4xSktOT0xkSXJ0OW14LVhNUUd5aTFMMDR5UF9zR0UzQ0FVOHpqVFFDd2c0UUJWM182VjJZQkp5bW5QUW4zSUhRM0stdllYMGJZc3Z2UjlLTlBrN1A0c0V3OE1YX0dncndfZw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-15T09:22:07Z",
+      "published_at": "2026-09-14T15:22:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon - Almanya Ticaret ve Yatırım (GTAI) Almanya'nın Kilidi Açıldı: Kanada Endüstrisi için İş Fırsatları | Etkinlik | Kanada | Robotik, Otomasyon Almanya Ticaret ve Yatırım (GTAI) Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation - Germany Trade & Invest (GTAI) Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation Germany Trade & Invest (GTAI) Robotics Automation Industry",
-      "title_original": "Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation - Germany Trade & Invest (GTAI)",
-      "summary_original": "Germany Unlocked: Business Opportunities for Canadian Industry | Event | Canada | Robotics, Automation Germany Trade & Invest (GTAI)",
-      "published_display": "2026-09-15",
-      "id": "485c14b3c768"
+      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Yeni Bir Platform olan Gen 7'yi Tanıtıyor - Yahoo! Finans Kanada Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Yeni Bir Platform olan Gen 7'yi Tanıtıyor Yahoo! Finans Kanada Universal Robots Unveils Gen 7, a New Platform for Industrial Automation and Physical AI Deployment - Yahoo! Finance Canada Universal Robots Unveils Gen 7, a New Platform for Industrial Automation and Physical AI Deployment Yahoo! Finance Canada Robotics Automation Industry",
+      "title_original": "Universal Robots Unveils Gen 7, a New Platform for Industrial Automation and Physical AI Deployment - Yahoo! Finance Canada",
+      "summary_original": "Universal Robots Unveils Gen 7, a New Platform for Industrial Automation and Physical AI Deployment Yahoo! Finance Canada",
+      "published_display": "2026-09-14",
+      "id": "bf0b5b94eb8d"
     },
     {
       "category": "web",
@@ -574,8 +574,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı - newsgram.com",
-      "summary": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı newsgram.com",
+      "title": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı - NewsGram",
+      "summary": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı? NewsGram",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDNydi1pMEcwVU1MaDlaTVAzdGVrYnVZZHFTbUlUWmllOTdybzJfWFZlcVFNLXJxWlpOd0xVTlEzZlplS2czb3FlNzJiX1VfUTRaZUlheTZjVGRIcFhUeG5zLWh4Z3p6dmxGdTNQcXRKWmh2dm5hdnIxYXRyUmVhSlZpNk5LYWhveG5GUjctWkxTUlNHSmNKVTVWYm5oLVBTTlhUYlo2cnF1N3BQLXlYLWtvRF9JbG9LZDVKekUtMDVqeV9z0gHSAUFVX3lxTE9hR25LRGJwV3RZTk40VllZc2tiN1BicDFlNnVHMkdadUJxdFdaVl9uSkVDOUVRTWhQNjZyRllRWWF2QUVsM3ViZVRVd3RaaTVQckkyTE1ael9wM3ZWUGM5a2N0M3lSblROTnhFTDdGS1lHU2R1dDl4OUJpdGhCTl9QQ2hHZWxCMFAwSlY5MDdELTdQSzJjbVRlZEU0MnluMXdsaFBmXzMzN2ZsZWNKT0JPNHA3bWgyMXFmam1WZnpXNl9nRk1FQUtwNW5DRDZDNmhzUQ?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı - newsgram.com Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı newsgram.com Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - newsgram.com Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 newsgram.com IP Camera Video Surveillance",
-      "title_original": "Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - newsgram.com",
-      "summary_original": "Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 newsgram.com",
+      "keywords": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı - NewsGram Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı? NewsGram Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - NewsGram Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 NewsGram IP Camera Video Surveillance",
+      "title_original": "Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - NewsGram",
+      "summary_original": "Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 NewsGram",
       "published_display": "2026-09-17",
-      "id": "2cf4b43a0de5"
+      "id": "d6552c24c98a"
     },
     {
       "category": "kamera",
@@ -634,8 +634,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
+      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,31 +645,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
-      "id": "260fa5b969f0"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com",
-      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-08-21T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
-      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
-      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
-      "published_display": "2026-08-21",
-      "id": "f8c52e210230"
+      "id": "bf6b46c1653c"
     },
     {
       "category": "kamera",
