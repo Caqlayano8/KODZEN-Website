@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-17T20:45:00Z",
-  "total_posts": 33,
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 4,
-    "kamera": 5
+    "kamera": 6
   },
   "posts": [
     {
@@ -134,7 +134,7 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile öğrenme etkileşimli ortamları oluşturmasına olanak sağlanması",
+      "title": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile etkileşimli öğrenmeler oluşturmasına olanak sağlamak",
       "summary": "Eğitim İnovasyonu",
       "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
@@ -145,11 +145,11 @@
         "Research",
         "Google"
       ],
-      "keywords": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile öğrenme etkileşimli ortamları oluşturmasına olanak sağlanması Eğitim İnovasyonu The future of practice: Enabling teachers to create learning interactives with generative UI Education Innovation AI Research Google",
+      "keywords": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile etkileşimli öğrenmeler oluşturmasına olanak sağlamak Eğitim İnovasyonu The future of practice: Enabling teachers to create learning interactives with generative UI Education Innovation AI Research Google",
       "title_original": "The future of practice: Enabling teachers to create learning interactives with generative UI",
       "summary_original": "Education Innovation",
       "published_display": "2026-09-17",
-      "id": "f2295679b755"
+      "id": "e06845b3ed04"
     },
     {
       "category": "ai",
@@ -254,8 +254,28 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor - Robotik ve Otomasyon Haberleri",
+      "summary": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGFHWjZCR0tBYzNZckhJVEpzLWVXaDc4LUdEalJDbURLV28xR2RyTnBRSi1MUXMzZklsd2prMHdhc0w0ajdBMjdheTAzYVJ2TzBsSnVyU20zWFF6YmhBeXBpbTZ4c010ckU4Q2E3OTNBTl9WdTBVNU4xSGRSRTRhdEM5VE80SzJDT2FPYmNsNWs5V1R6TE04bmRrUzFNRllHVXRkQ2Zuc2FWaVlUX252ZG1uWS1OZmFsUXNtUlBiS3pWQ2g0MGRjLXA5VjFZSWZySnhqOFB3?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-17T20:19:58Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor - Robotik ve Otomasyon Haberleri Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor Robotik ve Otomasyon Haberleri Universal Robots launches Gen 7 platform for industrial automation and physical AI - Robotics & Automation News Universal Robots launches Gen 7 platform for industrial automation and physical AI Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Universal Robots launches Gen 7 platform for industrial automation and physical AI - Robotics & Automation News",
+      "summary_original": "Universal Robots launches Gen 7 platform for industrial automation and physical AI Robotics & Automation News",
+      "published_display": "2026-09-17",
+      "id": "a37f0c6db0fc"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Advisory",
-      "summary": "Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı",
+      "summary": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUpfRHR3RHVVUDI4SlM0ajhjVVVHRnNWQWI3VUJlSkZ4NjZBNWlMQU91U3g4blNxdDJOR01oSkxnSFBJcEt0WDQ2VlhuM1RsV2ViYzZOZm5saW1qRm5KU2h2eVlxVC1xMHhEcUZCeE5ZNm54eFJsZ0tnc0tTb0tVRlhLdW85YjRYMGdnZURXREZILXU0cndsNDJzb2tyNGpvamkyRGJUakZXQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Advisory Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Robotics Automation Industry",
+      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Advisory Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Robotics Automation Industry",
       "title_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory",
       "summary_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory",
       "published_display": "2026-09-17",
@@ -314,6 +334,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Advisory",
+      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışmanlığı için 7. Nesil Platformu Tanıtıyor",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWRwU3kyUHNvMGR0UGhoRk9kQnluV19IQTNDOE9FQ2NGQmd5Sl85cmowQjNKd2ZaU241WmQwTmVncWlkNDR1a05vN1JhaXRBeTlaNUZHWHNyVEE0VEx2MDBLbGhqbVBPbU1IR180cVBYYzd2NkN3aWJ3REZ1VGg2eFh3QThGSld2TVpFTFJGUFZJeWxVRmxOS014alZDUnFyQWZHVHdSUQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-16T12:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Advisory Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışmanlığı için 7. Nesil Platformu Tanıtıyor Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Robotics Automation Industry",
+      "title_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory",
+      "summary_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory",
+      "published_display": "2026-09-16",
+      "id": "a463e5f12d6a"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler",
       "summary": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9feHlpbVA4WXJtSTNHM0RxZGsxbHVpVXdkY2FkbDNSRTY2UUtUdnh4VlNxVXFubERpSlRJSGNydS1PT2ZkVkNuRU44a3dTYzA1aURmRC11eEVkU0lraE5rY1VYRTc0S29uMHlRSjZSX3Q2YzhHOEE?oc=5",
@@ -330,46 +370,6 @@
       "summary_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs",
       "published_display": "2026-09-16",
       "id": "9588e99d0b9a"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Platformu Tanıtıyor - Arz ve Talep Zinciri Yöneticisi",
-      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Dağıtımı Arz ve Talep Zinciri Yöneticisi Platformunu Tanıtıyor",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY19CTE10UkVMNkdSR0tHYnhsdDUwakhEZzNMQXA2SC1WT0MtdnZsc1RkazBDcjdxT0JkQWl4SHdRWEJTSHVpbzhoblp0QTYxRVZ6WktyOTZVcHVaeE0zQUNJZm5DVlp2cWQ4dzhiVldRRjMwNHRxblBUa29fWDQ5QkUtR29lNDZPTllfWjM5LWlrbWhvYkxSaTZaMTJXUy1BN0tQenVIVW9DVXlrUGNJNHdsZlFHOUxlT0dlM2VGQnUwWUI3V2tjUXc2YXpYTUtZOVFBam14QU9MTHcxQkhGWXhGT1VycEVfMkEzcm1pWWRnVmYx?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-15T21:30:14Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Platformu Tanıtıyor - Arz ve Talep Zinciri Yöneticisi Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Dağıtımı Arz ve Talep Zinciri Yöneticisi Platformunu Tanıtıyor Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment - Supply & Demand Chain Executive Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment Supply & Demand Chain Executive Robotics Automation Industry",
-      "title_original": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment - Supply & Demand Chain Executive",
-      "summary_original": "Universal Robots Unveils Platform for Industrial Automation and Physical AI Deployment Supply & Demand Chain Executive",
-      "published_display": "2026-09-15",
-      "id": "ce5097c075a1"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Yeni Bir Platform olan Gen 7'yi Tanıtıyor - Yahoo! Finans Kanada",
-      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Yeni Bir Platform olan Gen 7'yi Tanıtıyor Yahoo! Finans Kanada",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEpkRGxTeXpOTFVwd3k2STkxTHdHRkFvbDB6bU4xSktOT0xkSXJ0OW14LVhNUUd5aTFMMDR5UF9zR0UzQ0FVOHpqVFFDd2c0UUJWM182VjJZQkp5bW5QUW4zSUhRM0stdllYMGJZc3Z2UjlLTlBrN1A0c0V3OE1YX0dncndfZw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-14T15:22:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Yeni Bir Platform olan Gen 7'yi Tanıtıyor - Yahoo! Finans Kanada Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka Kullanımına Yönelik Yeni Bir Platform olan Gen 7'yi Tanıtıyor Yahoo! Finans Kanada Universal Robots Unveils Gen 7, a New Platform for Industrial Automation and Physical AI Deployment - Yahoo! Finance Canada Universal Robots Unveils Gen 7, a New Platform for Industrial Automation and Physical AI Deployment Yahoo! Finance Canada Robotics Automation Industry",
-      "title_original": "Universal Robots Unveils Gen 7, a New Platform for Industrial Automation and Physical AI Deployment - Yahoo! Finance Canada",
-      "summary_original": "Universal Robots Unveils Gen 7, a New Platform for Industrial Automation and Physical AI Deployment Yahoo! Finance Canada",
-      "published_display": "2026-09-14",
-      "id": "bf0b5b94eb8d"
     },
     {
       "category": "web",
@@ -574,7 +574,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı - NewsGram",
+      "title": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetleme Altyapısını Nasıl Planlamalı - NewsGram",
       "summary": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı? NewsGram",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDNydi1pMEcwVU1MaDlaTVAzdGVrYnVZZHFTbUlUWmllOTdybzJfWFZlcVFNLXJxWlpOd0xVTlEzZlplS2czb3FlNzJiX1VfUTRaZUlheTZjVGRIcFhUeG5zLWh4Z3p6dmxGdTNQcXRKWmh2dm5hdnIxYXRyUmVhSlZpNk5LYWhveG5GUjctWkxTUlNHSmNKVTVWYm5oLVBTTlhUYlo2cnF1N3BQLXlYLWtvRF9JbG9LZDVKekUtMDVqeV9z0gHSAUFVX3lxTE9hR25LRGJwV3RZTk40VllZc2tiN1BicDFlNnVHMkdadUJxdFdaVl9uSkVDOUVRTWhQNjZyRllRWWF2QUVsM3ViZVRVd3RaaTVQckkyTE1ael9wM3ZWUGM5a2N0M3lSblROTnhFTDdGS1lHU2R1dDl4OUJpdGhCTl9QQ2hHZWxCMFAwSlY5MDdELTdQSzJjbVRlZEU0MnluMXdsaFBmXzMzN2ZsZWNKT0JPNHA3bWgyMXFmam1WZnpXNl9nRk1FQUtwNW5DRDZDNmhzUQ?oc=5",
       "image_url": null,
@@ -585,11 +585,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı - NewsGram Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı? NewsGram Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - NewsGram Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 NewsGram IP Camera Video Surveillance",
+      "keywords": "Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetleme Altyapısını Nasıl Planlamalı - NewsGram Akıllı Binalarda Bulut CCTV: Mimarlar 2026'da Video Gözetim Altyapısını Nasıl Planlamalı? NewsGram Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - NewsGram Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 NewsGram IP Camera Video Surveillance",
       "title_original": "Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 - NewsGram",
       "summary_original": "Cloud CCTV in Smart Buildings: How Architects Should Plan Video Surveillance Infrastructure in 2026 NewsGram",
       "published_display": "2026-09-17",
-      "id": "d6552c24c98a"
+      "id": "2d4474b7e1ec"
     },
     {
       "category": "kamera",
@@ -650,6 +650,26 @@
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
       "id": "bf6b46c1653c"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com",
+      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "published_display": "2026-08-21",
+      "id": "8fc2aac65cb9"
     },
     {
       "category": "kamera",
