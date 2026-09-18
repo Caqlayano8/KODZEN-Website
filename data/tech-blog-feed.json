@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-18T13:00:00Z",
+  "updated_at": "2026-09-18T15:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 5
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü?",
+      "summary": "GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-18T15:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü. Should you read the code, is RAG dead, and did Skills kill MCP? We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "summary_original": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .",
+      "published_display": "2026-09-18",
+      "id": "9afba82a029d"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,24 @@
       "id": "a7b7ae8f55d0"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub kullanılabilirlik raporu: Ağustos 2026",
-      "summary": "Ağustos ayında GitHub hizmetlerinde performansın düşmesine neden olan beş olay yaşadık. GitHub kullanılabilirlik raporu: Ağustos 2026 ilk olarak The GitHub Blog'da yayınlandı.",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-10T02:05:17Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Google'ın Yapay Zeka ve Ekonomi ekibine yeni uzmanlar katılıyor",
+      "summary": "Yapay Zeka ve Ekonomi ekibimizi birinci sınıf akademik danışmanlar, araştırmacılar ve çekirdek şirket içi araştırmacılarla genişletiyoruz.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-18T14:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Product",
+        "Google"
       ],
-      "keywords": "GitHub kullanılabilirlik raporu: Ağustos 2026 Ağustos ayında GitHub hizmetlerinde performansın düşmesine neden olan beş olay yaşadık. GitHub kullanılabilirlik raporu: Ağustos 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: August 2026 In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub availability report: August 2026",
-      "summary_original": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
-      "published_display": "2026-09-10",
-      "id": "bcbe7058be72"
+      "keywords": "Google'ın Yapay Zeka ve Ekonomi ekibine yeni uzmanlar katılıyor Yapay Zeka ve Ekonomi ekibimizi birinci sınıf akademik danışmanlar, araştırmacılar ve çekirdek şirket içi araştırmacılarla genişletiyoruz. New experts join Google’s AI & Economy team We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers. AI Product Google",
+      "title_original": "New experts join Google’s AI & Economy team",
+      "summary_original": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "published_display": "2026-09-18",
+      "id": "c12488a825a2"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "43b2a8fb4dfc"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Model yanlış hizalamasını raporlamaya yönelik çerçevemiz",
-      "summary": "OpenAI, beklenmedik veya endişe verici model davranışına ilişkin altı raporun yanı sıra model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçeveyi paylaşıyor.",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-16T17:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Model yanlış hizalamasını raporlamaya yönelik çerçevemiz OpenAI, beklenmedik veya endişe verici model davranışına ilişkin altı raporun yanı sıra model yanlış hizalamasını izlemeye, araştırmaya ve açıklamaya yönelik bir çerçeveyi paylaşıyor. Our framework for reporting model misalignment OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. AI OpenAI Model",
-      "title_original": "Our framework for reporting model misalignment",
-      "summary_original": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "published_display": "2026-09-16",
-      "id": "5e1d8baf984c"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor - Robotik ve Otomasyon Haberleri",
@@ -274,8 +274,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Advisory",
-      "summary": "Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı",
+      "title": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin İşbirliği Yapıyor - ARC Danışma Grubu",
+      "summary": "Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışma Grubu",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUpfRHR3RHVVUDI4SlM0ajhjVVVHRnNWQWI3VUJlSkZ4NjZBNWlMQU91U3g4blNxdDJOR01oSkxnSFBJcEt0WDQ2VlhuM1RsV2ViYzZOZm5saW1qRm5KU2h2eVlxVC1xMHhEcUZCeE5ZNm54eFJsZ0tnc0tTb0tVRlhLdW85YjRYMGdnZURXREZILXU0cndsNDJzb2tyNGpvamkyRGJUakZXQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Advisory Palladyne AI ve FANUC America, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışmanlığı Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Robotics Automation Industry",
-      "title_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory",
-      "summary_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory",
+      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin İşbirliği Yapıyor - ARC Danışma Grubu Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışma Grubu Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Group Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Group Robotics Automation Industry",
+      "title_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Group",
+      "summary_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Group",
       "published_display": "2026-09-17",
-      "id": "6688fb7d1fa4"
+      "id": "764af3e5413a"
     },
     {
       "category": "robotik",
@@ -314,8 +314,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Advisory",
-      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışmanlığı için 7. Nesil Platformu Tanıtıyor",
+      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Danışma Grubu",
+      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışma Grubu için 7. Nesil Platformu Tanıtıyor",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWRwU3kyUHNvMGR0UGhoRk9kQnluV19IQTNDOE9FQ2NGQmd5Sl85cmowQjNKd2ZaU241WmQwTmVncWlkNDR1a05vN1JhaXRBeTlaNUZHWHNyVEE0VEx2MDBLbGhqbVBPbU1IR180cVBYYzd2NkN3aWJ3REZ1VGg2eFh3QThGSld2TVpFTFJGUFZJeWxVRmxOS014alZDUnFyQWZHVHdSUQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Advisory Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışmanlığı için 7. Nesil Platformu Tanıtıyor Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Robotics Automation Industry",
-      "title_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory",
-      "summary_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory",
+      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Danışma Grubu Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışma Grubu için 7. Nesil Platformu Tanıtıyor Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Group Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Group Robotics Automation Industry",
+      "title_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Group",
+      "summary_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Group",
       "published_display": "2026-09-16",
-      "id": "a463e5f12d6a"
+      "id": "d3e4edd1af31"
     },
     {
       "category": "robotik",
@@ -634,8 +634,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com",
-      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - mynorthwest.com",
+      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' mynorthwest.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,11 +645,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
-      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
-      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - mynorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - mynorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle mynorthwest.com",
       "published_display": "2026-08-21",
-      "id": "f8c52e210230"
+      "id": "542750a3049e"
     },
     {
       "category": "kamera",
