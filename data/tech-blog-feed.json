@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-21T07:51:46Z",
-  "total_posts": 32,
+  "updated_at": "2026-09-21T12:00:00Z",
+  "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 4,
-    "kamera": 4
+    "kamera": 3
   },
   "posts": [
     {
@@ -34,7 +34,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Kodu okumalısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü?",
+      "title": "Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü?",
       "summary": "GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
       "image_url": null,
@@ -45,17 +45,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kodu okumalısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü. Should you read the code, is RAG dead, and did Skills kill MCP? We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü. Should you read the code, is RAG dead, and did Skills kill MCP? We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
       "summary_original": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .",
       "published_display": "2026-09-18",
-      "id": "82203cacf841"
+      "id": "9afba82a029d"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme",
-      "summary": "Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısı çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı:",
+      "summary": "Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısının çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı:",
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısı çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı: Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on... GitHub Dev Platform",
+      "keywords": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısının çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı: Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on... GitHub Dev Platform",
       "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "summary_original": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on...",
       "published_display": "2026-09-17",
@@ -134,6 +134,66 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Matematik ve Yapay Zeka Danışma Grubu",
+      "summary": "OpenAI, ortaya çıkan yapay zeka sonuçlarının incelenmesine ve iletilmesine rehberlik etmek için Matematik ve Yapay Zeka alanında bağımsız bir Danışma Grubu ile birlikte çalışıyor.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-21T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Matematik ve Yapay Zeka Danışma Grubu OpenAI, ortaya çıkan yapay zeka sonuçlarının incelenmesine ve iletilmesine rehberlik etmek için Matematik ve Yapay Zeka alanında bağımsız bir Danışma Grubu ile birlikte çalışıyor. Advisory Group on Mathematics and Artificial Intelligence OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results. AI OpenAI Model",
+      "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary_original": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "published_display": "2026-09-21",
+      "id": "ef31a4af4efa"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Yapay zekanın bir sonraki aşaması için standartlar oluşturma",
+      "summary": "OpenAI, güvenliği artırmak için koordineli değerlendirme, raporlama ve yönetişim çağrısında bulunarak ortak küresel yapay zeka standartlarına giden yolu ana hatlarıyla çiziyor.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-21T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Yapay zekanın bir sonraki aşaması için standartlar oluşturma OpenAI, güvenliği artırmak için koordineli değerlendirme, raporlama ve yönetişim çağrısında bulunarak ortak küresel yapay zeka standartlarına giden yolu ana hatlarıyla çiziyor. Building standards for the next phase of AI OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety. AI OpenAI Model",
+      "title_original": "Building standards for the next phase of AI",
+      "summary_original": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "published_display": "2026-09-21",
+      "id": "8465df64f310"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI Akademisi'ni yeni öğrenme yollarıyla genişletiyoruz",
+      "summary": "Çalışanlara, geliştiricilere, liderlere, eğitimcilere ve öğrencilere yönelik pratik yapay zeka becerileri geliştirip sergileyecek yeni OpenAI Academy öğrenme yollarını keşfedin.",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-21T07:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "OpenAI Akademisi'ni yeni öğrenme yollarıyla genişletiyoruz Çalışanlara, geliştiricilere, liderlere, eğitimcilere ve öğrencilere yönelik pratik yapay zeka becerileri geliştirip sergileyecek yeni OpenAI Academy öğrenme yollarını keşfedin. Expanding OpenAI Academy with new learning paths Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills. AI OpenAI Model",
+      "title_original": "Expanding OpenAI Academy with new learning paths",
+      "summary_original": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "published_display": "2026-09-21",
+      "id": "344a95794ea2"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "V7, yapay zeka temsilcilerine kurumsal hafızayı nasıl sağlıyor?",
       "summary": "V7, GPT-5.6'yı kullanarak dağınık şirket dosyalarını, aracıların karmaşık, kaynak bağlantılı işleri tamamlamak için kullanabileceği bağlamlara dönüştürür.",
       "url": "https://openai.com/index/v7",
@@ -192,86 +252,6 @@
       "id": "c12488a825a2"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Modanın geleceğini Google ile birlikte yaratıyoruz",
-      "summary": "Google, NYFW'ye hazırlanmak amacıyla Google Flow araçlarını özel olarak tasarlamak için tasarımcılar Jane Wade ve Sergio Hudson ile yan yana çalıştı.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-18T13:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Modanın geleceğini Google ile birlikte yaratıyoruz Google, NYFW'ye hazırlanmak amacıyla Google Flow araçlarını özel olarak tasarlamak için tasarımcılar Jane Wade ve Sergio Hudson ile yan yana çalıştı. Co-creating the future of fashion with Google Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW. AI Product Google",
-      "title_original": "Co-creating the future of fashion with Google",
-      "summary_original": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-      "published_display": "2026-09-18",
-      "id": "55ea22c7a442"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Avustralya Gençlik Güvenliği Planına Giriş",
-      "summary": "OpenAI, gençleri koruyan ve güçlendiren daha güvenli yapay zeka deneyimleri için altı sütunlu bir yol haritası olan Avustralya Gençlik Güvenliği Planı'nı tanıtıyor.",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-18T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Avustralya Gençlik Güvenliği Planına Giriş OpenAI, gençleri koruyan ve güçlendiren daha güvenli yapay zeka deneyimleri için altı sütunlu bir yol haritası olan Avustralya Gençlik Güvenliği Planı'nı tanıtıyor. Introducing the Australian Youth Safety Blueprint OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people. AI OpenAI Model",
-      "title_original": "Introducing the Australian Youth Safety Blueprint",
-      "summary_original": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "published_display": "2026-09-18",
-      "id": "e6c32bd1297a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile etkileşimli öğrenmeler oluşturmasına olanak sağlamak",
-      "summary": "Eğitim İnovasyonu",
-      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
-      "source": "Google Research Blog",
-      "published_at": "2026-09-17T20:45:00Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Uygulamanın geleceği: Öğretmenlerin üretken kullanıcı arayüzü ile etkileşimli öğrenmeler oluşturmasına olanak sağlamak Eğitim İnovasyonu The future of practice: Enabling teachers to create learning interactives with generative UI Education Innovation AI Research Google",
-      "title_original": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-      "summary_original": "Education Innovation",
-      "published_display": "2026-09-17",
-      "id": "e06845b3ed04"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor - 24-7PressRelease.com",
-      "summary": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor 24-7PressRelease.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM2pPa2ljTTFLTlpGakdjTmIwNk82YXIwdEp4TGduUFdLWkdKZjlCQmo3NXlwNUhyWGlUd2RmN2VDV0tFRWtoUExtVHAxODB3d1ZJSE5JQWdSNmhjTll0bklrUk9nZjVaVWtOZVFYYktIUWZOTUlRVHhWYXVCX0g0b1ZoUEFvUGtwaUtLTzY0WGpkMnlrMjhPQnFVVTZRaWFWS1NCZV9YdDA5Szk5ZGZhUzNONHBQSG1FUWtaWGJlVHB6LTkxemNsN0xmNzRWTG9ZbFVOdDZzTzhlWkgtdVFaeXdMeVNJaDZwMVBnYXBOUjlydw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-21T07:05:23Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor - 24-7PressRelease.com PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor 24-7PressRelease.com PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7PressRelease.com PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7PressRelease.com Robotics Automation Industry",
-      "title_original": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7PressRelease.com",
-      "summary_original": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7PressRelease.com",
-      "published_display": "2026-09-21",
-      "id": "b3166e0e28bf"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotik için Edge AI: Mühendislerin Endüstriyel Otomasyon ve Fiziksel Yapay Zeka hakkında bilmesi gerekenler - Gömülü Bilgi İşlem Tasarımı",
@@ -294,8 +274,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com",
-      "summary": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejiye İhtiyacı Var - Automation World",
+      "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com Robotics Automation Industry",
-      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com",
-      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com",
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejiye İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
+      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
+      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
       "published_display": "2026-09-18",
-      "id": "7e15aebccfb5"
+      "id": "062766c67a43"
     },
     {
       "category": "robotik",
@@ -354,22 +334,42 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Danışma Grubu",
-      "summary": "Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışma Grubu",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUpfRHR3RHVVUDI4SlM0ajhjVVVHRnNWQWI3VUJlSkZ4NjZBNWlMQU91U3g4blNxdDJOR01oSkxnSFBJcEt0WDQ2VlhuM1RsV2ViYzZOZm5saW1qRm5KU2h2eVlxVC1xMHhEcUZCeE5ZNm54eFJsZ0tnc0tTb0tVRlhLdW85YjRYMGdnZURXREZILXU0cndsNDJzb2tyNGpvamkyRGJUakZXQQ?oc=5",
+      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Danışma Grubu",
+      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışma Grubu için 7. Nesil Platformu Tanıtıyor",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWRwU3kyUHNvMGR0UGhoRk9kQnluV19IQTNDOE9FQ2NGQmd5Sl85cmowQjNKd2ZaU241WmQwTmVncWlkNDR1a05vN1JhaXRBeTlaNUZHWHNyVEE0VEx2MDBLbGhqbVBPbU1IR180cVBYYzd2NkN3aWJ3REZ1VGg2eFh3QThGSld2TVpFTFJGUFZJeWxVRmxOS014alZDUnFyQWZHVHdSUQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-17T12:00:00Z",
+      "published_at": "2026-09-16T12:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Danışma Grubu Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışma Grubu Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Group Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Group Robotics Automation Industry",
-      "title_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Group",
-      "summary_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Group",
-      "published_display": "2026-09-17",
-      "id": "2bedd5ff99eb"
+      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Danışma Grubu Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışma Grubu için 7. Nesil Platformu Tanıtıyor Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Group Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Group Robotics Automation Industry",
+      "title_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Group",
+      "summary_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Group",
+      "published_display": "2026-09-16",
+      "id": "d3e4edd1af31"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler",
+      "summary": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9feHlpbVA4WXJtSTNHM0RxZGsxbHVpVXdkY2FkbDNSRTY2UUtUdnh4VlNxVXFubERpSlRJSGNydS1PT2ZkVkNuRU44a3dTYzA1aURmRC11eEVkU0lraE5rY1VYRTc0S29uMHlRSjZSX3Q2YzhHOEE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-16T08:25:37Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs Robotics Automation Industry",
+      "title_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs",
+      "summary_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs",
+      "published_display": "2026-09-16",
+      "id": "9588e99d0b9a"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -570,26 +570,6 @@
       "summary_original": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden...",
       "published_display": "2026-09-03",
       "id": "1ae1d8d6cdd7"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor - Pasquale Pillitteri",
-      "summary": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHh0Sk9LSWNVTWdQQzJLRjRVVFFMZDh2LTNOb296SWc4YTZrT2dRb1NGbDI0ZW9DTWVXYXNDS1FwWE85U2FhOHRpbWR3d0ZKQjdOVjZvMEZaaW1ZcWw5TmdxVXU3YkhwcUl3WjNtRnRZbk1JRlNzRnlwX0ZyQ0xMbU9ZOA?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-17T07:59:41Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor - Pasquale Pillitteri TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri",
-      "summary_original": "TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri",
-      "published_display": "2026-09-17",
-      "id": "132ea46b82fb"
     },
     {
       "category": "kamera",
