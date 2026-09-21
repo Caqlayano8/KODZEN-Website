@@ -1,20 +1,40 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-18T22:54:06Z",
-  "total_posts": 33,
+  "updated_at": "2026-09-21T07:51:46Z",
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 4,
-    "kamera": 5
+    "kamera": 4
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü?",
+      "title": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir",
+      "summary": "Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, ardından daha sonra yayımlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
+      "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-21T07:51:46Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, ardından daha sonra yayımlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
+      "title_original": "Knowledge cutoff is a poor proxy for model capability",
+      "summary_original": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is...",
+      "published_display": "2026-09-21",
+      "id": "7913e43aa8c3"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Kodu okumalısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü?",
       "summary": "GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
       "image_url": null,
@@ -25,11 +45,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü. Should you read the code, is RAG dead, and did Skills kill MCP? We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Kodu okumalısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü. Should you read the code, is RAG dead, and did Skills kill MCP? We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
       "summary_original": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .",
       "published_display": "2026-09-18",
-      "id": "9afba82a029d"
+      "id": "82203cacf841"
     },
     {
       "category": "yazilim",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme",
-      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
+      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,31 +125,31 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
+      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
       "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "summary_original": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
       "published_display": "2026-09-11",
       "id": "5bed9927ab74"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma",
-      "summary": "Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "V7, yapay zeka temsilcilerine kurumsal hafızayı nasıl sağlıyor?",
+      "summary": "V7, GPT-5.6'yı kullanarak dağınık şirket dosyalarını, aracıların karmaşık, kaynak bağlantılı işleri tamamlamak için kullanabileceği bağlamlara dönüştürür.",
+      "url": "https://openai.com/index/v7",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-10T21:31:19Z",
+      "source": "OpenAI News",
+      "published_at": "2026-09-21T00:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter... GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter... GitHub Dev Platform",
-      "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "summary_original": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter...",
-      "published_display": "2026-09-10",
-      "id": "a7b7ae8f55d0"
+      "keywords": "V7, yapay zeka temsilcilerine kurumsal hafızayı nasıl sağlıyor? V7, GPT-5.6'yı kullanarak dağınık şirket dosyalarını, aracıların karmaşık, kaynak bağlantılı işleri tamamlamak için kullanabileceği bağlamlara dönüştürür. How V7 gives AI agents institutional memory Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work. AI OpenAI Model",
+      "title_original": "How V7 gives AI agents institutional memory",
+      "summary_original": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "published_display": "2026-09-21",
+      "id": "c9f915b6386d"
     },
     {
       "category": "ai",
@@ -232,24 +252,24 @@
       "id": "e06845b3ed04"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Küresel verilerin keşfedilmesini kolaylaştırma",
-      "summary": "Google ve BM sistemi, küresel istatistiklerin erişilebilir ve aranmasını kolay hale getiren yeni bir açık platform olan BM Sistem Veri Ortakları'nı başlattı.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-17T20:00:00Z",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor - 24-7PressRelease.com",
+      "summary": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor 24-7PressRelease.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM2pPa2ljTTFLTlpGakdjTmIwNk82YXIwdEp4TGduUFdLWkdKZjlCQmo3NXlwNUhyWGlUd2RmN2VDV0tFRWtoUExtVHAxODB3d1ZJSE5JQWdSNmhjTll0bklrUk9nZjVaVWtOZVFYYktIUWZOTUlRVHhWYXVCX0g0b1ZoUEFvUGtwaUtLTzY0WGpkMnlrMjhPQnFVVTZRaWFWS1NCZV9YdDA5Szk5ZGZhUzNONHBQSG1FUWtaWGJlVHB6LTkxemNsN0xmNzRWTG9ZbFVOdDZzTzhlWkgtdVFaeXdMeVNJaDZwMVBnYXBOUjlydw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-21T07:05:23Z",
       "tags": [
-        "AI",
-        "Product",
-        "Google"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Küresel verilerin keşfedilmesini kolaylaştırma Google ve BM sistemi, küresel istatistiklerin erişilebilir ve aranmasını kolay hale getiren yeni bir açık platform olan BM Sistem Veri Ortakları'nı başlattı. Making global data easier to explore Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search. AI Product Google",
-      "title_original": "Making global data easier to explore",
-      "summary_original": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "published_display": "2026-09-17",
-      "id": "1bb86e24b47d"
+      "keywords": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor - 24-7PressRelease.com PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor 24-7PressRelease.com PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7PressRelease.com PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7PressRelease.com Robotics Automation Industry",
+      "title_original": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7PressRelease.com",
+      "summary_original": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7PressRelease.com",
+      "published_display": "2026-09-21",
+      "id": "b3166e0e28bf"
     },
     {
       "category": "robotik",
@@ -274,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World",
-      "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com",
+      "summary": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
-      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
-      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com Robotics Automation Industry",
+      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com",
+      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com",
       "published_display": "2026-09-18",
-      "id": "039edb8422e2"
+      "id": "7e15aebccfb5"
     },
     {
       "category": "robotik",
@@ -334,42 +354,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - arcweb.com",
-      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor arcweb.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWRwU3kyUHNvMGR0UGhoRk9kQnluV19IQTNDOE9FQ2NGQmd5Sl85cmowQjNKd2ZaU241WmQwTmVncWlkNDR1a05vN1JhaXRBeTlaNUZHWHNyVEE0VEx2MDBLbGhqbVBPbU1IR180cVBYYzd2NkN3aWJ3REZ1VGg2eFh3QThGSld2TVpFTFJGUFZJeWxVRmxOS014alZDUnFyQWZHVHdSUQ?oc=5",
+      "title": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Danışma Grubu",
+      "summary": "Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışma Grubu",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUpfRHR3RHVVUDI4SlM0ajhjVVVHRnNWQWI3VUJlSkZ4NjZBNWlMQU91U3g4blNxdDJOR01oSkxnSFBJcEt0WDQ2VlhuM1RsV2ViYzZOZm5saW1qRm5KU2h2eVlxVC1xMHhEcUZCeE5ZNm54eFJsZ0tnc0tTb0tVRlhLdW85YjRYMGdnZURXREZILXU0cndsNDJzb2tyNGpvamkyRGJUakZXQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-16T12:00:00Z",
+      "published_at": "2026-09-17T12:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - arcweb.com Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor arcweb.com Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - arcweb.com Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI arcweb.com Robotics Automation Industry",
-      "title_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - arcweb.com",
-      "summary_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI arcweb.com",
-      "published_display": "2026-09-16",
-      "id": "c9d454d94d04"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler",
-      "summary": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9feHlpbVA4WXJtSTNHM0RxZGsxbHVpVXdkY2FkbDNSRTY2UUtUdnh4VlNxVXFubERpSlRJSGNydS1PT2ZkVkNuRU44a3dTYzA1aURmRC11eEVkU0lraE5rY1VYRTc0S29uMHlRSjZSX3Q2YzhHOEE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-16T08:25:37Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs Robotics Automation Industry",
-      "title_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs",
-      "summary_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs",
-      "published_display": "2026-09-16",
-      "id": "9588e99d0b9a"
+      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Danışma Grubu Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışma Grubu Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Group Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Group Robotics Automation Industry",
+      "title_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Group",
+      "summary_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Group",
+      "published_display": "2026-09-17",
+      "id": "2bedd5ff99eb"
     },
     {
       "category": "web",
@@ -615,7 +615,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Slovakya, 279 yeni trafik kamerasında Rusya'nın arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,31 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rusya'nın arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rusya'nın arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
       "id": "46cbcdb0293f"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com",
-      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-08-21T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
-      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
-      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
-      "published_display": "2026-08-21",
-      "id": "8fc2aac65cb9"
     },
     {
       "category": "kamera",
