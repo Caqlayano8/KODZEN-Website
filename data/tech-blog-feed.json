@@ -1,36 +1,16 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-22T18:00:00Z",
-  "total_posts": 31,
+  "updated_at": "2026-09-22T21:00:00Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 4,
-    "kamera": 3
+    "kamera": 5
   },
   "posts": [
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir",
-      "summary": "Bir model, bilgi kesintisinden önce yayınlanan özelliklerde başarısız olabilir, ardından daha sonra yayınlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
-      "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-09-21T07:51:46Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayınlanan özelliklerde başarısız olabilir, ardından daha sonra yayınlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
-      "title_original": "Knowledge cutoff is a poor proxy for model capability",
-      "summary_original": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is...",
-      "published_display": "2026-09-21",
-      "id": "7913e43aa8c3"
-    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -74,46 +54,6 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "AI kodlama aracısı değerlendirmeniz yalnızca korumalı alanı kadar iyidir",
-      "summary": "Yapay zeka kodlama temsilciniz değerlendirmeyi geçti. Peki model cevabı biliyor muydu, yoksa makinenizde bir yerde mi buldu? Doğru bir cevap yine de ölçümünüzü geçersiz kılabilir. AI kodlama aracınızın değerlendirmesi yalnızca onun kadar iyidir...",
-      "url": "https://devblogs.microsoft.com/blog/your-ai-coding-agent-evaluation-is-only-as-good-as-its-sandbox/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-09-16T09:09:51Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "AI kodlama aracısı değerlendirmeniz yalnızca korumalı alanı kadar iyidir Yapay zeka kodlama temsilciniz değerlendirmeyi geçti. Peki model cevabı biliyor muydu, yoksa makinenizde bir yerde mi buldu? Doğru bir cevap yine de ölçümünüzü geçersiz kılabilir. AI kodlama aracınızın değerlendirmesi yalnızca onun kadar iyidir... Your AI coding agent evaluation is only as good as its sandbox Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its... Microsoft Dev Cloud",
-      "title_original": "Your AI coding agent evaluation is only as good as its sandbox",
-      "summary_original": "Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its...",
-      "published_display": "2026-09-16",
-      "id": "e72414dc9f6b"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot SDK'sıyla röportaj koçu uygulaması oluşturun",
-      "summary": "Bir röportaj koçunun soru sormaktan daha fazlasını yapması gerekir. Bir özgeçmişi okuması, eksik bir yanıtı takip etmesi ve sonunda yararlı geri bildirim sağlamak için yeterli bağlamı kaydetmesi gerekir. Bu işin bir kısmı sohbettir. Bazıları aramayı gerektiriyor...",
-      "url": "https://devblogs.microsoft.com/blog/build-an-interview-coach-app-with-the-github-copilot-sdk/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-09-15T16:00:11Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "GitHub Copilot SDK'sıyla röportaj koçu uygulaması oluşturun Bir röportaj koçunun soru sormaktan daha fazlasını yapması gerekir. Bir özgeçmişi okuması, eksik bir yanıtı takip etmesi ve sonunda yararlı geri bildirim sağlamak için yeterli bağlamı kaydetmesi gerekir. Bu işin bir kısmı sohbettir. Bazıları aramayı gerektiriyor... Build an interview coach app with the GitHub Copilot SDK An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin... Microsoft Dev Cloud",
-      "title_original": "Build an interview coach app with the GitHub Copilot SDK",
-      "summary_original": "An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin...",
-      "published_display": "2026-09-15",
-      "id": "9c498cde7a77"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
       "title": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme",
       "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
@@ -130,6 +70,86 @@
       "summary_original": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
       "published_display": "2026-09-11",
       "id": "5bed9927ab74"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma",
+      "summary": "Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-10T21:31:19Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter... GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter... GitHub Dev Platform",
+      "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "summary_original": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter...",
+      "published_display": "2026-09-10",
+      "id": "a7b7ae8f55d0"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub kullanılabilirlik raporu: Ağustos 2026",
+      "summary": "Ağustos ayında GitHub hizmetlerinde performansın düşmesine neden olan beş olay yaşadık. GitHub kullanılabilirlik raporu: Ağustos 2026 ilk olarak The GitHub Blog'da yayınlandı.",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-10T02:05:17Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub kullanılabilirlik raporu: Ağustos 2026 Ağustos ayında GitHub hizmetlerinde performansın düşmesine neden olan beş olay yaşadık. GitHub kullanılabilirlik raporu: Ağustos 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: August 2026 In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub availability report: August 2026",
+      "summary_original": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
+      "published_display": "2026-09-10",
+      "id": "bcbe7058be72"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite",
+      "summary": "Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-04T16:04:14Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası... Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project... GitHub Dev Platform",
+      "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary_original": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project...",
+      "published_display": "2026-09-04",
+      "id": "31111add5af4"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT-6 için daha iyi istem önbelleğe alma",
+      "summary": "GPT-6'nın daha yüksek önbellek isabet oranları, yeni tanılamalar, açık kesme noktaları ve gecikmeyi ve maliyetleri azaltan kontrollerle anında önbelleğe almayı nasıl iyileştirdiğini öğrenin.",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-22T21:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GPT-6 için daha iyi istem önbelleğe alma GPT-6'nın daha yüksek önbellek isabet oranları, yeni tanılamalar, açık kesme noktaları ve gecikmeyi ve maliyetleri azaltan kontrollerle anında önbelleğe almayı nasıl iyileştirdiğini öğrenin. Better prompt caching for GPT-6 Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs. AI OpenAI Model",
+      "title_original": "Better prompt caching for GPT-6",
+      "summary_original": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "published_display": "2026-09-22",
+      "id": "649706759bde"
     },
     {
       "category": "ai",
@@ -150,6 +170,26 @@
       "summary_original": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
       "published_display": "2026-09-22",
       "id": "5f170f76dcc1"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT‑6 Astra ile paralel olarak araştırma süresi ve maliyeti yarıya indirildi",
+      "summary": "GPT‑6 Astra, Parallel temsilcilerinin işgücü piyasası verilerini önceki modellere göre yarı sürede ve yarı maliyetle araştırmasına ve sentezlemesine olanak tanıdı.",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-22T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GPT‑6 Astra ile paralel olarak araştırma süresi ve maliyeti yarıya indirildi GPT‑6 Astra, Parallel temsilcilerinin işgücü piyasası verilerini önceki modellere göre yarı sürede ve yarı maliyetle araştırmasına ve sentezlemesine olanak tanıdı. Parallel cut research time and cost in half with GPT‑6 Astra GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. AI OpenAI Model",
+      "title_original": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary_original": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "published_display": "2026-09-22",
+      "id": "8eafe1175976"
     },
     {
       "category": "ai",
@@ -212,46 +252,6 @@
       "id": "a74dde8e33ba"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yapay zekanın bir sonraki aşaması için standartlar oluşturma",
-      "summary": "OpenAI, güvenliği artırmak için koordineli değerlendirme, raporlama ve yönetişim çağrısında bulunarak ortak küresel yapay zeka standartlarına giden yolu ana hatlarıyla çiziyor.",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-21T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Yapay zekanın bir sonraki aşaması için standartlar oluşturma OpenAI, güvenliği artırmak için koordineli değerlendirme, raporlama ve yönetişim çağrısında bulunarak ortak küresel yapay zeka standartlarına giden yolu ana hatlarıyla çiziyor. Building standards for the next phase of AI OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety. AI OpenAI Model",
-      "title_original": "Building standards for the next phase of AI",
-      "summary_original": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "published_display": "2026-09-21",
-      "id": "8465df64f310"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI Akademisi'ni yeni öğrenme yollarıyla genişletiyoruz",
-      "summary": "Pratik AI becerilerini geliştirmek ve göstermek için çalışanlara, geliştiricilere, liderlere, eğitimcilere ve öğrencilere yönelik yeni OpenAI Academy öğrenme yollarını keşfedin.",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-21T07:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI Akademisi'ni yeni öğrenme yollarıyla genişletiyoruz Pratik AI becerilerini geliştirmek ve göstermek için çalışanlara, geliştiricilere, liderlere, eğitimcilere ve öğrencilere yönelik yeni OpenAI Academy öğrenme yollarını keşfedin. Expanding OpenAI Academy with new learning paths Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills. AI OpenAI Model",
-      "title_original": "Expanding OpenAI Academy with new learning paths",
-      "summary_original": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "published_display": "2026-09-21",
-      "id": "344a95794ea2"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Nuvoton, Robotik ve Endüstriyel Otomasyon için NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor - ELE Times",
@@ -274,8 +274,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor - 24-7PressRelease.com",
-      "summary": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor 24-7PressRelease.com",
+      "title": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor - 7-24 Basın Bülteni Newswire",
+      "summary": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor 7-24 Basın Bülteni Newswire",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM2pPa2ljTTFLTlpGakdjTmIwNk82YXIwdEp4TGduUFdLWkdKZjlCQmo3NXlwNUhyWGlUd2RmN2VDV0tFRWtoUExtVHAxODB3d1ZJSE5JQWdSNmhjTll0bklrUk9nZjVaVWtOZVFYYktIUWZOTUlRVHhWYXVCX0g0b1ZoUEFvUGtwaUtLTzY0WGpkMnlrMjhPQnFVVTZRaWFWS1NCZV9YdDA5Szk5ZGZhUzNONHBQSG1FUWtaWGJlVHB6LTkxemNsN0xmNzRWTG9ZbFVOdDZzTzhlWkgtdVFaeXdMeVNJaDZwMVBnYXBOUjlydw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,17 +285,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor - 24-7PressRelease.com PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor 24-7PressRelease.com PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7PressRelease.com PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7PressRelease.com Robotics Automation Industry",
-      "title_original": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7PressRelease.com",
-      "summary_original": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7PressRelease.com",
+      "keywords": "PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor - 7-24 Basın Bülteni Newswire PLC Simülasyon Yazılımı, HMI, Robotik ve 3D Laboratuarlarla Tarayıcı Tabanlı Endüstriyel Otomasyon Eğitimini Genişletiyor 7-24 Basın Bülteni Newswire PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7 Press Release Newswire PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7 Press Release Newswire Robotics Automation Industry",
+      "title_original": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7 Press Release Newswire",
+      "summary_original": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7 Press Release Newswire",
       "published_display": "2026-09-21",
-      "id": "b3166e0e28bf"
+      "id": "b33f193a5a81"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World",
-      "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com",
+      "summary": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
-      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
-      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com Robotics Automation Industry",
+      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com",
+      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com",
       "published_display": "2026-09-18",
-      "id": "039edb8422e2"
+      "id": "7e15aebccfb5"
     },
     {
       "category": "robotik",
@@ -574,6 +574,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Ev güvenlik kameralarınızı siber saldırılardan ve yetkisiz erişimden nasıl korursunuz - ARYnews.tv",
+      "summary": "Ev güvenlik kameralarınızı siber saldırılardan ve yetkisiz erişimden nasıl korursunuz ARYnews.tv",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzZYLWExZTBfcDk4VWFQTGtxSXF5bElRUHJhZ2JSb1UwaTA4ckJ1N2ZBbHRqdG5kX3hDQmU2SDJGSGRtNEl5MnVmN0w5ZkxDNzFXWU9LYkN6U3ZRcEE5VVNYT0hDTlN2aUlQNTRSOWp1aWswNWRYV3B3UTI3dXRMYjRfUElKQ1B5MjlwcFBFX0V0X18yYVJDcFZ2SURfbk1KSWQxZHB3?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-22T17:34:11Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Ev güvenlik kameralarınızı siber saldırılardan ve yetkisiz erişimden nasıl korursunuz - ARYnews.tv Ev güvenlik kameralarınızı siber saldırılardan ve yetkisiz erişimden nasıl korursunuz ARYnews.tv How to protect your home security cameras from cyber attacks and unauthorized access - ARYnews.tv How to protect your home security cameras from cyber attacks and unauthorized access ARYnews.tv IP Camera Video Surveillance",
+      "title_original": "How to protect your home security cameras from cyber attacks and unauthorized access - ARYnews.tv",
+      "summary_original": "How to protect your home security cameras from cyber attacks and unauthorized access ARYnews.tv",
+      "published_display": "2026-09-22",
+      "id": "2cb2987d70c4"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
       "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
@@ -590,6 +610,26 @@
       "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
       "published_display": "2026-09-16",
       "id": "8218ddf01fee"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
+      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-04T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
+      "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
+      "published_display": "2026-09-04",
+      "id": "dab0bd92473a"
     },
     {
       "category": "kamera",
