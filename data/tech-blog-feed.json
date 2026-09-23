@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-22T21:00:00Z",
-  "total_posts": 33,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 4,
-    "kamera": 5
+    "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir",
+      "summary": "Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, ardından daha sonra yayımlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
+      "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-21T07:51:46Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, ardından daha sonra yayımlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
+      "title_original": "Knowledge cutoff is a poor proxy for model capability",
+      "summary_original": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is...",
+      "published_display": "2026-09-21",
+      "id": "7913e43aa8c3"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -54,8 +74,48 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
+      "title": "AI kodlama aracısı değerlendirmeniz yalnızca korumalı alanı kadar iyidir",
+      "summary": "Yapay zeka kodlama temsilciniz değerlendirmeyi geçti. Peki model cevabı biliyor muydu, yoksa makinenizde bir yerde mi buldu? Doğru bir cevap yine de ölçümünüzü geçersiz kılabilir. AI kodlama aracınızın değerlendirmesi yalnızca onun kadar iyidir...",
+      "url": "https://devblogs.microsoft.com/blog/your-ai-coding-agent-evaluation-is-only-as-good-as-its-sandbox/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-16T09:09:51Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "AI kodlama aracısı değerlendirmeniz yalnızca korumalı alanı kadar iyidir Yapay zeka kodlama temsilciniz değerlendirmeyi geçti. Peki model cevabı biliyor muydu, yoksa makinenizde bir yerde mi buldu? Doğru bir cevap yine de ölçümünüzü geçersiz kılabilir. AI kodlama aracınızın değerlendirmesi yalnızca onun kadar iyidir... Your AI coding agent evaluation is only as good as its sandbox Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its... Microsoft Dev Cloud",
+      "title_original": "Your AI coding agent evaluation is only as good as its sandbox",
+      "summary_original": "Your AI coding agent passed the eval. But did the model know the answer, or did it find it somewhere on your machine? A correct answer can still invalidate your measurement. The post Your AI coding agent evaluation is only as good as its...",
+      "published_display": "2026-09-16",
+      "id": "e72414dc9f6b"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot SDK'sıyla röportaj koçu uygulaması oluşturun",
+      "summary": "Bir röportaj koçunun soru sormaktan daha fazlasını yapması gerekir. Bir özgeçmişi okuması, eksik bir yanıtı takip etmesi ve sonunda yararlı geri bildirim sağlamak için yeterli bağlamı kaydetmesi gerekir. Bu işin bir kısmı sohbettir. Bazıları aramayı gerektiriyor...",
+      "url": "https://devblogs.microsoft.com/blog/build-an-interview-coach-app-with-the-github-copilot-sdk/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-15T16:00:11Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "GitHub Copilot SDK'sıyla röportaj koçu uygulaması oluşturun Bir röportaj koçunun soru sormaktan daha fazlasını yapması gerekir. Bir özgeçmişi okuması, eksik bir yanıtı takip etmesi ve sonunda yararlı geri bildirim sağlamak için yeterli bağlamı kaydetmesi gerekir. Bu işin bir kısmı sohbettir. Bazıları aramayı gerektiriyor... Build an interview coach app with the GitHub Copilot SDK An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin... Microsoft Dev Cloud",
+      "title_original": "Build an interview coach app with the GitHub Copilot SDK",
+      "summary_original": "An interview coach has to do more than ask questions. It needs to read a resume, follow up on an incomplete answer, and save enough context to give useful feedback at the end. Some of that work is conversation. Some of it requires callin...",
+      "published_display": "2026-09-15",
+      "id": "9c498cde7a77"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
       "title": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme",
-      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
+      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,76 +125,16 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarımı burada bulabilirsiniz. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
+      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
       "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "summary_original": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
       "published_display": "2026-09-11",
       "id": "5bed9927ab74"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma",
-      "summary": "Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-10T21:31:19Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Farkı, terminali ve tarayıcıyı kullanma Aracı tarafından oluşturulan kodu kontrol etmek genellikle sekmeler arasında geçiş yapmak anlamına gelir. GitHub Copilot uygulamasında farkları nasıl görüntüleyeceğinizi, terminal komutlarını nasıl çalıştıracağınızı ve web uygulamalarını yan yana nasıl önizleyeceğinizi öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Farkı kullanma, ter... GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter... GitHub Dev Platform",
-      "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "summary_original": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, ter...",
-      "published_display": "2026-09-10",
-      "id": "a7b7ae8f55d0"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub kullanılabilirlik raporu: Ağustos 2026",
-      "summary": "Ağustos ayında GitHub hizmetlerinde performansın düşmesine neden olan beş olay yaşadık. GitHub kullanılabilirlik raporu: Ağustos 2026 ilk olarak The GitHub Blog'da yayınlandı.",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-10T02:05:17Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub kullanılabilirlik raporu: Ağustos 2026 Ağustos ayında GitHub hizmetlerinde performansın düşmesine neden olan beş olay yaşadık. GitHub kullanılabilirlik raporu: Ağustos 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: August 2026 In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub availability report: August 2026",
-      "summary_original": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
-      "published_display": "2026-09-10",
-      "id": "bcbe7058be72"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite",
-      "summary": "Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-04T16:04:14Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Project HydraFusion: Çok modelli orkestrasyon aracılığıyla üstün kalite Kontrollü çevrimdışı değerlendirmelerde HydraFusion'ın seçici kodlama iş akışları, değerlendirilen Opus 5 temel çizgisiyle eşleşti veya onu aştı, aynı zamanda tahmini iş akışı maliyetini düşürdü. Artık GitHub Copilot'ta araştırma önizlemesi olarak mevcut. Proje sonrası... Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project... GitHub Dev Platform",
-      "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "summary_original": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project...",
-      "published_display": "2026-09-04",
-      "id": "31111add5af4"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "GPT-6 için daha iyi istem önbelleğe alma",
+      "title": "GPT-6 için daha iyi hızlı önbelleğe alma",
       "summary": "GPT-6'nın daha yüksek önbellek isabet oranları, yeni tanılamalar, açık kesme noktaları ve gecikmeyi ve maliyetleri azaltan kontrollerle anında önbelleğe almayı nasıl iyileştirdiğini öğrenin.",
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "image_url": null,
@@ -145,11 +145,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "GPT-6 için daha iyi istem önbelleğe alma GPT-6'nın daha yüksek önbellek isabet oranları, yeni tanılamalar, açık kesme noktaları ve gecikmeyi ve maliyetleri azaltan kontrollerle anında önbelleğe almayı nasıl iyileştirdiğini öğrenin. Better prompt caching for GPT-6 Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs. AI OpenAI Model",
+      "keywords": "GPT-6 için daha iyi hızlı önbelleğe alma GPT-6'nın daha yüksek önbellek isabet oranları, yeni tanılamalar, açık kesme noktaları ve gecikmeyi ve maliyetleri azaltan kontrollerle anında önbelleğe almayı nasıl iyileştirdiğini öğrenin. Better prompt caching for GPT-6 Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs. AI OpenAI Model",
       "title_original": "Better prompt caching for GPT-6",
       "summary_original": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "published_display": "2026-09-22",
-      "id": "649706759bde"
+      "id": "3b3ecd323e53"
     },
     {
       "category": "ai",
@@ -294,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com",
-      "summary": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejiye İhtiyacı Var - Automation World",
+      "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com Robotics Automation Industry",
-      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com",
-      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com",
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejiye İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
+      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
+      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
       "published_display": "2026-09-18",
-      "id": "7e15aebccfb5"
+      "id": "062766c67a43"
     },
     {
       "category": "robotik",
@@ -354,22 +354,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Danışma Grubu",
-      "summary": "Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışma Grubu",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUpfRHR3RHVVUDI4SlM0ajhjVVVHRnNWQWI3VUJlSkZ4NjZBNWlMQU91U3g4blNxdDJOR01oSkxnSFBJcEt0WDQ2VlhuM1RsV2ViYzZOZm5saW1qRm5KU2h2eVlxVC1xMHhEcUZCeE5ZNm54eFJsZ0tnc0tTb0tVRlhLdW85YjRYMGdnZURXREZILXU0cndsNDJzb2tyNGpvamkyRGJUakZXQQ?oc=5",
+      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Danışma Grubu",
+      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışma Grubu için 7. Nesil Platformu Tanıtıyor",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWRwU3kyUHNvMGR0UGhoRk9kQnluV19IQTNDOE9FQ2NGQmd5Sl85cmowQjNKd2ZaU241WmQwTmVncWlkNDR1a05vN1JhaXRBeTlaNUZHWHNyVEE0VEx2MDBLbGhqbVBPbU1IR180cVBYYzd2NkN3aWJ3REZ1VGg2eFh3QThGSld2TVpFTFJGUFZJeWxVRmxOS014alZDUnFyQWZHVHdSUQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-17T12:00:00Z",
+      "published_at": "2026-09-16T12:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Palladyne Yapay Zeka ve FANUC Amerika, Akıllı Robotik Otomasyonun Kapsamını Genişletmek İçin İşbirliği Yapıyor - ARC Danışma Grubu Palladyne AI ve FANUC Amerika, Akıllı Robotik Otomasyonun Erişim Alanını Genişletmek İçin Ortak Oluyor ARC Danışma Grubu Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Group Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Group Robotics Automation Industry",
-      "title_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation - ARC Advisory Group",
-      "summary_original": "Palladyne AI and FANUC America Partner to Expand the Reach of Intelligent Robotic Automation ARC Advisory Group",
-      "published_display": "2026-09-17",
-      "id": "2bedd5ff99eb"
+      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Danışma Grubu Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışma Grubu için 7. Nesil Platformu Tanıtıyor Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Group Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Group Robotics Automation Industry",
+      "title_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Group",
+      "summary_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Group",
+      "published_display": "2026-09-16",
+      "id": "d3e4edd1af31"
     },
     {
       "category": "web",
@@ -614,28 +614,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews",
-      "summary": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZURHRWlKbzJuOWM2TGduODMwcXc4a2pqRkxzSGtnU1JFbGVmS0Y5eVlfUk9LbnNEbmRLYVVaTXZ2SDAyWWUtTGR6T0Fpb2dfV0l4UzNYYTBZZHhSX2tMU1JB0gFnQVVfeXFMTXRXRExlc2JKMjQtUVlQblE0cTF3c1JTWjliNW53d2Y0b0t5MWE0VFk1dGFIS3RBTVpveHBhV1lTRmEtYkxmeGRHdW0xSHctOEZqSFpaWGF6YmpReEViVVhnVVVMYmFWdw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-04T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Girmiş Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtuldu - CyberSecurityNews Dahua Kamera Arka Kapısı Güvenliği Tehlike Altına Giren Cihazlardaki Şifre Değişikliklerinden ve Fabrika Sıfırlamalarından Kurtulabiliyor CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices - CyberSecurityNews",
-      "summary_original": "Dahua Camera Backdoor Survives Password Changes and Factory Resets on Compromised Devices CyberSecurityNews",
-      "published_display": "2026-09-04",
-      "id": "dab0bd92473a"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,7 +625,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
