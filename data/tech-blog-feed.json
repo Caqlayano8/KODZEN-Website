@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-22T21:00:00Z",
+  "updated_at": "2026-09-23T16:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,28 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
+      "title": "Geliştiriciler daha verimli yazılımlar istiyor. İşte 1000'den fazla GitHub kullanıcısının bize ihtiyaçları olduğunu söylediği şeyler.",
+      "summary": "GitHub ve Yale İklim Değişikliği İletişimi Programı tarafından gerçekleştirilen yeni araştırma, geliştiricilerin bilgi işlem israfını azaltmasına yardımcı olabilecek araçlara, ölçümlere ve pratik rehberliğe yönelik güçlü bir talep olduğunu ortaya koyuyor. Post Geliştiriciler daha verimli yazılım istiyor...",
+      "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-23T13:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Geliştiriciler daha verimli yazılımlar istiyor. İşte 1000'den fazla GitHub kullanıcısının bize ihtiyaçları olduğunu söylediği şeyler. GitHub ve Yale İklim Değişikliği İletişimi Programı tarafından gerçekleştirilen yeni araştırma, geliştiricilerin bilgi işlem israfını azaltmasına yardımcı olabilecek araçlara, ölçümlere ve pratik rehberliğe yönelik güçlü bir talep olduğunu ortaya koyuyor. Post Geliştiriciler daha verimli yazılım istiyor... Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software... GitHub Dev Platform",
+      "title_original": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+      "summary_original": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software...",
+      "published_display": "2026-09-23",
+      "id": "4ba68cb95458"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
       "title": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir",
-      "summary": "Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, ardından daha sonra yayımlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
+      "summary": "Bir model, bilgi kesintisinden önce yayınlanan özelliklerde başarısız olabilir, ardından daha sonra yayınlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
       "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, ardından daha sonra yayımlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
+      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayınlanan özelliklerde başarısız olabilir, ardından daha sonra yayınlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
       "title_original": "Knowledge cutoff is a poor proxy for model capability",
       "summary_original": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is...",
       "published_display": "2026-09-21",
@@ -112,29 +132,69 @@
       "id": "9c498cde7a77"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme",
-      "summary": "İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "İki yıllık OpenAI Akademisi",
+      "summary": "OpenAI Akademisi'nin iki yılını kutluyor ve yapay zeka becerilerini daha da fazla topluluğa getiriyoruz.",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-11T18:26:10Z",
+      "source": "OpenAI News",
+      "published_at": "2026-09-23T16:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Kod olarak pazarlama işlemleri: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme İşinizi nasıl yaptığınızı yazabilirseniz, otomatikleştirebilirsiniz. İşte GitHub'un APAC pazarlama ekibini desteklemek için yaptıklarım. Kod olarak Pazarlama operasyonları sonrası: GitHub'da planlamadan takibe kadar etkinlikleri otomatikleştirme ilk olarak GitH'de ortaya çıktı... Marketing ops as code: Automating events from planning to follow-up on GitHub If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH... GitHub Dev Platform",
-      "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "summary_original": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitH...",
-      "published_display": "2026-09-11",
-      "id": "5bed9927ab74"
+      "keywords": "İki yıllık OpenAI Akademisi OpenAI Akademisi'nin iki yılını kutluyor ve yapay zeka becerilerini daha da fazla topluluğa getiriyoruz. Two years of OpenAI Academy Marking two years of OpenAI Academy and bringing AI skills to even more communities. AI OpenAI Model",
+      "title_original": "Two years of OpenAI Academy",
+      "summary_original": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "published_display": "2026-09-23",
+      "id": "a9b3b5ff643e"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "GPT-6 için daha iyi hızlı önbelleğe alma",
+      "title": "OpenAI sivil savunma için Ukrayna'ya siber erişimi genişletiyor",
+      "summary": "OpenAI, sivil altyapının siber savunmasını desteklemek için Daybreak programına erişimi Ukrayna Hükümeti'nin kullanımına sunuyor.",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-23T13:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "OpenAI sivil savunma için Ukrayna'ya siber erişimi genişletiyor OpenAI, sivil altyapının siber savunmasını desteklemek için Daybreak programına erişimi Ukrayna Hükümeti'nin kullanımına sunuyor. OpenAI extends cyber access to Ukraine for civilian defense OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure. AI OpenAI Model",
+      "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary_original": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "published_display": "2026-09-23",
+      "id": "2e3a6aac2c28"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Grab ve OpenAI, Güneydoğu Asya'ya pratik yapay zeka becerileri getiriyor",
+      "summary": "OpenAI ve Grab, Güneydoğu Asya'da 30.000 iş ortağının pratik yapay zeka becerileri geliştirmesine yardımcı olan bölgesel bir program olan GO Forward with AI'yı başlattı.",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-23T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Grab ve OpenAI, Güneydoğu Asya'ya pratik yapay zeka becerileri getiriyor OpenAI ve Grab, Güneydoğu Asya'da 30.000 iş ortağının pratik yapay zeka becerileri geliştirmesine yardımcı olan bölgesel bir program olan GO Forward with AI'yı başlattı. Grab and OpenAI bring practical AI skills to Southeast Asia OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia. AI OpenAI Model",
+      "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary_original": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "published_display": "2026-09-23",
+      "id": "7c6c54254586"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT-6 için daha iyi istem önbelleğe alma",
       "summary": "GPT-6'nın daha yüksek önbellek isabet oranları, yeni tanılamalar, açık kesme noktaları ve gecikmeyi ve maliyetleri azaltan kontrollerle anında önbelleğe almayı nasıl iyileştirdiğini öğrenin.",
       "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
       "image_url": null,
@@ -145,11 +205,11 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "GPT-6 için daha iyi hızlı önbelleğe alma GPT-6'nın daha yüksek önbellek isabet oranları, yeni tanılamalar, açık kesme noktaları ve gecikmeyi ve maliyetleri azaltan kontrollerle anında önbelleğe almayı nasıl iyileştirdiğini öğrenin. Better prompt caching for GPT-6 Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs. AI OpenAI Model",
+      "keywords": "GPT-6 için daha iyi istem önbelleğe alma GPT-6'nın daha yüksek önbellek isabet oranları, yeni tanılamalar, açık kesme noktaları ve gecikmeyi ve maliyetleri azaltan kontrollerle anında önbelleğe almayı nasıl iyileştirdiğini öğrenin. Better prompt caching for GPT-6 Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs. AI OpenAI Model",
       "title_original": "Better prompt caching for GPT-6",
       "summary_original": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "published_display": "2026-09-22",
-      "id": "3b3ecd323e53"
+      "id": "649706759bde"
     },
     {
       "category": "ai",
@@ -192,70 +252,30 @@
       "id": "8eafe1175976"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Etkili üçüncü taraf değerlendirmeleri için öncelikler ve ilkeler",
-      "summary": "OpenAI, sınır modelleri ve koruma önlemlerine ilişkin titiz, güvenli ve bağımsız üçüncü taraf yapay zeka güvenlik değerlendirmelerine yönelik öncelikleri ve ilkeleri ana hatlarıyla belirtir.",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Bir robotik işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. - Stok Titanı",
+      "summary": "Bir robotik işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. Stok Titanı",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEpfSmozQkgtSF9Oa21yaW0wb0lQV3RwWjJvaTNWSV92amlXTDdOZW1TZUdnb0dMYlA4MlpFRlNfa254RTJQS1pyVS1BVmtLRmM1WElfUTQweWRyalo3WkxvbjRaR1dLdTYwMW5qV21tMllEa2xKSE1VajFkR0FQMUdVRkgwaFdYcy1VUVRyWld0YjZySVBPWkpxWkVPSWVIQkRBT244UnBDdWQwVGgwU0N0V0ZyTkQ5UFloMA?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-22T00:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-09-23T13:17:00Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Etkili üçüncü taraf değerlendirmeleri için öncelikler ve ilkeler OpenAI, sınır modelleri ve koruma önlemlerine ilişkin titiz, güvenli ve bağımsız üçüncü taraf yapay zeka güvenlik değerlendirmelerine yönelik öncelikleri ve ilkeleri ana hatlarıyla belirtir. Priorities and principles for effective third party assessments OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards. AI OpenAI Model",
-      "title_original": "Priorities and principles for effective third party assessments",
-      "summary_original": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "published_display": "2026-09-22",
-      "id": "749ebf8d0301"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Matematik ve Yapay Zeka Danışma Grubu",
-      "summary": "OpenAI, ortaya çıkan yapay zeka sonuçlarının incelenmesine ve iletilmesine rehberlik etmek için Matematik ve Yapay Zeka alanında bağımsız bir Danışma Grubu ile birlikte çalışıyor.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-21T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Matematik ve Yapay Zeka Danışma Grubu OpenAI, ortaya çıkan yapay zeka sonuçlarının incelenmesine ve iletilmesine rehberlik etmek için Matematik ve Yapay Zeka alanında bağımsız bir Danışma Grubu ile birlikte çalışıyor. Advisory Group on Mathematics and Artificial Intelligence OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results. AI OpenAI Model",
-      "title_original": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary_original": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "published_display": "2026-09-21",
-      "id": "ef31a4af4efa"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Higgsfield AI, GPT-6 Astra ile bir günde yeni video özellikleri sunuyor",
-      "summary": "Higgsfield AI, GPT-6 Astra ile küçük işletmeler için video reklam oluşturmayı kolaylaştırıyor ve yeni yaratıcı araçları pazara daha hızlı sunuyor.",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-21T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Higgsfield AI, GPT-6 Astra ile bir günde yeni video özellikleri sunuyor Higgsfield AI, GPT-6 Astra ile küçük işletmeler için video reklam oluşturmayı kolaylaştırıyor ve yeni yaratıcı araçları pazara daha hızlı sunuyor. Higgsfield AI ships new video features in a day with GPT-6 Astra With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster. AI OpenAI Model",
-      "title_original": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "summary_original": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "published_display": "2026-09-21",
-      "id": "a74dde8e33ba"
+      "keywords": "Bir robotik işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. - Stok Titanı Bir robotik işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. Stok Titanı A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. - Stock Titan A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. Stock Titan Robotics Automation Industry",
+      "title_original": "A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. - Stock Titan",
+      "summary_original": "A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. Stock Titan",
+      "published_display": "2026-09-23",
+      "id": "9fc86786b860"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Nuvoton, Robotik ve Endüstriyel Otomasyon için NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor - eletimes.ai",
-      "summary": "Nuvoton, Robotik ve Endüstriyel Otomasyon için NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor eletimes.ai",
+      "title": "Nuvoton, Robotik ve Endüstriyel Otomasyon için NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor - ELE Times",
+      "summary": "Nuvoton, Robotik ve Endüstriyel Otomasyona Yönelik NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor ELE Times",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2E5NGdTUFU1MUFoNEdNS0R6elFvZWY2UE9oZVZCMXE3dG9JaXNFa2RWbEw3MDhwQ3diODdOZ01scEpWNUJxYzNJVVNWTjJYUG1JT0xlaHBIS2k3QThCYjV3R3VaeTREY0ZPM1ljRXgtT1h5bDU1QTM0NXFzMkNFdllwRnpKUy1TSjU5ZWl1clRQN0lfS05QUUJPZ3N5Q3Q1cWRDWU1saGtoLUU?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,16 +285,16 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Nuvoton, Robotik ve Endüstriyel Otomasyon için NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor - eletimes.ai Nuvoton, Robotik ve Endüstriyel Otomasyon için NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor eletimes.ai Nuvoton Launches NuMicro M3351 5V MCU Series for Robotics and Industrial Automation - eletimes.ai Nuvoton Launches NuMicro M3351 5V MCU Series for Robotics and Industrial Automation eletimes.ai Robotics Automation Industry",
-      "title_original": "Nuvoton Launches NuMicro M3351 5V MCU Series for Robotics and Industrial Automation - eletimes.ai",
-      "summary_original": "Nuvoton Launches NuMicro M3351 5V MCU Series for Robotics and Industrial Automation eletimes.ai",
+      "keywords": "Nuvoton, Robotik ve Endüstriyel Otomasyon için NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor - ELE Times Nuvoton, Robotik ve Endüstriyel Otomasyona Yönelik NuMicro M3351 5V MCU Serisini Piyasaya Sürüyor ELE Times Nuvoton Launches NuMicro M3351 5V MCU Series for Robotics and Industrial Automation - ELE Times Nuvoton Launches NuMicro M3351 5V MCU Series for Robotics and Industrial Automation ELE Times Robotics Automation Industry",
+      "title_original": "Nuvoton Launches NuMicro M3351 5V MCU Series for Robotics and Industrial Automation - ELE Times",
+      "summary_original": "Nuvoton Launches NuMicro M3351 5V MCU Series for Robotics and Industrial Automation ELE Times",
       "published_display": "2026-09-22",
-      "id": "eb04dffeb65d"
+      "id": "60545a375086"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejiye İhtiyacı Var - Automation World",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World",
       "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
@@ -285,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejiye İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
       "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
       "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
       "published_display": "2026-09-18",
-      "id": "062766c67a43"
+      "id": "039edb8422e2"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - roboticsandautomationnews.com",
-      "summary": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor roboticsandautomationnews.com",
+      "title": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - Robotik ve Otomasyon Haberleri",
+      "summary": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFRqemlIMjN6c2RRc1FXeDA1RDlXLXFFU2ZaeGxZbVhNMlVkN2J4dzY2QVJMSlFnLW1VNnloV3Q0ZjdRdTgxc0pFSmp1SG9zN1R6d0d4RUVxVUZ3M3AyZ3FjOVZmQVZDdldBcG5rbEpzYjU5OTdQbGtmZEdETE5kZElvZ1ByS2h5RlBsU0Z1amJGYnktNU56QkhFeGRpeUozbXNMNF9LRTNZbl9NU3NXMUZQcXp0REtMZnkyT0pKS3drNE9MbGV6NzM0VFRFNElWREFBbk9uVQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - roboticsandautomationnews.com Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor roboticsandautomationnews.com Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - roboticsandautomationnews.com Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ roboticsandautomationnews.com Robotics Automation Industry",
-      "title_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - roboticsandautomationnews.com",
-      "summary_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ roboticsandautomationnews.com",
+      "keywords": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - Robotik ve Otomasyon Haberleri Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor Robotik ve Otomasyon Haberleri Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - Robotics & Automation News Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - Robotics & Automation News",
+      "summary_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ Robotics & Automation News",
       "published_display": "2026-09-18",
-      "id": "8c0b409af11d"
+      "id": "c754dd5a64b4"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor - roboticsandautomationnews.com",
-      "summary": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor roboticsandautomationnews.com",
+      "title": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor - Robotik ve Otomasyon Haberleri",
+      "summary": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGFHWjZCR0tBYzNZckhJVEpzLWVXaDc4LUdEalJDbURLV28xR2RyTnBRSi1MUXMzZklsd2prMHdhc0w0ajdBMjdheTAzYVJ2TzBsSnVyU20zWFF6YmhBeXBpbTZ4c010ckU4Q2E3OTNBTl9WdTBVNU4xSGRSRTRhdEM5VE80SzJDT2FPYmNsNWs5V1R6TE04bmRrUzFNRllHVXRkQ2Zuc2FWaVlUX252ZG1uWS1OZmFsUXNtUlBiS3pWQ2g0MGRjLXA5VjFZSWZySnhqOFB3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,17 +345,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor - roboticsandautomationnews.com Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor roboticsandautomationnews.com Universal Robots launches Gen 7 platform for industrial automation and physical AI - roboticsandautomationnews.com Universal Robots launches Gen 7 platform for industrial automation and physical AI roboticsandautomationnews.com Robotics Automation Industry",
-      "title_original": "Universal Robots launches Gen 7 platform for industrial automation and physical AI - roboticsandautomationnews.com",
-      "summary_original": "Universal Robots launches Gen 7 platform for industrial automation and physical AI roboticsandautomationnews.com",
+      "keywords": "Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor - Robotik ve Otomasyon Haberleri Universal Robots, endüstriyel otomasyon ve fiziksel yapay zeka için 7. Nesil platformunu piyasaya sürüyor Robotik ve Otomasyon Haberleri Universal Robots launches Gen 7 platform for industrial automation and physical AI - Robotics & Automation News Universal Robots launches Gen 7 platform for industrial automation and physical AI Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Universal Robots launches Gen 7 platform for industrial automation and physical AI - Robotics & Automation News",
+      "summary_original": "Universal Robots launches Gen 7 platform for industrial automation and physical AI Robotics & Automation News",
       "published_display": "2026-09-17",
-      "id": "35dcc990abd0"
+      "id": "a37f0c6db0fc"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Advisory",
-      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışmanlığı için 7. Nesil Platformu Tanıtıyor",
+      "title": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - arcweb.com",
+      "summary": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor arcweb.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWRwU3kyUHNvMGR0UGhoRk9kQnluV19IQTNDOE9FQ2NGQmd5Sl85cmowQjNKd2ZaU241WmQwTmVncWlkNDR1a05vN1JhaXRBeTlaNUZHWHNyVEE0VEx2MDBLbGhqbVBPbU1IR180cVBYYzd2NkN3aWJ3REZ1VGg2eFh3QThGSld2TVpFTFJGUFZJeWxVRmxOS014alZDUnFyQWZHVHdSUQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,31 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - ARC Advisory Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka ARC Danışmanlığı için 7. Nesil Platformu Tanıtıyor Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory Robotics Automation Industry",
-      "title_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - ARC Advisory",
-      "summary_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI ARC Advisory",
+      "keywords": "Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor - arcweb.com Universal Robots, Endüstriyel Otomasyon ve Fiziksel Yapay Zeka için 7. Nesil Platformu Tanıtıyor arcweb.com Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - arcweb.com Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI arcweb.com Robotics Automation Industry",
+      "title_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI - arcweb.com",
+      "summary_original": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI arcweb.com",
       "published_display": "2026-09-16",
-      "id": "a463e5f12d6a"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler",
-      "summary": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9feHlpbVA4WXJtSTNHM0RxZGsxbHVpVXdkY2FkbDNSRTY2UUtUdnh4VlNxVXFubERpSlRJSGNydS1PT2ZkVkNuRU44a3dTYzA1aURmRC11eEVkU0lraE5rY1VYRTc0S29uMHlRSjZSX3Q2YzhHOEE?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-16T08:25:37Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi - Teknik Özetler Endüstriyel Otomasyon ve Robotik için İş Yükü Konsolidasyonu: Sağlam Gömülü Platformda Kontrol, Giriş/Çıkış, Görselleştirme ve Uç Yapay Zekanın Birleştirilmesi Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs Robotics Automation Industry",
-      "title_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform - Tech Briefs",
-      "summary_original": "Workload Consolidation for Industrial Automation and Robotics: Unifying Control, I/O, Visualization, and Edge AI on a Rugged Embedded Platform Tech Briefs",
-      "published_display": "2026-09-16",
-      "id": "9588e99d0b9a"
+      "id": "c9d454d94d04"
     },
     {
       "category": "web",
