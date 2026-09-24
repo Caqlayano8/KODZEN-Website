@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-23T18:29:49Z",
+  "updated_at": "2026-09-23T19:50:37Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir",
-      "summary": "Bir model, bilgi kesintisinden önce yayınlanan özelliklerde başarısız olabilir, ardından daha sonra yayınlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
+      "summary": "Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, daha sonra yayımlanan özelliklerde ise başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
       "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayınlanan özelliklerde başarısız olabilir, ardından daha sonra yayınlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
+      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, daha sonra yayımlanan özelliklerde ise başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
       "title_original": "Knowledge cutoff is a poor proxy for model capability",
       "summary_original": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is...",
       "published_display": "2026-09-21",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme",
-      "summary": "Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısının çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı:",
+      "summary": "Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısı çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı:",
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısının çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı: Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on... GitHub Dev Platform",
+      "keywords": "GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme Bu boyutta bir yeniden yazım, acentelerden önce uygun fiyatlı değildi. İşte Copilot aracısı çalışma zamanını 800.000 üretim hattına taşıyan Rust'un gerçekte elde ettiği sonuçlar: GitHub Copilot çalışma zamanını Copilot kullanarak Rust'a geçirme yazısı ilk olarak şu sayfada çıktı: Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on... GitHub Dev Platform",
       "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "summary_original": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on...",
       "published_display": "2026-09-17",
@@ -254,22 +254,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS09qS3MxYXFBSnNseUlReVdhWFcyMWYzTDI4NnZkOFNDdTBLWUh6emViSUhFQkVhMWhKeGswdEN0LTJWVGh3ajNyWEw0VHI1RUI0ZW9NM2VUclN1WTNLYWVMbHJkLU5ic18tVVU0SjFJRXVLYWpMcWkxY1VkdHJjbF9kOFc2UHVEekJReTk3aDhSYlJuWS1UTUsySzlzY0hnenp2RHZXTk0yOTVIeG9ZemRKYkdwcVlkbG1pbV9NVQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-23T18:08:43Z",
+      "published_at": "2026-09-23T19:50:37Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-23",
-      "id": "011a7142b9c0"
+      "id": "0a3d3261d7fb"
     },
     {
       "category": "robotik",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
