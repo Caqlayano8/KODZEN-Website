@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-24T20:00:00Z",
-  "total_posts": 32,
+  "updated_at": "2026-09-25T15:00:00Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
-    "siber": 5,
+    "siber": 6,
     "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Daha fazla CSS göndererek site performansını artırma",
+      "summary": "Bir tasarım sisteminin dünyayı bozmadan büyük değişiklikleri nasıl sağladığına bir bakış. Daha fazla CSS göndererek site performansını iyileştirme yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-25T15:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Daha fazla CSS göndererek site performansını artırma Bir tasarım sisteminin dünyayı bozmadan büyük değişiklikleri nasıl sağladığına bir bakış. Daha fazla CSS göndererek site performansını iyileştirme yazısı ilk olarak GitHub Blogunda göründü. Improving site performance by shipping more CSS A look at how a design system shipped major changes without breaking the world. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Improving site performance by shipping more CSS",
+      "summary_original": "A look at how a design system shipped major changes without breaking the world. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
+      "published_display": "2026-09-25",
+      "id": "8c3db5ecc33c"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is...",
       "published_display": "2026-09-21",
       "id": "7913e43aa8c3"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü?",
-      "summary": "GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-18T15:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? GitHub Podcast'in son bölümünde bu soruları ve diğer yapay zeka değerlendirmelerini derinlemesine inceliyoruz. Gönderi Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü? İlk olarak GitHub Blogunda göründü. Should you read the code, is RAG dead, and did Skills kill MCP? We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "summary_original": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .",
-      "published_display": "2026-09-18",
-      "id": "9afba82a029d"
     },
     {
       "category": "ai",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Ürün hareketini optimize etme: Yüksek performanslı otomasyon için teknik stratejiler - Robotik ve Otomasyon Haberleri",
+      "summary": "Ürün hareketini optimize etme: Yüksek performanslı otomasyon için teknik stratejiler Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1hDcm5rcHVqamNUcEZ1bGhxRGVnZUhUaDJYdlI0M1dyemFXQmd1ZWNKWnR4WHJzZVhEUFIwREFCcVkwMDBaYndrRWRmNDZFaWJTZnFyYS1HS182OE5GX25NcTBMSTdIbTd1ODR4MW5ISG9TMVF2aFNWZ2o0djVfMm1TVUJ1aXFOOXlQVGZEYktaaGdlbjlidDBoZEhfTl9JV25lNnFRcjFPSWotVmU5TW9weDVFd3p0djQyVnRmaEl2MDVIT1F4eWRhZjlLQ0JqVlY4?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-25T14:21:06Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Ürün hareketini optimize etme: Yüksek performanslı otomasyon için teknik stratejiler - Robotik ve Otomasyon Haberleri Ürün hareketini optimize etme: Yüksek performanslı otomasyon için teknik stratejiler Robotik ve Otomasyon Haberleri Optimizing product movement: Technical strategies for high-performance automation - Robotics & Automation News Optimizing product movement: Technical strategies for high-performance automation Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Optimizing product movement: Technical strategies for high-performance automation - Robotics & Automation News",
+      "summary_original": "Optimizing product movement: Technical strategies for high-performance automation Robotics & Automation News",
+      "published_display": "2026-09-25",
+      "id": "2a46943cad46"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Robotics Australia Group ve HowToRobot ulusal otomasyon platformunu başlatıyor - Robotics & Automation News",
       "summary": "Robotics Australia Group ve HowToRobot ulusal otomasyon platformunu başlatıyor Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXJjaHVnS0lOTndUYTluMkh6NDJUdmpsU243bjNzNGx5QVdBTmRKVWEzU0l6ZllJZ0tRcFE3Mmh3UTM5bkR4NlJteHZCWkhhOUM0MkUzNGtzNmZhbzVmRmxyeFd3eG82TWNrZXhsNmpBOVdMcUVDVDc5N2g2TDFmRUY5UXhHaGRvakxTanRRRWsxWlhtZ1VSaHZkRlBRdG8wdzFRZjNYWFhTQV9sUHRPdzJTVkt5eHltUjBmSlFhMUlPRTRqd1U1cDlrUXo?oc=5",
@@ -350,26 +370,6 @@
       "summary_original": "A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. Stock Titan",
       "published_display": "2026-09-23",
       "id": "2ddc90840cec"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFRqemlIMjN6c2RRc1FXeDA1RDlXLXFFU2ZaeGxZbVhNMlVkN2J4dzY2QVJMSlFnLW1VNnloV3Q0ZjdRdTgxc0pFSmp1SG9zN1R6d0d4RUVxVUZ3M3AyZ3FjOVZmQVZDdldBcG5rbEpzYjU5OTdQbGtmZEdETE5kZElvZ1ByS2h5RlBsU0Z1amJGYnktNU56QkhFeGRpeUozbXNMNF9LRTNZbl9NU3NXMUZQcXp0REtMZnkyT0pKS3drNE9MbGV6NzM0VFRFNElWREFBbk9uVQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-18T17:05:08Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - Robotik ve Otomasyon Haberleri Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor Robotik ve Otomasyon Haberleri Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - Robotics & Automation News Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - Robotics & Automation News",
-      "summary_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ Robotics & Automation News",
-      "published_display": "2026-09-18",
-      "id": "c754dd5a64b4"
     },
     {
       "category": "web",
@@ -490,6 +490,26 @@
       "summary_original": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
       "published_display": "2026-04-08",
       "id": "1c6156ef07a0"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Temsilciler artık Turnike Dönüşü ile web sitenizin güvenliğini ayarlayabilir",
+      "summary": "Turnikenin arka uç doğrulamasını atlayarak yanlış yapılandırılması, sitelerin botlara maruz kalmasına neden olur. Turnstile Spin, sunucu tarafı doğrulamasını bağlamak için tercih ettiğiniz AI kodlama aracısını kullanarak eksik kurulumları düzeltir.",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M39NWTASMSZ5QNR34B69DE9W.01M39NWV0E5V2VQFG38NH7SPK8.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-09-25T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Temsilciler artık Turnike Dönüşü ile web sitenizin güvenliğini ayarlayabilir Turnikenin arka uç doğrulamasını atlayarak yanlış yapılandırılması, sitelerin botlara maruz kalmasına neden olur. Turnstile Spin, sunucu tarafı doğrulamasını bağlamak için tercih ettiğiniz AI kodlama aracısını kullanarak eksik kurulumları düzeltir. Agents can now set up your website’s security with Turnstile Spin Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification. Cloudflare Security Web",
+      "title_original": "Agents can now set up your website’s security with Turnstile Spin",
+      "summary_original": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
+      "published_display": "2026-09-25",
+      "id": "c1a3036300df"
     },
     {
       "category": "siber",
