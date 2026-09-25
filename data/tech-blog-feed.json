@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "updated_at": "2026-09-24T20:00:00Z",
-  "total_posts": 31,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
-    "siber": 4,
+    "siber": 5,
     "kamera": 3
   },
   "posts": [
@@ -74,8 +74,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Geliştiriciler daha verimli yazılımlar istiyor. İşte 1000'den fazla GitHub kullanıcısının bize ihtiyaçları olduğunu söylediği şeyler.",
-      "summary": "GitHub ve Yale İklim Değişikliği İletişimi Programı tarafından gerçekleştirilen yeni araştırma, geliştiricilerin bilgi işlem israfını azaltmasına yardımcı olabilecek araçlara, ölçümlere ve pratik rehberliğe yönelik güçlü bir talep olduğunu ortaya koyuyor. Post Geliştiriciler daha verimli yazılım istiyor...",
+      "title": "Geliştiriciler daha verimli yazılımlar istiyor. İşte 1.000'den fazla GitHub kullanıcısının bize ihtiyaçları olduğunu söylediği şeyler.",
+      "summary": "GitHub ve Yale İklim Değişikliği İletişimi Programı tarafından gerçekleştirilen yeni araştırma, geliştiricilerin bilgi işlem israfını azaltmalarına yardımcı olabilecek araçlara, ölçümlere ve pratik rehberliğe yönelik güçlü bir talep olduğunu ortaya koyuyor. Post Geliştiriciler daha verimli yazılım istiyor...",
       "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,17 +85,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Geliştiriciler daha verimli yazılımlar istiyor. İşte 1000'den fazla GitHub kullanıcısının bize ihtiyaçları olduğunu söylediği şeyler. GitHub ve Yale İklim Değişikliği İletişimi Programı tarafından gerçekleştirilen yeni araştırma, geliştiricilerin bilgi işlem israfını azaltmasına yardımcı olabilecek araçlara, ölçümlere ve pratik rehberliğe yönelik güçlü bir talep olduğunu ortaya koyuyor. Post Geliştiriciler daha verimli yazılım istiyor... Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software... GitHub Dev Platform",
+      "keywords": "Geliştiriciler daha verimli yazılımlar istiyor. İşte 1.000'den fazla GitHub kullanıcısının bize ihtiyaçları olduğunu söylediği şeyler. GitHub ve Yale İklim Değişikliği İletişimi Programı tarafından gerçekleştirilen yeni araştırma, geliştiricilerin bilgi işlem israfını azaltmalarına yardımcı olabilecek araçlara, ölçümlere ve pratik rehberliğe yönelik güçlü bir talep olduğunu ortaya koyuyor. Post Geliştiriciler daha verimli yazılım istiyor... Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software... GitHub Dev Platform",
       "title_original": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
       "summary_original": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software...",
       "published_display": "2026-09-23",
-      "id": "4ba68cb95458"
+      "id": "df6ecae66521"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir",
-      "summary": "Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, daha sonra yayımlanan özelliklerde ise başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
+      "summary": "Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, ardından daha sonra yayımlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası...",
       "url": "https://devblogs.microsoft.com/blog/knowledge-cutoff-is-a-poor-proxy-for-model-capability/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, daha sonra yayımlanan özelliklerde ise başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
+      "keywords": "Bilgi kesintisi model yeteneği için zayıf bir göstergedir Bir model, bilgi kesintisinden önce yayımlanan özelliklerde başarısız olabilir, ardından daha sonra yayımlanan özelliklerde başarılı olabilir. Yüzlerce ürün değişikliğini test ettik ve tarihin size yapılan işten çok daha az şey anlattığını gördük. Bilgi kesintisi sonrası... Knowledge cutoff is a poor proxy for model capability A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is... Microsoft Dev Cloud",
       "title_original": "Knowledge cutoff is a poor proxy for model capability",
       "summary_original": "A model can fail on features released before its knowledge cutoff, then succeed on ones released after it. We tested hundreds of product changes and found that the date tells you far less than the work does. The post Knowledge cutoff is...",
       "published_display": "2026-09-21",
@@ -314,7 +314,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS09qS3MxYXFBSnNseUlReVdhWFcyMWYzTDI4NnZkOFNDdTBLWUh6emViSUhFQkVhMWhKeGswdEN0LTJWVGh3ajNyWEw0VHI1RUI0ZW9NM2VUclN1WTNLYWVMbHJkLU5ic18tVVU0SjFJRXVLYWpMcWkxY1VkdHJjbF9kOFc2UHVEekJReTk3aDhSYlJuWS1UTUsySzlzY0hnenp2RHZXTk0yOTVIeG9ZemRKYkdwcVlkbG1pbV9NVQ?oc=5",
       "image_url": null,
@@ -325,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-23",
-      "id": "0a3d3261d7fb"
+      "id": "d751d408fa6c"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Bir robotik işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. - Stok Titanı",
-      "summary": "Bir robotik işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. Stok Titanı",
+      "title": "Bir robot bilimi işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. - Stok Titanı",
+      "summary": "Bir robot bilimi işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. Stok Titanı",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEpfSmozQkgtSF9Oa21yaW0wb0lQV3RwWjJvaTNWSV92amlXTDdOZW1TZUdnb0dMYlA4MlpFRlNfa254RTJQS1pyVS1BVmtLRmM1WElfUTQweWRyalo3WkxvbjRaR1dLdTYwMW5qV21tMllEa2xKSE1VajFkR0FQMUdVRkgwaFdYcy1VUVRyWld0YjZySVBPWkpxWkVPSWVIQkRBT244UnBDdWQwVGgwU0N0V0ZyTkQ5UFloMA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,31 +345,31 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Bir robotik işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. - Stok Titanı Bir robotik işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. Stok Titanı A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. - Stock Titan A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. Stock Titan Robotics Automation Industry",
+      "keywords": "Bir robot bilimi işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. - Stok Titanı Bir robot bilimi işletmesi yaklaşık 153,5 milyon dolar gelir hedefliyor. Sağlık Üçgeni varlıklarını satın almayı öneriyor. Stok Titanı A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. - Stock Titan A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. Stock Titan Robotics Automation Industry",
       "title_original": "A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. - Stock Titan",
       "summary_original": "A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets. Stock Titan",
       "published_display": "2026-09-23",
-      "id": "9fc86786b860"
+      "id": "2ddc90840cec"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Helicon, yüksek hacimli kompozit üretimine otomasyon getiriyor - Robot Raporu",
-      "summary": "Helicon, yüksek hacimli kompozit üretimine otomasyon getiriyor Robot Raporu",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNll4RFYyc0RIcjVwbVdWOGJIZWVCTlA1dVRKYllHY2xtY1YzYjR5SXAxYnlGMW15ZmRncWpxeWxSclBPWXBqLUFNS2JVV0ZDaTFQZXMxY096T3JtV3lET1JnUE9Bc2RpRUhweTV1WFJDamRzWFZZTDZGcWs4a3dvVTlaSEFTMDc5RTg2eVN4cWlWa25DZnlMQlRn?oc=5",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World",
+      "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-23T12:45:33Z",
+      "published_at": "2026-09-18T20:27:59Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Helicon, yüksek hacimli kompozit üretimine otomasyon getiriyor - Robot Raporu Helicon, yüksek hacimli kompozit üretimine otomasyon getiriyor Robot Raporu Helicon brings automation to high-volume composites manufacturing - The Robot Report Helicon brings automation to high-volume composites manufacturing The Robot Report Robotics Automation Industry",
-      "title_original": "Helicon brings automation to high-volume composites manufacturing - The Robot Report",
-      "summary_original": "Helicon brings automation to high-volume composites manufacturing The Robot Report",
-      "published_display": "2026-09-23",
-      "id": "1383da974de4"
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
+      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
+      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
+      "published_display": "2026-09-18",
+      "id": "039edb8422e2"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -490,6 +490,26 @@
       "summary_original": "You may have spotted that MDN has a new frontend. There's plenty happening under the surface, so let's unpack the technologies we chose, the architectural decisions we made, and why we did a rebuild at all.",
       "published_display": "2026-04-08",
       "id": "1c6156ef07a0"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Cloudflare, Konteynerlerdeki kiracılar arası verilere maruz kalma güvenlik açığını nasıl ele aldı?",
+      "summary": "Accomplish'teki harici güvenlik araştırmacıları, Cloudflare Containers'ta önceki iş yüklerinden kalan disk verilerini açığa çıkarabilecek bir güvenlik açığı tespit etti. Sorunun nasıl işlediğini, nasıl araştırdığımızı ve attığımız adımları açıklıyoruz...",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M38DQFQRTYYSM43H964E1E3F.01M38DQGBNEE0N3C6WAXNMGS0H.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-09-24T15:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Cloudflare, Konteynerlerdeki kiracılar arası verilere maruz kalma güvenlik açığını nasıl ele aldı? Accomplish'teki harici güvenlik araştırmacıları, Cloudflare Containers'ta önceki iş yüklerinden kalan disk verilerini açığa çıkarabilecek bir güvenlik açığı tespit etti. Sorunun nasıl işlediğini, nasıl araştırdığımızı ve attığımız adımları açıklıyoruz... How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took... Cloudflare Security Web",
+      "title_original": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "summary_original": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took...",
+      "published_display": "2026-09-24",
+      "id": "8d750c99c46f"
     },
     {
       "category": "siber",
@@ -594,8 +614,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
+      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen Tom's Hardware'de bulunan şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
-      "id": "260fa5b969f0"
+      "id": "bf6b46c1653c"
     },
     {
       "category": "kamera",
