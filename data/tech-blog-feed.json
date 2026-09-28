@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-26T13:17:03Z",
+  "updated_at": "2026-09-28T19:00:00Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,68 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
+      "title": "Açık kaynak yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk?",
+      "summary": "Bu bulguların ardındaki hedeflenen yapay zeka görev akışlarına, ortaya çıkardıkları kritik Android hatalarına ve aynı açık kaynak aracıyı kendi uygulamanızda nasıl çalıştıracağınıza bir bakış. Açık kaynak yapay zeka güvenlik sistemimizi kullanarak Android'de 24 güvenlik açığını nasıl bulduk yazısı...",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-28T19:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Açık kaynak yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk? Bu bulguların ardındaki hedeflenen yapay zeka görev akışlarına, ortaya çıkardıkları kritik Android hatalarına ve aynı açık kaynak aracıyı kendi uygulamanızda nasıl çalıştıracağınıza bir bakış. Açık kaynak yapay zeka güvenlik sistemimizi kullanarak Android'de 24 güvenlik açığını nasıl bulduk yazısı... How we found 24 Android vulnerabilities using our open source AI security agent A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec... GitHub Dev Platform",
+      "title_original": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "summary_original": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec...",
+      "published_display": "2026-09-28",
+      "id": "c8cecb5740c3"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot uygulamasını kullanmaya başlayın: ücretsiz, uygulamalı bir kurs",
+      "summary": "Bu ücretsiz GitHub Copilot uygulama kursuyla AI kodlama aracılarını yönlendirmeyi, çalışmalarını gözden geçirmeyi ve güvenilir geliştirme iş akışları oluşturmayı öğrenin. GitHub Copilot uygulamasını kullanmaya başlayın: ücretsiz, uygulamalı bir kurs ilk olarak Microsoft'ta yayınlandı...",
+      "url": "https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-28T18:05:00Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "GitHub Copilot uygulamasını kullanmaya başlayın: ücretsiz, uygulamalı bir kurs Bu ücretsiz GitHub Copilot uygulama kursuyla AI kodlama aracılarını yönlendirmeyi, çalışmalarını gözden geçirmeyi ve güvenilir geliştirme iş akışları oluşturmayı öğrenin. GitHub Copilot uygulamasını kullanmaya başlayın: ücretsiz, uygulamalı bir kurs ilk olarak Microsoft'ta yayınlandı... Get started with the GitHub Copilot app: a free, hands-on course Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft... Microsoft Dev Cloud",
+      "title_original": "Get started with the GitHub Copilot app: a free, hands-on course",
+      "summary_original": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft...",
+      "published_display": "2026-09-28",
+      "id": "548d08cd3ac1"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Git 2.56'dan öne çıkanlar",
+      "summary": "Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-28T17:23:33Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Git 2.56'dan öne çıkanlar Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.56 The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Highlights from Git 2.56",
+      "summary_original": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
+      "published_display": "2026-09-28",
+      "id": "f89e499a5dc2"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
       "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Tuvallerle özel iş akışları nasıl oluşturulur?",
-      "summary": "İhtiyacınız olan arayüzü sade bir İngilizceyle tanımlayın, ardından aracının hem kullanabileceğiniz hem de güncelleyebileceğiniz canlı bir yüzey oluşturmasına izin verin; böylece araçlara uyum sağlamaya daha az, işlerinizi yapmaya daha fazla zaman harcarsınız. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Ho...",
+      "summary": "İhtiyacınız olan arayüzü sade bir İngilizceyle tanımlayın, ardından aracının hem kullanabileceğiniz hem de güncelleyebileceğiniz canlı bir yüzey oluşturmasına izin verin; böylece araçlara uyum sağlamaya daha az, işlerinizi yapmaya daha fazla zaman harcarsınız. Yeni Başlayanlar için GitHub Copilot uygulaması sonrası: Ho...",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Tuvallerle özel iş akışları nasıl oluşturulur? İhtiyacınız olan arayüzü sade bir İngilizceyle tanımlayın, ardından aracının hem kullanabileceğiniz hem de güncelleyebileceğiniz canlı bir yüzey oluşturmasına izin verin; böylece araçlara uyum sağlamaya daha az, işlerinizi yapmaya daha fazla zaman harcarsınız. Yeni Başlayanlar için GitHub Copilot uygulaması yazısı: Ho... GitHub Copilot app for Beginners: How to build custom workflows with canvases Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: Ho... GitHub Dev Platform",
+      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Tuvallerle özel iş akışları nasıl oluşturulur? İhtiyacınız olan arayüzü sade bir İngilizceyle tanımlayın, ardından aracının hem kullanabileceğiniz hem de güncelleyebileceğiniz canlı bir yüzey oluşturmasına izin verin; böylece araçlara uyum sağlamaya daha az, işlerinizi yapmaya daha fazla zaman harcarsınız. Yeni Başlayanlar için GitHub Copilot uygulaması sonrası: Ho... GitHub Copilot app for Beginners: How to build custom workflows with canvases Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: Ho... GitHub Dev Platform",
       "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
       "summary_original": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: Ho...",
       "published_display": "2026-09-25",
@@ -72,64 +132,44 @@
       "id": "ae508bff3036"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Güvenlik Laboratuvarı Görev Akışı Aracısı ile yapay zeka destekli bulanıklaştırma",
-      "summary": "Bu blog yazısında GitHub Security Lab Görev Akışı Aracısı AI çerçevesini temel alan yeni bulanık görev akışının nasıl kullanılacağını açıklıyorum. GitHub Güvenlik Laboratuvarı Görev Akışı Aracısı ile yapay zeka destekli post fuzzing ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-24T18:26:12Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Future Vision XPRIZE The Gifted'ın kazanan fragmanını izleyin.",
+      "summary": "Future Vision XPRIZE The Gifted'ın kazanan fragmanını izleyin.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-28T19:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Product",
+        "Google"
       ],
-      "keywords": "GitHub Güvenlik Laboratuvarı Görev Akışı Aracısı ile yapay zeka destekli bulanıklaştırma Bu blog yazısında GitHub Security Lab Görev Akışı Aracısı AI çerçevesini temel alan yeni bulanık görev akışının nasıl kullanılacağını açıklıyorum. GitHub Güvenlik Laboratuvarı Görev Akışı Aracısı ile yapay zeka destekli post fuzzing ilk olarak GitHub Blogunda göründü. AI-powered fuzzing with the GitHub Security Lab Taskflow Agent In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "summary_original": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
-      "published_display": "2026-09-24",
-      "id": "d653f3551b6f"
+      "keywords": "Future Vision XPRIZE The Gifted'ın kazanan fragmanını izleyin. Future Vision XPRIZE The Gifted'ın kazanan fragmanını izleyin. Watch the winning trailer from the Future Vision XPRIZE, The Gifted. Watch the winning trailer from the Future Vision XPRIZE, The Gifted. AI Product Google",
+      "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "published_display": "2026-09-28",
+      "id": "656d1f9ae5ce"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot uygulamasında büyük miktarda çekme istekleri oluşturma",
-      "summary": "Yüzlerce satır içi inceleme yorumu içeren bir milyon satırlık çekme isteği açmak için GitHub Copilot uygulamasında fark yüzeyini nasıl yeniden oluşturduk. GitHub Copilot uygulamasında büyük çekme istekleri oluşturma yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Lenfest Enstitüsü, genişletilmiş OpenAI desteğiyle çığır açan programını büyütüyor",
+      "summary": "OpenAI, Lenfest Yapay Zeka İşbirliği ve Burs Programını 5 milyon dolarlık finansman ve 5 milyon dolara kadar yazılım kredisi ve mühendislik desteğiyle genişletiyor.",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-23T18:29:49Z",
+      "source": "OpenAI News",
+      "published_at": "2026-09-28T07:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "GitHub Copilot uygulamasında büyük miktarda çekme istekleri oluşturma Yüzlerce satır içi inceleme yorumu içeren bir milyon satırlık çekme isteği açmak için GitHub Copilot uygulamasında fark yüzeyini nasıl yeniden oluşturduk. GitHub Copilot uygulamasında büyük çekme istekleri oluşturma yazısı ilk olarak GitHub Blogunda göründü. Rendering huge pull requests in the GitHub Copilot app How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Rendering huge pull requests in the GitHub Copilot app",
-      "summary_original": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
-      "published_display": "2026-09-23",
-      "id": "6862fecfe3f1"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Geliştiriciler daha verimli yazılımlar istiyor. İşte 1000'den fazla GitHub kullanıcısının bize ihtiyaçları olduğunu söylediği şeyler.",
-      "summary": "GitHub ve Yale İklim Değişikliği İletişimi Programı tarafından gerçekleştirilen yeni araştırma, geliştiricilerin bilgi işlem israfını azaltmalarına yardımcı olabilecek araçlara, ölçümlere ve pratik rehberliğe yönelik güçlü bir talep olduğunu ortaya koyuyor. Post Geliştiriciler daha verimli yazılım istiyor...",
-      "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-23T13:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Geliştiriciler daha verimli yazılımlar istiyor. İşte 1000'den fazla GitHub kullanıcısının bize ihtiyaçları olduğunu söylediği şeyler. GitHub ve Yale İklim Değişikliği İletişimi Programı tarafından gerçekleştirilen yeni araştırma, geliştiricilerin bilgi işlem israfını azaltmalarına yardımcı olabilecek araçlara, ölçümlere ve pratik rehberliğe yönelik güçlü bir talep olduğunu ortaya koyuyor. Post Geliştiriciler daha verimli yazılım istiyor... Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software... GitHub Dev Platform",
-      "title_original": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
-      "summary_original": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software...",
-      "published_display": "2026-09-23",
-      "id": "4ba68cb95458"
+      "keywords": "Lenfest Enstitüsü, genişletilmiş OpenAI desteğiyle çığır açan programını büyütüyor OpenAI, Lenfest Yapay Zeka İşbirliği ve Burs Programını 5 milyon dolarlık finansman ve 5 milyon dolara kadar yazılım kredisi ve mühendislik desteğiyle genişletiyor. The Lenfest Institute grows landmark program with expanded OpenAI support OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support. AI OpenAI Model",
+      "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary_original": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "published_display": "2026-09-28",
+      "id": "ca41cbc2030e"
     },
     {
       "category": "ai",
@@ -212,44 +252,24 @@
       "id": "a9b3b5ff643e"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI, sivil savunma için siber erişimi Ukrayna'ya genişletiyor",
-      "summary": "OpenAI, sivil altyapının siber savunmasını desteklemek için Daybreak programına erişimi Ukrayna Hükümeti'nin kullanımına sunuyor.",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk Bileşik Büyüme Oranı - Market.us",
+      "summary": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SSFNhSnc1SUxsZm9VU1g5MmlDcFpnQ0o1dFQ2ZGp2NVBwVW96dUFnSzVVNVJ1d1RDa1lfNUh1Y2dBaEJ5S3dLSnBHRDZBNnYyQmRLRDdZQko4UzVFb1piRkwybkZEQQ?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-23T13:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-09-28T12:23:58Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "OpenAI, sivil savunma için siber erişimi Ukrayna'ya genişletiyor OpenAI, sivil altyapının siber savunmasını desteklemek için Daybreak programına erişimi Ukrayna Hükümeti'nin kullanımına sunuyor. OpenAI extends cyber access to Ukraine for civilian defense OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure. AI OpenAI Model",
-      "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary_original": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "published_display": "2026-09-23",
-      "id": "d7fbb91057f7"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Ringg'in yapay zeka temsilcileri, müşteri çağrılarının %65'e kadarını OpenAI ile çözüyor",
-      "summary": "GPT-5.6'yı kullanan Ringg, GPT-4.1'e kıyasla %90 daha az maliyetle çok dilli temsilcilere ses, sohbet, WhatsApp ve web üzerinden güç sağlıyor.",
-      "url": "https://openai.com/index/ringg",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-23T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Ringg'in yapay zeka temsilcileri, müşteri çağrılarının %65'e kadarını OpenAI ile çözüyor GPT-5.6'yı kullanan Ringg, GPT-4.1'e kıyasla %90 daha az maliyetle çok dilli temsilcilere ses, sohbet, WhatsApp ve web üzerinden güç sağlıyor. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1. AI OpenAI Model",
-      "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary_original": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "published_display": "2026-09-23",
-      "id": "13b821ae8ac8"
+      "keywords": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk Bileşik Büyüme Oranı - Market.us Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us Food Automation Market Size, Share | CAGR of 9.9% - Market.us Food Automation Market Size, Share | CAGR of 9.9% Market.us Robotics Automation Industry",
+      "title_original": "Food Automation Market Size, Share | CAGR of 9.9% - Market.us",
+      "summary_original": "Food Automation Market Size, Share | CAGR of 9.9% Market.us",
+      "published_display": "2026-09-28",
+      "id": "50f47dad9e5a"
     },
     {
       "category": "robotik",
@@ -334,8 +354,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World",
-      "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com",
+      "summary": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,31 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
-      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
-      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com Robotics Automation Industry",
+      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com",
+      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com",
       "published_display": "2026-09-18",
-      "id": "039edb8422e2"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFRqemlIMjN6c2RRc1FXeDA1RDlXLXFFU2ZaeGxZbVhNMlVkN2J4dzY2QVJMSlFnLW1VNnloV3Q0ZjdRdTgxc0pFSmp1SG9zN1R6d0d4RUVxVUZ3M3AyZ3FjOVZmQVZDdldBcG5rbEpzYjU5OTdQbGtmZEdETE5kZElvZ1ByS2h5RlBsU0Z1amJGYnktNU56QkhFeGRpeUozbXNMNF9LRTNZbl9NU3NXMUZQcXp0REtMZnkyT0pKS3drNE9MbGV6NzM0VFRFNElWREFBbk9uVQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-18T17:05:08Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - Robotik ve Otomasyon Haberleri Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor Robotik ve Otomasyon Haberleri Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - Robotics & Automation News Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - Robotics & Automation News",
-      "summary_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ Robotics & Automation News",
-      "published_display": "2026-09-18",
-      "id": "c754dd5a64b4"
+      "id": "7e15aebccfb5"
     },
     {
       "category": "web",
@@ -674,7 +674,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
       "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
       "image_url": null,
@@ -685,11 +685,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
       "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
-      "id": "3e495a0121de"
+      "id": "2dd56e341c6e"
     }
   ]
 }
