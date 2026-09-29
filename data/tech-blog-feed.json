@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-29T16:30:35Z",
+  "updated_at": "2026-09-29T18:38:27Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Azure Canvases ile derleme: aracılar için paylaşılan bir çalışma alanı",
+      "summary": "Azure Canvas'ların aracı destekli geliştirme için ortak çalışmaya dayalı bir çalışma alanında planları, kodları, önizlemeleri ve dağıtım geri bildirimlerini nasıl bir araya getirdiğini görün. Azure Canvases ile Oluşturma yazısı: aracılar için paylaşılan bir çalışma alanı ilk olarak Microso'da göründü...",
+      "url": "https://devblogs.microsoft.com/blog/azure-canvases/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-29T18:30:00Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Azure Canvases ile derleme: aracılar için paylaşılan bir çalışma alanı Azure Canvas'ların aracı destekli geliştirme için ortak çalışmaya dayalı bir çalışma alanında planları, kodları, önizlemeleri ve dağıtım geri bildirimlerini nasıl bir araya getirdiğini görün. Azure Canvases ile Oluşturma yazısı: aracılar için paylaşılan bir çalışma alanı ilk olarak Microso'da göründü... Build with Azure Canvases: a shared workspace for agents See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microso... Microsoft Dev Cloud",
+      "title_original": "Build with Azure Canvases: a shared workspace for agents",
+      "summary_original": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microso...",
+      "published_display": "2026-09-29",
+      "id": "b1099fd86426"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git 2.56'dan öne çıkanlar",
-      "summary": "Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Açık kaynaklı Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,31 +125,91 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git 2.56'dan öne çıkanlar Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.56 The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Git 2.56'dan öne çıkanlar Açık kaynaklı Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.56 The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Highlights from Git 2.56",
       "summary_original": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
       "published_display": "2026-09-28",
       "id": "f89e499a5dc2"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Tuvallerle özel iş akışları nasıl oluşturulur?",
-      "summary": "İhtiyacınız olan arayüzü sade bir İngilizceyle tanımlayın, ardından aracının hem kullanabileceğiniz hem de güncelleyebileceğiniz canlı bir yüzey oluşturmasına izin verin; böylece araçlara uyum sağlamaya daha az, işlerinizi yapmaya daha fazla zaman harcarsınız. Yeni Başlayanlar için GitHub Copilot uygulaması sonrası: Ho...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-25T18:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Difüzyon Denetleyicisi yapay zeka görüntü oluşturmayı nasıl birleştirir ve basitleştirir?",
+      "summary": "Algoritmalar ve Teori",
+      "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
+      "source": "Google Research Blog",
+      "published_at": "2026-09-29T18:38:27Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Research",
+        "Google"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Tuvallerle özel iş akışları nasıl oluşturulur? İhtiyacınız olan arayüzü sade bir İngilizceyle tanımlayın, ardından aracının hem kullanabileceğiniz hem de güncelleyebileceğiniz canlı bir yüzey oluşturmasına izin verin; böylece araçlara uyum sağlamaya daha az, işlerinizi yapmaya daha fazla zaman harcarsınız. Yeni Başlayanlar için GitHub Copilot uygulaması sonrası: Ho... GitHub Copilot app for Beginners: How to build custom workflows with canvases Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: Ho... GitHub Dev Platform",
-      "title_original": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-      "summary_original": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: Ho...",
-      "published_display": "2026-09-25",
-      "id": "1ef86d9dc9c0"
+      "keywords": "Difüzyon Denetleyicisi yapay zeka görüntü oluşturmayı nasıl birleştirir ve basitleştirir? Algoritmalar ve Teori How Diffusion Controller unifies and simplifies AI image generation Algorithms & Theory AI Research Google",
+      "title_original": "How Diffusion Controller unifies and simplifies AI image generation",
+      "summary_original": "Algorithms & Theory",
+      "published_display": "2026-09-29",
+      "id": "7a06dff3edea"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "DevDay 2026 Özeti",
+      "summary": "GPT-6 Astra, ChatGPT, Codex, API'ler, güvenlik ve inşaatçılar için yeni araçlar dahil olmak üzere OpenAI DevDay 2026'daki 20'den fazla duyuruyu keşfedin.",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-29T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "DevDay 2026 Özeti GPT-6 Astra, ChatGPT, Codex, API'ler, güvenlik ve inşaatçılar için yeni araçlar dahil olmak üzere OpenAI DevDay 2026'daki 20'den fazla duyuruyu keşfedin. DevDay 2026 Recap Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. AI OpenAI Model",
+      "title_original": "DevDay 2026 Recap",
+      "summary_original": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "published_display": "2026-09-29",
+      "id": "bc586114df20"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT-6.1 Sol'la tanışın",
+      "summary": "GPT-6.1 Sol ile tanışın: Astra'nın standart API giriş ve çıkış token fiyatlarının beşte biri karşılığında kodlama, bilgisayar kullanımı ve profesyonel çalışma için Astra'ya yakın zeka.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-29T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GPT-6.1 Sol'la tanışın GPT-6.1 Sol ile tanışın: Astra'nın standart API giriş ve çıkış token fiyatlarının beşte biri karşılığında kodlama, bilgisayar kullanımı ve profesyonel çalışma için Astra'ya yakın zeka. Introducing GPT-6.1 Sol Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices. AI OpenAI Model",
+      "title_original": "Introducing GPT-6.1 Sol",
+      "summary_original": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "published_display": "2026-09-29",
+      "id": "b181ea4e0d13"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Noktalarla tanışın",
+      "summary": "OpenAI Dots, karmaşık projelerde ve günlük görevlerde çalışmaya devam edebilen proaktif bir yardımcıdır. İşiniz ilerlerken noktaların kontrolü elinizde tutmanıza nasıl yardımcı olduğunu öğrenin.",
+      "url": "https://openai.com/index/introducing-dots",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-29T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Noktalarla tanışın OpenAI Dots, karmaşık projelerde ve günlük görevlerde çalışmaya devam edebilen proaktif bir yardımcıdır. İşiniz ilerlerken noktaların kontrolü elinizde tutmanıza nasıl yardımcı olduğunu öğrenin. Introducing dots Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. AI OpenAI Model",
+      "title_original": "Introducing dots",
+      "summary_original": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "published_display": "2026-09-29",
+      "id": "07844f9c7790"
     },
     {
       "category": "ai",
@@ -172,86 +252,6 @@
       "id": "501b9e9439e4"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Avustralya için nasıl daha iyi şeyler yapabiliriz?",
-      "summary": "OpenAI, Avustralya hükümetinin web siteleriyle ilgili olaylardan dolayı özür diler ve Avustralya'nın siber savunmasını güçlendirmek için daha güçlü koruma önlemleri ve desteğin ana hatlarını çizer.",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-28T19:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Avustralya için nasıl daha iyi şeyler yapabiliriz? OpenAI, Avustralya hükümetinin web siteleriyle ilgili olaylardan dolayı özür diler ve Avustralya'nın siber savunmasını güçlendirmek için daha güçlü koruma önlemleri ve desteğin ana hatlarını çizer. How we will do better for Australia OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. AI OpenAI Model",
-      "title_original": "How we will do better for Australia",
-      "summary_original": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "published_display": "2026-09-28",
-      "id": "d7e272cb2b23"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Lenfest Enstitüsü, genişletilmiş OpenAI desteğiyle çığır açan programını büyütüyor",
-      "summary": "OpenAI, Lenfest Yapay Zeka İşbirliği ve Burs Programını 5 milyon dolarlık finansman ve 5 milyon dolara kadar yazılım kredisi ve mühendislik desteğiyle genişletiyor.",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-28T07:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Lenfest Enstitüsü, genişletilmiş OpenAI desteğiyle çığır açan programını büyütüyor OpenAI, Lenfest Yapay Zeka İşbirliği ve Burs Programını 5 milyon dolarlık finansman ve 5 milyon dolara kadar yazılım kredisi ve mühendislik desteğiyle genişletiyor. The Lenfest Institute grows landmark program with expanded OpenAI support OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support. AI OpenAI Model",
-      "title_original": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary_original": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "published_display": "2026-09-28",
-      "id": "ca41cbc2030e"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Basis, GPT-6 Astra ile vergi çalışma kitabını 2 kat daha hızlı tamamlıyor",
-      "summary": "GPT-6 Astra, 50 sekmeli vergi çalışma kitabını GPT-5.6 Sol'dan iki kat daha hızlı tamamladı ve kullanıcı amacına ilişkin daha güçlü anlayış, Basis'e gerçek dünya kullanımında daha fazla güven sağlıyor.",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-28T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Basis, GPT-6 Astra ile vergi çalışma kitabını 2 kat daha hızlı tamamlıyor GPT-6 Astra, 50 sekmeli vergi çalışma kitabını GPT-5.6 Sol'dan iki kat daha hızlı tamamladı ve kullanıcı amacına ilişkin daha güçlü anlayış, Basis'e gerçek dünya kullanımında daha fazla güven sağlıyor. Basis completes a tax workbook 2x faster with GPT-6 Astra GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use. AI OpenAI Model",
-      "title_original": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary_original": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "published_display": "2026-09-28",
-      "id": "65b06e9ef14c"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Codex Orijinali misiniz?",
-      "summary": "İnanılmaz şeyler yapmak için Codex'i kullanan inşaatçıların, tamircilerin, araştırmacıların ve yaratıcıların gerçek hikayelerini topluyoruz. Codex Originals programının bir sonraki bölümünün bir parçası olmak istiyorsanız bize hikayeniz ve çalışmalarınız hakkında daha fazla bilgi verin.",
-      "url": "https://openai.com/form/codex-originals",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-28T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Codex Orijinali misiniz? İnanılmaz şeyler yapmak için Codex'i kullanan inşaatçıların, tamircilerin, araştırmacıların ve yaratıcıların gerçek hikayelerini topluyoruz. Codex Originals programının bir sonraki bölümünün bir parçası olmak istiyorsanız bize hikayeniz ve çalışmalarınız hakkında daha fazla bilgi verin. Are you a Codex Original? We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and p... AI OpenAI Model",
-      "title_original": "Are you a Codex Original?",
-      "summary_original": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and p...",
-      "published_display": "2026-09-28",
-      "id": "47e8227d52b7"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotik ve Otomasyon Pazar Raporu Önemli Segmentleri, Bölgesel Gelişmeleri ve Önde Gelen Rakipleri Detaylandırıyor - EIN Haberleri",
@@ -274,7 +274,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk Bileşik Büyüme Oranı - Market.us",
+      "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us",
       "summary": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SSFNhSnc1SUxsZm9VU1g5MmlDcFpnQ0o1dFQ2ZGp2NVBwVW96dUFnSzVVNVJ1d1RDa1lfNUh1Y2dBaEJ5S3dLSnBHRDZBNnYyQmRLRDdZQko4UzVFb1piRkwybkZEQQ?oc=5",
       "image_url": null,
@@ -285,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk Bileşik Büyüme Oranı - Market.us Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us Food Automation Market Size, Share | CAGR of 9.9% - Market.us Food Automation Market Size, Share | CAGR of 9.9% Market.us Robotics Automation Industry",
+      "keywords": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us Food Automation Market Size, Share | CAGR of 9.9% - Market.us Food Automation Market Size, Share | CAGR of 9.9% Market.us Robotics Automation Industry",
       "title_original": "Food Automation Market Size, Share | CAGR of 9.9% - Market.us",
       "summary_original": "Food Automation Market Size, Share | CAGR of 9.9% Market.us",
       "published_display": "2026-09-28",
-      "id": "50f47dad9e5a"
+      "id": "fcdb145a2791"
     },
     {
       "category": "robotik",
@@ -354,7 +354,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejiye İhtiyacı Var - Automation World",
       "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
@@ -365,11 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejiye İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
       "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
       "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
       "published_display": "2026-09-18",
-      "id": "039edb8422e2"
+      "id": "062766c67a43"
     },
     {
       "category": "web",
@@ -494,7 +494,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -505,11 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "91b949a3e484"
+      "id": "877952b0f857"
     },
     {
       "category": "siber",
@@ -594,7 +594,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tüm İnternet için bir sertifika yetkilisi oluşturma",
+      "title": "İnternetin tamamı için bir sertifika yetkilisi oluşturma",
       "summary": "Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz...",
       "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3NDS17PAN9XKW88493GE864.01M3NDS24T3Y1A90FZDRFXYHZD.png",
@@ -605,11 +605,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tüm İnternet için bir sertifika yetkilisi oluşturma Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz... Building a certificate authority for the whole Internet Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open... Cloudflare Security Web",
+      "keywords": "İnternetin tamamı için bir sertifika yetkilisi oluşturma Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz... Building a certificate authority for the whole Internet Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open... Cloudflare Security Web",
       "title_original": "Building a certificate authority for the whole Internet",
       "summary_original": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open...",
       "published_display": "2026-09-29",
-      "id": "de4317d31881"
+      "id": "9f750a8fcb00"
     },
     {
       "category": "kamera",
@@ -654,8 +654,8 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
-      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
+      "title": "Slovakya, 279 yeni trafik kamerasında Rusya'nın arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen dağıtımda bulunan şifresiz canlı yayınlar - tomshardware.com",
+      "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen tomshardware.com'da bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -665,16 +665,16 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
-      "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rusya'nın arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen dağıtımda bulunan şifresiz canlı yayınlar - tomshardware.com Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen tomshardware.com'da bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - tomshardware.com Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout tomshardware.com IP Camera Video Surveillance",
+      "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - tomshardware.com",
+      "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout tomshardware.com",
       "published_display": "2026-08-21",
-      "id": "260fa5b969f0"
+      "id": "51d9be0e5d6b"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com",
+      "title": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com",
       "summary": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZqTWloVUJDREttWnVQWmduT0N2LU81MGZYSExlY3pLZGZQalBVajctX3hIaDBvaUpBb2J5NGp2OTJXTlltYzd0dnpyRzFIS19NMThEUEdOMmx4N3ZWZHZCMHprN05oMldPWFZMT0xWNFVyYW1VNWZFQm9CNGhodGJTeFJyNGFBOGlEUVcweGdIcmpaMVhHWUhjQ21UU1QySzB0SjZqZW1jWEM4UDB4ajh1QTRXQ20t?oc=5",
       "image_url": null,
@@ -685,11 +685,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analitikindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
+      "keywords": "Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili - analyzeindiamag.com Yapay Zeka Güvenlik Kameraları Bulutu Bitiriyor. Artık Her Şey Uç Çıkarımla İlgili AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com IP Camera Video Surveillance",
       "title_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference - analyticsindiamag.com",
       "summary_original": "AI Security Cameras are Ditching the Cloud. It's Now All About Edge Inference analyticsindiamag.com",
       "published_display": "2026-08-17",
-      "id": "2dd56e341c6e"
+      "id": "3e495a0121de"
     }
   ]
 }
