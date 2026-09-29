@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-28T19:00:00Z",
+  "updated_at": "2026-09-29T16:30:35Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,46 @@
     "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme",
+      "summary": "Bir mühendis veya ekip günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey...",
+      "url": "https://devblogs.microsoft.com/blog/enabling-consistent-ai-assisted-engineering-with-github-copilot-plugins/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-09-29T16:30:35Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme Bir mühendis veya ekip günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey... Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh... Microsoft Dev Cloud",
+      "title_original": "Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins",
+      "summary_original": "When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh...",
+      "published_display": "2026-09-29",
+      "id": "806b0e99d12c"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Geliştirici politikası güncellemesi: Şeffaflık, eyalet politikası ve gelecekte neler olacak",
+      "summary": "GitHub'un en son şeffaflık verilerini keşfedin ve geliştiricileri ve açık kaynağı etkileyen politika güncellemeleri hakkında daha fazla bilgi edinin. Geliştirici sonrası politika güncellemesi: Şeffaflık, eyalet politikası ve gelecekte neler olacağı ilk olarak GitHub Blogunda yayınlandı.",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-09-29T15:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Geliştirici politikası güncellemesi: Şeffaflık, eyalet politikası ve gelecekte neler olacak GitHub'un en son şeffaflık verilerini keşfedin ve geliştiricileri ve açık kaynağı etkileyen politika güncellemeleri hakkında daha fazla bilgi edinin. Geliştirici sonrası politika güncellemesi: Şeffaflık, eyalet politikası ve gelecekte neler olacağı ilk olarak GitHub Blogunda yayınlandı. Developer policy update: Transparency, state policy, and what’s ahead Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "summary_original": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
+      "published_display": "2026-09-29",
+      "id": "267a6563dad1"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -90,46 +130,6 @@
       "summary_original": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: Ho...",
       "published_display": "2026-09-25",
       "id": "1ef86d9dc9c0"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Daha fazla CSS göndererek site performansını artırma",
-      "summary": "Github.com'u JS'deki CSS'den nasıl tamamen uzaklaştırdık? Daha fazla CSS göndererek site performansını iyileştirme yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-25T15:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Daha fazla CSS göndererek site performansını artırma Github.com'u JS'deki CSS'den nasıl tamamen uzaklaştırdık? Daha fazla CSS göndererek site performansını iyileştirme yazısı ilk olarak GitHub Blogunda göründü. Improving site performance by shipping more CSS How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Improving site performance by shipping more CSS",
-      "summary_original": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .",
-      "published_display": "2026-09-25",
-      "id": "8c3db5ecc33c"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Sohbet yanlış kullanıcı arayüzü olduğunda",
-      "summary": "Bir geliştiricinin sohbet kutusundan daha somut bir şeye ihtiyacı olduğunda ne yapması gerekir? Tuvallere girin. Sohbet yanlış kullanıcı arayüzü olduğunda yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-24T20:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Sohbet yanlış kullanıcı arayüzü olduğunda Bir geliştiricinin sohbet kutusundan daha somut bir şeye ihtiyacı olduğunda ne yapması gerekir? Tuvallere girin. Sohbet yanlış kullanıcı arayüzü olduğunda yazısı ilk olarak GitHub Blogunda göründü. When chat is the wrong UI What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "When chat is the wrong UI",
-      "summary_original": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .",
-      "published_display": "2026-09-24",
-      "id": "ae508bff3036"
     },
     {
       "category": "ai",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Robotik ve Otomasyon Pazar Raporu Önemli Segmentleri, Bölgesel Gelişmeleri ve Önde Gelen Rakipleri Detaylandırıyor - EIN Haberleri",
+      "summary": "Robotik ve Otomasyon Pazar Raporunun Detayları Önemli Segmentler, Bölgesel Gelişmeler ve Önde Gelen Rakipler EIN Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWHFxeXhyVVMzcFlVc1dtWFBUTF9qZjAyTVU5VUF0V0dLd0dxUkVfRjlDZ09fNEFkbkZxR3Q2dURUX2dTOHpMR3llRGpOaDVpZ0ZYa091bTdVemQ4ZS1yZW9Rckd3Q0M5c0VzXzVjTXk1bnlMS2JGSU5aakUzUUFqT3pqZEFhcXEzai1lVlZZa0E1Tnl4d2tuN1Q5cW5OeXo2MjZLaDI4MGF1Z2FMTWQyQWpFTGwzSXJoR0cyMWZBckgzeUlGZG9ka0FWUjhaNjBJUkZqb0lHaVBXUkc4ZFpR?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-29T14:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotik ve Otomasyon Pazar Raporu Önemli Segmentleri, Bölgesel Gelişmeleri ve Önde Gelen Rakipleri Detaylandırıyor - EIN Haberleri Robotik ve Otomasyon Pazar Raporunun Detayları Önemli Segmentler, Bölgesel Gelişmeler ve Önde Gelen Rakipler EIN Haberleri Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors - EIN News Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors EIN News Robotics Automation Industry",
+      "title_original": "Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors - EIN News",
+      "summary_original": "Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors EIN News",
+      "published_display": "2026-09-29",
+      "id": "46db887db44a"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk Bileşik Büyüme Oranı - Market.us",
       "summary": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SSFNhSnc1SUxsZm9VU1g5MmlDcFpnQ0o1dFQ2ZGp2NVBwVW96dUFnSzVVNVJ1d1RDa1lfNUh1Y2dBaEJ5S3dLSnBHRDZBNnYyQmRLRDdZQko4UzVFb1piRkwybkZEQQ?oc=5",
@@ -334,8 +354,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com",
-      "summary": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var",
+      "title": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World",
+      "summary": "Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var?",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObUVGZVpiNHRnTVVKVXZQYzhKRXFqQ3JuZDhZMVlDcTIyYWNKWldLdW5pZGF1dVpHcXBHYmxHcE9PM1NVS0ZPa1l5V2duX2xFeFJjRlA3MFIxek1Ed2wzMGRnODhNM2tOQlREdWR3M1RxNl9HczdheGx0WUxST0g1X3d0eW5Ed3VJUzFiSlhZWEcxVTFuN3BENVhld0V2a1ExVGwteUJwMkR6TW00UFJKcGIyZWZHM0xGZ3lBOXNXckFjQlcwNlM4cG9MRDhHeXI0Y1hEcmZ6c0hGdw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,31 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - otomasyonworld.com Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com Robotics Automation Industry",
-      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - automationworld.com",
-      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation automationworld.com",
+      "keywords": "Soru-Cevap: Üreticilerin Otomasyona Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var - Automation World Soru-Cevap: Üreticilerin Otomasyon Otomasyon Dünyasına Yatırım Yapmadan Önce Neden Robotik Stratejisine İhtiyacı Var? Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World Robotics Automation Industry",
+      "title_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation - Automation World",
+      "summary_original": "Q&A: Why Manufacturers Need A Robotics Strategy Before Investing In Automation Automation World",
       "published_display": "2026-09-18",
-      "id": "7e15aebccfb5"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - Robotik ve Otomasyon Haberleri",
-      "summary": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTFRqemlIMjN6c2RRc1FXeDA1RDlXLXFFU2ZaeGxZbVhNMlVkN2J4dzY2QVJMSlFnLW1VNnloV3Q0ZjdRdTgxc0pFSmp1SG9zN1R6d0d4RUVxVUZ3M3AyZ3FjOVZmQVZDdldBcG5rbEpzYjU5OTdQbGtmZEdETE5kZElvZ1ByS2h5RlBsU0Z1amJGYnktNU56QkhFeGRpeUozbXNMNF9LRTNZbl9NU3NXMUZQcXp0REtMZnkyT0pKS3drNE9MbGV6NzM0VFRFNElWREFBbk9uVQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-18T17:05:08Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor - Robotik ve Otomasyon Haberleri Somutlaştırılmış Yapay Zeka, 'Avrupa üretim krizini çözmek' için robotik bir iş gücü başlatıyor Robotik ve Otomasyon Haberleri Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - Robotics & Automation News Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ - Robotics & Automation News",
-      "summary_original": "Embodied AI launches a robotic workforce to ‘solve the European manufacturing crisis’ Robotics & Automation News",
-      "published_display": "2026-09-18",
-      "id": "c754dd5a64b4"
+      "id": "039edb8422e2"
     },
     {
       "category": "web",
@@ -494,122 +494,122 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Temsilciler artık Turnike Dönüşü ile web sitenizin güvenliğini ayarlayabilir",
-      "summary": "Turnikenin arka uç doğrulamasını atlayarak yanlış yapılandırılması, sitelerin botlara maruz kalmasına neden olur. Turnstile Spin, sunucu tarafı doğrulamasını bağlamak için tercih ettiğiniz AI kodlama aracısını kullanarak eksik kurulumları düzeltir.",
-      "url": "https://blog.cloudflare.com/turnstile-spin/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3CQMQWGC7WBK8ZR7DG13PFE.01M3CQMRMEBSVS7GAD6GNHZ9JD.png",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
+      "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
+      "url": "https://blog.cloudflare.com/threat-signals/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
       "source": "Cloudflare Security",
-      "published_at": "2026-09-25T13:00:00Z",
+      "published_at": "2026-09-29T13:00:00Z",
       "tags": [
         "Cloudflare",
         "Security",
         "Web"
       ],
-      "keywords": "Temsilciler artık Turnike Dönüşü ile web sitenizin güvenliğini ayarlayabilir Turnikenin arka uç doğrulamasını atlayarak yanlış yapılandırılması, sitelerin botlara maruz kalmasına neden olur. Turnstile Spin, sunucu tarafı doğrulamasını bağlamak için tercih ettiğiniz AI kodlama aracısını kullanarak eksik kurulumları düzeltir. Agents can now set up your website’s security with Turnstile Spin Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification. Cloudflare Security Web",
-      "title_original": "Agents can now set up your website’s security with Turnstile Spin",
-      "summary_original": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.",
-      "published_display": "2026-09-25",
-      "id": "c1a3036300df"
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+      "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
+      "published_display": "2026-09-29",
+      "id": "91b949a3e484"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare, Konteynerlerdeki kiracılar arası verilere maruz kalma güvenlik açığını nasıl ele aldı?",
-      "summary": "Accomplish'teki harici güvenlik araştırmacıları, Cloudflare Containers'ta önceki iş yüklerinden kalan disk verilerini açığa çıkarabilecek bir güvenlik açığı tespit etti. Sorunun nasıl işlediğini, nasıl araştırdığımızı ve attığımız adımları açıklıyoruz...",
-      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M38DQFQRTYYSM43H964E1E3F.01M38DQGBNEE0N3C6WAXNMGS0H.png",
+      "title": "Cloudflare Uygulama Profilleri ile pozitif güvenliği güçlendirin",
+      "summary": "Cloudflare, HTTP isteklerinizin yapısını öğrenir ve sapmaları tanımlar. Yapay zeka, saldırganların yük oluşturmasını ve değiştirmesini kolaylaştırdığından saldırı yüzeyini azaltmaya yardımcı olan pozitif bir güvenlik katmanı ekleyebilirsiniz.",
+      "url": "https://blog.cloudflare.com/application-profiles/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3B09CMJMHVJCVMPMCFARRCT.01M3B09DCPG1A08FA7FTWA6PR9.png",
       "source": "Cloudflare Security",
-      "published_at": "2026-09-24T15:00:00Z",
+      "published_at": "2026-09-29T13:00:00Z",
       "tags": [
         "Cloudflare",
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare, Konteynerlerdeki kiracılar arası verilere maruz kalma güvenlik açığını nasıl ele aldı? Accomplish'teki harici güvenlik araştırmacıları, Cloudflare Containers'ta önceki iş yüklerinden kalan disk verilerini açığa çıkarabilecek bir güvenlik açığı tespit etti. Sorunun nasıl işlediğini, nasıl araştırdığımızı ve attığımız adımları açıklıyoruz... How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took... Cloudflare Security Web",
-      "title_original": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-      "summary_original": "External security researchers at Accomplish identified a vulnerability in Cloudflare Containers that could expose residual disk data from previous workloads. We explain how the issue worked, how we investigated it, and the steps we took...",
-      "published_display": "2026-09-24",
-      "id": "8d750c99c46f"
+      "keywords": "Cloudflare Uygulama Profilleri ile pozitif güvenliği güçlendirin Cloudflare, HTTP isteklerinizin yapısını öğrenir ve sapmaları tanımlar. Yapay zeka, saldırganların yük oluşturmasını ve değiştirmesini kolaylaştırdığından saldırı yüzeyini azaltmaya yardımcı olan pozitif bir güvenlik katmanı ekleyebilirsiniz. Enforce positive security with Cloudflare Application Profiles Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads. Cloudflare Security Web",
+      "title_original": "Enforce positive security with Cloudflare Application Profiles",
+      "summary_original": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
+      "published_display": "2026-09-29",
+      "id": "5f4df7226861"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Her iki şekilde de yararlanın: AI eğitimine izin vermezken aramada keşfedilebilir kalın",
-      "summary": "Cloudflare, site sahiplerine AI eğitimine izin vermezken keşfedilebilir kalmaları için bir yol sunuyor. Yeni kontroller ve Sorumlu atama, Apple, Google ve Microsoft ile ortak bir model oluşturuyor.",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M2H2Z9EEQXN77GRVF484P66A.01M2H2ZAMANYA3DTBA92G3WQ5X.png",
+      "title": "Merkle Tree Sertifikalarıyla kuantum sonrası sertifika yetkilisi oluşturma",
+      "summary": "Kuantum sonrası imzalar, TLS anlaşmalarını ve sertifika şeffaflık günlüklerini şişirme tehlikesiyle karşı karşıyayken, Merkle Ağacı Sertifikaları kompakt, denetlenebilir kimlik doğrulamaya giden bir yol sunar. Cloudflare'in yeni sertifika yetkilisi MTC verilmesini destekleyecek...",
+      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MX3H0DJVT3EQ9XF4GKFX9C.01M3MX3HYF5RPW6B0KQPFMJ8QS.png",
       "source": "Cloudflare Security",
-      "published_at": "2026-09-15T13:00:00Z",
+      "published_at": "2026-09-29T13:00:00Z",
       "tags": [
         "Cloudflare",
         "Security",
         "Web"
       ],
-      "keywords": "Her iki şekilde de yararlanın: AI eğitimine izin vermezken aramada keşfedilebilir kalın Cloudflare, site sahiplerine AI eğitimine izin vermezken keşfedilebilir kalmaları için bir yol sunuyor. Yeni kontroller ve Sorumlu atama, Apple, Google ve Microsoft ile ortak bir model oluşturuyor. Have it both ways: stay discoverable in search while disallowing AI training Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft. Cloudflare Security Web",
-      "title_original": "Have it both ways: stay discoverable in search while disallowing AI training",
-      "summary_original": "Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.",
-      "published_display": "2026-09-15",
-      "id": "27a613e60951"
+      "keywords": "Merkle Tree Sertifikalarıyla kuantum sonrası sertifika yetkilisi oluşturma Kuantum sonrası imzalar, TLS anlaşmalarını ve sertifika şeffaflık günlüklerini şişirme tehlikesiyle karşı karşıyayken, Merkle Ağacı Sertifikaları kompakt, denetlenebilir kimlik doğrulamaya giden bir yol sunar. Cloudflare'in yeni sertifika yetkilisi MTC verilmesini destekleyecek... Building a post-quantum certificate authority with Merkle Tree Certificates As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance... Cloudflare Security Web",
+      "title_original": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+      "summary_original": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance...",
+      "published_display": "2026-09-29",
+      "id": "d895db9fa846"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Her takım arkadaşınıza ve temsilcinize Çalışanlarınıza doğru düzeyde erişim verin",
-      "summary": "Artık bireysel Çalışanlara erişimin kapsamını belirleyebilir ve daha dar Geliştirici Platformu rolleri atayabilirsiniz; böylece ekip arkadaşlarınız, CI belirteçleri ve aracılar yalnızca güvenli bir şekilde hata ayıklamak, dağıtmak veya izlemek için ihtiyaç duydukları erişime sahip olur.",
-      "url": "https://blog.cloudflare.com/workers-granular-authorization/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KW448A863P1CW4V1VXP9CBBR.png",
+      "title": "Kuantum sonrası geçişimiz için bir rota çizmek amacıyla yapay zekayı kullanma",
+      "summary": "Kod tabanımız genelinde kriptografiyi keşfeden, bağımlılıkları ortaya çıkaran ve 2029 yılına kadar tam bir kuantum sonrası geçişe doğru ilerlememize yardımcı olan, yapay zeka destekli dahili bir araç olan CryptoLabe'i geliştiriyoruz. Şu ana kadar öğrendiklerimiz:",
+      "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3NF5CE1NWTNNCSR9EKXSF87.01M3NF5CZVBP4EQSN6G4FQQC3S.png",
       "source": "Cloudflare Security",
-      "published_at": "2026-09-15T13:00:00Z",
+      "published_at": "2026-09-29T13:00:00Z",
       "tags": [
         "Cloudflare",
         "Security",
         "Web"
       ],
-      "keywords": "Her takım arkadaşınıza ve temsilcinize Çalışanlarınıza doğru düzeyde erişim verin Artık bireysel Çalışanlara erişimin kapsamını belirleyebilir ve daha dar Geliştirici Platformu rolleri atayabilirsiniz; böylece ekip arkadaşlarınız, CI belirteçleri ve aracılar yalnızca güvenli bir şekilde hata ayıklamak, dağıtmak veya izlemek için ihtiyaç duydukları erişime sahip olur. Give every teammate and agent the right level of access to your Workers You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely. Cloudflare Security Web",
-      "title_original": "Give every teammate and agent the right level of access to your Workers",
-      "summary_original": "You can now scope access to individual Workers and assign narrower Developer Platform roles, so teammates, CI tokens, and agents get only the access they need to debug, deploy, or monitor safely.",
-      "published_display": "2026-09-15",
-      "id": "069908c8987a"
+      "keywords": "Kuantum sonrası geçişimiz için bir rota çizmek amacıyla yapay zekayı kullanma Kod tabanımız genelinde kriptografiyi keşfeden, bağımlılıkları ortaya çıkaran ve 2029 yılına kadar tam bir kuantum sonrası geçişe doğru ilerlememize yardımcı olan, yapay zeka destekli dahili bir araç olan CryptoLabe'i geliştiriyoruz. Şu ana kadar öğrendiklerimiz: Using AI to chart a course for our post-quantum migration We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far. Cloudflare Security Web",
+      "title_original": "Using AI to chart a course for our post-quantum migration",
+      "summary_original": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far.",
+      "published_display": "2026-09-29",
+      "id": "554eedfad880"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "1.1.1.1 artık kuantum sonrası DNSSEC'yi destekliyor; bunun 2.420 baytının tamamı",
-      "summary": "1.1.1.1 artık NIST'in kuantum sonrası ML-DSA-44 algoritmasını kullanarak DNSSEC imzalarını doğruluyor. 2.420 baytlık imzaları nasıl yöneteceğimizi ve riskleri geniş ölçekte nasıl düşüreceğimizi burada bulabilirsiniz.",
-      "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M25DK32HZ1WQH3H12JRZ8W35.01M25DK70WYHHWWR2VQYE94TNP.png",
+      "title": "Alanınızda kuantum sonrası şifreleme kullanılıyor mu? Artık kendiniz görebilirsiniz",
+      "summary": "Cloudflare, TLS 1.3'teki kuantum sonrası (PQ) şifrelemeye yönelik görünürlüğü doğrudan HTTP Analytics, Log Explorer ve Logpush'a ekledi. Alan adınızın PQ şifrelemeyle korunduğundan nasıl emin olacağınızı öğrenin.",
+      "url": "https://blog.cloudflare.com/post-quantum-visibility/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3N38XJRGGRRGGBQ7NTTVN29.01M3N38Y5PW9W05SZSG2SAMQZ6.png",
       "source": "Cloudflare Security",
-      "published_at": "2026-09-10T13:00:00Z",
+      "published_at": "2026-09-29T13:00:00Z",
       "tags": [
         "Cloudflare",
         "Security",
         "Web"
       ],
-      "keywords": "1.1.1.1 artık kuantum sonrası DNSSEC'yi destekliyor; bunun 2.420 baytının tamamı 1.1.1.1 artık NIST'in kuantum sonrası ML-DSA-44 algoritmasını kullanarak DNSSEC imzalarını doğruluyor. 2.420 baytlık imzaları nasıl yöneteceğimizi ve riskleri geniş ölçekte nasıl düşüreceğimizi burada bulabilirsiniz. 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it 1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale. Cloudflare Security Web",
-      "title_original": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-      "summary_original": "1.1.1.1 now validates DNSSEC signatures using NIST’s post-quantum ML-DSA-44 algorithm. Here is how we manage 2,420-byte signatures and downgrade risks at scale.",
-      "published_display": "2026-09-10",
-      "id": "e3223cfafc81"
+      "keywords": "Alanınızda kuantum sonrası şifreleme kullanılıyor mu? Artık kendiniz görebilirsiniz Cloudflare, TLS 1.3'teki kuantum sonrası (PQ) şifrelemeye yönelik görünürlüğü doğrudan HTTP Analytics, Log Explorer ve Logpush'a ekledi. Alan adınızın PQ şifrelemeyle korunduğundan nasıl emin olacağınızı öğrenin. Is your domain using post-quantum encryption? Now you can see for yourself Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption. Cloudflare Security Web",
+      "title_original": "Is your domain using post-quantum encryption? Now you can see for yourself",
+      "summary_original": "Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption.",
+      "published_display": "2026-09-29",
+      "id": "2a84a1a5e801"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare Yönetilen Savunma ve OpenAI Daybreak modelleriyle bağlama duyarlı güvenlik açığı keşfi ve iyileştirmeyle tanışın",
-      "summary": "Bulguları önceliklendirmek, güvenli olduğunda uç azaltımlarını hazırlamak ve kod yamaları önermek için üretim trafiğini ve güvenlik sinyallerini kullanın. WAF verilerini OpenAI Daybreak modelleriyle birleştiren Güvenlik Açığı Keşfi ve Düzeltme, ekiplerin tespit etmesine yardımcı olur...",
-      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png",
+      "title": "Tüm İnternet için bir sertifika yetkilisi oluşturma",
+      "summary": "Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz...",
+      "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3NDS17PAN9XKW88493GE864.01M3NDS24T3Y1A90FZDRFXYHZD.png",
       "source": "Cloudflare Security",
-      "published_at": "2026-09-03T21:03:02Z",
+      "published_at": "2026-09-29T13:00:00Z",
       "tags": [
         "Cloudflare",
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare Yönetilen Savunma ve OpenAI Daybreak modelleriyle bağlama duyarlı güvenlik açığı keşfi ve iyileştirmeyle tanışın Bulguları önceliklendirmek, güvenli olduğunda uç azaltımlarını hazırlamak ve kod yamaları önermek için üretim trafiğini ve güvenlik sinyallerini kullanın. WAF verilerini OpenAI Daybreak modelleriyle birleştiren Güvenlik Açığı Keşfi ve Düzeltme, ekiplerin tespit etmesine yardımcı olur... Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden... Cloudflare Security Web",
-      "title_original": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
-      "summary_original": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams iden...",
-      "published_display": "2026-09-03",
-      "id": "1ae1d8d6cdd7"
+      "keywords": "Tüm İnternet için bir sertifika yetkilisi oluşturma Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz... Building a certificate authority for the whole Internet Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open... Cloudflare Security Web",
+      "title_original": "Building a certificate authority for the whole Internet",
+      "summary_original": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open...",
+      "published_display": "2026-09-29",
+      "id": "de4317d31881"
     },
     {
       "category": "kamera",
@@ -654,7 +654,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware",
+      "title": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware",
       "summary": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONEF3QU9QaGNkbHdFcHR1WjNieGpNTXZ4NEJvNzhtZVpfZEVxSW45ZEpsbjJ4ZGxsakxtcktvWmQ0bl9TWWs4S0pfdzRHQWFOR2xheW9DcFVWVVRheHMxb2hYS3pIV2dGMlNuOHVlalV3d01HaVJ4bVZMdTY1OXBxTEhRVzJrbDhWcWllYi0wMU5SVWlCLTV1cnIwQWVPcDlvZ2wtdGZzRldTeHQ4Rm4ySjY2a0hpN1ZBSG1fbFVERlR3dEtucEJ6Y3N5ZmMzS3hERmJSelpFT3lnZTFIT1lXYkRLSVZsRDV5Wl8xWGNkTmhNSW1lUlVtMWZpUEltMy1ZZkdyQTRR?oc=5",
       "image_url": null,
@@ -665,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - SMS ile tetiklenen kabuk erişimi ve AB tarafından finanse edilen sunumda bulunan şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen kullanıma sunmada SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar - Tom's Hardware Slovakya, 279 yeni trafik kamerasında Rus arka kapılarını keşfetti - AB tarafından finanse edilen Tom's Hardware'de bulunan SMS ile tetiklenen kabuk erişimi ve şifresiz canlı yayınlar Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout - Tom's Hardware",
       "summary_original": "Slovakia discovers Russian backdoors in 279 new traffic cameras — SMS-triggered shell access and passwordless live feeds found in EU-funded rollout Tom's Hardware",
       "published_display": "2026-08-21",
-      "id": "bf6b46c1653c"
+      "id": "260fa5b969f0"
     },
     {
       "category": "kamera",
