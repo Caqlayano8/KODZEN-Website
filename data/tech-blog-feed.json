@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-30T11:01:50Z",
+  "updated_at": "2026-09-30T17:48:46Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git 2.56'dan öne çıkanlar",
-      "summary": "Açık kaynaklı Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,51 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git 2.56'dan öne çıkanlar Açık kaynaklı Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.56 The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Git 2.56'dan öne çıkanlar Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.56 The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Highlights from Git 2.56",
       "summary_original": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
       "published_display": "2026-09-28",
       "id": "f89e499a5dc2"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Koordineli bir model damıtma kampanyasını bozmak",
+      "summary": "OpenAI'nin korumalı model mantığını ortaya çıkarmaya yönelik bir kampanyayı nasıl bozduğunu ve rakip damıtmalara karşı savunmayı nasıl güçlendirdiğini öğrenin.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-30T10:30:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Koordineli bir model damıtma kampanyasını bozmak OpenAI'nin korumalı model mantığını ortaya çıkarmaya yönelik bir kampanyayı nasıl bozduğunu ve rakip damıtmalara karşı savunmayı nasıl güçlendirdiğini öğrenin. Disrupting a coordinated model-distillation campaign Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation. AI OpenAI Model",
+      "title_original": "Disrupting a coordinated model-distillation campaign",
+      "summary_original": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "published_display": "2026-09-30",
+      "id": "70258a8681d5"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Küçük işletmelerin yapay zekayı hayata geçirmesine yardımcı oluyoruz",
+      "summary": "OpenAI, küçük ekiplerin yapay zekayı nasıl kullandığına ilişkin yeni bir raporun yanı sıra, küçük işletmelere yönelik uygulamalı yapay zeka eğitimini ve yerel desteği genişletmek için Amerika'nın SBDC'si ile ortaklık kuruyor.",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-09-30T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Küçük işletmelerin yapay zekayı hayata geçirmesine yardımcı oluyoruz OpenAI, küçük ekiplerin yapay zekayı nasıl kullandığına ilişkin yeni bir raporun yanı sıra, küçük işletmelere yönelik uygulamalı yapay zeka eğitimini ve yerel desteği genişletmek için Amerika'nın SBDC'si ile ortaklık kuruyor. Helping small businesses put AI to work OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI. AI OpenAI Model",
+      "title_original": "Helping small businesses put AI to work",
+      "summary_original": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "published_display": "2026-09-30",
+      "id": "d8fa7080a3cf"
     },
     {
       "category": "ai",
@@ -212,44 +252,24 @@
       "id": "07844f9c7790"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Future Vision XPRIZE The Gifted'ın kazanan fragmanını izleyin.",
-      "summary": "Future Vision XPRIZE The Gifted'ın kazanan fragmanını izleyin.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-28T19:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Future Vision XPRIZE The Gifted'ın kazanan fragmanını izleyin. Future Vision XPRIZE The Gifted'ın kazanan fragmanını izleyin. Watch the winning trailer from the Future Vision XPRIZE, The Gifted. Watch the winning trailer from the Future Vision XPRIZE, The Gifted. AI Product Google",
-      "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "published_display": "2026-09-28",
-      "id": "656d1f9ae5ce"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Sınır yapay zeka eğitimi için güvenlik vakalarına doğru",
-      "summary": "Sınır yapay zeka eğitimindeki güvenlik vakalarına ilişkin ilk yönergelerimiz, teknik önlemleri, operasyonel uygulamaları ve yanlış hizalama olaylarının araştırılmasını kapsar",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHh0SmRkT2I3LVNSOFJxQU40QnV0QUtkR3VhNlRzZ0tIZ0VfYXJrMDZSUHZUcG5fMTIzQnlWaC1JZ3V6UWtrUjlJeGRtV09MNXozMXRmaVltdVRSZzFhZjZvNGc3QXJJWlpxanE3MVdWdG8tcFM3RERJOFV6RE5Zc1JYYVJpeXJKNGJ0V0JneW9VSjZJTXYwQzZZRjlLbWlDV0NaOVB3?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-28T19:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-09-30T17:48:46Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Sınır yapay zeka eğitimi için güvenlik vakalarına doğru Sınır yapay zeka eğitimindeki güvenlik vakalarına ilişkin ilk yönergelerimiz, teknik önlemleri, operasyonel uygulamaları ve yanlış hizalama olaylarının araştırılmasını kapsar Towards safety cases for frontier AI training Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents AI OpenAI Model",
-      "title_original": "Towards safety cases for frontier AI training",
-      "summary_original": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "published_display": "2026-09-28",
-      "id": "501b9e9439e4"
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-09-30",
+      "id": "cb6332301237"
     },
     {
       "category": "robotik",
@@ -294,7 +314,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us",
+      "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk Bileşik Büyüme Oranı - Market.us",
       "summary": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SSFNhSnc1SUxsZm9VU1g5MmlDcFpnQ0o1dFQ2ZGp2NVBwVW96dUFnSzVVNVJ1d1RDa1lfNUh1Y2dBaEJ5S3dLSnBHRDZBNnYyQmRLRDdZQko4UzVFb1piRkwybkZEQQ?oc=5",
       "image_url": null,
@@ -305,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us Food Automation Market Size, Share | CAGR of 9.9% - Market.us Food Automation Market Size, Share | CAGR of 9.9% Market.us Robotics Automation Industry",
+      "keywords": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk Bileşik Büyüme Oranı - Market.us Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us Food Automation Market Size, Share | CAGR of 9.9% - Market.us Food Automation Market Size, Share | CAGR of 9.9% Market.us Robotics Automation Industry",
       "title_original": "Food Automation Market Size, Share | CAGR of 9.9% - Market.us",
       "summary_original": "Food Automation Market Size, Share | CAGR of 9.9% Market.us",
       "published_display": "2026-09-28",
-      "id": "fcdb145a2791"
+      "id": "50f47dad9e5a"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Massachusetts, Robotik ve Yapay Zekanın Bir Sonraki Ekonomiyi Yönlendireceğine İddia Ediyor - automate.org",
-      "summary": "Sektör İçgörüleri: Massachusetts, Robot Teknolojisinin ve Yapay Zekanın Bir Sonraki Ekonomiyi Yönlendireceğine İddia Ediyor automate.org",
+      "title": "Sektör İçgörüleri: Massachusetts, Robotik ve Yapay Zekanın Bir Sonraki Ekonomiyi Yönlendireceğine İddia Ediyor - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Massachusetts, Robotik ve Yapay Zekanın Bir Sonraki Ekonomiyi Yönlendireceğine İddia Ediyor A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR216UmtSdjFxbmhVUGpnLW94aklMbTY5RzRVMktVb0hXaWhuVENhN3RsakQycnpTRFBKQkM0Qjl2Vmd5eTBzMzktVWxKdXlEMWFZVlI3RzhiNUNKTU53Q01sMDBfclJONURoRHc0bWpEd3VZdkVrVVpCT0U0QTRRaEwyT19tVVNxVXpZX3NDOG9YdzJTNGJGZnBfcVNnU05xaVMyX0xhSkJ2R0dQaE9fNTFwMlhDczkzN2J6S25mT2dZRGczZjk4Rw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Massachusetts, Robotik ve Yapay Zekanın Bir Sonraki Ekonomiyi Yönlendireceğine İddia Ediyor - automate.org Sektör İçgörüleri: Massachusetts, Robot Teknolojisinin ve Yapay Zekanın Bir Sonraki Ekonomiyi Yönlendireceğine İddia Ediyor automate.org Industry Insights: Massachusetts Is Betting That Robotics and AI Will Drive Its Next Economy - automate.org Industry Insights: Massachusetts Is Betting That Robotics and AI Will Drive Its Next Economy automate.org Robotics Automation Industry",
-      "title_original": "Industry Insights: Massachusetts Is Betting That Robotics and AI Will Drive Its Next Economy - automate.org",
-      "summary_original": "Industry Insights: Massachusetts Is Betting That Robotics and AI Will Drive Its Next Economy automate.org",
+      "keywords": "Sektör İçgörüleri: Massachusetts, Robotik ve Yapay Zekanın Bir Sonraki Ekonomiyi Yönlendireceğine İddia Ediyor - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Massachusetts, Robotik ve Yapay Zekanın Bir Sonraki Ekonomiyi Yönlendireceğine İddia Ediyor A3 Otomasyonu Geliştirme Derneği Industry Insights: Massachusetts Is Betting That Robotics and AI Will Drive Its Next Economy - A3 Association for Advancing Automation Industry Insights: Massachusetts Is Betting That Robotics and AI Will Drive Its Next Economy A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: Massachusetts Is Betting That Robotics and AI Will Drive Its Next Economy - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: Massachusetts Is Betting That Robotics and AI Will Drive Its Next Economy A3 Association for Advancing Automation",
       "published_display": "2026-09-26",
-      "id": "7da797b4fb37"
+      "id": "6427516c12cc"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "6 Best Robotics Stocks to Buy in 2026 | Investing US News Money",
       "published_display": "2026-09-25",
       "id": "032b70af7990"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS09qS3MxYXFBSnNseUlReVdhWFcyMWYzTDI4NnZkOFNDdTBLWUh6emViSUhFQkVhMWhKeGswdEN0LTJWVGh3ajNyWEw0VHI1RUI0ZW9NM2VUclN1WTNLYWVMbHJkLU5ic18tVVU0SjFJRXVLYWpMcWkxY1VkdHJjbF9kOFc2UHVEekJReTk3aDhSYlJuWS1UTUsySzlzY0hnenp2RHZXTk0yOTVIeG9ZemRKYkdwcVlkbG1pbV9NVQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-23T19:50:37Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org",
-      "published_display": "2026-09-23",
-      "id": "011a7142b9c0"
     },
     {
       "category": "web",
@@ -494,7 +494,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -505,11 +505,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "877952b0f857"
+      "id": "91b949a3e484"
     },
     {
       "category": "siber",
@@ -594,7 +594,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "İnternetin tamamı için bir sertifika yetkilisi oluşturma",
+      "title": "Tüm İnternet için bir sertifika yetkilisi oluşturma",
       "summary": "Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz...",
       "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3NDS17PAN9XKW88493GE864.01M3NDS24T3Y1A90FZDRFXYHZD.png",
@@ -605,17 +605,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "İnternetin tamamı için bir sertifika yetkilisi oluşturma Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz... Building a certificate authority for the whole Internet Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open... Cloudflare Security Web",
+      "keywords": "Tüm İnternet için bir sertifika yetkilisi oluşturma Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz... Building a certificate authority for the whole Internet Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open... Cloudflare Security Web",
       "title_original": "Building a certificate authority for the whole Internet",
       "summary_original": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open...",
       "published_display": "2026-09-29",
-      "id": "9f750a8fcb00"
+      "id": "de4317d31881"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - okwnews.com",
-      "summary": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) okwnews.com",
+      "title": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News",
+      "summary": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDQySzBoamV1cUNQY29PN1FRdjZ1aXN4aW5JV25uWjVBTklDY0xraE4tc1g4Tzljb2E5SktxR0ZVNlpxdmhFMWtFTnRndlF2QlNtTUk2VDgwSFNDa0hEZ213S2U5ekptNUJJSWp4d1RrdFM3djdIZ2pmNXlEdHRFdjNCeC1manoxZWhfenlERmM4d0U0NllJMA?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,17 +625,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - okwnews.com ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) okwnews.com Top 10 Commercial Security Camera Systems in the USA (2026) - okwnews.com Top 10 Commercial Security Camera Systems in the USA (2026) okwnews.com IP Camera Video Surveillance",
-      "title_original": "Top 10 Commercial Security Camera Systems in the USA (2026) - okwnews.com",
-      "summary_original": "Top 10 Commercial Security Camera Systems in the USA (2026) okwnews.com",
+      "keywords": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News IP Camera Video Surveillance",
+      "title_original": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News",
+      "summary_original": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
       "published_display": "2026-09-25",
-      "id": "3f35bd73b013"
+      "id": "be8d0c51373d"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - pasqualepillitteri.it",
-      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir pasqualepillitteri.it",
+      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
+      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,11 +645,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - pasqualepillitteri.it Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir pasqualepillitteri.it Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - pasqualepillitteri.it Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe pasqualepillitteri.it IP Camera Video Surveillance",
-      "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - pasqualepillitteri.it",
-      "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe pasqualepillitteri.it",
+      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
+      "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
       "published_display": "2026-09-16",
-      "id": "0bebad3cebd3"
+      "id": "8218ddf01fee"
     },
     {
       "category": "kamera",
