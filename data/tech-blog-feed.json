@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-01T13:04:19Z",
+  "updated_at": "2026-10-01T17:00:00Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 2
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Universe 2026'da beni heyecanlandıran 10 teknik konuşma",
+      "summary": "Yapay zeka tarafından yazılan kodun doğrulanmasından npm bağımlılıklarının güvence altına alınmasına kadar, bunlar Evren gündemimi etrafında oluşturduğum oturumlar. GitHub Universe 2026'da beni heyecanlandıran 10 teknik konuşma yazısı ilk olarak The GitHub Blog'da yayınlandı.",
+      "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-01T15:07:16Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Universe 2026'da beni heyecanlandıran 10 teknik konuşma Yapay zeka tarafından yazılan kodun doğrulanmasından npm bağımlılıklarının güvence altına alınmasına kadar, bunlar Evren gündemimi etrafında oluşturduğum oturumlar. GitHub Universe 2026'da beni heyecanlandıran 10 teknik konuşma yazısı ilk olarak The GitHub Blog'da yayınlandı. 10 technical talks I’m excited about at GitHub Universe 2026 From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "summary_original": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog .",
+      "published_display": "2026-10-01",
+      "id": "38c5e6820378"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,44 @@
       "id": "548d08cd3ac1"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Git 2.56'dan öne çıkanlar",
-      "summary": "Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Sonsuz tamamlayıcı",
+      "summary": "Gelişmiş yapay zeka, çığır açan fikirlerin ardındaki rutin çalışmalar için en önemli şey olabilir. Uygulamanın neden bir sonraki ekonomiyi ve ilerleme hızını şekillendirebileceğini keşfedin.",
+      "url": "https://openai.com/index/the-eternal-complement",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-28T17:23:33Z",
+      "source": "OpenAI News",
+      "published_at": "2026-10-01T17:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Git 2.56'dan öne çıkanlar Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.56 The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Highlights from Git 2.56",
-      "summary_original": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
-      "published_display": "2026-09-28",
-      "id": "f89e499a5dc2"
+      "keywords": "Sonsuz tamamlayıcı Gelişmiş yapay zeka, çığır açan fikirlerin ardındaki rutin çalışmalar için en önemli şey olabilir. Uygulamanın neden bir sonraki ekonomiyi ve ilerleme hızını şekillendirebileceğini keşfedin. The eternal complement Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress. AI OpenAI Model",
+      "title_original": "The eternal complement",
+      "summary_original": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "published_display": "2026-10-01",
+      "id": "27e74087abb7"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Albertsons Companies perakendeyi baştan sona nasıl yeniden tasarlıyor?",
+      "summary": "Albertsons Cos., ekiplerin daha hızlı çalışmasına yardımcı olmak ve milyonlarca müşteri için market alışverişini kolaylaştırmak için ChatGPT Enterprise ve OpenAI API'yi kullanıyor.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-01T16:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Albertsons Companies perakendeyi baştan sona nasıl yeniden tasarlıyor? Albertsons Cos., ekiplerin daha hızlı çalışmasına yardımcı olmak ve milyonlarca müşteri için market alışverişini kolaylaştırmak için ChatGPT Enterprise ve OpenAI API'yi kullanıyor. How Albertsons Companies is reimagining retail from the inside out Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers. AI OpenAI Model",
+      "title_original": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary_original": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "published_display": "2026-10-01",
+      "id": "90f48d98621e"
     },
     {
       "category": "ai",
@@ -212,46 +252,6 @@
       "id": "bc586114df20"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-6.1 Sol'la tanışın",
-      "summary": "GPT-6.1 Sol ile tanışın: Astra'nın standart API giriş ve çıkış token fiyatlarının beşte biri karşılığında kodlama, bilgisayar kullanımı ve profesyonel çalışma için Astra'ya yakın zeka.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-29T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "GPT-6.1 Sol'la tanışın GPT-6.1 Sol ile tanışın: Astra'nın standart API giriş ve çıkış token fiyatlarının beşte biri karşılığında kodlama, bilgisayar kullanımı ve profesyonel çalışma için Astra'ya yakın zeka. Introducing GPT-6.1 Sol Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices. AI OpenAI Model",
-      "title_original": "Introducing GPT-6.1 Sol",
-      "summary_original": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "published_display": "2026-09-29",
-      "id": "b181ea4e0d13"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Noktalarla tanışın",
-      "summary": "OpenAI'nin Dots'u, karmaşık projelerde ve günlük görevlerde çalışmaya devam edebilen proaktif yardımcılardır. İşiniz ilerlerken noktaların kontrolü elinizde tutmanıza nasıl yardımcı olduğunu öğrenin.",
-      "url": "https://openai.com/index/introducing-dots",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-29T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Noktalarla tanışın OpenAI'nin Dots'u, karmaşık projelerde ve günlük görevlerde çalışmaya devam edebilen proaktif yardımcılardır. İşiniz ilerlerken noktaların kontrolü elinizde tutmanıza nasıl yardımcı olduğunu öğrenin. Introducing dots Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. AI OpenAI Model",
-      "title_original": "Introducing dots",
-      "summary_original": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "published_display": "2026-09-29",
-      "id": "07844f9c7790"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
@@ -294,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik Sistem Entegrasyonu Pazar Büyüklüğü, Payı ve Büyümesi 2026-2035 - SNS Insider",
-      "summary": "Robotik Sistem Entegrasyonu Pazar Büyüklüğü, Payı ve Büyümesi 2026-2035 SNS Insider",
+      "title": "Robotik Sistem Entegrasyonu Pazar Trendleri Raporu, 2026-2035 - SNS Insider",
+      "summary": "Robotik Sistem Entegrasyonu Pazar Trendleri Raporu, 2026-2035 SNS Insider",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0UyaUN0azZuX0R5bHNhMGREenI4NGZyV0ZHR19BUjdoMzhZZlg4cC1vOFBqY0FkZ1dyQVlqQjhxNlBJM2ItVjhZM2taUjVOVUtEc05JWXJiZkkxd1QydmR6ZnVLY2FvSzlRZktkRGVJalFCNmNES3g3ZFltY2pMbg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Sistem Entegrasyonu Pazar Büyüklüğü, Payı ve Büyümesi 2026-2035 - SNS Insider Robotik Sistem Entegrasyonu Pazar Büyüklüğü, Payı ve Büyümesi 2026-2035 SNS Insider Robotics System Integration Market Size, Share & Growth 2026-2035 - SNS Insider Robotics System Integration Market Size, Share & Growth 2026-2035 SNS Insider Robotics Automation Industry",
-      "title_original": "Robotics System Integration Market Size, Share & Growth 2026-2035 - SNS Insider",
-      "summary_original": "Robotics System Integration Market Size, Share & Growth 2026-2035 SNS Insider",
+      "keywords": "Robotik Sistem Entegrasyonu Pazar Trendleri Raporu, 2026-2035 - SNS Insider Robotik Sistem Entegrasyonu Pazar Trendleri Raporu, 2026-2035 SNS Insider Robotics System Integration Market Trends Report, 2026-2035 - SNS Insider Robotics System Integration Market Trends Report, 2026-2035 SNS Insider Robotics Automation Industry",
+      "title_original": "Robotics System Integration Market Trends Report, 2026-2035 - SNS Insider",
+      "summary_original": "Robotics System Integration Market Trends Report, 2026-2035 SNS Insider",
       "published_display": "2026-09-29",
-      "id": "369cb85f68aa"
+      "id": "5c6209fc2ddc"
     },
     {
       "category": "robotik",
@@ -334,6 +334,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Almanya Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
+      "summary": "Almanya Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTTA0eUlsSkphN0MtRFpZNURSS1Z0bVluenlPUFVmNmtXTnZ6X3NpS09DOEIwcExRMHZDUzlNVXJYN2hmeUN2M0dyUHY4X2tiam16d2JNZld0dVRXOEUySVNxTzRTdVRnSjEwVnZzN3Z1Y2IteVdfVGRtaC1rd0stdTFtNUJicmhkenZxSy1QTUQtb25sQlVDUw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-29T09:51:11Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Almanya Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Almanya Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
+      "title_original": "Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "summary_original": "Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
+      "published_display": "2026-09-29",
+      "id": "74a124076c07"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us",
       "summary": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SSFNhSnc1SUxsZm9VU1g5MmlDcFpnQ0o1dFQ2ZGp2NVBwVW96dUFnSzVVNVJ1d1RDa1lfNUh1Y2dBaEJ5S3dLSnBHRDZBNnYyQmRLRDdZQko4UzVFb1piRkwybkZEQQ?oc=5",
@@ -350,26 +370,6 @@
       "summary_original": "Food Automation Market Size, Share | CAGR of 9.9% Market.us",
       "published_display": "2026-09-28",
       "id": "fcdb145a2791"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "2026 Yılında Satın Alınabilecek En İyi 6 Robotik Hisse Senedi | Yatırım - ABD Haber Parası",
-      "summary": "2026 Yılında Satın Alınabilecek En İyi 6 Robotik Hisse Senedi | ABD Haber Parasına Yatırım Yapmak",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUlLMmtvOFZqci1PMmVKaUZCWWlYVEt5OHhoN1dWNHh2Tmw4UDRGalhSaVBmQlYybTZTaGFkSjNqS1BsRTVWUEJieWpnR29nVHdhcloyWEdxcTJ6RmphSUt0ZzZnb3JTUFNkUll3X2JPdTBGZWNPTTB5N0RxUlVvTEFSRVFONTN2ZkpZ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-25T19:04:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "2026 Yılında Satın Alınabilecek En İyi 6 Robotik Hisse Senedi | Yatırım - ABD Haber Parası 2026 Yılında Satın Alınabilecek En İyi 6 Robotik Hisse Senedi | ABD Haber Parasına Yatırım Yapmak 6 Best Robotics Stocks to Buy in 2026 | Investing - U.S. News Money 6 Best Robotics Stocks to Buy in 2026 | Investing U.S. News Money Robotics Automation Industry",
-      "title_original": "6 Best Robotics Stocks to Buy in 2026 | Investing - U.S. News Money",
-      "summary_original": "6 Best Robotics Stocks to Buy in 2026 | Investing U.S. News Money",
-      "published_display": "2026-09-25",
-      "id": "032b70af7990"
     },
     {
       "category": "web",
