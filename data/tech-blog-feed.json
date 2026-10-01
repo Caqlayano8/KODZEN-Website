@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-30T10:30:00Z",
-  "total_posts": 24,
+  "updated_at": "2026-10-01T13:04:19Z",
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 0,
+    "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 0
+    "kamera": 2
   },
   "posts": [
     {
@@ -74,7 +74,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Açık kaynaklı yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk?",
+      "title": "Açık kaynak yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk?",
       "summary": "Bu bulguların ardındaki hedeflenen yapay zeka görev akışlarına, ortaya çıkardıkları kritik Android hatalarına ve aynı açık kaynak aracıyı kendi uygulamanızda nasıl çalıştıracağınıza bir bakış. Açık kaynak yapay zeka güvenlik sistemimizi kullanarak Android'de 24 güvenlik açığını nasıl bulduk yazısı...",
       "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
       "image_url": null,
@@ -85,11 +85,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Açık kaynaklı yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk? Bu bulguların ardındaki hedeflenen yapay zeka görev akışlarına, ortaya çıkardıkları kritik Android hatalarına ve aynı açık kaynak aracıyı kendi uygulamanızda nasıl çalıştıracağınıza bir bakış. Açık kaynak yapay zeka güvenlik sistemimizi kullanarak Android'de 24 güvenlik açığını nasıl bulduk yazısı... How we found 24 Android vulnerabilities using our open source AI security agent A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec... GitHub Dev Platform",
+      "keywords": "Açık kaynak yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk? Bu bulguların ardındaki hedeflenen yapay zeka görev akışlarına, ortaya çıkardıkları kritik Android hatalarına ve aynı açık kaynak aracıyı kendi uygulamanızda nasıl çalıştıracağınıza bir bakış. Açık kaynak yapay zeka güvenlik sistemimizi kullanarak Android'de 24 güvenlik açığını nasıl bulduk yazısı... How we found 24 Android vulnerabilities using our open source AI security agent A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec... GitHub Dev Platform",
       "title_original": "How we found 24 Android vulnerabilities using our open source AI security agent",
       "summary_original": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec...",
       "published_display": "2026-09-28",
-      "id": "594dc5c57bbb"
+      "id": "c8cecb5740c3"
     },
     {
       "category": "yazilim",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git 2.56'dan öne çıkanlar",
-      "summary": "Açık kaynaklı Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,7 +125,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git 2.56'dan öne çıkanlar Açık kaynaklı Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.56 The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Git 2.56'dan öne çıkanlar Açık kaynak Git projesi Git 2.56'yı piyasaya sürdü. İşte GitHub'ın geçen seferden bu yana tanıtılan en ilginç özelliklerden ve değişikliklerden bazılarına bakışı. Git 2.56'dan Öne Çıkanlar yazısı ilk olarak GitHub Blogunda göründü. Highlights from Git 2.56 The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Highlights from Git 2.56",
       "summary_original": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog .",
       "published_display": "2026-09-28",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Noktalarla tanışın",
-      "summary": "OpenAI Dots, karmaşık projelerde ve günlük görevlerde çalışmaya devam edebilen proaktif yardımcılardır. İşiniz ilerlerken noktaların kontrolü elinizde tutmanıza nasıl yardımcı olduğunu öğrenin.",
+      "summary": "OpenAI'nin Dots'u, karmaşık projelerde ve günlük görevlerde çalışmaya devam edebilen proaktif yardımcılardır. İşiniz ilerlerken noktaların kontrolü elinizde tutmanıza nasıl yardımcı olduğunu öğrenin.",
       "url": "https://openai.com/index/introducing-dots",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,11 +245,131 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Noktalarla tanışın OpenAI Dots, karmaşık projelerde ve günlük görevlerde çalışmaya devam edebilen proaktif yardımcılardır. İşiniz ilerlerken noktaların kontrolü elinizde tutmanıza nasıl yardımcı olduğunu öğrenin. Introducing dots Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. AI OpenAI Model",
+      "keywords": "Noktalarla tanışın OpenAI'nin Dots'u, karmaşık projelerde ve günlük görevlerde çalışmaya devam edebilen proaktif yardımcılardır. İşiniz ilerlerken noktaların kontrolü elinizde tutmanıza nasıl yardımcı olduğunu öğrenin. Introducing dots Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. AI OpenAI Model",
       "title_original": "Introducing dots",
       "summary_original": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "published_display": "2026-09-29",
       "id": "07844f9c7790"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3hYOUsyVkFjMnhIZ0VJb2JVbVNhaUJqN2dHdEEzU0lUS0JWVmdjNzRSeWhrMEhvekR0NmdVUXY2dldpdC16emlwRVVncFFKMUU0M2hNbkkwdFNDdUp0Q0kzMEIyei1SQjUzcWt0bF9HUVFRelRwSldPNC0zMjVyRUUyOFpzdV9HSUk5Sm43X2RiVEZzMHN2NTdjV3VlQ191akQ0aHMtak54ck0?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-30T17:53:58Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-09-30",
+      "id": "0ce39965522d"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "IFR: Gıda ve Lojistik ABD Robot Otomasyonunu Japonya'yı Geriye Taştı - Manufacturing Digital",
+      "summary": "IFR: Gıda ve Lojistik, ABD Robot Otomasyonunu Japonya Üretim Dijitalini Geriye Taştı",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlWYTBBXzVJOW5BMHo2LUREOXpOYWRjUnI3TXVDRTd3WnZsT3BLY2QzM3pJWWtvQ0thbHo1cDdYNEpwMXRyWHlPYlQySzVVVXp3SnVQaFlrRnpoeTlUWGdqVDRBNl90ZGJiU3JDb0hONUFtR3hWcUk1eng2UE5tZzV0TklSeFlCYVBCWGM1STJ0dHRYemdQdWdn?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-30T11:01:50Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "IFR: Gıda ve Lojistik ABD Robot Otomasyonunu Japonya'yı Geriye Taştı - Manufacturing Digital IFR: Gıda ve Lojistik, ABD Robot Otomasyonunu Japonya Üretim Dijitalini Geriye Taştı IFR: Food & Logistics Pushed US Robot Automation Past Japan - Manufacturing Digital IFR: Food & Logistics Pushed US Robot Automation Past Japan Manufacturing Digital Robotics Automation Industry",
+      "title_original": "IFR: Food & Logistics Pushed US Robot Automation Past Japan - Manufacturing Digital",
+      "summary_original": "IFR: Food & Logistics Pushed US Robot Automation Past Japan Manufacturing Digital",
+      "published_display": "2026-09-30",
+      "id": "e90064564c80"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotik Sistem Entegrasyonu Pazar Büyüklüğü, Payı ve Büyümesi 2026-2035 - SNS Insider",
+      "summary": "Robotik Sistem Entegrasyonu Pazar Büyüklüğü, Payı ve Büyümesi 2026-2035 SNS Insider",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0UyaUN0azZuX0R5bHNhMGREenI4NGZyV0ZHR19BUjdoMzhZZlg4cC1vOFBqY0FkZ1dyQVlqQjhxNlBJM2ItVjhZM2taUjVOVUtEc05JWXJiZkkxd1QydmR6ZnVLY2FvSzlRZktkRGVJalFCNmNES3g3ZFltY2pMbg?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-29T18:30:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotik Sistem Entegrasyonu Pazar Büyüklüğü, Payı ve Büyümesi 2026-2035 - SNS Insider Robotik Sistem Entegrasyonu Pazar Büyüklüğü, Payı ve Büyümesi 2026-2035 SNS Insider Robotics System Integration Market Size, Share & Growth 2026-2035 - SNS Insider Robotics System Integration Market Size, Share & Growth 2026-2035 SNS Insider Robotics Automation Industry",
+      "title_original": "Robotics System Integration Market Size, Share & Growth 2026-2035 - SNS Insider",
+      "summary_original": "Robotics System Integration Market Size, Share & Growth 2026-2035 SNS Insider",
+      "published_display": "2026-09-29",
+      "id": "369cb85f68aa"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotik ve Otomasyon Pazar Raporu Önemli Segmentleri, Bölgesel Gelişmeleri ve Önde Gelen Rakipleri Detaylandırıyor - EIN Haberleri",
+      "summary": "Robotik ve Otomasyon Pazar Raporunun Detayları Önemli Segmentler, Bölgesel Gelişmeler ve Önde Gelen Rakipler EIN Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWHFxeXhyVVMzcFlVc1dtWFBUTF9qZjAyTVU5VUF0V0dLd0dxUkVfRjlDZ09fNEFkbkZxR3Q2dURUX2dTOHpMR3llRGpOaDVpZ0ZYa091bTdVemQ4ZS1yZW9Rckd3Q0M5c0VzXzVjTXk1bnlMS2JGSU5aakUzUUFqT3pqZEFhcXEzai1lVlZZa0E1Tnl4d2tuN1Q5cW5OeXo2MjZLaDI4MGF1Z2FMTWQyQWpFTGwzSXJoR0cyMWZBckgzeUlGZG9ka0FWUjhaNjBJUkZqb0lHaVBXUkc4ZFpR?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-29T14:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Robotik ve Otomasyon Pazar Raporu Önemli Segmentleri, Bölgesel Gelişmeleri ve Önde Gelen Rakipleri Detaylandırıyor - EIN Haberleri Robotik ve Otomasyon Pazar Raporunun Detayları Önemli Segmentler, Bölgesel Gelişmeler ve Önde Gelen Rakipler EIN Haberleri Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors - EIN News Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors EIN News Robotics Automation Industry",
+      "title_original": "Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors - EIN News",
+      "summary_original": "Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors EIN News",
+      "published_display": "2026-09-29",
+      "id": "46db887db44a"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us",
+      "summary": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SSFNhSnc1SUxsZm9VU1g5MmlDcFpnQ0o1dFQ2ZGp2NVBwVW96dUFnSzVVNVJ1d1RDa1lfNUh1Y2dBaEJ5S3dLSnBHRDZBNnYyQmRLRDdZQko4UzVFb1piRkwybkZEQQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-28T12:23:58Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us Food Automation Market Size, Share | CAGR of 9.9% - Market.us Food Automation Market Size, Share | CAGR of 9.9% Market.us Robotics Automation Industry",
+      "title_original": "Food Automation Market Size, Share | CAGR of 9.9% - Market.us",
+      "summary_original": "Food Automation Market Size, Share | CAGR of 9.9% Market.us",
+      "published_display": "2026-09-28",
+      "id": "fcdb145a2791"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "2026 Yılında Satın Alınabilecek En İyi 6 Robotik Hisse Senedi | Yatırım - ABD Haber Parası",
+      "summary": "2026 Yılında Satın Alınabilecek En İyi 6 Robotik Hisse Senedi | ABD Haber Parasına Yatırım Yapmak",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUlLMmtvOFZqci1PMmVKaUZCWWlYVEt5OHhoN1dWNHh2Tmw4UDRGalhSaVBmQlYybTZTaGFkSjNqS1BsRTVWUEJieWpnR29nVHdhcloyWEdxcTJ6RmphSUt0ZzZnb3JTUFNkUll3X2JPdTBGZWNPTTB5N0RxUlVvTEFSRVFONTN2ZkpZ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-09-25T19:04:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "2026 Yılında Satın Alınabilecek En İyi 6 Robotik Hisse Senedi | Yatırım - ABD Haber Parası 2026 Yılında Satın Alınabilecek En İyi 6 Robotik Hisse Senedi | ABD Haber Parasına Yatırım Yapmak 6 Best Robotics Stocks to Buy in 2026 | Investing - U.S. News Money 6 Best Robotics Stocks to Buy in 2026 | Investing U.S. News Money Robotics Automation Industry",
+      "title_original": "6 Best Robotics Stocks to Buy in 2026 | Investing - U.S. News Money",
+      "summary_original": "6 Best Robotics Stocks to Buy in 2026 | Investing U.S. News Money",
+      "published_display": "2026-09-25",
+      "id": "032b70af7990"
     },
     {
       "category": "web",
@@ -374,7 +494,27 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi",
+      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü.",
+      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-10-01T13:04:19Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
+      "title_original": "One year later: Sovereign AI and the fight for choice",
+      "summary_original": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
+      "published_display": "2026-10-01",
+      "id": "94f24415f98b"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -385,11 +525,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "91b949a3e484"
+      "id": "877952b0f857"
     },
     {
       "category": "siber",
@@ -472,24 +612,44 @@
       "id": "2a84a1a5e801"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Tüm İnternet için bir sertifika yetkilisi oluşturma",
-      "summary": "Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz...",
-      "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3NDS17PAN9XKW88493GE864.01M3NDS24T3Y1A90FZDRFXYHZD.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-09-29T13:00:00Z",
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News",
+      "summary": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDQySzBoamV1cUNQY29PN1FRdjZ1aXN4aW5JV25uWjVBTklDY0xraE4tc1g4Tzljb2E5SktxR0ZVNlpxdmhFMWtFTnRndlF2QlNtTUk2VDgwSFNDa0hEZ213S2U5ekptNUJJSWp4d1RrdFM3djdIZ2pmNXlEdHRFdjNCeC1manoxZWhfenlERmM4d0U0NllJMA?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-25T01:30:00Z",
       "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
+        "IP Camera",
+        "Video",
+        "Surveillance"
       ],
-      "keywords": "Tüm İnternet için bir sertifika yetkilisi oluşturma Universal SSL'yi piyasaya sürdükten on iki yıl sonra Cloudflare, sertifika yetkilisi olmak için başvuruyor. Yerleşik bir kök, ACME öncelikli bir yaklaşım ve Merkle Ağacı Sertifikalarını birleştirerek açık bir kuantum sonrası CA oluşturuyoruz... Building a certificate authority for the whole Internet Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open... Cloudflare Security Web",
-      "title_original": "Building a certificate authority for the whole Internet",
-      "summary_original": "Twelve years after launching Universal SSL, Cloudflare is applying to become a certificate authority. By combining an established root, an ACME-first approach, and Merkle Tree Certificates, we are building a post-quantum CA for the open...",
-      "published_display": "2026-09-29",
-      "id": "de4317d31881"
+      "keywords": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News IP Camera Video Surveillance",
+      "title_original": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News",
+      "summary_original": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
+      "published_display": "2026-09-25",
+      "id": "be8d0c51373d"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
+      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-16T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
+      "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
+      "published_display": "2026-09-16",
+      "id": "8218ddf01fee"
     }
   ]
 }
