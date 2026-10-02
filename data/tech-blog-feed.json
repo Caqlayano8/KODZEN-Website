@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-01T17:30:55Z",
+  "updated_at": "2026-10-02T15:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Yapay zeka, geliştirici kariyer basamaklarını yeniden yazıyor. İşte nasıl öne çıkacağınız.",
+      "summary": "Yapay zeka, geliştiricilerin yazılım geliştirme biçimini yeniden şekillendirirken fark edilmenin ve kariyerinizi geliştirmenin üç yolunu öğrenin. Post AI, geliştirici kariyer basamaklarını yeniden yazıyor. İşte nasıl öne çıkacağınız. İlk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-02T15:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Yapay zeka, geliştirici kariyer basamaklarını yeniden yazıyor. İşte nasıl öne çıkacağınız. Yapay zeka, geliştiricilerin yazılım geliştirme biçimini yeniden şekillendirirken fark edilmenin ve kariyerinizi geliştirmenin üç yolunu öğrenin. Post AI, geliştirici kariyer basamaklarını yeniden yazıyor. İşte nasıl öne çıkacağınız. İlk olarak GitHub Blogunda göründü. AI is rewriting the developer career ladder. Here’s how to stand out. Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "summary_original": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software. The post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog .",
+      "published_display": "2026-10-02",
+      "id": "7a7b2814ee15"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme",
-      "summary": "Bir mühendis veya ekip, günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey...",
+      "summary": "Bir mühendis veya ekip günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey...",
       "url": "https://devblogs.microsoft.com/blog/enabling-consistent-ai-assisted-engineering-with-github-copilot-plugins/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +85,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme Bir mühendis veya ekip, günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey... Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh... Microsoft Dev Cloud",
+      "keywords": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme Bir mühendis veya ekip günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey... Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh... Microsoft Dev Cloud",
       "title_original": "Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins",
       "summary_original": "When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh...",
       "published_display": "2026-09-29",
@@ -112,24 +132,44 @@
       "id": "c8cecb5740c3"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot uygulamasını kullanmaya başlayın: ücretsiz, uygulamalı bir kurs",
-      "summary": "Bu ücretsiz GitHub Copilot uygulama kursuyla AI kodlama aracılarını yönlendirmeyi, çalışmalarını gözden geçirmeyi ve güvenilir geliştirme iş akışları oluşturmayı öğrenin. GitHub Copilot uygulamasını kullanmaya başlayın: ücretsiz, uygulamalı bir kurs ilk olarak Microsoft'ta yayınlandı...",
-      "url": "https://devblogs.microsoft.com/blog/github-copilot-app-for-beginners/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-09-28T18:05:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Eylül 2026'da duyurduğumuz en son yapay zeka haberleri",
+      "summary": "İşte Google'ın Eylül 2026'ya ait en son yapay zeka güncellemeleri",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-02T15:00:00Z",
       "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
+        "AI",
+        "Product",
+        "Google"
       ],
-      "keywords": "GitHub Copilot uygulamasını kullanmaya başlayın: ücretsiz, uygulamalı bir kurs Bu ücretsiz GitHub Copilot uygulama kursuyla AI kodlama aracılarını yönlendirmeyi, çalışmalarını gözden geçirmeyi ve güvenilir geliştirme iş akışları oluşturmayı öğrenin. GitHub Copilot uygulamasını kullanmaya başlayın: ücretsiz, uygulamalı bir kurs ilk olarak Microsoft'ta yayınlandı... Get started with the GitHub Copilot app: a free, hands-on course Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft... Microsoft Dev Cloud",
-      "title_original": "Get started with the GitHub Copilot app: a free, hands-on course",
-      "summary_original": "Learn to direct AI coding agents, review their work, and build reliable development workflows with this free GitHub Copilot app course. The post Get started with the GitHub Copilot app: a free, hands-on course appeared first on Microsoft...",
-      "published_display": "2026-09-28",
-      "id": "548d08cd3ac1"
+      "keywords": "Eylül 2026'da duyurduğumuz en son yapay zeka haberleri İşte Google'ın Eylül 2026'ya ait en son yapay zeka güncellemeleri The latest AI news we announced in September 2026 Here are Google’s latest AI updates from September 2026 AI Product Google",
+      "title_original": "The latest AI news we announced in September 2026",
+      "summary_original": "Here are Google’s latest AI updates from September 2026",
+      "published_display": "2026-10-02",
+      "id": "1f4df8ec4b56"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Birleştirilmiş verilerden kanıtlanabilir özel öğrenmeye doğru",
+      "summary": "Mobil Sistemler",
+      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-10-02T14:57:41Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "Birleştirilmiş verilerden kanıtlanabilir özel öğrenmeye doğru Mobil Sistemler Toward provably private learning from federated data Mobile Systems AI Research Google",
+      "title_original": "Toward provably private learning from federated data",
+      "summary_original": "Mobile Systems",
+      "published_display": "2026-10-02",
+      "id": "dec8651b6119"
     },
     {
       "category": "ai",
@@ -175,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "The Den, ChatGPT Work ile büyümek için haftada 10-15 saat ayırıyor",
-      "summary": "Sosyal kulüp, yeni lokasyonu açıldığından hibe başvurularını 3 gün yerine 2 saatte, içki-ruhsat malzemelerini ise 4 gün yerine 3 saatte hazırlıyor.",
+      "summary": "Sosyal kulüp yeni lokasyonu açıldığından hibe başvurularını 3 gün yerine 2 saatte, içki-ruhsat malzemelerini ise 4 gün yerine 3 saatte hazırlıyor.",
       "url": "https://openai.com/index/the-den-family-social",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "The Den, ChatGPT Work ile büyümek için haftada 10-15 saat ayırıyor Sosyal kulüp, yeni lokasyonu açıldığından hibe başvurularını 3 gün yerine 2 saatte, içki-ruhsat malzemelerini ise 4 gün yerine 3 saatte hazırlıyor. The Den frees up 10-15 hours a week to grow with ChatGPT Work As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days. AI OpenAI Model",
+      "keywords": "The Den, ChatGPT Work ile büyümek için haftada 10-15 saat ayırıyor Sosyal kulüp yeni lokasyonu açıldığından hibe başvurularını 3 gün yerine 2 saatte, içki-ruhsat malzemelerini ise 4 gün yerine 3 saatte hazırlıyor. The Den frees up 10-15 hours a week to grow with ChatGPT Work As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days. AI OpenAI Model",
       "title_original": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
       "summary_original": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "published_display": "2026-10-01",
@@ -212,44 +252,24 @@
       "id": "70258a8681d5"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Küçük işletmelerin yapay zekayı hayata geçirmesine yardımcı oluyoruz",
-      "summary": "OpenAI, küçük ekiplerin yapay zekayı nasıl kullandığına ilişkin yeni bir raporun yanı sıra, küçük işletmelere yönelik uygulamalı yapay zeka eğitimini ve yerel desteği genişletmek için Amerika'nın SBDC'si ile ortaklık kuruyor.",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan Üretimde İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV29vdXpSVXBmV09PR0tmb1lTMUhfVlN6bmVKUXZCZjd6RkxHS3hqNWxCRm14QWJDY3RNMHU0dk53NW90Rk00ODNPMlIyWkdWQ3Zhd1Z1LUJHdUZlZ1JsYlJXTG9ydUd3ZkVHNzFWNHREVGxEQWFuWGp5M3VFZWl6NU1KVkhObG03bUxRSkEtSnZYYlJvX2Zjb1l1ajcwZ2VncGVLSXNERGQ0RnhNcFVsQVU3Smlrc2pkQ1BOYk40M25vb1ZRaEJEQXVROXBYWDNlMUxGcWtKZTRBZnl0YWMtMHlwTTVNQzg?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-09-30T10:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-10-01T18:15:56Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Küçük işletmelerin yapay zekayı hayata geçirmesine yardımcı oluyoruz OpenAI, küçük ekiplerin yapay zekayı nasıl kullandığına ilişkin yeni bir raporun yanı sıra, küçük işletmelere yönelik uygulamalı yapay zeka eğitimini ve yerel desteği genişletmek için Amerika'nın SBDC'si ile ortaklık kuruyor. Helping small businesses put AI to work OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI. AI OpenAI Model",
-      "title_original": "Helping small businesses put AI to work",
-      "summary_original": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "published_display": "2026-09-30",
-      "id": "d8fa7080a3cf"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Difüzyon Denetleyicisi yapay zeka görüntü oluşturmayı nasıl birleştirir ve basitleştirir?",
-      "summary": "Algoritmalar ve Teori",
-      "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
-      "source": "Google Research Blog",
-      "published_at": "2026-09-29T18:38:27Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Difüzyon Denetleyicisi yapay zeka görüntü oluşturmayı nasıl birleştirir ve basitleştirir? Algoritmalar ve Teori How Diffusion Controller unifies and simplifies AI image generation Algorithms & Theory AI Research Google",
-      "title_original": "How Diffusion Controller unifies and simplifies AI image generation",
-      "summary_original": "Algorithms & Theory",
-      "published_display": "2026-09-29",
-      "id": "7a06dff3edea"
+      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan Üretimde İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation",
+      "summary_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation",
+      "published_display": "2026-10-01",
+      "id": "c624cb0e0c0f"
     },
     {
       "category": "robotik",
@@ -274,7 +294,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3hYOUsyVkFjMnhIZ0VJb2JVbVNhaUJqN2dHdEEzU0lUS0JWVmdjNzRSeWhrMEhvekR0NmdVUXY2dldpdC16emlwRVVncFFKMUU0M2hNbkkwdFNDdUp0Q0kzMEIyei1SQjUzcWt0bF9HUVFRelRwSldPNC0zMjVyRUUyOFpzdV9HSUk5Sm43X2RiVEZzMHN2NTdjV3VlQ191akQ0aHMtak54ck0?oc=5",
       "image_url": null,
@@ -285,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-30",
-      "id": "27551f9a8913"
+      "id": "0ce39965522d"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors EIN News",
       "published_display": "2026-09-29",
       "id": "46db887db44a"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Almanya Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
-      "summary": "Almanya Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTTA0eUlsSkphN0MtRFpZNURSS1Z0bVluenlPUFVmNmtXTnZ6X3NpS09DOEIwcExRMHZDUzlNVXJYN2hmeUN2M0dyUHY4X2tiam16d2JNZld0dVRXOEUySVNxTzRTdVRnSjEwVnZzN3Z1Y2IteVdfVGRtaC1rd0stdTFtNUJicmhkenZxSy1QTUQtb25sQlVDUw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-29T09:51:11Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Almanya Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Almanya Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
-      "title_original": "Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-      "summary_original": "Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
-      "published_display": "2026-09-29",
-      "id": "74a124076c07"
     },
     {
       "category": "web",
@@ -494,6 +494,46 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli",
+      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için giderek daha fazla yapay zeka kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
+      "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-10-02T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için giderek daha fazla yapay zeka kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
+      "title_original": "Follow the thread: a new dashboard to investigate account abuse",
+      "summary_original": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+      "published_display": "2026-10-02",
+      "id": "41ca5aece694"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Korumalı Hızlı Tüneller: Bir sonraki geliştirme projeniz için basit, hesapsız kimlik doğrulama",
+      "summary": "Hızlı Tüneller artık e-posta kimlik doğrulamasını destekliyor. Bir cloudflared komutuna --allowed-mail ekleyin; yerel uygulamanıza yalnızca listelediğiniz adresler veya alanlar erişebilir. Her iki tarafta da Cloudflare hesabı gerekmez.",
+      "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WEQNPRWNJ6R5MEB2300BRQ.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-10-02T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Korumalı Hızlı Tüneller: Bir sonraki geliştirme projeniz için basit, hesapsız kimlik doğrulama Hızlı Tüneller artık e-posta kimlik doğrulamasını destekliyor. Bir cloudflared komutuna --allowed-mail ekleyin; yerel uygulamanıza yalnızca listelediğiniz adresler veya alanlar erişebilir. Her iki tarafta da Cloudflare hesabı gerekmez. Protected Quick Tunnels: simple accountless authentication for your next dev project Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side. Cloudflare Security Web",
+      "title_original": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+      "summary_original": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
+      "published_display": "2026-10-02",
+      "id": "2d30e8d6122a"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi",
       "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü.",
       "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
@@ -514,7 +554,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -525,11 +565,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "91b949a3e484"
+      "id": "877952b0f857"
     },
     {
       "category": "siber",
@@ -570,46 +610,6 @@
       "summary_original": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance...",
       "published_display": "2026-09-29",
       "id": "d895db9fa846"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Kuantum sonrası geçişimiz için bir rota çizmek amacıyla yapay zekayı kullanma",
-      "summary": "Kod tabanımız genelinde kriptografiyi keşfeden, bağımlılıkları ortaya çıkaran ve 2029 yılına kadar tam bir kuantum sonrası geçişe doğru ilerlememize yardımcı olan, yapay zeka destekli dahili bir araç olan CryptoLabe'i geliştiriyoruz. Şu ana kadar öğrendiklerimiz:",
-      "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3NF5CE1NWTNNCSR9EKXSF87.01M3NF5CZVBP4EQSN6G4FQQC3S.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-09-29T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Kuantum sonrası geçişimiz için bir rota çizmek amacıyla yapay zekayı kullanma Kod tabanımız genelinde kriptografiyi keşfeden, bağımlılıkları ortaya çıkaran ve 2029 yılına kadar tam bir kuantum sonrası geçişe doğru ilerlememize yardımcı olan, yapay zeka destekli dahili bir araç olan CryptoLabe'i geliştiriyoruz. Şu ana kadar öğrendiklerimiz: Using AI to chart a course for our post-quantum migration We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far. Cloudflare Security Web",
-      "title_original": "Using AI to chart a course for our post-quantum migration",
-      "summary_original": "We’re building CryptoLabe, an internal AI-powered tool that discovers cryptography across our codebase, surfaces dependencies, and helps us progress toward a full post-quantum migration by 2029. Here’s what we’ve learned so far.",
-      "published_display": "2026-09-29",
-      "id": "554eedfad880"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Alanınızda kuantum sonrası şifreleme kullanılıyor mu? Artık kendiniz görebilirsiniz",
-      "summary": "Cloudflare, TLS 1.3'teki kuantum sonrası (PQ) şifrelemeye yönelik görünürlüğü doğrudan HTTP Analytics, Log Explorer ve Logpush'a ekledi. Alan adınızın PQ şifrelemeyle korunduğundan nasıl emin olacağınızı öğrenin.",
-      "url": "https://blog.cloudflare.com/post-quantum-visibility/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3N38XJRGGRRGGBQ7NTTVN29.01M3N38Y5PW9W05SZSG2SAMQZ6.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-09-29T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Alanınızda kuantum sonrası şifreleme kullanılıyor mu? Artık kendiniz görebilirsiniz Cloudflare, TLS 1.3'teki kuantum sonrası (PQ) şifrelemeye yönelik görünürlüğü doğrudan HTTP Analytics, Log Explorer ve Logpush'a ekledi. Alan adınızın PQ şifrelemeyle korunduğundan nasıl emin olacağınızı öğrenin. Is your domain using post-quantum encryption? Now you can see for yourself Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption. Cloudflare Security Web",
-      "title_original": "Is your domain using post-quantum encryption? Now you can see for yourself",
-      "summary_original": "Cloudflare has added visibility into post-quantum (PQ) encryption in TLS 1.3 directly into HTTP Analytics, Log Explorer, and Logpush. Learn how to make sure your domain is protected with PQ encryption.",
-      "published_display": "2026-09-29",
-      "id": "2a84a1a5e801"
     },
     {
       "category": "kamera",
@@ -654,7 +654,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com",
       "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
       "image_url": null,
@@ -665,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede kameralar neden 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
       "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
       "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
       "published_display": "2026-08-21",
-      "id": "8fc2aac65cb9"
+      "id": "f8c52e210230"
     }
   ]
 }
