@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-01T17:00:00Z",
+  "updated_at": "2026-10-01T17:30:55Z",
   "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
@@ -34,7 +34,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Azure Canvases ile derleyin: aracılar için paylaşılan bir çalışma alanı",
+      "title": "Azure Canvases ile derleme: aracılar için paylaşılan bir çalışma alanı",
       "summary": "Azure Canvas'ların aracı destekli geliştirme için ortak çalışmaya dayalı bir çalışma alanında planları, kodları, önizlemeleri ve dağıtım geri bildirimlerini nasıl bir araya getirdiğini görün. Azure Canvases ile Oluşturma yazısı: aracılar için paylaşılan bir çalışma alanı ilk olarak Microso'da göründü...",
       "url": "https://devblogs.microsoft.com/blog/azure-canvases/",
       "image_url": null,
@@ -45,11 +45,11 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Azure Canvases ile derleyin: aracılar için paylaşılan bir çalışma alanı Azure Canvas'ların aracı destekli geliştirme için ortak çalışmaya dayalı bir çalışma alanında planları, kodları, önizlemeleri ve dağıtım geri bildirimlerini nasıl bir araya getirdiğini görün. Azure Canvases ile Oluşturma yazısı: aracılar için paylaşılan bir çalışma alanı ilk olarak Microso'da göründü... Build with Azure Canvases: a shared workspace for agents See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microso... Microsoft Dev Cloud",
+      "keywords": "Azure Canvases ile derleme: aracılar için paylaşılan bir çalışma alanı Azure Canvas'ların aracı destekli geliştirme için ortak çalışmaya dayalı bir çalışma alanında planları, kodları, önizlemeleri ve dağıtım geri bildirimlerini nasıl bir araya getirdiğini görün. Azure Canvases ile Oluşturma yazısı: aracılar için paylaşılan bir çalışma alanı ilk olarak Microso'da göründü... Build with Azure Canvases: a shared workspace for agents See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microso... Microsoft Dev Cloud",
       "title_original": "Build with Azure Canvases: a shared workspace for agents",
       "summary_original": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microso...",
       "published_display": "2026-09-29",
-      "id": "a8e6c4fa36ad"
+      "id": "b1099fd86426"
     },
     {
       "category": "yazilim",
@@ -94,7 +94,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Açık kaynaklı yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk?",
+      "title": "Açık kaynak yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk?",
       "summary": "Bu bulguların ardındaki hedeflenen yapay zeka görev akışlarına, ortaya çıkardıkları kritik Android hatalarına ve aynı açık kaynak aracıyı kendi uygulamanızda nasıl çalıştıracağınıza bir bakış. Açık kaynak yapay zeka güvenlik sistemimizi kullanarak Android'de 24 güvenlik açığını nasıl bulduk yazısı...",
       "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
       "image_url": null,
@@ -105,11 +105,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Açık kaynaklı yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk? Bu bulguların ardındaki hedeflenen yapay zeka görev akışlarına, ortaya çıkardıkları kritik Android hatalarına ve aynı açık kaynak aracıyı kendi uygulamanızda nasıl çalıştıracağınıza bir bakış. Açık kaynak yapay zeka güvenlik sistemimizi kullanarak Android'de 24 güvenlik açığını nasıl bulduk yazısı... How we found 24 Android vulnerabilities using our open source AI security agent A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec... GitHub Dev Platform",
+      "keywords": "Açık kaynak yapay zeka güvenlik aracımızı kullanarak Android'de 24 güvenlik açığını nasıl bulduk? Bu bulguların ardındaki hedeflenen yapay zeka görev akışlarına, ortaya çıkardıkları kritik Android hatalarına ve aynı açık kaynak aracıyı kendi uygulamanızda nasıl çalıştıracağınıza bir bakış. Açık kaynak yapay zeka güvenlik sistemimizi kullanarak Android'de 24 güvenlik açığını nasıl bulduk yazısı... How we found 24 Android vulnerabilities using our open source AI security agent A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec... GitHub Dev Platform",
       "title_original": "How we found 24 Android vulnerabilities using our open source AI security agent",
       "summary_original": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec...",
       "published_display": "2026-09-28",
-      "id": "594dc5c57bbb"
+      "id": "c8cecb5740c3"
     },
     {
       "category": "yazilim",
@@ -254,8 +254,28 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org",
+      "title": "ANYbotics, otonom robot filolarını ve endüstriyel denetimleri yönetmek için Shift platformunu başlattı - Robotik ve Otomasyon Haberleri",
+      "summary": "ANYbotics, otonom robot filolarını ve endüstriyel denetimleri yönetmek için Shift platformunu başlattı Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNjIwcVJsUkR2RUdHOGZyS1ZXVkp2Z1N0dklfblF0NkxfQzhpVVIyQXBNRnBjbVFhR19aU2NuMlM0eTk1bV8yNTN5cUowbl93eUNTQnM4dVBSVjVaay1rRjBwLWtqMjBNYXF6ZFpySlBUdVYwcjhKRDYzQmM0ZDY2ZHNpdDJ4anZaS3Z2RnloYzYxVTBocmNzWXVkUG5leUtDdU9HeVk4RDdaUHFJMHl5RzAxVlRqdTZjNF9PMXowbmo5SjdGYXdiVUdUckF3SXN3dFU0Ri0teU1VVWFqblJESmItejhRUQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-01T17:30:55Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "ANYbotics, otonom robot filolarını ve endüstriyel denetimleri yönetmek için Shift platformunu başlattı - Robotik ve Otomasyon Haberleri ANYbotics, otonom robot filolarını ve endüstriyel denetimleri yönetmek için Shift platformunu başlattı Robotik ve Otomasyon Haberleri ANYbotics launches Shift platform to manage autonomous robot fleets and industrial inspections - Robotics & Automation News ANYbotics launches Shift platform to manage autonomous robot fleets and industrial inspections Robotics & Automation News Robotics Automation Industry",
+      "title_original": "ANYbotics launches Shift platform to manage autonomous robot fleets and industrial inspections - Robotics & Automation News",
+      "summary_original": "ANYbotics launches Shift platform to manage autonomous robot fleets and industrial inspections Robotics & Automation News",
+      "published_display": "2026-10-01",
+      "id": "6e273adaf521"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3hYOUsyVkFjMnhIZ0VJb2JVbVNhaUJqN2dHdEEzU0lUS0JWVmdjNzRSeWhrMEhvekR0NmdVUXY2dldpdC16emlwRVVncFFKMUU0M2hNbkkwdFNDdUp0Q0kzMEIyei1SQjUzcWt0bF9HUVFRelRwSldPNC0zMjVyRUUyOFpzdV9HSUk5Sm43X2RiVEZzMHN2NTdjV3VlQ191akQ0aHMtak54ck0?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,17 +285,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı - automate.org Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka İçin Haftanın En Çok Finansmanı automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - automate.org",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI automate.org",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-30",
-      "id": "389b7c2df905"
+      "id": "0ce39965522d"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "IFR: Gıda ve Lojistik ABD Robot Otomasyonunu Japonya'yı Geriye Taştı - Manufacturingdigital.com",
-      "summary": "IFR: Gıda ve Lojistik, ABD Robot Otomasyonunu Japonya'nın Gerisinde Bıraktı Manufacturingdigital.com",
+      "title": "IFR: Gıda ve Lojistik ABD Robot Otomasyonunu Japonya'yı Geriye Taştı - Manufacturing Digital",
+      "summary": "IFR: Gıda ve Lojistik, ABD Robot Otomasyonunu Japonya Üretim Dijitalini Geriye Taştı",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlWYTBBXzVJOW5BMHo2LUREOXpOYWRjUnI3TXVDRTd3WnZsT3BLY2QzM3pJWWtvQ0thbHo1cDdYNEpwMXRyWHlPYlQySzVVVXp3SnVQaFlrRnpoeTlUWGdqVDRBNl90ZGJiU3JDb0hONUFtR3hWcUk1eng2UE5tZzV0TklSeFlCYVBCWGM1STJ0dHRYemdQdWdn?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "IFR: Gıda ve Lojistik ABD Robot Otomasyonunu Japonya'yı Geriye Taştı - Manufacturingdigital.com IFR: Gıda ve Lojistik, ABD Robot Otomasyonunu Japonya'nın Gerisinde Bıraktı Manufacturingdigital.com IFR: Food & Logistics Pushed US Robot Automation Past Japan - manufacturingdigital.com IFR: Food & Logistics Pushed US Robot Automation Past Japan manufacturingdigital.com Robotics Automation Industry",
-      "title_original": "IFR: Food & Logistics Pushed US Robot Automation Past Japan - manufacturingdigital.com",
-      "summary_original": "IFR: Food & Logistics Pushed US Robot Automation Past Japan manufacturingdigital.com",
+      "keywords": "IFR: Gıda ve Lojistik ABD Robot Otomasyonunu Japonya'yı Geriye Taştı - Manufacturing Digital IFR: Gıda ve Lojistik, ABD Robot Otomasyonunu Japonya Üretim Dijitalini Geriye Taştı IFR: Food & Logistics Pushed US Robot Automation Past Japan - Manufacturing Digital IFR: Food & Logistics Pushed US Robot Automation Past Japan Manufacturing Digital Robotics Automation Industry",
+      "title_original": "IFR: Food & Logistics Pushed US Robot Automation Past Japan - Manufacturing Digital",
+      "summary_original": "IFR: Food & Logistics Pushed US Robot Automation Past Japan Manufacturing Digital",
       "published_display": "2026-09-30",
-      "id": "4e894725e384"
+      "id": "e90064564c80"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Germany Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
       "published_display": "2026-09-29",
       "id": "74a124076c07"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us",
-      "summary": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SSFNhSnc1SUxsZm9VU1g5MmlDcFpnQ0o1dFQ2ZGp2NVBwVW96dUFnSzVVNVJ1d1RDa1lfNUh1Y2dBaEJ5S3dLSnBHRDZBNnYyQmRLRDdZQko4UzVFb1piRkwybkZEQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-28T12:23:58Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR - Market.us Gıda Otomasyonu Pazar Büyüklüğü, Paylaş | %9,9'luk CAGR Market.us Food Automation Market Size, Share | CAGR of 9.9% - Market.us Food Automation Market Size, Share | CAGR of 9.9% Market.us Robotics Automation Industry",
-      "title_original": "Food Automation Market Size, Share | CAGR of 9.9% - Market.us",
-      "summary_original": "Food Automation Market Size, Share | CAGR of 9.9% Market.us",
-      "published_display": "2026-09-28",
-      "id": "fcdb145a2791"
     },
     {
       "category": "web",
@@ -514,7 +514,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -525,11 +525,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "91b949a3e484"
+      "id": "877952b0f857"
     },
     {
       "category": "siber",
