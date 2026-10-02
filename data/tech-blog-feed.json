@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-10-01T17:30:55Z",
-  "total_posts": 32,
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 2
+    "kamera": 3
   },
   "posts": [
     {
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme",
-      "summary": "Bir mühendis veya ekip günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey...",
+      "summary": "Bir mühendis veya ekip, günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey...",
       "url": "https://devblogs.microsoft.com/blog/enabling-consistent-ai-assisted-engineering-with-github-copilot-plugins/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme Bir mühendis veya ekip günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey... Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh... Microsoft Dev Cloud",
+      "keywords": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme Bir mühendis veya ekip, günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey... Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh... Microsoft Dev Cloud",
       "title_original": "Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins",
       "summary_original": "When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh...",
       "published_display": "2026-09-29",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "The Den, ChatGPT Work ile büyümek için haftada 10-15 saat ayırıyor",
-      "summary": "Sosyal kulüp yeni lokasyonu açıldığından hibe başvurularını 3 gün yerine 2 saatte, içki-ruhsat malzemelerini ise 4 gün yerine 3 saatte hazırlıyor.",
+      "summary": "Sosyal kulüp, yeni lokasyonu açıldığından hibe başvurularını 3 gün yerine 2 saatte, içki-ruhsat malzemelerini ise 4 gün yerine 3 saatte hazırlıyor.",
       "url": "https://openai.com/index/the-den-family-social",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "The Den, ChatGPT Work ile büyümek için haftada 10-15 saat ayırıyor Sosyal kulüp yeni lokasyonu açıldığından hibe başvurularını 3 gün yerine 2 saatte, içki-ruhsat malzemelerini ise 4 gün yerine 3 saatte hazırlıyor. The Den frees up 10-15 hours a week to grow with ChatGPT Work As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days. AI OpenAI Model",
+      "keywords": "The Den, ChatGPT Work ile büyümek için haftada 10-15 saat ayırıyor Sosyal kulüp, yeni lokasyonu açıldığından hibe başvurularını 3 gün yerine 2 saatte, içki-ruhsat malzemelerini ise 4 gün yerine 3 saatte hazırlıyor. The Den frees up 10-15 hours a week to grow with ChatGPT Work As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days. AI OpenAI Model",
       "title_original": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
       "summary_original": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "published_display": "2026-10-01",
@@ -274,7 +274,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3hYOUsyVkFjMnhIZ0VJb2JVbVNhaUJqN2dHdEEzU0lUS0JWVmdjNzRSeWhrMEhvekR0NmdVUXY2dldpdC16emlwRVVncFFKMUU0M2hNbkkwdFNDdUp0Q0kzMEIyei1SQjUzcWt0bF9HUVFRelRwSldPNC0zMjVyRUUyOFpzdV9HSUk5Sm43X2RiVEZzMHN2NTdjV3VlQ191akQ0aHMtak54ck0?oc=5",
       "image_url": null,
@@ -285,11 +285,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-09-30",
-      "id": "0ce39965522d"
+      "id": "27551f9a8913"
     },
     {
       "category": "robotik",
@@ -514,7 +514,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -525,11 +525,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "877952b0f857"
+      "id": "91b949a3e484"
     },
     {
       "category": "siber",
@@ -650,6 +650,26 @@
       "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
       "published_display": "2026-09-16",
       "id": "8218ddf01fee"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com",
+      "summary": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHdrb0FxS0FiVnlpRDFqQVNZckM3cEpfcDNCMVU2cHlKWmZJMVJOZTN4ajRYVFBKY0ZkT2xHRWdGN1hUWWVNY1cyVG52S2w4UmVqdWY5Y0NkcnR3LW5IRzdGZHVVVnhCdjV3RkFzWXlWSElobU9KTUlzVTRGTHBEc1ZpZ1Z3YWdfTDVEVVBsSmh0MkkzNTR0cHhFWmVMN2ZmZnhaREkxb01uV1VueWFRVDF1dlhpdjU1T0loY2VGdkpCMUhTbzdUSWJGSFV5WFlpZldCOVdsWWZxYkxidVVKWGJpbEE?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-08-21T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' - MyNorthwest.com Siber güvenlik uzmanı: Seattle'da suçla mücadelede neden kameralar 'cevap değil' MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com IP Camera Video Surveillance",
+      "title_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle - MyNorthwest.com",
+      "summary_original": "Cyber security expert: Why cameras are 'not the answer' to fight crime in Seattle MyNorthwest.com",
+      "published_display": "2026-08-21",
+      "id": "8fc2aac65cb9"
     }
   ]
 }
