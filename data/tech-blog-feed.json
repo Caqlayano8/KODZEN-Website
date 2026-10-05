@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-04T09:10:00Z",
+  "updated_at": "2026-10-05T10:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme",
-      "summary": "Bir mühendis veya ekip, günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey...",
+      "summary": "Bir mühendis veya ekip günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey...",
       "url": "https://devblogs.microsoft.com/blog/enabling-consistent-ai-assisted-engineering-with-github-copilot-plugins/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +85,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme Bir mühendis veya ekip, günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey... Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh... Microsoft Dev Cloud",
+      "keywords": "GitHub Copilot Eklentileriyle Tutarlı Yapay Zeka Destekli Mühendisliği Etkinleştirme Bir mühendis veya ekip günlük işleri için yararlı yapay yapılar (örneğin, talimatlar, beceriler ve MCP yapılandırmaları) oluşturduğunda, diğerleri bu yapay nesnelerin kendi işlerine nasıl yardımcı olabileceğini gördüklerinde doğal olarak bunları benimsemek isterler. Şey... Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh... Microsoft Dev Cloud",
       "title_original": "Enabling Consistent AI-Assisted Engineering with GitHub Copilot Plugins",
       "summary_original": "When an engineer or team creates useful agentic artifacts for their daily work (e.g., instructions, skills, and MCP configurations), others naturally want to adopt them when they see how those artifacts could help with their own work. Sh...",
       "published_display": "2026-09-29",
@@ -130,6 +130,26 @@
       "summary_original": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI sec...",
       "published_display": "2026-09-28",
       "id": "c8cecb5740c3"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "İnsanların yapay zekayı kullanma şekline yönelik reklamlar oluşturmak",
+      "summary": "OpenAI, ChatGPT'de yeni bir görsel reklam formatı sunuyor ve reklamverenler için ölçüm araçlarını, ilişkilendirme ortaklıklarını ve marka uygunluğunu genişletiyor.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-05T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "İnsanların yapay zekayı kullanma şekline yönelik reklamlar oluşturmak OpenAI, ChatGPT'de yeni bir görsel reklam formatı sunuyor ve reklamverenler için ölçüm araçlarını, ilişkilendirme ortaklıklarını ve marka uygunluğunu genişletiyor. Building advertising for the way people use AI OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers. AI OpenAI Model",
+      "title_original": "Building advertising for the way people use AI",
+      "summary_original": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "published_display": "2026-10-05",
+      "id": "60e7a891aad1"
     },
     {
       "category": "ai",
@@ -232,24 +252,24 @@
       "id": "27e74087abb7"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Albertsons Companies perakendeyi baştan sona nasıl yeniden tasarlıyor?",
-      "summary": "Albertsons Cos., ekiplerin daha hızlı çalışmasına yardımcı olmak ve milyonlarca müşteri için market alışverişini kolaylaştırmak için ChatGPT Enterprise ve OpenAI API'yi kullanıyor.",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Robotik, Otomasyon ve Endüstriyel Teknolojiye Çeşitli Bakış - Kalkine",
+      "summary": "Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Robotik, Otomasyon ve Endüstriyel Teknolojiye Çeşitli Bakış Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObWNhdnhFV2ZMRDFXWUJSRFBXYVhjYUpSQy1PdmsxNDlPTjZQdzNuNG1YUVE1OHRuZUJQZndBdm5SQmpabkRBOW1HOTdteFFUT1lLMktJYmUwREdnVUs0TmNMX1RqMml3VXAtOG9nNXJEczN2RWdTeUtXcTJycGl0aXUxbjdfM1JoRmpfWDZGYXhRTDRVTWI0Mm9OendkcXRCLVVyOUFEZ29DSW0xcGpXM0U1VzNzU2duWWoxalcyVm1JLU1UUmN6T3E2ZGoxZkxpNDNiNUtINkZCT0Njelp1NFJvbGdrbUhsM2dsNTRMMTdiUWJJWmZ3cndFOVVDRUhtTGc?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-01T16:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-10-05T06:58:00Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Albertsons Companies perakendeyi baştan sona nasıl yeniden tasarlıyor? Albertsons Cos., ekiplerin daha hızlı çalışmasına yardımcı olmak ve milyonlarca müşteri için market alışverişini kolaylaştırmak için ChatGPT Enterprise ve OpenAI API'yi kullanıyor. How Albertsons Companies is reimagining retail from the inside out Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers. AI OpenAI Model",
-      "title_original": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary_original": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "published_display": "2026-10-01",
-      "id": "90f48d98621e"
+      "keywords": "Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Robotik, Otomasyon ve Endüstriyel Teknolojiye Çeşitli Bakış - Kalkine Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Robotik, Otomasyon ve Endüstriyel Teknolojiye Çeşitli Bakış Kalkine Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Diversified Exposure to Robotics, Automation and Industrial Technology - Kalkine Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Diversified Exposure to Robotics, Automation and Industrial Technology Kalkine Robotics Automation Industry",
+      "title_original": "Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Diversified Exposure to Robotics, Automation and Industrial Technology - Kalkine",
+      "summary_original": "Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Diversified Exposure to Robotics, Automation and Industrial Technology Kalkine",
+      "published_display": "2026-10-05",
+      "id": "8cd929a473af"
     },
     {
       "category": "robotik",
@@ -274,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan Üretimde İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak A3 Otomasyonu Geliştirme Derneği",
+      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV29vdXpSVXBmV09PR0tmb1lTMUhfVlN6bmVKUXZCZjd6RkxHS3hqNWxCRm14QWJDY3RNMHU0dk53NW90Rk00ODNPMlIyWkdWQ3Zhd1Z1LUJHdUZlZ1JsYlJXTG9ydUd3ZkVHNzFWNHREVGxEQWFuWGp5M3VFZWl6NU1KVkhObG03bUxRSkEtSnZYYlJvX2Zjb1l1ajcwZ2VncGVLSXNERGQ0RnhNcFVsQVU3Smlrc2pkQ1BOYk40M25vb1ZRaEJEQXVROXBYWDNlMUxGcWtKZTRBZnl0YWMtMHlwTTVNQzg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,11 +305,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan Üretimde İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation",
       "summary_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation",
       "published_display": "2026-10-01",
-      "id": "c624cb0e0c0f"
+      "id": "58a22a1d52b6"
     },
     {
       "category": "robotik",
@@ -310,26 +330,6 @@
       "summary_original": "ANYbotics launches Shift platform to manage autonomous robot fleets and industrial inspections Robotics & Automation News",
       "published_display": "2026-10-01",
       "id": "6e273adaf521"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHh0SmRkT2I3LVNSOFJxQU40QnV0QUtkR3VhNlRzZ0tIZ0VfYXJrMDZSUHZUcG5fMTIzQnlWaC1JZ3V6UWtrUjlJeGRtV09MNXozMXRmaVltdVRSZzFhZjZvNGc3QXJJWlpxanE3MVdWdG8tcFM3RERJOFV6RE5Zc1JYYVJpeXJKNGJ0V0JneW9VSjZJTXYwQzZZRjlLbWlDV0NaOVB3?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-30T17:47:58Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
-      "published_display": "2026-09-30",
-      "id": "f6cf4533b3e1"
     },
     {
       "category": "robotik",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli",
-      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için giderek daha fazla yapay zeka kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimlikleri kullanır.",
+      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
       "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için giderek daha fazla yapay zeka kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimlikleri kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
+      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
       "title_original": "Follow the thread: a new dashboard to investigate account abuse",
       "summary_original": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
       "published_display": "2026-10-02",
@@ -554,7 +554,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -565,11 +565,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "877952b0f857"
+      "id": "91b949a3e484"
     },
     {
       "category": "siber",
@@ -614,6 +614,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandıracak Yapay Zeka Odaklı Talep - IndexBox",
+      "summary": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandırmaya Yönelik Yapay Zeka Odaklı Talep IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmZvOXJ5V0U5NXBXdVJjNTdhN0FkWlN1MzZkY3d6Y3Z6dG41RF8wRHZ0MmptZE1lSWpJRndJXzBCd3NmMDUwQkZRRUU1YXVQeVBqcUhDQm1KWldIMzhsdTdtOG1jVFFuWUdIRTQwVlV0Y0RMdXRna3hlby0zZDVIZGJIYWp5c2NsTGZDWmJfNUVLVnl1Q1ZLblRESmJXTnU1Rkc4ZVZaRFdTVkhsNXNDXw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-25T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandıracak Yapay Zeka Odaklı Talep - IndexBox 2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandırmaya Yönelik Yapay Zeka Odaklı Talep IndexBox Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth - IndexBox Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth IndexBox IP Camera Video Surveillance",
+      "title_original": "Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth - IndexBox",
+      "summary_original": "Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth IndexBox",
+      "published_display": "2026-09-25",
+      "id": "3a06a1af6bcb"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - okwnews.com",
       "summary": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) okwnews.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDQySzBoamV1cUNQY29PN1FRdjZ1aXN4aW5JV25uWjVBTklDY0xraE4tc1g4Tzljb2E5SktxR0ZVNlpxdmhFMWtFTnRndlF2QlNtTUk2VDgwSFNDa0hEZ213S2U5ekptNUJJSWp4d1RrdFM3djdIZ2pmNXlEdHRFdjNCeC1manoxZWhfenlERmM4d0U0NllJMA?oc=5",
@@ -650,26 +670,6 @@
       "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe pasqualepillitteri.it",
       "published_display": "2026-09-16",
       "id": "0bebad3cebd3"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Hunt.io Araştırması, IP Kamera Kurulumları için Uzaktan Erişim Risklerini Vurguluyor - Güvenlik Bilgileri İzleme",
-      "summary": "Hunt.io Araştırması, IP Kamera Dağıtımları için Uzaktan Erişim Risklerini Vurguluyor Güvenlik Bilgilerini İzleyin",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSW5LaVozQ2xHcnI3RVFxd3cycHRmZUFnNkt1cmtIWG5lV0RMZzZqaDhaOHNrbXp6WjNJT2k5aUdxaEpZWFVWTW9SM3gxVVJWUTVtUjYtbXh4T3RmYzQwR2ZCVVJVc0UwaDJ2bHA2cWV2SU1XQzBGellqUGxVX093Y0xoY3FKaGpTUzhPM1B3MDdpMWtHRmdoemxuTkJLNGRtbzVLd1c2STNkbHJCcWctYm1hTHhOMHdvVG5FV2p2Q0tYYkdxMjJSUE0wSUg2cVk?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-08-24T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Hunt.io Araştırması, IP Kamera Kurulumları için Uzaktan Erişim Risklerini Vurguluyor - Güvenlik Bilgileri İzleme Hunt.io Araştırması, IP Kamera Dağıtımları için Uzaktan Erişim Risklerini Vurguluyor Güvenlik Bilgilerini İzleyin Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments - Security Info Watch Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments Security Info Watch IP Camera Video Surveillance",
-      "title_original": "Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments - Security Info Watch",
-      "summary_original": "Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments Security Info Watch",
-      "published_display": "2026-08-24",
-      "id": "01c9bc0f1245"
     }
   ]
 }
