@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-05T21:08:31Z",
+  "updated_at": "2026-10-06T15:05:11Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilci Deneyimi (AX) Nedir?",
+      "summary": "Temsilciniz işlemin tamamlandığını ve kodun derlendiğini söylüyor ancak teknolojinizi mi seçti? Doğru kullandı mı? Temsilci Deneyiminin (AX) ne olduğunu, nasıl ölçüleceğini ve bariz düzeltmenin neden her zaman doğru olmadığını öğrenin. Agen Nedir yazısı...",
+      "url": "https://devblogs.microsoft.com/blog/what-is-agent-experience-ax/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-10-06T09:18:05Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilci Deneyimi (AX) Nedir? Temsilciniz işlemin tamamlandığını ve kodun derlendiğini söylüyor ancak teknolojinizi mi seçti? Doğru kullandı mı? Temsilci Deneyiminin (AX) ne olduğunu, nasıl ölçüleceğini ve bariz düzeltmenin neden her zaman doğru olmadığını öğrenin. Agen Nedir yazısı... What is Agent Experience (AX)? Your agent says it's done, and the code compiles, but did it pick your technology? Did it use it correctly? Learn what Agent Experience (AX) is, how to measure it, and why the obvious fix isn't always the right one. The post What is Agen... Microsoft Dev Cloud",
+      "title_original": "What is Agent Experience (AX)?",
+      "summary_original": "Your agent says it's done, and the code compiles, but did it pick your technology? Did it use it correctly? Learn what Agent Experience (AX) is, how to measure it, and why the obvious fix isn't always the right one. The post What is Agen...",
+      "published_display": "2026-10-06",
+      "id": "d20f7f5f130b"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yapay zeka geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri.",
-      "summary": "Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Post AI, geliştirici çalışmasını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü.",
+      "summary": "Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Yapay zeka sonrası geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yapay zeka geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Post AI, geliştirici çalışmasını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü. AI is changing developer work. Here are three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Yapay zeka geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Yapay zeka sonrası geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü. AI is changing developer work. Here are three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "AI is changing developer work. Here are three skills to strengthen.",
       "summary_original": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
       "published_display": "2026-10-02",
@@ -74,7 +94,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Azure Canvases ile derleyin: aracılar için paylaşılan bir çalışma alanı",
+      "title": "Azure Canvases ile derleme: aracılar için paylaşılan bir çalışma alanı",
       "summary": "Azure Canvas'ların aracı destekli geliştirme için ortak çalışmaya dayalı bir çalışma alanında planları, kodları, önizlemeleri ve dağıtım geri bildirimlerini nasıl bir araya getirdiğini görün. Azure Canvases ile Oluşturma yazısı: aracılar için paylaşılan bir çalışma alanı ilk olarak Microso'da göründü...",
       "url": "https://devblogs.microsoft.com/blog/azure-canvases/",
       "image_url": null,
@@ -85,11 +105,11 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Azure Canvases ile derleyin: aracılar için paylaşılan bir çalışma alanı Azure Canvas'ların aracı destekli geliştirme için ortak çalışmaya dayalı bir çalışma alanında planları, kodları, önizlemeleri ve dağıtım geri bildirimlerini nasıl bir araya getirdiğini görün. Azure Canvases ile Oluşturma yazısı: aracılar için paylaşılan bir çalışma alanı ilk olarak Microso'da göründü... Build with Azure Canvases: a shared workspace for agents See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microso... Microsoft Dev Cloud",
+      "keywords": "Azure Canvases ile derleme: aracılar için paylaşılan bir çalışma alanı Azure Canvas'ların aracı destekli geliştirme için ortak çalışmaya dayalı bir çalışma alanında planları, kodları, önizlemeleri ve dağıtım geri bildirimlerini nasıl bir araya getirdiğini görün. Azure Canvases ile Oluşturma yazısı: aracılar için paylaşılan bir çalışma alanı ilk olarak Microso'da göründü... Build with Azure Canvases: a shared workspace for agents See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microso... Microsoft Dev Cloud",
       "title_original": "Build with Azure Canvases: a shared workspace for agents",
       "summary_original": "See how Azure Canvases bring plans, code, previews, and deployment feedback together in a collaborative workspace for agent-assisted development. The post Build with Azure Canvases: a shared workspace for agents appeared first on Microso...",
       "published_display": "2026-09-29",
-      "id": "a8e6c4fa36ad"
+      "id": "b1099fd86426"
     },
     {
       "category": "yazilim",
@@ -112,24 +132,24 @@
       "id": "806b0e99d12c"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Geliştirici politikası güncellemesi: Şeffaflık, eyalet politikası ve gelecekte neler olacak",
-      "summary": "GitHub'un en son şeffaflık verilerini keşfedin ve geliştiricileri ve açık kaynağı etkileyen politika güncellemeleri hakkında daha fazla bilgi edinin. Geliştirici sonrası politika güncellemesi: Şeffaflık, eyalet politikası ve gelecekte neler olacağı ilk olarak GitHub Blogunda yayınlandı.",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-09-29T15:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Küresel halk sağlığı için Earth AI'nın gezegensel jeo-uzamsal temel modellerinin kilidini açmak",
+      "summary": "Dünya Yapay Zekası",
+      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
+      "source": "Google Research Blog",
+      "published_at": "2026-10-06T15:05:11Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Research",
+        "Google"
       ],
-      "keywords": "Geliştirici politikası güncellemesi: Şeffaflık, eyalet politikası ve gelecekte neler olacak GitHub'un en son şeffaflık verilerini keşfedin ve geliştiricileri ve açık kaynağı etkileyen politika güncellemeleri hakkında daha fazla bilgi edinin. Geliştirici sonrası politika güncellemesi: Şeffaflık, eyalet politikası ve gelecekte neler olacağı ilk olarak GitHub Blogunda yayınlandı. Developer policy update: Transparency, state policy, and what’s ahead Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Developer policy update: Transparency, state policy, and what’s ahead",
-      "summary_original": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog .",
-      "published_display": "2026-09-29",
-      "id": "267a6563dad1"
+      "keywords": "Küresel halk sağlığı için Earth AI'nın gezegensel jeo-uzamsal temel modellerinin kilidini açmak Dünya Yapay Zekası Unlocking Earth AI’s planetary geospatial foundation models for global public health Earth AI AI Research Google",
+      "title_original": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "summary_original": "Earth AI",
+      "published_display": "2026-10-06",
+      "id": "4432951d5e2f"
     },
     {
       "category": "ai",
@@ -195,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "GPT-6 ailesi için model kılavuzu",
-      "summary": "Startup'ların GPT-6 modellerini nasıl seçebileceklerini, akıl yürütme çabalarını nasıl ayarlayabileceklerini, istemleri ve becerileri nasıl geliştirebileceklerini, araçları koordine edebileceklerini ve üretim için iş akışlarını nasıl hazırlayabileceklerini öğrenin.",
+      "summary": "Startup'ların GPT-6 modellerini nasıl seçebileceklerini, akıl yürütme çabalarını nasıl ayarlayabileceklerini, istemleri ve becerileri nasıl geliştirebileceklerini, araçları nasıl koordine edebileceklerini ve üretim için iş akışlarını nasıl hazırlayabileceklerini öğrenin.",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "GPT-6 ailesi için model kılavuzu Startup'ların GPT-6 modellerini nasıl seçebileceklerini, akıl yürütme çabalarını nasıl ayarlayabileceklerini, istemleri ve becerileri nasıl geliştirebileceklerini, araçları koordine edebileceklerini ve üretim için iş akışlarını nasıl hazırlayabileceklerini öğrenin. A model guide for the GPT-6 family Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. AI OpenAI Model",
+      "keywords": "GPT-6 ailesi için model kılavuzu Startup'ların GPT-6 modellerini nasıl seçebileceklerini, akıl yürütme çabalarını nasıl ayarlayabileceklerini, istemleri ve becerileri nasıl geliştirebileceklerini, araçları nasıl koordine edebileceklerini ve üretim için iş akışlarını nasıl hazırlayabileceklerini öğrenin. A model guide for the GPT-6 family Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. AI OpenAI Model",
       "title_original": "A model guide for the GPT-6 family",
       "summary_original": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "published_display": "2026-10-02",
@@ -230,26 +250,6 @@
       "summary_original": "Here are Google’s latest AI updates from September 2026",
       "published_display": "2026-10-02",
       "id": "1f4df8ec4b56"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Birleştirilmiş verilerden kanıtlanabilir özel öğrenmeye doğru",
-      "summary": "Mobil Sistemler",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/ProvablyPrivateLearning2-Data_Curves.png",
-      "source": "Google Research Blog",
-      "published_at": "2026-10-02T14:57:41Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Birleştirilmiş verilerden kanıtlanabilir özel öğrenmeye doğru Mobil Sistemler Toward provably private learning from federated data Mobile Systems AI Research Google",
-      "title_original": "Toward provably private learning from federated data",
-      "summary_original": "Mobile Systems",
-      "published_display": "2026-10-02",
-      "id": "dec8651b6119"
     },
     {
       "category": "robotik",
@@ -294,8 +294,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal",
-      "summary": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal",
+      "title": "Tesla'yı Unutup Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal",
+      "summary": "Tesla'yı Unutup Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBBQm5sQjBYemM0OUMzWjNNZVVYbnhVcGhDQll6OE40Q0pWMUFhMGQ5dVczdk9JZzktcUxXYzJHQVI5U3dZbktaSHNkYVp6MkNJVGRrc2J3WlNoaGlnOG1NVl93ZmgzN2ZUU0RxTFpWVkFpa2U3RE45TXpUZy11OHo5aE5ZUW5IdnY1b21jZ3g4cEh6NmRZbw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? - The Motley Fool Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? The Motley Fool Robotics Automation Industry",
+      "keywords": "Tesla'yı Unutup Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal Tesla'yı Unutup Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? - The Motley Fool Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? The Motley Fool Robotics Automation Industry",
       "title_original": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? - The Motley Fool",
       "summary_original": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? The Motley Fool",
       "published_display": "2026-10-02",
-      "id": "b42861c39bce"
+      "id": "33b8e4a6c0f0"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan Üretimde İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak A3 Otomasyonu Geliştirme Derneği",
+      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV29vdXpSVXBmV09PR0tmb1lTMUhfVlN6bmVKUXZCZjd6RkxHS3hqNWxCRm14QWJDY3RNMHU0dk53NW90Rk00ODNPMlIyWkdWQ3Zhd1Z1LUJHdUZlZ1JsYlJXTG9ydUd3ZkVHNzFWNHREVGxEQWFuWGp5M3VFZWl6NU1KVkhObG03bUxRSkEtSnZYYlJvX2Zjb1l1ajcwZ2VncGVLSXNERGQ0RnhNcFVsQVU3Smlrc2pkQ1BOYk40M25vb1ZRaEJEQXVROXBYWDNlMUxGcWtKZTRBZnl0YWMtMHlwTTVNQzg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,11 +325,31 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan Üretimde İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation",
       "summary_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation",
       "published_display": "2026-10-01",
-      "id": "c624cb0e0c0f"
+      "id": "58a22a1d52b6"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "IMTS 2026, yapay zeka ve otomasyonun evrimini vurguluyor - Üretim Dalışı",
+      "summary": "IMTS 2026 yapay zeka ve otomasyonun evrimini vurguluyor Üretim Dalışı",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalpJOXZwY2E2bHVSMmxWdXB4eDdXVDVOalN2YnhxUnRhMnJ4ejFWRGRFMWotaTVpT0lMUlQ4MmlaVHpkWnJLbF9rSWlIMTgzeTZVT3NURG9DcnJyZkU0MDJFRkVjU25TV0dWZGZUakJ2ODNnWXJNaEx3elJRS25qM01UVVRQbU5YY0NGS2luajZqOEVoTzJwUlRQaEZqTnhEazJWeE5qVG5QQQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-01T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "IMTS 2026, yapay zeka ve otomasyonun evrimini vurguluyor - Üretim Dalışı IMTS 2026 yapay zeka ve otomasyonun evrimini vurguluyor Üretim Dalışı IMTS 2026 highlights the evolution of AI and automation - Manufacturing Dive IMTS 2026 highlights the evolution of AI and automation Manufacturing Dive Robotics Automation Industry",
+      "title_original": "IMTS 2026 highlights the evolution of AI and automation - Manufacturing Dive",
+      "summary_original": "IMTS 2026 highlights the evolution of AI and automation Manufacturing Dive",
+      "published_display": "2026-10-01",
+      "id": "7430d1f3d212"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "IFR: Food & Logistics Pushed US Robot Automation Past Japan Manufacturing Digital",
       "published_display": "2026-09-30",
       "id": "e90064564c80"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotik ve Otomasyon Pazar Raporu Önemli Segmentleri, Bölgesel Gelişmeleri ve Önde Gelen Rakipleri Detaylandırıyor - EIN Haberleri",
-      "summary": "Robotik ve Otomasyon Pazar Raporunun Detayları Önemli Segmentler, Bölgesel Gelişmeler ve Önde Gelen Rakipler EIN Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWHFxeXhyVVMzcFlVc1dtWFBUTF9qZjAyTVU5VUF0V0dLd0dxUkVfRjlDZ09fNEFkbkZxR3Q2dURUX2dTOHpMR3llRGpOaDVpZ0ZYa091bTdVemQ4ZS1yZW9Rckd3Q0M5c0VzXzVjTXk1bnlMS2JGSU5aakUzUUFqT3pqZEFhcXEzai1lVlZZa0E1Tnl4d2tuN1Q5cW5OeXo2MjZLaDI4MGF1Z2FMTWQyQWpFTGwzSXJoR0cyMWZBckgzeUlGZG9ka0FWUjhaNjBJUkZqb0lHaVBXUkc4ZFpR?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-09-29T14:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotik ve Otomasyon Pazar Raporu Önemli Segmentleri, Bölgesel Gelişmeleri ve Önde Gelen Rakipleri Detaylandırıyor - EIN Haberleri Robotik ve Otomasyon Pazar Raporunun Detayları Önemli Segmentler, Bölgesel Gelişmeler ve Önde Gelen Rakipler EIN Haberleri Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors - EIN News Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors EIN News Robotics Automation Industry",
-      "title_original": "Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors - EIN News",
-      "summary_original": "Robotics and Automation Market Report Details Key Segments, Regional Developments, and Leading Competitors EIN News",
-      "published_display": "2026-09-29",
-      "id": "46db887db44a"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli",
-      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için giderek daha fazla yapay zeka kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimlikleri kullanır.",
+      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
       "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için giderek daha fazla yapay zeka kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimlikleri kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
+      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
       "title_original": "Follow the thread: a new dashboard to investigate account abuse",
       "summary_original": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
       "published_display": "2026-10-02",
@@ -554,7 +554,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -565,11 +565,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "91b949a3e484"
+      "id": "877952b0f857"
     },
     {
       "category": "siber",
@@ -614,7 +614,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "2035'e Kadar Gözetleme Kamerası Piyasası Tahmini: Büyümeyi Hızlandıracak Yapay Zeka Odaklı Talep - IndexBox",
+      "title": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandıracak Yapay Zeka Odaklı Talep - IndexBox",
       "summary": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandırmaya Yönelik Yapay Zeka Odaklı Talep IndexBox",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmZvOXJ5V0U5NXBXdVJjNTdhN0FkWlN1MzZkY3d6Y3Z6dG41RF8wRHZ0MmptZE1lSWpJRndJXzBCd3NmMDUwQkZRRUU1YXVQeVBqcUhDQm1KWldIMzhsdTdtOG1jVFFuWUdIRTQwVlV0Y0RMdXRna3hlby0zZDVIZGJIYWp5c2NsTGZDWmJfNUVLVnl1Q1ZLblRESmJXTnU1Rkc4ZVZaRFdTVkhsNXNDXw?oc=5",
       "image_url": null,
@@ -625,11 +625,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "2035'e Kadar Gözetleme Kamerası Piyasası Tahmini: Büyümeyi Hızlandıracak Yapay Zeka Odaklı Talep - IndexBox 2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandırmaya Yönelik Yapay Zeka Odaklı Talep IndexBox Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth - IndexBox Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth IndexBox IP Camera Video Surveillance",
+      "keywords": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandıracak Yapay Zeka Odaklı Talep - IndexBox 2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandırmaya Yönelik Yapay Zeka Odaklı Talep IndexBox Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth - IndexBox Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth IndexBox IP Camera Video Surveillance",
       "title_original": "Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth - IndexBox",
       "summary_original": "Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth IndexBox",
       "published_display": "2026-09-25",
-      "id": "a275b2e4b86b"
+      "id": "3a06a1af6bcb"
     },
     {
       "category": "kamera",
@@ -675,7 +675,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Hunt.io Araştırması, IP Kamera Kurulumları için Uzaktan Erişim Risklerini Vurguluyor - Güvenlik Bilgileri İzleme",
-      "summary": "Hunt.io Araştırması, IP Kamera Dağıtımları için Uzaktan Erişim Risklerini Vurguluyor Güvenlik Bilgilerini İzleyin",
+      "summary": "Hunt.io Araştırması, IP Kamera Dağıtımları için Uzaktan Erişim Risklerini Vurguluyor Güvenlik Bilgilerini İzleme",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSW5LaVozQ2xHcnI3RVFxd3cycHRmZUFnNkt1cmtIWG5lV0RMZzZqaDhaOHNrbXp6WjNJT2k5aUdxaEpZWFVWTW9SM3gxVVJWUTVtUjYtbXh4T3RmYzQwR2ZCVVJVc0UwaDJ2bHA2cWV2SU1XQzBGellqUGxVX093Y0xoY3FKaGpTUzhPM1B3MDdpMWtHRmdoemxuTkJLNGRtbzVLd1c2STNkbHJCcWctYm1hTHhOMHdvVG5FV2p2Q0tYYkdxMjJSUE0wSUg2cVk?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -685,7 +685,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hunt.io Araştırması, IP Kamera Kurulumları için Uzaktan Erişim Risklerini Vurguluyor - Güvenlik Bilgileri İzleme Hunt.io Araştırması, IP Kamera Dağıtımları için Uzaktan Erişim Risklerini Vurguluyor Güvenlik Bilgilerini İzleyin Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments - Security Info Watch Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments Security Info Watch IP Camera Video Surveillance",
+      "keywords": "Hunt.io Araştırması, IP Kamera Kurulumları için Uzaktan Erişim Risklerini Vurguluyor - Güvenlik Bilgileri İzleme Hunt.io Araştırması, IP Kamera Dağıtımları için Uzaktan Erişim Risklerini Vurguluyor Güvenlik Bilgilerini İzleme Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments - Security Info Watch Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments Security Info Watch IP Camera Video Surveillance",
       "title_original": "Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments - Security Info Watch",
       "summary_original": "Hunt.io Research Highlights Remote Access Risks for IP Camera Deployments Security Info Watch",
       "published_display": "2026-08-24",
