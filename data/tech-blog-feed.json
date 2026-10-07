@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T20:57:56Z",
+  "updated_at": "2026-10-07T16:30:36Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme",
+      "summary": "Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,...",
+      "url": "https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-10-07T15:00:26Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,... From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ... Microsoft Dev Cloud",
+      "title_original": "From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit",
+      "summary_original": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ...",
+      "published_display": "2026-10-07",
+      "id": "7f2b4b8a7d6d"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -95,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yapay zeka geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri.",
-      "summary": "Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Post AI, geliştirici çalışmasını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü.",
+      "summary": "Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Yapay zeka sonrası geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,31 +125,51 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yapay zeka geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Post AI, geliştirici çalışmasını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü. AI is changing developer work. Here are three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Yapay zeka geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Yapay zeka sonrası geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü. AI is changing developer work. Here are three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "AI is changing developer work. Here are three skills to strengthen.",
       "summary_original": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
       "published_display": "2026-10-02",
       "id": "c66f474df2ca"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Universe 2026'da beni heyecanlandıran 10 teknik konuşma",
-      "summary": "Yapay zeka tarafından yazılan kodun doğrulanmasından npm bağımlılıklarının güvence altına alınmasına kadar, bunlar Evren gündemimi etrafında oluşturduğum oturumlar. GitHub Universe 2026'da beni heyecanlandıran 10 teknik konuşma yazısı ilk olarak The GitHub Blog'da yayınlandı.",
-      "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Gençlerin yapay zekanın geleceğini öğrenmesine, planlamasına ve şekillendirmesine yardımcı oluyoruz",
+      "summary": "College Planner, yeni bilgi kartları, testler ve gençlere yönelik yapay zeka konseyinin yanı sıra öğrencilerin üniversite başvurularını yönetmelerine yardımcı olmak için ChatGPT for Teens'e geliyor.",
+      "url": "https://openai.com/index/teens-learn-and-plan",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-10-01T15:07:16Z",
+      "source": "OpenAI News",
+      "published_at": "2026-10-07T12:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "GitHub Universe 2026'da beni heyecanlandıran 10 teknik konuşma Yapay zeka tarafından yazılan kodun doğrulanmasından npm bağımlılıklarının güvence altına alınmasına kadar, bunlar Evren gündemimi etrafında oluşturduğum oturumlar. GitHub Universe 2026'da beni heyecanlandıran 10 teknik konuşma yazısı ilk olarak The GitHub Blog'da yayınlandı. 10 technical talks I’m excited about at GitHub Universe 2026 From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "10 technical talks I’m excited about at GitHub Universe 2026",
-      "summary_original": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog .",
-      "published_display": "2026-10-01",
-      "id": "38c5e6820378"
+      "keywords": "Gençlerin yapay zekanın geleceğini öğrenmesine, planlamasına ve şekillendirmesine yardımcı oluyoruz College Planner, yeni bilgi kartları, testler ve gençlere yönelik yapay zeka konseyinin yanı sıra öğrencilerin üniversite başvurularını yönetmelerine yardımcı olmak için ChatGPT for Teens'e geliyor. Helping teens learn, plan, and shape the future of AI College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council. AI OpenAI Model",
+      "title_original": "Helping teens learn, plan, and shape the future of AI",
+      "summary_original": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "published_display": "2026-10-07",
+      "id": "c82f66a75e90"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Oyun Alanıyla Tanışın: Özel oyunlar yaratın ve oynayın",
+      "summary": "Playground, özel oyunlar oluşturmanıza, oynamanıza ve paylaşmanıza olanak tanıyan yeni bir deneysel oyun platformudur.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-07T12:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Oyun Alanıyla Tanışın: Özel oyunlar yaratın ve oynayın Playground, özel oyunlar oluşturmanıza, oynamanıza ve paylaşmanıza olanak tanıyan yeni bir deneysel oyun platformudur. Introducing Playground: Create and play custom games Playground is a new experimental gaming platform that lets you create, play, and share custom games. AI Product Google",
+      "title_original": "Introducing Playground: Create and play custom games",
+      "summary_original": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "published_display": "2026-10-07",
+      "id": "c20855f12782"
     },
     {
       "category": "ai",
@@ -212,44 +252,24 @@
       "id": "a28151eb9ea6"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Ironclad ile bilgisayar kullanımını geliştirme",
-      "summary": "OpenAI ve Ironclad'in, profesyonel işlerde bilgisayar kullanımını geliştirmek amacıyla yapay zeka temsilcilerini karmaşık sözleşme iş akışları konusunda nasıl eğittiğini ve değerlendirdiğini öğrenin.",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXRzTmczdk9IZEVaUkdqMHM4Wk5vWWF6eXBrb3ZYcTdqSEk4cWhMRVZ0WFI2WGhvQ2d0SmVpSlBxcGFrTEtLNF9HUE9rb2VSNFFIV0J5b2pxcTQzeU5CS3h2djdJR3otODN3UmhybklkYUhDN1J4dkh3WVFDTVh1Wmd4TDBQWXZYUmVGd3E4aGZ6UUdUM1o0R1VpS1JhajRmcENNN2pOOGxqRHRvWUF0MGtIVk0zTjNPWkpv?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-06T10:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-10-07T14:16:26Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Ironclad ile bilgisayar kullanımını geliştirme OpenAI ve Ironclad'in, profesyonel işlerde bilgisayar kullanımını geliştirmek amacıyla yapay zeka temsilcilerini karmaşık sözleşme iş akışları konusunda nasıl eğittiğini ve değerlendirdiğini öğrenin. Advancing computer use with Ironclad Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work. AI OpenAI Model",
-      "title_original": "Advancing computer use with Ironclad",
-      "summary_original": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "published_display": "2026-10-06",
-      "id": "e70f0808149a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Temsilci Gizlilik ve Güvenlikte Açık ve Ortaya Çıkan Sorunlar: Bağlamsal Bir Açı",
-      "summary": "Üretken Yapay Zeka",
-      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PrivacySecurity_ContextualAngle2-ModelOverview.png",
-      "source": "Google Research Blog",
-      "published_at": "2026-10-05T21:08:00Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Temsilci Gizlilik ve Güvenlikte Açık ve Ortaya Çıkan Sorunlar: Bağlamsal Bir Açı Üretken Yapay Zeka Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle Generative AI AI Research Google",
-      "title_original": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "summary_original": "Generative AI",
-      "published_display": "2026-10-05",
-      "id": "0e6956af7534"
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-10-07",
+      "id": "c737129ad6eb"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Global X ROBO Global Robotics & Automation ETF (ASX:ROBO): Diversified Exposure to Robotics, Automation and Industrial Technology Kalkine",
       "published_display": "2026-10-05",
       "id": "8cd929a473af"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV29vdXpSVXBmV09PR0tmb1lTMUhfVlN6bmVKUXZCZjd6RkxHS3hqNWxCRm14QWJDY3RNMHU0dk53NW90Rk00ODNPMlIyWkdWQ3Zhd1Z1LUJHdUZlZ1JsYlJXTG9ydUd3ZkVHNzFWNHREVGxEQWFuWGp5M3VFZWl6NU1KVkhObG03bUxRSkEtSnZYYlJvX2Zjb1l1ajcwZ2VncGVLSXNERGQ0RnhNcFVsQVU3Smlrc2pkQ1BOYk40M25vb1ZRaEJEQXVROXBYWDNlMUxGcWtKZTRBZnl0YWMtMHlwTTVNQzg?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-01T18:15:56Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation",
-      "summary_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation",
-      "published_display": "2026-10-01",
-      "id": "58a22a1d52b6"
     },
     {
       "category": "web",
@@ -494,6 +494,26 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma",
+      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
+      "url": "https://blog.cloudflare.com/agentic-security-operations/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-10-07T16:30:36Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
+      "title_original": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+      "summary_original": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded...",
+      "published_display": "2026-10-07",
+      "id": "ae0abce46092"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli",
       "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
       "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
@@ -590,26 +610,6 @@
       "summary_original": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
       "published_display": "2026-09-29",
       "id": "5f4df7226861"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Merkle Tree Sertifikalarıyla kuantum sonrası sertifika yetkilisi oluşturma",
-      "summary": "Kuantum sonrası imzalar, TLS anlaşmalarını ve sertifika şeffaflık günlüklerini şişirme tehlikesiyle karşı karşıyayken, Merkle Ağacı Sertifikaları kompakt, denetlenebilir kimlik doğrulamaya giden bir yol sunar. Cloudflare'in yeni sertifika yetkilisi MTC verilmesini destekleyecek...",
-      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MX3H0DJVT3EQ9XF4GKFX9C.01M3MX3HYF5RPW6B0KQPFMJ8QS.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-09-29T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Merkle Tree Sertifikalarıyla kuantum sonrası sertifika yetkilisi oluşturma Kuantum sonrası imzalar, TLS anlaşmalarını ve sertifika şeffaflık günlüklerini şişirme tehlikesiyle karşı karşıyayken, Merkle Ağacı Sertifikaları kompakt, denetlenebilir kimlik doğrulamaya giden bir yol sunar. Cloudflare'in yeni sertifika yetkilisi MTC verilmesini destekleyecek... Building a post-quantum certificate authority with Merkle Tree Certificates As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance... Cloudflare Security Web",
-      "title_original": "Building a post-quantum certificate authority with Merkle Tree Certificates",
-      "summary_original": "As post-quantum signatures threaten to inflate TLS handshakes and certificate transparency logs, Merkle Tree Certificates offer a path to compact, auditable authentication. Cloudflare’s new certificate authority will support MTC issuance...",
-      "published_display": "2026-09-29",
-      "id": "d895db9fa846"
     },
     {
       "category": "kamera",
