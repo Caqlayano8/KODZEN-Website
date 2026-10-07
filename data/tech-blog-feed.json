@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T16:30:36Z",
+  "updated_at": "2026-10-07T20:19:57Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 4
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Gizli koruma yazılımla ölçeklendirilmelidir",
+      "summary": "Geliştiriciler daha fazla dikkatsizleşmiyor; geride bırakılıyorlar. Geliştiricilerin daha fazla yazılım oluşturmasına olanak tanıyan araçlar aynı zamanda yazılımı koruma işini de üstlenmelidir. Gizli koruma sonrası, ilk ortaya çıkan yazılımla ölçeklendirilmelidir...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-07T17:45:34Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Gizli koruma yazılımla ölçeklendirilmelidir Geliştiriciler daha fazla dikkatsizleşmiyor; geride bırakılıyorlar. Geliştiricilerin daha fazla yazılım oluşturmasına olanak tanıyan araçlar aynı zamanda yazılımı koruma işini de üstlenmelidir. Gizli koruma sonrası, ilk ortaya çıkan yazılımla ölçeklendirilmelidir... Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared firs... GitHub Dev Platform",
+      "title_original": "Secret protection must scale with software",
+      "summary_original": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared firs...",
+      "published_display": "2026-10-07",
+      "id": "f34b2fae1b6f"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,24 +132,24 @@
       "id": "5aae03b81aff"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Yapay zeka geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri.",
-      "summary": "Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Yapay zeka sonrası geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü.",
-      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-10-02T15:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Daha iyi iş her zaman daha iyi çalışanlar anlamına mı gelir?",
+      "summary": "Daha iyi iş her zaman daha iyi çalışanlar anlamına mı gelir?",
+      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-10-07T20:19:57Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Research",
+        "Google"
       ],
-      "keywords": "Yapay zeka geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. Yapay zeka temsilcilerini yönlendirmeyi, çıktılarını eleştirel bir şekilde gözden geçirmeyi ve teknik muhakemeyi iş akışınızın merkezinde tutmayı öğrenin. Yapay zeka sonrası geliştirici çalışmalarını değiştiriyor. İşte güçlendirilecek üç beceri. İlk olarak GitHub Blogunda göründü. AI is changing developer work. Here are three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "AI is changing developer work. Here are three skills to strengthen.",
-      "summary_original": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog .",
-      "published_display": "2026-10-02",
-      "id": "c66f474df2ca"
+      "keywords": "Daha iyi iş her zaman daha iyi çalışanlar anlamına mı gelir? Daha iyi iş her zaman daha iyi çalışanlar anlamına mı gelir? Does better work always mean better workers? Does better work always mean better workers? AI Research Google",
+      "title_original": "Does better work always mean better workers?",
+      "summary_original": "Does better work always mean better workers?",
+      "published_display": "2026-10-07",
+      "id": "affa74437fea"
     },
     {
       "category": "ai",
@@ -174,6 +194,46 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Radisson Hotel Group, otel keşfini ChatGPT'ye taşıyor",
+      "summary": "Radisson, OpenAI teknolojisini kullanarak gezginlerin seyahatlerini planlarken otel bulmasına, karşılaştırmasına ve rezervasyon yapmasına yardımcı olan bir ChatGPT eklentisi oluşturmak için Accenture ile ortaklık kurdu.",
+      "url": "https://openai.com/index/radisson",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-07T07:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Radisson Hotel Group, otel keşfini ChatGPT'ye taşıyor Radisson, OpenAI teknolojisini kullanarak gezginlerin seyahatlerini planlarken otel bulmasına, karşılaştırmasına ve rezervasyon yapmasına yardımcı olan bir ChatGPT eklentisi oluşturmak için Accenture ile ortaklık kurdu. Radisson Hotel Group brings hotel discovery into ChatGPT Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips. AI OpenAI Model",
+      "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary_original": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "published_display": "2026-10-07",
+      "id": "87b1f6115ee3"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Herkes için GPT-6 ve Akıllı Kullanıcı Arayüzü",
+      "summary": "GPT‑6, Akıllı Kullanıcı Arayüzü ile ChatGPT'de küresel olarak kullanıma sunuluyor ve doğrudan keşfedip kullanabileceğiniz görseller ve etkileşimli deneyimlerle daha hızlı yanıtlar sunuyor.",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-07T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Herkes için GPT-6 ve Akıllı Kullanıcı Arayüzü GPT‑6, Akıllı Kullanıcı Arayüzü ile ChatGPT'de küresel olarak kullanıma sunuluyor ve doğrudan keşfedip kullanabileceğiniz görseller ve etkileşimli deneyimlerle daha hızlı yanıtlar sunuyor. GPT-6 and Intelligent UI for everyone GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. AI OpenAI Model",
+      "title_original": "GPT-6 and Intelligent UI for everyone",
+      "summary_original": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "published_display": "2026-10-07",
+      "id": "a6839b56229e"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Atlassian ve OpenAI, kurumsal bilgiyi eyleme dönüştürmek için ortaklığını genişletiyor",
       "summary": "Atlassian ve OpenAI, sınır modellerini kurumsal bilgiyle birleştirmek ve ekiplerin işleri planlamasına, oluşturmasına ve teslim etmesine yardımcı olmak için ortaklıklarını genişletiyor.",
       "url": "https://openai.com/index/atlassian-partnership",
@@ -192,84 +252,24 @@
       "id": "498a67e26673"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Küresel halk sağlığı için Earth AI'nın gezegensel jeo-uzamsal temel modellerinin kilidini açmak",
-      "summary": "Dünya Yapay Zekası",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PDFMPublicHealth1-hero.jpg",
-      "source": "Google Research Blog",
-      "published_at": "2026-10-06T15:05:11Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Küresel halk sağlığı için Earth AI'nın gezegensel jeo-uzamsal temel modellerinin kilidini açmak Dünya Yapay Zekası Unlocking Earth AI’s planetary geospatial foundation models for global public health Earth AI AI Research Google",
-      "title_original": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "summary_original": "Earth AI",
-      "published_display": "2026-10-06",
-      "id": "4432951d5e2f"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yapay zekanın matematikteki ilerlemesini paylaşma",
-      "summary": "OpenAI, dahili bir sınır modelinden matematikteki açık problemlerle ilgili yeni sonuçlar yayınlıyor ve Yalın kanıt formalizasyonlarını ve araştırma ayrıntılarını GitHub'da paylaşıyor.",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-06T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Yapay zekanın matematikteki ilerlemesini paylaşma OpenAI, dahili bir sınır modelinden matematikteki açık problemlerle ilgili yeni sonuçlar yayınlıyor ve Yalın kanıt formalizasyonlarını ve araştırma ayrıntılarını GitHub'da paylaşıyor. Sharing AI progress in mathematics OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub. AI OpenAI Model",
-      "title_original": "Sharing AI progress in mathematics",
-      "summary_original": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "published_display": "2026-10-06",
-      "id": "c902e6d7dd41"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Jump Trading, ChatGPT ile niceliksel araştırmayı nasıl ölçeklendiriyor?",
-      "summary": "Jump Trading, niceliksel araştırmayı genişletmek için OpenAI'yi kullanıyor. Daha uzun süre çalışan AI iş akışlarının birden fazla veri kaynağını insan incelemesiyle nasıl birleştirdiğini görün.",
-      "url": "https://openai.com/index/jump-trading",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-06T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Jump Trading, ChatGPT ile niceliksel araştırmayı nasıl ölçeklendiriyor? Jump Trading, niceliksel araştırmayı genişletmek için OpenAI'yi kullanıyor. Daha uzun süre çalışan AI iş akışlarının birden fazla veri kaynağını insan incelemesiyle nasıl birleştirdiğini görün. How Jump Trading is scaling quant research with ChatGPT Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review. AI OpenAI Model",
-      "title_original": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary_original": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "published_display": "2026-10-06",
-      "id": "a28151eb9ea6"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXRzTmczdk9IZEVaUkdqMHM4Wk5vWWF6eXBrb3ZYcTdqSEk4cWhMRVZ0WFI2WGhvQ2d0SmVpSlBxcGFrTEtLNF9HUE9rb2VSNFFIV0J5b2pxcTQzeU5CS3h2djdJR3otODN3UmhybklkYUhDN1J4dkh3WVFDTVh1Wmd4TDBQWXZYUmVGd3E4aGZ6UUdUM1o0R1VpS1JhajRmcENNN2pOOGxqRHRvWUF0MGtIVk0zTjNPWkpv?oc=5",
+      "title": "Elektrik Motoru Üretim Anını Yaşıyor - Otomasyon Dünyası",
+      "summary": "Elektrik Motoru Üretim Anını Yaşıyor Otomasyon Dünyası",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWU9rQ1FXbXBXQ1BiV0lKc3VQVWhvZUxITUFyZ3pURkxObWZqSXl3TmlSN0c2anp2MkxXRksxOURUejVmVlpvYTI5NFZjS1NubE8zWGJqdG5FVWVwQWg3MWRibkV6bGl6R2JPOW9UOFVPVmI4VDZIR0lLaTc4VnBEVGdtX2Y3a1BlNGwwUUUxM3lZYWhXLV9xY0hMTVY5S0U4d2pEa2tHN1R6eUJ0MWtRdFV0UWoxTHpaXzdVRUJnWEZGY2pUNnVfcFNR?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-07T14:16:26Z",
+      "published_at": "2026-10-07T17:51:52Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "keywords": "Elektrik Motoru Üretim Anını Yaşıyor - Otomasyon Dünyası Elektrik Motoru Üretim Anını Yaşıyor Otomasyon Dünyası The Electric Motor Is Having Its Manufacturing Moment - Automation World The Electric Motor Is Having Its Manufacturing Moment Automation World Robotics Automation Industry",
+      "title_original": "The Electric Motor Is Having Its Manufacturing Moment - Automation World",
+      "summary_original": "The Electric Motor Is Having Its Manufacturing Moment Automation World",
       "published_display": "2026-10-07",
-      "id": "c737129ad6eb"
+      "id": "3beb040e05dc"
     },
     {
       "category": "robotik",
@@ -614,26 +614,6 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandıracak Yapay Zeka Odaklı Talep - IndexBox",
-      "summary": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandırmaya Yönelik Yapay Zeka Odaklı Talep IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmZvOXJ5V0U5NXBXdVJjNTdhN0FkWlN1MzZkY3d6Y3Z6dG41RF8wRHZ0MmptZE1lSWpJRndJXzBCd3NmMDUwQkZRRUU1YXVQeVBqcUhDQm1KWldIMzhsdTdtOG1jVFFuWUdIRTQwVlV0Y0RMdXRna3hlby0zZDVIZGJIYWp5c2NsTGZDWmJfNUVLVnl1Q1ZLblRESmJXTnU1Rkc4ZVZaRFdTVkhsNXNDXw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-25T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandıracak Yapay Zeka Odaklı Talep - IndexBox 2035'e Kadar Gözetim Kamerası Piyasası Tahmini: Büyümeyi Hızlandırmaya Yönelik Yapay Zeka Odaklı Talep IndexBox Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth - IndexBox Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth IndexBox IP Camera Video Surveillance",
-      "title_original": "Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth - IndexBox",
-      "summary_original": "Surveillance Camera Market Forecast to 2035: AI-Driven Demand to Accelerate Growth IndexBox",
-      "published_display": "2026-09-25",
-      "id": "3a06a1af6bcb"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
       "title": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News",
       "summary": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDQySzBoamV1cUNQY29PN1FRdjZ1aXN4aW5JV25uWjVBTklDY0xraE4tc1g4Tzljb2E5SktxR0ZVNlpxdmhFMWtFTnRndlF2QlNtTUk2VDgwSFNDa0hEZ213S2U5ekptNUJJSWp4d1RrdFM3djdIZ2pmNXlEdHRFdjNCeC1manoxZWhfenlERmM4d0U0NllJMA?oc=5",
@@ -650,6 +630,26 @@
       "summary_original": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
       "published_display": "2026-09-25",
       "id": "be8d0c51373d"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor - Pasquale Pillitteri",
+      "summary": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHh0Sk9LSWNVTWdQQzJLRjRVVFFMZDh2LTNOb296SWc4YTZrT2dRb1NGbDI0ZW9DTWVXYXNDS1FwWE85U2FhOHRpbWR3d0ZKQjdOVjZvMEZaaW1ZcWw5TmdxVXU3YkhwcUl3WjNtRnRZbk1JRlNzRnlwX0ZyQ0xMbU9ZOA?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-17T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor - Pasquale Pillitteri TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri",
+      "summary_original": "TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri",
+      "published_display": "2026-09-17",
+      "id": "132ea46b82fb"
     },
     {
       "category": "kamera",
