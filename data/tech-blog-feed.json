@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T20:19:57Z",
-  "total_posts": 32,
+  "updated_at": "2026-10-08T17:02:52Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 2
+    "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Bir hata ödülü araştırmacısı araştırdığı özellikleri nasıl seçiyor?",
+      "summary": "Siber Güvenlik Farkındalık Ayını başlatırken GitHub Bug Bounty ekibi @vaib25vicky'yi ön plana çıkarıyor ve GitHub'da hackleme yöntemlerini, tekniklerini ve deneyimlerini keşfediyor. Yazı Bir hata ödül araştırmacısı, özellikleri nasıl seçiyor?",
+      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-08T17:02:52Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Bir hata ödülü araştırmacısı araştırdığı özellikleri nasıl seçiyor? Siber Güvenlik Farkındalık Ayını başlatırken GitHub Bug Bounty ekibi @vaib25vicky'yi ön plana çıkarıyor ve GitHub'da hackleme yöntemlerini, tekniklerini ve deneyimlerini keşfediyor. Yazı Bir hata ödül araştırmacısı, özellikleri nasıl seçiyor? How one bug bounty researcher chooses the features they investigate As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features the... GitHub Dev Platform",
+      "title_original": "How one bug bounty researcher chooses the features they investigate",
+      "summary_original": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features the...",
+      "published_display": "2026-10-08",
+      "id": "69ea66c5ab53"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme",
-      "summary": "Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi geniş ölçekte uyarlanabilir hale nasıl getiriyor? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerel Mühendisliğine Özel İlk Yaklaşım'ın devamı niteliğindedir ve bu prensip,...",
+      "summary": "Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,...",
       "url": "https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi geniş ölçekte uyarlanabilir hale nasıl getiriyor? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerel Mühendisliğine Özel İlk Yaklaşım'ın devamı niteliğindedir ve bu prensip,... From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ... Microsoft Dev Cloud",
+      "keywords": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,... From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ... Microsoft Dev Cloud",
       "title_original": "From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit",
       "summary_original": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ...",
       "published_display": "2026-10-07",
@@ -75,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Canvas yazma eklentisiyle Azure tuvalleri oluşturun",
-      "summary": "Canvas yazma eklentisinin Microsoft Canvas Araç Seti ile salt okunur bir başlatıcıdan inceleyebileceğiniz, test edebileceğiniz ve uyarlayabileceğiniz çalışan bir uygulamaya kadar Azure tuvalleri oluşturmanıza nasıl yardımcı olduğunu öğrenin. Build Azure tuvalleri Canvas yazma eklentisiyle yayınlanıyor...",
+      "summary": "Canvas yazma eklentisinin Microsoft Canvas Araç Seti ile salt okunur bir başlatıcıdan inceleyebileceğiniz, test edebileceğiniz ve uyarlayabileceğiniz çalışan bir uygulamaya kadar Azure tuvalleri oluşturmanıza nasıl yardımcı olduğunu öğrenin. Build Azure tuvalleri Canvas yazma eklentisi ile yayınlanıyor...",
       "url": "https://devblogs.microsoft.com/blog/build-azure-canvases-with-canvas-authoring/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Canvas yazma eklentisiyle Azure tuvalleri oluşturun Canvas yazma eklentisinin Microsoft Canvas Araç Seti ile salt okunur bir başlatıcıdan inceleyebileceğiniz, test edebileceğiniz ve uyarlayabileceğiniz çalışan bir uygulamaya kadar Azure tuvalleri oluşturmanıza nasıl yardımcı olduğunu öğrenin. Build Azure tuvalleri Canvas yazma eklentisiyle yayınlanıyor... Build Azure canvases with the Canvas authoring plugin Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt. The post Build Azure canvases with the Canvas authoring plugi... Microsoft Dev Cloud",
+      "keywords": "Canvas yazma eklentisiyle Azure tuvalleri oluşturun Canvas yazma eklentisinin Microsoft Canvas Araç Seti ile salt okunur bir başlatıcıdan inceleyebileceğiniz, test edebileceğiniz ve uyarlayabileceğiniz çalışan bir uygulamaya kadar Azure tuvalleri oluşturmanıza nasıl yardımcı olduğunu öğrenin. Build Azure tuvalleri Canvas yazma eklentisi ile yayınlanıyor... Build Azure canvases with the Canvas authoring plugin Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt. The post Build Azure canvases with the Canvas authoring plugi... Microsoft Dev Cloud",
       "title_original": "Build Azure canvases with the Canvas authoring plugin",
       "summary_original": "Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt. The post Build Azure canvases with the Canvas authoring plugi...",
       "published_display": "2026-10-06",
@@ -112,24 +132,64 @@
       "id": "d20f7f5f130b"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "ReviewBench: Yapay zeka kod incelemesi için açık bir kıyaslama",
-      "summary": "Temsili GitHub çekme istekleri, çok kaynaklı temel gerçekler, kalibre edilmiş değerlendirme ve üretime uygun ölçümler üzerine kurulu, kod inceleme aracıları için bir kıyaslama olan ReviewBench'i piyasaya sürüyoruz. ReviewBench yazısı: A için açık bir kıyaslama...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Oracle, ChatGPT ve Codex ile çalışma günlerini nasıl dakikalara dönüştürüyor?",
+      "summary": "Oracle, işe alım, mühendislik ve operasyonlar genelinde uzmanlık bilgisini ChatGPT Work ve Codex ile hızlı, tekrarlanabilir iş akışlarına dönüştürüyor.",
+      "url": "https://openai.com/index/oracle",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-10-05T15:59:40Z",
+      "source": "OpenAI News",
+      "published_at": "2026-10-08T16:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "ReviewBench: Yapay zeka kod incelemesi için açık bir kıyaslama Temsili GitHub çekme istekleri, çok kaynaklı temel gerçekler, kalibre edilmiş değerlendirme ve üretime uygun ölçümler üzerine kurulu, kod inceleme aracıları için bir kıyaslama olan ReviewBench'i piyasaya sürüyoruz. ReviewBench yazısı: A için açık bir kıyaslama... ReviewBench: An open benchmark for AI code review We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for A... GitHub Dev Platform",
-      "title_original": "ReviewBench: An open benchmark for AI code review",
-      "summary_original": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for A...",
-      "published_display": "2026-10-05",
-      "id": "5aae03b81aff"
+      "keywords": "Oracle, ChatGPT ve Codex ile çalışma günlerini nasıl dakikalara dönüştürüyor? Oracle, işe alım, mühendislik ve operasyonlar genelinde uzmanlık bilgisini ChatGPT Work ve Codex ile hızlı, tekrarlanabilir iş akışlarına dönüştürüyor. How Oracle turns days of work into minutes with ChatGPT and Codex Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex. AI OpenAI Model",
+      "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary_original": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "published_display": "2026-10-08",
+      "id": "494cb711778a"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Pollo AI, OpenAI ile yaratıcı fikirleri kampanyalara dönüştürüyor",
+      "summary": "GPT-5.6, GPT-6 Astra ve GPT‑Image‑2.5 ile Pollo AI, içerik oluşturucuların cesur fikirleri ayrıntılı görsellere ve sinematik video reklamlara dönüştürmesine yardımcı olur.",
+      "url": "https://openai.com/index/pollo-ai",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-08T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Pollo AI, OpenAI ile yaratıcı fikirleri kampanyalara dönüştürüyor GPT-5.6, GPT-6 Astra ve GPT‑Image‑2.5 ile Pollo AI, içerik oluşturucuların cesur fikirleri ayrıntılı görsellere ve sinematik video reklamlara dönüştürmesine yardımcı olur. Pollo AI turns creative ideas into campaigns with OpenAI With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads. AI OpenAI Model",
+      "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary_original": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "published_display": "2026-10-08",
+      "id": "88a65f0673d0"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Yapay zekanın etkin olduğu \"yanlış cephe\" operasyonlarını kesintiye uğratmak",
+      "summary": "OpenAI, jeopolitik mesajları yaymak için sahte cepheli gazetecileri ve bir düşünce kuruluşunu kullanan iki yapay zeka destekli nüfuz operasyonunu sekteye uğrattı.",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-08T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Yapay zekanın etkin olduğu \"yanlış cephe\" operasyonlarını kesintiye uğratmak OpenAI, jeopolitik mesajları yaymak için sahte cepheli gazetecileri ve bir düşünce kuruluşunu kullanan iki yapay zeka destekli nüfuz operasyonunu sekteye uğrattı. Disrupting AI-enabled “false front” operations OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging. AI OpenAI Model",
+      "title_original": "Disrupting AI-enabled “false front” operations",
+      "summary_original": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "published_display": "2026-10-08",
+      "id": "dd3a2c6e0922"
     },
     {
       "category": "ai",
@@ -190,66 +250,6 @@
       "summary_original": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
       "published_display": "2026-10-07",
       "id": "c20855f12782"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Radisson Hotel Group, otel keşfini ChatGPT'ye taşıyor",
-      "summary": "Radisson, OpenAI teknolojisini kullanarak gezginlerin seyahatlerini planlarken otel bulmasına, karşılaştırmasına ve rezervasyon yapmasına yardımcı olan bir ChatGPT eklentisi oluşturmak için Accenture ile ortaklık kurdu.",
-      "url": "https://openai.com/index/radisson",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-07T07:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Radisson Hotel Group, otel keşfini ChatGPT'ye taşıyor Radisson, OpenAI teknolojisini kullanarak gezginlerin seyahatlerini planlarken otel bulmasına, karşılaştırmasına ve rezervasyon yapmasına yardımcı olan bir ChatGPT eklentisi oluşturmak için Accenture ile ortaklık kurdu. Radisson Hotel Group brings hotel discovery into ChatGPT Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips. AI OpenAI Model",
-      "title_original": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary_original": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "published_display": "2026-10-07",
-      "id": "87b1f6115ee3"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Herkes için GPT-6 ve Akıllı Kullanıcı Arayüzü",
-      "summary": "GPT‑6, Akıllı Kullanıcı Arayüzü ile ChatGPT'de küresel olarak kullanıma sunuluyor ve doğrudan keşfedip kullanabileceğiniz görseller ve etkileşimli deneyimlerle daha hızlı yanıtlar sunuyor.",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-07T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Herkes için GPT-6 ve Akıllı Kullanıcı Arayüzü GPT‑6, Akıllı Kullanıcı Arayüzü ile ChatGPT'de küresel olarak kullanıma sunuluyor ve doğrudan keşfedip kullanabileceğiniz görseller ve etkileşimli deneyimlerle daha hızlı yanıtlar sunuyor. GPT-6 and Intelligent UI for everyone GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. AI OpenAI Model",
-      "title_original": "GPT-6 and Intelligent UI for everyone",
-      "summary_original": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "published_display": "2026-10-07",
-      "id": "a6839b56229e"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Atlassian ve OpenAI, kurumsal bilgiyi eyleme dönüştürmek için ortaklığını genişletiyor",
-      "summary": "Atlassian ve OpenAI, sınır modellerini kurumsal bilgiyle birleştirmek ve ekiplerin işleri planlamasına, oluşturmasına ve teslim etmesine yardımcı olmak için ortaklıklarını genişletiyor.",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-06T16:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Atlassian ve OpenAI, kurumsal bilgiyi eyleme dönüştürmek için ortaklığını genişletiyor Atlassian ve OpenAI, sınır modellerini kurumsal bilgiyle birleştirmek ve ekiplerin işleri planlamasına, oluşturmasına ve teslim etmesine yardımcı olmak için ortaklıklarını genişletiyor. Atlassian and OpenAI expand partnership to turn enterprise knowledge into action Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work. AI OpenAI Model",
-      "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary_original": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "published_display": "2026-10-06",
-      "id": "498a67e26673"
     },
     {
       "category": "robotik",
@@ -314,6 +314,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Agile Robots CEO'su: 'Fiziksel yapay zeka otomotivden 10 kat daha büyük olacak' - Robotics & Automation News",
+      "summary": "Agile Robots CEO'su: 'Fiziksel yapay zeka otomotivden 10 kat daha büyük olacak' Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTk1YUIzR2VUeXpWNUVYZGhxejJXbmdZY2dyMjhWekpmdkluWkNLUzlZRUZKVlE1WWg1QlBDNnIySFJvMmxoNFcxV2tzcnFvNGV6bk1tVnBTNDR5akhqZV9XcHR6WEdMNVJKY1ZwS1lNQ0psYzFDTmlWZE5WeGoyQ3FTTWh4V3ZrLXlESjVzS2U0d0RzQ01zTEhzX3RTV1NYVDF5WXFiUERvWWFqUDY0cjFubkVfTGwxRVIweEpXdUVXTFlWTUE?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-06T09:18:42Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Agile Robots CEO'su: 'Fiziksel yapay zeka otomotivden 10 kat daha büyük olacak' - Robotics & Automation News Agile Robots CEO'su: 'Fiziksel yapay zeka otomotivden 10 kat daha büyük olacak' Robotik ve Otomasyon Haberleri Agile Robots CEO: ‘Physical AI is going to be 10x bigger than automotive’ - Robotics & Automation News Agile Robots CEO: ‘Physical AI is going to be 10x bigger than automotive’ Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Agile Robots CEO: ‘Physical AI is going to be 10x bigger than automotive’ - Robotics & Automation News",
+      "summary_original": "Agile Robots CEO: ‘Physical AI is going to be 10x bigger than automotive’ Robotics & Automation News",
+      "published_display": "2026-10-06",
+      "id": "fa39d5424f63"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal",
       "summary": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBBQm5sQjBYemM0OUMzWjNNZVVYbnhVcGhDQll6OE40Q0pWMUFhMGQ5dVczdk9JZzktcUxXYzJHQVI5U3dZbktaSHNkYVp6MkNJVGRrc2J3WlNoaGlnOG1NVl93ZmgzN2ZUU0RxTFpWVkFpa2U3RE45TXpUZy11OHo5aE5ZUW5IdnY1b21jZ3g4cEh6NmRZbw?oc=5",
@@ -334,8 +354,8 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan Üretimde İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak A3 Otomasyonu Geliştirme Derneği",
+      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV29vdXpSVXBmV09PR0tmb1lTMUhfVlN6bmVKUXZCZjd6RkxHS3hqNWxCRm14QWJDY3RNMHU0dk53NW90Rk00ODNPMlIyWkdWQ3Zhd1Z1LUJHdUZlZ1JsYlJXTG9ydUd3ZkVHNzFWNHREVGxEQWFuWGp5M3VFZWl6NU1KVkhObG03bUxRSkEtSnZYYlJvX2Zjb1l1ajcwZ2VncGVLSXNERGQ0RnhNcFVsQVU3Smlrc2pkQ1BOYk40M25vb1ZRaEJEQXVROXBYWDNlMUxGcWtKZTRBZnl0YWMtMHlwTTVNQzg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,31 +365,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan Üretimde İşgücü Eksikliğini Hedefleyen Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation",
       "summary_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation",
       "published_display": "2026-10-01",
-      "id": "c624cb0e0c0f"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "IMTS 2026, yapay zeka ve otomasyonun evrimini vurguluyor - Üretim Dalışı",
-      "summary": "IMTS 2026 yapay zeka ve otomasyonun evrimini vurguluyor Üretim Dalışı",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalpJOXZwY2E2bHVSMmxWdXB4eDdXVDVOalN2YnhxUnRhMnJ4ejFWRGRFMWotaTVpT0lMUlQ4MmlaVHpkWnJLbF9rSWlIMTgzeTZVT3NURG9DcnJyZkU0MDJFRkVjU25TV0dWZGZUakJ2ODNnWXJNaEx3elJRS25qM01UVVRQbU5YY0NGS2luajZqOEVoTzJwUlRQaEZqTnhEazJWeE5qVG5QQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-01T07:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "IMTS 2026, yapay zeka ve otomasyonun evrimini vurguluyor - Üretim Dalışı IMTS 2026 yapay zeka ve otomasyonun evrimini vurguluyor Üretim Dalışı IMTS 2026 highlights the evolution of AI and automation - Manufacturing Dive IMTS 2026 highlights the evolution of AI and automation Manufacturing Dive Robotics Automation Industry",
-      "title_original": "IMTS 2026 highlights the evolution of AI and automation - Manufacturing Dive",
-      "summary_original": "IMTS 2026 highlights the evolution of AI and automation Manufacturing Dive",
-      "published_display": "2026-10-01",
-      "id": "7430d1f3d212"
+      "id": "58a22a1d52b6"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma",
-      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu uzmanlaşmış yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
+      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
       "url": "https://blog.cloudflare.com/agentic-security-operations/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu uzmanlaşmış yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
+      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
       "title_original": "Building an evidence-grounded agentic security operations harness on Cloudflare",
       "summary_original": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded...",
       "published_display": "2026-10-07",
@@ -555,7 +555,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi",
-      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü.",
+      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü.",
       "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png",
       "source": "Cloudflare Security",
@@ -565,7 +565,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
+      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
       "title_original": "One year later: Sovereign AI and the fight for choice",
       "summary_original": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
       "published_display": "2026-10-01",
@@ -610,6 +610,26 @@
       "summary_original": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
       "published_display": "2026-09-29",
       "id": "5f4df7226861"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
+      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BVlM3NHdDR2wwRlpOakQ1RWN6NW94aEFsdTdfRnZ0SFJ4N1lIZldzTHNFbVpRVF9yT2hKWWZDUE13TFR0cThLZW5VUEpjRXZQNVM4bENIeGFhdm1wX0Z5cWdVZzFwcFZoQ0F1eUZON3B3cUhYWVHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-08T15:33:38Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
+      "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
+      "published_display": "2026-10-08",
+      "id": "987940410d24"
     },
     {
       "category": "kamera",
