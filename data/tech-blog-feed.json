@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme",
-      "summary": "Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,...",
+      "summary": "Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi geniş ölçekte uyarlanabilir hale nasıl getiriyor? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerel Mühendisliğine Özel İlk Yaklaşım'ın devamı niteliğindedir ve bu prensip,...",
       "url": "https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +65,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,... From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ... Microsoft Dev Cloud",
+      "keywords": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi geniş ölçekte uyarlanabilir hale nasıl getiriyor? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerel Mühendisliğine Özel İlk Yaklaşım'ın devamı niteliğindedir ve bu prensip,... From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ... Microsoft Dev Cloud",
       "title_original": "From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit",
       "summary_original": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ...",
       "published_display": "2026-10-07",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Canvas yazma eklentisiyle Azure tuvalleri oluşturun",
-      "summary": "Canvas yazma eklentisinin Microsoft Canvas Araç Seti ile salt okunur bir başlatıcıdan inceleyebileceğiniz, test edebileceğiniz ve uyarlayabileceğiniz çalışan bir uygulamaya kadar Azure tuvalleri oluşturmanıza nasıl yardımcı olduğunu öğrenin. Build Azure tuvalleri Canvas yazma eklentisi ile yayınlanıyor...",
+      "summary": "Canvas yazma eklentisinin Microsoft Canvas Araç Seti ile salt okunur bir başlatıcıdan inceleyebileceğiniz, test edebileceğiniz ve uyarlayabileceğiniz çalışan bir uygulamaya kadar Azure tuvalleri oluşturmanıza nasıl yardımcı olduğunu öğrenin. Build Azure tuvalleri Canvas yazma eklentisiyle yayınlanıyor...",
       "url": "https://devblogs.microsoft.com/blog/build-azure-canvases-with-canvas-authoring/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Canvas yazma eklentisiyle Azure tuvalleri oluşturun Canvas yazma eklentisinin Microsoft Canvas Araç Seti ile salt okunur bir başlatıcıdan inceleyebileceğiniz, test edebileceğiniz ve uyarlayabileceğiniz çalışan bir uygulamaya kadar Azure tuvalleri oluşturmanıza nasıl yardımcı olduğunu öğrenin. Build Azure tuvalleri Canvas yazma eklentisi ile yayınlanıyor... Build Azure canvases with the Canvas authoring plugin Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt. The post Build Azure canvases with the Canvas authoring plugi... Microsoft Dev Cloud",
+      "keywords": "Canvas yazma eklentisiyle Azure tuvalleri oluşturun Canvas yazma eklentisinin Microsoft Canvas Araç Seti ile salt okunur bir başlatıcıdan inceleyebileceğiniz, test edebileceğiniz ve uyarlayabileceğiniz çalışan bir uygulamaya kadar Azure tuvalleri oluşturmanıza nasıl yardımcı olduğunu öğrenin. Build Azure tuvalleri Canvas yazma eklentisiyle yayınlanıyor... Build Azure canvases with the Canvas authoring plugin Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt. The post Build Azure canvases with the Canvas authoring plugi... Microsoft Dev Cloud",
       "title_original": "Build Azure canvases with the Canvas authoring plugin",
       "summary_original": "Learn how the Canvas authoring plugin helps you build Azure canvases with Microsoft Canvas Toolkit, from a read-only starter to a working app you can inspect, test, and adapt. The post Build Azure canvases with the Canvas authoring plugi...",
       "published_display": "2026-10-06",
@@ -174,6 +174,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "LegalOn, geliştirme hızını korurken Codex maliyetlerini yarıya indirir",
+      "summary": "LegalOn, geliştirme hızını korurken tahmini günlük Codex maliyetlerini %65 oranında azalttı. Astra, Sol ve Luna'yı görevlerle eşleştirdi ve bütçeleri stratejik olarak yönetti.",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-08T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "LegalOn, geliştirme hızını korurken Codex maliyetlerini yarıya indirir LegalOn, geliştirme hızını korurken tahmini günlük Codex maliyetlerini %65 oranında azalttı. Astra, Sol ve Luna'yı görevlerle eşleştirdi ve bütçeleri stratejik olarak yönetti. LegalOn halves Codex costs while maintaining development speed LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically. AI OpenAI Model",
+      "title_original": "LegalOn halves Codex costs while maintaining development speed",
+      "summary_original": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "published_display": "2026-10-08",
+      "id": "02f9a66444e2"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Yapay zekanın etkin olduğu \"yanlış cephe\" operasyonlarını kesintiye uğratmak",
       "summary": "OpenAI, jeopolitik mesajları yaymak için sahte cepheli gazetecileri ve bir düşünce kuruluşunu kullanan iki yapay zeka destekli nüfuz operasyonunu sekteye uğrattı.",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
@@ -232,24 +252,44 @@
       "id": "c82f66a75e90"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Oyun Alanıyla Tanışın: Özel oyunlar yaratın ve oynayın",
-      "summary": "Playground, özel oyunlar oluşturmanıza, oynamanıza ve paylaşmanıza olanak tanıyan yeni bir deneysel oyun platformudur.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-07T12:00:00Z",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Otomasyon robotlarla değil üretim sonuçlarıyla başlar - Flextronics",
+      "summary": "Otomasyon robotlarla değil üretim sonuçlarıyla başlar Flextronics",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEVpSG9GTjFWb1UzSFQ2YjFfTnYzZVM0Q01XNDczZjRBTlZ5NlVYMEJRcHlsbWFUcnhKNVhoTEM1VG1tT1Q5NElvMFc0S2psbU5EdTlYcHJpakd4VVgybHRTVWtCdFh2QzdBWFh6OFdwSWE0NUE4eGZHS0Vua3BxMGdISlZvazNUUFlN?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-08T16:05:49Z",
       "tags": [
-        "AI",
-        "Product",
-        "Google"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Oyun Alanıyla Tanışın: Özel oyunlar yaratın ve oynayın Playground, özel oyunlar oluşturmanıza, oynamanıza ve paylaşmanıza olanak tanıyan yeni bir deneysel oyun platformudur. Introducing Playground: Create and play custom games Playground is a new experimental gaming platform that lets you create, play, and share custom games. AI Product Google",
-      "title_original": "Introducing Playground: Create and play custom games",
-      "summary_original": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "published_display": "2026-10-07",
-      "id": "c20855f12782"
+      "keywords": "Otomasyon robotlarla değil üretim sonuçlarıyla başlar - Flextronics Otomasyon robotlarla değil üretim sonuçlarıyla başlar Flextronics Automation starts with manufacturing outcomes, not robots - Flextronics Automation starts with manufacturing outcomes, not robots Flextronics Robotics Automation Industry",
+      "title_original": "Automation starts with manufacturing outcomes, not robots - Flextronics",
+      "summary_original": "Automation starts with manufacturing outcomes, not robots Flextronics",
+      "published_display": "2026-10-08",
+      "id": "96d380ee227b"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Stäubli Robotics, Avrupa satışlarının yeniden yapılandırılmasının ardından otomasyon zirvesine ev sahipliği yapacak - Robotik ve Otomasyon Haberleri",
+      "summary": "Stäubli Robotics, Avrupa satışlarının yeniden yapılandırılmasının ardından otomasyon zirvesine ev sahipliği yapacak Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDB0U0IyLW95cjM1dlU0bGtHS1JiU1hPZDdERlpCTFh2TjZacmt5U2l0NmV1clZkbGd0cjF4ajB2aUc1ZXJMazh6dzRZanJVMTRwRmwxZF9WTkV0NWhwOVVKYVpQRHJuY1RXQzc5YWZnNjVSeXBDRFZhQzFpT1N5U3RsME9QWkw4YkZuNHh1ckJQaVVlX1ZGeHNRbHlIVzZWd1o5cTY5Tm14Nm82Tzd2QkZYVW9QeEJuek1ObE92ZS11bjQ5U0tIV3dQckt5LWlRb1BBMQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-08T09:32:56Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Stäubli Robotics, Avrupa satışlarının yeniden yapılandırılmasının ardından otomasyon zirvesine ev sahipliği yapacak - Robotik ve Otomasyon Haberleri Stäubli Robotics, Avrupa satışlarının yeniden yapılandırılmasının ardından otomasyon zirvesine ev sahipliği yapacak Robotik ve Otomasyon Haberleri Stäubli Robotics to host automation summit following European sales restructuring - Robotics & Automation News Stäubli Robotics to host automation summit following European sales restructuring Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Stäubli Robotics to host automation summit following European sales restructuring - Robotics & Automation News",
+      "summary_original": "Stäubli Robotics to host automation summit following European sales restructuring Robotics & Automation News",
+      "published_display": "2026-10-08",
+      "id": "e2c6a196ef04"
     },
     {
       "category": "robotik",
@@ -332,46 +372,6 @@
       "id": "fa39d5424f63"
     },
     {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal",
-      "summary": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBBQm5sQjBYemM0OUMzWjNNZVVYbnhVcGhDQll6OE40Q0pWMUFhMGQ5dVczdk9JZzktcUxXYzJHQVI5U3dZbktaSHNkYVp6MkNJVGRrc2J3WlNoaGlnOG1NVl93ZmgzN2ZUU0RxTFpWVkFpa2U3RE45TXpUZy11OHo5aE5ZUW5IdnY1b21jZ3g4cEh6NmRZbw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-02T11:10:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? - The Motley Fool Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? The Motley Fool Robotics Automation Industry",
-      "title_original": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? - The Motley Fool",
-      "summary_original": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? The Motley Fool",
-      "published_display": "2026-10-02",
-      "id": "b42861c39bce"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV29vdXpSVXBmV09PR0tmb1lTMUhfVlN6bmVKUXZCZjd6RkxHS3hqNWxCRm14QWJDY3RNMHU0dk53NW90Rk00ODNPMlIyWkdWQ3Zhd1Z1LUJHdUZlZ1JsYlJXTG9ydUd3ZkVHNzFWNHREVGxEQWFuWGp5M3VFZWl6NU1KVkhObG03bUxRSkEtSnZYYlJvX2Zjb1l1ajcwZ2VncGVLSXNERGQ0RnhNcFVsQVU3Smlrc2pkQ1BOYk40M25vb1ZRaEJEQXVROXBYWDNlMUxGcWtKZTRBZnl0YWMtMHlwTTVNQzg?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-01T18:15:56Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "OnRobot, Dallas'ta Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Kıtlığını Hedef Alan Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak - A3 Otomasyonu Geliştirme Derneği OnRobot Dallas'ta Otomasyon Yol Haritası Etkinliğine Ev Sahipliği Yapacak ve Kuzey Teksas'ta Karşılaşılan İmalat İşgücü Eksikliklerini Hedef A3 Otomasyonu Geliştirme Derneği OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas - A3 Association for Advancing Automation",
-      "summary_original": "OnRobot to Host Automation Roadmap Event in Dallas, Targeting Manufacturing Labor Shortages Facing North Texas A3 Association for Advancing Automation",
-      "published_display": "2026-10-01",
-      "id": "58a22a1d52b6"
-    },
-    {
       "category": "web",
       "category_label": "Web Tasarimi",
       "title": "MDN MCP sunucusuyla tanışın",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformundaki yenilikler",
+      "title": "Nisan ayında web platformunda yeni",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "db925f61f795"
+      "id": "bed7d25dddcc"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma",
-      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
+      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu uzmanlaşmış yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
       "url": "https://blog.cloudflare.com/agentic-security-operations/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
+      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu uzmanlaşmış yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
       "title_original": "Building an evidence-grounded agentic security operations harness on Cloudflare",
       "summary_original": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded...",
       "published_display": "2026-10-07",
@@ -555,7 +555,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi",
-      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü.",
+      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü.",
       "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png",
       "source": "Cloudflare Security",
@@ -565,7 +565,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
+      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
       "title_original": "One year later: Sovereign AI and the fight for choice",
       "summary_original": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
       "published_display": "2026-10-01",
