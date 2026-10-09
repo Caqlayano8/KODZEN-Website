@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-08T17:02:52Z",
+  "updated_at": "2026-10-09T09:44:25Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilci Deneyimi (AX) Uygulayıcı Başucu Kitabıyla Tanışın",
+      "summary": "AI kodlama aracıları artık geliştiricileriniz için SDK'yı, sürümü ve modeli seçiyor. AX Uygulayıcının Başucu Kitabı, teknolojinizi doğru kullanıp kullanmadıklarını öğrenmek ve kullanamadıklarında güvendikleri kaynakları düzeltmek için kullandığımız yöntem...",
+      "url": "https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-10-09T09:44:25Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilci Deneyimi (AX) Uygulayıcı Başucu Kitabıyla Tanışın AI kodlama aracıları artık geliştiricileriniz için SDK'yı, sürümü ve modeli seçiyor. AX Uygulayıcının Başucu Kitabı, teknolojinizi doğru kullanıp kullanmadıklarını öğrenmek ve kullanamadıklarında güvendikleri kaynakları düzeltmek için kullandığımız yöntem... Introducing the Agent Experience (AX) Practitioner Playbook AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don... Microsoft Dev Cloud",
+      "title_original": "Introducing the Agent Experience (AX) Practitioner Playbook",
+      "summary_original": "AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don...",
+      "published_display": "2026-10-09",
+      "id": "e1a0a30865c6"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -55,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme",
-      "summary": "Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi geniş ölçekte uyarlanabilir hale nasıl getiriyor? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerel Mühendisliğine Özel İlk Yaklaşım'ın devamı niteliğindedir ve bu prensip,...",
+      "summary": "Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,...",
       "url": "https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,7 +85,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi geniş ölçekte uyarlanabilir hale nasıl getiriyor? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerel Mühendisliğine Özel İlk Yaklaşım'ın devamı niteliğindedir ve bu prensip,... From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ... Microsoft Dev Cloud",
+      "keywords": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,... From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ... Microsoft Dev Cloud",
       "title_original": "From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit",
       "summary_original": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ...",
       "published_display": "2026-10-07",
@@ -112,24 +132,24 @@
       "id": "8d1bd5e10fb9"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Temsilci Deneyimi (AX) Nedir?",
-      "summary": "Temsilciniz işlemin tamamlandığını ve kodun derlendiğini söylüyor ancak teknolojinizi mi seçti? Doğru kullandı mı? Temsilci Deneyiminin (AX) ne olduğunu, nasıl ölçüleceğini ve bariz düzeltmenin neden her zaman doğru olmadığını öğrenin. Agen Nedir yazısı...",
-      "url": "https://devblogs.microsoft.com/blog/what-is-agent-experience-ax/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Sophos, OpenAI Daybreak ile tehdit araştırma süresini %96 kısalttı",
+      "summary": "Sophos'un siber tehdit araştırma süresini %96 oranında azaltmak ve insan gözetimini korurken MDR vakalarının %52'sini otomatikleştirmek için OpenAI'nin Daybreak'ini nasıl kullandığını keşfedin.",
+      "url": "https://openai.com/index/sophos",
       "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-10-06T09:18:05Z",
+      "source": "OpenAI News",
+      "published_at": "2026-10-09T07:00:00Z",
       "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Temsilci Deneyimi (AX) Nedir? Temsilciniz işlemin tamamlandığını ve kodun derlendiğini söylüyor ancak teknolojinizi mi seçti? Doğru kullandı mı? Temsilci Deneyiminin (AX) ne olduğunu, nasıl ölçüleceğini ve bariz düzeltmenin neden her zaman doğru olmadığını öğrenin. Agen Nedir yazısı... What is Agent Experience (AX)? Your agent says it's done, and the code compiles, but did it pick your technology? Did it use it correctly? Learn what Agent Experience (AX) is, how to measure it, and why the obvious fix isn't always the right one. The post What is Agen... Microsoft Dev Cloud",
-      "title_original": "What is Agent Experience (AX)?",
-      "summary_original": "Your agent says it's done, and the code compiles, but did it pick your technology? Did it use it correctly? Learn what Agent Experience (AX) is, how to measure it, and why the obvious fix isn't always the right one. The post What is Agen...",
-      "published_display": "2026-10-06",
-      "id": "d20f7f5f130b"
+      "keywords": "Sophos, OpenAI Daybreak ile tehdit araştırma süresini %96 kısalttı Sophos'un siber tehdit araştırma süresini %96 oranında azaltmak ve insan gözetimini korurken MDR vakalarının %52'sini otomatikleştirmek için OpenAI'nin Daybreak'ini nasıl kullandığını keşfedin. Sophos cuts threat investigation time by 96% with OpenAI Daybreak Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight. AI OpenAI Model",
+      "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary_original": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "published_display": "2026-10-09",
+      "id": "ffd07b648f8e"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "affa74437fea"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Gençlerin yapay zekanın geleceğini öğrenmesine, planlamasına ve şekillendirmesine yardımcı oluyoruz",
-      "summary": "College Planner, yeni bilgi kartları, testler ve gençlere yönelik yapay zeka konseyinin yanı sıra öğrencilerin üniversite başvurularını yönetmelerine yardımcı olmak için ChatGPT for Teens'e geliyor.",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-07T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Gençlerin yapay zekanın geleceğini öğrenmesine, planlamasına ve şekillendirmesine yardımcı oluyoruz College Planner, yeni bilgi kartları, testler ve gençlere yönelik yapay zeka konseyinin yanı sıra öğrencilerin üniversite başvurularını yönetmelerine yardımcı olmak için ChatGPT for Teens'e geliyor. Helping teens learn, plan, and shape the future of AI College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council. AI OpenAI Model",
-      "title_original": "Helping teens learn, plan, and shape the future of AI",
-      "summary_original": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "published_display": "2026-10-07",
-      "id": "c82f66a75e90"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Otomasyon robotlarla değil üretim sonuçlarıyla başlar - Flextronics",
@@ -294,26 +294,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Elektrik Motoru Üretim Anını Yaşıyor - Otomasyon Dünyası",
-      "summary": "Elektrik Motoru Üretim Anını Yaşıyor Otomasyon Dünyası",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWU9rQ1FXbXBXQ1BiV0lKc3VQVWhvZUxITUFyZ3pURkxObWZqSXl3TmlSN0c2anp2MkxXRksxOURUejVmVlpvYTI5NFZjS1NubE8zWGJqdG5FVWVwQWg3MWRibkV6bGl6R2JPOW9UOFVPVmI4VDZIR0lLaTc4VnBEVGdtX2Y3a1BlNGwwUUUxM3lZYWhXLV9xY0hMTVY5S0U4d2pEa2tHN1R6eUJ0MWtRdFV0UWoxTHpaXzdVRUJnWEZGY2pUNnVfcFNR?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-07T17:51:52Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Elektrik Motoru Üretim Anını Yaşıyor - Otomasyon Dünyası Elektrik Motoru Üretim Anını Yaşıyor Otomasyon Dünyası The Electric Motor Is Having Its Manufacturing Moment - Automation World The Electric Motor Is Having Its Manufacturing Moment Automation World Robotics Automation Industry",
-      "title_original": "The Electric Motor Is Having Its Manufacturing Moment - Automation World",
-      "summary_original": "The Electric Motor Is Having Its Manufacturing Moment Automation World",
-      "published_display": "2026-10-07",
-      "id": "3beb040e05dc"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXRzTmczdk9IZEVaUkdqMHM4Wk5vWWF6eXBrb3ZYcTdqSEk4cWhMRVZ0WFI2WGhvQ2d0SmVpSlBxcGFrTEtLNF9HUE9rb2VSNFFIV0J5b2pxcTQzeU5CS3h2djdJR3otODN3UmhybklkYUhDN1J4dkh3WVFDTVh1Wmd4TDBQWXZYUmVGd3E4aGZ6UUdUM1o0R1VpS1JhajRmcENNN2pOOGxqRHRvWUF0MGtIVk0zTjNPWkpv?oc=5",
@@ -334,26 +314,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Omnivision, Yeni Görüntü Sensörleriyle Endüstriyel Otomasyona, Akıllı Araçlara ve Robotiğe Göz Atıyor - Hackster.io",
-      "summary": "Omnivision Yeni Görüntü Sensörleriyle Endüstriyel Otomasyona, Akıllı Araçlara ve Robotiğe Göz Atıyor Hackster.io",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSjRGMDdHT0Z2eWl0VXh0a1VzY2l4ZFJyQW91dXZwMElvUTVsNzYtWlhjUjJ1UkdKY0FabzlPd2ZnRUZHUjFaWFFJNHhzUlY4ZzE4UmJkVHlZT3B1WF9mQnQwbzU1MmRja2pBc3ZTZFUtYnZibkJDZkhaYl9xWDQ5SlJSelNOVllnb2diU20zWkJLVnZvSDl1YU96NUhQdVJUQXV0a0pqUl9PS0xGcXBXMUFZS1NuSUZyaks0ZUdfSWhRS0ItSXVrQllwaXRlVklrdk42Y2N2UQ?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-06T13:27:38Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Omnivision, Yeni Görüntü Sensörleriyle Endüstriyel Otomasyona, Akıllı Araçlara ve Robotiğe Göz Atıyor - Hackster.io Omnivision Yeni Görüntü Sensörleriyle Endüstriyel Otomasyona, Akıllı Araçlara ve Robotiğe Göz Atıyor Hackster.io Omnivision Has Its Eye on Industrial Automation, Smart Vehicles, and Robotics with New Image Sensors - Hackster.io Omnivision Has Its Eye on Industrial Automation, Smart Vehicles, and Robotics with New Image Sensors Hackster.io Robotics Automation Industry",
-      "title_original": "Omnivision Has Its Eye on Industrial Automation, Smart Vehicles, and Robotics with New Image Sensors - Hackster.io",
-      "summary_original": "Omnivision Has Its Eye on Industrial Automation, Smart Vehicles, and Robotics with New Image Sensors Hackster.io",
-      "published_display": "2026-10-06",
-      "id": "95038187155a"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Agile Robots CEO'su: 'Fiziksel yapay zeka otomotivden 10 kat daha büyük olacak' - Robotics & Automation News",
       "summary": "Agile Robots CEO'su: 'Fiziksel yapay zeka otomotivden 10 kat daha büyük olacak' Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTk1YUIzR2VUeXpWNUVYZGhxejJXbmdZY2dyMjhWekpmdkluWkNLUzlZRUZKVlE1WWg1QlBDNnIySFJvMmxoNFcxV2tzcnFvNGV6bk1tVnBTNDR5akhqZV9XcHR6WEdMNVJKY1ZwS1lNQ0psYzFDTmlWZE5WeGoyQ3FTTWh4V3ZrLXlESjVzS2U0d0RzQ01zTEhzX3RTV1NYVDF5WXFiUERvWWFqUDY0cjFubkVfTGwxRVIweEpXdUVXTFlWTUE?oc=5",
@@ -370,6 +330,46 @@
       "summary_original": "Agile Robots CEO: ‘Physical AI is going to be 10x bigger than automotive’ Robotics & Automation News",
       "published_display": "2026-10-06",
       "id": "fa39d5424f63"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Teradyne, yapay zeka altyapı üretimine robot teknolojisi getirmek için Bright Machines'e yatırım yapıyor - Robot Raporu",
+      "summary": "Teradyne, yapay zeka altyapı üretimine robot teknolojisi getirmek için Bright Machines'e yatırım yapıyor Robot Raporu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFpVU05md1Q1d1N0MjhlMFhtamY2VERoVmIxSzNkemJpMk9jbG81bDZidkt5YXVsMVRGT2k1ZnhHZjNqSjU0OWJtcURTYlRQMXZEa2ZaNzh5X3JHUzEwQ3diVFBNdzZZazNHS2NOMWxDTjRNaHIxSk9qSVBaUUVLOGJiTFJxVWJHSmxHR1Iyc0JBSFRRU3FreXFmM3VJY2ExQW5CMTdKMWVxV282a1M1alE3Yw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-06T02:01:56Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Teradyne, yapay zeka altyapı üretimine robot teknolojisi getirmek için Bright Machines'e yatırım yapıyor - Robot Raporu Teradyne, yapay zeka altyapı üretimine robot teknolojisi getirmek için Bright Machines'e yatırım yapıyor Robot Raporu Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing The Robot Report Robotics Automation Industry",
+      "title_original": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report",
+      "summary_original": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing The Robot Report",
+      "published_display": "2026-10-06",
+      "id": "f31725ade77c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal",
+      "summary": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBBQm5sQjBYemM0OUMzWjNNZVVYbnhVcGhDQll6OE40Q0pWMUFhMGQ5dVczdk9JZzktcUxXYzJHQVI5U3dZbktaSHNkYVp6MkNJVGRrc2J3WlNoaGlnOG1NVl93ZmgzN2ZUU0RxTFpWVkFpa2U3RE45TXpUZy11OHo5aE5ZUW5IdnY1b21jZ3g4cEh6NmRZbw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-02T11:10:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? - Rengarenk Aptal Tesla'yı Unutup Bunun Yerine Bu 3 Robotik Hisse Senetini mi Almalısınız? Rengarenk Aptal Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? - The Motley Fool Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? The Motley Fool Robotics Automation Industry",
+      "title_original": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? - The Motley Fool",
+      "summary_original": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? The Motley Fool",
+      "published_display": "2026-10-02",
+      "id": "b42861c39bce"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Nisan ayında web platformunda yeni",
+      "title": "Nisan ayında web platformundaki yenilikler",
       "summary": "Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-04-2026?hl=en",
       "image_url": null,
@@ -445,11 +445,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Nisan ayında web platformunda yeni Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
+      "keywords": "Nisan ayında web platformundaki yenilikler Nisan 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in April Discover some of the interesting features that have landed in stable and beta web browsers during April 2026. Web Performance Frontend",
       "title_original": "New to the web platform in April",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during April 2026.",
       "published_display": "2026-04-24",
-      "id": "bed7d25dddcc"
+      "id": "db925f61f795"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma",
-      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu uzmanlaşmış yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
+      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
       "url": "https://blog.cloudflare.com/agentic-security-operations/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu uzmanlaşmış yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
+      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
       "title_original": "Building an evidence-grounded agentic security operations harness on Cloudflare",
       "summary_original": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded...",
       "published_display": "2026-10-07",
@@ -555,7 +555,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi",
-      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü.",
+      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü.",
       "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png",
       "source": "Cloudflare Security",
@@ -565,7 +565,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
+      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
       "title_original": "One year later: Sovereign AI and the fight for choice",
       "summary_original": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
       "published_display": "2026-10-01",
