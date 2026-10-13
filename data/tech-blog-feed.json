@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T16:00:00Z",
+  "updated_at": "2026-10-13T17:56:33Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,26 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub'ın gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma",
+      "summary": "GitHub'ın bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve...",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-13T17:56:33Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub'ın gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma GitHub'ın bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve... GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a... GitHub Dev Platform",
+      "title_original": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "summary_original": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a...",
+      "published_display": "2026-10-13",
+      "id": "32bab5040ec8"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -112,26 +132,6 @@
       "id": "f34b2fae1b6f"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme",
-      "summary": "Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,...",
-      "url": "https://devblogs.microsoft.com/blog/from-spec-first-to-enterprise-ready-extending-github-spec-kit/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-10-07T15:00:26Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "Spec-First'ten Enterprise-Ready'e: GitHub Spec Kit'i Genişletme Ön ayarlar, uzantılar, paketler, iş akışları ve yönetilen kataloglar, Spesifikasyon Odaklı Geliştirmeyi ölçeğe göre nasıl uyarlanabilir hale getirir? Bu makale, Spesifikasyon Odaklı Geliştirme: Yapay Zeka Yerli Mühendisliğine Özel İlk Yaklaşım'ın devamını sağlar ve bu prensip,... From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ... Microsoft Dev Cloud",
-      "title_original": "From Spec-First to Enterprise-Ready: Extending GitHub Spec Kit",
-      "summary_original": "How presets, extensions, bundles, workflows, and governed catalogs make Spec-Driven Development adaptable at scale This article continues Spec-Driven Development: A Spec-First Approach to AI-Native Engineering, which introduced the princ...",
-      "published_display": "2026-10-07",
-      "id": "7f2b4b8a7d6d"
-    },
-    {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Gemini 4 Argon: En zor sorunlarınızı çözmek için tasarlandı",
@@ -150,6 +150,26 @@
       "summary_original": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
       "published_display": "2026-10-13",
       "id": "09e0470b148c"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Higgsfield AI videosunu 1 dakikadan 10 dakikanın üzerine çıkarıyor",
+      "summary": "Higgsfield, yaratıcılara GPT-6 Astra ile daha uzun videolar, GPT-Image-2.5 ile hassas görseller ve GPT-Live ile sesli film yapımına giden yolu sunuyor.",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-13T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Higgsfield AI videosunu 1 dakikadan 10 dakikanın üzerine çıkarıyor Higgsfield, yaratıcılara GPT-6 Astra ile daha uzun videolar, GPT-Image-2.5 ile hassas görseller ve GPT-Live ile sesli film yapımına giden yolu sunuyor. Higgsfield takes AI video from 1 minute to over 10 Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live. AI OpenAI Model",
+      "title_original": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary_original": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "published_display": "2026-10-13",
+      "id": "c19dcc7e78ec"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "88a65f0673d0"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "LegalOn, geliştirme hızını korurken Codex maliyetlerini yarıya indirir",
-      "summary": "LegalOn, geliştirme hızını korurken tahmini günlük Codex maliyetlerini %65 oranında azalttı. Astra, Sol ve Luna'yı görevlerle eşleştirdi ve bütçeleri stratejik olarak yönetti.",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-08T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "LegalOn, geliştirme hızını korurken Codex maliyetlerini yarıya indirir LegalOn, geliştirme hızını korurken tahmini günlük Codex maliyetlerini %65 oranında azalttı. Astra, Sol ve Luna'yı görevlerle eşleştirdi ve bütçeleri stratejik olarak yönetti. LegalOn halves Codex costs while maintaining development speed LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically. AI OpenAI Model",
-      "title_original": "LegalOn halves Codex costs while maintaining development speed",
-      "summary_original": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "published_display": "2026-10-08",
-      "id": "02f9a66444e2"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Küçük Üreticiler Robotics'in Bir Sonraki Büyük Pazarıdır. Peki Onları Geride Tutan Ne? - A3 Otomasyonu Geliştirme Derneği",
@@ -259,7 +259,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTdPQS1BZElqWWFyYmJZT0RFZjVHX3lyVWl2Um5DSXpnSUtFLS11ZkN5Y091R0Z4MnFPWE1IMDZheTZZSXcxNUlkM3oycUtLNWwtcnRPZjVtVFVXQXNQd3UzdjJvQ3JmOW45SEJhWlpGUzVnOE5GZVA4NXVFLWllVTExWVpoZngwaXlFcFdTYTh5T2JLSF8xakx0UzBQcFVwQUctVE5PM0JfTE5UTnBlYmY3c0FyUXhOSEVVLU1uYVlzc3BReVZ6b201ZEVxSUZ2TFBhc3N3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-13T11:00:45Z",
+      "published_at": "2026-10-13T16:52:30Z",
       "tags": [
         "Robotics",
         "Automation",
@@ -574,6 +574,26 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
+      "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-12T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
+      "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
+      "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
+      "published_display": "2026-10-12",
+      "id": "33214d55f737"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
       "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
@@ -590,26 +610,6 @@
       "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
       "published_display": "2026-10-11",
       "id": "a63b87253590"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
-      "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-11T00:30:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
-      "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
-      "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
-      "published_display": "2026-10-11",
-      "id": "33214d55f737"
     },
     {
       "category": "kamera",
