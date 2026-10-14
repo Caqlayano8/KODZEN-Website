@@ -1,21 +1,41 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T19:11:33Z",
-  "total_posts": 34,
+  "updated_at": "2026-10-14T20:01:35Z",
+  "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 4,
     "siber": 6,
-    "kamera": 6
+    "kamera": 0
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history with...",
+      "title": "GitHub kullanılabilirlik raporu: Eylül 2026",
+      "summary": "Eylül ayında GitHub hizmetlerinde performansın düşmesine neden olan iki olay yaşadık. GitHub kullanılabilirlik raporu: Eylül 2026 ilk olarak The GitHub Blog'da yayınlandı.",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-14T20:01:35Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub kullanılabilirlik raporu: Eylül 2026 Eylül ayında GitHub hizmetlerinde performansın düşmesine neden olan iki olay yaşadık. GitHub kullanılabilirlik raporu: Eylül 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: September 2026 In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub availability report: September 2026",
+      "summary_original": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .",
+      "published_display": "2026-10-14",
+      "id": "8c9e76c2938f"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "2.500 istekten 24'e: Yıldız tarihini yıldız gözlemcileri olmadan yeniden inşa etmek",
+      "summary": "Yeni repo yıldız geçmişi API'miz artık bireysel kimlikleri döndürmeden veya sınırsız veritabanı çalışması gerektirmeden trendler sağlıyor. Bunlar yaptığımız mühendislik değiş tokuşları. Gönderi 2.500 istekten 24'e: Yıldız geçmişini yeniden inşa etmek...",
       "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,17 +45,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "From 2,500 requests to 24: Rebuilding star history without the stargazers Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history with... From 2,500 requests to 24: Rebuilding star history without the stargazers Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history with... GitHub Dev Platform",
+      "keywords": "2.500 istekten 24'e: Yıldız tarihini yıldız gözlemcileri olmadan yeniden inşa etmek Yeni repo yıldız geçmişi API'miz artık bireysel kimlikleri döndürmeden veya sınırsız veritabanı çalışması gerektirmeden trendler sağlıyor. Bunlar yaptığımız mühendislik değiş tokuşları. Gönderi 2.500 istekten 24'e: Yıldız geçmişini yeniden inşa etmek... From 2,500 requests to 24: Rebuilding star history without the stargazers Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history with... GitHub Dev Platform",
       "title_original": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
       "summary_original": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history with...",
       "published_display": "2026-10-14",
-      "id": "a9bb8f41b7b1"
+      "id": "fa82b82f4bf3"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a...",
+      "title": "GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma",
+      "summary": "GitHub'un bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve...",
       "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,17 +65,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a... GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a... GitHub Dev Platform",
+      "keywords": "GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma GitHub'un bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve... GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a... GitHub Dev Platform",
       "title_original": "GitHub’s model for secret detection: Finding more secrets with less noise",
       "summary_original": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a...",
       "published_display": "2026-10-13",
-      "id": "fb81a39c56bc"
+      "id": "37cfab65485b"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The Git...",
+      "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl bilgi verilir?",
+      "summary": "Deponuza özel talimatları ve becerileri nasıl ekleyeceğinizi, özel aracıları nasıl kullanacağınızı ve Playwright gibi MCP sunucularına nasıl bağlanacağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl öğretilir yazısı ilk olarak Git'te yayınlandı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,17 +85,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The Git... GitHub Copilot app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The Git... GitHub Dev Platform",
+      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl bilgi verilir? Deponuza özel talimatları ve becerileri nasıl ekleyeceğinizi, özel aracıları nasıl kullanacağınızı ve Playwright gibi MCP sunucularına nasıl bağlanacağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl öğretilir yazısı ilk olarak Git'te yayınlandı... GitHub Copilot app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The Git... GitHub Dev Platform",
       "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
       "summary_original": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The Git...",
       "published_display": "2026-10-12",
-      "id": "6d1770356bb1"
+      "id": "1eb251e676f1"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Hack the World: Why hackathons are still the best place to learn to build",
-      "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Bl...",
+      "title": "Dünyayı Hackleyin: Hackathon'lar neden hâlâ inşaat yapmayı öğrenmek için en iyi yer?",
+      "summary": "Yazılım geliştirmenin önündeki engeller çöktü. Bugün herkes inşa edebilir. Hackathon'lar öğrenmeye başlamak için harika bir yerdir. Hack the World: Hackathon'lar neden inşaat yapmayı öğrenmek için hala en iyi yer? yazısı ilk olarak The GitHub Bl'de çıktı.",
       "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,17 +105,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Hack the World: Why hackathons are still the best place to learn to build The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Bl... Hack the World: Why hackathons are still the best place to learn to build The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Bl... GitHub Dev Platform",
+      "keywords": "Dünyayı Hackleyin: Hackathon'lar neden hâlâ inşaat yapmayı öğrenmek için en iyi yer? Yazılım geliştirmenin önündeki engeller çöktü. Bugün herkes inşa edebilir. Hackathon'lar öğrenmeye başlamak için harika bir yerdir. Hack the World: Hackathon'lar neden inşaat yapmayı öğrenmek için hala en iyi yer? yazısı ilk olarak The GitHub Bl'de çıktı. Hack the World: Why hackathons are still the best place to learn to build The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Bl... GitHub Dev Platform",
       "title_original": "Hack the World: Why hackathons are still the best place to learn to build",
       "summary_original": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Bl...",
       "published_display": "2026-10-09",
-      "id": "fe7824f55e46"
+      "id": "a4bf773200ee"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Introducing the Agent Experience (AX) Practitioner Playbook",
-      "summary": "AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don...",
+      "title": "Temsilci Deneyimi (AX) Uygulayıcı Başucu Kitabıyla Tanışın",
+      "summary": "AI kodlama aracıları artık geliştiricileriniz için SDK'yı, sürümü ve modeli seçiyor. AX Uygulayıcının Başucu Kitabı, teknolojinizi doğru kullanıp kullanmadıklarını öğrenmek ve kullanamadıklarında güvendikleri kaynakları düzeltmek için kullandığımız yöntem...",
       "url": "https://devblogs.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,37 +125,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Introducing the Agent Experience (AX) Practitioner Playbook AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don... Introducing the Agent Experience (AX) Practitioner Playbook AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don... Microsoft Dev Cloud",
+      "keywords": "Temsilci Deneyimi (AX) Uygulayıcı Başucu Kitabıyla Tanışın AI kodlama aracıları artık geliştiricileriniz için SDK'yı, sürümü ve modeli seçiyor. AX Uygulayıcının Başucu Kitabı, teknolojinizi doğru kullanıp kullanmadıklarını öğrenmek ve kullanamadıklarında güvendikleri kaynakları düzeltmek için kullandığımız yöntem... Introducing the Agent Experience (AX) Practitioner Playbook AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don... Microsoft Dev Cloud",
       "title_original": "Introducing the Agent Experience (AX) Practitioner Playbook",
       "summary_original": "AI coding agents now pick the SDK, the version, and the pattern for your developers. The AX Practitioner Playbook is our method for finding out whether they get your technology right, and for fixing the sources they rely on when they don...",
       "published_display": "2026-10-09",
-      "id": "ccb3fcbcb4da"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "How one bug bounty researcher chooses the features they investigate",
-      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features the...",
-      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-10-08T17:02:52Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "How one bug bounty researcher chooses the features they investigate As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features the... How one bug bounty researcher chooses the features they investigate As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features the... GitHub Dev Platform",
-      "title_original": "How one bug bounty researcher chooses the features they investigate",
-      "summary_original": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features the...",
-      "published_display": "2026-10-08",
-      "id": "afcd02288386"
+      "id": "e1a0a30865c6"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-      "summary": "General Science",
+      "title": "Research@ 2026: İnsanın yaratıcılığını güçlendirmenin 10 yolu",
+      "summary": "Genel Bilim",
       "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/USS0291-Google_Research_Anthem_Film_Thumbnail4_1.jpg",
       "source": "Google Research Blog",
@@ -145,17 +145,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Research@ 2026: 10 ways we're amplifying human ingenuity General Science Research@ 2026: 10 ways we're amplifying human ingenuity General Science AI Research Google",
+      "keywords": "Research@ 2026: İnsanın yaratıcılığını güçlendirmenin 10 yolu Genel Bilim Research@ 2026: 10 ways we're amplifying human ingenuity General Science AI Research Google",
       "title_original": "Research@ 2026: 10 ways we're amplifying human ingenuity",
       "summary_original": "General Science",
       "published_display": "2026-10-14",
-      "id": "00d04074e0a2"
+      "id": "b01e76513fed"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-      "summary": "Earth AI",
+      "title": "Earth AI'yi işe koymak: Gezegenimizin en büyük zorlukları için jeouzaysal ajanlar",
+      "summary": "Dünya Yapay Zekası",
       "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
       "source": "Google Research Blog",
@@ -165,17 +165,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges Earth AI Putting Earth AI to work: Geospatial agents for our planet's biggest challenges Earth AI AI Research Google",
+      "keywords": "Earth AI'yi işe koymak: Gezegenimizin en büyük zorlukları için jeouzaysal ajanlar Dünya Yapay Zekası Putting Earth AI to work: Geospatial agents for our planet's biggest challenges Earth AI AI Research Google",
       "title_original": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
       "summary_original": "Earth AI",
       "published_display": "2026-10-14",
-      "id": "dee08bb6637a"
+      "id": "641436848caf"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Analyzing technical documents with Deep Review",
-      "summary": "General Science",
+      "title": "Derin İnceleme ile teknik belgeleri analiz etme",
+      "summary": "Genel Bilim",
       "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepReview2.jpg",
       "source": "Google Research Blog",
@@ -185,17 +185,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Analyzing technical documents with Deep Review General Science Analyzing technical documents with Deep Review General Science AI Research Google",
+      "keywords": "Derin İnceleme ile teknik belgeleri analiz etme Genel Bilim Analyzing technical documents with Deep Review General Science AI Research Google",
       "title_original": "Analyzing technical documents with Deep Review",
       "summary_original": "General Science",
       "published_display": "2026-10-14",
-      "id": "0322f20a468d"
+      "id": "4f87e0172d22"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "title": "Amp, AI aracılarının OpenAI modelleriyle kodun ötesinde çalışmasını sağlar",
+      "summary": "Amp'in temsilcilerin GPT-6 Astra, Ultrafast, GPT-Live-1 ve ChatGPT ile oturum açma ile yapabileceklerinin sınırlarını nasıl zorladığını görün.",
       "url": "https://openai.com/index/amp-beyond-coding",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,17 +205,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Amp puts AI agents to work beyond code with OpenAI models See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT. Amp puts AI agents to work beyond code with OpenAI models See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT. AI OpenAI Model",
+      "keywords": "Amp, AI aracılarının OpenAI modelleriyle kodun ötesinde çalışmasını sağlar Amp'in temsilcilerin GPT-6 Astra, Ultrafast, GPT-Live-1 ve ChatGPT ile oturum açma ile yapabileceklerinin sınırlarını nasıl zorladığını görün. Amp puts AI agents to work beyond code with OpenAI models See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT. AI OpenAI Model",
       "title_original": "Amp puts AI agents to work beyond code with OpenAI models",
       "summary_original": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "published_display": "2026-10-14",
-      "id": "3bae87590aeb"
+      "id": "7ac101a2fcc0"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "title": "SentinelOne kötü amaçlı yazılım analizini haftalardan saatlere indiriyor",
+      "summary": "OpenAI Daybreak ile SentinelOne, haftalarca süren kötü amaçlı yazılım analizini saatlere indirerek daha fazla tehdidi araştırma kapasitesi yaratır.",
       "url": "https://openai.com/index/sentinelone",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,17 +225,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "SentinelOne cuts malware analysis from weeks to hours With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats. SentinelOne cuts malware analysis from weeks to hours With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats. AI OpenAI Model",
+      "keywords": "SentinelOne kötü amaçlı yazılım analizini haftalardan saatlere indiriyor OpenAI Daybreak ile SentinelOne, haftalarca süren kötü amaçlı yazılım analizini saatlere indirerek daha fazla tehdidi araştırma kapasitesi yaratır. SentinelOne cuts malware analysis from weeks to hours With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats. AI OpenAI Model",
       "title_original": "SentinelOne cuts malware analysis from weeks to hours",
       "summary_original": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
       "published_display": "2026-10-14",
-      "id": "2349e2e95224"
+      "id": "51bc82967b63"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "title": "Third Moment Research 10.000 temsilciyi 36 saatten fazla nasıl çalıştırıyor?",
+      "summary": "Siber güvenlik için GPT-6 Astra ve GPT-6.1 Sol, Codex ve Daybreak ile bu yapay zeka laboratuvarı, günlerce odaklanan ve kullandıkça gelişen aracılar oluşturur.",
       "url": "https://openai.com/index/third-moment-research",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,37 +245,37 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "How Third Moment Research runs 10,000 agents for 36+ hours With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use. How Third Moment Research runs 10,000 agents for 36+ hours With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use. AI OpenAI Model",
+      "keywords": "Third Moment Research 10.000 temsilciyi 36 saatten fazla nasıl çalıştırıyor? Siber güvenlik için GPT-6 Astra ve GPT-6.1 Sol, Codex ve Daybreak ile bu yapay zeka laboratuvarı, günlerce odaklanan ve kullandıkça gelişen aracılar oluşturur. How Third Moment Research runs 10,000 agents for 36+ hours With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use. AI OpenAI Model",
       "title_original": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "summary_original": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "published_display": "2026-10-14",
-      "id": "4dd16e03400a"
+      "id": "6aa593bcd754"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDlEU1hhb1lETDI2NVdraE9BbGd4d2FyaUNqc21ROG9waFRxalhzNzFCS2tBOV8yQ0NIMDA2bndGLW0zcldZVzZzNnJVWFlXZE81Y0RFVVczTHFuWG1ISFhvc1RvbFlFUHQxaVJzcmdjby1ManBKM0dhRXdXeXE2UE1NZ2RxSUlEVjhNNzJSN0czeUVVU0dVc3YtY2dDRjNuNFExMzA0YlA?oc=5",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDRpUmJtanVlREYwRGlfcV9qdGJVOHpwZFl2M2J2ZlFRdEtIeWJmNUI2Z3ctNGhsaVBxaDE3ZWZpTkJJRnZIenFuVUJIdXZmbEE2MlFtQ0hUeW5UVWM4Yy1pZkEzQXpPb0tIaURJTmZseFpfMXR4b2xlMjNJMVpNQ0FHT2l1bVZLZzVENFZ3WC1KTUU1eXRLWHBtOWRxZUNJQ2tzbnpPdjFoMlBIcUE?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-14T14:00:30Z",
+      "published_at": "2026-10-14T19:14:02Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-10-14",
-      "id": "f1083f249637"
+      "id": "5c8f46eb37fd"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This - 매일경제",
-      "summary": "The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This 매일경제",
+      "title": "Üretim otomasyonunun ağırlık merkezi sabit tesislerden robotlara kayıyor. Bu - 매일경제",
+      "summary": "Üretim otomasyonunun ağırlık merkezi sabit tesislerden robotlara kayıyor. Bu 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YckkyNFVOeWtNZTdwZHVabE9ZenVLbmgzUTRyVktlSXRaSmotNFhEUWJXdk1kbS1JaHVyU2o5SDlMMGthQ2Q5MXJDYzh1MEZJaEJz?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,17 +285,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This - 매일경제 The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This 매일경제 The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This - 매일경제 The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This 매일경제 Robotics Automation Industry",
+      "keywords": "Üretim otomasyonunun ağırlık merkezi sabit tesislerden robotlara kayıyor. Bu - 매일경제 Üretim otomasyonunun ağırlık merkezi sabit tesislerden robotlara kayıyor. Bu 매일경제 The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This - 매일경제 The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This 매일경제 Robotics Automation Industry",
       "title_original": "The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This - 매일경제",
       "summary_original": "The center of gravity of manufacturing automation is shifting from fixed facilities to robots. This 매일경제",
       "published_display": "2026-10-14",
-      "id": "168cd549384c"
+      "id": "0a81a0c464ff"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? - A3 Association for Advancing Automation",
-      "summary": "Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? A3 Association for Advancing Automation",
+      "title": "Küçük Üreticiler Robotics'in Bir Sonraki Büyük Pazarıdır. Peki Onları Geride Tutan Ne? - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Küçük Üreticiler Robotics'in Bir Sonraki Büyük Pazarıdır. Peki Onları Geride Tutan Ne? A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTdPQS1BZElqWWFyYmJZT0RFZjVHX3lyVWl2Um5DSXpnSUtFLS11ZkN5Y091R0Z4MnFPWE1IMDZheTZZSXcxNUlkM3oycUtLNWwtcnRPZjVtVFVXQXNQd3UzdjJvQ3JmOW45SEJhWlpGUzVnOE5GZVA4NXVFLWllVTExWVpoZngwaXlFcFdTYTh5T2JLSF8xakx0UzBQcFVwQUctVE5PM0JfTE5UTnBlYmY3c0FyUXhOSEVVLU1uYVlzc3BReVZ6b201ZEVxSUZ2TFBhc3N3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,18 +305,18 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? - A3 Association for Advancing Automation Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? A3 Association for Advancing Automation Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? - A3 Association for Advancing Automation Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Küçük Üreticiler Robotics'in Bir Sonraki Büyük Pazarıdır. Peki Onları Geride Tutan Ne? - A3 Otomasyonu Geliştirme Derneği Küçük Üreticiler Robotics'in Bir Sonraki Büyük Pazarıdır. Peki Onları Geride Tutan Ne? A3 Otomasyonu Geliştirme Derneği Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? - A3 Association for Advancing Automation Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? - A3 Association for Advancing Automation",
       "summary_original": "Small Manufacturers Are Robotics' Next Big Market. So What's Holding Them Back? A3 Association for Advancing Automation",
       "published_display": "2026-10-13",
-      "id": "4843fd07b7d9"
+      "id": "ad3910327cf0"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research - PR Newswire",
-      "summary": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPQmRWNUNua0FET0xKNFg4SkVOQmZXVTVudnVleS0wLVlMaUkycmJfZndVN0xmV3g2ZVVYS3FsR2s0Z213Q1FGTHZvazJfT1JGQ21kNjhYNHZKWTB2YWJ4VkN2M1hkU3F4UEI4anViRzBDVFlXcVhqVlp3Uk14SHZQcmxNQlZ5dTg4YVBCSjgxRlRWTEd6VmdRWGNBQzNkTWJFVS1Yai1UbHZEU1FsZFdjUnVuVXZ3cUNIV0g3Mkd6Tmd6LTVUYXhobDR6SlVEaTJjZTdjUGUzUnhXZjVpUFZIVjkwZWpES1ZIZlhOYTVDNFFWSFJkWlVpNmgyVUJtM0ViQVpUNEN1ZUswRW4yZkdBbkVVUEtZaWdHNEVmTWR3X2xzdFB0ZDV4SFplZURaMVA0cWdwMGdxU3NvR1pWMnpuVndQUGFJYVFieHRYMVpQa3JTMk0?oc=5",
+      "title": "Maximize Pazar Araştırması, Endüstriyel Otomasyon Talebi, Yapay Zeka Destekli Robotik ve Akıllı Üretim Teknolojilerinin Hız Kazanmasıyla Küresel Robotik Pazarının %20,15 Bileşik Büyüme Oranıyla Büyüyeceğini söylüyor - Yahoo Finance",
+      "summary": "Maximize Pazar Araştırması, Endüstriyel Otomasyon Talebi, Yapay Zeka Destekli Robotik ve Akıllı Üretim Teknolojilerinin Hız Kazanmasıyla Küresel Robotik Pazarının %20,15 Bileşik Büyüme Oranıyla Büyüyeceğini söylüyor Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbk9jM05XdXREY0lyUjdHemROLTJTeWN6NFF1UTdZZDU4bVAzNXhRUTVPbDBkdjNPRml0aG5HVDAydU5JVnI3ZzVRMkNwMjJXR2ZIZkJadnQ1VW95d1RBTmZWODdKUlJzTm1UMW16cWF4UzN5ejFxeVVLLXpjVWxOSTBfV1JGNHdzcVA4Vmp6aDh2cG52aGRRRFNR?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
       "published_at": "2026-10-13T02:30:00Z",
@@ -325,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research - PR Newswire Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research PR Newswire Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research - PR Newswire Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research PR Newswire Robotics Automation Industry",
-      "title_original": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research - PR Newswire",
-      "summary_original": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research PR Newswire",
+      "keywords": "Maximize Pazar Araştırması, Endüstriyel Otomasyon Talebi, Yapay Zeka Destekli Robotik ve Akıllı Üretim Teknolojilerinin Hız Kazanmasıyla Küresel Robotik Pazarının %20,15 Bileşik Büyüme Oranıyla Büyüyeceğini söylüyor - Yahoo Finance Maximize Pazar Araştırması, Endüstriyel Otomasyon Talebi, Yapay Zeka Destekli Robotik ve Akıllı Üretim Teknolojilerinin Hız Kazanmasıyla Küresel Robotik Pazarının %20,15 Bileşik Büyüme Oranıyla Büyüyeceğini söylüyor Yahoo Finance Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research - Yahoo Finance Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research Yahoo Finance Robotics Automation Industry",
+      "title_original": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research - Yahoo Finance",
+      "summary_original": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research Yahoo Finance",
       "published_display": "2026-10-13",
-      "id": "f64cf95fb06b"
+      "id": "d0d2c91445cd"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Industry faces the next robotics revolution - Tecnalia",
-      "summary": "Industry faces the next robotics revolution Tecnalia",
+      "title": "Endüstri bir sonraki robotik devrimiyle karşı karşıya - Tecnalia",
+      "summary": "Endüstri bir sonraki robot devrimiyle karşı karşıya Tecnalia",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVktuUFgzbzR5eTRpMkdrYjBXdzFTUVZoWGlXNHVjbURTbm9IS1JDTmYxN0xQN09SVmJzbEpTb3F1NUY2dzAxOVh3RWJJUl9IaDhVSkVwMHZKVG13TlFobkhPZnRRRWhtSENlQWtXYTRsTkJScEFGY0xXelRzMWVOa2d3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,17 +345,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Industry faces the next robotics revolution - Tecnalia Industry faces the next robotics revolution Tecnalia Industry faces the next robotics revolution - Tecnalia Industry faces the next robotics revolution Tecnalia Robotics Automation Industry",
+      "keywords": "Endüstri bir sonraki robotik devrimiyle karşı karşıya - Tecnalia Endüstri bir sonraki robot devrimiyle karşı karşıya Tecnalia Industry faces the next robotics revolution - Tecnalia Industry faces the next robotics revolution Tecnalia Robotics Automation Industry",
       "title_original": "Industry faces the next robotics revolution - Tecnalia",
       "summary_original": "Industry faces the next robotics revolution Tecnalia",
       "published_display": "2026-10-08",
-      "id": "bbd2b3f138c7"
+      "id": "9dc5ae80fbc3"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report",
-      "summary": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing The Robot Report",
+      "title": "Teradyne, yapay zeka altyapı üretimine robot teknolojisi getirmek için Bright Machines'e yatırım yapıyor - Robot Raporu",
+      "summary": "Teradyne, yapay zeka altyapı üretimine robot teknolojisi getirmek için Bright Machines'e yatırım yapıyor Robot Raporu",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFpVU05md1Q1d1N0MjhlMFhtamY2VERoVmIxSzNkemJpMk9jbG81bDZidkt5YXVsMVRGT2k1ZnhHZjNqSjU0OWJtcURTYlRQMXZEa2ZaNzh5X3JHUzEwQ3diVFBNdzZZazNHS2NOMWxDTjRNaHIxSk9qSVBaUUVLOGJiTFJxVWJHSmxHR1Iyc0JBSFRRU3FreXFmM3VJY2ExQW5CMTdKMWVxV282a1M1alE3Yw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,17 +365,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing The Robot Report Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing The Robot Report Robotics Automation Industry",
+      "keywords": "Teradyne, yapay zeka altyapı üretimine robot teknolojisi getirmek için Bright Machines'e yatırım yapıyor - Robot Raporu Teradyne, yapay zeka altyapı üretimine robot teknolojisi getirmek için Bright Machines'e yatırım yapıyor Robot Raporu Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing The Robot Report Robotics Automation Industry",
       "title_original": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report",
       "summary_original": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing The Robot Report",
       "published_display": "2026-10-05",
-      "id": "721be0ed6058"
+      "id": "f31725ade77c"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "New to the web platform in September",
-      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
+      "title": "Eylül ayında web platformuna yeni",
+      "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -385,17 +385,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "408e82c9a4bc"
+      "id": "b39291f2c779"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "August 2026 Baseline monthly digest",
-      "summary": "Read about various happenings with Baseline during August 2026.",
+      "title": "Ağustos 2026 Temel aylık özet",
+      "summary": "Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
       "url": "https://web.dev/blog/baseline-digest-aug-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -405,17 +405,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
+      "keywords": "Ağustos 2026 Temel aylık özet Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
       "title_original": "August 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during August 2026.",
       "published_display": "2026-09-28",
-      "id": "e508abcdedaa"
+      "id": "1285588553ae"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Find features to support for Interop 2027 with your coding agent",
-      "summary": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
+      "title": "Kodlama aracınızla Interop 2027 için desteklenecek özellikleri bulun",
+      "summary": "Olumlu oylanacak Interop 2027 tekliflerini veya önerilecek özellikleri bulmak için kodlama aracınızı nasıl kullanabileceğinizi öğrenin.",
       "url": "https://web.dev/blog/coding-agents-interop-proposals?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -425,17 +425,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Web Performance Frontend",
+      "keywords": "Kodlama aracınızla Interop 2027 için desteklenecek özellikleri bulun Olumlu oylanacak Interop 2027 tekliflerini veya önerilecek özellikleri bulmak için kodlama aracınızı nasıl kullanabileceğinizi öğrenin. Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Web Performance Frontend",
       "title_original": "Find features to support for Interop 2027 with your coding agent",
       "summary_original": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
       "published_display": "2026-09-18",
-      "id": "25b3b04990ea"
+      "id": "b0fc1fea72f2"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Submit your proposals for Interop 2027",
-      "summary": "It's time to let us know which web platform features should be part of Interop 2027.",
+      "title": "Interop 2027 için tekliflerinizi gönderin",
+      "summary": "Hangi web platformu özelliklerinin Interop 2027'nin parçası olması gerektiğini bize bildirmenin zamanı geldi.",
       "url": "https://web.dev/blog/interop-2027-proposals?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -445,17 +445,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Web Performance Frontend",
+      "keywords": "Interop 2027 için tekliflerinizi gönderin Hangi web platformu özelliklerinin Interop 2027'nin parçası olması gerektiğini bize bildirmenin zamanı geldi. Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Web Performance Frontend",
       "title_original": "Submit your proposals for Interop 2027",
       "summary_original": "It's time to let us know which web platform features should be part of Interop 2027.",
       "published_display": "2026-09-03",
-      "id": "ac94551a1969"
+      "id": "7943b22010d8"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-      "summary": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded...",
+      "title": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma",
+      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
       "url": "https://blog.cloudflare.com/agentic-security-operations/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png",
       "source": "Cloudflare Security",
@@ -465,17 +465,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
+      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
       "title_original": "Building an evidence-grounded agentic security operations harness on Cloudflare",
       "summary_original": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded...",
       "published_display": "2026-10-07",
-      "id": "cd00e8dfbe57"
+      "id": "ae0abce46092"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Follow the thread: a new dashboard to investigate account abuse",
-      "summary": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
+      "title": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli",
+      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
       "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png",
       "source": "Cloudflare Security",
@@ -485,17 +485,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
+      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
       "title_original": "Follow the thread: a new dashboard to investigate account abuse",
       "summary_original": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
       "published_display": "2026-10-02",
-      "id": "c515a5bc479a"
+      "id": "41ca5aece694"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
-      "summary": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
+      "title": "Korumalı Hızlı Tüneller: Bir sonraki geliştirme projeniz için basit, hesapsız kimlik doğrulama",
+      "summary": "Hızlı Tüneller artık e-posta kimlik doğrulamasını destekliyor. Bir cloudflared komutuna --allowed-mail ekleyin; yerel uygulamanıza yalnızca listelediğiniz adresler veya alanlar erişebilir. Her iki tarafta da Cloudflare hesabı gerekmez.",
       "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WEQNPRWNJ6R5MEB2300BRQ.png",
       "source": "Cloudflare Security",
@@ -505,17 +505,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Protected Quick Tunnels: simple accountless authentication for your next dev project Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side. Protected Quick Tunnels: simple accountless authentication for your next dev project Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side. Cloudflare Security Web",
+      "keywords": "Korumalı Hızlı Tüneller: Bir sonraki geliştirme projeniz için basit, hesapsız kimlik doğrulama Hızlı Tüneller artık e-posta kimlik doğrulamasını destekliyor. Bir cloudflared komutuna --allowed-mail ekleyin; yerel uygulamanıza yalnızca listelediğiniz adresler veya alanlar erişebilir. Her iki tarafta da Cloudflare hesabı gerekmez. Protected Quick Tunnels: simple accountless authentication for your next dev project Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side. Cloudflare Security Web",
       "title_original": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
       "summary_original": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.",
       "published_display": "2026-10-02",
-      "id": "3ccbe8285e9e"
+      "id": "2d30e8d6122a"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "One year later: Sovereign AI and the fight for choice",
-      "summary": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
+      "title": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi",
+      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü.",
       "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png",
       "source": "Cloudflare Security",
@@ -525,17 +525,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
+      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
       "title_original": "One year later: Sovereign AI and the fight for choice",
       "summary_original": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
       "published_display": "2026-10-01",
-      "id": "b0cea98a81d1"
+      "id": "94f24415f98b"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
-      "summary": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
+      "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
       "source": "Cloudflare Security",
@@ -545,17 +545,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "d5a234824776"
+      "id": "91b949a3e484"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Enforce positive security with Cloudflare Application Profiles",
-      "summary": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
+      "title": "Cloudflare Uygulama Profilleri ile pozitif güvenliği güçlendirin",
+      "summary": "Cloudflare, HTTP isteklerinizin yapısını öğrenir ve sapmaları tanımlar. Yapay zeka, saldırganların yük oluşturmasını ve değiştirmesini kolaylaştırdığından saldırı yüzeyini azaltmaya yardımcı olan pozitif bir güvenlik katmanı ekleyebilirsiniz.",
       "url": "https://blog.cloudflare.com/application-profiles/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3B09CMJMHVJCVMPMCFARRCT.01M3B09DCPG1A08FA7FTWA6PR9.png",
       "source": "Cloudflare Security",
@@ -565,131 +565,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Enforce positive security with Cloudflare Application Profiles Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads. Enforce positive security with Cloudflare Application Profiles Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads. Cloudflare Security Web",
+      "keywords": "Cloudflare Uygulama Profilleri ile pozitif güvenliği güçlendirin Cloudflare, HTTP isteklerinizin yapısını öğrenir ve sapmaları tanımlar. Yapay zeka, saldırganların yük oluşturmasını ve değiştirmesini kolaylaştırdığından saldırı yüzeyini azaltmaya yardımcı olan pozitif bir güvenlik katmanı ekleyebilirsiniz. Enforce positive security with Cloudflare Application Profiles Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads. Cloudflare Security Web",
       "title_original": "Enforce positive security with Cloudflare Application Profiles",
       "summary_original": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
       "published_display": "2026-09-29",
-      "id": "a2546d9f8b92"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Amazon’s Blink Smart Security Cameras Vulnerable to Attacks - CISO Mag",
-      "summary": "Amazon’s Blink Smart Security Cameras Vulnerable to Attacks CISO Mag",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOGZNYjhrLXhsdDZPZVdJcXoySFloODREOURkQmx0TDF1ZG81dk5oS2RQVTlBWXZOSFJsWDZ4QUNiX2tDdFhNS0FVVl9kOWUwanlCWEFQZmZmZ2tDbDF0OEdYekxZRkFvb1QtOVZZQnJjVk1Jb2tKNXBVSlM2bzZ1RVVLVHByQdIBhgFBVV95cUxQOGZNYjhrLXhsdDZPZVdJcXoySFloODREOURkQmx0TDF1ZG81dk5oS2RQVTlBWXZOSFJsWDZ4QUNiX2tDdFhNS0FVVl9kOWUwanlCWEFQZmZmZ2tDbDF0OEdYekxZRkFvb1QtOVZZQnJjVk1Jb2tKNXBVSlM2bzZ1RVVLVHByQQ?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-13T21:44:35Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Amazon’s Blink Smart Security Cameras Vulnerable to Attacks - CISO Mag Amazon’s Blink Smart Security Cameras Vulnerable to Attacks CISO Mag Amazon’s Blink Smart Security Cameras Vulnerable to Attacks - CISO Mag Amazon’s Blink Smart Security Cameras Vulnerable to Attacks CISO Mag IP Camera Video Surveillance",
-      "title_original": "Amazon’s Blink Smart Security Cameras Vulnerable to Attacks - CISO Mag",
-      "summary_original": "Amazon’s Blink Smart Security Cameras Vulnerable to Attacks CISO Mag",
-      "published_display": "2026-10-13",
-      "id": "42322627046a"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
-      "summary": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-12T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
-      "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
-      "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
-      "published_display": "2026-10-12",
-      "id": "7f766a2a98e6"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-11T15:11:18Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "published_display": "2026-10-11",
-      "id": "80d82e57e3e1"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
-      "summary": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-08T15:33:38Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
-      "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
-      "published_display": "2026-10-08",
-      "id": "a0d70264cefa"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News",
-      "summary": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDQySzBoamV1cUNQY29PN1FRdjZ1aXN4aW5JV25uWjVBTklDY0xraE4tc1g4Tzljb2E5SktxR0ZVNlpxdmhFMWtFTnRndlF2QlNtTUk2VDgwSFNDa0hEZ213S2U5ekptNUJJSWp4d1RrdFM3djdIZ2pmNXlEdHRFdjNCeC1manoxZWhfenlERmM4d0U0NllJMA?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-25T01:30:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News IP Camera Video Surveillance",
-      "title_original": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News",
-      "summary_original": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
-      "published_display": "2026-09-25",
-      "id": "6e3187992146"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri",
-      "summary": "TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHh0Sk9LSWNVTWdQQzJLRjRVVFFMZDh2LTNOb296SWc4YTZrT2dRb1NGbDI0ZW9DTWVXYXNDS1FwWE85U2FhOHRpbWR3d0ZKQjdOVjZvMEZaaW1ZcWw5TmdxVXU3YkhwcUl3WjNtRnRZbk1JRlNzRnlwX0ZyQ0xMbU9ZOA?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-17T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri",
-      "summary_original": "TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri",
-      "published_display": "2026-09-17",
-      "id": "8e595e9d6b3d"
+      "id": "5f4df7226861"
     }
   ]
 }
