@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-10-14T20:01:35Z",
-  "total_posts": 28,
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 4,
     "siber": 6,
-    "kamera": 0
+    "kamera": 6
   },
   "posts": [
     {
@@ -54,7 +54,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma",
+      "title": "GitHub'ın gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma",
       "summary": "GitHub'un bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve...",
       "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
       "image_url": null,
@@ -65,17 +65,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma GitHub'un bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve... GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a... GitHub Dev Platform",
+      "keywords": "GitHub'ın gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma GitHub'un bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'un gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve... GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a... GitHub Dev Platform",
       "title_original": "GitHub’s model for secret detection: Finding more secrets with less noise",
       "summary_original": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a...",
       "published_display": "2026-10-13",
-      "id": "37cfab65485b"
+      "id": "32bab5040ec8"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl bilgi verilir?",
-      "summary": "Deponuza özel talimatları ve becerileri nasıl ekleyeceğinizi, özel aracıları nasıl kullanacağınızı ve Playwright gibi MCP sunucularına nasıl bağlanacağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl öğretilir yazısı ilk olarak Git'te yayınlandı...",
+      "summary": "Deponuza özel talimatları ve becerileri nasıl ekleyeceğinizi, özel aracıları nasıl kullanacağınızı ve Playwright gibi MCP sunucularına nasıl bağlanacağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Kod tabanınız hakkında Copilot'a nasıl öğretilir yazısı ilk olarak Git'te çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl bilgi verilir? Deponuza özel talimatları ve becerileri nasıl ekleyeceğinizi, özel aracıları nasıl kullanacağınızı ve Playwright gibi MCP sunucularına nasıl bağlanacağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl öğretilir yazısı ilk olarak Git'te yayınlandı... GitHub Copilot app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The Git... GitHub Dev Platform",
+      "keywords": "Yeni Başlayanlar için GitHub Copilot uygulaması: Copilot'a kod tabanınız hakkında nasıl bilgi verilir? Deponuza özel talimatları ve becerileri nasıl ekleyeceğinizi, özel aracıları nasıl kullanacağınızı ve Playwright gibi MCP sunucularına nasıl bağlanacağınızı öğrenin. Yeni Başlayanlar için GitHub Copilot uygulaması: Kod tabanınız hakkında Copilot'a nasıl öğretilir yazısı ilk olarak Git'te çıktı... GitHub Copilot app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The Git... GitHub Dev Platform",
       "title_original": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
       "summary_original": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The Git...",
       "published_display": "2026-10-12",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Amp, AI aracılarının OpenAI modelleriyle kodun ötesinde çalışmasını sağlar",
-      "summary": "Amp'in temsilcilerin GPT-6 Astra, Ultrafast, GPT-Live-1 ve ChatGPT ile oturum açma ile yapabileceklerinin sınırlarını nasıl zorladığını görün.",
+      "summary": "Amp'in GPT-6 Astra, Ultrafast, GPT-Live-1 ve ChatGPT ile Oturum Açma ile temsilcilerin yapabileceklerinin sınırlarını nasıl zorladığını görün.",
       "url": "https://openai.com/index/amp-beyond-coding",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Amp, AI aracılarının OpenAI modelleriyle kodun ötesinde çalışmasını sağlar Amp'in temsilcilerin GPT-6 Astra, Ultrafast, GPT-Live-1 ve ChatGPT ile oturum açma ile yapabileceklerinin sınırlarını nasıl zorladığını görün. Amp puts AI agents to work beyond code with OpenAI models See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT. AI OpenAI Model",
+      "keywords": "Amp, AI aracılarının OpenAI modelleriyle kodun ötesinde çalışmasını sağlar Amp'in GPT-6 Astra, Ultrafast, GPT-Live-1 ve ChatGPT ile Oturum Açma ile temsilcilerin yapabileceklerinin sınırlarını nasıl zorladığını görün. Amp puts AI agents to work beyond code with OpenAI models See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT. AI OpenAI Model",
       "title_original": "Amp puts AI agents to work beyond code with OpenAI models",
       "summary_original": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "published_display": "2026-10-14",
@@ -334,7 +334,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Endüstri bir sonraki robotik devrimiyle karşı karşıya - Tecnalia",
+      "title": "Endüstri bir sonraki robot devrimiyle karşı karşıya - Tecnalia",
       "summary": "Endüstri bir sonraki robot devrimiyle karşı karşıya Tecnalia",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVktuUFgzbzR5eTRpMkdrYjBXdzFTUVZoWGlXNHVjbURTbm9IS1JDTmYxN0xQN09SVmJzbEpTb3F1NUY2dzAxOVh3RWJJUl9IaDhVSkVwMHZKVG13TlFobkhPZnRRRWhtSENlQWtXYTRsTkJScEFGY0xXelRzMWVOa2d3?oc=5",
       "image_url": null,
@@ -345,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstri bir sonraki robotik devrimiyle karşı karşıya - Tecnalia Endüstri bir sonraki robot devrimiyle karşı karşıya Tecnalia Industry faces the next robotics revolution - Tecnalia Industry faces the next robotics revolution Tecnalia Robotics Automation Industry",
+      "keywords": "Endüstri bir sonraki robot devrimiyle karşı karşıya - Tecnalia Endüstri bir sonraki robot devrimiyle karşı karşıya Tecnalia Industry faces the next robotics revolution - Tecnalia Industry faces the next robotics revolution Tecnalia Robotics Automation Industry",
       "title_original": "Industry faces the next robotics revolution - Tecnalia",
       "summary_original": "Industry faces the next robotics revolution Tecnalia",
       "published_display": "2026-10-08",
-      "id": "9dc5ae80fbc3"
+      "id": "2de67569ffcb"
     },
     {
       "category": "robotik",
@@ -515,7 +515,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi",
-      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü.",
+      "summary": "Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü.",
       "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png",
       "source": "Cloudflare Security",
@@ -525,7 +525,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçenek sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
+      "keywords": "Bir yıl sonra: Egemen yapay zeka ve seçim mücadelesi Yapay zeka egemenliği sıfır toplamlı bir oyun değil, ancak birçok hükümet artık öyle olduğuna inanıyor. Cloudflare'in cevabı: daha fazla yerel açık kaynak modeli, modelden bağımsız güvenlik araçları ve uluslara gerçek seçim sunma taahhüdü. One year later: Sovereign AI and the fight for choice AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice. Cloudflare Security Web",
       "title_original": "One year later: Sovereign AI and the fight for choice",
       "summary_original": "AI sovereignty is not a zero-sum game, but many governments now believe it is. Cloudflare's answer: more local open-source models, model-agnostic security tools, and a commitment to giving nations genuine choice.",
       "published_display": "2026-10-01",
@@ -534,7 +534,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz",
+      "title": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz",
       "summary": "Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve...",
       "url": "https://blog.cloudflare.com/threat-signals/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png",
@@ -545,11 +545,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik ajan becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
+      "keywords": "Tehdit Sinyalleriyle Tanışın: açık kaynaklı tehdit istihbaratına yönelik aracılık becerileri, her Cloudflare hesabı için ücretsiz Cloudforce One'ın Tehdit Olayları Platformuna erişimi tüm Cloudflare hesaplarına genişletiyoruz ve Tehdit Sinyallerini kullanıma sunuyoruz. Tehdit Sinyalleri, açık kaynaklı tehdit raporlamasını otomatik olarak ayrıştırır, yapılandırılmış göstergeleri çıkarır ve... Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects... Cloudflare Security Web",
       "title_original": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
       "summary_original": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects...",
       "published_display": "2026-09-29",
-      "id": "91b949a3e484"
+      "id": "877952b0f857"
     },
     {
       "category": "siber",
@@ -570,6 +570,126 @@
       "summary_original": "Cloudflare learns the structure of your HTTP requests and identifies deviations. You can add a positive security layer that helps reduce attack surface as AI makes it easier for attackers to generate and vary payloads.",
       "published_display": "2026-09-29",
       "id": "5f4df7226861"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Amazon'un Blink Akıllı Güvenlik Kameraları Saldırılara Karşı Savunmasız - CISO Mag",
+      "summary": "Amazon'un Blink Akıllı Güvenlik Kameraları Saldırılara Karşı Savunmasız CISO Mag",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOGZNYjhrLXhsdDZPZVdJcXoySFloODREOURkQmx0TDF1ZG81dk5oS2RQVTlBWXZOSFJsWDZ4QUNiX2tDdFhNS0FVVl9kOWUwanlCWEFQZmZmZ2tDbDF0OEdYekxZRkFvb1QtOVZZQnJjVk1Jb2tKNXBVSlM2bzZ1RVVLVHByQdIBhgFBVV95cUxQOGZNYjhrLXhsdDZPZVdJcXoySFloODREOURkQmx0TDF1ZG81dk5oS2RQVTlBWXZOSFJsWDZ4QUNiX2tDdFhNS0FVVl9kOWUwanlCWEFQZmZmZ2tDbDF0OEdYekxZRkFvb1QtOVZZQnJjVk1Jb2tKNXBVSlM2bzZ1RVVLVHByQQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-13T21:44:35Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Amazon'un Blink Akıllı Güvenlik Kameraları Saldırılara Karşı Savunmasız - CISO Mag Amazon'un Blink Akıllı Güvenlik Kameraları Saldırılara Karşı Savunmasız CISO Mag Amazon’s Blink Smart Security Cameras Vulnerable to Attacks - CISO Mag Amazon’s Blink Smart Security Cameras Vulnerable to Attacks CISO Mag IP Camera Video Surveillance",
+      "title_original": "Amazon’s Blink Smart Security Cameras Vulnerable to Attacks - CISO Mag",
+      "summary_original": "Amazon’s Blink Smart Security Cameras Vulnerable to Attacks CISO Mag",
+      "published_display": "2026-10-13",
+      "id": "953cd394e889"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
+      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi; memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-11T15:11:18Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi; memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
+      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
+      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
+      "published_display": "2026-10-11",
+      "id": "a63b87253590"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
+      "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-11T00:30:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
+      "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
+      "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
+      "published_display": "2026-10-11",
+      "id": "33214d55f737"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
+      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-08T15:33:38Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
+      "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
+      "published_display": "2026-10-08",
+      "id": "6611c4e5a777"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News",
+      "summary": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDQySzBoamV1cUNQY29PN1FRdjZ1aXN4aW5JV25uWjVBTklDY0xraE4tc1g4Tzljb2E5SktxR0ZVNlpxdmhFMWtFTnRndlF2QlNtTUk2VDgwSFNDa0hEZ213S2U5ekptNUJJSWp4d1RrdFM3djdIZ2pmNXlEdHRFdjNCeC1manoxZWhfenlERmM4d0U0NllJMA?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-25T01:30:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News IP Camera Video Surveillance",
+      "title_original": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News",
+      "summary_original": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
+      "published_display": "2026-09-25",
+      "id": "be8d0c51373d"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor - Pasquale Pillitteri",
+      "summary": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHh0Sk9LSWNVTWdQQzJLRjRVVFFMZDh2LTNOb296SWc4YTZrT2dRb1NGbDI0ZW9DTWVXYXNDS1FwWE85U2FhOHRpbWR3d0ZKQjdOVjZvMEZaaW1ZcWw5TmdxVXU3YkhwcUl3WjNtRnRZbk1JRlNzRnlwX0ZyQ0xMbU9ZOA?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-09-17T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor - Pasquale Pillitteri TP-Link Tapo C200 kamera kusuru, saldırganların evinizde casusluk yapmasına olanak tanıyor Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "TP-Link Tapo C200 camera flaw lets attackers spy on your home - Pasquale Pillitteri",
+      "summary_original": "TP-Link Tapo C200 camera flaw lets attackers spy on your home Pasquale Pillitteri",
+      "published_display": "2026-09-17",
+      "id": "132ea46b82fb"
     }
   ]
 }
