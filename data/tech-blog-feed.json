@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T09:57:48Z",
+  "updated_at": "2026-10-20T16:05:03Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,48 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir",
-      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
+      "title": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor?",
+      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-20T16:05:03Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı... How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
+      "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "summary_original": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir...",
+      "published_display": "2026-10-20",
+      "id": "daa9902b6233"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi?",
+      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi ancak menajer kendi başına 11 puanı daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
+      "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-10-20T14:53:27Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi ancak menajer kendi başına 11 puanı daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
+      "title_original": "Can a local git remote replace GitHub in your agent eval?",
+      "summary_original": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos...",
+      "published_display": "2026-10-20",
+      "id": "43e8deee5383"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir",
+      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,11 +65,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "How to continue a GitHub Copilot app session in VS Code",
       "summary_original": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
       "published_display": "2026-10-19",
-      "id": "4bf6e9d8e485"
+      "id": "59be90b4ad7d"
     },
     {
       "category": "yazilim",
@@ -92,50 +132,30 @@
       "id": "8c9e76c2938f"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "2.500 istekten 24'e: Yıldız tarihini yıldız gözlemcileri olmadan yeniden inşa etmek",
-      "summary": "Yeni repo yıldız geçmişi API'miz artık bireysel kimlikleri döndürmeden veya sınırsız veritabanı çalışması gerektirmeden trendler sağlıyor. Bunlar yaptığımız mühendislik değiş tokuşları. Gönderi 2.500 istekten 24'e: Yıldız geçmişini yeniden inşa etmek...",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Franchise Sahibi, ChatGPT Work ile %94 daha kısa sürede nakit mutabakatı sağlıyor",
+      "summary": "Bağımsız bir Schlotzsky's ve Cinnabon franchise sahibi, menü yeniden fiyatlandırma süresini %95 oranında kısalttı ve nakit akışında 100.000 ABD doları tasarruf sağlayabilecek bir iş akışı oluşturdu.",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-10-14T19:11:33Z",
+      "source": "OpenAI News",
+      "published_at": "2026-10-20T10:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "2.500 istekten 24'e: Yıldız tarihini yıldız gözlemcileri olmadan yeniden inşa etmek Yeni repo yıldız geçmişi API'miz artık bireysel kimlikleri döndürmeden veya sınırsız veritabanı çalışması gerektirmeden trendler sağlıyor. Bunlar yaptığımız mühendislik değiş tokuşları. Gönderi 2.500 istekten 24'e: Yıldız geçmişini yeniden inşa etmek... From 2,500 requests to 24: Rebuilding star history without the stargazers Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history with... GitHub Dev Platform",
-      "title_original": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "summary_original": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history with...",
-      "published_display": "2026-10-14",
-      "id": "fa82b82f4bf3"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub'ın gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma",
-      "summary": "GitHub'ın bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'ın gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve...",
-      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-10-13T17:56:33Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "GitHub'ın gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma GitHub'ın bağlama duyarlı gizli sınıflandırıcısı, algılama kalitesini artırır, ağırlıklı kabulü %11,5 artırır ve ortalama tarama yürütme süresini %86 azaltır. GitHub'ın gizli tespit modeli: Daha az gürültüyle daha fazla sır bulma ve... GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a... GitHub Dev Platform",
-      "title_original": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "summary_original": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise a...",
-      "published_display": "2026-10-13",
-      "id": "32bab5040ec8"
+      "keywords": "Franchise Sahibi, ChatGPT Work ile %94 daha kısa sürede nakit mutabakatı sağlıyor Bağımsız bir Schlotzsky's ve Cinnabon franchise sahibi, menü yeniden fiyatlandırma süresini %95 oranında kısalttı ve nakit akışında 100.000 ABD doları tasarruf sağlayabilecek bir iş akışı oluşturdu. Franchisee reconciles cash in 94% less time with ChatGPT Work An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow. AI OpenAI Model",
+      "title_original": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary_original": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "published_display": "2026-10-20",
+      "id": "336e1220571b"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Düşük kaynaklı programlama dillerinde kodlamayı geliştirme",
-      "summary": "OpenAI'nin yazılım mühendisliği, SQLite ve COBOL geçişi için yeni değerlendirmelerle düşük kaynaklı programlama dillerinde ChatGPT'yi nasıl iyileştirdiğini öğrenin.",
+      "summary": "Yazılım mühendisliği, SQLite ve COBOL geçişi için yeni değerlendirmelerle OpenAI'nin düşük kaynaklı programlama dillerinde ChatGPT'yi nasıl iyileştirdiğini öğrenin.",
       "url": "https://openai.com/index/low-resource-programming-languages",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Düşük kaynaklı programlama dillerinde kodlamayı geliştirme OpenAI'nin yazılım mühendisliği, SQLite ve COBOL geçişi için yeni değerlendirmelerle düşük kaynaklı programlama dillerinde ChatGPT'yi nasıl iyileştirdiğini öğrenin. Advancing coding in low‑resource programming languages Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration. AI OpenAI Model",
+      "keywords": "Düşük kaynaklı programlama dillerinde kodlamayı geliştirme Yazılım mühendisliği, SQLite ve COBOL geçişi için yeni değerlendirmelerle OpenAI'nin düşük kaynaklı programlama dillerinde ChatGPT'yi nasıl iyileştirdiğini öğrenin. Advancing coding in low‑resource programming languages Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration. AI OpenAI Model",
       "title_original": "Advancing coding in low‑resource programming languages",
       "summary_original": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
       "published_display": "2026-10-19",
@@ -195,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Agent'lar için Stack Overflow, ChatGPT eklentisi ile kayıt sayısını üçe katlıyor",
-      "summary": "İki mühendis Codex ile Stack Overflow for Agent'ları birkaç hafta içinde piyasaya sürdü ve ChatGPT eklentisi, temsilci oluşturmada 10 kata kadar büyüme sağlanmasına yardımcı oldu.",
+      "summary": "İki mühendis, Codex ile Stack Overflow for Agent'ları birkaç hafta içinde piyasaya sürdü ve ChatGPT eklentisi, temsilci oluşturmada 10 kata kadar büyüme sağlanmasına yardımcı oldu.",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Agent'lar için Stack Overflow, ChatGPT eklentisi ile kayıt sayısını üçe katlıyor İki mühendis Codex ile Stack Overflow for Agent'ları birkaç hafta içinde piyasaya sürdü ve ChatGPT eklentisi, temsilci oluşturmada 10 kata kadar büyüme sağlanmasına yardımcı oldu. Stack Overflow for Agents triples signups with ChatGPT plugin Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation. AI OpenAI Model",
+      "keywords": "Agent'lar için Stack Overflow, ChatGPT eklentisi ile kayıt sayısını üçe katlıyor İki mühendis, Codex ile Stack Overflow for Agent'ları birkaç hafta içinde piyasaya sürdü ve ChatGPT eklentisi, temsilci oluşturmada 10 kata kadar büyüme sağlanmasına yardımcı oldu. Stack Overflow for Agents triples signups with ChatGPT plugin Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation. AI OpenAI Model",
       "title_original": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary_original": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "published_display": "2026-10-16",
@@ -232,24 +252,24 @@
       "id": "fe4e6195ebe3"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-Rosalind'i akademik araştırma laboratuvarlarına getirmek",
-      "summary": "Uygun akademik laboratuvarlara GPT-Rosalind'e sponsorlu erişim ve yaşam bilimleri araştırmalarını ilerletmeye yönelik araçlar sunan Rosalind Akademik Planı tanıtılıyor.",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması - Robotik ve Otomasyon Haberleri",
+      "summary": "Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDZRZnVSNUNOUTFKLVNHR0RRUGVuS1M1MWcybmZZUVBSOGVfcTF1X1VGYlJlSUMzN1oxTDRsT0ZENTlyNTN2MFhhdWg0MWxHWG9NR0dpN1NxQkxxUTRlOHpnaEp6c0FOQnp0RV9MTlUxMnpTYk9nUEt3aHh1TUZQQklZVU5KZTVoM0VMM2hlbG41MHNBeFExZS12SzdBMjk0dzlBaU90MjItYWxicWY2c3pGZWVVM0EzV3RicXpmb0ZHYWVXZmZxNHNn?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-15T19:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-10-20T10:03:19Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "GPT-Rosalind'i akademik araştırma laboratuvarlarına getirmek Uygun akademik laboratuvarlara GPT-Rosalind'e sponsorlu erişim ve yaşam bilimleri araştırmalarını ilerletmeye yönelik araçlar sunan Rosalind Akademik Planı tanıtılıyor. Bringing GPT-Rosalind to academic research labs Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research. AI OpenAI Model",
-      "title_original": "Bringing GPT-Rosalind to academic research labs",
-      "summary_original": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "published_display": "2026-10-15",
-      "id": "dbcfa655d944"
+      "keywords": "Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması - Robotik ve Otomasyon Haberleri Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması Robotik ve Otomasyon Haberleri Automation Created a Training Problem: Upskilling the Industrial Workforce - Robotics & Automation News Automation Created a Training Problem: Upskilling the Industrial Workforce Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Automation Created a Training Problem: Upskilling the Industrial Workforce - Robotics & Automation News",
+      "summary_original": "Automation Created a Training Problem: Upskilling the Industrial Workforce Robotics & Automation News",
+      "published_display": "2026-10-20",
+      "id": "a7ec73b87e91"
     },
     {
       "category": "robotik",
@@ -275,7 +295,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz",
-      "summary": "FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor",
+      "summary": "FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnJmMWFiSXM2NGVGSE44OVR2OGpDSlhmcjZXQUszZWFYTlRVOFl4aGotVHpUX2lpdHZZRnYzRnJkRW5MSjZrMWUxU0JfNnZHcFJRSFhHQk1lM0xSenBYbEJfTVh3d1Q3cUVncXk0RWZCTnM2ZWpkeFVmeHNXaGczZHVwT2RpNlAxckhBc1MtZ0NyalpHNWxJZnhQUzBZelowWjVVb1YyeG91T251bHR0dUYyNGlFNXpFYTJJaFFDbw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,7 +305,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz Robotics Automation Industry",
+      "keywords": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz Robotics Automation Industry",
       "title_original": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz",
       "summary_original": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz",
       "published_display": "2026-10-19",
@@ -314,7 +334,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1N4anowMkJKWVYzenNGRm95dXk5ajc3cDNKcnZDcHFnNFFMaFAwdzlUdlRucUZObGN1MnhPbi11T1Y1WFU0M2pkQkFHanZKdnpEeEMzT2pyaXNtTjJ6amxEdkc2c3hJWTk0dmMtaVFBV19IN3NGaFRrZmtnQUV5TV9fTUZXVGpXNmsyYlMyVWJnUmwzWVd3ZjExdmVacmNVcVZvSnNsMWpEb3pMUXU1Zkw1eURxaVZERExtTnpVNnNQenJ3YnNza0dKLUJ2ejFB?oc=5",
       "image_url": null,
@@ -325,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation",
       "summary_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation",
       "published_display": "2026-10-16",
-      "id": "509f0c5ef0cb"
+      "id": "7932b95633ad"
     },
     {
       "category": "robotik",
@@ -352,29 +372,9 @@
       "id": "fc86ffd7de3b"
     },
     {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Ricoh ve Hyphen, gıda hizmeti sektöründe robotik otomasyonu desteklemek için iş birliği yapıyor - PR Newswire",
-      "summary": "Ricoh ve Hyphen, yemek hizmeti sektöründe robotik otomasyonu desteklemek için ortaklık yapıyor PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXNaUXZhb0RVQnlONDB2V1p2QjZMZk1MLWVqdVFudTlxZEphem5MV2t2aWZldk1vN1JHb056Sy16OVR5Q1pjaU0tZ1FPcGpma0FrN01lT2tGOEpEYkl1WEd2dUtPdWE5MHZmLXc0aHdqU3BxeGdDelA2aGJCUmFaWUZxZTJubExaSUtVQnF3SkxCSUYwYnBTSjV0VWtiZ2Nwa25XV01yU0lIckpNWnZJcnRRcWJ2bER4WEU3MEtIYXNoVmFNbjcxNXVXQkl5Zw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-15T13:30:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Ricoh ve Hyphen, gıda hizmeti sektöründe robotik otomasyonu desteklemek için iş birliği yapıyor - PR Newswire Ricoh ve Hyphen, yemek hizmeti sektöründe robotik otomasyonu desteklemek için ortaklık yapıyor PR Newswire Ricoh and Hyphen partner to drive robotic automation in food service industry - PR Newswire Ricoh and Hyphen partner to drive robotic automation in food service industry PR Newswire Robotics Automation Industry",
-      "title_original": "Ricoh and Hyphen partner to drive robotic automation in food service industry - PR Newswire",
-      "summary_original": "Ricoh and Hyphen partner to drive robotic automation in food service industry PR Newswire",
-      "published_display": "2026-10-15",
-      "id": "1ebbd88a218b"
-    },
-    {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Eylül ayında web platformuna yeni",
+      "title": "Eylül ayında web platformunda yeni",
       "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "Eylül ayında web platformunda yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "b39291f2c779"
+      "id": "5c34f3e54888"
     },
     {
       "category": "web",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli",
-      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
+      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
       "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
+      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
       "title_original": "Follow the thread: a new dashboard to investigate account abuse",
       "summary_original": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
       "published_display": "2026-10-02",
