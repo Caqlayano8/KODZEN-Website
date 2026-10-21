@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T22:20:16Z",
+  "updated_at": "2026-10-21T04:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi?",
-      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
+      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi ancak menajer kendi başına 11 puanı daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
       "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,7 +45,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
+      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi ancak menajer kendi başına 11 puanı daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
       "title_original": "Can a local git remote replace GitHub in your agent eval?",
       "summary_original": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos...",
       "published_display": "2026-10-20",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir",
-      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
+      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "How to continue a GitHub Copilot app session in VS Code",
       "summary_original": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
       "published_display": "2026-10-19",
@@ -134,7 +134,27 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Franchise Sahibi, ChatGPT Work ile %94 daha kısa sürede nakit mutabakatını sağlıyor",
+      "title": "Güneydoğu Asya'nın dijital ekonomisi 368 milyar dolara ulaşacak",
+      "summary": "Yapay zekanın yaygın şekilde benimsenmesi, Güneydoğu Asya'nın dijital ekonomisini 2026'da 368 milyar dolara, 2035'te ise 1 trilyon dolara çıkaracak.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-21T04:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Güneydoğu Asya'nın dijital ekonomisi 368 milyar dolara ulaşacak Yapay zekanın yaygın şekilde benimsenmesi, Güneydoğu Asya'nın dijital ekonomisini 2026'da 368 milyar dolara, 2035'te ise 1 trilyon dolara çıkaracak. Southeast Asia’s digital economy to hit $368 billion Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035. AI Product Google",
+      "title_original": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary_original": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "published_display": "2026-10-21",
+      "id": "1d648cb9f5ea"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Franchise Sahibi, ChatGPT Work ile %94 daha kısa sürede nakit mutabakatı sağlıyor",
       "summary": "Bağımsız bir Schlotzsky's ve Cinnabon franchise sahibi, menü yeniden fiyatlandırma süresini %95 oranında kısalttı ve nakit akışında 100.000 ABD doları tasarruf sağlayabilecek bir iş akışı oluşturdu.",
       "url": "https://openai.com/index/ted-taylor-restaurant",
       "image_url": null,
@@ -145,11 +165,31 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Franchise Sahibi, ChatGPT Work ile %94 daha kısa sürede nakit mutabakatını sağlıyor Bağımsız bir Schlotzsky's ve Cinnabon franchise sahibi, menü yeniden fiyatlandırma süresini %95 oranında kısalttı ve nakit akışında 100.000 ABD doları tasarruf sağlayabilecek bir iş akışı oluşturdu. Franchisee reconciles cash in 94% less time with ChatGPT Work An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow. AI OpenAI Model",
+      "keywords": "Franchise Sahibi, ChatGPT Work ile %94 daha kısa sürede nakit mutabakatı sağlıyor Bağımsız bir Schlotzsky's ve Cinnabon franchise sahibi, menü yeniden fiyatlandırma süresini %95 oranında kısalttı ve nakit akışında 100.000 ABD doları tasarruf sağlayabilecek bir iş akışı oluşturdu. Franchisee reconciles cash in 94% less time with ChatGPT Work An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow. AI OpenAI Model",
       "title_original": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "summary_original": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
       "published_display": "2026-10-20",
-      "id": "5da2895c35a3"
+      "id": "336e1220571b"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Terminal X, kıdemli yatırımcının kararıyla GPT-6.1'in %88,6'sını karşılıyor",
+      "summary": "Terminal X'in Değerlendirme Aracısı, çıktıları 54 kriterli bir değerlendirme tablosuna göre derecelendirerek, GPT-6.1 Sol ile bir fonun talimatından %25 daha fazla sapma yakalar.",
+      "url": "https://openai.com/index/terminal-x",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-20T07:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Terminal X, kıdemli yatırımcının kararıyla GPT-6.1'in %88,6'sını karşılıyor Terminal X'in Değerlendirme Aracısı, çıktıları 54 kriterli bir değerlendirme tablosuna göre derecelendirerek, GPT-6.1 Sol ile bir fonun talimatından %25 daha fazla sapma yakalar. Terminal X matches senior investor judgment 88.6% with GPT-6.1 Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol. AI OpenAI Model",
+      "title_original": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary_original": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "published_display": "2026-10-20",
+      "id": "b89dd74dffa6"
     },
     {
       "category": "ai",
@@ -212,46 +252,6 @@
       "id": "a83f9d4afa87"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Yapay zeka ajanlarının biyolojik gerçekliğe dayandırılması: Otonom ıslak laboratuvarlar için yapı taşları",
-      "summary": "Genel Bilim",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
-      "source": "Google Research Blog",
-      "published_at": "2026-10-16T18:11:34Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Yapay zeka ajanlarının biyolojik gerçekliğe dayandırılması: Otonom ıslak laboratuvarlar için yapı taşları Genel Bilim Grounding AI agents in biological reality: Building blocks for autonomous wet labs General Science AI Research Google",
-      "title_original": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "summary_original": "General Science",
-      "published_display": "2026-10-16",
-      "id": "1fd7053e9e07"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Agent'lar için Stack Overflow, ChatGPT eklentisiyle kayıt sayısını üçe katlıyor",
-      "summary": "İki mühendis, Codex ile Stack Overflow for Agent'ları birkaç hafta içinde piyasaya sürdü ve ChatGPT eklentisi, temsilci oluşturmada 10 kata kadar büyüme sağlanmasına yardımcı oldu.",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-16T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Agent'lar için Stack Overflow, ChatGPT eklentisiyle kayıt sayısını üçe katlıyor İki mühendis, Codex ile Stack Overflow for Agent'ları birkaç hafta içinde piyasaya sürdü ve ChatGPT eklentisi, temsilci oluşturmada 10 kata kadar büyüme sağlanmasına yardımcı oldu. Stack Overflow for Agents triples signups with ChatGPT plugin Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation. AI OpenAI Model",
-      "title_original": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary_original": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "published_display": "2026-10-16",
-      "id": "1d6a8e22ddde"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması - Robotik ve Otomasyon Haberleri",
@@ -294,26 +294,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Arrow Electronics, Seul'de robotik, endüstriyel IoT ve akıllı otomasyon üzerine teknik seminere ev sahipliği yaptı - DagangNews",
-      "summary": "Arrow Electronics, Seul'de robotik, endüstriyel IoT ve akıllı otomasyon üzerine teknik seminere ev sahipliği yaptı DagangNews",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcjBaMkZFR0QwX05TNUxSZ2tTSnJHLWdsTXZBWFZYaklTTWlZQk40YmwxTDBQSHE4VXo0NFRHaVNxMWRTNlMxeGxtQTN1SGI4TkJHMDFYQnhGRjVtUWE1Ung3dzdUb2RXRVBIVkdxU1pmNVplZWpVdTBKWXlVVnlCTVRHLXB4bEVvM0VaNm03S2QxSzgxQmJoZTZ4X2N3VFFqejVpZlVibHM1OHVHVkxIODVKUUhycEhaZlV3dW9jR3ZhbVlVZUc4WEI5VDV2cTFwUXFIU0hsMmxwdmF1Qk4taA?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-20T03:17:18Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Arrow Electronics, Seul'de robotik, endüstriyel IoT ve akıllı otomasyon üzerine teknik seminere ev sahipliği yaptı - DagangNews Arrow Electronics, Seul'de robotik, endüstriyel IoT ve akıllı otomasyon üzerine teknik seminere ev sahipliği yaptı DagangNews Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul - DagangNews Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul DagangNews Robotics Automation Industry",
-      "title_original": "Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul - DagangNews",
-      "summary_original": "Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul DagangNews",
-      "published_display": "2026-10-20",
-      "id": "3330125a5a96"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz",
       "summary": "FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnJmMWFiSXM2NGVGSE44OVR2OGpDSlhmcjZXQUszZWFYTlRVOFl4aGotVHpUX2lpdHZZRnYzRnJkRW5MSjZrMWUxU0JfNnZHcFJRSFhHQk1lM0xSenBYbEJfTVh3d1Q3cUVncXk0RWZCTnM2ZWpkeFVmeHNXaGczZHVwT2RpNlAxckhBc1MtZ0NyalpHNWxJZnhQUzBZelowWjVVb1YyeG91T251bHR0dUYyNGlFNXpFYTJJaFFDbw?oc=5",
@@ -350,6 +330,26 @@
       "summary_original": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News",
       "published_display": "2026-10-19",
       "id": "56ff81263632"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1N4anowMkJKWVYzenNGRm95dXk5ajc3cDNKcnZDcHFnNFFMaFAwdzlUdlRucUZObGN1MnhPbi11T1Y1WFU0M2pkQkFHanZKdnpEeEMzT2pyaXNtTjJ6amxEdkc2c3hJWTk0dmMtaVFBV19IN3NGaFRrZmtnQUV5TV9fTUZXVGpXNmsyYlMyVWJnUmwzWVd3ZjExdmVacmNVcVZvSnNsMWpEb3pMUXU1Zkw1eURxaVZERExtTnpVNnNQenJ3YnNza0dKLUJ2ejFB?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-16T11:04:22Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation",
+      "summary_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation",
+      "published_display": "2026-10-16",
+      "id": "7932b95633ad"
     },
     {
       "category": "robotik",
@@ -435,7 +435,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler",
-      "summary": "Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, tepkimizi ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz.",
+      "summary": "Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz.",
       "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5DK5FY53PEFH46MT990YMSR.png",
       "source": "Cloudflare Security",
@@ -445,7 +445,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, tepkimizi ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
+      "keywords": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
       "title_original": "8 eMudhra certificates are compromised. Here's what you need to know",
       "summary_original": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
       "published_display": "2026-10-20",
@@ -475,7 +475,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Doğrulanmış botlar için sürekli sorumluluk",
-      "summary": "Kimlik tek başına bir botun sorumlu bir şekilde davranacağını garanti etmez. Doğrulanmış botların robots.txt ve HTTP 429 gibi site tercihlerini dikkate alıp almadığını sürekli olarak değerlendirecek ve zaman içinde sorumlu kalmalarını sağlayacak bir sistem sunuyoruz.",
+      "summary": "Kimlik tek başına bir botun sorumlu davranacağını garanti etmez. Doğrulanmış botların robots.txt ve HTTP 429 gibi site tercihlerini dikkate alıp almadığını sürekli olarak değerlendirecek ve zaman içinde sorumlu kalmalarını sağlayacak bir sistem sunuyoruz.",
       "url": "https://blog.cloudflare.com/verified-bots-accountability/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M51ZPERWNWYTD7Z36YMY80A8.01M51ZPFH7VV8EHQTMPJG9FHZ4.png",
       "source": "Cloudflare Security",
@@ -485,7 +485,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Doğrulanmış botlar için sürekli sorumluluk Kimlik tek başına bir botun sorumlu bir şekilde davranacağını garanti etmez. Doğrulanmış botların robots.txt ve HTTP 429 gibi site tercihlerini dikkate alıp almadığını sürekli olarak değerlendirecek ve zaman içinde sorumlu kalmalarını sağlayacak bir sistem sunuyoruz. Continuous accountability for Verified bots Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time. Cloudflare Security Web",
+      "keywords": "Doğrulanmış botlar için sürekli sorumluluk Kimlik tek başına bir botun sorumlu davranacağını garanti etmez. Doğrulanmış botların robots.txt ve HTTP 429 gibi site tercihlerini dikkate alıp almadığını sürekli olarak değerlendirecek ve zaman içinde sorumlu kalmalarını sağlayacak bir sistem sunuyoruz. Continuous accountability for Verified bots Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time. Cloudflare Security Web",
       "title_original": "Continuous accountability for Verified bots",
       "summary_original": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
       "published_display": "2026-10-16",
@@ -515,7 +515,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli",
-      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için giderek daha fazla yapay zeka kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
+      "summary": "Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır.",
       "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png",
       "source": "Cloudflare Security",
@@ -525,7 +525,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlamak için giderek daha fazla yapay zeka kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesabın kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
+      "keywords": "Konuyu takip edin: hesabın kötüye kullanımını araştırmak için yeni bir kontrol paneli Dolandırıcılar, durum bilgisi olmayan güvenlik kontrollerini atlatmak için yapay zekayı giderek daha fazla kullanıyor. Cloudflare'in yeni Hesap Kötüye Kullanım Koruması kontrol paneli, ekiplerin hesap kötüye kullanımını araştırmasına ve engellemesine yardımcı olmak için durum bilgisi içeren analiz ve uçta oluşturulan Karma Kullanıcı Kimliklerini kullanır. Follow the thread: a new dashboard to investigate account abuse Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse. Cloudflare Security Web",
       "title_original": "Follow the thread: a new dashboard to investigate account abuse",
       "summary_original": "Fraudsters are increasingly using AI to bypass stateless security checks. Cloudflare's new Account Abuse Protection dashboard uses stateful analysis and edge-generated Hashed User IDs to help teams investigate and block account abuse.",
       "published_display": "2026-10-02",
@@ -595,7 +595,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
-      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi; memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
+      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,7 +605,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi; memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
       "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
       "published_display": "2026-10-11",
