@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi?",
-      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
+      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi ancak menajer kendi başına 11 puanı daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
       "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,7 +85,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
+      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi ancak menajer kendi başına 11 puanı daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
       "title_original": "Can a local git remote replace GitHub in your agent eval?",
       "summary_original": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos...",
       "published_display": "2026-10-20",
@@ -150,26 +150,6 @@
       "summary_original": "Fast, focused, low-cost decisions for any application.",
       "published_display": "2026-10-22",
       "id": "9d3a6ed3e657"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI'de FDE ne anlama geliyor?",
-      "summary": "OpenAI'de ileri konuşlandırılmış mühendisliğin anlamı nedir?",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-22T06:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI'de FDE ne anlama geliyor? OpenAI'de ileri konuşlandırılmış mühendisliğin anlamı nedir? What FDE means at OpenAI What forward deployed engineering means at OpenAI AI OpenAI Model",
-      "title_original": "What FDE means at OpenAI",
-      "summary_original": "What forward deployed engineering means at OpenAI",
-      "published_display": "2026-10-22",
-      "id": "715fe054f177"
     },
     {
       "category": "ai",
@@ -252,10 +232,30 @@
       "id": "125fb5bb7d38"
     },
     {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "ChatGPT Reklamları, 100.000'den fazla reklamverenin platformu kullanması nedeniyle 26 yeni ülkeye yayılıyor",
+      "summary": "Yerel işletmelerden küresel markalara kadar daha fazla reklamveren artık ChatGPT'de araştırma yapan, karşılaştıran ve ne satın alacaklarına karar veren insanlara ulaşabiliyor.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-21T13:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "ChatGPT Reklamları, 100.000'den fazla reklamverenin platformu kullanması nedeniyle 26 yeni ülkeye yayılıyor Yerel işletmelerden küresel markalara kadar daha fazla reklamveren artık ChatGPT'de araştırma yapan, karşılaştıran ve ne satın alacaklarına karar veren insanlara ulaşabiliyor. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT. AI OpenAI Model",
+      "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary_original": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "published_display": "2026-10-21",
+      "id": "6895717ca3ca"
+    },
+    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşçilik Maliyetleri Fabrikaların El Kitabını Korumak İçin Artık Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1N4anowMkJKWVYzenNGRm95dXk5ajc3cDNKcnZDcHFnNFFMaFAwdzlUdlRucUZObGN1MnhPbi11T1Y1WFU0M2pkQkFHanZKdnpEeEMzT2pyaXNtTjJ6amxEdkc2c3hJWTk0dmMtaVFBV19IN3NGaFRrZmtnQUV5TV9fTUZXVGpXNmsyYlMyVWJnUmwzWVd3ZjExdmVacmNVcVZvSnNsMWpEb3pMUXU1Zkw1eURxaVZERExtTnpVNnNQenJ3YnNza0dKLUJ2ejFB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,7 +265,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşçilik Maliyetleri Fabrikaların El Kitabını Korumak İçin Artık Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation",
       "summary_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation",
       "published_display": "2026-10-22",
@@ -355,7 +355,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Endüstriyel Otomasyon Pazarını Gelecekte Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Endüstriyel Otomasyon Piyasasını Gelecekte Neler Bekliyor A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Endüstriyel Otomasyon Pazarını Neler Bekliyor A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGRhb0VMcTREaWlyWThHOGUxdkNUcWlQYV9xQUpuOUpqbS1aTWR1ZU9JM0RfSjc0TjI4aVBMdi1IMm55M0NFV01jUGhybFkxblg3R0xZbGZTaEk5aW5IUjdwY3NGZVhCdmRTc0l2RURSdkN3ZXBRRjdzczJYckVVekNOV3otenVsMEpqUEp3Yw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,7 +365,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstriyel Otomasyon Pazarını Gelecekte Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği Endüstriyel Otomasyon Piyasasını Gelecekte Neler Bekliyor A3 Otomasyonu Geliştirme Derneği What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Endüstriyel Otomasyon Pazarını Gelecekte Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği Endüstriyel Otomasyon Pazarını Neler Bekliyor A3 Otomasyonu Geliştirme Derneği What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation",
       "summary_original": "What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation",
       "published_display": "2026-10-15",
@@ -374,7 +374,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Eylül ayında web platformuna yeni",
+      "title": "Eylül ayında web platformunda yeni",
       "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "Eylül ayında web platformunda yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "b39291f2c779"
+      "id": "5c34f3e54888"
     },
     {
       "category": "web",
@@ -595,7 +595,7 @@
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
-      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
+      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi; memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,7 +605,7 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi; memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
       "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
       "published_display": "2026-10-11",
