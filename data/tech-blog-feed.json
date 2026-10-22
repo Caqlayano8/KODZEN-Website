@@ -14,8 +14,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "The bridge to agent-scale Git infrastructure",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea...",
+      "title": "Aracı ölçeğinde Git altyapısına köprü",
+      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
       "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,17 +25,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
+      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
       "title_original": "The bridge to agent-scale Git infrastructure",
       "summary_original": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea...",
       "published_display": "2026-10-21",
-      "id": "5d681525e181"
+      "id": "fafdfb403c2e"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir...",
+      "title": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor?",
+      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,17 +45,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
+      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı... How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
       "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
       "summary_original": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir...",
       "published_display": "2026-10-20",
-      "id": "9e35aef5b748"
+      "id": "daa9902b6233"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Can a local git remote replace GitHub in your agent eval?",
-      "summary": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos...",
+      "title": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi?",
+      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
       "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,17 +65,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
+      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
       "title_original": "Can a local git remote replace GitHub in your agent eval?",
       "summary_original": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos...",
       "published_display": "2026-10-20",
-      "id": "9460c6dd6bd5"
+      "id": "43e8deee5383"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
+      "title": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir",
+      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,17 +85,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "How to continue a GitHub Copilot app session in VS Code",
       "summary_original": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
       "published_display": "2026-10-19",
-      "id": "76506722c8b1"
+      "id": "4bf6e9d8e485"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "The next developer interface is ambient intelligence",
-      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared...",
+      "title": "Bir sonraki geliştirici arayüzü ortam zekasıdır",
+      "summary": "Yapay zeka, aracılar, ses ve fiziksel kontroller, yazılım geliştirmeyi işletim araçlarından amacı ifade etmeye kaydırıyor ve geliştiricilerin geliştirmeye odaklanmalarına yardımcı oluyor. Gönderide bir sonraki geliştirici arayüzü ortam zekası ortaya çıktı...",
       "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,17 +105,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "The next developer interface is ambient intelligence AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared... The next developer interface is ambient intelligence AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared... GitHub Dev Platform",
+      "keywords": "Bir sonraki geliştirici arayüzü ortam zekasıdır Yapay zeka, aracılar, ses ve fiziksel kontroller, yazılım geliştirmeyi işletim araçlarından amacı ifade etmeye kaydırıyor ve geliştiricilerin geliştirmeye odaklanmalarına yardımcı oluyor. Gönderide bir sonraki geliştirici arayüzü ortam zekası ortaya çıktı... The next developer interface is ambient intelligence AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared... GitHub Dev Platform",
       "title_original": "The next developer interface is ambient intelligence",
       "summary_original": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared...",
       "published_display": "2026-10-15",
-      "id": "b9708c9a636b"
+      "id": "c365b8a631cc"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
+      "title": "Her Zaman Yeşil Kalmak: Paylaşılan bir kuruluşta güvenli erişimi ve depo hijyenini nasıl otomatikleştirdik?",
+      "summary": "Dışarıdan ortak çalışan erişimini incelemek ve eski veri havuzlarını arşivlemek için yerel GitHub özelliklerini kullanın. Daima Yeşil Kalmak: Paylaşılan bir kuruluşta güvenli erişimi ve depo hijyenini nasıl otomatikleştirdik yazısı ilk olarak GitHub Blogunda yayınlandı.",
       "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,17 +125,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog . Staying Evergreen: How we automated secure access and repo hygiene in a shared org Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Her Zaman Yeşil Kalmak: Paylaşılan bir kuruluşta güvenli erişimi ve depo hijyenini nasıl otomatikleştirdik? Dışarıdan ortak çalışan erişimini incelemek ve eski veri havuzlarını arşivlemek için yerel GitHub özelliklerini kullanın. Daima Yeşil Kalmak: Paylaşılan bir kuruluşta güvenli erişimi ve depo hijyenini nasıl otomatikleştirdik yazısı ilk olarak GitHub Blogunda yayınlandı. Staying Evergreen: How we automated secure access and repo hygiene in a shared org Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
       "summary_original": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .",
       "published_display": "2026-10-15",
-      "id": "4492eaad9fe3"
+      "id": "bff313717f5f"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Broad access through consistent standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "title": "Tutarlı standartlar aracılığıyla geniş erişim",
+      "summary": "OpenAI, tutarlı koruma önlemlerini sürdürmek, sorumlu erişimi desteklemek ve Kullanım Politikalarımızdaki beklentileri netleştirmek için dağıtım ortaklarıyla nasıl çalışır?",
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,17 +145,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Broad access through consistent standards How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies. Broad access through consistent standards How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies. AI OpenAI Model",
+      "keywords": "Tutarlı standartlar aracılığıyla geniş erişim OpenAI, tutarlı koruma önlemlerini sürdürmek, sorumlu erişimi desteklemek ve Kullanım Politikalarımızdaki beklentileri netleştirmek için dağıtım ortaklarıyla nasıl çalışır? Broad access through consistent standards How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies. AI OpenAI Model",
       "title_original": "Broad access through consistent standards",
       "summary_original": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "published_display": "2026-10-21",
-      "id": "f033682d0c6c"
+      "id": "18ea6e99a87f"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "title": "AT&T, OpenAI ile şirket içi yasal çalışmaları nasıl yeniden düşünüyor?",
+      "summary": "AT&T, hukuki bilgiye erişimi kolaylaştırmak için OpenAI ile birlikte çalışıyor. LegalEdge ekibinin hukuki karar almayı ve ölçeklendirmeyi nasıl yeniden düşündüğünü öğrenin.",
       "url": "https://openai.com/index/att-legal",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,17 +165,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "How AT&T is rethinking in-house legal work with OpenAI AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment. How AT&T is rethinking in-house legal work with OpenAI AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment. AI OpenAI Model",
+      "keywords": "AT&T, OpenAI ile şirket içi yasal çalışmaları nasıl yeniden düşünüyor? AT&T, hukuki bilgiye erişimi kolaylaştırmak için OpenAI ile birlikte çalışıyor. LegalEdge ekibinin hukuki karar almayı ve ölçeklendirmeyi nasıl yeniden düşündüğünü öğrenin. How AT&T is rethinking in-house legal work with OpenAI AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment. AI OpenAI Model",
       "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
       "summary_original": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
       "published_display": "2026-10-21",
-      "id": "3be12340f150"
+      "id": "4cf946871a39"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-      "summary": "Health & Bioscience",
+      "title": "Yapay zeka destekli ultrasonla ön saflardaki anne bakımını güçlendirmek",
+      "summary": "Sağlık ve Biyoloji",
       "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
       "source": "Google Research Blog",
@@ -185,17 +185,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience AI Research Google",
+      "keywords": "Yapay zeka destekli ultrasonla ön saflardaki anne bakımını güçlendirmek Sağlık ve Biyoloji Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience AI Research Google",
       "title_original": "Empowering frontline maternal care with AI-assisted ultrasound",
       "summary_original": "Health & Bioscience",
       "published_display": "2026-10-21",
-      "id": "26384250a73b"
+      "id": "125fb5bb7d38"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "title": "ChatGPT Reklamları, 100.000'den fazla reklamverenin platformu kullanması nedeniyle 26 yeni ülkeye yayılıyor",
+      "summary": "Yerel işletmelerden küresel markalara kadar, artık daha fazla reklamveren, ChatGPT'de araştırma yapan, karşılaştıran ve ne satın alacaklarına karar veren insanlara ulaşabiliyor.",
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,17 +205,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT. AI OpenAI Model",
+      "keywords": "ChatGPT Reklamları, 100.000'den fazla reklamverenin platformu kullanması nedeniyle 26 yeni ülkeye yayılıyor Yerel işletmelerden küresel markalara kadar, artık daha fazla reklamveren, ChatGPT'de araştırma yapan, karşılaştıran ve ne satın alacaklarına karar veren insanlara ulaşabiliyor. ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT. AI OpenAI Model",
       "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "summary_original": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "published_display": "2026-10-21",
-      "id": "1a960a430347"
+      "id": "6895717ca3ca"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "OpenAI models are coming to Google Cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "title": "OpenAI modelleri Google Cloud'a geliyor",
+      "summary": "OpenAI ve Google Cloud, Gemini'nin Google Cloud Marketplace aracılığıyla erişilebilen Model Garden'ına sınır modelleri ve Codex iş akışları getiriyor.",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,17 +225,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI models are coming to Google Cloud OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace. OpenAI models are coming to Google Cloud OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace. AI OpenAI Model",
+      "keywords": "OpenAI modelleri Google Cloud'a geliyor OpenAI ve Google Cloud, Gemini'nin Google Cloud Marketplace aracılığıyla erişilebilen Model Garden'ına sınır modelleri ve Codex iş akışları getiriyor. OpenAI models are coming to Google Cloud OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace. AI OpenAI Model",
       "title_original": "OpenAI models are coming to Google Cloud",
       "summary_original": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
       "published_display": "2026-10-21",
-      "id": "d8b3f0e12ab5"
+      "id": "e3e061f0d7d7"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "title": "Gezegeni Yamalayın: Ajanlar kritik güvenlik açıklarını ortaya çıkarırken küresel müdahale koordinasyonu",
+      "summary": "Patch the Planet, açık kaynaktaki kritik güvenlik açıklarının giderilmesine yardımcı olmak için güvenlik araştırmacılarını, bakımcılarını ve olay müdahale ekiplerini birbirine bağlar.",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "image_url": null,
       "source": "OpenAI News",
@@ -245,17 +245,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source. Patch the Planet: global response coordination as agents uncover critical vulnerabilities Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source. AI OpenAI Model",
+      "keywords": "Gezegeni Yamalayın: Ajanlar kritik güvenlik açıklarını ortaya çıkarırken küresel müdahale koordinasyonu Patch the Planet, açık kaynaktaki kritik güvenlik açıklarının giderilmesine yardımcı olmak için güvenlik araştırmacılarını, bakımcılarını ve olay müdahale ekiplerini birbirine bağlar. Patch the Planet: global response coordination as agents uncover critical vulnerabilities Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source. AI OpenAI Model",
       "title_original": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "summary_original": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
       "published_display": "2026-10-21",
-      "id": "b94456f9a5c7"
+      "id": "5c082ea12191"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul - Bisinfotech",
-      "summary": "Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul Bisinfotech",
+      "title": "Arrow Electronics, Seul'de robotik, endüstriyel IoT ve akıllı otomasyon üzerine teknik seminere ev sahipliği yaptı - Bisinfotech",
+      "summary": "Arrow Electronics, Seul'de robotik, endüstriyel IoT ve akıllı otomasyon üzerine teknik seminere ev sahipliği yaptı Bisinfotech",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWZNSmthNGVYdHM4bTA3QzBWaEc4TF9PcFlLV0otMHlFR0lETjdjclRVeVZNRjB2c2ZqUGxMd3A5U19jcnBMdmJEeVFzNkVZeFBzaUpKSDI0QzFneHJKT1NwU245N29YUkhSZ0RKcHhMZkd5X0tob3d2a29uaEhhdDNMekQ3ekFLeUxwSXJLX1NJMmxOWlMtVnRqVmF4X1F6T0ZsdHFvNDQ3MDVqcnZQOGMtLXlwLVdFYm9aR2l5OTBtYzk0eWpEQ3kxU1hFQQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,17 +265,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul - Bisinfotech Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul Bisinfotech Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul - Bisinfotech Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul Bisinfotech Robotics Automation Industry",
+      "keywords": "Arrow Electronics, Seul'de robotik, endüstriyel IoT ve akıllı otomasyon üzerine teknik seminere ev sahipliği yaptı - Bisinfotech Arrow Electronics, Seul'de robotik, endüstriyel IoT ve akıllı otomasyon üzerine teknik seminere ev sahipliği yaptı Bisinfotech Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul - Bisinfotech Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul Bisinfotech Robotics Automation Industry",
       "title_original": "Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul - Bisinfotech",
       "summary_original": "Arrow Electronics hosts technical seminar on robotics, industrial IoT, and intelligent automation in Seoul Bisinfotech",
       "published_display": "2026-10-21",
-      "id": "0c4429c316ea"
+      "id": "2f97cc6b309c"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Automation Created a Training Problem: Upskilling the Industrial Workforce - Robotics & Automation News",
-      "summary": "Automation Created a Training Problem: Upskilling the Industrial Workforce Robotics & Automation News",
+      "title": "Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması - Robotik ve Otomasyon Haberleri",
+      "summary": "Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdDZRZnVSNUNOUTFKLVNHR0RRUGVuS1M1MWcybmZZUVBSOGVfcTF1X1VGYlJlSUMzN1oxTDRsT0ZENTlyNTN2MFhhdWg0MWxHWG9NR0dpN1NxQkxxUTRlOHpnaEp6c0FOQnp0RV9MTlUxMnpTYk9nUEt3aHh1TUZQQklZVU5KZTVoM0VMM2hlbG41MHNBeFExZS12SzdBMjk0dzlBaU90MjItYWxicWY2c3pGZWVVM0EzV3RicXpmb0ZHYWVXZmZxNHNn?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,17 +285,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Automation Created a Training Problem: Upskilling the Industrial Workforce - Robotics & Automation News Automation Created a Training Problem: Upskilling the Industrial Workforce Robotics & Automation News Automation Created a Training Problem: Upskilling the Industrial Workforce - Robotics & Automation News Automation Created a Training Problem: Upskilling the Industrial Workforce Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması - Robotik ve Otomasyon Haberleri Otomasyon Bir Eğitim Sorunu Yarattı: Endüstriyel İşgücünün Becerilerinin Artırılması Robotik ve Otomasyon Haberleri Automation Created a Training Problem: Upskilling the Industrial Workforce - Robotics & Automation News Automation Created a Training Problem: Upskilling the Industrial Workforce Robotics & Automation News Robotics Automation Industry",
       "title_original": "Automation Created a Training Problem: Upskilling the Industrial Workforce - Robotics & Automation News",
       "summary_original": "Automation Created a Training Problem: Upskilling the Industrial Workforce Robotics & Automation News",
       "published_display": "2026-10-20",
-      "id": "43c35870b944"
+      "id": "a7ec73b87e91"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "How the UAE plans to bring robotics and automation into local factories - Fast Company Middle East",
-      "summary": "How the UAE plans to bring robotics and automation into local factories Fast Company Middle East",
+      "title": "BAE, robot teknolojisi ve otomasyonu yerel fabrikalara nasıl getirmeyi planlıyor - Fast Company Middle East",
+      "summary": "BAE, yerel fabrikalara robot teknolojisi ve otomasyonu nasıl getirmeyi planlıyor Fast Company Orta Doğu",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzhiaXY4aTRYanN4MkVUdWhvWEo2bHBMX19SMlVxNnZIX1YwR3Y1WFdTajJuUEJiRV95X215emJGOWJqVXZLcHV5djFvMkZyQU1jVEpCM040c19CMy1TaUx5R2t2dGZrTlRiejVzdFBNNDNRRmZIQ1JULXNydWJCOE1IREhuRXpQSllsU3Z2VUZhekkwMy1PTTB0OFc5bW53UTZtMXNR?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "How the UAE plans to bring robotics and automation into local factories - Fast Company Middle East How the UAE plans to bring robotics and automation into local factories Fast Company Middle East How the UAE plans to bring robotics and automation into local factories - Fast Company Middle East How the UAE plans to bring robotics and automation into local factories Fast Company Middle East Robotics Automation Industry",
+      "keywords": "BAE, robot teknolojisi ve otomasyonu yerel fabrikalara nasıl getirmeyi planlıyor - Fast Company Middle East BAE, yerel fabrikalara robot teknolojisi ve otomasyonu nasıl getirmeyi planlıyor Fast Company Orta Doğu How the UAE plans to bring robotics and automation into local factories - Fast Company Middle East How the UAE plans to bring robotics and automation into local factories Fast Company Middle East Robotics Automation Industry",
       "title_original": "How the UAE plans to bring robotics and automation into local factories - Fast Company Middle East",
       "summary_original": "How the UAE plans to bring robotics and automation into local factories Fast Company Middle East",
       "published_display": "2026-10-20",
-      "id": "4b3e843393f4"
+      "id": "3f0709234645"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz",
-      "summary": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz",
+      "title": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz",
+      "summary": "FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnJmMWFiSXM2NGVGSE44OVR2OGpDSlhmcjZXQUszZWFYTlRVOFl4aGotVHpUX2lpdHZZRnYzRnJkRW5MSjZrMWUxU0JfNnZHcFJRSFhHQk1lM0xSenBYbEJfTVh3d1Q3cUVncXk0RWZCTnM2ZWpkeFVmeHNXaGczZHVwT2RpNlAxckhBc1MtZ0NyalpHNWxJZnhQUzBZelowWjVVb1YyeG91T251bHR0dUYyNGlFNXpFYTJJaFFDbw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz Robotics Automation Industry",
+      "keywords": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz Robotics Automation Industry",
       "title_original": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz",
       "summary_original": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz",
       "published_display": "2026-10-19",
-      "id": "098978ae6901"
+      "id": "3cdeae87b5f2"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News",
-      "summary": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News",
+      "title": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak - Robotik ve Otomasyon Haberleri",
+      "summary": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak Robotik ve Otomasyon Haberleri",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRVUtNUxYczNpVUxzaEt6aVJLMzlhYTRnUFBrVFY4b0NVZlN3MWRheEZwa3ZTcXBfMGdzOGNienNEbVIzY1duckFjakRTWTVKY3Z4dzliSUlaSkU0YlljU2JOWDhRZXlPMmw5OXlKNjBsUW5NeTRiSG5DUzZRTmplUlJsY2Q3MDhVdDF4bjZzQzFFbWZsNUt1aFFSMWZtbG5MS0dmTk9MVEhncVpXYk9MMDlETGpwQXRQQjRQY0l4OTVvNjFQZXhxQ0thT0VPQm5EczJaNVd5eDVzZw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,17 +345,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News Robotics Automation Industry",
+      "keywords": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak - Robotik ve Otomasyon Haberleri 3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak Robotik ve Otomasyon Haberleri New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News Robotics Automation Industry",
       "title_original": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News",
       "summary_original": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News",
       "published_display": "2026-10-19",
-      "id": "e96399b4e29a"
+      "id": "56ff81263632"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation",
-      "summary": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation",
+      "title": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1N4anowMkJKWVYzenNGRm95dXk5ajc3cDNKcnZDcHFnNFFMaFAwdzlUdlRucUZObGN1MnhPbi11T1Y1WFU0M2pkQkFHanZKdnpEeEMzT2pyaXNtTjJ6amxEdkc2c3hJWTk0dmMtaVFBV19IN3NGaFRrZmtnQUV5TV9fTUZXVGpXNmsyYlMyVWJnUmwzWVd3ZjExdmVacmNVcVZvSnNsMWpEb3pMUXU1Zkw1eURxaVZERExtTnpVNnNQenJ3YnNza0dKLUJ2ejFB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,17 +365,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation",
       "summary_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation",
       "published_display": "2026-10-16",
-      "id": "f80a88d8de57"
+      "id": "509f0c5ef0cb"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "New to the web platform in September",
-      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
+      "title": "Eylül ayında web platformuna yeni",
+      "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -385,17 +385,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "408e82c9a4bc"
+      "id": "b39291f2c779"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "August 2026 Baseline monthly digest",
-      "summary": "Read about various happenings with Baseline during August 2026.",
+      "title": "Ağustos 2026 Temel aylık özet",
+      "summary": "Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
       "url": "https://web.dev/blog/baseline-digest-aug-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -405,17 +405,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
+      "keywords": "Ağustos 2026 Temel aylık özet Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
       "title_original": "August 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during August 2026.",
       "published_display": "2026-09-28",
-      "id": "e508abcdedaa"
+      "id": "1285588553ae"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Find features to support for Interop 2027 with your coding agent",
-      "summary": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
+      "title": "Kodlama aracınızla Interop 2027 için desteklenecek özellikleri bulun",
+      "summary": "Olumlu oylanacak Interop 2027 tekliflerini veya önerilecek özellikleri bulmak için kodlama aracınızı nasıl kullanabileceğinizi öğrenin.",
       "url": "https://web.dev/blog/coding-agents-interop-proposals?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -425,17 +425,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Web Performance Frontend",
+      "keywords": "Kodlama aracınızla Interop 2027 için desteklenecek özellikleri bulun Olumlu oylanacak Interop 2027 tekliflerini veya önerilecek özellikleri bulmak için kodlama aracınızı nasıl kullanabileceğinizi öğrenin. Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Web Performance Frontend",
       "title_original": "Find features to support for Interop 2027 with your coding agent",
       "summary_original": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
       "published_display": "2026-09-18",
-      "id": "25b3b04990ea"
+      "id": "b0fc1fea72f2"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Introducing full transaction detection for Cloudflare WAF",
-      "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection...",
+      "title": "Cloudflare WAF için tam işlem algılamayla tanışın",
+      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
       "url": "https://blog.cloudflare.com/full-transaction-waf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png",
       "source": "Cloudflare Security",
@@ -445,17 +445,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
+      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
       "title_original": "Introducing full transaction detection for Cloudflare WAF",
       "summary_original": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection...",
       "published_display": "2026-10-21",
-      "id": "b62084fdb001"
+      "id": "93aa2ca0f3cc"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data fro...",
+      "title": "Cloudflare, php2shell güvenlik açığına karşı koruma sağlıyor",
+      "summary": "Cloudflare, kamuya açıklanmadan önce yeni açıklanan PHP güvenlik açıkları için varsayılan web uygulaması güvenlik duvarı (WAF) korumalarını devreye aldı. Kurallar, istismar girişimlerini durdurmak ve verilerin açığa çıkmasını önlemek için istek ve yanıt sinyallerini kullanır.",
       "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01KXQSMGN3Z955B45GCJR4REK3.png",
       "source": "Cloudflare Security",
@@ -465,17 +465,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare deploys protections against php2shell vulnerability Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data fro... Cloudflare deploys protections against php2shell vulnerability Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data fro... Cloudflare Security Web",
+      "keywords": "Cloudflare, php2shell güvenlik açığına karşı koruma sağlıyor Cloudflare, kamuya açıklanmadan önce yeni açıklanan PHP güvenlik açıkları için varsayılan web uygulaması güvenlik duvarı (WAF) korumalarını devreye aldı. Kurallar, istismar girişimlerini durdurmak ve verilerin açığa çıkmasını önlemek için istek ve yanıt sinyallerini kullanır. Cloudflare deploys protections against php2shell vulnerability Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data fro... Cloudflare Security Web",
       "title_original": "Cloudflare deploys protections against php2shell vulnerability",
       "summary_original": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data fro...",
       "published_display": "2026-10-21",
-      "id": "2588deab604b"
+      "id": "2892b480566c"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "8 eMudhra certificates are compromised. Here's what you need to know",
-      "summary": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
+      "title": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler",
+      "summary": "Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz.",
       "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5DK5FY53PEFH46MT990YMSR.png",
       "source": "Cloudflare Security",
@@ -485,17 +485,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
+      "keywords": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
       "title_original": "8 eMudhra certificates are compromised. Here's what you need to know",
       "summary_original": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
       "published_display": "2026-10-20",
-      "id": "e4465e3dfff2"
+      "id": "f8bc807ba67a"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
-      "summary": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
+      "title": "Yamanın ötesinde: NetScaler ağ geçidinizi gelecekteki güvenlik açıklarına karşı koruma",
+      "summary": "CVE-2026-88771, saldırganların herhangi biri oturum açmadan önce NetScaler Gateway üzerinde komut çalıştırmasına olanak tanıyor. Yama işlemi çoğu ekibin sahip olmadığı bir zaman alıyor, bu nedenle oturum açma kararının savunmasız kodun önüne geçmesi gerekiyor.",
       "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M537RBT01XNYZ0RR0CP9PS55.png",
       "source": "Cloudflare Security",
@@ -505,17 +505,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code. Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code. Cloudflare Security Web",
+      "keywords": "Yamanın ötesinde: NetScaler ağ geçidinizi gelecekteki güvenlik açıklarına karşı koruma CVE-2026-88771, saldırganların herhangi biri oturum açmadan önce NetScaler Gateway üzerinde komut çalıştırmasına olanak tanıyor. Yama işlemi çoğu ekibin sahip olmadığı bir zaman alıyor, bu nedenle oturum açma kararının savunmasız kodun önüne geçmesi gerekiyor. Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code. Cloudflare Security Web",
       "title_original": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
       "summary_original": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
       "published_display": "2026-10-19",
-      "id": "ab7607d184e9"
+      "id": "944e1999d328"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Continuous accountability for Verified bots",
-      "summary": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
+      "title": "Doğrulanmış botlar için sürekli sorumluluk",
+      "summary": "Kimlik tek başına bir botun sorumlu bir şekilde davranacağını garanti etmez. Doğrulanmış botların robots.txt ve HTTP 429 gibi site tercihlerini dikkate alıp almadığını sürekli olarak değerlendirecek ve zaman içinde sorumlu kalmalarını sağlayacak bir sistem sunuyoruz.",
       "url": "https://blog.cloudflare.com/verified-bots-accountability/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M51ZPERWNWYTD7Z36YMY80A8.01M51ZPFH7VV8EHQTMPJG9FHZ4.png",
       "source": "Cloudflare Security",
@@ -525,17 +525,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Continuous accountability for Verified bots Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time. Continuous accountability for Verified bots Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time. Cloudflare Security Web",
+      "keywords": "Doğrulanmış botlar için sürekli sorumluluk Kimlik tek başına bir botun sorumlu bir şekilde davranacağını garanti etmez. Doğrulanmış botların robots.txt ve HTTP 429 gibi site tercihlerini dikkate alıp almadığını sürekli olarak değerlendirecek ve zaman içinde sorumlu kalmalarını sağlayacak bir sistem sunuyoruz. Continuous accountability for Verified bots Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time. Cloudflare Security Web",
       "title_original": "Continuous accountability for Verified bots",
       "summary_original": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
       "published_display": "2026-10-16",
-      "id": "25abd56f03ee"
+      "id": "bdc7934c5e81"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
-      "summary": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded...",
+      "title": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma",
+      "summary": "Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar...",
       "url": "https://blog.cloudflare.com/agentic-security-operations/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png",
       "source": "Cloudflare Security",
@@ -545,17 +545,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
+      "keywords": "Cloudflare'de kanıta dayalı bir ajans güvenlik operasyonları donanımı oluşturma Cloudflare Managed Defense, güvenlik uyarılarını analiz etmek için İşçiler ve küresel ağ telemetrisi üzerine kurulu özel yapay zeka aracılarından oluşan bir ekip kullanır. Sistem, deterministik kanıt toplamayı model çıkarımından ayırarak, sağlam temellere dayalı sonuçlar sunar... Building an evidence-grounded agentic security operations harness on Cloudflare Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded... Cloudflare Security Web",
       "title_original": "Building an evidence-grounded agentic security operations harness on Cloudflare",
       "summary_original": "Cloudflare Managed Defense uses a team of specialized AI agents built on Workers and global network telemetry to analyze security alerts. By separating deterministic evidence collection from model inference, the system delivers grounded...",
       "published_display": "2026-10-07",
-      "id": "cd00e8dfbe57"
+      "id": "ae0abce46092"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
+      "title": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili",
+      "summary": "Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,17 +565,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
+      "keywords": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
       "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
       "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
       "published_display": "2026-10-15",
-      "id": "a206d4b1a6bf"
+      "id": "7c4bdc82df8d"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox",
-      "summary": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox",
+      "title": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox",
+      "summary": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelNTeUdrTElhMERWZFhyc0UtRmZCbnNEM2Y1WWdUYTBmNndWdkRfckZHb3NxT1ZqRGJsN3Fob053SklmbjlHN1JDUTVtYzFnMjQ1NUNFcE9Eb0ZGdHlnRzFsN2o0NkJSb0tZU2l6dWFTdDFmLUhjSS04dDJWX2d6a2lFTlktcE9tUGc5eERhQ3RrMGY1LVVOXy12VEhKOFpDS2ZrdnN0elhFTmpyM0lCN2lDbHdCVEUtdVFPVkpEb3dhQ2ZS?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,17 +585,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox IP Camera Video Surveillance",
+      "keywords": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox 2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox IP Camera Video Surveillance",
       "title_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox",
       "summary_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox",
       "published_display": "2026-10-15",
-      "id": "22d136708d3c"
+      "id": "9fceb0a083ec"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
+      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
+      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -605,17 +605,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
+      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
       "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
       "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
       "published_display": "2026-10-11",
-      "id": "80d82e57e3e1"
+      "id": "a63b87253590"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
-      "summary": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
+      "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
+      "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,17 +625,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
+      "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
       "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
       "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "published_display": "2026-10-10",
-      "id": "7f766a2a98e6"
+      "id": "33214d55f737"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
-      "summary": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
+      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
+      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,17 +645,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
       "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
       "published_display": "2026-10-08",
-      "id": "a0d70264cefa"
+      "id": "6611c4e5a777"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News",
-      "summary": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
+      "title": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News",
+      "summary": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDQySzBoamV1cUNQY29PN1FRdjZ1aXN4aW5JV25uWjVBTklDY0xraE4tc1g4Tzljb2E5SktxR0ZVNlpxdmhFMWtFTnRndlF2QlNtTUk2VDgwSFNDa0hEZ213S2U5ekptNUJJSWp4d1RrdFM3djdIZ2pmNXlEdHRFdjNCeC1manoxZWhfenlERmM4d0U0NllJMA?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -665,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News IP Camera Video Surveillance",
+      "keywords": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News IP Camera Video Surveillance",
       "title_original": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News",
       "summary_original": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
       "published_display": "2026-09-24",
-      "id": "6e3187992146"
+      "id": "be8d0c51373d"
     }
   ]
 }
