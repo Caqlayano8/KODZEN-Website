@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T00:00:00Z",
+  "updated_at": "2026-10-23T17:00:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -15,7 +15,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor?",
-      "summary": "Siber Güvenlik Farkındalığı Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı...",
+      "summary": "Siber Güvenlik Farkındalık Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı...",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,7 +25,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor? Siber Güvenlik Farkındalığı Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı... How bug bounty sharpens one researcher’s security skills As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi... GitHub Dev Platform",
+      "keywords": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor? Siber Güvenlik Farkındalık Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı... How bug bounty sharpens one researcher’s security skills As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi... GitHub Dev Platform",
       "title_original": "How bug bounty sharpens one researcher’s security skills",
       "summary_original": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi...",
       "published_display": "2026-10-22",
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Aracı ölçeğinde Git altyapısına köprü",
-      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
+      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
       "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
+      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
       "title_original": "The bridge to agent-scale Git infrastructure",
       "summary_original": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea...",
       "published_display": "2026-10-21",
@@ -134,8 +134,28 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "1 milyardan fazla ChatGPT kullanıcısına hizmet verecek şekilde çevrimiçi depolamayı hızla ölçeklendirme (Bölüm II)",
+      "summary": "OpenAI'nin, ChatGPT için 12 kat daha hızlı okuma sağlamak üzere güvenilir çoklu kiracılık, küresel önbellekleme ve Azure Cosmos DB ile Habitat'ı nasıl ölçeklendirdiğini öğrenin.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-23T17:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "1 milyardan fazla ChatGPT kullanıcısına hizmet verecek şekilde çevrimiçi depolamayı hızla ölçeklendirme (Bölüm II) OpenAI'nin, ChatGPT için 12 kat daha hızlı okuma sağlamak üzere güvenilir çoklu kiracılık, küresel önbellekleme ve Azure Cosmos DB ile Habitat'ı nasıl ölçeklendirdiğini öğrenin. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. AI OpenAI Model",
+      "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary_original": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "published_display": "2026-10-23",
+      "id": "0e54a0430190"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "OpenAI ve Polonya'nın NASK ortaklığı yapay zeka emniyetini ve güvenliğini geliştirmek için çalışıyor",
-      "summary": "OpenAI ve Polonyalı NASK, korumaları güçlendirmek ve daha dayanıklı bir dijital ekosistemi desteklemek için yapay zeka güvenliği, güvenlik ve teknik araştırmalar konusunda ortaklık kuruyor.",
+      "summary": "OpenAI ve Polonyalı NASK, korumaları güçlendirmek ve daha dayanıklı bir dijital ekosistemi desteklemek için yapay zeka emniyeti, güvenliği ve teknik araştırmaları konusunda ortaklık yapıyor.",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI ve Polonya'nın NASK ortaklığı yapay zeka emniyetini ve güvenliğini geliştirmek için çalışıyor OpenAI ve Polonyalı NASK, korumaları güçlendirmek ve daha dayanıklı bir dijital ekosistemi desteklemek için yapay zeka güvenliği, güvenlik ve teknik araştırmalar konusunda ortaklık kuruyor. OpenAI and Poland’s NASK partner to advance AI safety and security OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem. AI OpenAI Model",
+      "keywords": "OpenAI ve Polonya'nın NASK ortaklığı yapay zeka emniyetini ve güvenliğini geliştirmek için çalışıyor OpenAI ve Polonyalı NASK, korumaları güçlendirmek ve daha dayanıklı bir dijital ekosistemi desteklemek için yapay zeka emniyeti, güvenliği ve teknik araştırmaları konusunda ortaklık yapıyor. OpenAI and Poland’s NASK partner to advance AI safety and security OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem. AI OpenAI Model",
       "title_original": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "summary_original": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
       "published_display": "2026-10-23",
@@ -195,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Uber, OpenAI ile ChatGPT Work'ü tüm çalışanlarına sunuyor",
-      "summary": "Uber, ChatGPT Work'ü 30.000'den fazla çalışanın kullanımına sunarak ekiplerin araştırma yapmasına, verileri analiz etmesine, sunum oluşturmasına ve karmaşık iş akışlarını tamamlamasına yardımcı oluyor.",
+      "summary": "Uber, ChatGPT Work'ü 30.000'den fazla çalışanın kullanımına sunarak ekiplerin araştırma yapmasına, verileri analiz etmesine, sunumlar oluşturmasına ve karmaşık iş akışlarını tamamlamasına yardımcı oluyor.",
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Uber, OpenAI ile ChatGPT Work'ü tüm çalışanlarına sunuyor Uber, ChatGPT Work'ü 30.000'den fazla çalışanın kullanımına sunarak ekiplerin araştırma yapmasına, verileri analiz etmesine, sunum oluşturmasına ve karmaşık iş akışlarını tamamlamasına yardımcı oluyor. Uber brings ChatGPT Work to all employees with OpenAI Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows. AI OpenAI Model",
+      "keywords": "Uber, OpenAI ile ChatGPT Work'ü tüm çalışanlarına sunuyor Uber, ChatGPT Work'ü 30.000'den fazla çalışanın kullanımına sunarak ekiplerin araştırma yapmasına, verileri analiz etmesine, sunumlar oluşturmasına ve karmaşık iş akışlarını tamamlamasına yardımcı oluyor. Uber brings ChatGPT Work to all employees with OpenAI Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows. AI OpenAI Model",
       "title_original": "Uber brings ChatGPT Work to all employees with OpenAI",
       "summary_original": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
       "published_display": "2026-10-22",
@@ -230,26 +250,6 @@
       "summary_original": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "published_display": "2026-10-21",
       "id": "18ea6e99a87f"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "AT&T, OpenAI ile şirket içi yasal çalışmaları nasıl yeniden düşünüyor?",
-      "summary": "AT&T, hukuki bilgiye erişimi kolaylaştırmak için OpenAI ile birlikte çalışıyor. LegalEdge ekibinin hukuki karar almayı ve ölçeklendirmeyi nasıl yeniden düşündüğünü öğrenin.",
-      "url": "https://openai.com/index/att-legal",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-21T17:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "AT&T, OpenAI ile şirket içi yasal çalışmaları nasıl yeniden düşünüyor? AT&T, hukuki bilgiye erişimi kolaylaştırmak için OpenAI ile birlikte çalışıyor. LegalEdge ekibinin hukuki karar almayı ve ölçeklendirmeyi nasıl yeniden düşündüğünü öğrenin. How AT&T is rethinking in-house legal work with OpenAI AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment. AI OpenAI Model",
-      "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary_original": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "published_display": "2026-10-21",
-      "id": "4cf946871a39"
     },
     {
       "category": "robotik",
@@ -455,7 +455,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Cloudflare WAF için tam işlem algılamayla tanışın",
-      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
+      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, açığa çıkan verileri ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
       "url": "https://blog.cloudflare.com/full-transaction-waf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png",
       "source": "Cloudflare Security",
@@ -465,7 +465,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
+      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, açığa çıkan verileri ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
       "title_original": "Introducing full transaction detection for Cloudflare WAF",
       "summary_original": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection...",
       "published_display": "2026-10-21",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler",
-      "summary": "Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz.",
+      "summary": "Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, tepkimizi ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz.",
       "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5DK5FY53PEFH46MT990YMSR.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
+      "keywords": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, tepkimizi ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
       "title_original": "8 eMudhra certificates are compromised. Here's what you need to know",
       "summary_original": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
       "published_display": "2026-10-20",
