@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T16:00:00Z",
-  "total_posts": 33,
+  "updated_at": "2026-10-26T22:01:23Z",
+  "total_posts": 30,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 6
+    "kamera": 3
   },
   "posts": [
     {
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor?",
-      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı...",
+      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun üretkenliği artırmak için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı.",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı... How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
+      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun üretkenliği artırmak için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı. How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
       "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
       "summary_original": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir...",
       "published_display": "2026-10-20",
@@ -114,8 +114,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir",
-      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
+      "title": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir",
+      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,31 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "How to continue a GitHub Copilot app session in VS Code",
       "summary_original": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
       "published_display": "2026-10-19",
-      "id": "59be90b4ad7d"
+      "id": "4bf6e9d8e485"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Greptile, GPT-6 Astra ile hata tespitini kod incelemenin ötesine taşıyor",
+      "summary": "Greptile, kullanıcı iş akışlarını test etmek için GPT-6 Astra'yı, güvenliği güçlendirmek için Daybreak'i ve yeniden çalışmayı azaltmak için Codex'i nasıl kullanıyor?",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-26T22:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Greptile, GPT-6 Astra ile hata tespitini kod incelemenin ötesine taşıyor Greptile, kullanıcı iş akışlarını test etmek için GPT-6 Astra'yı, güvenliği güçlendirmek için Daybreak'i ve yeniden çalışmayı azaltmak için Codex'i nasıl kullanıyor? Greptile takes bug detection beyond code review with GPT-6 Astra How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. AI OpenAI Model",
+      "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary_original": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "published_display": "2026-10-26",
+      "id": "eb704d89e057"
     },
     {
       "category": "ai",
@@ -150,6 +170,46 @@
       "summary_original": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
       "published_display": "2026-10-26",
       "id": "b890a5717604"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Bilimsel anlayış oluşturmak için akademik topluluklarla çalışmak",
+      "summary": "OpenAI, Kakeya varsayımı, Üstel Zaman Hipotezi ve kuantum renk dinamiği hakkındaki model sonuçlarını ve araştırmacıların bunları nasıl doğrulayıp temel alabileceklerini paylaşıyor.",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-26T14:30:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Bilimsel anlayış oluşturmak için akademik topluluklarla çalışmak OpenAI, Kakeya varsayımı, Üstel Zaman Hipotezi ve kuantum renk dinamiği hakkındaki model sonuçlarını ve araştırmacıların bunları nasıl doğrulayıp temel alabileceklerini paylaşıyor. Working with academic communities to build scientific understanding OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them. AI OpenAI Model",
+      "title_original": "Working with academic communities to build scientific understanding",
+      "summary_original": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "published_display": "2026-10-26",
+      "id": "414304011e5c"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "GPT-6.1 Sol, CodeRabbit'in karmaşık kod tabanlarında güvenliği güçlendirmesine yardımcı oluyor",
+      "summary": "CodeRabbit, karmaşık kod tabanlarındaki güvenlik risklerini araştırmak için GPT-6.1 Sol'u kullanıyor. Güvenlik aracısı, geliştiricilerin bulguları ve önerilen düzeltmeleri incelemesine yardımcı olur.",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-26T13:45:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "GPT-6.1 Sol, CodeRabbit'in karmaşık kod tabanlarında güvenliği güçlendirmesine yardımcı oluyor CodeRabbit, karmaşık kod tabanlarındaki güvenlik risklerini araştırmak için GPT-6.1 Sol'u kullanıyor. Güvenlik aracısı, geliştiricilerin bulguları ve önerilen düzeltmeleri incelemesine yardımcı olur. GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes. AI OpenAI Model",
+      "title_original": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary_original": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "published_display": "2026-10-26",
+      "id": "a95a7fe1db0f"
     },
     {
       "category": "ai",
@@ -190,66 +250,6 @@
       "summary_original": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
       "published_display": "2026-10-26",
       "id": "db4b3a674425"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Fanatics ve OpenAI hayran deneyimini nasıl kolaylaştırıyor?",
-      "summary": "Fanatics, Shop the Look ile taraftarların maç günü kıyafetlerini tamamlamalarına yardımcı olmak için OpenAI'yi kullanıyor. Yaklaşık 30.000 MLB ürününde yapılan testler %10 daha yüksek etkileşim gösterdi.",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-26T07:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Fanatics ve OpenAI hayran deneyimini nasıl kolaylaştırıyor? Fanatics, Shop the Look ile taraftarların maç günü kıyafetlerini tamamlamalarına yardımcı olmak için OpenAI'yi kullanıyor. Yaklaşık 30.000 MLB ürününde yapılan testler %10 daha yüksek etkileşim gösterdi. How Fanatics and OpenAI streamline the fan experience Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement. AI OpenAI Model",
-      "title_original": "How Fanatics and OpenAI streamline the fan experience",
-      "summary_original": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "published_display": "2026-10-26",
-      "id": "2057f0c28c1a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-6.1 Terra ile Tanışın",
-      "summary": "Herkese hızlı ve yetenekli bilgisayar kullanımı sağlıyoruz",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-26T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "GPT-6.1 Terra ile Tanışın Herkese hızlı ve yetenekli bilgisayar kullanımı sağlıyoruz Introducing GPT-6.1 Terra Bringing fast and capable computer use to everyone AI OpenAI Model",
-      "title_original": "Introducing GPT-6.1 Terra",
-      "summary_original": "Bringing fast and capable computer use to everyone",
-      "published_display": "2026-10-26",
-      "id": "74c1f23d84d5"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Temel modelleri TB taramasının ön saflarına getiriyoruz",
-      "summary": "Üretken Yapay Zeka",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AIforTBScreening2_Xray.png",
-      "source": "Google Research Blog",
-      "published_at": "2026-10-23T18:51:33Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Temel modelleri TB taramasının ön saflarına getiriyoruz Üretken Yapay Zeka Bringing foundational models to the front lines of TB screening Generative AI AI Research Google",
-      "title_original": "Bringing foundational models to the front lines of TB screening",
-      "summary_original": "Generative AI",
-      "published_display": "2026-10-23",
-      "id": "52cfc784d047"
     },
     {
       "category": "robotik",
@@ -294,27 +294,27 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Endüstriyel Otomasyon Pazarı Neden Zirveye Çıkıyor? - openPR.com",
-      "summary": "Endüstriyel Otomasyon Pazarı Neden Zirvede Oluyor? openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMFRnOHB1QW5fVlZUS2ljUTYxQXVDdXFraUZjV1NMRUR0dk1WdmtwZjJlZWpFWm5WZk5QUU1wbGYtT2l1dVNFVnRzZG1GSTZ2N2t1WHVqU0NjNWpsTnNzMDItTGFSOGNKcXpEWDNsLXhwakNrLThGMzF4RUVLdVZPNDJUYUZCX3dabVpyQ1REZ2Rfc3lr?oc=5",
+      "title": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
+      "summary": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVZhWmsyTzNEY2ZwSVlBN1pMU0lNMGtHN2d6SG9uOTZua19CNGlTaldHZW5Nd2xQYjR0NXp5SEpNUTQ2M0tLZmFzdU1vMEY3QTBQdmdORHpIN0NodXo0WHltUjZWUEdqUXF1VlF2d1REYzU1bW1hTVFoRlp3NHBvbkVhLVkwdzdNYmFNdDJzTkhUVkpwNVA4Q2Rn?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-23T13:17:18Z",
+      "published_at": "2026-10-22T22:16:35Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstriyel Otomasyon Pazarı Neden Zirveye Çıkıyor? - openPR.com Endüstriyel Otomasyon Pazarı Neden Zirvede Oluyor? openPR.com Why Is the Industrial Automation Market Becoming a Top - openPR.com Why Is the Industrial Automation Market Becoming a Top openPR.com Robotics Automation Industry",
-      "title_original": "Why Is the Industrial Automation Market Becoming a Top - openPR.com",
-      "summary_original": "Why Is the Industrial Automation Market Becoming a Top openPR.com",
-      "published_display": "2026-10-23",
-      "id": "c46316537ccd"
+      "keywords": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
+      "title_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
+      "published_display": "2026-10-22",
+      "id": "d319f926e15b"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Formic, Yapay Zeka Destekli Robot Teknolojisini ABD İmalatında Genişletmek İçin 50 Milyon Dolar Topladı - citybiz",
+      "title": "Formic, ABD İmalatında Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı - citybiz",
       "summary": "Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkdsRndRb0VkRmJZMEJBendJQUJGcWc1aEljcFNVYm5vLUVHaVN0Wm9WYmhuVlNZcFUyM0g4SWFqVmdzNnR5ckVPRHB0RXA1ZW9tbGhBNlRlQnNfTEZlNXEtRHVsUExPZkFzWEpialdoNjJkWG5KZnRDZ0V2MzlReV9Qb3VpLUZURHRRQ2RTeGczd1JVYXBPa1NuMloxc1BtZld4YkJvQ0lJMmFDNFBKT3JLajZhX2dkVWc?oc=5",
       "image_url": null,
@@ -325,51 +325,51 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Formic, Yapay Zeka Destekli Robot Teknolojisini ABD İmalatında Genişletmek İçin 50 Milyon Dolar Topladı - citybiz Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz Robotics Automation Industry",
+      "keywords": "Formic, ABD İmalatında Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı - citybiz Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz Robotics Automation Industry",
       "title_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz",
       "summary_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz",
       "published_display": "2026-10-22",
-      "id": "7069a37943b6"
+      "id": "78f0d4093dab"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDlEU1hhb1lETDI2NVdraE9BbGd4d2FyaUNqc21ROG9waFRxalhzNzFCS2tBOV8yQ0NIMDA2bndGLW0zcldZVzZzNnJVWFlXZE81Y0RFVVczTHFuWG1ISFhvc1RvbFlFUHQxaVJzcmdjby1ManBKM0dhRXdXeXE2UE1NZ2RxSUlEVjhNNzJSN0czeUVVU0dVc3YtY2dDRjNuNFExMzA0YlA?oc=5",
+      "title": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz",
+      "summary": "FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnJmMWFiSXM2NGVGSE44OVR2OGpDSlhmcjZXQUszZWFYTlRVOFl4aGotVHpUX2lpdHZZRnYzRnJkRW5MSjZrMWUxU0JfNnZHcFJRSFhHQk1lM0xSenBYbEJfTVh3d1Q3cUVncXk0RWZCTnM2ZWpkeFVmeHNXaGczZHVwT2RpNlAxckhBc1MtZ0NyalpHNWxJZnhQUzBZelowWjVVb1YyeG91T251bHR0dUYyNGlFNXpFYTJJaFFDbw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-14T14:00:30Z",
+      "published_at": "2026-10-19T14:50:43Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
-      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
-      "published_display": "2026-10-14",
-      "id": "c6a8a8b02ee7"
+      "keywords": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz Robotics Automation Industry",
+      "title_original": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz",
+      "summary_original": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz",
+      "published_display": "2026-10-19",
+      "id": "3cdeae87b5f2"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor - Uluslararası Robotik Federasyonu",
-      "summary": "Dünya Çapında Fabrikalarda Beş Milyon Robot Çalışıyor Uluslararası Robotik Federasyonu",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
+      "title": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak - Robotik ve Otomasyon Haberleri",
+      "summary": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak Robotik ve Otomasyon Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRVUtNUxYczNpVUxzaEt6aVJLMzlhYTRnUFBrVFY4b0NVZlN3MWRheEZwa3ZTcXBfMGdzOGNienNEbVIzY1duckFjakRTWTVKY3Z4dzliSUlaSkU0YlljU2JOWDhRZXlPMmw5OXlKNjBsUW5NeTRiSG5DUzZRTmplUlJsY2Q3MDhVdDF4bjZzQzFFbWZsNUt1aFFSMWZtbG5MS0dmTk9MVEhncVpXYk9MMDlETGpwQXRQQjRQY0l4OTVvNjFQZXhxQ0thT0VPQm5EczJaNVd5eDVzZw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-09-24T07:00:00Z",
+      "published_at": "2026-10-19T12:01:33Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor - Uluslararası Robotik Federasyonu Dünya Çapında Fabrikalarda Beş Milyon Robot Çalışıyor Uluslararası Robotik Federasyonu Five Million Robots now Operate in Factories Globally - International Federation of Robotics Five Million Robots now Operate in Factories Globally International Federation of Robotics Robotics Automation Industry",
-      "title_original": "Five Million Robots now Operate in Factories Globally - International Federation of Robotics",
-      "summary_original": "Five Million Robots now Operate in Factories Globally International Federation of Robotics",
-      "published_display": "2026-09-24",
-      "id": "d428f9dc5806"
+      "keywords": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak - Robotik ve Otomasyon Haberleri 3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak Robotik ve Otomasyon Haberleri New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News Robotics Automation Industry",
+      "title_original": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News",
+      "summary_original": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News",
+      "published_display": "2026-10-19",
+      "id": "56ff81263632"
     },
     {
       "category": "web",
@@ -430,6 +430,26 @@
       "summary_original": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
       "published_display": "2026-09-18",
       "id": "b0fc1fea72f2"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "GLM-5.3 Workers AI modelinde çapraz istek KV önbelleğine maruz kalma ve SGLang ile iyileştirmemiz",
+      "summary": "Workers AI üzerinde GLM 5.3'teki bir yapılandırma uyumsuzluğu, istekler arasında KV önbellek sayfalarını açığa çıkaran bir SGLang hatasını tetikledi. Sorunu şu şekilde ele aldık.",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5X2P2KSNBX6J13E3B4219PW.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-10-26T22:01:23Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "GLM-5.3 Workers AI modelinde çapraz istek KV önbelleğine maruz kalma ve SGLang ile iyileştirmemiz Workers AI üzerinde GLM 5.3'teki bir yapılandırma uyumsuzluğu, istekler arasında KV önbellek sayfalarını açığa çıkaran bir SGLang hatasını tetikledi. Sorunu şu şekilde ele aldık. Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue. Cloudflare Security Web",
+      "title_original": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+      "summary_original": "A configuration mismatch in GLM 5.3 on Workers AI triggered an SGLang bug that exposed KV cache pages across requests. Here is how we addressed the issue.",
+      "published_display": "2026-10-26",
+      "id": "f158729539fc"
     },
     {
       "category": "siber",
@@ -532,86 +552,6 @@
       "id": "944e1999d328"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Doğrulanmış botlar için sürekli sorumluluk",
-      "summary": "Kimlik tek başına bir botun sorumlu bir şekilde davranacağını garanti etmez. Doğrulanmış botların robots.txt ve HTTP 429 gibi site tercihlerini dikkate alıp almadığını sürekli olarak değerlendirecek ve zaman içinde sorumlu kalmalarını sağlayacak bir sistem sunuyoruz.",
-      "url": "https://blog.cloudflare.com/verified-bots-accountability/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M51ZPERWNWYTD7Z36YMY80A8.01M51ZPFH7VV8EHQTMPJG9FHZ4.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-10-16T13:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Doğrulanmış botlar için sürekli sorumluluk Kimlik tek başına bir botun sorumlu bir şekilde davranacağını garanti etmez. Doğrulanmış botların robots.txt ve HTTP 429 gibi site tercihlerini dikkate alıp almadığını sürekli olarak değerlendirecek ve zaman içinde sorumlu kalmalarını sağlayacak bir sistem sunuyoruz. Continuous accountability for Verified bots Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time. Cloudflare Security Web",
-      "title_original": "Continuous accountability for Verified bots",
-      "summary_original": "Identity alone doesn't guarantee a bot will behave responsibly. We are introducing a system to continuously evaluate whether Verified bots honor site preferences, like robots.txt and HTTP 429s, ensuring they remain accountable over time.",
-      "published_display": "2026-10-16",
-      "id": "bdc7934c5e81"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox",
-      "summary": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelNTeUdrTElhMERWZFhyc0UtRmZCbnNEM2Y1WWdUYTBmNndWdkRfckZHb3NxT1ZqRGJsN3Fob053SklmbjlHN1JDUTVtYzFnMjQ1NUNFcE9Eb0ZGdHlnRzFsN2o0NkJSb0tZU2l6dWFTdDFmLUhjSS04dDJWX2d6a2lFTlktcE9tUGc5eERhQ3RrMGY1LVVOXy12VEhKOFpDS2ZrdnN0elhFTmpyM0lCN2lDbHdCVEUtdVFPVkpEb3dhQ2ZS?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-15T11:01:04Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox 2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox IP Camera Video Surveillance",
-      "title_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox",
-      "summary_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox",
-      "published_display": "2026-10-15",
-      "id": "9fceb0a083ec"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili",
-      "summary": "Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-15T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
-      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
-      "published_display": "2026-10-15",
-      "id": "7c4bdc82df8d"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
-      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "published_display": "2026-10-11",
-      "id": "a63b87253590"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
@@ -654,22 +594,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News",
-      "summary": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDQySzBoamV1cUNQY29PN1FRdjZ1aXN4aW5JV25uWjVBTklDY0xraE4tc1g4Tzljb2E5SktxR0ZVNlpxdmhFMWtFTnRndlF2QlNtTUk2VDgwSFNDa0hEZ213S2U5ekptNUJJSWp4d1RrdFM3djdIZ2pmNXlEdHRFdjNCeC1manoxZWhfenlERmM4d0U0NllJMA?oc=5",
+      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
+      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-09-24T07:00:00Z",
+      "published_at": "2026-09-16T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) - OKW News ABD'deki En İyi 10 Ticari Güvenlik Kamera Sistemi (2026) OKW News Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News Top 10 Commercial Security Camera Systems in the USA (2026) OKW News IP Camera Video Surveillance",
-      "title_original": "Top 10 Commercial Security Camera Systems in the USA (2026) - OKW News",
-      "summary_original": "Top 10 Commercial Security Camera Systems in the USA (2026) OKW News",
-      "published_display": "2026-09-24",
-      "id": "be8d0c51373d"
+      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
+      "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
+      "published_display": "2026-09-16",
+      "id": "8218ddf01fee"
     }
   ]
 }
