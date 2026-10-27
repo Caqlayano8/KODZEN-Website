@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-10-27T17:35:00Z",
-  "total_posts": 31,
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 4
+    "kamera": 6
   },
   "posts": [
     {
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor?",
-      "summary": "Siber Güvenlik Farkındalık Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı...",
+      "summary": "Siber Güvenlik Farkındalığı Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı...",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor? Siber Güvenlik Farkındalık Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı... How bug bounty sharpens one researcher’s security skills As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi... GitHub Dev Platform",
+      "keywords": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor? Siber Güvenlik Farkındalığı Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı... How bug bounty sharpens one researcher’s security skills As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi... GitHub Dev Platform",
       "title_original": "How bug bounty sharpens one researcher’s security skills",
       "summary_original": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi...",
       "published_display": "2026-10-22",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Aracı ölçeğinde Git altyapısına köprü",
-      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
+      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
       "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
+      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
       "title_original": "The bridge to agent-scale Git infrastructure",
       "summary_original": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea...",
       "published_display": "2026-10-21",
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi?",
-      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
+      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi ancak menajer kendi başına 11 puanı daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
       "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -105,7 +105,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
+      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi ancak menajer kendi başına 11 puanı daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
       "title_original": "Can a local git remote replace GitHub in your agent eval?",
       "summary_original": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos...",
       "published_display": "2026-10-20",
@@ -114,8 +114,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir",
-      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
+      "title": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir",
+      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "How to continue a GitHub Copilot app session in VS Code",
       "summary_original": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
       "published_display": "2026-10-19",
-      "id": "59be90b4ad7d"
+      "id": "4bf6e9d8e485"
     },
     {
       "category": "ai",
@@ -150,6 +150,26 @@
       "summary_original": "Education Innovation",
       "published_display": "2026-10-27",
       "id": "7977ce0896a7"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Retell, aylık 100 milyon çağrıyı desteklemek için OpenAI modellerini kullanıyor",
+      "summary": "GPT-6 Astra, Retell'in sesli temsilci karşılaştırmasında zirvede yer alırken Codex, çalışan başına 1,6 milyon dolarlık yıllık gelir oranına ulaşmasına yardımcı oluyor.",
+      "url": "https://openai.com/index/retell-ai",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-27T15:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Retell, aylık 100 milyon çağrıyı desteklemek için OpenAI modellerini kullanıyor GPT-6 Astra, Retell'in sesli temsilci karşılaştırmasında zirvede yer alırken Codex, çalışan başına 1,6 milyon dolarlık yıllık gelir oranına ulaşmasına yardımcı oluyor. Retell uses OpenAI models to help power 100M monthly calls GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee. AI OpenAI Model",
+      "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summary_original": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "published_display": "2026-10-27",
+      "id": "353f15ea0f90"
     },
     {
       "category": "ai",
@@ -230,26 +250,6 @@
       "summary_original": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
       "published_display": "2026-10-26",
       "id": "b890a5717604"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Bilimsel anlayış oluşturmak için akademik topluluklarla çalışmak",
-      "summary": "OpenAI, Kakeya varsayımı, Üstel Zaman Hipotezi ve kuantum renk dinamiği ile ilgili model sonuçlarını ve araştırmacıların bunları nasıl doğrulayıp temel alabileceklerini paylaşıyor.",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-26T14:30:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Bilimsel anlayış oluşturmak için akademik topluluklarla çalışmak OpenAI, Kakeya varsayımı, Üstel Zaman Hipotezi ve kuantum renk dinamiği ile ilgili model sonuçlarını ve araştırmacıların bunları nasıl doğrulayıp temel alabileceklerini paylaşıyor. Working with academic communities to build scientific understanding OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them. AI OpenAI Model",
-      "title_original": "Working with academic communities to build scientific understanding",
-      "summary_original": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "published_display": "2026-10-26",
-      "id": "414304011e5c"
     },
     {
       "category": "robotik",
@@ -434,7 +434,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş",
+      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesiyle tanışın",
       "summary": "WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor.",
       "url": "https://blog.cloudflare.com/php-ctf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png",
@@ -445,11 +445,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
+      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesiyle tanışın WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
       "title_original": "Introducing the Cloudflare PHP Capture the Flag challenge",
       "summary_original": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
       "published_display": "2026-10-27",
-      "id": "17b55e6da1a4"
+      "id": "37f4f40bfc07"
     },
     {
       "category": "siber",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Cloudflare WAF için tam işlem algılamayla tanışın",
-      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
+      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, açığa çıkan verileri ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
       "url": "https://blog.cloudflare.com/full-transaction-waf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
+      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, açığa çıkan verileri ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
       "title_original": "Introducing full transaction detection for Cloudflare WAF",
       "summary_original": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection...",
       "published_display": "2026-10-21",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri",
+      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP üzerinden saldırı - Pasquale Pillitteri",
       "summary": "Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
       "image_url": null,
@@ -565,31 +565,51 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
+      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP üzerinden saldırı - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
       "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
       "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
       "published_display": "2026-10-27",
-      "id": "631249f4ced3"
+      "id": "7964082882ee"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri",
-      "summary": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDhSSkd2am02dnhMampDZEFUZS04ZUFIVkdDNkptVVlNV0xzTVVoZW9QX182SE9nQzZTTGVlQWQzbVAyeExCdTNiY0R6QXQ4SWZxZDg5d3VjZlJNNGdvOG1XeHN1QUktTFI3SXN3aDNsZEVGN0xNRWNNLTdLNzluZg?oc=5",
+      "title": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox",
+      "summary": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelNTeUdrTElhMERWZFhyc0UtRmZCbnNEM2Y1WWdUYTBmNndWdkRfckZHb3NxT1ZqRGJsN3Fob053SklmbjlHN1JDUTVtYzFnMjQ1NUNFcE9Eb0ZGdHlnRzFsN2o0NkJSb0tZU2l6dWFTdDFmLUhjSS04dDJWX2d6a2lFTlktcE9tUGc5eERhQ3RrMGY1LVVOXy12VEhKOFpDS2ZrdnN0elhFTmpyM0lCN2lDbHdCVEUtdVFPVkpEb3dhQ2ZS?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-10-27T06:34:00Z",
+      "published_at": "2026-10-15T11:01:04Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
-      "title_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
-      "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
-      "published_display": "2026-10-27",
-      "id": "d151b5a67629"
+      "keywords": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox 2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox IP Camera Video Surveillance",
+      "title_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox",
+      "summary_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox",
+      "published_display": "2026-10-15",
+      "id": "9fceb0a083ec"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili",
+      "summary": "Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-15T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
+      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
+      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
+      "published_display": "2026-10-15",
+      "id": "7c4bdc82df8d"
     },
     {
       "category": "kamera",
@@ -614,22 +634,42 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
-      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
+      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
+      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi; memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-09-16T07:00:00Z",
+      "published_at": "2026-10-11T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
-      "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
-      "published_display": "2026-09-16",
-      "id": "8218ddf01fee"
+      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi; memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
+      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
+      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
+      "published_display": "2026-10-11",
+      "id": "a63b87253590"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
+      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-08T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
+      "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
+      "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
+      "published_display": "2026-10-08",
+      "id": "6611c4e5a777"
     }
   ]
 }
