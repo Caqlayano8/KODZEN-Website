@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T22:01:23Z",
-  "total_posts": 30,
+  "updated_at": "2026-10-27T13:00:00Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 3
+    "kamera": 6
   },
   "posts": [
     {
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Aracı ölçeğinde Git altyapısına köprü",
-      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
+      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
       "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
+      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
       "title_original": "The bridge to agent-scale Git infrastructure",
       "summary_original": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea...",
       "published_display": "2026-10-21",
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor?",
-      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun üretkenliği artırmak için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı.",
+      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun üretkenliği artırmak için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı. How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
+      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı... How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
       "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
       "summary_original": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir...",
       "published_display": "2026-10-20",
@@ -114,8 +114,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir",
-      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
+      "title": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir",
+      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "How to continue a GitHub Copilot app session in VS Code",
       "summary_original": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
       "published_display": "2026-10-19",
-      "id": "4bf6e9d8e485"
+      "id": "59be90b4ad7d"
     },
     {
       "category": "ai",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Bilimsel anlayış oluşturmak için akademik topluluklarla çalışmak",
-      "summary": "OpenAI, Kakeya varsayımı, Üstel Zaman Hipotezi ve kuantum renk dinamiği hakkındaki model sonuçlarını ve araştırmacıların bunları nasıl doğrulayıp temel alabileceklerini paylaşıyor.",
+      "summary": "OpenAI, Kakeya varsayımı, Üstel Zaman Hipotezi ve kuantum renk dinamiği ile ilgili model sonuçlarını ve araştırmacıların bunları nasıl doğrulayıp temel alabileceklerini paylaşıyor.",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Bilimsel anlayış oluşturmak için akademik topluluklarla çalışmak OpenAI, Kakeya varsayımı, Üstel Zaman Hipotezi ve kuantum renk dinamiği hakkındaki model sonuçlarını ve araştırmacıların bunları nasıl doğrulayıp temel alabileceklerini paylaşıyor. Working with academic communities to build scientific understanding OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them. AI OpenAI Model",
+      "keywords": "Bilimsel anlayış oluşturmak için akademik topluluklarla çalışmak OpenAI, Kakeya varsayımı, Üstel Zaman Hipotezi ve kuantum renk dinamiği ile ilgili model sonuçlarını ve araştırmacıların bunları nasıl doğrulayıp temel alabileceklerini paylaşıyor. Working with academic communities to build scientific understanding OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them. AI OpenAI Model",
       "title_original": "Working with academic communities to build scientific understanding",
       "summary_original": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
       "published_display": "2026-10-26",
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Kanadalı Charl-Pol, Norveçli Storvik ile robotik ortak girişimi kuruyor - Robotics & Automation News",
+      "summary": "Kanadalı Charl-Pol, Norveçli Storvik Robotics & Automation News ile robotik ortak girişimi kuruyor",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTXpWMHluWl9GLTdsZFZVOVBuWUY5SGl6X1VqM1RsRmV5TFRLeGt1c2doOUhBVmVxV285Q3lUd1NMc3lmZjZEOE93MnpNdjJrTkJCRXp5NElnNTgwemJSbmpmU0lmMUdnci1rMTdwazl5cW5NT04weEJiVjdpUEZpNm5waWZyekRYX0lNVDkxMzVVRDZDaVFEQ3g0UzhGbnBkWERqNXNkeVJQb3JBWGtXQlZMRDg1Q3lGV1lETF9UR09QQ1pw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-26T21:55:01Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Kanadalı Charl-Pol, Norveçli Storvik ile robotik ortak girişimi kuruyor - Robotics & Automation News Kanadalı Charl-Pol, Norveçli Storvik Robotics & Automation News ile robotik ortak girişimi kuruyor Canada’s Charl-Pol creates robotics joint venture with Norway’s Storvik - Robotics & Automation News Canada’s Charl-Pol creates robotics joint venture with Norway’s Storvik Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Canada’s Charl-Pol creates robotics joint venture with Norway’s Storvik - Robotics & Automation News",
+      "summary_original": "Canada’s Charl-Pol creates robotics joint venture with Norway’s Storvik Robotics & Automation News",
+      "published_display": "2026-10-26",
+      "id": "cba5ded13b5b"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "Endüstriyel Robotikte Bağlantı Zorluklarını Çözün - Teknik Özetler",
       "summary": "Endüstriyel Robotik Teknik Özetlerinde Bağlantı Zorluklarını Çözün",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlZGR3pKN0J6c1pjdGsxWVFpaUN6TFZTejNja0hVS3pLYjQyM1YyNW10cUtUMTQzTXpLaElNWTJrbkJyV1A1Mkp4WTBDYmktZTVhSXRNYTc1aGs3RnJwRVhJZkFLR1VPLWhQUmxVWG0tYTBXRy1lQkwxZVJzbVZoVjc3c0hDQ3hYdmF4ekNGME1ZV2RmUlFoT1dlRTlLaldLTEQ3bTlibzVUN1lmS25OMQ?oc=5",
@@ -314,7 +334,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Formic, ABD İmalatında Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı - citybiz",
+      "title": "Formic, Yapay Zeka Destekli Robot Teknolojisini ABD İmalatında Genişletmek İçin 50 Milyon Dolar Topladı - citybiz",
       "summary": "Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkdsRndRb0VkRmJZMEJBendJQUJGcWc1aEljcFNVYm5vLUVHaVN0Wm9WYmhuVlNZcFUyM0g4SWFqVmdzNnR5ckVPRHB0RXA1ZW9tbGhBNlRlQnNfTEZlNXEtRHVsUExPZkFzWEpialdoNjJkWG5KZnRDZ0V2MzlReV9Qb3VpLUZURHRRQ2RTeGczd1JVYXBPa1NuMloxc1BtZld4YkJvQ0lJMmFDNFBKT3JLajZhX2dkVWc?oc=5",
       "image_url": null,
@@ -325,31 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Formic, ABD İmalatında Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı - citybiz Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz Robotics Automation Industry",
+      "keywords": "Formic, Yapay Zeka Destekli Robot Teknolojisini ABD İmalatında Genişletmek İçin 50 Milyon Dolar Topladı - citybiz Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz Robotics Automation Industry",
       "title_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz",
       "summary_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz",
       "published_display": "2026-10-22",
-      "id": "78f0d4093dab"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz",
-      "summary": "FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnJmMWFiSXM2NGVGSE44OVR2OGpDSlhmcjZXQUszZWFYTlRVOFl4aGotVHpUX2lpdHZZRnYzRnJkRW5MSjZrMWUxU0JfNnZHcFJRSFhHQk1lM0xSenBYbEJfTVh3d1Q3cUVncXk0RWZCTnM2ZWpkeFVmeHNXaGczZHVwT2RpNlAxckhBc1MtZ0NyalpHNWxJZnhQUzBZelowWjVVb1YyeG91T251bHR0dUYyNGlFNXpFYTJJaFFDbw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-19T14:50:43Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "FANUC Amerika Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açıyor - citybiz FANUC Amerika, Michigan'da 18 Milyon Dolarlık Robotik ve Otomasyon Eğitim Akademisi Açtı FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz Robotics Automation Industry",
-      "title_original": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan - citybiz",
-      "summary_original": "FANUC America Opens $18 Million Robotics and Automation Training Academy in Michigan citybiz",
-      "published_display": "2026-10-19",
-      "id": "3cdeae87b5f2"
+      "id": "7069a37943b6"
     },
     {
       "category": "robotik",
@@ -430,6 +430,26 @@
       "summary_original": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
       "published_display": "2026-09-18",
       "id": "b0fc1fea72f2"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş",
+      "summary": "WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor.",
+      "url": "https://blog.cloudflare.com/php-ctf/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-10-27T13:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
+      "title_original": "Introducing the Cloudflare PHP Capture the Flag challenge",
+      "summary_original": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
+      "published_display": "2026-10-27",
+      "id": "17b55e6da1a4"
     },
     {
       "category": "siber",
@@ -532,24 +552,84 @@
       "id": "f8bc807ba67a"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Yamanın ötesinde: NetScaler ağ geçidinizi gelecekteki güvenlik açıklarına karşı koruma",
-      "summary": "CVE-2026-88771, saldırganların herhangi biri oturum açmadan önce NetScaler Gateway üzerinde komut çalıştırmasına olanak tanıyor. Yama işlemi çoğu ekibin sahip olmadığı bir zaman alıyor, bu nedenle oturum açma kararının savunmasız kodun önüne geçmesi gerekiyor.",
-      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M537RBT01XNYZ0RR0CP9PS55.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-10-19T13:00:00Z",
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri",
+      "summary": "Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-27T08:17:35Z",
       "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
+        "IP Camera",
+        "Video",
+        "Surveillance"
       ],
-      "keywords": "Yamanın ötesinde: NetScaler ağ geçidinizi gelecekteki güvenlik açıklarına karşı koruma CVE-2026-88771, saldırganların herhangi biri oturum açmadan önce NetScaler Gateway üzerinde komut çalıştırmasına olanak tanıyor. Yama işlemi çoğu ekibin sahip olmadığı bir zaman alıyor, bu nedenle oturum açma kararının savunmasız kodun önüne geçmesi gerekiyor. Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code. Cloudflare Security Web",
-      "title_original": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
-      "summary_original": "CVE-2026-88771 lets attackers run commands on NetScaler Gateway before anyone signs in. Patching takes time most teams don't have, so the sign-in decision has to move in front of the vulnerable code.",
-      "published_display": "2026-10-19",
-      "id": "944e1999d328"
+      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
+      "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
+      "published_display": "2026-10-27",
+      "id": "631249f4ced3"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox",
+      "summary": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelNTeUdrTElhMERWZFhyc0UtRmZCbnNEM2Y1WWdUYTBmNndWdkRfckZHb3NxT1ZqRGJsN3Fob053SklmbjlHN1JDUTVtYzFnMjQ1NUNFcE9Eb0ZGdHlnRzFsN2o0NkJSb0tZU2l6dWFTdDFmLUhjSS04dDJWX2d6a2lFTlktcE9tUGc5eERhQ3RrMGY1LVVOXy12VEhKOFpDS2ZrdnN0elhFTmpyM0lCN2lDbHdCVEUtdVFPVkpEb3dhQ2ZS?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-15T11:01:04Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox 2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox IP Camera Video Surveillance",
+      "title_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox",
+      "summary_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox",
+      "published_display": "2026-10-15",
+      "id": "9fceb0a083ec"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili",
+      "summary": "Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-15T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
+      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
+      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
+      "published_display": "2026-10-15",
+      "id": "7c4bdc82df8d"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
+      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-11T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
+      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
+      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
+      "published_display": "2026-10-11",
+      "id": "a63b87253590"
     },
     {
       "category": "kamera",
@@ -590,26 +670,6 @@
       "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
       "published_display": "2026-10-08",
       "id": "6611c4e5a777"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
-      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-16T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
-      "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
-      "published_display": "2026-09-16",
-      "id": "8218ddf01fee"
     }
   ]
 }
