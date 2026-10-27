@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-27T13:00:00Z",
-  "total_posts": 33,
+  "updated_at": "2026-10-27T17:35:00Z",
+  "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 6
+    "kamera": 4
   },
   "posts": [
     {
@@ -134,6 +134,66 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Uyku çerçevesi: Yüksek Lisans'ların sürekli öğrenmede bilgiyi korumalarının yeni bir yolu",
+      "summary": "Eğitim İnovasyonu",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
+      "source": "Google Research Blog",
+      "published_at": "2026-10-27T17:35:00Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "Uyku çerçevesi: Yüksek Lisans'ların sürekli öğrenmede bilgiyi korumalarının yeni bir yolu Eğitim İnovasyonu The sleep framework: A new way for LLMs to retain knowledge in continual learning Education Innovation AI Research Google",
+      "title_original": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "summary_original": "Education Innovation",
+      "published_display": "2026-10-27",
+      "id": "7977ce0896a7"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI, uygulamalarını ChatGPT'ye taşımak için Oracle ile ortaklığını genişletiyor",
+      "summary": "OpenAI ve Oracle, iş uygulamalarını ve yapay zeka aracılarını ChatGPT'ye getirmek ve yeni Oracle tekliflerini güçlendirmek için ortaklıklarını genişletiyor.",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-27T07:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "OpenAI, uygulamalarını ChatGPT'ye taşımak için Oracle ile ortaklığını genişletiyor OpenAI ve Oracle, iş uygulamalarını ve yapay zeka aracılarını ChatGPT'ye getirmek ve yeni Oracle tekliflerini güçlendirmek için ortaklıklarını genişletiyor. OpenAI expands partnership with Oracle to bring its apps to ChatGPT OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings. AI OpenAI Model",
+      "title_original": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary_original": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "published_display": "2026-10-27",
+      "id": "ec8d93d6a5a5"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Check Point, Daybreak ile güvenlik açığı araştırmalarını nasıl hızlandırıyor?",
+      "summary": "Check Point, OpenAI Daybreak ile yeni güvenlik korumalarının ardındaki araştırmayı hızlandırarak analistlerinin güvenlik açığı istihbaratını müşteri savunmasına daha hızlı dönüştürmesine olanak tanıyor.",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-27T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Check Point, Daybreak ile güvenlik açığı araştırmalarını nasıl hızlandırıyor? Check Point, OpenAI Daybreak ile yeni güvenlik korumalarının ardındaki araştırmayı hızlandırarak analistlerinin güvenlik açığı istihbaratını müşteri savunmasına daha hızlı dönüştürmesine olanak tanıyor. How Check Point accelerates vulnerability research with Daybreak With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. AI OpenAI Model",
+      "title_original": "How Check Point accelerates vulnerability research with Daybreak",
+      "summary_original": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "published_display": "2026-10-27",
+      "id": "30df509bf274"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Greptile, GPT-6 Astra ile hata tespitini kod incelemenin ötesine taşıyor",
       "summary": "Greptile, kullanıcı iş akışlarını test etmek için GPT-6 Astra'yı, güvenliği güçlendirmek için Daybreak'i ve yeniden çalışmayı azaltmak için Codex'i nasıl kullanıyor?",
       "url": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -192,64 +252,24 @@
       "id": "414304011e5c"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "GPT-6.1 Sol, CodeRabbit'in karmaşık kod tabanlarında güvenliği güçlendirmesine yardımcı oluyor",
-      "summary": "CodeRabbit, karmaşık kod tabanlarındaki güvenlik risklerini araştırmak için GPT-6.1 Sol'u kullanıyor. Güvenlik aracısı, geliştiricilerin bulguları ve önerilen düzeltmeleri incelemesine yardımcı olur.",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robotik Otomasyon, MiR hizmet ortağı oldu - Yiyecek ve İçecek İşi",
+      "summary": "Robotik Otomasyon, MiR hizmet ortağı oldu Yiyecek ve İçecek İşi",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEd4UkpIV0EwcXZxOWtSa0NCYlJqTVZXamFXUURTSEpnT3dpNGpRVGdLa3dIWTNuNHI3N0lMMmlsVUt1QjdFa1hsNVNQaUx2LWFYVTBlbDhkbXMwenozQktldjNwdFlNdWtiTnFXUFRYelRhaHpKUUwwby1tOUlHODVuUXRIa21jbUVzWkY2VzU2MzJUWXc?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-26T13:45:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-10-27T09:30:17Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "GPT-6.1 Sol, CodeRabbit'in karmaşık kod tabanlarında güvenliği güçlendirmesine yardımcı oluyor CodeRabbit, karmaşık kod tabanlarındaki güvenlik risklerini araştırmak için GPT-6.1 Sol'u kullanıyor. Güvenlik aracısı, geliştiricilerin bulguları ve önerilen düzeltmeleri incelemesine yardımcı olur. GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes. AI OpenAI Model",
-      "title_original": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary_original": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "published_display": "2026-10-26",
-      "id": "a95a7fe1db0f"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "ChatGPT'nin genişleyen iş dünyası",
-      "summary": "İnsanların ChatGPT'yi iş için nasıl kullandığını ve kullanımın zaman içinde nasıl değiştiğini ortaya koyan, yaklaşık 100 ülkedeki 165 iş etkinliğine ilişkin OpenAI Signals verilerini keşfedin.",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-26T10:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "ChatGPT'nin genişleyen iş dünyası İnsanların ChatGPT'yi iş için nasıl kullandığını ve kullanımın zaman içinde nasıl değiştiğini ortaya koyan, yaklaşık 100 ülkedeki 165 iş etkinliğine ilişkin OpenAI Signals verilerini keşfedin. ChatGPT’s expanding world of work Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time. AI OpenAI Model",
-      "title_original": "ChatGPT’s expanding world of work",
-      "summary_original": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "published_display": "2026-10-26",
-      "id": "5143df605ed2"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Ultrafast, OpenAI'de olay araştırmasını saatlerden dakikalara nasıl indirdi?",
-      "summary": "OpenAI mühendislerinin olayları dakikalar içinde araştırmak için Codex Ultrafast'i nasıl kullandığını görün. Daha hızlı güvenlik analizini, kodu yeniden düzenlemeyi ve günlük iş akışlarını keşfedin.",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-26T07:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Ultrafast, OpenAI'de olay araştırmasını saatlerden dakikalara nasıl indirdi? OpenAI mühendislerinin olayları dakikalar içinde araştırmak için Codex Ultrafast'i nasıl kullandığını görün. Daha hızlı güvenlik analizini, kodu yeniden düzenlemeyi ve günlük iş akışlarını keşfedin. How Ultrafast cut incident investigation from hours to minutes at OpenAI See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows. AI OpenAI Model",
-      "title_original": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary_original": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "published_display": "2026-10-26",
-      "id": "db4b3a674425"
+      "keywords": "Robotik Otomasyon, MiR hizmet ortağı oldu - Yiyecek ve İçecek İşi Robotik Otomasyon, MiR hizmet ortağı oldu Yiyecek ve İçecek İşi Robotic Automation becomes MiR service partner - Food & Drink Business Robotic Automation becomes MiR service partner Food & Drink Business Robotics Automation Industry",
+      "title_original": "Robotic Automation becomes MiR service partner - Food & Drink Business",
+      "summary_original": "Robotic Automation becomes MiR service partner Food & Drink Business",
+      "published_display": "2026-10-27",
+      "id": "d40513382b3c"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz",
       "published_display": "2026-10-22",
       "id": "7069a37943b6"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak - Robotik ve Otomasyon Haberleri",
-      "summary": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak Robotik ve Otomasyon Haberleri",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRVUtNUxYczNpVUxzaEt6aVJLMzlhYTRnUFBrVFY4b0NVZlN3MWRheEZwa3ZTcXBfMGdzOGNienNEbVIzY1duckFjakRTWTVKY3Z4dzliSUlaSkU0YlljU2JOWDhRZXlPMmw5OXlKNjBsUW5NeTRiSG5DUzZRTmplUlJsY2Q3MDhVdDF4bjZzQzFFbWZsNUt1aFFSMWZtbG5MS0dmTk9MVEhncVpXYk9MMDlETGpwQXRQQjRQY0l4OTVvNjFQZXhxQ0thT0VPQm5EczJaNVd5eDVzZw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-19T12:01:33Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak - Robotik ve Otomasyon Haberleri 3,67 milyon £ değerindeki yeni Yorkshire Robotik Merkezi, üreticilerin otomasyon açığını kapatmasına yardımcı olacak Robotik ve Otomasyon Haberleri New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News Robotics Automation Industry",
-      "title_original": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap - Robotics & Automation News",
-      "summary_original": "New £3.67 million Yorkshire Robotics Hub will help manufacturers bridge automation gap Robotics & Automation News",
-      "published_display": "2026-10-19",
-      "id": "56ff81263632"
     },
     {
       "category": "web",
@@ -574,62 +574,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox",
-      "summary": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelNTeUdrTElhMERWZFhyc0UtRmZCbnNEM2Y1WWdUYTBmNndWdkRfckZHb3NxT1ZqRGJsN3Fob053SklmbjlHN1JDUTVtYzFnMjQ1NUNFcE9Eb0ZGdHlnRzFsN2o0NkJSb0tZU2l6dWFTdDFmLUhjSS04dDJWX2d6a2lFTlktcE9tUGc5eERhQ3RrMGY1LVVOXy12VEhKOFpDS2ZrdnN0elhFTmpyM0lCN2lDbHdCVEUtdVFPVkpEb3dhQ2ZS?oc=5",
+      "title": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri",
+      "summary": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDhSSkd2am02dnhMampDZEFUZS04ZUFIVkdDNkptVVlNV0xzTVVoZW9QX182SE9nQzZTTGVlQWQzbVAyeExCdTNiY0R6QXQ4SWZxZDg5d3VjZlJNNGdvOG1XeHN1QUktTFI3SXN3aDNsZEVGN0xNRWNNLTdLNzluZg?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-10-15T11:01:04Z",
+      "published_at": "2026-10-27T06:34:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox 2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox IP Camera Video Surveillance",
-      "title_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox",
-      "summary_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox",
-      "published_display": "2026-10-15",
-      "id": "9fceb0a083ec"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili",
-      "summary": "Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-15T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
-      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
-      "published_display": "2026-10-15",
-      "id": "7c4bdc82df8d"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
-      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "published_display": "2026-10-11",
-      "id": "a63b87253590"
+      "keywords": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
+      "title_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
+      "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
+      "published_display": "2026-10-27",
+      "id": "d151b5a67629"
     },
     {
       "category": "kamera",
@@ -639,7 +599,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-10-10T07:00:00Z",
+      "published_at": "2026-10-12T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
@@ -648,28 +608,28 @@
       "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
       "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
       "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
-      "published_display": "2026-10-10",
+      "published_display": "2026-10-12",
       "id": "33214d55f737"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
-      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
+      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
+      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-10-08T07:00:00Z",
+      "published_at": "2026-09-16T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
-      "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
-      "published_display": "2026-10-08",
-      "id": "6611c4e5a777"
+      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
+      "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
+      "published_display": "2026-09-16",
+      "id": "8218ddf01fee"
     }
   ]
 }
