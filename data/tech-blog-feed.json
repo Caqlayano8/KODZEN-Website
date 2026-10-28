@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-27T17:35:00Z",
-  "total_posts": 32,
+  "updated_at": "2026-10-28T15:04:33Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 5
+    "kamera": 6
   },
   "posts": [
     {
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor?",
-      "summary": "Siber Güvenlik Farkındalık Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı...",
+      "summary": "Siber Güvenlik Farkındalığı Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı...",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor? Siber Güvenlik Farkındalık Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı... How bug bounty sharpens one researcher’s security skills As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi... GitHub Dev Platform",
+      "keywords": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor? Siber Güvenlik Farkındalığı Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı... How bug bounty sharpens one researcher’s security skills As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi... GitHub Dev Platform",
       "title_original": "How bug bounty sharpens one researcher’s security skills",
       "summary_original": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi...",
       "published_display": "2026-10-22",
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Aracı ölçeğinde Git altyapısına köprü",
-      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
+      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
       "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
+      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
       "title_original": "The bridge to agent-scale Git infrastructure",
       "summary_original": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea...",
       "published_display": "2026-10-21",
@@ -75,7 +75,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor?",
-      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı...",
+      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun üretkenliği artırmak için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı.",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,7 +85,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun artan üretkenlik için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı... How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
+      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun üretkenliği artırmak için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı. How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
       "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
       "summary_original": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir...",
       "published_display": "2026-10-20",
@@ -114,8 +114,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir",
-      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
+      "title": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir",
+      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,11 +125,31 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulama oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
+      "keywords": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
       "title_original": "How to continue a GitHub Copilot app session in VS Code",
       "summary_original": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
       "published_display": "2026-10-19",
-      "id": "59be90b4ad7d"
+      "id": "4bf6e9d8e485"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Legora yasal işler için temsilci işletim sistemi geliştiriyor",
+      "summary": "Legora'nın yasal iş akışlarını hızlandırmak, sözleşme analizini genişletmek ve avukatları daha yüksek değerli işlere odaklanmak için serbest bırakmak için OpenAI modellerini, ChatGPT'yi ve Codex'i nasıl kullandığını görün.",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-10-28T09:30:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Legora yasal işler için temsilci işletim sistemi geliştiriyor Legora'nın yasal iş akışlarını hızlandırmak, sözleşme analizini genişletmek ve avukatları daha yüksek değerli işlere odaklanmak için serbest bırakmak için OpenAI modellerini, ChatGPT'yi ve Codex'i nasıl kullandığını görün. Legora is building the agentic operating system for legal work See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work. AI OpenAI Model",
+      "title_original": "Legora is building the agentic operating system for legal work",
+      "summary_original": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "published_display": "2026-10-28",
+      "id": "3f80aafa1412"
     },
     {
       "category": "ai",
@@ -232,149 +252,129 @@
       "id": "eb704d89e057"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "En yeni Yapay Zeka Görevimiz: İnsan beyninin haritasını çıkarmak",
-      "summary": "Yapay Zeka okuryazarlığını Google'ın sinir bilimi hakkındaki en son Yapay Zeka Görevleri dersi olan \"Polar Peaks\" ile öğrenin.",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-26T16:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "En yeni Yapay Zeka Görevimiz: İnsan beyninin haritasını çıkarmak Yapay Zeka okuryazarlığını Google'ın sinir bilimi hakkındaki en son Yapay Zeka Görevleri dersi olan \"Polar Peaks\" ile öğrenin. Our newest AI Quest: Mapping the human brain Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.” AI Product Google",
-      "title_original": "Our newest AI Quest: Mapping the human brain",
-      "summary_original": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-      "published_display": "2026-10-26",
-      "id": "b890a5717604"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik Otomasyon, MiR hizmet ortağı oldu - Yiyecek ve İçecek İşi",
-      "summary": "Robotik Otomasyon, MiR hizmet ortağı oldu Yiyecek ve İçecek İşi",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObEd4UkpIV0EwcXZxOWtSa0NCYlJqTVZXamFXUURTSEpnT3dpNGpRVGdLa3dIWTNuNHI3N0lMMmlsVUt1QjdFa1hsNVNQaUx2LWFYVTBlbDhkbXMwenozQktldjNwdFlNdWtiTnFXUFRYelRhaHpKUUwwby1tOUlHODVuUXRIa21jbUVzWkY2VzU2MzJUWXc?oc=5",
+      "title": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - Ulusal Hukuk İncelemesi",
+      "summary": "Robotik Süreç Otomasyonu Pazarının Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor Ulusal Hukuk İncelemesi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnQwRTJmWFI4WEhHbkk3eDV2djdVY1pfYzJVMm53bTU3bHJnUWtrMUFhTWlkUEVwX0twd0VZS3Qzd3BVbklHVlVIRmVzQUxWcjd2LUhWZVVSR1FJZEhRR21CX19MTU4yYW42bDNYOVMtN1lmWHEzQklXbEhwWVVNXzdDWU5KLUxZc1JSQUVWUy1mZzBwbGo5blVPVnVwcEJPRGk4b0FQanpaN0NrVXE5cg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-27T09:30:17Z",
+      "published_at": "2026-10-28T15:04:33Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Otomasyon, MiR hizmet ortağı oldu - Yiyecek ve İçecek İşi Robotik Otomasyon, MiR hizmet ortağı oldu Yiyecek ve İçecek İşi Robotic Automation becomes MiR service partner - Food & Drink Business Robotic Automation becomes MiR service partner Food & Drink Business Robotics Automation Industry",
-      "title_original": "Robotic Automation becomes MiR service partner - Food & Drink Business",
-      "summary_original": "Robotic Automation becomes MiR service partner Food & Drink Business",
-      "published_display": "2026-10-27",
-      "id": "d40513382b3c"
+      "keywords": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - Ulusal Hukuk İncelemesi Robotik Süreç Otomasyonu Pazarının Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor Ulusal Hukuk İncelemesi Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - The National Law Review Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 The National Law Review Robotics Automation Industry",
+      "title_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - The National Law Review",
+      "summary_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 The National Law Review",
+      "published_display": "2026-10-28",
+      "id": "5136ce1bcf13"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Kanadalı Charl-Pol, Norveçli Storvik ile robotik ortak girişimi kuruyor - Robotics & Automation News",
-      "summary": "Kanadalı Charl-Pol, Norveçli Storvik Robotics & Automation News ile robotik ortak girişimi kuruyor",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTXpWMHluWl9GLTdsZFZVOVBuWUY5SGl6X1VqM1RsRmV5TFRLeGt1c2doOUhBVmVxV285Q3lUd1NMc3lmZjZEOE93MnpNdjJrTkJCRXp5NElnNTgwemJSbmpmU0lmMUdnci1rMTdwazl5cW5NT04weEJiVjdpUEZpNm5waWZyekRYX0lNVDkxMzVVRDZDaVFEQ3g0UzhGbnBkWERqNXNkeVJQb3JBWGtXQlZMRDg1Q3lGV1lETF9UR09QQ1pw?oc=5",
+      "title": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1N4anowMkJKWVYzenNGRm95dXk5ajc3cDNKcnZDcHFnNFFMaFAwdzlUdlRucUZObGN1MnhPbi11T1Y1WFU0M2pkQkFHanZKdnpEeEMzT2pyaXNtTjJ6amxEdkc2c3hJWTk0dmMtaVFBV19IN3NGaFRrZmtnQUV5TV9fTUZXVGpXNmsyYlMyVWJnUmwzWVd3ZjExdmVacmNVcVZvSnNsMWpEb3pMUXU1Zkw1eURxaVZERExtTnpVNnNQenJ3YnNza0dKLUJ2ejFB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-26T21:55:01Z",
+      "published_at": "2026-10-16T11:04:43Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Kanadalı Charl-Pol, Norveçli Storvik ile robotik ortak girişimi kuruyor - Robotics & Automation News Kanadalı Charl-Pol, Norveçli Storvik Robotics & Automation News ile robotik ortak girişimi kuruyor Canada’s Charl-Pol creates robotics joint venture with Norway’s Storvik - Robotics & Automation News Canada’s Charl-Pol creates robotics joint venture with Norway’s Storvik Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Canada’s Charl-Pol creates robotics joint venture with Norway’s Storvik - Robotics & Automation News",
-      "summary_original": "Canada’s Charl-Pol creates robotics joint venture with Norway’s Storvik Robotics & Automation News",
-      "published_display": "2026-10-26",
-      "id": "cba5ded13b5b"
+      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation",
+      "summary_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation",
+      "published_display": "2026-10-16",
+      "id": "509f0c5ef0cb"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Endüstriyel Robotikte Bağlantı Zorluklarını Çözün - Teknik Özetler",
-      "summary": "Endüstriyel Robotik Teknik Özetlerinde Bağlantı Zorluklarını Çözün",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYlZGR3pKN0J6c1pjdGsxWVFpaUN6TFZTejNja0hVS3pLYjQyM1YyNW10cUtUMTQzTXpLaElNWTJrbkJyV1A1Mkp4WTBDYmktZTVhSXRNYTc1aGs3RnJwRVhJZkFLR1VPLWhQUmxVWG0tYTBXRy1lQkwxZVJzbVZoVjc3c0hDQ3hYdmF4ekNGME1ZV2RmUlFoT1dlRTlLaldLTEQ3bTlibzVUN1lmS25OMQ?oc=5",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDlEU1hhb1lETDI2NVdraE9BbGd4d2FyaUNqc21ROG9waFRxalhzNzFCS2tBOV8yQ0NIMDA2bndGLW0zcldZVzZzNnJVWFlXZE81Y0RFVVczTHFuWG1ISFhvc1RvbFlFUHQxaVJzcmdjby1ManBKM0dhRXdXeXE2UE1NZ2RxSUlEVjhNNzJSN0czeUVVU0dVc3YtY2dDRjNuNFExMzA0YlA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-24T15:47:07Z",
+      "published_at": "2026-10-14T14:00:30Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstriyel Robotikte Bağlantı Zorluklarını Çözün - Teknik Özetler Endüstriyel Robotik Teknik Özetlerinde Bağlantı Zorluklarını Çözün Solve Connectivity Challenges in Industrial Robotics - Tech Briefs Solve Connectivity Challenges in Industrial Robotics Tech Briefs Robotics Automation Industry",
-      "title_original": "Solve Connectivity Challenges in Industrial Robotics - Tech Briefs",
-      "summary_original": "Solve Connectivity Challenges in Industrial Robotics Tech Briefs",
-      "published_display": "2026-10-24",
-      "id": "d917b4662461"
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-10-14",
+      "id": "c6a8a8b02ee7"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor - Günümüzün Tıbbi Gelişmeleri",
-      "summary": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor Günümüzün Tıbbi Gelişmeleri",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVEl6UEZud1o3R3N3d2ZkQTlhWnd4UU0xVEdld0ZiSjZEVkxqUjd4OHluZG9sS3FySVNzS3ZTZEFNWUN3X0tFdFlpby1aMnhTc3otTXpHQWcyWUNLUldmSTFvOFNTaXd4cTl3ZURoajYzOTJIV0tKMEtXT21jaVRzMjByUFdGRVA4SklUN1NPb1FVdGNCSTFiTWdtWGxZd0pzdWYwZ2U1OWY2VzFaT29RSjNmdnBpaGk5d3FTenNvSEdEaFJJV3hlSTd3?oc=5",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXRzTmczdk9IZEVaUkdqMHM4Wk5vWWF6eXBrb3ZYcTdqSEk4cWhMRVZ0WFI2WGhvQ2d0SmVpSlBxcGFrTEtLNF9HUE9rb2VSNFFIV0J5b2pxcTQzeU5CS3h2djdJR3otODN3UmhybklkYUhDN1J4dkh3WVFDTVh1Wmd4TDBQWXZYUmVGd3E4aGZ6UUdUM1o0R1VpS1JhajRmcENNN2pOOGxqRHRvWUF0MGtIVk0zTjNPWkpv?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-24T06:00:00Z",
+      "published_at": "2026-10-07T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor - Günümüzün Tıbbi Gelişmeleri Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor Günümüzün Tıbbi Gelişmeleri Massive FANUC Training Academy expands US robotics and industrial automation education - Today's Medical Developments Massive FANUC Training Academy expands US robotics and industrial automation education Today's Medical Developments Robotics Automation Industry",
-      "title_original": "Massive FANUC Training Academy expands US robotics and industrial automation education - Today's Medical Developments",
-      "summary_original": "Massive FANUC Training Academy expands US robotics and industrial automation education Today's Medical Developments",
-      "published_display": "2026-10-24",
-      "id": "36d3ce03383f"
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-10-07",
+      "id": "48e87b6c4939"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
-      "summary": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVZhWmsyTzNEY2ZwSVlBN1pMU0lNMGtHN2d6SG9uOTZua19CNGlTaldHZW5Nd2xQYjR0NXp5SEpNUTQ2M0tLZmFzdU1vMEY3QTBQdmdORHpIN0NodXo0WHltUjZWUEdqUXF1VlF2d1REYzU1bW1hTVFoRlp3NHBvbkVhLVkwdzdNYmFNdDJzTkhUVkpwNVA4Q2Rn?oc=5",
+      "title": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor - IFR Uluslararası Robotik Federasyonu",
+      "summary": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor IFR Uluslararası Robotik Federasyonu",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-22T22:16:35Z",
+      "published_at": "2026-09-24T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
-      "title_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-      "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
-      "published_display": "2026-10-22",
-      "id": "d319f926e15b"
+      "keywords": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor - IFR Uluslararası Robotik Federasyonu Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor IFR Uluslararası Robotik Federasyonu Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics Robotics Automation Industry",
+      "title_original": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics",
+      "summary_original": "Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics",
+      "published_display": "2026-09-24",
+      "id": "c4cf96c31fc5"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Formic, Yapay Zeka Destekli Robot Teknolojisini ABD İmalatında Genişletmek İçin 50 Milyon Dolar Topladı - citybiz",
-      "summary": "Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkdsRndRb0VkRmJZMEJBendJQUJGcWc1aEljcFNVYm5vLUVHaVN0Wm9WYmhuVlNZcFUyM0g4SWFqVmdzNnR5ckVPRHB0RXA1ZW9tbGhBNlRlQnNfTEZlNXEtRHVsUExPZkFzWEpialdoNjJkWG5KZnRDZ0V2MzlReV9Qb3VpLUZURHRRQ2RTeGczd1JVYXBPa1NuMloxc1BtZld4YkJvQ0lJMmFDNFBKT3JLajZhX2dkVWc?oc=5",
+      "title": "Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS09qS3MxYXFBSnNseUlReVdhWFcyMWYzTDI4NnZkOFNDdTBLWUh6emViSUhFQkVhMWhKeGswdEN0LTJWVGh3ajNyWEw0VHI1RUI0ZW9NM2VUclN1WTNLYWVMbHJkLU5ic18tVVU0SjFJRXVLYWpMcWkxY1VkdHJjbF9kOFc2UHVEekJReTk3aDhSYlJuWS1UTUsySzlzY0hnenp2RHZXTk0yOTVIeG9ZemRKYkdwcVlkbG1pbV9NVQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-22T21:24:14Z",
+      "published_at": "2026-09-23T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Formic, Yapay Zeka Destekli Robot Teknolojisini ABD İmalatında Genişletmek İçin 50 Milyon Dolar Topladı - citybiz Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz Robotics Automation Industry",
-      "title_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz",
-      "summary_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz",
-      "published_display": "2026-10-22",
-      "id": "7069a37943b6"
+      "keywords": "Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı A3 Otomasyonu Geliştirme Derneği The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-09-23",
+      "id": "8e1008910932"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Eylül ayında web platformuna yeni",
+      "title": "Eylül ayında web platformunda yeni",
       "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "Eylül ayında web platformunda yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "b39291f2c779"
+      "id": "5c34f3e54888"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş",
+      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesiyle tanışın",
       "summary": "WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor.",
       "url": "https://blog.cloudflare.com/php-ctf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png",
@@ -445,11 +445,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
+      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesiyle tanışın WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
       "title_original": "Introducing the Cloudflare PHP Capture the Flag challenge",
       "summary_original": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
       "published_display": "2026-10-27",
-      "id": "17b55e6da1a4"
+      "id": "37f4f40bfc07"
     },
     {
       "category": "siber",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Cloudflare WAF için tam işlem algılamayla tanışın",
-      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
+      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, açığa çıkan verileri ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
       "url": "https://blog.cloudflare.com/full-transaction-waf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
+      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, açığa çıkan verileri ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
       "title_original": "Introducing full transaction detection for Cloudflare WAF",
       "summary_original": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection...",
       "published_display": "2026-10-21",
@@ -535,7 +535,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler",
-      "summary": "Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, tepkimizi ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz.",
+      "summary": "Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz.",
       "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5DK5FY53PEFH46MT990YMSR.png",
       "source": "Cloudflare Security",
@@ -545,7 +545,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, tepkimizi ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
+      "keywords": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
       "title_original": "8 eMudhra certificates are compromised. Here's what you need to know",
       "summary_original": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
       "published_display": "2026-10-20",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri",
+      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP üzerinden saldırı - Pasquale Pillitteri",
       "summary": "Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
+      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP üzerinden saldırı - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
       "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
       "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
       "published_display": "2026-10-27",
-      "id": "631249f4ced3"
+      "id": "7964082882ee"
     },
     {
       "category": "kamera",
@@ -594,6 +594,66 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
+      "title": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox",
+      "summary": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelNTeUdrTElhMERWZFhyc0UtRmZCbnNEM2Y1WWdUYTBmNndWdkRfckZHb3NxT1ZqRGJsN3Fob053SklmbjlHN1JDUTVtYzFnMjQ1NUNFcE9Eb0ZGdHlnRzFsN2o0NkJSb0tZU2l6dWFTdDFmLUhjSS04dDJWX2d6a2lFTlktcE9tUGc5eERhQ3RrMGY1LVVOXy12VEhKOFpDS2ZrdnN0elhFTmpyM0lCN2lDbHdCVEUtdVFPVkpEb3dhQ2ZS?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-15T11:01:04Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor - IndexBox 2035'e Kadar Ağ Video Kaydediciler Pazar Tahmini: Yapay Zeka Analizi ve IP Kameranın Benimsenmesi Büyümeyi Artırıyor IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox IP Camera Video Surveillance",
+      "title_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth - IndexBox",
+      "summary_original": "Network Video Recorders Market Forecast to 2035: AI Analytics and IP Camera Adoption Drive Growth IndexBox",
+      "published_display": "2026-10-15",
+      "id": "9fceb0a083ec"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili",
+      "summary": "Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-15T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
+      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
+      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
+      "published_display": "2026-10-15",
+      "id": "7c4bdc82df8d"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
+      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-11T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
+      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
+      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
+      "published_display": "2026-10-11",
+      "id": "a63b87253590"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
       "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
       "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
@@ -610,46 +670,6 @@
       "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "published_display": "2026-10-10",
       "id": "33214d55f737"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri",
-      "summary": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTFTZWJHVjR1Ri1ZTGhINmpYUWc2bEVVUk9CT1VQNFAtRUg5ZDlnYk5mUFB2SW94aTFhNVYzSXotcHdwNjd0cEcxNTdlbzlJRUswYlN6Y2tRR2wyaUszVDZQR0ExUXctZVg3UWJ6U29IRW5RNmVEb3ViZVUzT1d4eTB1UDR2dUU?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-16T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir - Pasquale Pillitteri Saldırıya Uğrayan IP Kameralar Şirket Ağlarına Arka Kapı Açıyor, 87.000'i Avrupa'da Kullanılabilir Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe - Pasquale Pillitteri",
-      "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
-      "published_display": "2026-09-16",
-      "id": "8218ddf01fee"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Uyarı: Tehdit Aktörleri Tarafından Siber Casusluk, Hırsızlık, Sistemlere İhlal ve DDoS'yi Etkinleştirmek İçin Kullanılan Güvenliği Tehlike Altına Alınan IP Kameralar | CCB Belçika - CCB Belçika",
-      "summary": "Uyarı: Tehdit Aktörleri Tarafından Siber Casusluk, Hırsızlık, Sistemlere İhlal ve DDoS'yi Etkinleştirmek İçin Kullanılan Güvenliği Tehlike Altına Alınan IP Kameralar | CCB Belçika CCB Belçika",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEJLMk01X1J3dDZTdzJ2VVNibDRIbi1rRGtwd2NTXzMzUXBpZHpZaHZpdkluU0xWMUdiVlRTbE1vZk9iSTgyWmw5d1hBUDU4U0dZWU50bHUwVWZtR3ZGSzJqQ09QRzRWa2d2cVhxMTlGa0E2YURNY1VReElLa3BnWjJrSXRCN2tqbmlZZEFtUDVFTXJqT2E3ZExHTmp1MGliazlSclVKUDBWUTVVeDI5cGFsbHp6eTRuSk51Uk5n?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-14T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Uyarı: Tehdit Aktörleri Tarafından Siber Casusluk, Hırsızlık, Sistemlere İhlal ve DDoS'yi Etkinleştirmek İçin Kullanılan Güvenliği Tehlike Altına Alınan IP Kameralar | CCB Belçika - CCB Belçika Uyarı: Tehdit Aktörleri Tarafından Siber Casusluk, Hırsızlık, Sistemlere İhlal ve DDoS'yi Etkinleştirmek İçin Kullanılan Güvenliği Tehlike Altına Alınan IP Kameralar | CCB Belçika CCB Belçika Warning: Compromised IP Cameras Used By Threat Actors To Enable Cyberespionage, Theft, Breaching Into Systems And DDoS | CCB Belgium - CCB Belgium Warning: Compromised IP Cameras Used By Threat Actors To Enable Cyberespionage, Theft, Breaching Into Systems And DDoS | CCB Belgium CCB Belgium IP Camera Video Surveillance",
-      "title_original": "Warning: Compromised IP Cameras Used By Threat Actors To Enable Cyberespionage, Theft, Breaching Into Systems And DDoS | CCB Belgium - CCB Belgium",
-      "summary_original": "Warning: Compromised IP Cameras Used By Threat Actors To Enable Cyberespionage, Theft, Breaching Into Systems And DDoS | CCB Belgium CCB Belgium",
-      "published_display": "2026-09-14",
-      "id": "5d5245a860fa"
     }
   ]
 }
