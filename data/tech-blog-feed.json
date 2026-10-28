@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T15:04:33Z",
+  "updated_at": "2026-10-28T16:59:00Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -11,6 +11,66 @@
     "kamera": 6
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Güvenilir Yayıncılık ile Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın",
+      "summary": "Uzun ömürlü bir kişisel erişim belirteci depolamadan Visual Studio Code ve Visual Studio uzantılarını GitHub Actions veya Azure Pipelines'tan yayımlayın. Yazı, Visual Studio Marketplace uzantılarını Güvenilir Yayıncılık uygulamasıyla güvenli bir şekilde yayınlayın...",
+      "url": "https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-10-28T16:59:00Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Güvenilir Yayıncılık ile Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın Uzun ömürlü bir kişisel erişim belirteci depolamadan Visual Studio Code ve Visual Studio uzantılarını GitHub Actions veya Azure Pipelines'tan yayımlayın. Yazı, Visual Studio Marketplace uzantılarını Güvenilir Yayıncılık uygulamasıyla güvenli bir şekilde yayınlayın... Publish Visual Studio Marketplace extensions securely with Trusted Publishing Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app... Microsoft Dev Cloud",
+      "title_original": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing",
+      "summary_original": "Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app...",
+      "published_display": "2026-10-28",
+      "id": "855d91696858"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "GitHub Universe 2026: Yığının her katmanını geliştiriyoruz",
+      "summary": "Bugün GitHub'a yönelik dünyadaki en kapsamlı, uçtan uca yazılım dağıtım sistemi vizyonumuzu ortaya koyduk. GitHub Evreni 2026: Yığındaki her katmanın geliştirilmesi yazısı ilk olarak GitHub Blogunda göründü.",
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-28T16:09:28Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub Universe 2026: Yığının her katmanını geliştiriyoruz Bugün GitHub'a yönelik dünyadaki en kapsamlı, uçtan uca yazılım dağıtım sistemi vizyonumuzu ortaya koyduk. GitHub Evreni 2026: Yığındaki her katmanın geliştirilmesi yazısı ilk olarak GitHub Blogunda göründü. GitHub Universe 2026: Evolving every layer of the stack Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub Universe 2026: Evolving every layer of the stack",
+      "summary_original": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
+      "published_display": "2026-10-28",
+      "id": "ca1289c0e94c"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Octoverse: Geliştiriciler temsilcilerle birlikte geliştirirken 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma",
+      "summary": "2026 Octoverse raporunda rekor bir büyüme yılının her sektöre, her alana ve her türden inşaatçıya nasıl ulaştığını görün. Octoverse yazısı: Geliştiricilerin aracılarla geliştirme yapmasıyla 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma ilk olarak T'de göründü...",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-10-28T16:07:40Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Octoverse: Geliştiriciler temsilcilerle birlikte geliştirirken 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma 2026 Octoverse raporunda rekor bir büyüme yılının her sektöre, her alana ve her türden inşaatçıya nasıl ulaştığını görün. Octoverse yazısı: Geliştiricilerin aracılarla geliştirme yapmasıyla 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma ilk olarak T'de göründü... Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T... GitHub Dev Platform",
+      "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "summary_original": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T...",
+      "published_display": "2026-10-28",
+      "id": "9820e2187089"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -35,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor?",
-      "summary": "Siber Güvenlik Farkındalığı Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı...",
+      "summary": "Siber Güvenlik Farkındalık Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı...",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +105,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor? Siber Güvenlik Farkındalığı Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı... How bug bounty sharpens one researcher’s security skills As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi... GitHub Dev Platform",
+      "keywords": "Hata ödülü bir araştırmacının güvenlik becerilerini nasıl geliştiriyor? Siber Güvenlik Farkındalık Ayı devam ederken GitHub Bug Bounty ekibi @r31n'yi ön plana çıkarıyor, araştırma yaklaşımlarını, favori hata sınıflarını ve gelecek vaat eden bilgisayar korsanları için tavsiyeleri ayrıntılarıyla anlatıyor. Hata ödülü bir araştırmacının güvenliğini nasıl keskinleştirir yazısı... How bug bounty sharpens one researcher’s security skills As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi... GitHub Dev Platform",
       "title_original": "How bug bounty sharpens one researcher’s security skills",
       "summary_original": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s securi...",
       "published_display": "2026-10-22",
@@ -55,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Aracı ölçeğinde Git altyapısına köprü",
-      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
+      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
       "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,78 +125,58 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
+      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
       "title_original": "The bridge to agent-scale Git infrastructure",
       "summary_original": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea...",
       "published_display": "2026-10-21",
       "id": "fafdfb403c2e"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor?",
-      "summary": "Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun üretkenliği artırmak için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "OpenAI ve ServiceNow, kurumsal iş akışlarındaki ortaklığı genişletiyor",
+      "summary": "OpenAI ve ServiceNow, OpenAI modellerini ve aracılarını ServiceNow'a ve ServiceNow iş akışlarını ChatGPT ve Codex'e taşıyacak şekilde ortaklıklarını genişletiyor.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-10-20T16:05:03Z",
+      "source": "OpenAI News",
+      "published_at": "2026-10-28T13:15:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "3 Java Şampiyonu artan üretkenlik için GitHub Copilot'u nasıl kullanıyor? Üç Java Şampiyonu, sorunları çözmek, geliştirmeyi hızlandırmak ve sonuçlardan insanları sorumlu tutmak için GitHub Copilot'u nasıl kullandıklarını paylaşıyor. 3 Java Şampiyonunun üretkenliği artırmak için GitHub Copilot'u nasıl kullandığı yazısı ilk kez ortaya çıktı. How 3 Java Champions are using GitHub Copilot for increased productivity Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir... GitHub Dev Platform",
-      "title_original": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "summary_original": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared fir...",
-      "published_display": "2026-10-20",
-      "id": "daa9902b6233"
+      "keywords": "OpenAI ve ServiceNow, kurumsal iş akışlarındaki ortaklığı genişletiyor OpenAI ve ServiceNow, OpenAI modellerini ve aracılarını ServiceNow'a ve ServiceNow iş akışlarını ChatGPT ve Codex'e taşıyacak şekilde ortaklıklarını genişletiyor. OpenAI and ServiceNow expand partnership across enterprise workflows OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex. AI OpenAI Model",
+      "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary_original": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "published_display": "2026-10-28",
+      "id": "909cec099ead"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi?",
-      "summary": "Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz...",
-      "url": "https://devblogs.microsoft.com/blog/can-a-local-git-remote-replace-github-in-your-agent-eval/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Firmanın geleceği",
+      "summary": "Yapay zeka, altımızda, yanımızda ve aramızda organizasyon şemasına nasıl girebilir?",
+      "url": "https://openai.com/index/the-future-of-the-firm",
       "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-10-20T14:53:27Z",
+      "source": "OpenAI News",
+      "published_at": "2026-10-28T10:00:00Z",
       "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Temsilci değerlendirmenizde yerel bir git uzaktan kumandası GitHub'un yerini alabilir mi? Temsilci değerlendirmelerimizde GitHub'ı yerel bir git uzaktan kumandasıyla değiştirdik. Talep üzerine yeniden ayarlama ve zorlama etkilenmedi, ancak menajer kendi başına 11 puanını daha az zorladı. İşte yerel uzaktan kumandanın ne zaman güvenli bir kısayol olduğu ve ne zaman olmadığı. Poz... Can a local git remote replace GitHub in your agent eval? We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos... Microsoft Dev Cloud",
-      "title_original": "Can a local git remote replace GitHub in your agent eval?",
-      "summary_original": "We swapped GitHub for a local git remote in our agent evals. Rebasing and pushing on request were unaffected, but the agent pushed on its own 11 points less often. Here's when a local remote is a safe shortcut, and when it isn't. The pos...",
-      "published_display": "2026-10-20",
-      "id": "43e8deee5383"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir",
-      "summary": "Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-10-19T18:47:22Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir Konuşmayı, kod değişikliklerini veya çalışma içeriğini kaybetmeden bir temsilci oturumunu GitHub Copilot uygulamasından VS Code'a nasıl taşıyacağınızı öğrenin. VS Code'da GitHub Copilot uygulaması oturumuna nasıl devam edilir yazısı ilk olarak GitHub'da göründü... How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub... GitHub Dev Platform",
-      "title_original": "How to continue a GitHub Copilot app session in VS Code",
-      "summary_original": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub...",
-      "published_display": "2026-10-19",
-      "id": "4bf6e9d8e485"
+      "keywords": "Firmanın geleceği Yapay zeka, altımızda, yanımızda ve aramızda organizasyon şemasına nasıl girebilir? The future of the firm How AI might enter the org chart—beneath, beside, and between us. AI OpenAI Model",
+      "title_original": "The future of the firm",
+      "summary_original": "How AI might enter the org chart—beneath, beside, and between us.",
+      "published_display": "2026-10-28",
+      "id": "c0d2ad48b952"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Legora yasal işler için temsilci işletim sistemi geliştiriyor",
       "summary": "Legora'nın yasal iş akışlarını hızlandırmak, sözleşme analizini genişletmek ve avukatları daha yüksek değerli işlere odaklanmak için serbest bırakmak için OpenAI modellerini, ChatGPT'yi ve Codex'i nasıl kullandığını görün.",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "image_url": null,
       "source": "OpenAI News",
       "published_at": "2026-10-28T09:30:00Z",
@@ -149,7 +189,7 @@
       "title_original": "Legora is building the agentic operating system for legal work",
       "summary_original": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "published_display": "2026-10-28",
-      "id": "3f80aafa1412"
+      "id": "2bd04c711a4b"
     },
     {
       "category": "ai",
@@ -212,70 +252,30 @@
       "id": "ec8d93d6a5a5"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Check Point, Daybreak ile güvenlik açığı araştırmalarını nasıl hızlandırıyor?",
-      "summary": "Check Point, OpenAI Daybreak ile yeni güvenlik korumalarının ardındaki araştırmayı hızlandırarak analistlerinin güvenlik açığı istihbaratını müşteri savunmasına daha hızlı dönüştürmesine olanak tanıyor.",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-27T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Check Point, Daybreak ile güvenlik açığı araştırmalarını nasıl hızlandırıyor? Check Point, OpenAI Daybreak ile yeni güvenlik korumalarının ardındaki araştırmayı hızlandırarak analistlerinin güvenlik açığı istihbaratını müşteri savunmasına daha hızlı dönüştürmesine olanak tanıyor. How Check Point accelerates vulnerability research with Daybreak With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. AI OpenAI Model",
-      "title_original": "How Check Point accelerates vulnerability research with Daybreak",
-      "summary_original": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "published_display": "2026-10-27",
-      "id": "30df509bf274"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Greptile, GPT-6 Astra ile hata tespitini kod incelemenin ötesine taşıyor",
-      "summary": "Greptile, kullanıcı iş akışlarını test etmek için GPT-6 Astra'yı, güvenliği güçlendirmek için Daybreak'i ve yeniden çalışmayı azaltmak için Codex'i nasıl kullanıyor?",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-26T22:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Greptile, GPT-6 Astra ile hata tespitini kod incelemenin ötesine taşıyor Greptile, kullanıcı iş akışlarını test etmek için GPT-6 Astra'yı, güvenliği güçlendirmek için Daybreak'i ve yeniden çalışmayı azaltmak için Codex'i nasıl kullanıyor? Greptile takes bug detection beyond code review with GPT-6 Astra How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. AI OpenAI Model",
-      "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary_original": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "published_display": "2026-10-26",
-      "id": "eb704d89e057"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - Ulusal Hukuk İncelemesi",
-      "summary": "Robotik Süreç Otomasyonu Pazarının Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor Ulusal Hukuk İncelemesi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnQwRTJmWFI4WEhHbkk3eDV2djdVY1pfYzJVMm53bTU3bHJnUWtrMUFhTWlkUEVwX0twd0VZS3Qzd3BVbklHVlVIRmVzQUxWcjd2LUhWZVVSR1FJZEhRR21CX19MTU4yYW42bDNYOVMtN1lmWHEzQklXbEhwWVVNXzdDWU5KLUxZc1JSQUVWUy1mZzBwbGo5blVPVnVwcEJPRGk4b0FQanpaN0NrVXE5cg?oc=5",
+      "title": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - EIN News",
+      "summary": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor EIN Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObUpuV1c5UDR0Q2JvUUVMc0MtZG1MUHlmdXBXYkFBRDVDNHZ6MnVJX1d3OWNrdklneHpQSDU3cVg2bnNGdzhpYkkyX2dGWE5zWTN0X1FpVFdQN3NXT05fZE1SOERWQ3hMSW5rRWlWNTZlTUt6b3pYTzRkYjRRNjlaYXdORlJqOWk5REVEaHcySUxGaFJDZDBCWlBVSm45aUp2QWNrYXl2UnNJT0dWdXg4b085clpBLTNXWk9lbTRacWhqWmh6LU1uT01mdjVUNkZ6ZEVld0tRUG1kZVhVb2tB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-28T15:04:33Z",
+      "published_at": "2026-10-28T14:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - Ulusal Hukuk İncelemesi Robotik Süreç Otomasyonu Pazarının Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor Ulusal Hukuk İncelemesi Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - The National Law Review Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 The National Law Review Robotics Automation Industry",
-      "title_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - The National Law Review",
-      "summary_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 The National Law Review",
+      "keywords": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - EIN News Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor EIN Haberleri Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - EIN News Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 EIN News Robotics Automation Industry",
+      "title_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - EIN News",
+      "summary_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 EIN News",
       "published_display": "2026-10-28",
-      "id": "5136ce1bcf13"
+      "id": "90586b8ef892"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşçilik Maliyetleri Fabrikaların El Kitabını Korumak İçin Artık Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1N4anowMkJKWVYzenNGRm95dXk5ajc3cDNKcnZDcHFnNFFMaFAwdzlUdlRucUZObGN1MnhPbi11T1Y1WFU0M2pkQkFHanZKdnpEeEMzT2pyaXNtTjJ6amxEdkc2c3hJWTk0dmMtaVFBV19IN3NGaFRrZmtnQUV5TV9fTUZXVGpXNmsyYlMyVWJnUmwzWVd3ZjExdmVacmNVcVZvSnNsMWpEb3pMUXU1Zkw1eURxaVZERExtTnpVNnNQenJ3YnNza0dKLUJ2ejFB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşçilik Maliyetleri Fabrikaların El Kitabını Korumak İçin Artık Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation",
       "summary_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation",
       "published_display": "2026-10-16",
@@ -294,7 +294,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDlEU1hhb1lETDI2NVdraE9BbGd4d2FyaUNqc21ROG9waFRxalhzNzFCS2tBOV8yQ0NIMDA2bndGLW0zcldZVzZzNnJVWFlXZE81Y0RFVVczTHFuWG1ISFhvc1RvbFlFUHQxaVJzcmdjby1ManBKM0dhRXdXeXE2UE1NZ2RxSUlEVjhNNzJSN0czeUVVU0dVc3YtY2dDRjNuNFExMzA0YlA?oc=5",
       "image_url": null,
@@ -305,16 +305,16 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-10-14",
-      "id": "c6a8a8b02ee7"
+      "id": "c4a438279e04"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXRzTmczdk9IZEVaUkdqMHM4Wk5vWWF6eXBrb3ZYcTdqSEk4cWhMRVZ0WFI2WGhvQ2d0SmVpSlBxcGFrTEtLNF9HUE9rb2VSNFFIV0J5b2pxcTQzeU5CS3h2djdJR3otODN3UmhybklkYUhDN1J4dkh3WVFDTVh1Wmd4TDBQWXZYUmVGd3E4aGZ6UUdUM1o0R1VpS1JhajRmcENNN2pOOGxqRHRvWUF0MGtIVk0zTjNPWkpv?oc=5",
       "image_url": null,
@@ -325,16 +325,16 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-10-07",
-      "id": "48e87b6c4939"
+      "id": "c737129ad6eb"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor - IFR Uluslararası Robotik Federasyonu",
+      "title": "Artık Dünya Çapında Fabrikalarda Beş Milyon Robot Çalışıyor - IFR Uluslararası Robotik Federasyonu",
       "summary": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor IFR Uluslararası Robotik Federasyonu",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
       "image_url": null,
@@ -345,11 +345,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor - IFR Uluslararası Robotik Federasyonu Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor IFR Uluslararası Robotik Federasyonu Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics Robotics Automation Industry",
+      "keywords": "Artık Dünya Çapında Fabrikalarda Beş Milyon Robot Çalışıyor - IFR Uluslararası Robotik Federasyonu Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor IFR Uluslararası Robotik Federasyonu Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics Robotics Automation Industry",
       "title_original": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics",
       "summary_original": "Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics",
       "published_display": "2026-09-24",
-      "id": "c4cf96c31fc5"
+      "id": "2bdc3c798e58"
     },
     {
       "category": "robotik",
@@ -374,7 +374,7 @@
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Eylül ayında web platformunda yeni",
+      "title": "Eylül ayında web platformuna yeni",
       "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
@@ -385,11 +385,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Eylül ayında web platformunda yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "5c34f3e54888"
+      "id": "b39291f2c779"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesiyle tanışın",
+      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş",
       "summary": "WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor.",
       "url": "https://blog.cloudflare.com/php-ctf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png",
@@ -445,11 +445,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesiyle tanışın WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
+      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
       "title_original": "Introducing the Cloudflare PHP Capture the Flag challenge",
       "summary_original": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
       "published_display": "2026-10-27",
-      "id": "37f4f40bfc07"
+      "id": "17b55e6da1a4"
     },
     {
       "category": "siber",
@@ -554,7 +554,7 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP üzerinden saldırı - Pasquale Pillitteri",
+      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri",
       "summary": "Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP üzerinden saldırı - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
+      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
       "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
       "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
       "published_display": "2026-10-27",
-      "id": "7964082882ee"
+      "id": "631249f4ced3"
     },
     {
       "category": "kamera",
