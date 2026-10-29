@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T22:37:09Z",
-  "total_posts": 32,
+  "updated_at": "2026-10-29T12:55:00Z",
+  "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 3,
     "siber": 6,
-    "kamera": 5
+    "kamera": 4
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Güvenilir Yayıncılık ile Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın",
-      "summary": "Uzun ömürlü bir kişisel erişim belirteci depolamadan Visual Studio Code ve Visual Studio uzantılarını GitHub Actions veya Azure Pipelines'tan yayımlayın. Yazı, Güvenilir Yayıncılık uygulamasıyla Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın...",
+      "summary": "Uzun ömürlü bir kişisel erişim belirteci depolamadan Visual Studio Code ve Visual Studio uzantılarını GitHub Actions veya Azure Pipelines'tan yayımlayın. Yazı, Visual Studio Marketplace uzantılarını Güvenilir Yayıncılık uygulamasıyla güvenli bir şekilde yayınlayın...",
       "url": "https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -25,7 +25,7 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Güvenilir Yayıncılık ile Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın Uzun ömürlü bir kişisel erişim belirteci depolamadan Visual Studio Code ve Visual Studio uzantılarını GitHub Actions veya Azure Pipelines'tan yayımlayın. Yazı, Güvenilir Yayıncılık uygulamasıyla Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın... Publish Visual Studio Marketplace extensions securely with Trusted Publishing Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app... Microsoft Dev Cloud",
+      "keywords": "Güvenilir Yayıncılık ile Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın Uzun ömürlü bir kişisel erişim belirteci depolamadan Visual Studio Code ve Visual Studio uzantılarını GitHub Actions veya Azure Pipelines'tan yayımlayın. Yazı, Visual Studio Marketplace uzantılarını Güvenilir Yayıncılık uygulamasıyla güvenli bir şekilde yayınlayın... Publish Visual Studio Marketplace extensions securely with Trusted Publishing Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app... Microsoft Dev Cloud",
       "title_original": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing",
       "summary_original": "Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app...",
       "published_display": "2026-10-28",
@@ -35,7 +35,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub Universe 2026: Yığının her katmanını geliştiriyoruz",
-      "summary": "Bugün GitHub'a yönelik dünyadaki en kapsamlı, uçtan uca yazılım dağıtım sistemi vizyonumuzu ortaya koyduk. GitHub Universe 2026: Yığındaki her katmanın geliştirilmesi yazısı ilk olarak GitHub Blogunda göründü.",
+      "summary": "Bugün GitHub'a yönelik dünyadaki en kapsamlı, uçtan uca yazılım dağıtım sistemi vizyonumuzu ortaya koyduk. GitHub Evreni 2026: Yığındaki her katmanın geliştirilmesi yazısı ilk olarak GitHub Blogunda göründü.",
       "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Universe 2026: Yığının her katmanını geliştiriyoruz Bugün GitHub'a yönelik dünyadaki en kapsamlı, uçtan uca yazılım dağıtım sistemi vizyonumuzu ortaya koyduk. GitHub Universe 2026: Yığındaki her katmanın geliştirilmesi yazısı ilk olarak GitHub Blogunda göründü. GitHub Universe 2026: Evolving every layer of the stack Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Universe 2026: Yığının her katmanını geliştiriyoruz Bugün GitHub'a yönelik dünyadaki en kapsamlı, uçtan uca yazılım dağıtım sistemi vizyonumuzu ortaya koyduk. GitHub Evreni 2026: Yığındaki her katmanın geliştirilmesi yazısı ilk olarak GitHub Blogunda göründü. GitHub Universe 2026: Evolving every layer of the stack Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub Universe 2026: Evolving every layer of the stack",
       "summary_original": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
       "published_display": "2026-10-28",
@@ -54,7 +54,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Octoverse: Geliştiriciler temsilcilerle birlikte geliştirirken taahhütler, itmeler ve 2026'da yeni zirvelere ulaşma",
+      "title": "Octoverse: Geliştiriciler temsilcilerle birlikte geliştirirken 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma",
       "summary": "2026 Octoverse raporunda rekor bir büyüme yılının her sektöre, her alana ve her türden inşaatçıya nasıl ulaştığını görün. Octoverse yazısı: Geliştiricilerin aracılarla geliştirme yapmasıyla 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma ilk olarak T'de göründü...",
       "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
       "image_url": null,
@@ -65,11 +65,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Octoverse: Geliştiriciler temsilcilerle birlikte geliştirirken taahhütler, itmeler ve 2026'da yeni zirvelere ulaşma 2026 Octoverse raporunda rekor bir büyüme yılının her sektöre, her alana ve her türden inşaatçıya nasıl ulaştığını görün. Octoverse yazısı: Geliştiricilerin aracılarla geliştirme yapmasıyla 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma ilk olarak T'de göründü... Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T... GitHub Dev Platform",
+      "keywords": "Octoverse: Geliştiriciler temsilcilerle birlikte geliştirirken 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma 2026 Octoverse raporunda rekor bir büyüme yılının her sektöre, her alana ve her türden inşaatçıya nasıl ulaştığını görün. Octoverse yazısı: Geliştiricilerin aracılarla geliştirme yapmasıyla 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma ilk olarak T'de göründü... Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T... GitHub Dev Platform",
       "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
       "summary_original": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T...",
       "published_display": "2026-10-28",
-      "id": "7df05e387e3c"
+      "id": "9820e2187089"
     },
     {
       "category": "yazilim",
@@ -115,7 +115,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Aracı ölçeğinde Git altyapısına köprü",
-      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
+      "summary": "GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü...",
       "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,7 +125,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanı nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl olanak sağladığı burada açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
+      "keywords": "Aracı ölçeğinde Git altyapısına köprü GitHub depolarının %99,99999'unun bir kopyasını Azure'a taşıdık. Referans başına yeterli çoğunlukların geri kalanını nasıl getireceği ve nesne depolamanın okumaların bağımsız olarak ölçeklendirilmesine nasıl izin vereceği aşağıda açıklanmıştır. Bu yazı Aracı ölçeğinde Git altyapısı görünümüne geçiş köprüsü... The bridge to agent-scale Git infrastructure We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea... GitHub Dev Platform",
       "title_original": "The bridge to agent-scale Git infrastructure",
       "summary_original": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appea...",
       "published_display": "2026-10-21",
@@ -135,7 +135,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "OpenAI ve ServiceNow, kurumsal iş akışlarındaki ortaklığı genişletiyor",
-      "summary": "OpenAI ve ServiceNow, OpenAI modellerini ve aracılarını ServiceNow'a, ServiceNow iş akışlarını da ChatGPT ve Codex'e taşıyacak şekilde ortaklıklarını genişletiyor.",
+      "summary": "OpenAI ve ServiceNow, OpenAI modellerini ve aracılarını ServiceNow'a ve ServiceNow iş akışlarını ChatGPT ve Codex'e taşıyacak şekilde ortaklıklarını genişletiyor.",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,7 +145,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI ve ServiceNow, kurumsal iş akışlarındaki ortaklığı genişletiyor OpenAI ve ServiceNow, OpenAI modellerini ve aracılarını ServiceNow'a, ServiceNow iş akışlarını da ChatGPT ve Codex'e taşıyacak şekilde ortaklıklarını genişletiyor. OpenAI and ServiceNow expand partnership across enterprise workflows OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex. AI OpenAI Model",
+      "keywords": "OpenAI ve ServiceNow, kurumsal iş akışlarındaki ortaklığı genişletiyor OpenAI ve ServiceNow, OpenAI modellerini ve aracılarını ServiceNow'a ve ServiceNow iş akışlarını ChatGPT ve Codex'e taşıyacak şekilde ortaklıklarını genişletiyor. OpenAI and ServiceNow expand partnership across enterprise workflows OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex. AI OpenAI Model",
       "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summary_original": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "published_display": "2026-10-28",
@@ -155,7 +155,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Firmanın geleceği",
-      "summary": "Yapay zeka organizasyon şemasına nasıl girebilir - altımızda, yanımızda ve aramızda.",
+      "summary": "Yapay zeka, altımızda, yanımızda ve aramızda organizasyon şemasına nasıl girebilir?",
       "url": "https://openai.com/index/the-future-of-the-firm",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +165,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Firmanın geleceği Yapay zeka organizasyon şemasına nasıl girebilir - altımızda, yanımızda ve aramızda. The future of the firm How AI might enter the org chart—beneath, beside, and between us. AI OpenAI Model",
+      "keywords": "Firmanın geleceği Yapay zeka, altımızda, yanımızda ve aramızda organizasyon şemasına nasıl girebilir? The future of the firm How AI might enter the org chart—beneath, beside, and between us. AI OpenAI Model",
       "title_original": "The future of the firm",
       "summary_original": "How AI might enter the org chart—beneath, beside, and between us.",
       "published_display": "2026-10-28",
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Legora yasal işler için temsilci işletim sistemi geliştiriyor",
-      "summary": "Legora'nın yasal iş akışlarını hızlandırmak, sözleşme analizini genişletmek ve avukatları daha yüksek değerli işlere odaklanmak için serbest bırakmak için OpenAI modellerini, ChatGPT'yi ve Codex'i nasıl kullandığını görün.",
+      "summary": "Legora'nın yasal iş akışlarını hızlandırmak, sözleşme analizini genişletmek ve avukatların daha yüksek değerli işlere odaklanmasını sağlamak için OpenAI modellerini, ChatGPT'yi ve Codex'i nasıl kullandığını görün.",
       "url": "https://openai.com/index/legora",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Legora yasal işler için temsilci işletim sistemi geliştiriyor Legora'nın yasal iş akışlarını hızlandırmak, sözleşme analizini genişletmek ve avukatları daha yüksek değerli işlere odaklanmak için serbest bırakmak için OpenAI modellerini, ChatGPT'yi ve Codex'i nasıl kullandığını görün. Legora is building the agentic operating system for legal work See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work. AI OpenAI Model",
+      "keywords": "Legora yasal işler için temsilci işletim sistemi geliştiriyor Legora'nın yasal iş akışlarını hızlandırmak, sözleşme analizini genişletmek ve avukatların daha yüksek değerli işlere odaklanmasını sağlamak için OpenAI modellerini, ChatGPT'yi ve Codex'i nasıl kullandığını görün. Legora is building the agentic operating system for legal work See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work. AI OpenAI Model",
       "title_original": "Legora is building the agentic operating system for legal work",
       "summary_original": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "published_display": "2026-10-28",
@@ -434,7 +434,27 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesiyle tanışın",
+      "title": "Cloudflare DDoS Tehdit Raporu 2026 3. Çeyrek: Daha fazla sürü, daha az dev",
+      "summary": "Teaser'ınızı buraya ekleyin. Başlığı tamamlamalı, tekrarlamamalı. Teaser 240 karakterden uzun olamaz. Blog İnceleme Gemisi bir alıntı önerecektir. Cloudflare, 2026'nın 3. çeyreğinde saatte 8.200'den fazla DDoS saldırısını hafifletti.",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6256EDR0931RP6THCDNZ2R5.01M6256F3NTWXMKQE0RGKEM0G2.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-10-29T12:55:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Cloudflare DDoS Tehdit Raporu 2026 3. Çeyrek: Daha fazla sürü, daha az dev Teaser'ınızı buraya ekleyin. Başlığı tamamlamalı, tekrarlamamalı. Teaser 240 karakterden uzun olamaz. Blog İnceleme Gemisi bir alıntı önerecektir. Cloudflare, 2026'nın 3. çeyreğinde saatte 8.200'den fazla DDoS saldırısını hafifletti. Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attacke... Cloudflare Security Web",
+      "title_original": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "summary_original": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attacke...",
+      "published_display": "2026-10-29",
+      "id": "cf4b021ac92d"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş",
       "summary": "WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor.",
       "url": "https://blog.cloudflare.com/php-ctf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png",
@@ -445,11 +465,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesiyle tanışın WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
+      "keywords": "Cloudflare PHP Bayrağı Yakalama mücadelesine giriş WAF korumalarımızı test etmek için Bug Bounty programımızla entegre bir PHP Bayrağı Yakalama mücadelesi başlatıyoruz. Güvenlik araştırmacıları, savunmalarımızı aşmaya ve İnternet'i daha güvenli hale getirmeye yardımcı olmak için bayrağı ele geçirmeye davet ediliyor. Introducing the Cloudflare PHP Capture the Flag challenge We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer. Cloudflare Security Web",
       "title_original": "Introducing the Cloudflare PHP Capture the Flag challenge",
       "summary_original": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
       "published_display": "2026-10-27",
-      "id": "37f4f40bfc07"
+      "id": "17b55e6da1a4"
     },
     {
       "category": "siber",
@@ -532,29 +552,9 @@
       "id": "2892b480566c"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler",
-      "summary": "Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz.",
-      "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5DK5FY53PEFH46MT990YMSR.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-10-20T22:20:16Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "8 eMudhra sertifikası ele geçirildi. İşte bilmeniz gerekenler Sekiz eMudhra ara sertifikasının zayıf anahtarlar kullandığının keşfedilmesinin ardından Cloudflare, azaltıcı önlemleri dağıtıyor ve istemci güncellemeleri yayınlıyor. Etkiyi, yanıtımızı ve müşterilerin ve geliştiricilerin bundan sonra ne yapması gerektiğini açıklıyoruz. 8 eMudhra certificates are compromised. Here's what you need to know Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next. Cloudflare Security Web",
-      "title_original": "8 eMudhra certificates are compromised. Here's what you need to know",
-      "summary_original": "Following the discovery that eight eMudhra intermediate certificates use weak keys, Cloudflare is deploying mitigations and releasing client updates. We explain the impact, our response, and what customers and developers should do next.",
-      "published_display": "2026-10-20",
-      "id": "f8bc807ba67a"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP üzerinden saldırı - Pasquale Pillitteri",
+      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri",
       "summary": "Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
       "image_url": null,
@@ -565,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP üzerinden saldırı - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
+      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
       "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
       "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
       "published_display": "2026-10-27",
-      "id": "7964082882ee"
+      "id": "631249f4ced3"
     },
     {
       "category": "kamera",
@@ -630,26 +630,6 @@
       "summary_original": "Hacked IP Cameras Open a Back Door Into Company Networks, 87,000 Exploitable in Europe Pasquale Pillitteri",
       "published_display": "2026-09-16",
       "id": "8218ddf01fee"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Uyarı: Tehdit Aktörleri Tarafından Siber Casusluk, Hırsızlık, Sistemlere İhlal ve DDoS'yi Etkinleştirmek İçin Kullanılan Güvenliği Tehlike Altına Alınan IP Kameralar - CCB Belçika",
-      "summary": "Uyarı: Tehdit Aktörleri Tarafından Siber Casusluk, Hırsızlık, Sistemlere İzinsiz Giriş ve DDoS'yi Etkinleştirmek İçin Kullanılan Güvenliği Tehlike Altına Alınan IP Kameralar CCB Belçika",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEJLMk01X1J3dDZTdzJ2VVNibDRIbi1rRGtwd2NTXzMzUXBpZHpZaHZpdkluU0xWMUdiVlRTbE1vZk9iSTgyWmw5d1hBUDU4U0dZWU50bHUwVWZtR3ZGSzJqQ09QRzRWa2d2cVhxMTlGa0E2YURNY1VReElLa3BnWjJrSXRCN2tqbmlZZEFtUDVFTXJqT2E3ZExHTmp1MGliazlSclVKUDBWUTVVeDI5cGFsbHp6eTRuSk51Uk5n?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-09-14T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Uyarı: Tehdit Aktörleri Tarafından Siber Casusluk, Hırsızlık, Sistemlere İhlal ve DDoS'yi Etkinleştirmek İçin Kullanılan Güvenliği Tehlike Altına Alınan IP Kameralar - CCB Belçika Uyarı: Tehdit Aktörleri Tarafından Siber Casusluk, Hırsızlık, Sistemlere İzinsiz Giriş ve DDoS'yi Etkinleştirmek İçin Kullanılan Güvenliği Tehlike Altına Alınan IP Kameralar CCB Belçika Warning: Compromised IP Cameras Used By Threat Actors To Enable Cyberespionage, Theft, Breaching Into Systems And DDoS - CCB Belgium Warning: Compromised IP Cameras Used By Threat Actors To Enable Cyberespionage, Theft, Breaching Into Systems And DDoS CCB Belgium IP Camera Video Surveillance",
-      "title_original": "Warning: Compromised IP Cameras Used By Threat Actors To Enable Cyberespionage, Theft, Breaching Into Systems And DDoS - CCB Belgium",
-      "summary_original": "Warning: Compromised IP Cameras Used By Threat Actors To Enable Cyberespionage, Theft, Breaching Into Systems And DDoS CCB Belgium",
-      "published_display": "2026-09-14",
-      "id": "2d4e86adcc9c"
     }
   ]
 }
