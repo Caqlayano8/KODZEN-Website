@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-10-30T17:38:50Z",
-  "total_posts": 33,
+  "total_posts": 30,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 6,
+    "robotik": 5,
     "web": 3,
     "siber": 6,
-    "kamera": 6
+    "kamera": 4
   },
   "posts": [
     {
@@ -175,7 +175,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Adil kullanım herkese fayda sağlar",
-      "summary": "OpenAI, diğerlerinin yanı sıra yaratıcıların, akademisyenlerin, erişilebilirlik savunucularının ve hukuk uzmanlarının adil kullanımın AI eğitimini ve inovasyonunu nasıl desteklediğine ilişkin mahkeme tutanaklarından alıntılar paylaşıyor.",
+      "summary": "OpenAI, diğerlerinin yanı sıra yaratıcılar, akademisyenler, erişilebilirlik savunucuları ve hukuk uzmanları tarafından adil kullanımın AI eğitimini ve inovasyonu nasıl desteklediğine ilişkin mahkeme tutanaklarından alıntılar paylaşıyor.",
       "url": "https://openai.com/index/fair-use-benefits-everyone",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,7 +185,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Adil kullanım herkese fayda sağlar OpenAI, diğerlerinin yanı sıra yaratıcıların, akademisyenlerin, erişilebilirlik savunucularının ve hukuk uzmanlarının adil kullanımın AI eğitimini ve inovasyonunu nasıl desteklediğine ilişkin mahkeme tutanaklarından alıntılar paylaşıyor. Fair use benefits everyone OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation. AI OpenAI Model",
+      "keywords": "Adil kullanım herkese fayda sağlar OpenAI, diğerlerinin yanı sıra yaratıcılar, akademisyenler, erişilebilirlik savunucuları ve hukuk uzmanları tarafından adil kullanımın AI eğitimini ve inovasyonu nasıl desteklediğine ilişkin mahkeme tutanaklarından alıntılar paylaşıyor. Fair use benefits everyone OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation. AI OpenAI Model",
       "title_original": "Fair use benefits everyone",
       "summary_original": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
       "published_display": "2026-10-30",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Daha yetenekli ve faydalı yapay zeka için güncellenmiş bir Model Spesifikasyonu",
-      "summary": "OpenAI'nin güncellenmiş Model Spesifikasyonu, daha yetenekli yapay zekayı sağlam muhakeme, insan eylemi ve insan niyetine sadakat konusunda yönlendirecek beş temel değeri özetlemektedir.",
+      "summary": "OpenAI'nin güncellenmiş Model Spesifikasyonu, daha yetenekli yapay zekayı sağlam muhakeme, insan eylemliliği ve insan niyetine sadıklığa yönlendirmek için beş temel değeri özetlemektedir.",
       "url": "https://openai.com/index/updated-model-spec",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Daha yetenekli ve faydalı yapay zeka için güncellenmiş bir Model Spesifikasyonu OpenAI'nin güncellenmiş Model Spesifikasyonu, daha yetenekli yapay zekayı sağlam muhakeme, insan eylemi ve insan niyetine sadakat konusunda yönlendirecek beş temel değeri özetlemektedir. An updated Model Spec for more capable and beneficial AI OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent. AI OpenAI Model",
+      "keywords": "Daha yetenekli ve faydalı yapay zeka için güncellenmiş bir Model Spesifikasyonu OpenAI'nin güncellenmiş Model Spesifikasyonu, daha yetenekli yapay zekayı sağlam muhakeme, insan eylemliliği ve insan niyetine sadıklığa yönlendirmek için beş temel değeri özetlemektedir. An updated Model Spec for more capable and beneficial AI OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent. AI OpenAI Model",
       "title_original": "An updated Model Spec for more capable and beneficial AI",
       "summary_original": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
       "published_display": "2026-10-29",
@@ -215,7 +215,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Sınır modeli yanlış hizalamasını nasıl tespit ederiz?",
-      "summary": "OpenAI, sınır modeli yanlış hizalamasını ve yetkisiz aracı davranışını tespit etmek için katmanlı izlemeyi kullanır, böylece müdahale ekipleri olaylar artmadan müdahale edebilir.",
+      "summary": "OpenAI, sınır modeli yanlış hizalamasını ve yetkisiz aracı davranışını tespit etmek için katmanlı izlemeyi kullanır, böylece müdahale ekipleri olaylar tırmanmadan önce müdahale edebilir.",
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,7 +225,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Sınır modeli yanlış hizalamasını nasıl tespit ederiz? OpenAI, sınır modeli yanlış hizalamasını ve yetkisiz aracı davranışını tespit etmek için katmanlı izlemeyi kullanır, böylece müdahale ekipleri olaylar artmadan müdahale edebilir. How we detect frontier model misalignment OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate. AI OpenAI Model",
+      "keywords": "Sınır modeli yanlış hizalamasını nasıl tespit ederiz? OpenAI, sınır modeli yanlış hizalamasını ve yetkisiz aracı davranışını tespit etmek için katmanlı izlemeyi kullanır, böylece müdahale ekipleri olaylar tırmanmadan önce müdahale edebilir. How we detect frontier model misalignment OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate. AI OpenAI Model",
       "title_original": "How we detect frontier model misalignment",
       "summary_original": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
       "published_display": "2026-10-29",
@@ -274,102 +274,82 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030 Yılına Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - Ulusal Hukuk İncelemesi",
-      "summary": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor Ulusal Hukuk İncelemesi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnQwRTJmWFI4WEhHbkk3eDV2djdVY1pfYzJVMm53bTU3bHJnUWtrMUFhTWlkUEVwX0twd0VZS3Qzd3BVbklHVlVIRmVzQUxWcjd2LUhWZVVSR1FJZEhRR21CX19MTU4yYW42bDNYOVMtN1lmWHEzQklXbEhwWVVNXzdDWU5KLUxZc1JSQUVWUy1mZzBwbGo5blVPVnVwcEJPRGk4b0FQanpaN0NrVXE5cg?oc=5",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDlEU1hhb1lETDI2NVdraE9BbGd4d2FyaUNqc21ROG9waFRxalhzNzFCS2tBOV8yQ0NIMDA2bndGLW0zcldZVzZzNnJVWFlXZE81Y0RFVVczTHFuWG1ISFhvc1RvbFlFUHQxaVJzcmdjby1ManBKM0dhRXdXeXE2UE1NZ2RxSUlEVjhNNzJSN0czeUVVU0dVc3YtY2dDRjNuNFExMzA0YlA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-28T15:04:33Z",
+      "published_at": "2026-10-14T14:00:30Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030 Yılına Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - Ulusal Hukuk İncelemesi Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor Ulusal Hukuk İncelemesi Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - The National Law Review Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 The National Law Review Robotics Automation Industry",
-      "title_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - The National Law Review",
-      "summary_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 The National Law Review",
-      "published_display": "2026-10-28",
-      "id": "52ec6e941a09"
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-10-14",
+      "id": "c6a8a8b02ee7"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "3Ç26'da Robotik/Otomasyon Rekabet Ortamının Analizi: Pazar Payları Nasıl Değişiyor? - 富途牛牛",
-      "summary": "3Ç26'da Robotik/Otomasyon Rekabet Ortamının Analizi: Pazar Payları Nasıl Değişiyor? 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWVZNGFyRm5vQWs3eW5ZMW05c0xDdG96X21GMTRIam0yQ0tBMkMxbFEtYk9WV2xfeEt3ODVNVVhjMER3YnZlNG9xYUl0MGVnTTVYV0FJeGZfU043Z1o5dHU0eXZ3Y0t6U05KcnFUTE00dExJYmVla28yYTFXc2ZnUHlWbXhwWFBJcTlIRUFEYVdYd2FNMWJRcm9fLWNUTlpFb1RTQWpPS2R3anNvdDFwajR3?oc=5",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXRzTmczdk9IZEVaUkdqMHM4Wk5vWWF6eXBrb3ZYcTdqSEk4cWhMRVZ0WFI2WGhvQ2d0SmVpSlBxcGFrTEtLNF9HUE9rb2VSNFFIV0J5b2pxcTQzeU5CS3h2djdJR3otODN3UmhybklkYUhDN1J4dkh3WVFDTVh1Wmd4TDBQWXZYUmVGd3E4aGZ6UUdUM1o0R1VpS1JhajRmcENNN2pOOGxqRHRvWUF0MGtIVk0zTjNPWkpv?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-28T03:54:00Z",
+      "published_at": "2026-10-07T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "3Ç26'da Robotik/Otomasyon Rekabet Ortamının Analizi: Pazar Payları Nasıl Değişiyor? - 富途牛牛 3Ç26'da Robotik/Otomasyon Rekabet Ortamının Analizi: Pazar Payları Nasıl Değişiyor? 富途牛牛 Analysis of the Robotics/Automation Competitive Landscape in 3Q26: How Are Market Shares Changing? - 富途牛牛 Analysis of the Robotics/Automation Competitive Landscape in 3Q26: How Are Market Shares Changing? 富途牛牛 Robotics Automation Industry",
-      "title_original": "Analysis of the Robotics/Automation Competitive Landscape in 3Q26: How Are Market Shares Changing? - 富途牛牛",
-      "summary_original": "Analysis of the Robotics/Automation Competitive Landscape in 3Q26: How Are Market Shares Changing? 富途牛牛",
-      "published_display": "2026-10-28",
-      "id": "9ff7a1235ff5"
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-10-07",
+      "id": "48e87b6c4939"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor - Günümüzün Tıbbi Gelişmeleri",
-      "summary": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor Günümüzün Tıbbi Gelişmeleri",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVEl6UEZud1o3R3N3d2ZkQTlhWnd4UU0xVEdld0ZiSjZEVkxqUjd4OHluZG9sS3FySVNzS3ZTZEFNWUN3X0tFdFlpby1aMnhTc3otTXpHQWcyWUNLUldmSTFvOFNTaXd4cTl3ZURoajYzOTJIV0tKMEtXT21jaVRzMjByUFdGRVA4SklUN1NPb1FVdGNCSTFiTWdtWGxZd0pzdWYwZ2U1OWY2VzFaT29RSjNmdnBpaGk5d3FTenNvSEdEaFJJV3hlSTd3?oc=5",
+      "title": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor - IFR Uluslararası Robotik Federasyonu",
+      "summary": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor IFR Uluslararası Robotik Federasyonu",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-24T06:00:00Z",
+      "published_at": "2026-09-24T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor - Günümüzün Tıbbi Gelişmeleri Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor Günümüzün Tıbbi Gelişmeleri Massive FANUC Training Academy expands US robotics and industrial automation education - Today's Medical Developments Massive FANUC Training Academy expands US robotics and industrial automation education Today's Medical Developments Robotics Automation Industry",
-      "title_original": "Massive FANUC Training Academy expands US robotics and industrial automation education - Today's Medical Developments",
-      "summary_original": "Massive FANUC Training Academy expands US robotics and industrial automation education Today's Medical Developments",
-      "published_display": "2026-10-24",
-      "id": "36d3ce03383f"
+      "keywords": "Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor - IFR Uluslararası Robotik Federasyonu Artık Dünya Çapındaki Fabrikalarda Beş Milyon Robot Çalışıyor IFR Uluslararası Robotik Federasyonu Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics Robotics Automation Industry",
+      "title_original": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics",
+      "summary_original": "Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics",
+      "published_display": "2026-09-24",
+      "id": "c4cf96c31fc5"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
-      "summary": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVZhWmsyTzNEY2ZwSVlBN1pMU0lNMGtHN2d6SG9uOTZua19CNGlTaldHZW5Nd2xQYjR0NXp5SEpNUTQ2M0tLZmFzdU1vMEY3QTBQdmdORHpIN0NodXo0WHltUjZWUEdqUXF1VlF2d1REYzU1bW1hTVFoRlp3NHBvbkVhLVkwdzdNYmFNdDJzTkhUVkpwNVA4Q2Rn?oc=5",
+      "title": "Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS09qS3MxYXFBSnNseUlReVdhWFcyMWYzTDI4NnZkOFNDdTBLWUh6emViSUhFQkVhMWhKeGswdEN0LTJWVGh3ajNyWEw0VHI1RUI0ZW9NM2VUclN1WTNLYWVMbHJkLU5ic18tVVU0SjFJRXVLYWpMcWkxY1VkdHJjbF9kOFc2UHVEekJReTk3aDhSYlJuWS1UTUsySzlzY0hnenp2RHZXTk0yOTVIeG9ZemRKYkdwcVlkbG1pbV9NVQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-22T22:16:35Z",
+      "published_at": "2026-09-23T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
-      "title_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-      "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
-      "published_display": "2026-10-22",
-      "id": "d319f926e15b"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Formic, Yapay Zeka Destekli Robot Teknolojisini ABD İmalatında Genişletmek İçin 50 Milyon Dolar Topladı - citybiz",
-      "summary": "Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVkdsRndRb0VkRmJZMEJBendJQUJGcWc1aEljcFNVYm5vLUVHaVN0Wm9WYmhuVlNZcFUyM0g4SWFqVmdzNnR5ckVPRHB0RXA1ZW9tbGhBNlRlQnNfTEZlNXEtRHVsUExPZkFzWEpialdoNjJkWG5KZnRDZ0V2MzlReV9Qb3VpLUZURHRRQ2RTeGczd1JVYXBPa1NuMloxc1BtZld4YkJvQ0lJMmFDNFBKT3JLajZhX2dkVWc?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-22T21:24:14Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Formic, Yapay Zeka Destekli Robot Teknolojisini ABD İmalatında Genişletmek İçin 50 Milyon Dolar Topladı - citybiz Formic, ABD İmalat Sektöründe Yapay Zeka Destekli Robot Teknolojisini Genişletmek İçin 50 Milyon Dolar Topladı Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz Robotics Automation Industry",
-      "title_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz",
-      "summary_original": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing citybiz",
-      "published_display": "2026-10-22",
-      "id": "7069a37943b6"
+      "keywords": "Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı A3 Otomasyonu Geliştirme Derneği The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-09-23",
+      "id": "8e1008910932"
     },
     {
       "category": "web",
@@ -535,7 +515,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Cloudflare WAF için tam işlem algılamayla tanışın",
-      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
+      "summary": "Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, açığa çıkan verileri ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur...",
       "url": "https://blog.cloudflare.com/full-transaction-waf/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png",
       "source": "Cloudflare Security",
@@ -545,7 +525,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, verilerin açığa çıkmasını ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
+      "keywords": "Cloudflare WAF için tam işlem algılamayla tanışın Cloudflare'in web uygulaması güvenlik duvarı artık bir HTTP isteğini yanıtıyla ilişkilendirebiliyor. Tam işlem tespiti, her müşterinin başarılı açıklardan yararlanmaları, açığa çıkan verileri ve yalnızca talep amaçlı inceleme gerektiren riskli yanlış yapılandırmaları bulmasına yardımcı olur... Introducing full transaction detection for Cloudflare WAF Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection... Cloudflare Security Web",
       "title_original": "Introducing full transaction detection for Cloudflare WAF",
       "summary_original": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection...",
       "published_display": "2026-10-21",
@@ -554,22 +534,22 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri",
-      "summary": "Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
+      "title": "Ukrayna ve Rusya'da 14.500'den fazla Dahua kamerası hackerların eline geçti - Escudo Digital",
+      "summary": "Ukrayna ve Rusya'da 14.500'den fazla Dahua kamerası hackerların eline geçti Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHA3Q3JtMjVXMDk1dlBJclZ1WE9GZG52SnMwYzQzekVBMnN4RUNVOC12V0xocTd6QUZkQ2VoWDR1Z1lxbkxMbnZxaU1fRlhFOUhGY09UanNhSUtRMGd5M3B3bDFrQk1aRkFMbVF4bHhmVWluWHQyNzBKeGE0d08wNGJoT21LZ0YzVWVhOWdVNTNYckRuT2dpUVRqUDdSLXJSU3RiRzRnVmszVXlWamNVUWg1UjVCVDlfV1F0OTdJOGJueWVr?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-10-27T08:17:35Z",
+      "published_at": "2026-10-28T05:15:02Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
-      "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
-      "published_display": "2026-10-27",
-      "id": "631249f4ced3"
+      "keywords": "Ukrayna ve Rusya'da 14.500'den fazla Dahua kamerası hackerların eline geçti - Escudo Digital Ukrayna ve Rusya'da 14.500'den fazla Dahua kamerası hackerların eline geçti Escudo Digital More than 14,500 Dahua cameras compromised by hackers in Ukraine and Russia - Escudo Digital More than 14,500 Dahua cameras compromised by hackers in Ukraine and Russia Escudo Digital IP Camera Video Surveillance",
+      "title_original": "More than 14,500 Dahua cameras compromised by hackers in Ukraine and Russia - Escudo Digital",
+      "summary_original": "More than 14,500 Dahua cameras compromised by hackers in Ukraine and Russia Escudo Digital",
+      "published_display": "2026-10-28",
+      "id": "b892b7aae2b0"
     },
     {
       "category": "kamera",
@@ -590,46 +570,6 @@
       "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "published_display": "2026-10-27",
       "id": "d151b5a67629"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili",
-      "summary": "Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-15T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
-      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
-      "published_display": "2026-10-15",
-      "id": "7c4bdc82df8d"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
-      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "published_display": "2026-10-11",
-      "id": "a63b87253590"
     },
     {
       "category": "kamera",
