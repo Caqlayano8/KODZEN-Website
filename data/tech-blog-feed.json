@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T17:45:00Z",
-  "total_posts": 32,
+  "updated_at": "2026-11-02T22:01:00Z",
+  "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 2,
     "siber": 6,
-    "kamera": 6
+    "kamera": 2
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Game Off 2026: Tema SHIFT",
-      "summary": "GitHub'ın her yıl bir ay süren Game Jam'i 14. yılına geri dönüyor! Bu Kasım, SHIFT temasından ilham alan bir oyun yapın. Vites değiştirin, perspektifleri değiştirin, gerçekliği bükün veya yalnızca belirli bir tuşa basın. Game Off 2026 sonrası: Tema SHIFT...",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT...",
       "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,17 +25,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Game Off 2026: Tema SHIFT GitHub'ın her yıl bir ay süren Game Jam'i 14. yılına geri dönüyor! Bu Kasım, SHIFT temasından ilham alan bir oyun yapın. Vites değiştirin, perspektifleri değiştirin, gerçekliği bükün veya yalnızca belirli bir tuşa basın. Game Off 2026 sonrası: Tema SHIFT... Game Off 2026: The theme is SHIFT GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT... GitHub Dev Platform",
+      "keywords": "Game Off 2026: The theme is SHIFT GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT... Game Off 2026: The theme is SHIFT GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT... GitHub Dev Platform",
       "title_original": "Game Off 2026: The theme is SHIFT",
       "summary_original": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT...",
       "published_display": "2026-11-01",
-      "id": "b77fd6cb8921"
+      "id": "aba2bae762a3"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Çalışma alanı yolundaki 'eval' aracınızın yaptıklarını değiştirir mi?",
-      "summary": "Değerlendirmeniz temsilciye, temsilci tek bir talimatı okumadan önce bunun bir test olduğunu söylüyor olabilir. Değerlendirme araçlarının her çalıştırma için yeni bir klasöre ihtiyacı vardır ve bunu almanın en kolay yolu, /tmp/eval-7f3a2c gibi rastgele bir isme sahip geçici bir dizindir. ...",
+      "title": "Does ‘eval’ in the workspace path change what your agent does?",
+      "summary": "Your eval might be telling the agent it’s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The...",
       "url": "https://devblogs.microsoft.com/blog/does-eval-in-the-workspace-path-change-what-your-agent-does/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,17 +45,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Çalışma alanı yolundaki 'eval' aracınızın yaptıklarını değiştirir mi? Değerlendirmeniz temsilciye, temsilci tek bir talimatı okumadan önce bunun bir test olduğunu söylüyor olabilir. Değerlendirme araçlarının her çalıştırma için yeni bir klasöre ihtiyacı vardır ve bunu almanın en kolay yolu, /tmp/eval-7f3a2c gibi rastgele bir isme sahip geçici bir dizindir. ... Does ‘eval’ in the workspace path change what your agent does? Your eval might be telling the agent it’s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The... Microsoft Dev Cloud",
+      "keywords": "Does ‘eval’ in the workspace path change what your agent does? Your eval might be telling the agent it’s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The... Does ‘eval’ in the workspace path change what your agent does? Your eval might be telling the agent it’s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The... Microsoft Dev Cloud",
       "title_original": "Does ‘eval’ in the workspace path change what your agent does?",
       "summary_original": "Your eval might be telling the agent it’s a test before the agent reads a single instruction. Eval tools need a fresh folder for every run, and the easiest way to get one is a temp directory with a random name like /tmp/eval-7f3a2c. The...",
       "published_display": "2026-10-30",
-      "id": "664f45b6cd74"
+      "id": "012ff8125483"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Güvenilir Yayıncılık ile Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın",
-      "summary": "Uzun ömürlü bir kişisel erişim belirteci depolamadan GitHub Actions veya Azure Pipelines'tan Visual Studio Code ve Visual Studio uzantılarını yayımlayın. Yazı, Visual Studio Marketplace uzantılarını Güvenilir Yayıncılık uygulamasıyla güvenli bir şekilde yayınlayın...",
+      "title": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing",
+      "summary": "Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app...",
       "url": "https://devblogs.microsoft.com/blog/trusted-publishing-visual-studio-marketplace/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -65,17 +65,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Güvenilir Yayıncılık ile Visual Studio Marketplace uzantılarını güvenli bir şekilde yayınlayın Uzun ömürlü bir kişisel erişim belirteci depolamadan GitHub Actions veya Azure Pipelines'tan Visual Studio Code ve Visual Studio uzantılarını yayımlayın. Yazı, Visual Studio Marketplace uzantılarını Güvenilir Yayıncılık uygulamasıyla güvenli bir şekilde yayınlayın... Publish Visual Studio Marketplace extensions securely with Trusted Publishing Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app... Microsoft Dev Cloud",
+      "keywords": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app... Publish Visual Studio Marketplace extensions securely with Trusted Publishing Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app... Microsoft Dev Cloud",
       "title_original": "Publish Visual Studio Marketplace extensions securely with Trusted Publishing",
       "summary_original": "Publish Visual Studio Code and Visual Studio extensions from GitHub Actions or Azure Pipelines without storing a long-lived personal access token. The post Publish Visual Studio Marketplace extensions securely with Trusted Publishing app...",
       "published_display": "2026-10-28",
-      "id": "855d91696858"
+      "id": "4d3b4b21db33"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub Universe 2026: Yığının her katmanını geliştiriyoruz",
-      "summary": "Bugün GitHub'a yönelik dünyadaki en kapsamlı, uçtan uca yazılım dağıtım sistemi vizyonumuzu ortaya koyduk. GitHub Universe 2026: Yığındaki her katmanın geliştirilmesi yazısı ilk olarak GitHub Blogunda göründü.",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,17 +85,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub Universe 2026: Yığının her katmanını geliştiriyoruz Bugün GitHub'a yönelik dünyadaki en kapsamlı, uçtan uca yazılım dağıtım sistemi vizyonumuzu ortaya koyduk. GitHub Universe 2026: Yığındaki her katmanın geliştirilmesi yazısı ilk olarak GitHub Blogunda göründü. GitHub Universe 2026: Evolving every layer of the stack Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub Universe 2026: Evolving every layer of the stack Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog . GitHub Universe 2026: Evolving every layer of the stack Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub Universe 2026: Evolving every layer of the stack",
       "summary_original": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .",
       "published_display": "2026-10-28",
-      "id": "ca1289c0e94c"
+      "id": "579b5e2ecfb1"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Octoverse: Geliştiriciler temsilcilerle birlikte geliştirirken taahhütler, itmeler ve 2026'da yeni zirvelere ulaşma",
-      "summary": "2026 Octoverse raporunda rekor bir büyüme yılının her sektöre, her alana ve her türden inşaatçıya nasıl ulaştığını görün. Octoverse yazısı: Geliştiricilerin aracılarla geliştirme yapmasıyla 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma ilk olarak T'de göründü...",
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T...",
       "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,17 +105,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Octoverse: Geliştiriciler temsilcilerle birlikte geliştirirken taahhütler, itmeler ve 2026'da yeni zirvelere ulaşma 2026 Octoverse raporunda rekor bir büyüme yılının her sektöre, her alana ve her türden inşaatçıya nasıl ulaştığını görün. Octoverse yazısı: Geliştiricilerin aracılarla geliştirme yapmasıyla 2026'da taahhütler, itmeler ve yeni zirvelere ulaşma ilk olarak T'de göründü... Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T... GitHub Dev Platform",
+      "keywords": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T... Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T... GitHub Dev Platform",
       "title_original": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
       "summary_original": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T...",
       "published_display": "2026-10-28",
-      "id": "7df05e387e3c"
+      "id": "26c599725e7f"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "PostgreSQL Like A Pro: VS Code'dan ayrılmadan derleyin, sorgulayın ve sorun giderin",
-      "summary": "VS Code'dan ayrılmadan derleyin, sorgulayın ve sorun giderin. PostgreSQL Like A Pro: VS Code'dan ayrılmadan derleme, sorgulama ve sorun giderme yazısı ilk olarak Geliştiriciler için Microsoft'ta göründü.",
+      "title": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
+      "summary": "Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers .",
       "url": "https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -125,17 +125,57 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "PostgreSQL Like A Pro: VS Code'dan ayrılmadan derleyin, sorgulayın ve sorun giderin VS Code'dan ayrılmadan derleyin, sorgulayın ve sorun giderin. PostgreSQL Like A Pro: VS Code'dan ayrılmadan derleme, sorgulama ve sorun giderme yazısı ilk olarak Geliştiriciler için Microsoft'ta göründü. PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers . Microsoft Dev Cloud",
+      "keywords": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers . PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers . Microsoft Dev Cloud",
       "title_original": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
       "summary_original": "Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers .",
       "published_display": "2026-10-26",
-      "id": "b85d1fd858a5"
+      "id": "84754a687392"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Ekim 2026'da duyurduğumuz en son yapay zeka haberleri",
-      "summary": "İşte Google'ın Ekim 2026'daki en son yapay zeka güncellemeleri",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-02T18:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Rewarding defenders with bigger bug bounties OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers. Rewarding defenders with bigger bug bounties OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers. AI OpenAI Model",
+      "title_original": "Rewarding defenders with bigger bug bounties",
+      "summary_original": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "published_display": "2026-11-02",
+      "id": "e1f09cc89b10"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-02T18:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Preparing our next security sprint to harden OpenAI OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI. Preparing our next security sprint to harden OpenAI OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI. AI OpenAI Model",
+      "title_original": "Preparing our next security sprint to harden OpenAI",
+      "summary_original": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "published_display": "2026-11-02",
+      "id": "f64d1cdcb116"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here are Google’s latest AI updates from October 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -145,17 +185,37 @@
         "Product",
         "Google"
       ],
-      "keywords": "Ekim 2026'da duyurduğumuz en son yapay zeka haberleri İşte Google'ın Ekim 2026'daki en son yapay zeka güncellemeleri The latest AI news we announced in October 2026 Here are Google’s latest AI updates from October 2026 AI Product Google",
+      "keywords": "The latest AI news we announced in October 2026 Here are Google’s latest AI updates from October 2026 The latest AI news we announced in October 2026 Here are Google’s latest AI updates from October 2026 AI Product Google",
       "title_original": "The latest AI news we announced in October 2026",
       "summary_original": "Here are Google’s latest AI updates from October 2026",
       "published_display": "2026-11-02",
-      "id": "647000eca3ce"
+      "id": "194e967ad00b"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Izgara Koruyucular Programının Tanıtımı",
-      "summary": "OpenAI'nin Şebeke Koruyucuları Programı, gelecekteki bilgi işlem kampüslerinin şebeke güvenilirliğini desteklemesine ve tüketici elektrik maliyetlerini korumasına yardımcı olmak için kamu hizmetleriyle birlikte çalışacak.",
+      "title": "Scaling Git at OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-02T15:30:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Scaling Git at OpenAI How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible. Scaling Git at OpenAI How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible. AI OpenAI Model",
+      "title_original": "Scaling Git at OpenAI",
+      "summary_original": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "published_display": "2026-11-02",
+      "id": "01890a37dd67"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Introducing the Grid Protectors Program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "url": "https://openai.com/index/grid-protectors-program",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,17 +225,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Izgara Koruyucular Programının Tanıtımı OpenAI'nin Şebeke Koruyucuları Programı, gelecekteki bilgi işlem kampüslerinin şebeke güvenilirliğini desteklemesine ve tüketici elektrik maliyetlerini korumasına yardımcı olmak için kamu hizmetleriyle birlikte çalışacak. Introducing the Grid Protectors Program OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs. AI OpenAI Model",
+      "keywords": "Introducing the Grid Protectors Program OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs. Introducing the Grid Protectors Program OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs. AI OpenAI Model",
       "title_original": "Introducing the Grid Protectors Program",
       "summary_original": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "published_display": "2026-11-02",
-      "id": "eb806eec08b5"
+      "id": "97737e28fdf0"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "HayatVal",
-      "summary": "Yapay zekanın insanların çocuk bakımı bulmaktan finans ve resmi evrak işlerini yönetmeye kadar günlük görevleri tamamlamalarına ne kadar iyi yardımcı olduğunu ölçen bir kıyaslama olan LifeVal ile tanışın.",
+      "title": "LifeVal",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
       "url": "https://openai.com/index/lifeval",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,77 +245,57 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "HayatVal Yapay zekanın insanların çocuk bakımı bulmaktan finans ve resmi evrak işlerini yönetmeye kadar günlük görevleri tamamlamalarına ne kadar iyi yardımcı olduğunu ölçen bir kıyaslama olan LifeVal ile tanışın. LifeVal Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork. AI OpenAI Model",
+      "keywords": "LifeVal Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork. LifeVal Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork. AI OpenAI Model",
       "title_original": "LifeVal",
       "summary_original": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
       "published_display": "2026-11-02",
-      "id": "d9d7da886a4a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Qodo, Codex ile yapay zeka kod incelemesine bağlam kazandırıyor",
-      "summary": "Qodo, şirket bilgisini ve kodlama standartlarını Codex'e getirerek geliştiricilerin bir çekme isteği açmadan önce depolardaki P0 sorunlarını yakalamasına yardımcı olur.",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-02T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Qodo, Codex ile yapay zeka kod incelemesine bağlam kazandırıyor Qodo, şirket bilgisini ve kodlama standartlarını Codex'e getirerek geliştiricilerin bir çekme isteği açmadan önce depolardaki P0 sorunlarını yakalamasına yardımcı olur. Qodo builds context into AI code review with Codex Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request. AI OpenAI Model",
-      "title_original": "Qodo builds context into AI code review with Codex",
-      "summary_original": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "published_display": "2026-11-02",
-      "id": "a479a8c71f0f"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Web sitelerinin AI eğitim tercihlerini ifade etmesini kolaylaştırma",
-      "summary": "OpenAI, web sitesi operatörlerinin AI eğitim tercihlerini katılımcı sağlayıcılara iletmesine yardımcı olmak için paylaşılan bir robots.txt sinyalini dikkate alacaktır.",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-30T09:30:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Web sitelerinin AI eğitim tercihlerini ifade etmesini kolaylaştırma OpenAI, web sitesi operatörlerinin AI eğitim tercihlerini katılımcı sağlayıcılara iletmesine yardımcı olmak için paylaşılan bir robots.txt sinyalini dikkate alacaktır. Making it easier for websites to express AI training preferences OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers. AI OpenAI Model",
-      "title_original": "Making it easier for websites to express AI training preferences",
-      "summary_original": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "published_display": "2026-10-30",
-      "id": "f735c3f0de58"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Topluluk güvenliği raporu ve gençler için yeni korumalar",
-      "summary": "OpenAI, genişletilmiş güvenlik önlemleri, erken müdahaleler ve kamu güvenliği raporlamasına yönelik yeni taahhütle ChatGPT'de şiddetin önlenmesini güçlendiriyor.",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-10-30T09:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Topluluk güvenliği raporu ve gençler için yeni korumalar OpenAI, genişletilmiş güvenlik önlemleri, erken müdahaleler ve kamu güvenliği raporlamasına yönelik yeni taahhütle ChatGPT'de şiddetin önlenmesini güçlendiriyor. Community safety report and new protections for teens OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. AI OpenAI Model",
-      "title_original": "Community safety report and new protections for teens",
-      "summary_original": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "published_display": "2026-10-30",
-      "id": "4cc88c37cf90"
+      "id": "ad3b2f700c58"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "RoboticsCo'nun %60 hissesini satın alan ilk Hydrogen - İnovasyon Haber Ağı",
-      "summary": "RoboticsCo İnovasyon Haber Ağı'nın %60 hissesini satın alan ilk Hydrogen",
+      "title": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire",
+      "summary": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb01xQUlHNzBLdmJraHJWQzRpTl9WZE1qaGd0aWNpQ2NUeFRpSGhpWXpvSjdmNFFTN2JNUW1XbUVrU2lvalhTWnhGNlNRU05mcW5LbThxWXFTd2lremprT3NPeFNKQUNIc3lUclZRX1BpRjdDTzVCWHFDWHd6bUplZ1czOWFidU04cDNXZVk3ZGV0OVUtZHhHdmN4U2hUSFdWSmlFSjdtd0tiN3lKb3lrY2c1ZURKR1FKOTR3bm83UHNWYlZSVzJhekV0Ym0wVVN5Z3MtZUZQRWxTNU5EUlZJQlY2UDl5RlNtellhY0xpT08?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-11-02T22:01:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire Robotics Automation Industry",
+      "title_original": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire",
+      "summary_original": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire",
+      "published_display": "2026-11-02",
+      "id": "156a82c5b1bb"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Agility Robotics says more than 30 companies considering Digit humanoid robot - Robotics & Automation News",
+      "summary": "Agility Robotics says more than 30 companies considering Digit humanoid robot Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzNjNUJ5cmRhOUt3a0JnOHZFN2RwYWZrOHVtbVJSdnZPTWNmSHVmUHFJblJid2FfRzJlU1NBREtKb0prNXFUb0ozaUlpSENFNXlkcm1TYTF5Um5kUVV4NUNNX2xnRTBWZE5NcGFJN2Jsc3lRckVaX3F6Wld2RkNIME5EOF9iTWJfZHNhX2RTRmswSTVNdDBWeXhOTkJYOXFmMEE1enlFVzlNTGFyRzJUSHNWSC1oYTl3NkItNXVmaUZMOXRZSUtybjQzN29UVHM?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-11-02T11:24:37Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Agility Robotics says more than 30 companies considering Digit humanoid robot - Robotics & Automation News Agility Robotics says more than 30 companies considering Digit humanoid robot Robotics & Automation News Agility Robotics says more than 30 companies considering Digit humanoid robot - Robotics & Automation News Agility Robotics says more than 30 companies considering Digit humanoid robot Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Agility Robotics says more than 30 companies considering Digit humanoid robot - Robotics & Automation News",
+      "summary_original": "Agility Robotics says more than 30 companies considering Digit humanoid robot Robotics & Automation News",
+      "published_display": "2026-11-02",
+      "id": "ff89a95d5998"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "First Hydrogen to acquire 60% stake in RoboticsCo - Innovation News Network",
+      "summary": "First Hydrogen to acquire 60% stake in RoboticsCo Innovation News Network",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2ljR2NhTmw2enZ4TXlmWkhNVzQ1Z1pIbTJZS1dIMTZremlqM2pyTVpHNmpaRm14QWxJY0dJaWFKNTkySVBUMTU1X1NRWjhFWWRmTWV5Ykc3a1BwbnYzWlk3bWNoeEttbmhOUVVLZVJ5Z0xWeE5yQ2UxOXNzMmp0c3NmYW1KTVd3cnU1ZTlnd2dWUm93RXNrYw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "RoboticsCo'nun %60 hissesini satın alan ilk Hydrogen - İnovasyon Haber Ağı RoboticsCo İnovasyon Haber Ağı'nın %60 hissesini satın alan ilk Hydrogen First Hydrogen to acquire 60% stake in RoboticsCo - Innovation News Network First Hydrogen to acquire 60% stake in RoboticsCo Innovation News Network Robotics Automation Industry",
+      "keywords": "First Hydrogen to acquire 60% stake in RoboticsCo - Innovation News Network First Hydrogen to acquire 60% stake in RoboticsCo Innovation News Network First Hydrogen to acquire 60% stake in RoboticsCo - Innovation News Network First Hydrogen to acquire 60% stake in RoboticsCo Innovation News Network Robotics Automation Industry",
       "title_original": "First Hydrogen to acquire 60% stake in RoboticsCo - Innovation News Network",
       "summary_original": "First Hydrogen to acquire 60% stake in RoboticsCo Innovation News Network",
       "published_display": "2026-11-02",
-      "id": "df3edd27bf82"
+      "id": "d022b602f92e"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Kuzey Amerika robot siparişleri 3. çeyrekte yaklaşık %25 arttı - Üretim Dalışı",
-      "summary": "Kuzey Amerika robot siparişleri 3. Çeyrek Üretim Dalışında yaklaşık %25 arttı",
+      "title": "North American robot orders grew nearly 25% in Q3 - Manufacturing Dive",
+      "summary": "North American robot orders grew nearly 25% in Q3 Manufacturing Dive",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMU1odzd1endOeFhQMnRHZTZVcHctcG5uTVZMRm0zS0VSYzlUazJXUnItWXVZQjB6d1RsVHhZNFdsZnBIaUJtNmRTMGtXRUY5bmJhYUx4S1UzT2xtTExJZmU0VmpONm51ZnlpUUlUWnpFOWNkaDNQVklhMjhRT2FTTzI1TU90V1pMYVdPdTBJOVE1VXBZWl91MmhxM2lUbnNRbTM4TGtmU0pobEFK?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,97 +325,57 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Kuzey Amerika robot siparişleri 3. çeyrekte yaklaşık %25 arttı - Üretim Dalışı Kuzey Amerika robot siparişleri 3. Çeyrek Üretim Dalışında yaklaşık %25 arttı North American robot orders grew nearly 25% in Q3 - Manufacturing Dive North American robot orders grew nearly 25% in Q3 Manufacturing Dive Robotics Automation Industry",
+      "keywords": "North American robot orders grew nearly 25% in Q3 - Manufacturing Dive North American robot orders grew nearly 25% in Q3 Manufacturing Dive North American robot orders grew nearly 25% in Q3 - Manufacturing Dive North American robot orders grew nearly 25% in Q3 Manufacturing Dive Robotics Automation Industry",
       "title_original": "North American robot orders grew nearly 25% in Q3 - Manufacturing Dive",
       "summary_original": "North American robot orders grew nearly 25% in Q3 Manufacturing Dive",
       "published_display": "2026-10-30",
-      "id": "075e99a6cebc"
+      "id": "109039266570"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - Ulusal Hukuk İncelemesi",
-      "summary": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor Ulusal Hukuk İncelemesi",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnQwRTJmWFI4WEhHbkk3eDV2djdVY1pfYzJVMm53bTU3bHJnUWtrMUFhTWlkUEVwX0twd0VZS3Qzd3BVbklHVlVIRmVzQUxWcjd2LUhWZVVSR1FJZEhRR21CX19MTU4yYW42bDNYOVMtN1lmWHEzQklXbEhwWVVNXzdDWU5KLUxZc1JSQUVWUy1mZzBwbGo5blVPVnVwcEJPRGk4b0FQanpaN0NrVXE5cg?oc=5",
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDlEU1hhb1lETDI2NVdraE9BbGd4d2FyaUNqc21ROG9waFRxalhzNzFCS2tBOV8yQ0NIMDA2bndGLW0zcldZVzZzNnJVWFlXZE81Y0RFVVczTHFuWG1ISFhvc1RvbFlFUHQxaVJzcmdjby1ManBKM0dhRXdXeXE2UE1NZ2RxSUlEVjhNNzJSN0czeUVVU0dVc3YtY2dDRjNuNFExMzA0YlA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-28T15:04:33Z",
+      "published_at": "2026-10-14T14:00:30Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor - Ulusal Hukuk İncelemesi Robotik Süreç Otomasyonu Pazar Büyümesi Hızlanıyor, Sektörün 2030'a Kadar 30,5 Milyar Dolara Ulaşması Bekleniyor Ulusal Hukuk İncelemesi Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - The National Law Review Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 The National Law Review Robotics Automation Industry",
-      "title_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - The National Law Review",
-      "summary_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 The National Law Review",
-      "published_display": "2026-10-28",
-      "id": "5136ce1bcf13"
+      "keywords": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-10-14",
+      "id": "f1083f249637"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "3Ç26'da Robotik/Otomasyon Rekabet Ortamının Analizi: Pazar Payları Nasıl Değişiyor? - 富途牛牛",
-      "summary": "3Ç26'da Robotik/Otomasyon Rekabet Ortamının Analizi: Pazar Payları Nasıl Değişiyor? 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWVZNGFyRm5vQWs3eW5ZMW05c0xDdG96X21GMTRIam0yQ0tBMkMxbFEtYk9WV2xfeEt3ODVNVVhjMER3YnZlNG9xYUl0MGVnTTVYV0FJeGZfU043Z1o5dHU0eXZ3Y0t6U05KcnFUTE00dExJYmVla28yYTFXc2ZnUHlWbXhwWFBJcTlIRUFEYVdYd2FNMWJRcm9fLWNUTlpFb1RTQWpPS2R3anNvdDFwajR3?oc=5",
+      "title": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics",
+      "summary": "Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-28T03:54:00Z",
+      "published_at": "2026-09-24T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "3Ç26'da Robotik/Otomasyon Rekabet Ortamının Analizi: Pazar Payları Nasıl Değişiyor? - 富途牛牛 3Ç26'da Robotik/Otomasyon Rekabet Ortamının Analizi: Pazar Payları Nasıl Değişiyor? 富途牛牛 Analysis of the Robotics/Automation Competitive Landscape in 3Q26: How Are Market Shares Changing? - 富途牛牛 Analysis of the Robotics/Automation Competitive Landscape in 3Q26: How Are Market Shares Changing? 富途牛牛 Robotics Automation Industry",
-      "title_original": "Analysis of the Robotics/Automation Competitive Landscape in 3Q26: How Are Market Shares Changing? - 富途牛牛",
-      "summary_original": "Analysis of the Robotics/Automation Competitive Landscape in 3Q26: How Are Market Shares Changing? 富途牛牛",
-      "published_display": "2026-10-28",
-      "id": "9ff7a1235ff5"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor - Günümüzün Tıbbi Gelişmeleri",
-      "summary": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor Günümüzün Tıbbi Gelişmeleri",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVEl6UEZud1o3R3N3d2ZkQTlhWnd4UU0xVEdld0ZiSjZEVkxqUjd4OHluZG9sS3FySVNzS3ZTZEFNWUN3X0tFdFlpby1aMnhTc3otTXpHQWcyWUNLUldmSTFvOFNTaXd4cTl3ZURoajYzOTJIV0tKMEtXT21jaVRzMjByUFdGRVA4SklUN1NPb1FVdGNCSTFiTWdtWGxZd0pzdWYwZ2U1OWY2VzFaT29RSjNmdnBpaGk5d3FTenNvSEdEaFJJV3hlSTd3?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-24T06:00:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor - Günümüzün Tıbbi Gelişmeleri Devasa FANUC Eğitim Akademisi, ABD robot bilimi ve endüstriyel otomasyon eğitimini genişletiyor Günümüzün Tıbbi Gelişmeleri Massive FANUC Training Academy expands US robotics and industrial automation education - Today's Medical Developments Massive FANUC Training Academy expands US robotics and industrial automation education Today's Medical Developments Robotics Automation Industry",
-      "title_original": "Massive FANUC Training Academy expands US robotics and industrial automation education - Today's Medical Developments",
-      "summary_original": "Massive FANUC Training Academy expands US robotics and industrial automation education Today's Medical Developments",
-      "published_display": "2026-10-24",
-      "id": "36d3ce03383f"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets",
-      "summary": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVZhWmsyTzNEY2ZwSVlBN1pMU0lNMGtHN2d6SG9uOTZua19CNGlTaldHZW5Nd2xQYjR0NXp5SEpNUTQ2M0tLZmFzdU1vMEY3QTBQdmdORHpIN0NodXo0WHltUjZWUEdqUXF1VlF2d1REYzU1bW1hTVFoRlp3NHBvbkVhLVkwdzdNYmFNdDJzTkhUVkpwNVA4Q2Rn?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-10-22T22:16:35Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 - MarketsandMarkets Tayland Endüstriyel Robotik Pazar Büyüklüğü, Payı, Trendler, Büyüme Analizi Raporu, 2031 MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
-      "title_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
-      "summary_original": "Thailand Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
-      "published_display": "2026-10-22",
-      "id": "d319f926e15b"
+      "keywords": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics Robotics Automation Industry",
+      "title_original": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics",
+      "summary_original": "Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics",
+      "published_display": "2026-09-24",
+      "id": "bf2c6938357b"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Eylül ayında web platformuna yeni",
-      "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "title": "New to the web platform in September",
+      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -385,17 +385,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "b39291f2c779"
+      "id": "408e82c9a4bc"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Ağustos 2026 Temel aylık özet",
-      "summary": "Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "title": "August 2026 Baseline monthly digest",
+      "summary": "Read about various happenings with Baseline during August 2026.",
       "url": "https://web.dev/blog/baseline-digest-aug-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -405,17 +405,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Ağustos 2026 Temel aylık özet Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
+      "keywords": "August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
       "title_original": "August 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during August 2026.",
       "published_display": "2026-09-28",
-      "id": "1285588553ae"
+      "id": "e508abcdedaa"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "4 gerçek mi? eMudhra'nın zayıf anahtarlarının istismarının ve yamalarının takibi",
-      "summary": "Dört, sadece dört: İnternette eMudhra sertifikaları kullanan herhangi bir yama yapılmamış bağlantıya girmenin anahtarı budur. Cloudflare'e nasıl hızlı bir şekilde yama uyguladığımız, istismar girişimine dair hangi kanıtları görebildiğimiz ve...",
+      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+      "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the...",
       "url": "https://blog.cloudflare.com/emudhra-patching/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYHSQQJRRA4097AJD12PN.png",
       "source": "Cloudflare Security",
@@ -425,17 +425,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "4 gerçek mi? eMudhra'nın zayıf anahtarlarının istismarının ve yamalarının takibi Dört, sadece dört: İnternette eMudhra sertifikaları kullanan herhangi bir yama yapılmamış bağlantıya girmenin anahtarı budur. Cloudflare'e nasıl hızlı bir şekilde yama uyguladığımız, istismar girişimine dair hangi kanıtları görebildiğimiz ve... 4 real? Tracking exploitation and patching of eMudhra’s weak keys Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the... Cloudflare Security Web",
+      "keywords": "4 real? Tracking exploitation and patching of eMudhra’s weak keys Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the... 4 real? Tracking exploitation and patching of eMudhra’s weak keys Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the... Cloudflare Security Web",
       "title_original": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
       "summary_original": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the...",
       "published_display": "2026-10-30",
-      "id": "5ec0b02a8375"
+      "id": "f134ea8166da"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA, Kataloğa Bilinen İki İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna iki yeni güvenlik açığı ekledi. CVE-2026-111357 Ivanti Connect Kritik İşlev Güvenlik Açığı için Güvenli Eksik Kimlik Doğrulaması CVE-...",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "image_url": null,
       "source": "CISA Advisories",
@@ -445,17 +445,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA, Kataloğa Bilinen İki İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna iki yeni güvenlik açığı ekledi. CVE-2026-111357 Ivanti Connect Kritik İşlev Güvenlik Açığı için Güvenli Eksik Kimlik Doğrulaması CVE-... CISA Adds Two Known Exploited Vulnerabilities to Catalog CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-... CISA Advisory Threat",
+      "keywords": "CISA Adds Two Known Exploited Vulnerabilities to Catalog CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-... CISA Adds Two Known Exploited Vulnerabilities to Catalog CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-... CISA Advisory Threat",
       "title_original": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "summary_original": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-...",
       "published_display": "2026-10-30",
-      "id": "2ba23545c757"
+      "id": "16ec0eeafa10"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Cloudflare DDoS Tehdit Raporu 2026 3. Çeyrek: Daha fazla sürü, daha az dev",
-      "summary": "Saldırganların daha kısa, yüksek frekanslı saldırılara yönelmesiyle Cloudflare, 2026'nın 3. çeyreğinde saatte 8.200'den fazla DDoS saldırısını hafifletti. CLDAP vektörlerinin çökmesi ve yakın zamanda gerçekleşen botnet yayından kaldırma işlemlerinin etkisi de dahil olmak üzere en son tehdit verilerini keşfedin.",
+      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns.",
       "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6256EDR0931RP6THCDNZ2R5.01M6256F3NTWXMKQE0RGKEM0G2.png",
       "source": "Cloudflare Security",
@@ -465,17 +465,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Cloudflare DDoS Tehdit Raporu 2026 3. Çeyrek: Daha fazla sürü, daha az dev Saldırganların daha kısa, yüksek frekanslı saldırılara yönelmesiyle Cloudflare, 2026'nın 3. çeyreğinde saatte 8.200'den fazla DDoS saldırısını hafifletti. CLDAP vektörlerinin çökmesi ve yakın zamanda gerçekleşen botnet yayından kaldırma işlemlerinin etkisi de dahil olmak üzere en son tehdit verilerini keşfedin. Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns. Cloudflare Security Web",
+      "keywords": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns. Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns. Cloudflare Security Web",
       "title_original": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
       "summary_original": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns.",
       "published_display": "2026-10-29",
-      "id": "cf4b021ac92d"
+      "id": "933b6f6abcd7"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Siemens Mendix SAML Modülü",
-      "summary": "CSAF Özetini Görüntüle Mendix SAML modülü, kimliği doğrulanmamış uzaktaki bir saldırganın, IdP tarafından başlatılan kimlik doğrulama akışında geçerli bir SAML onayını tekrar oynatarak yetkisiz erişim elde etmesine olanak verebilecek bir kimlik doğrulama atlama güvenlik açığı içerir...",
+      "title": "Siemens Mendix SAML Module",
+      "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flow...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -485,17 +485,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens Mendix SAML Modülü CSAF Özetini Görüntüle Mendix SAML modülü, kimliği doğrulanmamış uzaktaki bir saldırganın, IdP tarafından başlatılan kimlik doğrulama akışında geçerli bir SAML onayını tekrar oynatarak yetkisiz erişim elde etmesine olanak verebilecek bir kimlik doğrulama atlama güvenlik açığı içerir... Siemens Mendix SAML Module View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flow... CISA Advisory Threat",
+      "keywords": "Siemens Mendix SAML Module View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flow... Siemens Mendix SAML Module View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flow... CISA Advisory Threat",
       "title_original": "Siemens Mendix SAML Module",
       "summary_original": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flow...",
       "published_display": "2026-10-29",
-      "id": "fe1fd28af57f"
+      "id": "be1c6a95dd28"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Hitachi Energy TRO600 serisi ürünler",
-      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen TRO600 serisi ürün sürümlerini etkileyen çok sayıda güvenlik açığının farkındadır. Bu güvenlik açıklarından, daha fazla güvenlik önlemi almak amacıyla uzaktan kod yürütme (RCE) amacıyla yararlanılabilir.",
+      "title": "Hitachi Energy TRO600 series products",
+      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -505,17 +505,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Hitachi Energy TRO600 serisi ürünler CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen TRO600 serisi ürün sürümlerini etkileyen çok sayıda güvenlik açığının farkındadır. Bu güvenlik açıklarından, daha fazla güvenlik önlemi almak amacıyla uzaktan kod yürütme (RCE) amacıyla yararlanılabilir. Hitachi Energy TRO600 series products View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att... CISA Advisory Threat",
+      "keywords": "Hitachi Energy TRO600 series products View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att... Hitachi Energy TRO600 series products View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att... CISA Advisory Threat",
       "title_original": "Hitachi Energy TRO600 series products",
       "summary_original": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att...",
       "published_display": "2026-10-29",
-      "id": "02586272ff19"
+      "id": "4683f342e9ea"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Hitachi Enerji CoreTec Ürünü",
-      "summary": "CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen CoreTec ürün sürümlerini etkileyen işletim sistemi komut ekleme ve Dirty Frag güvenlik açıklarının farkındadır. Bu güvenlik açıklarının başarılı bir şekilde kullanılması, con...",
+      "title": "Hitachi Energy CoreTec Product",
+      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "image_url": null,
       "source": "CISA Advisories",
@@ -525,37 +525,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Hitachi Enerji CoreTec Ürünü CSAF Özetini Görüntüleyin Hitachi Energy, bu belgede listelenen CoreTec ürün sürümlerini etkileyen işletim sistemi komut ekleme ve Dirty Frag güvenlik açıklarının farkındadır. Bu güvenlik açıklarının başarılı bir şekilde kullanılması, con... Hitachi Energy CoreTec Product View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con... CISA Advisory Threat",
+      "keywords": "Hitachi Energy CoreTec Product View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con... Hitachi Energy CoreTec Product View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con... CISA Advisory Threat",
       "title_original": "Hitachi Energy CoreTec Product",
       "summary_original": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con...",
       "published_display": "2026-10-29",
-      "id": "9358c2c50c02"
+      "id": "76ba6198fac4"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri",
-      "summary": "Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-27T08:17:35Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Ukrayna'da Dahua IP kameraları hacklendi, P2P Easy4IP aracılığıyla saldırı düzenlendi - Pasquale Pillitteri Dahua IP kameraları Ukrayna'da hacklendi ve P2P Easy4IP Pasquale Pillitteri aracılığıyla saldırıya uğradı Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
-      "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
-      "published_display": "2026-10-27",
-      "id": "631249f4ced3"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri",
-      "summary": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
+      "summary": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDhSSkd2am02dnhMampDZEFUZS04ZUFIVkdDNkptVVlNV0xzTVVoZW9QX182SE9nQzZTTGVlQWQzbVAyeExCdTNiY0R6QXQ4SWZxZDg5d3VjZlJNNGdvOG1XeHN1QUktTFI3SXN3aDNsZEVGN0xNRWNNLTdLNzluZg?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,57 +545,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
+      "keywords": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
       "title_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
       "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "published_display": "2026-10-27",
-      "id": "d151b5a67629"
+      "id": "dea87be07742"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili",
-      "summary": "Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-15T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Yeni i-PRO Uzaktan Ön Kamera, Edge Yapay Zeka Güvenliğini Genişletiyor - Güvenlik Bilgili Yeni i-PRO Uzaktan Kafa Kamerası Uç Yapay Zeka Güvenliğini Genişletiyor New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
-      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
-      "published_display": "2026-10-15",
-      "id": "7c4bdc82df8d"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware",
-      "summary": "Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Kanadalı YouTuber, yalnızca polis araçlarını izlemek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti - Tom's Hardware Kanadalı YouTuber, yalnızca polis araçlarını takip etmek için 'Sürü benzeri' kamera geliştirdi, polis tarafından ziyaret edildi - memurlar gizlilik endişelerini dile getirmek için evini ziyaret etti Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "published_display": "2026-10-11",
-      "id": "a63b87253590"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
-      "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
+      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
+      "summary": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,31 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
+      "keywords": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
       "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
       "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "published_display": "2026-10-10",
-      "id": "33214d55f737"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
-      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-08T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
-      "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
-      "published_display": "2026-10-08",
-      "id": "6611c4e5a777"
+      "id": "7f766a2a98e6"
     }
   ]
 }
