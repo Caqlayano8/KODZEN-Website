@@ -1,16 +1,36 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:00:00Z",
-  "total_posts": 32,
+  "updated_at": "2026-11-03T16:00:00Z",
+  "total_posts": 29,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 2,
     "siber": 6,
-    "kamera": 6
+    "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
+      "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-11-03T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Arnis turns any place on Earth into a Minecraft world Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog . Arnis turns any place on Earth into a Minecraft world Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Arnis turns any place on Earth into a Minecraft world",
+      "summary_original": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
+      "published_display": "2026-11-03",
+      "id": "11af4345ecf5"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -110,26 +130,6 @@
       "summary_original": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on T...",
       "published_display": "2026-10-28",
       "id": "26c599725e7f"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
-      "summary": "Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers .",
-      "url": "https://devblogs.microsoft.com/blog/postgresql-like-a-pro-vscode/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-10-26T15:05:12Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers . PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers . Microsoft Dev Cloud",
-      "title_original": "PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code",
-      "summary_original": "Build, query, and troubleshoot without leaving VS Code. The post PostgreSQL Like A Pro: Build, query, and troubleshoot without leaving VS Code appeared first on Microsoft for Developers .",
-      "published_display": "2026-10-26",
-      "id": "84754a687392"
     },
     {
       "category": "ai",
@@ -334,42 +334,42 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "North American robot orders grew nearly 25% in Q3 - Manufacturing Dive",
-      "summary": "North American robot orders grew nearly 25% in Q3 Manufacturing Dive",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMU1odzd1endOeFhQMnRHZTZVcHctcG5uTVZMRm0zS0VSYzlUazJXUnItWXVZQjB6d1RsVHhZNFdsZnBIaUJtNmRTMGtXRUY5bmJhYUx4S1UzT2xtTExJZmU0VmpONm51ZnlpUUlUWnpFOWNkaDNQVklhMjhRT2FTTzI1TU90V1pMYVdPdTBJOVE1VXBZWl91MmhxM2lUbnNRbTM4TGtmU0pobEFK?oc=5",
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDlEU1hhb1lETDI2NVdraE9BbGd4d2FyaUNqc21ROG9waFRxalhzNzFCS2tBOV8yQ0NIMDA2bndGLW0zcldZVzZzNnJVWFlXZE81Y0RFVVczTHFuWG1ISFhvc1RvbFlFUHQxaVJzcmdjby1ManBKM0dhRXdXeXE2UE1NZ2RxSUlEVjhNNzJSN0czeUVVU0dVc3YtY2dDRjNuNFExMzA0YlA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-30T16:40:54Z",
+      "published_at": "2026-10-14T14:00:30Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "North American robot orders grew nearly 25% in Q3 - Manufacturing Dive North American robot orders grew nearly 25% in Q3 Manufacturing Dive North American robot orders grew nearly 25% in Q3 - Manufacturing Dive North American robot orders grew nearly 25% in Q3 Manufacturing Dive Robotics Automation Industry",
-      "title_original": "North American robot orders grew nearly 25% in Q3 - Manufacturing Dive",
-      "summary_original": "North American robot orders grew nearly 25% in Q3 Manufacturing Dive",
-      "published_display": "2026-10-30",
-      "id": "109039266570"
+      "keywords": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-10-14",
+      "id": "f1083f249637"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - EIN Presswire",
-      "summary": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNjZhQnFrVm51aG5rY045b0ljN0FtY2l6a0ZfS3BNdVFUMk5nOXo3MDRTTWM4dDZpckJTdWNKMmhtNE9yMVZNRS1aZm1fbmN3c2xLRlRGS2tFcjc4Um8zZ2JZT2xXNFVseTJYVmd2SGRpWTVfUHl5SFI1THdvQldXVUpqbEY4SEdkTW1FelpOZjNUd3RKNVFxZElEWVl4YzJZSzU4d2t1ck56b2lVYmJ3Mkc5OXRFU2lPbUc0aEdaNU9OeUVraVotbkl2Z1h1VHRSZy1qVjg3ZE1yMjZtNWRhNlpOWjBxUQ?oc=5",
+      "title": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics",
+      "summary": "Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-10-28T14:00:00Z",
+      "published_at": "2026-09-24T07:00:00Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - EIN Presswire Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 EIN Presswire Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - EIN Presswire Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 EIN Presswire Robotics Automation Industry",
-      "title_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 - EIN Presswire",
-      "summary_original": "Robotics Process Automation Market Growth Accelerates As Industry Expected To Reach $30.5 Billion By 2030 EIN Presswire",
-      "published_display": "2026-10-28",
-      "id": "563fb4b2de02"
+      "keywords": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics Robotics Automation Industry",
+      "title_original": "Five Million Robots now Operate in Factories Globally - IFR International Federation of Robotics",
+      "summary_original": "Five Million Robots now Operate in Factories Globally IFR International Federation of Robotics",
+      "published_display": "2026-09-24",
+      "id": "bf2c6938357b"
     },
     {
       "category": "web",
@@ -410,6 +410,46 @@
       "summary_original": "Read about various happenings with Baseline during August 2026.",
       "published_display": "2026-09-28",
       "id": "e508abcdedaa"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6GJ6AY4JP65PWEN7N433797.01M6GJ6BBQ9P5FYVNPWDVKT2EY.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-11-03T14:00:00Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure. Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure. Cloudflare Security Web",
+      "title_original": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "summary_original": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+      "published_display": "2026-11-03",
+      "id": "e445b08fabc0"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Subnet Solutions PowerSYSTEM Center",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-03T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Subnet Solutions PowerSYSTEM Center View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are... Subnet Solutions PowerSYSTEM Center View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are... CISA Advisory Threat",
+      "title_original": "Subnet Solutions PowerSYSTEM Center",
+      "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are...",
+      "published_display": "2026-11-03",
+      "id": "a56d445eb308"
     },
     {
       "category": "siber",
@@ -492,66 +532,6 @@
       "id": "be1c6a95dd28"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Hitachi Energy TRO600 series products",
-      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-10-29T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Hitachi Energy TRO600 series products View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att... Hitachi Energy TRO600 series products View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att... CISA Advisory Threat",
-      "title_original": "Hitachi Energy TRO600 series products",
-      "summary_original": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att...",
-      "published_display": "2026-10-29",
-      "id": "4683f342e9ea"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Hitachi Energy CoreTec Product",
-      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-10-29T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Hitachi Energy CoreTec Product View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con... Hitachi Energy CoreTec Product View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con... CISA Advisory Threat",
-      "title_original": "Hitachi Energy CoreTec Product",
-      "summary_original": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con...",
-      "published_display": "2026-10-29",
-      "id": "76ba6198fac4"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
-      "summary": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-27T08:17:35Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
-      "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
-      "published_display": "2026-10-27",
-      "id": "afee413b1cf2"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
       "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
@@ -570,46 +550,6 @@
       "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "published_display": "2026-10-27",
       "id": "dea87be07742"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-15T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
-      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
-      "published_display": "2026-10-15",
-      "id": "a206d4b1a6bf"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "published_display": "2026-10-11",
-      "id": "80d82e57e3e1"
     },
     {
       "category": "kamera",
