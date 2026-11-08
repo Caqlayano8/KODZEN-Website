@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "updated_at": "2026-11-06T22:15:59Z",
-  "total_posts": 29,
+  "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 5,
     "web": 2,
     "siber": 6,
-    "kamera": 4
+    "kamera": 3
   },
   "posts": [
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Kod oluşturmanın ötesinde: Ajan mühendisliğine yönelik bir geliştirici kılavuzu",
-      "summary": "Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme...",
+      "title": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu",
+      "summary": "Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hala sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme...",
       "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,17 +25,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod oluşturmanın ötesinde: Ajan mühendisliğine yönelik bir geliştirici kılavuzu Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
+      "keywords": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hala sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
       "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
       "summary_original": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
       "published_display": "2026-11-06",
-      "id": "12ecb8eac891"
+      "id": "3308a087e41a"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "GitHub'ın yeni Git depolama mimarisinin içinde",
-      "summary": "GitHub'ın yeni Git depolama mimarisi, binlerce aracının aynı anda tek bir depoya gönderim yapabilmesi için oluşturulmuştur. İşte nasıl çalışıyor? Inside GitHub'ın yeni Git depolama mimarisi yazısı ilk olarak The GitHub Blog'da göründü.",
+      "summary": "GitHub'ın yeni Git depolama mimarisi, binlerce aracının aynı anda tek bir depoya gönderim yapabilmesi için oluşturulmuştur. İşte nasıl çalışıyor? Inside GitHub'ın yeni Git depolama mimarisi yazısı ilk olarak The GitHub Blog'da çıktı.",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,7 +45,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub'ın yeni Git depolama mimarisinin içinde GitHub'ın yeni Git depolama mimarisi, binlerce aracının aynı anda tek bir depoya gönderim yapabilmesi için oluşturulmuştur. İşte nasıl çalışıyor? Inside GitHub'ın yeni Git depolama mimarisi yazısı ilk olarak The GitHub Blog'da göründü. Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub'ın yeni Git depolama mimarisinin içinde GitHub'ın yeni Git depolama mimarisi, binlerce aracının aynı anda tek bir depoya gönderim yapabilmesi için oluşturulmuştur. İşte nasıl çalışıyor? Inside GitHub'ın yeni Git depolama mimarisi yazısı ilk olarak The GitHub Blog'da çıktı. Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Inside GitHub’s new Git storage architecture",
       "summary_original": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "published_display": "2026-11-05",
@@ -195,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Avustralya üniversiteleri yapay zeka yerlisi mezunlar yaratıyor",
-      "summary": "Avustralya üniversiteleri, ChatGPT'ye erişimi genişletiyor ve öğrencileri yapay zeka destekli bir iş gücüne hazırlamak için yapay zekayı öğretme ve öğrenmeye dahil ediyor.",
+      "summary": "Avustralya üniversiteleri ChatGPT'ye erişimi genişletiyor ve öğrencileri yapay zeka destekli bir iş gücüne hazırlamak için yapay zekayı öğretme ve öğrenmeye dahil ediyor.",
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Avustralya üniversiteleri yapay zeka yerlisi mezunlar yaratıyor Avustralya üniversiteleri, ChatGPT'ye erişimi genişletiyor ve öğrencileri yapay zeka destekli bir iş gücüne hazırlamak için yapay zekayı öğretme ve öğrenmeye dahil ediyor. Australian universities are creating AI-native graduates Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce. AI OpenAI Model",
+      "keywords": "Avustralya üniversiteleri yapay zeka yerlisi mezunlar yaratıyor Avustralya üniversiteleri ChatGPT'ye erişimi genişletiyor ve öğrencileri yapay zeka destekli bir iş gücüne hazırlamak için yapay zekayı öğretme ve öğrenmeye dahil ediyor. Australian universities are creating AI-native graduates Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce. AI OpenAI Model",
       "title_original": "Australian universities are creating AI-native graduates",
       "summary_original": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
       "published_display": "2026-11-05",
@@ -235,7 +235,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "Giyilebilir sensörler kullanarak hipertansiyon belirtilerini tespit etmek",
-      "summary": "Sağlık ve Biyobilim",
+      "summary": "Sağlık ve Biyoloji",
       "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
       "source": "Google Research Blog",
@@ -245,7 +245,7 @@
         "Research",
         "Google"
       ],
-      "keywords": "Giyilebilir sensörler kullanarak hipertansiyon belirtilerini tespit etmek Sağlık ve Biyobilim Detecting signs of hypertension using wearable sensors Health & Bioscience AI Research Google",
+      "keywords": "Giyilebilir sensörler kullanarak hipertansiyon belirtilerini tespit etmek Sağlık ve Biyoloji Detecting signs of hypertension using wearable sensors Health & Bioscience AI Research Google",
       "title_original": "Detecting signs of hypertension using wearable sensors",
       "summary_original": "Health & Bioscience",
       "published_display": "2026-11-05",
@@ -254,7 +254,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "2027'de Hindistan'daki En İyi 10 Otomasyon Şirketi - Inventiva",
+      "title": "2027 Yılında Hindistan'daki En İyi 10 Otomasyon Şirketi - Inventiva",
       "summary": "2027'de Hindistan'ın En İyi 10 Otomasyon Şirketi Inventiva",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWQ2d2xMbU83YzJqUzVSZGJPM0puNHRQa2c4MElWOTM5ZlF2SEl1VUQ0djRaT0d4MlZqcG1WeVZHT2x3ZEgyUzc1M19CNW9OWFZzam91Q3NzdVZOaS1Mbmt3YTRNYkxIUEVQQ2FxWUJpeG5XRFY1cEtpVk95UVR3cVdrck92dGc1YzVraUF3?oc=5",
       "image_url": null,
@@ -265,17 +265,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "2027'de Hindistan'daki En İyi 10 Otomasyon Şirketi - Inventiva 2027'de Hindistan'ın En İyi 10 Otomasyon Şirketi Inventiva Top 10 Best Automation Companies In India In 2027 - Inventiva Top 10 Best Automation Companies In India In 2027 Inventiva Robotics Automation Industry",
+      "keywords": "2027 Yılında Hindistan'daki En İyi 10 Otomasyon Şirketi - Inventiva 2027'de Hindistan'ın En İyi 10 Otomasyon Şirketi Inventiva Top 10 Best Automation Companies In India In 2027 - Inventiva Top 10 Best Automation Companies In India In 2027 Inventiva Robotics Automation Industry",
       "title_original": "Top 10 Best Automation Companies In India In 2027 - Inventiva",
       "summary_original": "Top 10 Best Automation Companies In India In 2027 Inventiva",
       "published_display": "2026-11-06",
-      "id": "03e24f804ef1"
+      "id": "1605407b8633"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Robotik Pazarı Endüstriyel Olarak 2032 Yılında 223,28 Milyar Dolara Ulaşacak - openPR.com",
-      "summary": "Endüstriyel openPR.com Olarak Robotik Pazarı 2032 Yılında 223,28 Milyar Dolara Ulaşacak",
+      "summary": "Endüstriyel OpenPR.com Olarak Robotik Pazarı 2032 Yılında 223,28 Milyar Dolara Ulaşacak",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDkxUWxTUkNhbUFnU1MzQlB0TGlOU1BXZl9mUEF2elhscFd5aWg3M01yeFFrbEJqU0p2YUJ1bmxvb2x2cUtsQ09QZ0JUT18wUGhWY0RqT0RhSHpOaTJ3ZVg2bDN5UEgxdE0xWUlveDd4OTJOVWN0dVBtMUhKanZrdTJzV1lYeVBXVl92VTBPaGU3SWZMOVdpSHVaTm04QzBrSVJZ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,7 +285,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotik Pazarı Endüstriyel Olarak 2032 Yılında 223,28 Milyar Dolara Ulaşacak - openPR.com Endüstriyel openPR.com Olarak Robotik Pazarı 2032 Yılında 223,28 Milyar Dolara Ulaşacak Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial - openPR.com Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial openPR.com Robotics Automation Industry",
+      "keywords": "Robotik Pazarı Endüstriyel Olarak 2032 Yılında 223,28 Milyar Dolara Ulaşacak - openPR.com Endüstriyel OpenPR.com Olarak Robotik Pazarı 2032 Yılında 223,28 Milyar Dolara Ulaşacak Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial - openPR.com Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial openPR.com Robotics Automation Industry",
       "title_original": "Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial - openPR.com",
       "summary_original": "Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial openPR.com",
       "published_display": "2026-11-05",
@@ -334,7 +334,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Endüstriyel Otomasyon Pazarını Gelecekte Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Endüstriyel Otomasyon Pazarını Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Endüstriyel Otomasyon Pazarını Neler Bekliyor A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGRhb0VMcTREaWlyWThHOGUxdkNUcWlQYV9xQUpuOUpqbS1aTWR1ZU9JM0RfSjc0TjI4aVBMdi1IMm55M0NFV01jUGhybFkxblg3R0xZbGZTaEk5aW5IUjdwY3NGZVhCdmRTc0l2RURSdkN3ZXBRRjdzczJYckVVekNOV3otenVsMEpqUEp3Yw?oc=5",
       "image_url": null,
@@ -345,16 +345,16 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstriyel Otomasyon Pazarını Gelecekte Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği Endüstriyel Otomasyon Pazarını Neler Bekliyor A3 Otomasyonu Geliştirme Derneği What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Endüstriyel Otomasyon Pazarını Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği Endüstriyel Otomasyon Pazarını Neler Bekliyor A3 Otomasyonu Geliştirme Derneği What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation",
       "summary_original": "What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation",
       "published_display": "2026-10-15",
-      "id": "7ed8b11bc382"
+      "id": "fc86ffd7de3b"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Eylül ayında web platformunda yeni",
+      "title": "Eylül ayında web platformuna yeni",
       "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
@@ -365,11 +365,11 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Eylül ayında web platformunda yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "5c34f3e54888"
+      "id": "b39291f2c779"
     },
     {
       "category": "web",
@@ -434,7 +434,7 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Ajanlar insan değil (ama öyleler)",
+      "title": "Ajanlar insan değil (ama bir nevi öyleler)",
       "summary": "Yapay zeka aracıları milyonlar adına hareket ediyor, ancak sunucular kullanıcı görünürlüğünü engelleyen aracıları görüyor. Bu gönderi sorunlu alanı tanımlar ve bu otomatikleştirilmiş trafiği güvenli bir şekilde tanımlamaya, izin vermeye ve yönetmeye yönelik işbirliğine dayalı bir yaklaşım sunar.",
       "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HXVQ0MH26TMB3HFFHA31DK.png",
@@ -445,11 +445,11 @@
         "Security",
         "Web"
       ],
-      "keywords": "Ajanlar insan değil (ama öyleler) Yapay zeka aracıları milyonlar adına hareket ediyor, ancak sunucular kullanıcı görünürlüğünü engelleyen aracıları görüyor. Bu gönderi sorunlu alanı tanımlar ve bu otomatikleştirilmiş trafiği güvenli bir şekilde tanımlamaya, izin vermeye ve yönetmeye yönelik işbirliğine dayalı bir yaklaşım sunar. Agents aren’t humans (but they kinda are) AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic. Cloudflare Security Web",
+      "keywords": "Ajanlar insan değil (ama bir nevi öyleler) Yapay zeka aracıları milyonlar adına hareket ediyor, ancak sunucular kullanıcı görünürlüğünü engelleyen aracıları görüyor. Bu gönderi sorunlu alanı tanımlar ve bu otomatikleştirilmiş trafiği güvenli bir şekilde tanımlamaya, izin vermeye ve yönetmeye yönelik işbirliğine dayalı bir yaklaşım sunar. Agents aren’t humans (but they kinda are) AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic. Cloudflare Security Web",
       "title_original": "Agents aren’t humans (but they kinda are)",
       "summary_original": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
       "published_display": "2026-11-05",
-      "id": "65d0164b922d"
+      "id": "8d1ad2651176"
     },
     {
       "category": "siber",
@@ -495,7 +495,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Temsilcileri görün, şartları belirleyin: kişisel temsilciler için yeni görünürlük ve kontrol",
-      "summary": "Kişisel yapay zeka aracıları, kullanıcıların web ile etkileşimini değiştirerek otomatik trafik ile insan trafiği arasındaki çizgiyi bulanıklaştırdı. Cloudflare'in site sahiplerine kişisel aracı erişimini yönetmek için nasıl görünürlük ve kontrol sağladığını öğrenin.",
+      "summary": "Kişisel yapay zeka aracıları, kullanıcıların web ile etkileşimini değiştirerek otomatik trafik ile insan trafiği arasındaki çizgiyi bulanıklaştırdı. Cloudflare'in site sahiplerine kişisel aracı erişimini yönetme konusunda nasıl görünürlük ve kontrol sağladığını öğrenin.",
       "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1ZE3ZTGF9NEGGPF8SZNS.png",
       "source": "Cloudflare Security",
@@ -505,7 +505,7 @@
         "Security",
         "Web"
       ],
-      "keywords": "Temsilcileri görün, şartları belirleyin: kişisel temsilciler için yeni görünürlük ve kontrol Kişisel yapay zeka aracıları, kullanıcıların web ile etkileşimini değiştirerek otomatik trafik ile insan trafiği arasındaki çizgiyi bulanıklaştırdı. Cloudflare'in site sahiplerine kişisel aracı erişimini yönetmek için nasıl görünürlük ve kontrol sağladığını öğrenin. See the agents, set the terms: new visibility and control for personal agents Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access. Cloudflare Security Web",
+      "keywords": "Temsilcileri görün, şartları belirleyin: kişisel temsilciler için yeni görünürlük ve kontrol Kişisel yapay zeka aracıları, kullanıcıların web ile etkileşimini değiştirerek otomatik trafik ile insan trafiği arasındaki çizgiyi bulanıklaştırdı. Cloudflare'in site sahiplerine kişisel aracı erişimini yönetme konusunda nasıl görünürlük ve kontrol sağladığını öğrenin. See the agents, set the terms: new visibility and control for personal agents Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access. Cloudflare Security Web",
       "title_original": "See the agents, set the terms: new visibility and control for personal agents",
       "summary_original": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
       "published_display": "2026-11-04",
@@ -570,26 +570,6 @@
       "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "published_display": "2026-10-10",
       "id": "33214d55f737"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
-      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-08T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
-      "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
-      "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
-      "published_display": "2026-10-08",
-      "id": "6611c4e5a777"
     }
   ]
 }
