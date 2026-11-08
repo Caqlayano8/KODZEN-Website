@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "updated_at": "2026-11-06T22:15:59Z",
-  "total_posts": 29,
+  "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 5,
+    "robotik": 4,
     "web": 2,
     "siber": 6,
     "kamera": 4
@@ -14,8 +14,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Beyond code generation: A developer’s guide to agentic engineering",
-      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
+      "title": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu",
+      "summary": "Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme...",
       "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,17 +25,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
+      "keywords": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
       "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
       "summary_original": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
       "published_display": "2026-11-06",
-      "id": "b0114ad7a795"
+      "id": "3308a087e41a"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Inside GitHub’s new Git storage architecture",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
+      "title": "GitHub'ın yeni Git depolama mimarisinin içinde",
+      "summary": "GitHub'ın yeni Git depolama mimarisi, binlerce aracının aynı anda tek bir depoya gönderim yapabilmesi için oluşturulmuştur. İşte nasıl çalışıyor? Inside GitHub'ın yeni Git depolama mimarisi yazısı ilk olarak The GitHub Blog'da göründü.",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,17 +45,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub'ın yeni Git depolama mimarisinin içinde GitHub'ın yeni Git depolama mimarisi, binlerce aracının aynı anda tek bir depoya gönderim yapabilmesi için oluşturulmuştur. İşte nasıl çalışıyor? Inside GitHub'ın yeni Git depolama mimarisi yazısı ilk olarak The GitHub Blog'da göründü. Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Inside GitHub’s new Git storage architecture",
       "summary_original": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "published_display": "2026-11-05",
-      "id": "7a29d545e879"
+      "id": "d795cc6fff80"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Accessibility statements now have a home on GitHub",
-      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home...",
+      "title": "Erişilebilirlik bildirimlerinin artık GitHub'da bir yeri var",
+      "summary": "GitHub artık ACCESSIBILITY.md dosyalarını vurguluyor ve bakımcıların erişilebilirlik hedeflerini, bilinen engelleri, desteklenen ortamları, katkıda bulunanların beklentilerini ve raporlama süreçlerini belgelemelerine yardımcı oluyor. Erişilebilirlik bildirimlerinin artık bir ana sayfası var...",
       "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,17 +65,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Accessibility statements now have a home on GitHub GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home... Accessibility statements now have a home on GitHub GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home... GitHub Dev Platform",
+      "keywords": "Erişilebilirlik bildirimlerinin artık GitHub'da bir yeri var GitHub artık ACCESSIBILITY.md dosyalarını vurguluyor ve bakımcıların erişilebilirlik hedeflerini, bilinen engelleri, desteklenen ortamları, katkıda bulunanların beklentilerini ve raporlama süreçlerini belgelemelerine yardımcı oluyor. Erişilebilirlik bildirimlerinin artık bir ana sayfası var... Accessibility statements now have a home on GitHub GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home... GitHub Dev Platform",
       "title_original": "Accessibility statements now have a home on GitHub",
       "summary_original": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home...",
       "published_display": "2026-11-05",
-      "id": "a72dabf716f1"
+      "id": "189342070f0e"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Your best AX fixes are hiding in agent trajectories",
-      "summary": "All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runn...",
+      "title": "En iyi AX düzeltmeleriniz ajan yörüngelerinde saklanıyor",
+      "summary": "Beş temsilci çalışmasının tümü çalışan bir senaryo üretti ve değerlendirme puanında hiçbir şey yanlış görünmüyordu. Yörüngeler farklı bir hikaye anlattı. Her çalıştırma, eklenti adlarını bulmak için bir DLL dosyasını ham bayt olarak okur ve üç komut dosyası, bir CI çalışmasını sessizce yeniden yönlendirir.",
       "url": "https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -85,17 +85,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Your best AX fixes are hiding in agent trajectories All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runn... Your best AX fixes are hiding in agent trajectories All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runn... Microsoft Dev Cloud",
+      "keywords": "En iyi AX düzeltmeleriniz ajan yörüngelerinde saklanıyor Beş temsilci çalışmasının tümü çalışan bir senaryo üretti ve değerlendirme puanında hiçbir şey yanlış görünmüyordu. Yörüngeler farklı bir hikaye anlattı. Her çalıştırma, eklenti adlarını bulmak için bir DLL dosyasını ham bayt olarak okur ve üç komut dosyası, bir CI çalışmasını sessizce yeniden yönlendirir. Your best AX fixes are hiding in agent trajectories All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runn... Microsoft Dev Cloud",
       "title_original": "Your best AX fixes are hiding in agent trajectories",
       "summary_original": "All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runn...",
       "published_display": "2026-11-05",
-      "id": "ce1f1265bdb7"
+      "id": "48a318fe8e99"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Arnis turns any place on Earth into a Minecraft world",
-      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
+      "title": "Arnis dünyadaki her yeri Minecraft dünyasına dönüştürüyor",
+      "summary": "Louis Erbkamm boş zamanlarında ilk prototipi yaptı. Artık GitHub Copilot, bunu tek başına sürdürmesine yardımcı oluyor. Arnis'in Dünya üzerindeki herhangi bir yeri Minecraft dünyasına dönüştürdüğü yazısı ilk olarak GitHub Blog'da ortaya çıktı.",
       "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,17 +105,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Arnis turns any place on Earth into a Minecraft world Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog . Arnis turns any place on Earth into a Minecraft world Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Arnis dünyadaki her yeri Minecraft dünyasına dönüştürüyor Louis Erbkamm boş zamanlarında ilk prototipi yaptı. Artık GitHub Copilot, bunu tek başına sürdürmesine yardımcı oluyor. Arnis'in Dünya üzerindeki herhangi bir yeri Minecraft dünyasına dönüştürdüğü yazısı ilk olarak GitHub Blog'da ortaya çıktı. Arnis turns any place on Earth into a Minecraft world Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Arnis turns any place on Earth into a Minecraft world",
       "summary_original": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog .",
       "published_display": "2026-11-03",
-      "id": "11af4345ecf5"
+      "id": "6120b0a71557"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Game Off 2026: The theme is SHIFT",
-      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT...",
+      "title": "Game Off 2026: Tema SHIFT",
+      "summary": "GitHub'ın her yıl bir ay süren Game Jam'i 14. yılına geri dönüyor! Bu Kasım, SHIFT temasından ilham alan bir oyun yapın. Vites değiştirin, perspektifleri değiştirin, gerçekliği bükün veya yalnızca belirli bir tuşa basın. Game Off 2026 sonrası: Tema SHIFT...",
       "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,17 +125,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Game Off 2026: The theme is SHIFT GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT... Game Off 2026: The theme is SHIFT GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT... GitHub Dev Platform",
+      "keywords": "Game Off 2026: Tema SHIFT GitHub'ın her yıl bir ay süren Game Jam'i 14. yılına geri dönüyor! Bu Kasım, SHIFT temasından ilham alan bir oyun yapın. Vites değiştirin, perspektifleri değiştirin, gerçekliği bükün veya yalnızca belirli bir tuşa basın. Game Off 2026 sonrası: Tema SHIFT... Game Off 2026: The theme is SHIFT GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT... GitHub Dev Platform",
       "title_original": "Game Off 2026: The theme is SHIFT",
       "summary_original": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT...",
       "published_display": "2026-11-01",
-      "id": "aba2bae762a3"
+      "id": "b77fd6cb8921"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "title": "OpenAI sistemlerindeki güvenlik açıklarını bulmak için Hacktron ile ortaklık kurmak",
+      "summary": "OpenAI, güvenlik açıklarını bulmak, üçüncü taraf hizmetlerle bağlantıları test etmek ve sınır yapay zekasıyla savunmaları güçlendirmek için Hacktron ile ortaklık kuruyor.",
       "url": "https://openai.com/index/partnering-with-hacktron",
       "image_url": null,
       "source": "OpenAI News",
@@ -145,17 +145,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI. AI OpenAI Model",
+      "keywords": "OpenAI sistemlerindeki güvenlik açıklarını bulmak için Hacktron ile ortaklık kurmak OpenAI, güvenlik açıklarını bulmak, üçüncü taraf hizmetlerle bağlantıları test etmek ve sınır yapay zekasıyla savunmaları güçlendirmek için Hacktron ile ortaklık kuruyor. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI. AI OpenAI Model",
       "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "summary_original": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "published_display": "2026-11-06",
-      "id": "39cd0b21f37f"
+      "id": "30997b92cc79"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "title": "Yapay zeka ajanlarının günlük ıslak laboratuvar bilimini nasıl ele aldığını ölçmek",
+      "summary": "OpenAI, AI ajanlarının ham deneysel verileri ne kadar iyi yorumladığını ve günlük ıslak laboratuvar bilimini ne kadar iyi ele aldığını ölçen 100 görevlik bir kıyaslama olan BioBasicsBench'i tanıtıyor.",
       "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,17 +165,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Measuring how AI agents handle everyday wet-lab science OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. Measuring how AI agents handle everyday wet-lab science OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. AI OpenAI Model",
+      "keywords": "Yapay zeka ajanlarının günlük ıslak laboratuvar bilimini nasıl ele aldığını ölçmek OpenAI, AI ajanlarının ham deneysel verileri ne kadar iyi yorumladığını ve günlük ıslak laboratuvar bilimini ne kadar iyi ele aldığını ölçen 100 görevlik bir kıyaslama olan BioBasicsBench'i tanıtıyor. Measuring how AI agents handle everyday wet-lab science OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. AI OpenAI Model",
       "title_original": "Measuring how AI agents handle everyday wet-lab science",
       "summary_original": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
       "published_display": "2026-11-06",
-      "id": "30e5f7389b4d"
+      "id": "0b7b006f4c4d"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "title": "Cult.fit Codex ile operasyonel güç geliştiriyor",
+      "summary": "Cult.fit, farklı işlevlerdeki ekiplerin araçlar oluşturmasına, daha hızlı hareket etmesine ve işlerin yapılma biçimini değiştirmesine yardımcı olmak için Codex'i kullanıyor.",
       "url": "https://openai.com/index/cultfit-builds-with-codex",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,17 +185,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Cult.fit builds operational muscle with Codex Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done. Cult.fit builds operational muscle with Codex Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done. AI OpenAI Model",
+      "keywords": "Cult.fit Codex ile operasyonel güç geliştiriyor Cult.fit, farklı işlevlerdeki ekiplerin araçlar oluşturmasına, daha hızlı hareket etmesine ve işlerin yapılma biçimini değiştirmesine yardımcı olmak için Codex'i kullanıyor. Cult.fit builds operational muscle with Codex Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done. AI OpenAI Model",
       "title_original": "Cult.fit builds operational muscle with Codex",
       "summary_original": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
       "published_display": "2026-11-05",
-      "id": "b21924bba0e5"
+      "id": "2d0d60e0f57d"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Australian universities are creating AI-native graduates",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "title": "Avustralya üniversiteleri yapay zeka yerlisi mezunlar yaratıyor",
+      "summary": "Avustralya üniversiteleri, ChatGPT'ye erişimi genişletiyor ve öğrencileri yapay zeka destekli bir iş gücüne hazırlamak için yapay zekayı öğretme ve öğrenmeye dahil ediyor.",
       "url": "https://openai.com/index/australian-universities-ai-native-graduates",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,17 +205,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Australian universities are creating AI-native graduates Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce. Australian universities are creating AI-native graduates Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce. AI OpenAI Model",
+      "keywords": "Avustralya üniversiteleri yapay zeka yerlisi mezunlar yaratıyor Avustralya üniversiteleri, ChatGPT'ye erişimi genişletiyor ve öğrencileri yapay zeka destekli bir iş gücüne hazırlamak için yapay zekayı öğretme ve öğrenmeye dahil ediyor. Australian universities are creating AI-native graduates Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce. AI OpenAI Model",
       "title_original": "Australian universities are creating AI-native graduates",
       "summary_original": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
       "published_display": "2026-11-05",
-      "id": "1d0285693084"
+      "id": "5786265eead8"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "title": "Gemini Omni 1.2 Flash: Daha uzun kliplerle hızlı ve uygun maliyetli",
+      "summary": "Gemini Omni 1.2 Flash, yerel 15 saniyelik video oluşturma ve düzenleme, daha güçlü tutarlılık ve %30 daha düşük fiyatlandırma sağlar.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -225,17 +225,17 @@
         "Product",
         "Google"
       ],
-      "keywords": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. AI Product Google",
+      "keywords": "Gemini Omni 1.2 Flash: Daha uzun kliplerle hızlı ve uygun maliyetli Gemini Omni 1.2 Flash, yerel 15 saniyelik video oluşturma ve düzenleme, daha güçlü tutarlılık ve %30 daha düşük fiyatlandırma sağlar. Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing. AI Product Google",
       "title_original": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "summary_original": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
       "published_display": "2026-11-05",
-      "id": "aa3c6e7cc52e"
+      "id": "0db85ab59ded"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Detecting signs of hypertension using wearable sensors",
-      "summary": "Health & Bioscience",
+      "title": "Giyilebilir sensörler kullanarak hipertansiyon belirtilerini tespit etmek",
+      "summary": "Sağlık ve Biyobilim",
       "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
       "source": "Google Research Blog",
@@ -245,37 +245,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Detecting signs of hypertension using wearable sensors Health & Bioscience Detecting signs of hypertension using wearable sensors Health & Bioscience AI Research Google",
+      "keywords": "Giyilebilir sensörler kullanarak hipertansiyon belirtilerini tespit etmek Sağlık ve Biyobilim Detecting signs of hypertension using wearable sensors Health & Bioscience AI Research Google",
       "title_original": "Detecting signs of hypertension using wearable sensors",
       "summary_original": "Health & Bioscience",
       "published_display": "2026-11-05",
-      "id": "6c27dc2a4b33"
+      "id": "bc0b9a94bb2e"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Top 10 Best Automation Companies In India In 2027 - Inventiva",
-      "summary": "Top 10 Best Automation Companies In India In 2027 Inventiva",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWQ2d2xMbU83YzJqUzVSZGJPM0puNHRQa2c4MElWOTM5ZlF2SEl1VUQ0djRaT0d4MlZqcG1WeVZHT2x3ZEgyUzc1M19CNW9OWFZzam91Q3NzdVZOaS1Mbmt3YTRNYkxIUEVQQ2FxWUJpeG5XRFY1cEtpVk95UVR3cVdrck92dGc1YzVraUF3?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-11-06T09:45:06Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Top 10 Best Automation Companies In India In 2027 - Inventiva Top 10 Best Automation Companies In India In 2027 Inventiva Top 10 Best Automation Companies In India In 2027 - Inventiva Top 10 Best Automation Companies In India In 2027 Inventiva Robotics Automation Industry",
-      "title_original": "Top 10 Best Automation Companies In India In 2027 - Inventiva",
-      "summary_original": "Top 10 Best Automation Companies In India In 2027 Inventiva",
-      "published_display": "2026-11-06",
-      "id": "6bc83ae3022f"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial - openPR.com",
-      "summary": "Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial openPR.com",
+      "title": "Robotik Pazarı Endüstriyel Olarak 2032 Yılında 223,28 Milyar Dolara Ulaşacak - openPR.com",
+      "summary": "Endüstriyel openPR.com Olarak Robotik Pazarı 2032 Yılında 223,28 Milyar Dolara Ulaşacak",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDkxUWxTUkNhbUFnU1MzQlB0TGlOU1BXZl9mUEF2elhscFd5aWg3M01yeFFrbEJqU0p2YUJ1bmxvb2x2cUtsQ09QZ0JUT18wUGhWY0RqT0RhSHpOaTJ3ZVg2bDN5UEgxdE0xWUlveDd4OTJOVWN0dVBtMUhKanZrdTJzV1lYeVBXVl92VTBPaGU3SWZMOVdpSHVaTm04QzBrSVJZ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,17 +265,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial - openPR.com Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial openPR.com Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial - openPR.com Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial openPR.com Robotics Automation Industry",
+      "keywords": "Robotik Pazarı Endüstriyel Olarak 2032 Yılında 223,28 Milyar Dolara Ulaşacak - openPR.com Endüstriyel openPR.com Olarak Robotik Pazarı 2032 Yılında 223,28 Milyar Dolara Ulaşacak Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial - openPR.com Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial openPR.com Robotics Automation Industry",
       "title_original": "Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial - openPR.com",
       "summary_original": "Robotics Market to Reach USD 223.28 Billion by 2032 as Industrial openPR.com",
       "published_display": "2026-11-05",
-      "id": "3438ba36e3b4"
+      "id": "2a1ce478b7f7"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "summary": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVlrTFBTdGlKWW1ETXZFUnY5WENWOXJLQkVraGw4TlJOQnFLSU1DSGU5ZHZfSC04NzNrTHRoNjY5cWp1Z2I0OVJheHY3enlwZmszUVJNUUVSdkNMdDhpVkp4SUI2NzBNSU5OT0JjRlFlNmlONllheHlpZXI5TG1sMjhxWEhicmRHNGlMbHRQUlZlRnQ3M1JzVDdEVHRGZktWSFNEcGxxSVlRQWRrY2VVOXNyeXUwN0VJTl9WSHNveUpBaEVIOGxwWk1NV28ydw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +285,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-11-05",
-      "id": "a873f2bf9784"
+      "id": "7a7c5f05a6f3"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire",
-      "summary": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire",
+      "title": "Küresel Endüstriyel Otomasyon Pazarı 2031'e Kadar 410,3 Milyar ABD Dolarına Ulaşacak ve %9 Bileşik Büyüme Oranı Kaydedilecek: Wissen Research - PR Newswire",
+      "summary": "Küresel Endüstriyel Otomasyon Pazarı 2031'e Kadar 410,3 Milyar ABD Dolarına Ulaşacak ve %9 Bileşik Büyüme Oranı Kaydedilecek: Wissen Research PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNb01xQUlHNzBLdmJraHJWQzRpTl9WZE1qaGd0aWNpQ2NUeFRpSGhpWXpvSjdmNFFTN2JNUW1XbUVrU2lvalhTWnhGNlNRU05mcW5LbThxWXFTd2lremprT3NPeFNKQUNIc3lUclZRX1BpRjdDTzVCWHFDWHd6bUplZ1czOWFidU04cDNXZVk3ZGV0OVUtZHhHdmN4U2hUSFdWSmlFSjdtd0tiN3lKb3lrY2c1ZURKR1FKOTR3bm83UHNWYlZSVzJhekV0Ym0wVVN5Z3MtZUZQRWxTNU5EUlZJQlY2UDl5RlNtellhY0xpT08?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire Robotics Automation Industry",
+      "keywords": "Küresel Endüstriyel Otomasyon Pazarı 2031'e Kadar 410,3 Milyar ABD Dolarına Ulaşacak ve %9 Bileşik Büyüme Oranı Kaydedilecek: Wissen Research - PR Newswire Küresel Endüstriyel Otomasyon Pazarı 2031'e Kadar 410,3 Milyar ABD Dolarına Ulaşacak ve %9 Bileşik Büyüme Oranı Kaydedilecek: Wissen Research PR Newswire Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire Robotics Automation Industry",
       "title_original": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research - PR Newswire",
       "summary_original": "Global Industrial Automation Market to Hit US$ 410.3 Billion by 2031, Registering 9% CAGR: Wissen Research PR Newswire",
       "published_display": "2026-11-02",
-      "id": "156a82c5b1bb"
+      "id": "0db3c6c8d632"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation",
-      "summary": "What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation",
+      "title": "Endüstriyel Otomasyon Pazarını Gelecekte Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Endüstriyel Otomasyon Pazarını Neler Bekliyor A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGRhb0VMcTREaWlyWThHOGUxdkNUcWlQYV9xQUpuOUpqbS1aTWR1ZU9JM0RfSjc0TjI4aVBMdi1IMm55M0NFV01jUGhybFkxblg3R0xZbGZTaEk5aW5IUjdwY3NGZVhCdmRTc0l2RURSdkN3ZXBRRjdzczJYckVVekNOV3otenVsMEpqUEp3Yw?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Endüstriyel Otomasyon Pazarını Gelecekte Neler Bekliyor - A3 Otomasyonu Geliştirme Derneği Endüstriyel Otomasyon Pazarını Neler Bekliyor A3 Otomasyonu Geliştirme Derneği What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation",
       "summary_original": "What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation",
       "published_display": "2026-10-15",
-      "id": "83b32abad597"
+      "id": "7ed8b11bc382"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "New to the web platform in September",
-      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
+      "title": "Eylül ayında web platformunda yeni",
+      "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -365,17 +345,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "Eylül ayında web platformunda yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "408e82c9a4bc"
+      "id": "5c34f3e54888"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "August 2026 Baseline monthly digest",
-      "summary": "Read about various happenings with Baseline during August 2026.",
+      "title": "Ağustos 2026 Temel aylık özet",
+      "summary": "Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
       "url": "https://web.dev/blog/baseline-digest-aug-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -385,17 +365,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
+      "keywords": "Ağustos 2026 Temel aylık özet Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
       "title_original": "August 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during August 2026.",
       "published_display": "2026-09-28",
-      "id": "e508abcdedaa"
+      "id": "1285588553ae"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "The post-quantum future of web privacy",
-      "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+      "title": "Web gizliliğinin kuantum sonrası geleceği",
+      "summary": "Privacy Pass gibi şifreleme protokolleri, kullanıcılarını gizli tutarken web sitelerini kötüye kullanıma karşı korumaya yardımcı olur. Bu yazı, bu protokollere yönelik kuantum tehdidine ve boşluğu kapatmaya yardımcı olabilecek bazı yeni kuantum sonrası kriptografiye bakıyor.",
       "url": "https://blog.cloudflare.com/vole-mole/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6RNKQ9RKEJ9CKY6DGNF44RV.01M6RNKRJAQTN05BV66646AM7Z.png",
       "source": "Cloudflare Security",
@@ -405,17 +385,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "The post-quantum future of web privacy Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap. The post-quantum future of web privacy Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap. Cloudflare Security Web",
+      "keywords": "Web gizliliğinin kuantum sonrası geleceği Privacy Pass gibi şifreleme protokolleri, kullanıcılarını gizli tutarken web sitelerini kötüye kullanıma karşı korumaya yardımcı olur. Bu yazı, bu protokollere yönelik kuantum tehdidine ve boşluğu kapatmaya yardımcı olabilecek bazı yeni kuantum sonrası kriptografiye bakıyor. The post-quantum future of web privacy Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap. Cloudflare Security Web",
       "title_original": "The post-quantum future of web privacy",
       "summary_original": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
       "published_display": "2026-11-06",
-      "id": "3386efaacdf4"
+      "id": "af5fe9001247"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of...",
+      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
+      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-19868 SonicWall SonicOS SSLVPN Tek Faktörlü Kimlik Doğrulama Güvenlik Açığı Kullanımı Bu tür...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "image_url": null,
       "source": "CISA Advisories",
@@ -425,17 +405,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of... CISA Advisory Threat",
+      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-19868 SonicWall SonicOS SSLVPN Tek Faktörlü Kimlik Doğrulama Güvenlik Açığı Kullanımı Bu tür... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of... CISA Advisory Threat",
       "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of...",
       "published_display": "2026-11-06",
-      "id": "3497d97e7b21"
+      "id": "6e020bf27d02"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Agents aren’t humans (but they kinda are)",
-      "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
+      "title": "Ajanlar insan değil (ama bir nevi öyleler)",
+      "summary": "Yapay zeka aracıları milyonlar adına hareket ediyor, ancak sunucular kullanıcı görünürlüğünü engelleyen aracıları görüyor. Bu gönderi sorunlu alanı tanımlar ve bu otomatikleştirilmiş trafiği güvenli bir şekilde tanımlamaya, izin vermeye ve yönetmeye yönelik işbirliğine dayalı bir yaklaşım sunar.",
       "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HXVQ0MH26TMB3HFFHA31DK.png",
       "source": "Cloudflare Security",
@@ -445,17 +425,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "Agents aren’t humans (but they kinda are) AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic. Agents aren’t humans (but they kinda are) AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic. Cloudflare Security Web",
+      "keywords": "Ajanlar insan değil (ama bir nevi öyleler) Yapay zeka aracıları milyonlar adına hareket ediyor, ancak sunucular kullanıcı görünürlüğünü engelleyen aracıları görüyor. Bu gönderi sorunlu alanı tanımlar ve bu otomatikleştirilmiş trafiği güvenli bir şekilde tanımlamaya, izin vermeye ve yönetmeye yönelik işbirliğine dayalı bir yaklaşım sunar. Agents aren’t humans (but they kinda are) AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic. Cloudflare Security Web",
       "title_original": "Agents aren’t humans (but they kinda are)",
       "summary_original": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
       "published_display": "2026-11-05",
-      "id": "592b2c601575"
+      "id": "8d1ad2651176"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref...",
+      "title": "ABD Hükümeti Ortaklarından Endüstriyel Soğutma ve Soğuk Zincir İzleme Sistemlerinin Sertleştirilmesi Çağrısı",
+      "summary": "Genel Bakış Siber Güvenlik ve Altyapı Güvenlik Ajansı (CISA), Federal Soruşturma Bürosu (FBI), Sağlık ve İnsan Hizmetleri (HHS), ABD Tarım Bakanlığı (USDA) ve Ulaştırma Bakanlığı (DoT) — bundan sonra...",
       "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
       "image_url": null,
       "source": "CISA Advisories",
@@ -465,17 +445,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref... US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref... CISA Advisory Threat",
+      "keywords": "ABD Hükümeti Ortaklarından Endüstriyel Soğutma ve Soğuk Zincir İzleme Sistemlerinin Sertleştirilmesi Çağrısı Genel Bakış Siber Güvenlik ve Altyapı Güvenlik Ajansı (CISA), Federal Soruşturma Bürosu (FBI), Sağlık ve İnsan Hizmetleri (HHS), ABD Tarım Bakanlığı (USDA) ve Ulaştırma Bakanlığı (DoT) — bundan sonra... US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref... CISA Advisory Threat",
       "title_original": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
       "summary_original": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref...",
       "published_display": "2026-11-05",
-      "id": "c6408557d1f7"
+      "id": "e57a4458356b"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Post-Quantum Questions to Ask Your Vendors",
-      "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readines...",
+      "title": "Satıcılarınıza Sormanız Gereken Kuantum Sonrası Sorular",
+      "summary": "CISA, Avustralya Sinyal Müdürlüğü'nün Avustralya Siber Güvenlik Merkezi (ASD'nin ACSC'si) ve Ulusal Güvenlik Ajansı (NSA), kuruluşların satıcı hazırlıklarını değerlendirmesine yardımcı olmak için ortak kılavuz ve buna eşlik eden bir hızlı referans listesi yayınladı...",
       "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "image_url": null,
       "source": "CISA Advisories",
@@ -485,17 +465,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Post-Quantum Questions to Ask Your Vendors CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readines... Post-Quantum Questions to Ask Your Vendors CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readines... CISA Advisory Threat",
+      "keywords": "Satıcılarınıza Sormanız Gereken Kuantum Sonrası Sorular CISA, Avustralya Sinyal Müdürlüğü'nün Avustralya Siber Güvenlik Merkezi (ASD'nin ACSC'si) ve Ulusal Güvenlik Ajansı (NSA), kuruluşların satıcı hazırlıklarını değerlendirmesine yardımcı olmak için ortak kılavuz ve buna eşlik eden bir hızlı referans listesi yayınladı... Post-Quantum Questions to Ask Your Vendors CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readines... CISA Advisory Threat",
       "title_original": "Post-Quantum Questions to Ask Your Vendors",
       "summary_original": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readines...",
       "published_display": "2026-11-05",
-      "id": "53039cd6a79f"
+      "id": "df9744825079"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "See the agents, set the terms: new visibility and control for personal agents",
-      "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+      "title": "Temsilcileri görün, şartları belirleyin: kişisel temsilciler için yeni görünürlük ve kontrol",
+      "summary": "Kişisel yapay zeka aracıları, kullanıcıların web ile etkileşimini değiştirerek otomatik trafik ile insan trafiği arasındaki çizgiyi bulanıklaştırdı. Cloudflare'in site sahiplerine kişisel aracı erişimini yönetme konusunda nasıl görünürlük ve kontrol sağladığını öğrenin.",
       "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HZ1ZE3ZTGF9NEGGPF8SZNS.png",
       "source": "Cloudflare Security",
@@ -505,17 +485,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "See the agents, set the terms: new visibility and control for personal agents Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access. See the agents, set the terms: new visibility and control for personal agents Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access. Cloudflare Security Web",
+      "keywords": "Temsilcileri görün, şartları belirleyin: kişisel temsilciler için yeni görünürlük ve kontrol Kişisel yapay zeka aracıları, kullanıcıların web ile etkileşimini değiştirerek otomatik trafik ile insan trafiği arasındaki çizgiyi bulanıklaştırdı. Cloudflare'in site sahiplerine kişisel aracı erişimini yönetme konusunda nasıl görünürlük ve kontrol sağladığını öğrenin. See the agents, set the terms: new visibility and control for personal agents Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access. Cloudflare Security Web",
       "title_original": "See the agents, set the terms: new visibility and control for personal agents",
       "summary_original": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
       "published_display": "2026-11-04",
-      "id": "3c1ad9ded6a6"
+      "id": "9f4e57c76b72"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
-      "summary": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "title": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com",
+      "summary": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -525,17 +505,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "keywords": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
       "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
       "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
       "published_display": "2026-10-30",
-      "id": "35fc26b8735d"
+      "id": "50e5e9d0bb44"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
-      "summary": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
+      "title": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri",
+      "summary": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDhSSkd2am02dnhMampDZEFUZS04ZUFIVkdDNkptVVlNV0xzTVVoZW9QX182SE9nQzZTTGVlQWQzbVAyeExCdTNiY0R6QXQ4SWZxZDg5d3VjZlJNNGdvOG1XeHN1QUktTFI3SXN3aDNsZEVGN0xNRWNNLTdLNzluZg?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -545,17 +525,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
+      "keywords": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
       "title_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
       "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "published_display": "2026-10-27",
-      "id": "dea87be07742"
+      "id": "d151b5a67629"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
-      "summary": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
+      "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
+      "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -565,17 +545,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
+      "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
       "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
       "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "published_display": "2026-10-10",
-      "id": "7f766a2a98e6"
+      "id": "33214d55f737"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
-      "summary": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
+      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
+      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -585,11 +565,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
       "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
       "published_display": "2026-10-08",
-      "id": "a0d70264cefa"
+      "id": "6611c4e5a777"
     }
   ]
 }
