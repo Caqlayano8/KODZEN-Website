@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-09T20:29:39Z",
-  "total_posts": 27,
+  "updated_at": "2026-11-10T09:00:00Z",
+  "total_posts": 28,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 3,
+    "robotik": 4,
     "web": 2,
     "siber": 6,
     "kamera": 4
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Closing the AI guidance gap in education",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-10T09:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Closing the AI guidance gap in education Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning. Closing the AI guidance gap in education Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning. AI OpenAI Model",
+      "title_original": "Closing the AI guidance gap in education",
+      "summary_original": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "published_display": "2026-11-10",
+      "id": "c87ca18be620"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Exploring the world's languages with Language Explorer",
       "summary": "Natural Language Processing",
       "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
@@ -232,24 +252,24 @@
       "id": "1ac4407bb91f"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "url": "https://openai.com/index/partnering-with-hacktron",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Anwar urges construction workforce to acquire robotics, automation and digital skills - The Star",
+      "summary": "Anwar urges construction workforce to acquire robotics, automation and digital skills The Star",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1FqZ0dtVTVfdXlhdnJhcHZUamQ3TzNoVDdIZHQyekFpd1RqNnhEUzF0UE8xVGZ3VWFpQm01ZHVya3ZiRkFtZHlSemFscnI4NUNfRi0wd1FaRGVKQ0RpeWxxY3B6SVU0SnY3blJxOEV4MlhyTzFWSWo3WVptRThHS0JRbHk0Q0Vhb0R2QXdXRDR0amNYMzZNTWl4dkxHTXNJdGdXQURScGRPbVBObF90QkFQSXl0RGRXRGpyNFJUU21IRklCVHlFZ2hZcjN5cVU?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-06T08:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-11-10T05:11:00Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI. AI OpenAI Model",
-      "title_original": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary_original": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "published_display": "2026-11-06",
-      "id": "39cd0b21f37f"
+      "keywords": "Anwar urges construction workforce to acquire robotics, automation and digital skills - The Star Anwar urges construction workforce to acquire robotics, automation and digital skills The Star Anwar urges construction workforce to acquire robotics, automation and digital skills - The Star Anwar urges construction workforce to acquire robotics, automation and digital skills The Star Robotics Automation Industry",
+      "title_original": "Anwar urges construction workforce to acquire robotics, automation and digital skills - The Star",
+      "summary_original": "Anwar urges construction workforce to acquire robotics, automation and digital skills The Star",
+      "published_display": "2026-11-10",
+      "id": "8a804c296726"
     },
     {
       "category": "robotik",
