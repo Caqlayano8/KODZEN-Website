@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-12T09:30:00Z",
+  "updated_at": "2026-11-12T20:00:00Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -54,7 +54,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Kod oluşturmanın ötesinde: Ajan mühendisliğine yönelik bir geliştirici kılavuzu",
+      "title": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu",
       "summary": "Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme...",
       "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "image_url": null,
@@ -65,11 +65,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod oluşturmanın ötesinde: Ajan mühendisliğine yönelik bir geliştirici kılavuzu Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
+      "keywords": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
       "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
       "summary_original": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
       "published_display": "2026-11-06",
-      "id": "12ecb8eac891"
+      "id": "3308a087e41a"
     },
     {
       "category": "yazilim",
@@ -130,6 +130,46 @@
       "summary_original": "All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runn...",
       "published_display": "2026-11-05",
       "id": "48a318fe8e99"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Amplitude, OpenAI ile ürün iyileştirmelerini 1-2 günde nasıl sunuyor?",
+      "summary": "Öncelikle OpenAI modellerini temel alan Amplitude'un proaktif ürün aracısı Wave, neyin oluşturulacağını belirler, ekiplerin değişiklikleri kodlama aracılarıyla göndermesine yardımcı olur ve etkiyi ölçer.",
+      "url": "https://openai.com/index/amplitude",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-12T20:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Amplitude, OpenAI ile ürün iyileştirmelerini 1-2 günde nasıl sunuyor? Öncelikle OpenAI modellerini temel alan Amplitude'un proaktif ürün aracısı Wave, neyin oluşturulacağını belirler, ekiplerin değişiklikleri kodlama aracılarıyla göndermesine yardımcı olur ve etkiyi ölçer. How Amplitude ships product improvements in 1–2 days with OpenAI Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact. AI OpenAI Model",
+      "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary_original": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "published_display": "2026-11-12",
+      "id": "4cb3558b6010"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Google Arama, Gemini 4 Hydrogen ile büyük bir yükseltme elde ediyor",
+      "summary": "Size daha yararlı, görsel ve sezgisel yanıtlar sağlamak için Gemini 4 Hydrogen'i dünya çapında Google Arama'ya getiriyoruz.",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-12T18:00:00Z",
+      "tags": [
+        "AI",
+        "Product",
+        "Google"
+      ],
+      "keywords": "Google Arama, Gemini 4 Hydrogen ile büyük bir yükseltme elde ediyor Size daha yararlı, görsel ve sezgisel yanıtlar sağlamak için Gemini 4 Hydrogen'i dünya çapında Google Arama'ya getiriyoruz. Google Search gets a major upgrade with Gemini 4 Hydrogen We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses. AI Product Google",
+      "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary_original": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "published_display": "2026-11-12",
+      "id": "1ffa4d9bebb5"
     },
     {
       "category": "ai",
@@ -212,46 +252,6 @@
       "id": "edb1687d3eaa"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Gemini Decisions API: Hızlı, kalibre edilmiş çok modlu kararlar",
-      "summary": "Hızlı, kalibre edilmiş çok modlu kararlar için son teknoloji modelimiz Gemini Decision tarafından desteklenen Gemini Decisions API'si ile tanışın.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "image_url": null,
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T18:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Gemini Decisions API: Hızlı, kalibre edilmiş çok modlu kararlar Hızlı, kalibre edilmiş çok modlu kararlar için son teknoloji modelimiz Gemini Decision tarafından desteklenen Gemini Decisions API'si ile tanışın. Gemini Decisions API: Fast, calibrated multimodal decisions Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. AI Product Google",
-      "title_original": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary_original": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "published_display": "2026-11-11",
-      "id": "a930afd3edf0"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Tabletop'ı deneyin: Grupların birlikte plan yapması, oynaması ve daha fazlasını yapması için özelleştirilebilir, işbirliğine dayalı alanlar.",
-      "summary": "Tabletop, grup işbirliğine yönelik yeni bir Google Labs deneyidir. Ekibinizle etkileşimli seyahat planları, anketler ve gruplar oluşturun. Bekleme listesine katılın.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T16:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Tabletop'ı deneyin: Grupların birlikte plan yapması, oynaması ve daha fazlasını yapması için özelleştirilebilir, işbirliğine dayalı alanlar. Tabletop, grup işbirliğine yönelik yeni bir Google Labs deneyidir. Ekibinizle etkileşimli seyahat planları, anketler ve gruplar oluşturun. Bekleme listesine katılın. Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together. Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist. AI Product Google",
-      "title_original": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "summary_original": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "published_display": "2026-11-11",
-      "id": "9b9d3119e459"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "ESTUN Robotics, Avrupa'daki genişlemeyi hızlandırmak için RoboDK simülasyon yazılımını entegre ediyor - Robotik ve Otomasyon Haberleri",
@@ -314,7 +314,7 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği",
+      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
       "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZml6aDZlQ0U5MXN1cl8wREhIQnp2QXd5dVJlclY3WnJOYlBORjBicVVieEl2NTU3bzNTTEpSd0lfZ1pmWU5HNEZjeGl0SDdEQzdmM2ZJalhIRUE1SVhBME9oa1VLV0ZqNUJkYUtKRUYtOU52VHdiNWlmSmJBNEswc2I3cS1RRlpzYUJHUDNEQlBQQmFmTmxPbU51VDJaZ2F5TUJVVjdVVEYtblFyZ1Q4NnMydm5UWFJjSlk2OWg5MlVJVHA3QXBKdkloNA?oc=5",
       "image_url": null,
@@ -325,11 +325,11 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Büyük Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-11-11",
-      "id": "8611917b120c"
+      "id": "638c23aaa9cb"
     },
     {
       "category": "robotik",
@@ -494,6 +494,106 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "summary": "CSAF Özetini Görüntüle Palo Alto Networks, PAN-OS'te PHP2Shell güvenlik açıklarıyla ilgili güvenlik açıkları hakkında bilgi yayınladı. Bu danışma belgesinde, bu güvenlik açıklarından etkilenen ilgili Siemens Endüstriyel ürünleri listelenmektedir. Müşteriler...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-12T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Siemens RUGGEDCOM APE1808 CSAF Özetini Görüntüle Palo Alto Networks, PAN-OS'te PHP2Shell güvenlik açıklarıyla ilgili güvenlik açıkları hakkında bilgi yayınladı. Bu danışma belgesinde, bu güvenlik açıklarından etkilenen ilgili Siemens Endüstriyel ürünleri listelenmektedir. Müşteriler... Siemens RUGGEDCOM APE1808 View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar... CISA Advisory Threat",
+      "title_original": "Siemens RUGGEDCOM APE1808",
+      "summary_original": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar...",
+      "published_display": "2026-11-12",
+      "id": "31c39ce27636"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "summary": "CSAF Özetini Görüntüle Palo Alto Networks, PAN-OS'te Node2Shell güvenlik açığıyla ilgili bir güvenlik açığı hakkında bilgi yayınladı. Bu danışma belgesinde, bu güvenlik açığından etkilenen ilgili Siemens Endüstriyel ürünleri listelenmektedir. Müşteriler...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-12T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Siemens RUGGEDCOM APE1808 CSAF Özetini Görüntüle Palo Alto Networks, PAN-OS'te Node2Shell güvenlik açığıyla ilgili bir güvenlik açığı hakkında bilgi yayınladı. Bu danışma belgesinde, bu güvenlik açığından etkilenen ilgili Siemens Endüstriyel ürünleri listelenmektedir. Müşteriler... Siemens RUGGEDCOM APE1808 View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers ar... CISA Advisory Threat",
+      "title_original": "Siemens RUGGEDCOM APE1808",
+      "summary_original": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers ar...",
+      "published_display": "2026-11-12",
+      "id": "23210f06c783"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Siemens Endüstriyel Uç Yönetimi",
+      "summary": "CSAF Özetini Görüntüleyin Siemens şu anda Node2Shell'in (CVE-2026-111497) Endüstriyel Uç üzerindeki etkisini değerlendiriyor. Lütfen Endüstriyel Kenar Yönetimi (IEM) kurulumunuzu kontrol edin: - Kurulu Yönetim Uygulaması Yok: Herhangi bir işlem yapılmasına gerek yoktur. Alth...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-12T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Siemens Endüstriyel Uç Yönetimi CSAF Özetini Görüntüleyin Siemens şu anda Node2Shell'in (CVE-2026-111497) Endüstriyel Uç üzerindeki etkisini değerlendiriyor. Lütfen Endüstriyel Kenar Yönetimi (IEM) kurulumunuzu kontrol edin: - Kurulu Yönetim Uygulaması Yok: Herhangi bir işlem yapılmasına gerek yoktur. Alth... Siemens Industrial Edge Management View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth... CISA Advisory Threat",
+      "title_original": "Siemens Industrial Edge Management",
+      "summary_original": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth...",
+      "published_display": "2026-11-12",
+      "id": "8c863da84e7b"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Siemens Desigo, Izgara Ölçeği",
+      "summary": "CSAF Özetini Görüntüleyin 21 Ekim 2026'da Node.js projesi, Node.js ile birlikte verilen ve genellikle \"Node2Shell\" olarak adlandırılan (CVE-2026-111497 olarak izlenir) Brotli kod çözücüdeki kritik bir güvenlik açığını gideren güvenlik güncellemelerini yayınladı. V...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-12T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Siemens Desigo, Izgara Ölçeği CSAF Özetini Görüntüleyin 21 Ekim 2026'da Node.js projesi, Node.js ile birlikte verilen ve genellikle \"Node2Shell\" olarak adlandırılan (CVE-2026-111497 olarak izlenir) Brotli kod çözücüdeki kritik bir güvenlik açığını gideren güvenlik güncellemelerini yayınladı. V... Siemens Desigo, Gridscale View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v... CISA Advisory Threat",
+      "title_original": "Siemens Desigo, Gridscale",
+      "summary_original": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v...",
+      "published_display": "2026-11-12",
+      "id": "aa5a4b6f1f3a"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Siemens Bina Otomasyonu ve Enerji Ürünleri",
+      "summary": "CSAF Özetini Görüntüleyin 21 Ekim 2026'da PHP projesi ve güvenlik araştırmacıları, \"php2shell\" olarak bilinen (CVE-2026-1096 olarak izlenen) çekirdek PHP dili çalışma zamanındaki iki kritik, kimliği doğrulanmamış uzaktan kod yürütme güvenlik açığını ortaya çıkardı.",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-12T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Siemens Bina Otomasyonu ve Enerji Ürünleri CSAF Özetini Görüntüleyin 21 Ekim 2026'da PHP projesi ve güvenlik araştırmacıları, \"php2shell\" olarak bilinen (CVE-2026-1096 olarak izlenen) çekirdek PHP dili çalışma zamanındaki iki kritik, kimliği doğrulanmamış uzaktan kod yürütme güvenlik açığını ortaya çıkardı. Siemens Building Automation and Energy Products View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-1096... CISA Advisory Threat",
+      "title_original": "Siemens Building Automation and Energy Products",
+      "summary_original": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-1096...",
+      "published_display": "2026-11-12",
+      "id": "a090a1374df2"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "CISA Kataloğa Bilinen Altı İstismara Uğrayan Güvenlik Açığı Ekliyor",
       "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna altı yeni güvenlik açığı ekledi. CVE-2026-20320 Cisco BroadWorks XML Harici Varlık Referansı Güvenlik Açığı Kısıtlamasının Uygunsuz Kısıtlanması...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
@@ -510,106 +610,6 @@
       "summary_original": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability C...",
       "published_display": "2026-11-10",
       "id": "43cd8969e068"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA, Kataloğa Bilinen Dört İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna dört yeni güvenlik açığı ekledi. CVE-2026-102895 GPUStack'te Uygunsuz Kimlik Doğrulaması Güvenlik Açığı CVE-2026-116779 SignalWire FreeSwitch...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-11-09T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA, Kataloğa Bilinen Dört İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna dört yeni güvenlik açığı ekledi. CVE-2026-102895 GPUStack'te Uygunsuz Kimlik Doğrulaması Güvenlik Açığı CVE-2026-116779 SignalWire FreeSwitch... CISA Adds Four Known Exploited Vulnerabilities to Catalog CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch... CISA Advisory Threat",
-      "title_original": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "summary_original": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch...",
-      "published_display": "2026-11-09",
-      "id": "a110e1b80f8a"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Web gizliliğinin kuantum sonrası geleceği",
-      "summary": "Privacy Pass gibi şifreleme protokolleri, kullanıcılarını gizli tutarken web sitelerini kötüye kullanıma karşı korumaya yardımcı olur. Bu yazı, bu protokollere yönelik kuantum tehdidine ve boşluğu kapatmaya yardımcı olabilecek bazı yeni kuantum sonrası kriptografiye bakıyor.",
-      "url": "https://blog.cloudflare.com/vole-mole/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6RNKQ9RKEJ9CKY6DGNF44RV.01M6RNKRJAQTN05BV66646AM7Z.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-11-06T14:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Web gizliliğinin kuantum sonrası geleceği Privacy Pass gibi şifreleme protokolleri, kullanıcılarını gizli tutarken web sitelerini kötüye kullanıma karşı korumaya yardımcı olur. Bu yazı, bu protokollere yönelik kuantum tehdidine ve boşluğu kapatmaya yardımcı olabilecek bazı yeni kuantum sonrası kriptografiye bakıyor. The post-quantum future of web privacy Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap. Cloudflare Security Web",
-      "title_original": "The post-quantum future of web privacy",
-      "summary_original": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
-      "published_display": "2026-11-06",
-      "id": "af5fe9001247"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-19868 SonicWall SonicOS SSLVPN Tek Faktörlü Kimlik Doğrulama Güvenlik Açığı Kullanımı Bu tür...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-11-06T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA Kataloğa Bilinen Bir İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna yeni bir güvenlik açığı ekledi. CVE-2026-19868 SonicWall SonicOS SSLVPN Tek Faktörlü Kimlik Doğrulama Güvenlik Açığı Kullanımı Bu tür... CISA Adds One Known Exploited Vulnerability to Catalog CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of... CISA Advisory Threat",
-      "title_original": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "summary_original": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of...",
-      "published_display": "2026-11-06",
-      "id": "6e020bf27d02"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Ajanlar insan değil (ama bir nevi öyleler)",
-      "summary": "Yapay zeka aracıları milyonlar adına hareket ediyor, ancak sunucular kullanıcı görünürlüğünü engelleyen aracıları görüyor. Bu gönderi sorunlu alanı tanımlar ve bu otomatikleştirilmiş trafiği güvenli bir şekilde tanımlamaya, izin vermeye ve yönetmeye yönelik işbirliğine dayalı bir yaklaşım sunar.",
-      "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M6HXVQ0MH26TMB3HFFHA31DK.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-11-05T17:03:04Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Ajanlar insan değil (ama bir nevi öyleler) Yapay zeka aracıları milyonlar adına hareket ediyor, ancak sunucular kullanıcı görünürlüğünü engelleyen aracıları görüyor. Bu gönderi sorunlu alanı tanımlar ve bu otomatikleştirilmiş trafiği güvenli bir şekilde tanımlamaya, izin vermeye ve yönetmeye yönelik işbirliğine dayalı bir yaklaşım sunar. Agents aren’t humans (but they kinda are) AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic. Cloudflare Security Web",
-      "title_original": "Agents aren’t humans (but they kinda are)",
-      "summary_original": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
-      "published_display": "2026-11-05",
-      "id": "8d1ad2651176"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "ABD Hükümeti Ortaklarından Endüstriyel Soğutma ve Soğuk Zincir İzleme Sistemlerinin Sertleştirilmesi Çağrısı",
-      "summary": "Genel Bakış Siber Güvenlik ve Altyapı Güvenlik Ajansı (CISA), Federal Soruşturma Bürosu (FBI), Sağlık ve İnsan Hizmetleri (HHS), ABD Tarım Bakanlığı (USDA) ve Ulaştırma Bakanlığı (DoT) — bundan sonra referans olarak...",
-      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-11-05T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "ABD Hükümeti Ortaklarından Endüstriyel Soğutma ve Soğuk Zincir İzleme Sistemlerinin Sertleştirilmesi Çağrısı Genel Bakış Siber Güvenlik ve Altyapı Güvenlik Ajansı (CISA), Federal Soruşturma Bürosu (FBI), Sağlık ve İnsan Hizmetleri (HHS), ABD Tarım Bakanlığı (USDA) ve Ulaştırma Bakanlığı (DoT) — bundan sonra referans olarak... US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref... CISA Advisory Threat",
-      "title_original": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "summary_original": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref...",
-      "published_display": "2026-11-05",
-      "id": "e57a4458356b"
     },
     {
       "category": "kamera",
