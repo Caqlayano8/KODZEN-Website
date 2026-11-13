@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-12T20:00:00Z",
+  "updated_at": "2026-11-13T00:20:16Z",
   "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,48 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Git'teki güvenlik açıkları açıklandı",
-      "summary": "Git, özyinelemeli klonları, referans işlemeyi, birleştirmeleri, ikili yamaları ve içe aktarmaları etkileyen altı güvenlik açığını gideren güncellemeler yayınlıyor. İşte kullanıcıların bilmesi gerekenler. Git güvenlik açıklarının duyurulduğu gönderide...",
+      "title": "GitHub availability report: October 2026",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-11-13T00:20:16Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog . GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "GitHub availability report: October 2026",
+      "summary_original": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+      "published_display": "2026-11-13",
+      "id": "8adf7a08da8a"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-11-12T22:54:52Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a... Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a... GitHub Dev Platform",
+      "title_original": "Build once, run on any agent: A practical guide to agent skills",
+      "summary_original": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a...",
+      "published_display": "2026-11-12",
+      "id": "7c5a3396408c"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Git security vulnerabilities announced",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear...",
       "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,17 +65,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git'teki güvenlik açıkları açıklandı Git, özyinelemeli klonları, referans işlemeyi, birleştirmeleri, ikili yamaları ve içe aktarmaları etkileyen altı güvenlik açığını gideren güncellemeler yayınlıyor. İşte kullanıcıların bilmesi gerekenler. Git güvenlik açıklarının duyurulduğu gönderide... Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear... GitHub Dev Platform",
+      "keywords": "Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear... Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear... GitHub Dev Platform",
       "title_original": "Git security vulnerabilities announced",
       "summary_original": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear...",
       "published_display": "2026-11-10",
-      "id": "05c7ada405a9"
+      "id": "ec1b32443e39"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Yapay zeka kodlama aracıları SemVer'i önemsiyor mu?",
-      "summary": "Yapay zeka kodlama temsilcilerine aynı son yükseltmeyi iki kez verdik. 2.0.0 olarak etiketlenen Claude Sonnet 5.5, 10 çalışmanın tamamında bunu kontrol etti. 1.4.3 olarak etiketlendi, iki tanesini kontrol etti ve çoğu zaman uygulamayı bozuk bıraktı. Yaklaşık 1000 çalıştırma, hangi temsilcilerin hâlâ bilgilerinizi okuduğunu gösteriyor...",
+      "title": "Do AI coding agents care about SemVer?",
+      "summary": "We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your ver...",
       "url": "https://devblogs.microsoft.com/blog/do-ai-coding-agents-care-about-semver/",
       "image_url": null,
       "source": "Microsoft DevBlogs",
@@ -45,17 +85,17 @@
         "Dev",
         "Cloud"
       ],
-      "keywords": "Yapay zeka kodlama aracıları SemVer'i önemsiyor mu? Yapay zeka kodlama temsilcilerine aynı son yükseltmeyi iki kez verdik. 2.0.0 olarak etiketlenen Claude Sonnet 5.5, 10 çalışmanın tamamında bunu kontrol etti. 1.4.3 olarak etiketlendi, iki tanesini kontrol etti ve çoğu zaman uygulamayı bozuk bıraktı. Yaklaşık 1000 çalıştırma, hangi temsilcilerin hâlâ bilgilerinizi okuduğunu gösteriyor... Do AI coding agents care about SemVer? We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your ver... Microsoft Dev Cloud",
+      "keywords": "Do AI coding agents care about SemVer? We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your ver... Do AI coding agents care about SemVer? We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your ver... Microsoft Dev Cloud",
       "title_original": "Do AI coding agents care about SemVer?",
       "summary_original": "We gave AI coding agents the same breaking upgrade twice. Labeled 2.0.0, Claude Sonnet 5.5 checked it in all 10 runs. Labeled 1.4.3, it checked in two and often left the app broken. Nearly 1,000 runs show which agents still read your ver...",
       "published_display": "2026-11-09",
-      "id": "7913bf9e69a6"
+      "id": "10d6b43d535b"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu",
-      "summary": "Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme...",
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
       "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,17 +105,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
+      "keywords": "Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
       "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
       "summary_original": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
       "published_display": "2026-11-06",
-      "id": "3308a087e41a"
+      "id": "b0114ad7a795"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub'ın yeni Git depolama mimarisinin içinde",
-      "summary": "GitHub'ın yeni Git depolama mimarisi, binlerce aracının aynı anda tek bir depoya gönderim yapabilmesi için oluşturulmuştur. İşte nasıl çalışıyor? Inside GitHub'ın yeni Git depolama mimarisi yazısı ilk olarak The GitHub Blog'da göründü.",
+      "title": "Inside GitHub’s new Git storage architecture",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,58 +125,18 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub'ın yeni Git depolama mimarisinin içinde GitHub'ın yeni Git depolama mimarisi, binlerce aracının aynı anda tek bir depoya gönderim yapabilmesi için oluşturulmuştur. İşte nasıl çalışıyor? Inside GitHub'ın yeni Git depolama mimarisi yazısı ilk olarak The GitHub Blog'da göründü. Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "Inside GitHub’s new Git storage architecture",
       "summary_original": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "published_display": "2026-11-05",
-      "id": "d795cc6fff80"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Erişilebilirlik bildirimlerinin artık GitHub'da bir yeri var",
-      "summary": "GitHub artık ACCESSIBILITY.md dosyalarını vurguluyor ve bakımcıların erişilebilirlik hedeflerini, bilinen engelleri, desteklenen ortamları, katkıda bulunanların beklentilerini ve raporlama süreçlerini belgelemelerine yardımcı oluyor. Erişilebilirlik bildirimlerinin artık bir ana sayfası var...",
-      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-11-05T16:00:00Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Erişilebilirlik bildirimlerinin artık GitHub'da bir yeri var GitHub artık ACCESSIBILITY.md dosyalarını vurguluyor ve bakımcıların erişilebilirlik hedeflerini, bilinen engelleri, desteklenen ortamları, katkıda bulunanların beklentilerini ve raporlama süreçlerini belgelemelerine yardımcı oluyor. Erişilebilirlik bildirimlerinin artık bir ana sayfası var... Accessibility statements now have a home on GitHub GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home... GitHub Dev Platform",
-      "title_original": "Accessibility statements now have a home on GitHub",
-      "summary_original": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home...",
-      "published_display": "2026-11-05",
-      "id": "189342070f0e"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "En iyi AX düzeltmeleriniz ajan yörüngelerinde saklanıyor",
-      "summary": "Beş temsilci çalışmasının tümü çalışan bir senaryo üretti ve değerlendirme puanında hiçbir şey yanlış görünmüyordu. Yörüngeler farklı bir hikaye anlattı. Her çalıştırma, eklenti adlarını bulmak için bir DLL dosyasını ham bayt olarak okur ve üç komut dosyası, bir CI çalışmasını sessizce yeniden yönlendirir.",
-      "url": "https://devblogs.microsoft.com/blog/your-best-ax-fixes-are-hiding-in-agent-trajectories/",
-      "image_url": null,
-      "source": "Microsoft DevBlogs",
-      "published_at": "2026-11-05T15:40:49Z",
-      "tags": [
-        "Microsoft",
-        "Dev",
-        "Cloud"
-      ],
-      "keywords": "En iyi AX düzeltmeleriniz ajan yörüngelerinde saklanıyor Beş temsilci çalışmasının tümü çalışan bir senaryo üretti ve değerlendirme puanında hiçbir şey yanlış görünmüyordu. Yörüngeler farklı bir hikaye anlattı. Her çalıştırma, eklenti adlarını bulmak için bir DLL dosyasını ham bayt olarak okur ve üç komut dosyası, bir CI çalışmasını sessizce yeniden yönlendirir. Your best AX fixes are hiding in agent trajectories All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runn... Microsoft Dev Cloud",
-      "title_original": "Your best AX fixes are hiding in agent trajectories",
-      "summary_original": "All five agent runs produced a working script, and nothing in the eval score looked wrong. The trajectories told a different story. Every run read a DLL as raw bytes to find plugin names, and three scripts would quietly reroute a CI runn...",
-      "published_display": "2026-11-05",
-      "id": "48a318fe8e99"
+      "id": "7a29d545e879"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Amplitude, OpenAI ile ürün iyileştirmelerini 1-2 günde nasıl sunuyor?",
-      "summary": "Öncelikle OpenAI modellerini temel alan Amplitude'un proaktif ürün aracısı Wave, neyin oluşturulacağını belirler, ekiplerin değişiklikleri kodlama aracılarıyla göndermesine yardımcı olur ve etkiyi ölçer.",
-      "url": "https://openai.com/index/amplitude",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "image_url": null,
       "source": "OpenAI News",
       "published_at": "2026-11-12T20:00:00Z",
@@ -145,17 +145,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Amplitude, OpenAI ile ürün iyileştirmelerini 1-2 günde nasıl sunuyor? Öncelikle OpenAI modellerini temel alan Amplitude'un proaktif ürün aracısı Wave, neyin oluşturulacağını belirler, ekiplerin değişiklikleri kodlama aracılarıyla göndermesine yardımcı olur ve etkiyi ölçer. How Amplitude ships product improvements in 1–2 days with OpenAI Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact. AI OpenAI Model",
+      "keywords": "How Amplitude ships product improvements in 1–2 days with OpenAI Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact. How Amplitude ships product improvements in 1–2 days with OpenAI Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact. AI OpenAI Model",
       "title_original": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "summary_original": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "published_display": "2026-11-12",
-      "id": "4cb3558b6010"
+      "id": "16a7d916f5dd"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Google Arama, Gemini 4 Hydrogen ile büyük bir yükseltme elde ediyor",
-      "summary": "Size daha yararlı, görsel ve sezgisel yanıtlar sağlamak için Gemini 4 Hydrogen'i dünya çapında Google Arama'ya getiriyoruz.",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -165,17 +165,37 @@
         "Product",
         "Google"
       ],
-      "keywords": "Google Arama, Gemini 4 Hydrogen ile büyük bir yükseltme elde ediyor Size daha yararlı, görsel ve sezgisel yanıtlar sağlamak için Gemini 4 Hydrogen'i dünya çapında Google Arama'ya getiriyoruz. Google Search gets a major upgrade with Gemini 4 Hydrogen We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses. AI Product Google",
+      "keywords": "Google Search gets a major upgrade with Gemini 4 Hydrogen We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses. Google Search gets a major upgrade with Gemini 4 Hydrogen We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses. AI Product Google",
       "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary_original": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
       "published_display": "2026-11-12",
-      "id": "1ffa4d9bebb5"
+      "id": "c358be9d01ae"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Holiday Extras, Codex ile neler yapabileceğini yeniden düşünüyor",
-      "summary": "Holiday Extras, Codex ile müşteri uzmanlığını daha iyi uygulamalara, daha yüksek rezervasyon dönüşümüne ve yeni büyüme olanaklarına dönüştürüyor.",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-12T12:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Gondola doubles revenue as its team builds more with Codex Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work. Gondola doubles revenue as its team builds more with Codex Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work. AI OpenAI Model",
+      "title_original": "Gondola doubles revenue as its team builds more with Codex",
+      "summary_original": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "published_display": "2026-11-12",
+      "id": "208330caf885"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "image_url": null,
       "source": "OpenAI News",
@@ -185,17 +205,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Holiday Extras, Codex ile neler yapabileceğini yeniden düşünüyor Holiday Extras, Codex ile müşteri uzmanlığını daha iyi uygulamalara, daha yüksek rezervasyon dönüşümüne ve yeni büyüme olanaklarına dönüştürüyor. Holiday Extras is rethinking what it can build with Codex With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth. AI OpenAI Model",
+      "keywords": "Holiday Extras is rethinking what it can build with Codex With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth. Holiday Extras is rethinking what it can build with Codex With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth. AI OpenAI Model",
       "title_original": "Holiday Extras is rethinking what it can build with Codex",
       "summary_original": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "published_display": "2026-11-12",
-      "id": "22a1b72e8908"
+      "id": "da1ca020dd04"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Yapay zeka ve çocukların güvenliğine ilişkin araştırmaların desteklenmesi",
-      "summary": "OpenAI, yapay zeka ve çocuk güvenliği araştırmalarına 2 milyon dolar ayırıyor. Çalışma, gençlere yönelik riskleri ve fırsatları ölçmek için ortak araçları desteklemektedir.",
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
       "url": "https://openai.com/index/children-first-declaration",
       "image_url": null,
       "source": "OpenAI News",
@@ -205,17 +225,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Yapay zeka ve çocukların güvenliğine ilişkin araştırmaların desteklenmesi OpenAI, yapay zeka ve çocuk güvenliği araştırmalarına 2 milyon dolar ayırıyor. Çalışma, gençlere yönelik riskleri ve fırsatları ölçmek için ortak araçları desteklemektedir. Supporting research on AI and children’s safety OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people. AI OpenAI Model",
+      "keywords": "Supporting research on AI and children’s safety OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people. Supporting research on AI and children’s safety OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people. AI OpenAI Model",
       "title_original": "Supporting research on AI and children’s safety",
       "summary_original": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
       "published_display": "2026-11-12",
-      "id": "98cc18a951d0"
+      "id": "5cb2dd87517e"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Gilbert + Tobin, hukuk işini yapay zekayla yeniden düşünüyor",
-      "summary": "Gilbert + Tobin'in Ortağı ve İcra Kurulu Başkanı Sam Nickless ile bir sohbet.",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "image_url": null,
       "source": "OpenAI News",
@@ -225,37 +245,17 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "Gilbert + Tobin, hukuk işini yapay zekayla yeniden düşünüyor Gilbert + Tobin'in Ortağı ve İcra Kurulu Başkanı Sam Nickless ile bir sohbet. Gilbert + Tobin rethinks the business of law with AI A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin. AI OpenAI Model",
+      "keywords": "Gilbert + Tobin rethinks the business of law with AI A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin. Gilbert + Tobin rethinks the business of law with AI A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin. AI OpenAI Model",
       "title_original": "Gilbert + Tobin rethinks the business of law with AI",
       "summary_original": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "published_display": "2026-11-12",
-      "id": "0f453c12dbf0"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Kişiselleştirilmiş koçluk için kardiyovasküler-böbrek-metabolik (CKM) risk profili oluşturmayı mümkün kılmak amacıyla giyilebilir teknolojilerin kullanılması",
-      "summary": "Sağlık ve Biyobilim",
-      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/CKMHealthHero.png",
-      "source": "Google Research Blog",
-      "published_at": "2026-11-11T19:54:00Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Kişiselleştirilmiş koçluk için kardiyovasküler-böbrek-metabolik (CKM) risk profili oluşturmayı mümkün kılmak amacıyla giyilebilir teknolojilerin kullanılması Sağlık ve Biyobilim Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching Health & Bioscience AI Research Google",
-      "title_original": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
-      "summary_original": "Health & Bioscience",
-      "published_display": "2026-11-11",
-      "id": "edb1687d3eaa"
+      "id": "be11dc845269"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "ESTUN Robotics, Avrupa'daki genişlemeyi hızlandırmak için RoboDK simülasyon yazılımını entegre ediyor - Robotik ve Otomasyon Haberleri",
-      "summary": "ESTUN Robotics, Avrupa'ya genişlemeyi hızlandırmak için RoboDK simülasyon yazılımını entegre ediyor Robotik ve Otomasyon Haberleri",
+      "title": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion - Robotics & Automation News",
+      "summary": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQUTQzQ3VXUGV3ajRfU1VQcW16RGJ1M3RiQjk0ZS1TLUN3TEJvWGdfTnBLVHVYQURoYjI2M2drR2Y4aUptcEJhUG5HWHdwdnQ3a0dmblRHal9lcnpxUUtwVF9POG9TLUJDV2dLaHZVSjVBMTZjankzT3VoVklVUFE5ZmNDRE1XdF8yRk1rZ1NMd1RIQUdncG5CcWl5eDlSNzBOcGc3S0tPYnJVSHpibjVONXBmMjk5amVzZDNrM1ZmTmdLQ2tGUHJZUnJxRl9pM3hwZVU3OF9TN1ppVkhGRjdIYmNFLXdjZ1hhaHJ3ODRFbjVGdW5uZFQ5ZlVHelR2QnI4Mlo0RkVJd2tUcEMtQ3h0VXBoR3VZUHM0Y295eGFKNzlOTU1hbjlTVnZXRHdheHM?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,17 +265,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "ESTUN Robotics, Avrupa'daki genişlemeyi hızlandırmak için RoboDK simülasyon yazılımını entegre ediyor - Robotik ve Otomasyon Haberleri ESTUN Robotics, Avrupa'ya genişlemeyi hızlandırmak için RoboDK simülasyon yazılımını entegre ediyor Robotik ve Otomasyon Haberleri ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion - Robotics & Automation News ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion Robotics & Automation News Robotics Automation Industry",
+      "keywords": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion - Robotics & Automation News ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion Robotics & Automation News ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion - Robotics & Automation News ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion Robotics & Automation News Robotics Automation Industry",
       "title_original": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion - Robotics & Automation News",
       "summary_original": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion Robotics & Automation News",
       "published_display": "2026-11-12",
-      "id": "cc2f9693a346"
+      "id": "f2fe1e27e87d"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Step Motors Piyasasının 2035 Tahmini: Robotik ve Otomasyon Patlamasına Yönelik Talep Hızlanıyor - IndexBox",
-      "summary": "2035'e Kadar Step Motor Piyasası Tahmini: Robotik ve Otomasyona Yönelik Talep Hızlanıyor Boom IndexBox",
+      "title": "Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom - IndexBox",
+      "summary": "Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc2o5SDdtNWxPelJrZW9IODBYXy15aDF4OVRJNm9CSnpCOGpzZDRqQU5Hb2k3TE90ZTNhUjVFMkluTlUyZWt2TUJQVmt3Y0lYcTJUZnE3MmlDWXFBRTFDNU5Ja2lHVDlIV3lpS25EcE0zZ19lZTB4NGx5LXp4ZC1Hdk5fTXdma2sycXB6OFhodmhtbVBza0pKVGxnS09xMDlVS01IWEIxWG1ZTktlU1ZlVjRhMndyQmtLcE8w?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,17 +285,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Step Motors Piyasasının 2035 Tahmini: Robotik ve Otomasyon Patlamasına Yönelik Talep Hızlanıyor - IndexBox 2035'e Kadar Step Motor Piyasası Tahmini: Robotik ve Otomasyona Yönelik Talep Hızlanıyor Boom IndexBox Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom - IndexBox Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom IndexBox Robotics Automation Industry",
+      "keywords": "Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom - IndexBox Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom IndexBox Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom - IndexBox Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom IndexBox Robotics Automation Industry",
       "title_original": "Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom - IndexBox",
       "summary_original": "Stepper Motors Market Forecast to 2035: Demand Accelerates on Robotics and Automation Boom IndexBox",
       "published_display": "2026-11-11",
-      "id": "34a63bc53378"
+      "id": "5a1b3ab53939"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "BMW, yeni nesil araç üretimi için 1.700'den fazla ABB robotu sipariş etti - Robotik ve Otomasyon Haberleri",
-      "summary": "BMW, yeni nesil araç üretimi için 1.700'den fazla ABB robotu sipariş etti Robotik ve Otomasyon Haberleri",
+      "title": "BMW orders more than 1,700 ABB robots for next-generation vehicle production - Robotics & Automation News",
+      "summary": "BMW orders more than 1,700 ABB robots for next-generation vehicle production Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcG1XVENRVWlRUU1ETmpEazBOeHFmUW1pdkEwdE1DU3Z6eVVBYjhGVzBuYVQxbkxKQm8xWDNld2VUUGRGYXR0SVNMOThqODJ0REhTUXVkT3lGajZMTlZzdk03UHJOZ3NmMEh3N1N0WllIR1VsMHNYZnNIQWNoUWhoSkpmZUZnVU0xZXNCRzRzTHBKUGV2VUFhbUpTZDhuZEMydXJvcUlCN0xscUpBM0hxLThxWHA5cC02Vjd4RkZtN0pRU0prVTlCMGNlUGhIT0hOWDIxV2VCaHRwbHpacGpMUTNuVmhCS1U?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "BMW, yeni nesil araç üretimi için 1.700'den fazla ABB robotu sipariş etti - Robotik ve Otomasyon Haberleri BMW, yeni nesil araç üretimi için 1.700'den fazla ABB robotu sipariş etti Robotik ve Otomasyon Haberleri BMW orders more than 1,700 ABB robots for next-generation vehicle production - Robotics & Automation News BMW orders more than 1,700 ABB robots for next-generation vehicle production Robotics & Automation News Robotics Automation Industry",
+      "keywords": "BMW orders more than 1,700 ABB robots for next-generation vehicle production - Robotics & Automation News BMW orders more than 1,700 ABB robots for next-generation vehicle production Robotics & Automation News BMW orders more than 1,700 ABB robots for next-generation vehicle production - Robotics & Automation News BMW orders more than 1,700 ABB robots for next-generation vehicle production Robotics & Automation News Robotics Automation Industry",
       "title_original": "BMW orders more than 1,700 ABB robots for next-generation vehicle production - Robotics & Automation News",
       "summary_original": "BMW orders more than 1,700 ABB robots for next-generation vehicle production Robotics & Automation News",
       "published_display": "2026-11-11",
-      "id": "2c276280a038"
+      "id": "c235f0ed49d1"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZml6aDZlQ0U5MXN1cl8wREhIQnp2QXd5dVJlclY3WnJOYlBORjBicVVieEl2NTU3bzNTTEpSd0lfZ1pmWU5HNEZjeGl0SDdEQzdmM2ZJalhIRUE1SVhBME9oa1VLV0ZqNUJkYUtKRUYtOU52VHdiNWlmSmJBNEswc2I3cS1RRlpzYUJHUDNEQlBQQmFmTmxPbU51VDJaZ2F5TUJVVjdVVEYtblFyZ1Q4NnMydm5UWFJjSlk2OWg5MlVJVHA3QXBKdkloNA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-11-11",
-      "id": "638c23aaa9cb"
+      "id": "224762be8fdb"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Endüstriyel otomasyon girişimi Path Robotics, 300 milyon dolarlık finansman topladı - SiliconANGLE",
-      "summary": "Endüstriyel otomasyon girişimi Path Robotics, SiliconANGLE'a fon sağlamak için 300 milyon dolar topladı",
+      "title": "Industrial automation startup Path Robotics raises $300M in funding - SiliconANGLE",
+      "summary": "Industrial automation startup Path Robotics raises $300M in funding SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREtBMjVMSHd3czdzMmRmQ3ZVdjdmb0s5bFQzZld0eFl1T0R1dmtvMXU0TUQxZkJ2RzRuQVNXdm5Lb2RENlluYU56TnFNS2xWZVUxVnAyTkZnVzc2SkFtd0FSVENvd2FKS3Qyd3FYMTNfekI3RU83VTMxQS14c19nVXo1bFNrOEh6VTloc3ZGdlhoaVNJdGVKRWpCMlpULUlScmFWcjl3?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,17 +345,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstriyel otomasyon girişimi Path Robotics, 300 milyon dolarlık finansman topladı - SiliconANGLE Endüstriyel otomasyon girişimi Path Robotics, SiliconANGLE'a fon sağlamak için 300 milyon dolar topladı Industrial automation startup Path Robotics raises $300M in funding - SiliconANGLE Industrial automation startup Path Robotics raises $300M in funding SiliconANGLE Robotics Automation Industry",
+      "keywords": "Industrial automation startup Path Robotics raises $300M in funding - SiliconANGLE Industrial automation startup Path Robotics raises $300M in funding SiliconANGLE Industrial automation startup Path Robotics raises $300M in funding - SiliconANGLE Industrial automation startup Path Robotics raises $300M in funding SiliconANGLE Robotics Automation Industry",
       "title_original": "Industrial automation startup Path Robotics raises $300M in funding - SiliconANGLE",
       "summary_original": "Industrial automation startup Path Robotics raises $300M in funding SiliconANGLE",
       "published_display": "2026-11-11",
-      "id": "d728ab9fcfc8"
+      "id": "beadc44d62da"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Path Robotics, üretimde fiziksel yapay zekayı genişletmek için 2,45 milyar dolarlık değerlemeyle 300 milyon dolarlık çarpıcı yatırım aldı - Robotik ve Otomasyon Haberleri",
-      "summary": "Path Robotics, üretimde fiziksel yapay zekayı genişletmek için 2,45 milyar dolarlık değerlemeyle 300 milyon dolarlık çarpıcı yatırım aldı Robotik ve Otomasyon Haberleri",
+      "title": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing - Robotics & Automation News",
+      "summary": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHpnNGNqb1NWRElxaDJnb3NJQW15bUtmek9ZamJBemNHTnBSVGF3bWpHNUJyczBNa01BVjVENDBKY0xZc2wyR2tLdnlBbklGRFdZQ3hWWmZueThiaHNUZmZITkVDb2h1eExWTHdxeWZ5dzdzaVVMVFJmdUl2aUxCNGU3ZjRUeVJDNWlrcFNPUzI1UDZ1Sks0ZUlYcWEyczBsM1I3aHB5TjA0ZUFNc3FMUmsxYzFBeWRzc0c4bXBuRDlqQktEN2V0d0tHOWZZWUxjNlRCRjJiUlREeTNYTGV4UkRUdFMzQWg4WlRqSktRa1RpUUtzNkE?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,17 +365,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Path Robotics, üretimde fiziksel yapay zekayı genişletmek için 2,45 milyar dolarlık değerlemeyle 300 milyon dolarlık çarpıcı yatırım aldı - Robotik ve Otomasyon Haberleri Path Robotics, üretimde fiziksel yapay zekayı genişletmek için 2,45 milyar dolarlık değerlemeyle 300 milyon dolarlık çarpıcı yatırım aldı Robotik ve Otomasyon Haberleri Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing - Robotics & Automation News Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing - Robotics & Automation News Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing Robotics & Automation News Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing - Robotics & Automation News Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing Robotics & Automation News Robotics Automation Industry",
       "title_original": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing - Robotics & Automation News",
       "summary_original": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing Robotics & Automation News",
       "published_display": "2026-11-10",
-      "id": "d892c360f048"
+      "id": "87d5067d42b7"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Eylül ayında web platformunda yeni",
-      "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "title": "New to the web platform in September",
+      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -385,17 +385,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Eylül ayında web platformunda yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "5c34f3e54888"
+      "id": "408e82c9a4bc"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Ağustos 2026 Temel aylık özet",
-      "summary": "Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "title": "August 2026 Baseline monthly digest",
+      "summary": "Read about various happenings with Baseline during August 2026.",
       "url": "https://web.dev/blog/baseline-digest-aug-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -405,17 +405,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Ağustos 2026 Temel aylık özet Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
+      "keywords": "August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
       "title_original": "August 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during August 2026.",
       "published_display": "2026-09-28",
-      "id": "1285588553ae"
+      "id": "e508abcdedaa"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Kodlama aracınızla Interop 2027 için desteklenecek özellikleri bulun",
-      "summary": "Olumlu oylanacak Interop 2027 tekliflerini veya önerilecek özellikleri bulmak için kodlama aracınızı nasıl kullanabileceğinizi öğrenin.",
+      "title": "Find features to support for Interop 2027 with your coding agent",
+      "summary": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
       "url": "https://web.dev/blog/coding-agents-interop-proposals?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -425,17 +425,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Kodlama aracınızla Interop 2027 için desteklenecek özellikleri bulun Olumlu oylanacak Interop 2027 tekliflerini veya önerilecek özellikleri bulmak için kodlama aracınızı nasıl kullanabileceğinizi öğrenin. Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Web Performance Frontend",
+      "keywords": "Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Web Performance Frontend",
       "title_original": "Find features to support for Interop 2027 with your coding agent",
       "summary_original": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
       "published_display": "2026-09-18",
-      "id": "b0fc1fea72f2"
+      "id": "25b3b04990ea"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Interop 2027 için tekliflerinizi gönderin",
-      "summary": "Hangi web platformu özelliklerinin Interop 2027'nin parçası olması gerektiğini bize bildirmenin zamanı geldi.",
+      "title": "Submit your proposals for Interop 2027",
+      "summary": "It's time to let us know which web platform features should be part of Interop 2027.",
       "url": "https://web.dev/blog/interop-2027-proposals?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -445,17 +445,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Interop 2027 için tekliflerinizi gönderin Hangi web platformu özelliklerinin Interop 2027'nin parçası olması gerektiğini bize bildirmenin zamanı geldi. Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Web Performance Frontend",
+      "keywords": "Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Web Performance Frontend",
       "title_original": "Submit your proposals for Interop 2027",
       "summary_original": "It's time to let us know which web platform features should be part of Interop 2027.",
       "published_display": "2026-09-03",
-      "id": "7943b22010d8"
+      "id": "ac94551a1969"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Ağustos ayında web platformuna yeni",
-      "summary": "Ağustos 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "title": "New to the web platform in August",
+      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during August 2026.",
       "url": "https://web.dev/blog/web-platform-08-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -465,17 +465,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Ağustos ayında web platformuna yeni Ağustos 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in August Discover some of the interesting features that have landed in stable and beta web browsers during August 2026. Web Performance Frontend",
+      "keywords": "New to the web platform in August Discover some of the interesting features that have landed in stable and beta web browsers during August 2026. New to the web platform in August Discover some of the interesting features that have landed in stable and beta web browsers during August 2026. Web Performance Frontend",
       "title_original": "New to the web platform in August",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during August 2026.",
       "published_display": "2026-08-28",
-      "id": "6ce5ee184b45"
+      "id": "3c96f0492623"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Temmuz 2026 Temel aylık özet",
-      "summary": "Temmuz 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "title": "July 2026 Baseline monthly digest",
+      "summary": "Read about various happenings with Baseline during July 2026.",
       "url": "https://web.dev/blog/baseline-digest-jul-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -485,17 +485,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Temmuz 2026 Temel aylık özet Temmuz 2026'da Baseline ile ilgili çeşitli olayları okuyun. July 2026 Baseline monthly digest Read about various happenings with Baseline during July 2026. Web Performance Frontend",
+      "keywords": "July 2026 Baseline monthly digest Read about various happenings with Baseline during July 2026. July 2026 Baseline monthly digest Read about various happenings with Baseline during July 2026. Web Performance Frontend",
       "title_original": "July 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during July 2026.",
       "published_display": "2026-08-10",
-      "id": "b5218533adc8"
+      "id": "7ce65a96eb3e"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens RUGGEDCOM APE1808",
-      "summary": "CSAF Özetini Görüntüle Palo Alto Networks, PAN-OS'te PHP2Shell güvenlik açıklarıyla ilgili güvenlik açıkları hakkında bilgi yayınladı. Bu danışma belgesinde, bu güvenlik açıklarından etkilenen ilgili Siemens Endüstriyel ürünleri listelenmektedir. Müşteriler...",
+      "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
       "image_url": null,
       "source": "CISA Advisories",
@@ -505,7 +505,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens RUGGEDCOM APE1808 CSAF Özetini Görüntüle Palo Alto Networks, PAN-OS'te PHP2Shell güvenlik açıklarıyla ilgili güvenlik açıkları hakkında bilgi yayınladı. Bu danışma belgesinde, bu güvenlik açıklarından etkilenen ilgili Siemens Endüstriyel ürünleri listelenmektedir. Müşteriler... Siemens RUGGEDCOM APE1808 View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar... CISA Advisory Threat",
+      "keywords": "Siemens RUGGEDCOM APE1808 View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar... Siemens RUGGEDCOM APE1808 View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar... CISA Advisory Threat",
       "title_original": "Siemens RUGGEDCOM APE1808",
       "summary_original": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar...",
       "published_display": "2026-11-12",
@@ -515,7 +515,7 @@
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "Siemens RUGGEDCOM APE1808",
-      "summary": "CSAF Özetini Görüntüle Palo Alto Networks, PAN-OS'te Node2Shell güvenlik açığıyla ilgili bir güvenlik açığı hakkında bilgi yayınladı. Bu danışma belgesinde, bu güvenlik açığından etkilenen ilgili Siemens Endüstriyel ürünleri listelenmektedir. Müşteriler...",
+      "summary": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers ar...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
       "image_url": null,
       "source": "CISA Advisories",
@@ -525,7 +525,7 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens RUGGEDCOM APE1808 CSAF Özetini Görüntüle Palo Alto Networks, PAN-OS'te Node2Shell güvenlik açığıyla ilgili bir güvenlik açığı hakkında bilgi yayınladı. Bu danışma belgesinde, bu güvenlik açığından etkilenen ilgili Siemens Endüstriyel ürünleri listelenmektedir. Müşteriler... Siemens RUGGEDCOM APE1808 View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers ar... CISA Advisory Threat",
+      "keywords": "Siemens RUGGEDCOM APE1808 View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers ar... Siemens RUGGEDCOM APE1808 View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers ar... CISA Advisory Threat",
       "title_original": "Siemens RUGGEDCOM APE1808",
       "summary_original": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers ar...",
       "published_display": "2026-11-12",
@@ -534,8 +534,8 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Siemens Endüstriyel Uç Yönetimi",
-      "summary": "CSAF Özetini Görüntüleyin Siemens şu anda Node2Shell'in (CVE-2026-111497) Endüstriyel Uç üzerindeki etkisini değerlendiriyor. Lütfen Endüstriyel Kenar Yönetimi (IEM) kurulumunuzu kontrol edin: - Kurulu Yönetim Uygulaması Yok: Herhangi bir işlem yapılmasına gerek yoktur. Alth...",
+      "title": "Siemens Industrial Edge Management",
+      "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
       "image_url": null,
       "source": "CISA Advisories",
@@ -545,17 +545,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens Endüstriyel Uç Yönetimi CSAF Özetini Görüntüleyin Siemens şu anda Node2Shell'in (CVE-2026-111497) Endüstriyel Uç üzerindeki etkisini değerlendiriyor. Lütfen Endüstriyel Kenar Yönetimi (IEM) kurulumunuzu kontrol edin: - Kurulu Yönetim Uygulaması Yok: Herhangi bir işlem yapılmasına gerek yoktur. Alth... Siemens Industrial Edge Management View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth... CISA Advisory Threat",
+      "keywords": "Siemens Industrial Edge Management View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth... Siemens Industrial Edge Management View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth... CISA Advisory Threat",
       "title_original": "Siemens Industrial Edge Management",
       "summary_original": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth...",
       "published_display": "2026-11-12",
-      "id": "8c863da84e7b"
+      "id": "fd66cd1d66f1"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Siemens Desigo, Izgara Ölçeği",
-      "summary": "CSAF Özetini Görüntüleyin 21 Ekim 2026'da Node.js projesi, Node.js ile birlikte verilen ve genellikle \"Node2Shell\" olarak adlandırılan (CVE-2026-111497 olarak izlenir) Brotli kod çözücüdeki kritik bir güvenlik açığını gideren güvenlik güncellemelerini yayınladı. V...",
+      "title": "Siemens Desigo, Gridscale",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
       "image_url": null,
       "source": "CISA Advisories",
@@ -565,17 +565,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens Desigo, Izgara Ölçeği CSAF Özetini Görüntüleyin 21 Ekim 2026'da Node.js projesi, Node.js ile birlikte verilen ve genellikle \"Node2Shell\" olarak adlandırılan (CVE-2026-111497 olarak izlenir) Brotli kod çözücüdeki kritik bir güvenlik açığını gideren güvenlik güncellemelerini yayınladı. V... Siemens Desigo, Gridscale View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v... CISA Advisory Threat",
+      "keywords": "Siemens Desigo, Gridscale View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v... Siemens Desigo, Gridscale View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v... CISA Advisory Threat",
       "title_original": "Siemens Desigo, Gridscale",
       "summary_original": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v...",
       "published_display": "2026-11-12",
-      "id": "aa5a4b6f1f3a"
+      "id": "092241fc5bac"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "Siemens Bina Otomasyonu ve Enerji Ürünleri",
-      "summary": "CSAF Özetini Görüntüleyin 21 Ekim 2026'da PHP projesi ve güvenlik araştırmacıları, \"php2shell\" olarak bilinen (CVE-2026-1096 olarak izlenen) çekirdek PHP dili çalışma zamanındaki iki kritik, kimliği doğrulanmamış uzaktan kod yürütme güvenlik açığını ortaya çıkardı.",
+      "title": "Siemens Building Automation and Energy Products",
+      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-1096...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
       "image_url": null,
       "source": "CISA Advisories",
@@ -585,17 +585,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "Siemens Bina Otomasyonu ve Enerji Ürünleri CSAF Özetini Görüntüleyin 21 Ekim 2026'da PHP projesi ve güvenlik araştırmacıları, \"php2shell\" olarak bilinen (CVE-2026-1096 olarak izlenen) çekirdek PHP dili çalışma zamanındaki iki kritik, kimliği doğrulanmamış uzaktan kod yürütme güvenlik açığını ortaya çıkardı. Siemens Building Automation and Energy Products View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-1096... CISA Advisory Threat",
+      "keywords": "Siemens Building Automation and Energy Products View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-1096... Siemens Building Automation and Energy Products View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-1096... CISA Advisory Threat",
       "title_original": "Siemens Building Automation and Energy Products",
       "summary_original": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-1096...",
       "published_display": "2026-11-12",
-      "id": "a090a1374df2"
+      "id": "03682d5c0cde"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "CISA Kataloğa Bilinen Altı İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna altı yeni güvenlik açığı ekledi. CVE-2026-20320 Cisco BroadWorks XML Harici Varlık Referansı Güvenlik Açığı Kısıtlamasının Uygunsuz Kısıtlanması...",
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability C...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "image_url": null,
       "source": "CISA Advisories",
@@ -605,17 +605,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "CISA Kataloğa Bilinen Altı İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna altı yeni güvenlik açığı ekledi. CVE-2026-20320 Cisco BroadWorks XML Harici Varlık Referansı Güvenlik Açığı Kısıtlamasının Uygunsuz Kısıtlanması... CISA Adds Six Known Exploited Vulnerabilities to Catalog CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability C... CISA Advisory Threat",
+      "keywords": "CISA Adds Six Known Exploited Vulnerabilities to Catalog CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability C... CISA Adds Six Known Exploited Vulnerabilities to Catalog CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability C... CISA Advisory Threat",
       "title_original": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
       "summary_original": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability C...",
       "published_display": "2026-11-10",
-      "id": "43cd8969e068"
+      "id": "63f0d319321e"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com",
-      "summary": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com",
+      "title": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,17 +625,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "keywords": "5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
       "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
       "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
       "published_display": "2026-10-30",
-      "id": "50e5e9d0bb44"
+      "id": "35fc26b8735d"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri",
-      "summary": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
+      "summary": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDhSSkd2am02dnhMampDZEFUZS04ZUFIVkdDNkptVVlNV0xzTVVoZW9QX182SE9nQzZTTGVlQWQzbVAyeExCdTNiY0R6QXQ4SWZxZDg5d3VjZlJNNGdvOG1XeHN1QUktTFI3SXN3aDNsZEVGN0xNRWNNLTdLNzluZg?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,17 +645,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
+      "keywords": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
       "title_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
       "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "published_display": "2026-10-27",
-      "id": "d151b5a67629"
+      "id": "dea87be07742"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
-      "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
+      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
+      "summary": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -665,17 +665,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
+      "keywords": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
       "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
       "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "published_display": "2026-10-10",
-      "id": "33214d55f737"
+      "id": "7f766a2a98e6"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews",
-      "summary": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews",
+      "title": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
+      "summary": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JZWduR0FLZWQtRTFSZG1fOXoyQW03bGJSSThCUDNWekwwZjNhX2VGVXRIVUFxYW9Gdmh1dk92OWhoUFdMZ2tuRkRaTlhNSkZWU3FydllNMTdXbHkxbmtNdzhyR0hza1hDc3l0dUI3ODHSAXZBVV95cUxPQVZTNzR3Q0dsMEZaTmpENUVjejVveGhBbHU3X0Z2dEhSeDdZSGZXc0xzRW1aUVRfck9oSllmQ1BNd0xUdHE4S2VuVVBKY0V2UDVTOGxDSHhhYXZtcF9GeXFnVWcxcHBWaENBdXlGTjdwd3FIWFlR?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -685,11 +685,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı - CyberSecurityNews Uzaktan Kod Yürütme Sömürü Girişimlerinde Hedeflenen Hikvision Kamera Güvenlik Açığı CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
+      "keywords": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews IP Camera Video Surveillance",
       "title_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts - CyberSecurityNews",
       "summary_original": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts CyberSecurityNews",
       "published_display": "2026-10-08",
-      "id": "6611c4e5a777"
+      "id": "a0d70264cefa"
     }
   ]
 }
