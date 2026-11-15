@@ -18,6 +18,7 @@
       'demo.html': 'demo.html',
       'kodzen-tools.html': 'kodzen-tools.html',
       'iletisim.html': 'iletisim.html',
+      'krtzen.html': 'urunler',
       'ai-gis.html': 'urunler',
       'ckmesaj.html': 'urunler',
       'whatsypzck.html': 'urunler',
@@ -33,6 +34,7 @@
       '<li class="nav-item dropdown">',
       '  <a class="nav-link dropdown-toggle' + (isProducts ? ' active' : '') + '" href="#" data-bs-toggle="dropdown">Ürünler</a>',
       '  <ul class="dropdown-menu">',
+      '<li><a class="dropdown-item" href="krtzen.html">KRTZEN — AI Müşteri Asistanı</a></li>',
       '    <li><a class="dropdown-item' + (path === 'ai-gis.html' ? ' active' : '') + '" href="ai-gis.html"><i class="bi bi-map me-2 text-primary-kodzen"></i>AI-GIS Infrastructure</a></li>',
       '    <li><a class="dropdown-item' + (path === 'ckmesaj.html' ? ' active' : '') + '" href="ckmesaj.html"><i class="bi bi-chat-dots me-2 text-primary-kodzen"></i>CKmesaj</a></li>',
       '    <li><a class="dropdown-item' + (path === 'whatsypzck.html' ? ' active' : '') + '" href="whatsypzck.html"><i class="bi bi-whatsapp me-2 text-primary-kodzen"></i>WhatsYpzck</a></li>',
@@ -60,3 +62,6 @@
     buildMainNav();
   }
 })();
+
+/* Shared public KRTZEN entry point. */
+if (!/\/admin\//.test(location.pathname)) { const s = document.createElement("script"); s.src = "/js/krtzen-integration.js?v=20261115"; s.defer = true; document.head.append(s); }

@@ -277,12 +277,9 @@
   document.body.appendChild(btn);
   document.body.appendChild(modal);
 
-  /* ── Auto-show logic (first visit ever = immediate, otherwise skip) ── */
-  const STORAGE_KEY = 'kzProjePopupSeen';
-  const hasSeen = localStorage.getItem(STORAGE_KEY);
-  if (!hasSeen && !path.includes('proje-talebi')) {
-    setTimeout(openModal, 1200); // show quickly on first visit
-  }
+  // First-visit invitation is owned by krtzen-integration.js.
+  // The project request remains available from the floating button.
+  const STORAGE_KEY = "kzProjePopupSeen";
 
   /* ── Event handlers ── */
   btn.addEventListener('click', function () {
