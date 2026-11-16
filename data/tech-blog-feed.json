@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T18:46:34Z",
-  "total_posts": 33,
+  "updated_at": "2026-11-15T22:00:01Z",
+  "total_posts": 31,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 5,
+    "robotik": 4,
     "web": 6,
     "siber": 6,
-    "kamera": 4
+    "kamera": 3
   },
   "posts": [
     {
@@ -55,7 +55,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git'teki güvenlik açıkları açıklandı",
-      "summary": "Git, özyinelemeli klonları, referans işlemeyi, birleştirmeleri, ikili yamaları ve içe aktarmaları etkileyen altı güvenlik açığını gideren güncellemeler yayınlıyor. İşte kullanıcıların bilmesi gerekenler. Git'teki güvenlik açıklarının duyurulduğu gönderi...",
+      "summary": "Git, özyinelemeli klonları, referans işlemeyi, birleştirmeleri, ikili yamaları ve içe aktarmaları etkileyen altı güvenlik açığını gideren güncellemeler yayınlıyor. İşte kullanıcıların bilmesi gerekenler. Git güvenlik açıklarının duyurulduğu gönderide...",
       "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,7 +65,7 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git'teki güvenlik açıkları açıklandı Git, özyinelemeli klonları, referans işlemeyi, birleştirmeleri, ikili yamaları ve içe aktarmaları etkileyen altı güvenlik açığını gideren güncellemeler yayınlıyor. İşte kullanıcıların bilmesi gerekenler. Git'teki güvenlik açıklarının duyurulduğu gönderi... Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear... GitHub Dev Platform",
+      "keywords": "Git'teki güvenlik açıkları açıklandı Git, özyinelemeli klonları, referans işlemeyi, birleştirmeleri, ikili yamaları ve içe aktarmaları etkileyen altı güvenlik açığını gideren güncellemeler yayınlıyor. İşte kullanıcıların bilmesi gerekenler. Git güvenlik açıklarının duyurulduğu gönderide... Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear... GitHub Dev Platform",
       "title_original": "Git security vulnerabilities announced",
       "summary_original": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear...",
       "published_display": "2026-11-10",
@@ -94,7 +94,7 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Kod oluşturmanın ötesinde: Ajan mühendisliğine yönelik bir geliştirici kılavuzu",
+      "title": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu",
       "summary": "Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme...",
       "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
       "image_url": null,
@@ -105,11 +105,11 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Kod oluşturmanın ötesinde: Ajan mühendisliğine yönelik bir geliştirici kılavuzu Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
+      "keywords": "Kod oluşturmanın ötesinde: Ajans mühendisliğine yönelik bir geliştirici kılavuzu Kod yazmak hızlandı. Bununla ilgili çalışmalar işe yaramadı. GitHub Copilot ile nasıl plan yapabileceğinizi, kod yazabileceğinizi, değişiklikleri inceleyebileceğinizi ve üretim sorunlarını araştırabileceğinizi ve hangi işlerin hâlâ sizin muhakemenize ihtiyaç duyduğunu görün. Kod üretmenin ötesinde yazı: Bir geliştirme... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
       "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
       "summary_original": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
       "published_display": "2026-11-06",
-      "id": "12ecb8eac891"
+      "id": "3308a087e41a"
     },
     {
       "category": "yazilim",
@@ -130,6 +130,46 @@
       "summary_original": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
       "published_display": "2026-11-05",
       "id": "d795cc6fff80"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Kafes üzerinde Standart Modelin tanımlanmasına yönelik bir adım",
+      "summary": "Standart Modelin pertürbatif olmayan kafes tanımını aday olarak keşfedin ve GPT-6 Astra'nın bu fikri ayrıntılı bir kanıta dönüştürmeye nasıl yardımcı olduğunu keşfedin.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-15T22:00:01Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Kafes üzerinde Standart Modelin tanımlanmasına yönelik bir adım Standart Modelin pertürbatif olmayan kafes tanımını aday olarak keşfedin ve GPT-6 Astra'nın bu fikri ayrıntılı bir kanıta dönüştürmeye nasıl yardımcı olduğunu keşfedin. A step toward defining the Standard Model on a lattice Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. AI OpenAI Model",
+      "title_original": "A step toward defining the Standard Model on a lattice",
+      "summary_original": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "published_display": "2026-11-15",
+      "id": "de49605519b3"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Bilime yönelik yeni blogumuz",
+      "summary": "OpenAI bilim blogu, bilimsel keşifleri ilerletmek için yapay zekayı kullanan araştırmacıların yeni bulgularını, pratik yöntemlerini ve ilk elden anlatımlarını paylaşıyor.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-15T22:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Bilime yönelik yeni blogumuz OpenAI bilim blogu, bilimsel keşifleri ilerletmek için yapay zekayı kullanan araştırmacıların yeni bulgularını, pratik yöntemlerini ve ilk elden anlatımlarını paylaşıyor. Our new blog for science The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery. AI OpenAI Model",
+      "title_original": "Our new blog for science",
+      "summary_original": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "published_display": "2026-11-15",
+      "id": "6a1979f963d8"
     },
     {
       "category": "ai",
@@ -155,7 +195,7 @@
       "category": "ai",
       "category_label": "Yapay Zeka",
       "title": "ChatGPT Cüzdanıyla Tanışın",
-      "summary": "ChatGPT Work, Codex ve dots'taki temsilcilerin satın alma işlemlerini kullanıcı onayı ve mevcut kart korumalarıyla tamamlamasının güvenli bir yolu olan ChatGPT Cüzdan ile tanışın.",
+      "summary": "ChatGPT Work, Codex ve dots'taki temsilcilerin kullanıcı onayı ve mevcut kart korumalarıyla satın alma işlemlerini tamamlamasının güvenli bir yolu olan ChatGPT Cüzdan ile tanışın.",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "image_url": null,
       "source": "OpenAI News",
@@ -165,7 +205,7 @@
         "OpenAI",
         "Model"
       ],
-      "keywords": "ChatGPT Cüzdanıyla Tanışın ChatGPT Work, Codex ve dots'taki temsilcilerin satın alma işlemlerini kullanıcı onayı ve mevcut kart korumalarıyla tamamlamasının güvenli bir yolu olan ChatGPT Cüzdan ile tanışın. Introducing ChatGPT Wallet Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. AI OpenAI Model",
+      "keywords": "ChatGPT Cüzdanıyla Tanışın ChatGPT Work, Codex ve dots'taki temsilcilerin kullanıcı onayı ve mevcut kart korumalarıyla satın alma işlemlerini tamamlamasının güvenli bir yolu olan ChatGPT Cüzdan ile tanışın. Introducing ChatGPT Wallet Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. AI OpenAI Model",
       "title_original": "Introducing ChatGPT Wallet",
       "summary_original": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
       "published_display": "2026-11-13",
@@ -212,46 +252,6 @@
       "id": "9b5b4d573008"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Google Arama, Gemini 4 Hydrogen ile büyük bir yükseltme elde ediyor",
-      "summary": "Size daha yararlı, görsel ve sezgisel yanıtlar sağlamak için Gemini 4 Hydrogen'i dünya çapında Google Arama'ya getiriyoruz.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-12T18:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Google Arama, Gemini 4 Hydrogen ile büyük bir yükseltme elde ediyor Size daha yararlı, görsel ve sezgisel yanıtlar sağlamak için Gemini 4 Hydrogen'i dünya çapında Google Arama'ya getiriyoruz. Google Search gets a major upgrade with Gemini 4 Hydrogen We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses. AI Product Google",
-      "title_original": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary_original": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "published_display": "2026-11-12",
-      "id": "1ffa4d9bebb5"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Ekibi Codex ile daha fazlasını inşa ettikçe Gondola gelirini ikiye katladı",
-      "summary": "Gondola, Codex'in baş mühendisinin çıktısını %50 artırması ve ChatGPT'nin günlük işleri basitleştirmesiyle yaratıcıların kredi almasına ve işe alınmasına yardımcı oluyor.",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-12T12:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Ekibi Codex ile daha fazlasını inşa ettikçe Gondola gelirini ikiye katladı Gondola, Codex'in baş mühendisinin çıktısını %50 artırması ve ChatGPT'nin günlük işleri basitleştirmesiyle yaratıcıların kredi almasına ve işe alınmasına yardımcı oluyor. Gondola doubles revenue as its team builds more with Codex Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work. AI OpenAI Model",
-      "title_original": "Gondola doubles revenue as its team builds more with Codex",
-      "summary_original": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "published_display": "2026-11-12",
-      "id": "d44ac231b9fa"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "A3 Business Forum 2027 ekonomik görünümü ve otomasyon endüstrisi trendlerini inceleyecek - Robotik ve Otomasyon Haberleri",
@@ -270,26 +270,6 @@
       "summary_original": "A3 Business Forum 2027 to examine economic outlook and automation industry trends Robotics & Automation News",
       "published_display": "2026-11-15",
       "id": "1fbaf24d7d81"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Endüstriyel otomasyon girişimi Path Robotics, 300 milyon dolarlık finansman topladı - SiliconANGLE",
-      "summary": "Endüstriyel otomasyon girişimi Path Robotics, SiliconANGLE'a fon sağlamak için 300 milyon dolar topladı",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREtBMjVMSHd3czdzMmRmQ3ZVdjdmb0s5bFQzZld0eFl1T0R1dmtvMXU0TUQxZkJ2RzRuQVNXdm5Lb2RENlluYU56TnFNS2xWZVUxVnAyTkZnVzc2SkFtd0FSVENvd2FKS3Qyd3FYMTNfekI3RU83VTMxQS14c19nVXo1bFNrOEh6VTloc3ZGdlhoaVNJdGVKRWpCMlpULUlScmFWcjl3?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-11-11T01:51:00Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Endüstriyel otomasyon girişimi Path Robotics, 300 milyon dolarlık finansman topladı - SiliconANGLE Endüstriyel otomasyon girişimi Path Robotics, SiliconANGLE'a fon sağlamak için 300 milyon dolar topladı Industrial automation startup Path Robotics raises $300M in funding - SiliconANGLE Industrial automation startup Path Robotics raises $300M in funding SiliconANGLE Robotics Automation Industry",
-      "title_original": "Industrial automation startup Path Robotics raises $300M in funding - SiliconANGLE",
-      "summary_original": "Industrial automation startup Path Robotics raises $300M in funding SiliconANGLE",
-      "published_display": "2026-11-11",
-      "id": "d728ab9fcfc8"
     },
     {
       "category": "robotik",
@@ -315,7 +295,7 @@
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşçilik Maliyetleri Fabrikaların El Kitabını Korumak İçin Artık Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
+      "summary": "Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS1N4anowMkJKWVYzenNGRm95dXk5ajc3cDNKcnZDcHFnNFFMaFAwdzlUdlRucUZObGN1MnhPbi11T1Y1WFU0M2pkQkFHanZKdnpEeEMzT2pyaXNtTjJ6amxEdkc2c3hJWTk0dmMtaVFBV19IN3NGaFRrZmtnQUV5TV9fTUZXVGpXNmsyYlMyVWJnUmwzWVd3ZjExdmVacmNVcVZvSnNsMWpEb3pMUXU1Zkw1eURxaVZERExtTnpVNnNQenJ3YnNza0dKLUJ2ejFB?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,7 +305,7 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşçilik Maliyetleri Fabrikaların El Kitabını Korumak İçin Artık Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Hindistan'ın Robot Patlaması: Neden Düşük İşgücü Maliyetleri Fabrikaları El Kitabı Olarak Tutmak İçin Artık Yeterli Değil - A3 Otomasyonu Geliştirme Derneği Hindistan'da Robot Patlaması: Neden Düşük İşgücü Maliyetleri Artık Fabrikaların El Kitabını Tutmak İçin Yeterli Değil A3 Otomasyonu Geliştirme Derneği India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual - A3 Association for Advancing Automation",
       "summary_original": "India's Robot Boom: Why Low Labor Costs Are No Longer Enough to Keep Factories Manual A3 Association for Advancing Automation",
       "published_display": "2026-10-16",
@@ -590,26 +570,6 @@
       "summary_original": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v...",
       "published_display": "2026-11-12",
       "id": "aa5a4b6f1f3a"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Akıllı evinizi bilgisayar korsanlarından nasıl korursunuz, yönlendiriciler, kameralar ve TV'ler için on adım - Pasquale Pillitteri",
-      "summary": "Akıllı evinizi bilgisayar korsanlarından nasıl korursunuz, yönlendiriciler, kameralar ve TV'ler için on adım Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGdkejRkcDNGMzlSV3M5UWFCZGdMUE13Y0JtV1ZER3U1dGVEOUJ6TDlxN1VDaGg0U0l4S0JPYldwbFNoT0lCc25CMUMtcUxoUTJrUDRlTUJaX05zT2pyRzQ2YVpUVG11MUpITnN5T0ZfX0w5bmlXMmRDODZ2YUpYTA?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-11-15T08:06:02Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Akıllı evinizi bilgisayar korsanlarından nasıl korursunuz, yönlendiriciler, kameralar ve TV'ler için on adım - Pasquale Pillitteri Akıllı evinizi bilgisayar korsanlarından nasıl korursunuz, yönlendiriciler, kameralar ve TV'ler için on adım Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
-      "summary_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
-      "published_display": "2026-11-15",
-      "id": "7a390a446adb"
     },
     {
       "category": "kamera",
