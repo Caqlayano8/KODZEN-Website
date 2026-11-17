@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T17:09:53Z",
-  "total_posts": 30,
+  "updated_at": "2026-11-17T00:00:00Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 0
+    "kamera": 3
   },
   "posts": [
     {
@@ -134,6 +134,26 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-17T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Strengthening NATO and allied cyber defenses with AI How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems. Strengthening NATO and allied cyber defenses with AI How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems. AI OpenAI Model",
+      "title_original": "Strengthening NATO and allied cyber defenses with AI",
+      "summary_original": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "published_display": "2026-11-17",
+      "id": "c0be7e08da1d"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
       "title": "Broadening access to AI for scientists",
       "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
@@ -214,42 +234,22 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "url": "https://openai.com/business/customer-stories/revolut",
       "image_url": null,
       "source": "OpenAI News",
-      "published_at": "2026-11-16T09:00:00Z",
+      "published_at": "2026-11-16T09:30:00Z",
       "tags": [
         "AI",
         "OpenAI",
         "Model"
       ],
-      "keywords": "LVMH’s Media Division announces strategic partnership with OpenAI LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT. LVMH’s Media Division announces strategic partnership with OpenAI LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT. AI OpenAI Model",
-      "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary_original": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "keywords": "How Revolut raises ambition without lowering the bar Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security. How Revolut raises ambition without lowering the bar Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security. AI OpenAI Model",
+      "title_original": "How Revolut raises ambition without lowering the bar",
+      "summary_original": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
       "published_display": "2026-11-16",
-      "id": "d3b10bac7898"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-16T08:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Our first phase of embedded assessments OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems. Our first phase of embedded assessments OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems. AI OpenAI Model",
-      "title_original": "Our first phase of embedded assessments",
-      "summary_original": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "published_display": "2026-11-16",
-      "id": "1c8b7593ac69"
+      "id": "54c6322d1db8"
     },
     {
       "category": "robotik",
@@ -314,26 +314,6 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "A3 Business Forum 2027 to examine economic outlook and automation industry trends - Robotics & Automation News",
-      "summary": "A3 Business Forum 2027 to examine economic outlook and automation industry trends Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdTI1blQ0YW1OT1A4cGdIOHpJVUlIbVUzN1JFR0wxNkswVmN0VENQM3laWjFyUTlZaHA5WXZnRUJ0RE80S2t2ZUwyd25qdjVqM2E2ZUlVSmszbnFwQzdjUWVaSmdSUFVoLWU5dk41TGFucDlDaXpRRWZaM1ExSjh4LUduQ05aWlREVmQ5czV2MlNoM3RObXhqYnJNemFlQlpSTk5uUnJwMm1pNWg5amFwY0lkV2JCSzRJMEt3X1hBTzZxX1g1V1dnOGRYRjA2czNqSlYxdw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-11-15T18:46:34Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "A3 Business Forum 2027 to examine economic outlook and automation industry trends - Robotics & Automation News A3 Business Forum 2027 to examine economic outlook and automation industry trends Robotics & Automation News A3 Business Forum 2027 to examine economic outlook and automation industry trends - Robotics & Automation News A3 Business Forum 2027 to examine economic outlook and automation industry trends Robotics & Automation News Robotics Automation Industry",
-      "title_original": "A3 Business Forum 2027 to examine economic outlook and automation industry trends - Robotics & Automation News",
-      "summary_original": "A3 Business Forum 2027 to examine economic outlook and automation industry trends Robotics & Automation News",
-      "published_display": "2026-11-15",
-      "id": "f9256523ea8c"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
       "title": "Zacua Ventures raises $135 million to invest in robotics, physical AI and industrial technology - Robotics & Automation News",
       "summary": "Zacua Ventures raises $135 million to invest in robotics, physical AI and industrial technology Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSUdmdkpkZEhJV3RBTlp6N01TMWVodDV3SHREbmFTeW9iQXlHODdLd2YzdC1WbWtrVGFWMGlFWnRRUFVSR3lCVWhBZDhpVmlnZndpcXAwTjYwNE1vdUV5cnR6VzVpaHZfN2JfQlpiMzEySXJwc0tmUlhvbDRQc1RSYzAwbExzQkZJcXptTnpGUVcyZTVFcG5vWWc1cWVVbERqdmI0RlN4c1NXelZCMTUxRDFQNWM5U0IwdkVuOHZVMlBiNEp1dWVWWjJ5VFdXTURvVlZxN2JQb3ZJS0IzYlVMdXhMYVE?oc=5",
@@ -370,6 +350,26 @@
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-11-05",
       "id": "a873f2bf9784"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Warehouse Automation Market Share, Size, Trend, 2034 - Fortune Business Insights",
+      "summary": "Warehouse Automation Market Share, Size, Trend, 2034 Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWM21aS3ptSjBnRlRsa0lFYmdTSjRta3Z6UFNFLXFWSmdfbE9obkZFdm5uTTdTY1ZiVkFGTFdEX0pKQmZmSGNLZk91WUp1YVlCa1VQTEFubkFfcHlpSGlrWTNKcjlWYkxyR21LNHFQU1FtTWk1VFJvc2ZaYW1Iazg?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-26T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Warehouse Automation Market Share, Size, Trend, 2034 - Fortune Business Insights Warehouse Automation Market Share, Size, Trend, 2034 Fortune Business Insights Warehouse Automation Market Share, Size, Trend, 2034 - Fortune Business Insights Warehouse Automation Market Share, Size, Trend, 2034 Fortune Business Insights Robotics Automation Industry",
+      "title_original": "Warehouse Automation Market Share, Size, Trend, 2034 - Fortune Business Insights",
+      "summary_original": "Warehouse Automation Market Share, Size, Trend, 2034 Fortune Business Insights",
+      "published_display": "2026-10-26",
+      "id": "d3aaf8eb2a5c"
     },
     {
       "category": "web",
@@ -610,6 +610,66 @@
       "summary_original": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The v...",
       "published_display": "2026-11-12",
       "id": "092241fc5bac"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-30T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "published_display": "2026-10-30",
+      "id": "35fc26b8735d"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
+      "summary": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDhSSkd2am02dnhMampDZEFUZS04ZUFIVkdDNkptVVlNV0xzTVVoZW9QX182SE9nQzZTTGVlQWQzbVAyeExCdTNiY0R6QXQ4SWZxZDg5d3VjZlJNNGdvOG1XeHN1QUktTFI3SXN3aDNsZEVGN0xNRWNNLTdLNzluZg?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-27T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
+      "title_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
+      "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
+      "published_display": "2026-10-27",
+      "id": "dea87be07742"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
+      "summary": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-10T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
+      "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
+      "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
+      "published_display": "2026-10-10",
+      "id": "7f766a2a98e6"
     }
   ]
 }
