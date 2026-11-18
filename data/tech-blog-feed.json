@@ -1,16 +1,56 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T17:00:00Z",
-  "total_posts": 32,
+  "updated_at": "2026-11-17T20:24:27Z",
+  "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
-    "robotik": 5,
+    "robotik": 6,
     "web": 6,
     "siber": 6,
     "kamera": 3
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post...",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-11-17T18:29:29Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Maintainers don’t need more AI bug reports. They need fixes. In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post... Maintainers don’t need more AI bug reports. They need fixes. In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post... GitHub Dev Platform",
+      "title_original": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "summary_original": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post...",
+      "published_display": "2026-11-17",
+      "id": "c2dad342cee7"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on...",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-11-17T18:20:40Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Building the Agent Host Protocol for sessions that continue across devices Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on... Building the Agent Host Protocol for sessions that continue across devices Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on... GitHub Dev Platform",
+      "title_original": "Building the Agent Host Protocol for sessions that continue across devices",
+      "summary_original": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on...",
+      "published_display": "2026-11-17",
+      "id": "cf0bc5e068cd"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -92,44 +132,24 @@
       "id": "10d6b43d535b"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Beyond code generation: A developer’s guide to agentic engineering",
-      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-11-06T22:15:59Z",
+      "source": "OpenAI News",
+      "published_at": "2026-11-17T17:45:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "OpenAI",
+        "Model"
       ],
-      "keywords": "Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... Beyond code generation: A developer’s guide to agentic engineering Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve... GitHub Dev Platform",
-      "title_original": "Beyond code generation: A developer’s guide to agentic engineering",
-      "summary_original": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A deve...",
-      "published_display": "2026-11-06",
-      "id": "b0114ad7a795"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Inside GitHub’s new Git storage architecture",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-11-05T20:23:21Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . Inside GitHub’s new Git storage architecture GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "Inside GitHub’s new Git storage architecture",
-      "summary_original": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .",
-      "published_display": "2026-11-05",
-      "id": "7a29d545e879"
+      "keywords": "Introducing GPT-6.2 Astra and Sol Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. Introducing GPT-6.2 Astra and Sol Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. AI OpenAI Model",
+      "title_original": "Introducing GPT-6.2 Astra and Sol",
+      "summary_original": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "published_display": "2026-11-17",
+      "id": "84bc7fbd575d"
     },
     {
       "category": "ai",
@@ -150,6 +170,26 @@
       "summary_original": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
       "published_display": "2026-11-17",
       "id": "e3c063ba362b"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-17T08:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Introducing ChatGPT for Sales Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward. Introducing ChatGPT for Sales Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward. AI OpenAI Model",
+      "title_original": "Introducing ChatGPT for Sales",
+      "summary_original": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "published_display": "2026-11-17",
+      "id": "f59ff76fd99e"
     },
     {
       "category": "ai",
@@ -194,62 +234,22 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Broadening access to AI for scientists",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2",
       "image_url": null,
       "source": "OpenAI News",
-      "published_at": "2026-11-16T17:00:00Z",
+      "published_at": "2026-11-17T00:00:00Z",
       "tags": [
         "AI",
         "OpenAI",
         "Model"
       ],
-      "keywords": "Broadening access to AI for scientists We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models. Broadening access to AI for scientists We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models. AI OpenAI Model",
-      "title_original": "Broadening access to AI for scientists",
-      "summary_original": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "published_display": "2026-11-16",
-      "id": "53fd25d97297"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-16T17:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Strengthening the fight against online child sexual abuse with new tools and support New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse. Strengthening the fight against online child sexual abuse with new tools and support New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse. AI OpenAI Model",
-      "title_original": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary_original": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "published_display": "2026-11-16",
-      "id": "a8d0e450ecc7"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-16T14:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "New Ask Maps features to help with holiday travel and prep Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features. New Ask Maps features to help with holiday travel and prep Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features. AI Product Google",
-      "title_original": "New Ask Maps features to help with holiday travel and prep",
-      "summary_original": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-      "published_display": "2026-11-16",
-      "id": "2bfe28bc421c"
+      "keywords": "Astra for Law leads in legal intelligence Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access. Astra for Law leads in legal intelligence Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access. AI OpenAI Model",
+      "title_original": "Astra for Law leads in legal intelligence",
+      "summary_original": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "published_display": "2026-11-17",
+      "id": "ddc3c0566134"
     },
     {
       "category": "robotik",
@@ -294,22 +294,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - Egypt Independent",
-      "summary": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems Egypt Independent",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQjRQb3B4d0IyVzktcE1fMU5qeWNrNlFnS3MzNjZ2UjItZkRwdEthbmpUcDc0S2VGaERROXNuejRSTzJrNXVSYkpPWUktV0dtUHFwT2I0MWktaXFSYmp5RzRyR3RMdlMwMnVId0dUTGo0ZDZrZ09vdko4MERJekx1MWVNNF9tVld3Yk43T2pqOXhaVVZSbmg4SmpOMDUzNVN1T2lWNXNuVzE1a3FOUi1jcWhmTUNjSm5ZLWpKRWlQVmkxXzB0U2c?oc=5",
+      "title": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - الهيئة العامة للاستعلامات",
+      "summary": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZVJ5bXM0cngwWlVkZzJDejZtYWNzLVN4NG5hamZweWhZNncwUGVteVJlNUJfZHNmQ29hY2RQdXB5Wi1fcUxxeWdDWWMzWFdNbHN4R2xjc3lzNVV2YmJvdkxiSjY3ekhuaHJ6NjZDSWJDSm1zZE9XQXlUd2oxdGNrbk1McTZOWThIOTVSZVg0MG9QakpvMG5VYUxBTHhMTTVpWGtvZUN3WXZEUHc5Tnk4OTNZUV94NDZpa0JSM0o4V0FuYktFOW13cmZkbWNrRDg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-11-16T11:14:34Z",
+      "published_at": "2026-11-15T15:59:26Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - Egypt Independent Industry Minister inspects 5 factories specializing in industrial robotics, automation systems Egypt Independent Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - Egypt Independent Industry Minister inspects 5 factories specializing in industrial robotics, automation systems Egypt Independent Robotics Automation Industry",
-      "title_original": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - Egypt Independent",
-      "summary_original": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems Egypt Independent",
-      "published_display": "2026-11-16",
-      "id": "6f98094d81b5"
+      "keywords": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - الهيئة العامة للاستعلامات Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - الهيئة العامة للاستعلامات Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات Robotics Automation Industry",
+      "title_original": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - الهيئة العامة للاستعلامات",
+      "summary_original": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات",
+      "published_display": "2026-11-15",
+      "id": "a7a4a9bfbaab"
     },
     {
       "category": "robotik",
@@ -350,6 +350,26 @@
       "summary_original": "Warehouse Automation Market Share, Size, Trend, 2034 Fortune Business Insights",
       "published_display": "2026-10-26",
       "id": "d3aaf8eb2a5c"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation",
+      "summary": "What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGRhb0VMcTREaWlyWThHOGUxdkNUcWlQYV9xQUpuOUpqbS1aTWR1ZU9JM0RfSjc0TjI4aVBMdi1IMm55M0NFV01jUGhybFkxblg3R0xZbGZTaEk5aW5IUjdwY3NGZVhCdmRTc0l2RURSdkN3ZXBRRjdzczJYckVVekNOV3otenVsMEpqUEp3Yw?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-10-15T07:00:00Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "What's Ahead for the Industrial Automation Market - A3 Association for Advancing Automation",
+      "summary_original": "What's Ahead for the Industrial Automation Market A3 Association for Advancing Automation",
+      "published_display": "2026-10-15",
+      "id": "83b32abad597"
     },
     {
       "category": "web",
@@ -474,6 +494,26 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJ9YQG0JNP2HSE7YEGCHJB.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-11-17T20:24:27Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "Quad9’s withdrawal from France: A canary in the coal mine Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet. Quad9’s withdrawal from France: A canary in the coal mine Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet. Cloudflare Security Web",
+      "title_original": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "summary_original": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+      "published_display": "2026-11-17",
+      "id": "70291ff952c5"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "Siemens meta-iot2050",
       "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
@@ -570,26 +610,6 @@
       "summary_original": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the sec...",
       "published_display": "2026-11-17",
       "id": "71133f3fcc9a"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Siemens ROS#",
-      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siem...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-11-17T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Siemens ROS# View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siem... Siemens ROS# View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siem... CISA Advisory Threat",
-      "title_original": "Siemens ROS#",
-      "summary_original": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siem...",
-      "published_display": "2026-11-17",
-      "id": "caaa6b6f03f2"
     },
     {
       "category": "kamera",
