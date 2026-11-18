@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-11-17T20:24:27Z",
-  "total_posts": 33,
+  "total_posts": 34,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 3
+    "kamera": 4
   },
   "posts": [
     {
@@ -95,7 +95,7 @@
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
       "title": "Git security vulnerabilities announced",
-      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear...",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o...",
       "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,9 +105,9 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear... Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear... GitHub Dev Platform",
+      "keywords": "Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o... Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o... GitHub Dev Platform",
       "title_original": "Git security vulnerabilities announced",
-      "summary_original": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appear...",
+      "summary_original": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o...",
       "published_display": "2026-11-10",
       "id": "ec1b32443e39"
     },
@@ -254,6 +254,26 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
+      "title": "Conference report: Construction industry on the verge of a robotics revolution - Robotics & Automation News",
+      "summary": "Conference report: Construction industry on the verge of a robotics revolution Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLXpDcXlFVFBJVEJhbERQSFZXcEZvYng1eEVXLWR0Ry1ITzZKeTZiRHRNam43UlNJbzY3UUJiS0tObGtOTWp3RnI2NEVUcGpjNU5yZ3BKLVNUMzdEc2tNUnlEUl8wdnNuTlVZcDRfeDlCeGo5a0dYVHFZUFJleEZ2RkxXY0txNGMxLXJ3ZnZVTlBPdHNCN0tNQjhrRjRkNnlWYTlhSUVhYWFyeloyLU1vX01uQkQxZmJkTnBGNkpmVVBOQXo5dlduYy1lVlBLQzQ?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-11-17T18:57:38Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Conference report: Construction industry on the verge of a robotics revolution - Robotics & Automation News Conference report: Construction industry on the verge of a robotics revolution Robotics & Automation News Conference report: Construction industry on the verge of a robotics revolution - Robotics & Automation News Conference report: Construction industry on the verge of a robotics revolution Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Conference report: Construction industry on the verge of a robotics revolution - Robotics & Automation News",
+      "summary_original": "Conference report: Construction industry on the verge of a robotics revolution Robotics & Automation News",
+      "published_display": "2026-11-17",
+      "id": "b737cd5c9bfa"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
       "title": "India's industry groups push PLIs for battery components robotics automation - NewsBytes",
       "summary": "India's industry groups push PLIs for battery components robotics automation NewsBytes",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTRfZEVrV29rVnlLWEdKOUM0cWtpaFNUdE1nS2YzNFZYRjFkdXlneDNGSXdsUHdJckVwVUQ1Uk1IMndhS0F0SXFxM0ljZEpLaTdQancyLVlFNEVVT3NEcFlrNVZ5bnpYMWEzN0ZjQWdiMTNjMmU1S0NpYlhHZk1TekIyRzdScXIzbkItN1FVM2UxVDRYckNwSXZaeE9ra0dVMWl5aW5qRWQwX3pvZmpaQXRxRnNCV3I2MFlCenBiakU?oc=5",
@@ -274,42 +294,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "SPIE Nederland strengthens its position in industrial automation and robotics with the acquisition of Duflex B.V - The Manila Times",
-      "summary": "SPIE Nederland strengthens its position in industrial automation and robotics with the acquisition of Duflex B.V The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNREE1X09UbE1TVVAwV3hOcDM4aEg5RXN3QWttUFJYeFJwRXRFdkZEbi1vaXNjOS0yVWVoUXFXbFR1QWhXd25fZ1J5SVM1bFZ6VVNNNTd6dXozZVV4WkNQTUdTY3ZQWWxSbjhSUktnamljanN4YVhCTlNBLUZNT1RDRkdNTU1DaTBlRjd4Mm4yYU1qcW90YkRoaFhYYmc1NS1hWENYNExtN3VrMlVZWGxzelU0SFAxYWJpX0puM0N6R0xheng2dTNMMzlVQVJVRDZ1YUhIQllYZWNqMmtVOWQwQUc4VmNfN1FMTUU0VVRuVUlwQTJGSUd1eURzdkRUYmJIM1MxOWtfU1pNY3UwdEkzREFFb9IBmAJBVV95cUxNS2lfQVQ5TjgyZUJabERXNjFYQ0Q1TXdNX1hzQ3drTVpOWXo1QkE3WW1mZDl0VTJybGIwSTB0cEdfTXVNUl9PS3hLV1BZUjhJZUtsX2JFRGJQS1JVSDlGNmxlazBfSGxxYVktMWdSREItRVd0NXVNWEh6MnJkYzZUX19vZmh5aVFSQUZpNExzbjBic0xwd3ZTenRaQjBTNGpmMVRzaERqY0FvZkdYS3hDazgwcUk1OFhGNlJiRXBSU2tYTGFUM3Y2eDE5cW1rRy1EQU8xcWJUUXdxS3ZOUkw4dlRHbnUzbVY0dWdKME5pekVkcW43U05aR1dXTHJuWDlOUW5sN2FHVFpGUzlfQTBKbHJVUGo5SUFO?oc=5",
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZml6aDZlQ0U5MXN1cl8wREhIQnp2QXd5dVJlclY3WnJOYlBORjBicVVieEl2NTU3bzNTTEpSd0lfZ1pmWU5HNEZjeGl0SDdEQzdmM2ZJalhIRUE1SVhBME9oa1VLV0ZqNUJkYUtKRUYtOU52VHdiNWlmSmJBNEswc2I3cS1RRlpzYUJHUDNEQlBQQmFmTmxPbU51VDJaZ2F5TUJVVjdVVEYtblFyZ1Q4NnMydm5UWFJjSlk2OWg5MlVJVHA3QXBKdkloNA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-11-16T17:09:53Z",
+      "published_at": "2026-11-11T18:15:14Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "SPIE Nederland strengthens its position in industrial automation and robotics with the acquisition of Duflex B.V - The Manila Times SPIE Nederland strengthens its position in industrial automation and robotics with the acquisition of Duflex B.V The Manila Times SPIE Nederland strengthens its position in industrial automation and robotics with the acquisition of Duflex B.V - The Manila Times SPIE Nederland strengthens its position in industrial automation and robotics with the acquisition of Duflex B.V The Manila Times Robotics Automation Industry",
-      "title_original": "SPIE Nederland strengthens its position in industrial automation and robotics with the acquisition of Duflex B.V - The Manila Times",
-      "summary_original": "SPIE Nederland strengthens its position in industrial automation and robotics with the acquisition of Duflex B.V The Manila Times",
-      "published_display": "2026-11-16",
-      "id": "49d81cecd7f9"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - الهيئة العامة للاستعلامات",
-      "summary": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZVJ5bXM0cngwWlVkZzJDejZtYWNzLVN4NG5hamZweWhZNncwUGVteVJlNUJfZHNmQ29hY2RQdXB5Wi1fcUxxeWdDWWMzWFdNbHN4R2xjc3lzNVV2YmJvdkxiSjY3ekhuaHJ6NjZDSWJDSm1zZE9XQXlUd2oxdGNrbk1McTZOWThIOTVSZVg0MG9QakpvMG5VYUxBTHhMTTVpWGtvZUN3WXZEUHc5Tnk4OTNZUV94NDZpa0JSM0o4V0FuYktFOW13cmZkbWNrRDg?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-11-15T15:59:26Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - الهيئة العامة للاستعلامات Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - الهيئة العامة للاستعلامات Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات Robotics Automation Industry",
-      "title_original": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems - الهيئة العامة للاستعلامات",
-      "summary_original": "Industry Minister inspects 5 factories specializing in industrial robotics, automation systems الهيئة العامة للاستعلامات",
-      "published_display": "2026-11-15",
-      "id": "a7a4a9bfbaab"
+      "keywords": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
+      "published_display": "2026-11-11",
+      "id": "224762be8fdb"
     },
     {
       "category": "robotik",
@@ -610,6 +610,26 @@
       "summary_original": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the sec...",
       "published_display": "2026-11-17",
       "id": "71133f3fcc9a"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
+      "summary": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGdkejRkcDNGMzlSV3M5UWFCZGdMUE13Y0JtV1ZER3U1dGVEOUJ6TDlxN1VDaGg0U0l4S0JPYldwbFNoT0lCc25CMUMtcUxoUTJrUDRlTUJaX05zT2pyRzQ2YVpUVG11MUpITnN5T0ZfX0w5bmlXMmRDODZ2YUpYTA?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-11-15T08:06:02Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
+      "summary_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
+      "published_display": "2026-11-15",
+      "id": "b5138c167bef"
     },
     {
       "category": "kamera",
