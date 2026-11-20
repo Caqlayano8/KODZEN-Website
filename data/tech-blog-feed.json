@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-19T20:32:42Z",
+  "updated_at": "2026-11-20T01:58:29Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -214,42 +214,42 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Gemini uygulaması artık düşük belleğe sahip Android cihazlarda kullanılabilir.",
-      "summary": "Google Gemini uygulaması artık düşük belleğe sahip Android cihazlarını destekliyor. Telefonunuzdan Gemini Live'a ve özel görsel oluşturmaya erişin. Uygulamayı bugün indirin.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-18T17:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Gemini uygulaması artık düşük belleğe sahip Android cihazlarda kullanılabilir. Google Gemini uygulaması artık düşük belleğe sahip Android cihazlarını destekliyor. Telefonunuzdan Gemini Live'a ve özel görsel oluşturmaya erişin. Uygulamayı bugün indirin. The Gemini app is now available on lower-memory Android devices. The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today. AI Product Google",
-      "title_original": "The Gemini app is now available on lower-memory Android devices.",
-      "summary_original": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "published_display": "2026-11-18",
-      "id": "512665038436"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Sessiz Uzlaşma",
-      "summary": "OpenAI Stratejik Gelecekler Başkanı Dean Ball, yapay zekanın toplumu nasıl daha fazla şekillendirebileceğini ve insanların kurumlarının kontrolünü nasıl elinde tutabileceğini inceliyor.",
-      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "PR taramalarını çalışırken görün",
+      "summary": "Halkla ilişkiler taramalarının adım adım açıklamalı anlatımını izleyin ve sunucunun çekme isteği iş akışında tarama sonuçlarını nasıl incelediğini görün.",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
       "image_url": null,
       "source": "OpenAI News",
-      "published_at": "2026-11-18T10:00:00Z",
+      "published_at": "2026-11-19T00:00:00Z",
       "tags": [
         "AI",
         "OpenAI",
         "Model"
       ],
-      "keywords": "Sessiz Uzlaşma OpenAI Stratejik Gelecekler Başkanı Dean Ball, yapay zekanın toplumu nasıl daha fazla şekillendirebileceğini ve insanların kurumlarının kontrolünü nasıl elinde tutabileceğini inceliyor. The Silent Consensus Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions. AI OpenAI Model",
-      "title_original": "The Silent Consensus",
-      "summary_original": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "published_display": "2026-11-18",
-      "id": "77a7c6c5f8fb"
+      "keywords": "PR taramalarını çalışırken görün Halkla ilişkiler taramalarının adım adım açıklamalı anlatımını izleyin ve sunucunun çekme isteği iş akışında tarama sonuçlarını nasıl incelediğini görün. See PR scans in action Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow. AI OpenAI Model",
+      "title_original": "See PR scans in action",
+      "summary_original": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "published_display": "2026-11-19",
+      "id": "946124940f7e"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Daybreak Blue'yu kullanmaya başlayın",
+      "summary": "Kurulum deneyimine ve nasıl başlayacağınıza daha yakından bakarak Daybreak Blue'ya katılım sürecini izleyin.",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-19T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Daybreak Blue'yu kullanmaya başlayın Kurulum deneyimine ve nasıl başlayacağınıza daha yakından bakarak Daybreak Blue'ya katılım sürecini izleyin. Get started with Daybreak Blue Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started. AI OpenAI Model",
+      "title_original": "Get started with Daybreak Blue",
+      "summary_original": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "published_display": "2026-11-19",
+      "id": "8e85bad23a1f"
     },
     {
       "category": "robotik",
@@ -494,6 +494,26 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "nginx2root: Beş yeni nginx güvenlik açığı ve Cloudflare'in kökenleri en kötülerinden nasıl koruduğu",
+      "summary": "Nginx'teki nginx2root adı verilen beş bellek bozulması hatası, kimliği doğrulanmamış bir saldırganın sunucuda kod çalıştırmasına izin verebilir. İşte nasıl çalıştıkları ve Cloudflare proxy'sinin arkasındaki kökenlerin neden bu hataların en ciddilerinden korunduğu.",
+      "url": "https://blog.cloudflare.com/nginx2root/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7V6N9XSHCT1GMC5KHVYE692.01M7V6NAA3FDH1YV1552W4P5P7.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-11-20T01:58:29Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "nginx2root: Beş yeni nginx güvenlik açığı ve Cloudflare'in kökenleri en kötülerinden nasıl koruduğu Nginx'teki nginx2root adı verilen beş bellek bozulması hatası, kimliği doğrulanmamış bir saldırganın sunucuda kod çalıştırmasına izin verebilir. İşte nasıl çalıştıkları ve Cloudflare proxy'sinin arkasındaki kökenlerin neden bu hataların en ciddilerinden korunduğu. nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs. Cloudflare Security Web",
+      "title_original": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "summary_original": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
+      "published_display": "2026-11-20",
+      "id": "5f3bb43e5792"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "2026 ABD ara seçimleri sırasında internet trafiği ve saldırılar",
       "summary": "3 Kasım 2026'da ABD seçmenleri sandık başına gitti. İşte 1.400'den fazla korunan sitedeki Cloudflare verilerinin bize Seçim Günü İnternet trafiği ve siber saldırılar hakkında söyledikleri.",
       "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
@@ -590,26 +610,6 @@
       "summary_original": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runt...",
       "published_display": "2026-11-18",
       "id": "b5ebad533195"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA, Kataloğa Bilinen Dört İstismara Uğrayan Güvenlik Açığı Ekliyor",
-      "summary": "CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna dört yeni güvenlik açığı ekledi. CVE-2024-10441 Synology DiskStation Manager (DSM) Uygunsuz Kodlama veya Çıkış Güvenlik Açığından Kaçış...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-11-18T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA, Kataloğa Bilinen Dört İstismara Uğrayan Güvenlik Açığı Ekliyor CISA, aktif istismar kanıtlarına dayanarak Bilinen Suistimal Edilen Güvenlik Açıkları (KEV) Kataloğuna dört yeni güvenlik açığı ekledi. CVE-2024-10441 Synology DiskStation Manager (DSM) Uygunsuz Kodlama veya Çıkış Güvenlik Açığından Kaçış... CISA Adds Four Known Exploited Vulnerabilities to Catalog CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerabil... CISA Advisory Threat",
-      "title_original": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "summary_original": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerabil...",
-      "published_display": "2026-11-18",
-      "id": "af41577c5404"
     },
     {
       "category": "kamera",
