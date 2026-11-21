@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T01:58:29Z",
+  "updated_at": "2026-11-20T23:30:30Z",
   "total_posts": 33,
   "category_counts": {
     "yazilim": 6,
@@ -14,8 +14,8 @@
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Açık kaynaktaki en iyi şeyler birlikte oluşturulmuştur",
-      "summary": "İşbirliği ve katılım için yeni açık kaynak projeleri olan Replica ve Açık Kaynak Erişilebilirlik Çerçevesi ile tanışın. Açık kaynaktaki en iyi şeyler bir araya getirildi yazısı ilk olarak GitHub Blogunda çıktı.",
+      "title": "The best things in open source are built together",
+      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
       "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -25,17 +25,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Açık kaynaktaki en iyi şeyler birlikte oluşturulmuştur İşbirliği ve katılım için yeni açık kaynak projeleri olan Replica ve Açık Kaynak Erişilebilirlik Çerçevesi ile tanışın. Açık kaynaktaki en iyi şeyler bir araya getirildi yazısı ilk olarak GitHub Blogunda çıktı. The best things in open source are built together Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "The best things in open source are built together Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog . The best things in open source are built together Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "The best things in open source are built together",
       "summary_original": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
       "published_display": "2026-11-19",
-      "id": "e9b1e4c2372a"
+      "id": "b59c43bf5c80"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Bakımcıların daha fazla AI hata raporuna ihtiyacı yok. Düzeltmelere ihtiyaçları var.",
-      "summary": "Codename MDASH pilot programında GitHub ve Microsoft, binlerce ham yapay zeka bulgusunu, yaygın olarak kullanılan altı açık kaynaklı proje için önerilen düzeltmelerle birlikte 99 adet kontrol edilmiş, özel rapora dönüştürdü. Bakımcılar zaten yarıdan fazlasını düzeltti. Gönderi...",
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post...",
       "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -45,17 +45,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Bakımcıların daha fazla AI hata raporuna ihtiyacı yok. Düzeltmelere ihtiyaçları var. Codename MDASH pilot programında GitHub ve Microsoft, binlerce ham yapay zeka bulgusunu, yaygın olarak kullanılan altı açık kaynaklı proje için önerilen düzeltmelerle birlikte 99 adet kontrol edilmiş, özel rapora dönüştürdü. Bakımcılar zaten yarıdan fazlasını düzeltti. Gönderi... Maintainers don’t need more AI bug reports. They need fixes. In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post... GitHub Dev Platform",
+      "keywords": "Maintainers don’t need more AI bug reports. They need fixes. In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post... Maintainers don’t need more AI bug reports. They need fixes. In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post... GitHub Dev Platform",
       "title_original": "Maintainers don’t need more AI bug reports. They need fixes.",
       "summary_original": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post...",
       "published_display": "2026-11-17",
-      "id": "6cdce1de4ebe"
+      "id": "c2dad342cee7"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Cihazlar arasında devam eden oturumlar için Ajan Ana Bilgisayar Protokolünü oluşturma",
-      "summary": "Temsilci oturumlarınızın düzenleyiciler, uygulamalar, telefonlar ve bulut üzerinden erişilebilir olmasını sağlamak için açık Ajan Ana Bilgisayar Protokolünü nasıl oluşturduğumuzu keşfedin. Cihazlar arasında devam eden oturumlar için Ajan Ana Bilgisayar Protokolünü Oluşturma yazısı ilk olarak şu tarihte çıktı:",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on...",
       "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -65,17 +65,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Cihazlar arasında devam eden oturumlar için Ajan Ana Bilgisayar Protokolünü oluşturma Temsilci oturumlarınızın düzenleyiciler, uygulamalar, telefonlar ve bulut üzerinden erişilebilir olmasını sağlamak için açık Ajan Ana Bilgisayar Protokolünü nasıl oluşturduğumuzu keşfedin. Cihazlar arasında devam eden oturumlar için Ajan Ana Bilgisayar Protokolünü Oluşturma yazısı ilk olarak şu tarihte çıktı: Building the Agent Host Protocol for sessions that continue across devices Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on... GitHub Dev Platform",
+      "keywords": "Building the Agent Host Protocol for sessions that continue across devices Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on... Building the Agent Host Protocol for sessions that continue across devices Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on... GitHub Dev Platform",
       "title_original": "Building the Agent Host Protocol for sessions that continue across devices",
       "summary_original": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on...",
       "published_display": "2026-11-17",
-      "id": "0ea8fc97429b"
+      "id": "cf0bc5e068cd"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "GitHub kullanılabilirlik raporu: Ekim 2026",
-      "summary": "Ekim ayında GitHub hizmetlerinde performansın düşmesine neden olan sekiz olay yaşadık. GitHub kullanılabilirlik raporu: Ekim 2026 ilk olarak The GitHub Blog'da yayınlandı.",
+      "title": "GitHub availability report: October 2026",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
       "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -85,17 +85,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "GitHub kullanılabilirlik raporu: Ekim 2026 Ekim ayında GitHub hizmetlerinde performansın düşmesine neden olan sekiz olay yaşadık. GitHub kullanılabilirlik raporu: Ekim 2026 ilk olarak The GitHub Blog'da yayınlandı. GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
+      "keywords": "GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog . GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
       "title_original": "GitHub availability report: October 2026",
       "summary_original": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
       "published_display": "2026-11-13",
-      "id": "54d0a0bce8b0"
+      "id": "8adf7a08da8a"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Bir kez oluşturun, istediğiniz aracıda çalıştırın: Temsilci becerilerine yönelik pratik bir rehber",
-      "summary": "Aracı becerileri, ekiplerin inceleyip yeniden kullanabileceği dosyalardaki tekrarlanabilir mühendislik çalışmalarını yakalar; araçlar, proje içeriği ve izinler ise bunları çalıştıran ana bilgisayara özel kalır. Gönderi Bir kez oluşturun, herhangi bir aracıda çalıştırın: Pratik bir rehber...",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a...",
       "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -105,17 +105,17 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Bir kez oluşturun, istediğiniz aracıda çalıştırın: Temsilci becerilerine yönelik pratik bir rehber Aracı becerileri, ekiplerin inceleyip yeniden kullanabileceği dosyalardaki tekrarlanabilir mühendislik çalışmalarını yakalar; araçlar, proje içeriği ve izinler ise bunları çalıştıran ana bilgisayara özel kalır. Gönderi Bir kez oluşturun, herhangi bir aracıda çalıştırın: Pratik bir rehber... Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a... GitHub Dev Platform",
+      "keywords": "Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a... Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a... GitHub Dev Platform",
       "title_original": "Build once, run on any agent: A practical guide to agent skills",
       "summary_original": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a...",
       "published_display": "2026-11-12",
-      "id": "2c4342f284b7"
+      "id": "7c5a3396408c"
     },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
-      "title": "Git'teki güvenlik açıkları açıklandı",
-      "summary": "Git, klonları, referans işlemeyi, birleştirmeleri, ikili yamaları ve içe aktarmaları etkileyen altı güvenlik açığını gideren güncellemeler yayınlıyor. İşte kullanıcıların bilmesi gerekenler. Git güvenlik açıklarının duyurulduğu gönderi ilk olarak ortaya çıktı.",
+      "title": "Git security vulnerabilities announced",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o...",
       "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "image_url": null,
       "source": "GitHub Blog",
@@ -125,17 +125,97 @@
         "Dev",
         "Platform"
       ],
-      "keywords": "Git'teki güvenlik açıkları açıklandı Git, klonları, referans işlemeyi, birleştirmeleri, ikili yamaları ve içe aktarmaları etkileyen altı güvenlik açığını gideren güncellemeler yayınlıyor. İşte kullanıcıların bilmesi gerekenler. Git güvenlik açıklarının duyurulduğu gönderi ilk olarak ortaya çıktı. Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o... GitHub Dev Platform",
+      "keywords": "Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o... Git security vulnerabilities announced Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o... GitHub Dev Platform",
       "title_original": "Git security vulnerabilities announced",
       "summary_original": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first o...",
       "published_display": "2026-11-10",
-      "id": "05c7ada405a9"
+      "id": "ec1b32443e39"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Kuantum bilgisayarınız olmadığı sürece kazanamayacağınız bir oyun",
-      "summary": "Kuantum",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "summary": "Generative AI",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-11-20T23:30:30Z",
+      "tags": [
+        "AI",
+        "Research",
+        "Google"
+      ],
+      "keywords": "How Google Duplex evolved to also call businesses for you in Gemini Generative AI How Google Duplex evolved to also call businesses for you in Gemini Generative AI AI Research Google",
+      "title_original": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "summary_original": "Generative AI",
+      "published_display": "2026-11-20",
+      "id": "6f976288183e"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Combatting adversarial distillation",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-20T10:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Combatting adversarial distillation OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction. Combatting adversarial distillation OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction. AI OpenAI Model",
+      "title_original": "Combatting adversarial distillation",
+      "summary_original": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "published_display": "2026-11-20",
+      "id": "a1d9aee9b856"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-20T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Can AI help scientists identify promising drug candidates? MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery. Can AI help scientists identify promising drug candidates? MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery. AI OpenAI Model",
+      "title_original": "Can AI help scientists identify promising drug candidates?",
+      "summary_original": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "published_display": "2026-11-20",
+      "id": "773d68c00620"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-20T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "Hebbia sees improvements in financial research with GPT-6 Astra Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality. Hebbia sees improvements in financial research with GPT-6 Astra Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality. AI OpenAI Model",
+      "title_original": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary_original": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "published_display": "2026-11-20",
+      "id": "5123f364be23"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "A game you cannot win unless you have a quantum computer",
+      "summary": "Quantum",
       "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/QuantumContextuality1-MagicSquareGame.png",
       "source": "Google Research Blog",
@@ -145,17 +225,17 @@
         "Research",
         "Google"
       ],
-      "keywords": "Kuantum bilgisayarınız olmadığı sürece kazanamayacağınız bir oyun Kuantum A game you cannot win unless you have a quantum computer Quantum AI Research Google",
+      "keywords": "A game you cannot win unless you have a quantum computer Quantum A game you cannot win unless you have a quantum computer Quantum AI Research Google",
       "title_original": "A game you cannot win unless you have a quantum computer",
       "summary_original": "Quantum",
       "published_display": "2026-11-19",
-      "id": "997032237db8"
+      "id": "94aca90b3f1b"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Gemini API'sinde Araç Almayla Tanışın",
-      "summary": "Artık Gemini API'sinde önizlemede sunulan Araç Alma özelliğiyle temsilcilerinizin daha az belirteç kullanarak yüzlerce araca erişmesini sağlayın.",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
       "source": "Google AI Blog",
@@ -165,97 +245,17 @@
         "Product",
         "Google"
       ],
-      "keywords": "Gemini API'sinde Araç Almayla Tanışın Artık Gemini API'sinde önizlemede sunulan Araç Alma özelliğiyle temsilcilerinizin daha az belirteç kullanarak yüzlerce araca erişmesini sağlayın. Introducing Tool Retrieval in the Gemini API Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. AI Product Google",
+      "keywords": "Introducing Tool Retrieval in the Gemini API Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. Introducing Tool Retrieval in the Gemini API Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. AI Product Google",
       "title_original": "Introducing Tool Retrieval in the Gemini API",
       "summary_original": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
       "published_display": "2026-11-19",
-      "id": "7bdfbfd3986a"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Walter Isaacson yapay zeka çağında merak ve yaratıcılık üzerine.",
-      "summary": "Walter Isaacson, tarihin en büyük yenilikçilerinin yapay zeka çağında yaratıcılığa ve insan muhakemesine nasıl ilham verdiğini tartışmak için Google'a katılıyor. Bölümü izleyin.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-19T17:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "Walter Isaacson yapay zeka çağında merak ve yaratıcılık üzerine. Walter Isaacson, tarihin en büyük yenilikçilerinin yapay zeka çağında yaratıcılığa ve insan muhakemesine nasıl ilham verdiğini tartışmak için Google'a katılıyor. Bölümü izleyin. Walter Isaacson on curiosity and creativity in the AI age. Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode. AI Product Google",
-      "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "summary_original": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "published_display": "2026-11-19",
-      "id": "50024e817a66"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "OpenAI'nin Performans Fabrikası ChatGPT'yi nasıl hızlı tutuyor?",
-      "summary": "OpenAI'nin, ChatGPT'yi hızlı tutmaya yardımcı olmak için performans sorunlarını bulup düzelten Codex destekli iş akışlarından oluşan bir sistem olan Performans Fabrikasını nasıl oluşturduğunu öğrenin.",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-19T08:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "OpenAI'nin Performans Fabrikası ChatGPT'yi nasıl hızlı tutuyor? OpenAI'nin, ChatGPT'yi hızlı tutmaya yardımcı olmak için performans sorunlarını bulup düzelten Codex destekli iş akışlarından oluşan bir sistem olan Performans Fabrikasını nasıl oluşturduğunu öğrenin. How OpenAI’s Performance Factory keeps ChatGPT fast Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast. AI OpenAI Model",
-      "title_original": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary_original": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "published_display": "2026-11-19",
-      "id": "212cf420f844"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "PR taramalarını çalışırken görün",
-      "summary": "Halkla İlişkiler taramalarının adım adım açıklamalı anlatımını izleyin ve sunucunun çekme isteği iş akışında tarama sonuçlarını nasıl incelediğini görün.",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-19T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "PR taramalarını çalışırken görün Halkla İlişkiler taramalarının adım adım açıklamalı anlatımını izleyin ve sunucunun çekme isteği iş akışında tarama sonuçlarını nasıl incelediğini görün. See PR scans in action Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow. AI OpenAI Model",
-      "title_original": "See PR scans in action",
-      "summary_original": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "published_display": "2026-11-19",
-      "id": "946124940f7e"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Daybreak Blue'yu kullanmaya başlayın",
-      "summary": "Kurulum deneyimine ve nasıl başlayacağınıza daha yakından bakarak Daybreak Blue'ya katılım sürecini izleyin.",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-19T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "Daybreak Blue'yu kullanmaya başlayın Kurulum deneyimine ve nasıl başlayacağınıza daha yakından bakarak Daybreak Blue'ya katılım sürecini izleyin. Get started with Daybreak Blue Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started. AI OpenAI Model",
-      "title_original": "Get started with Daybreak Blue",
-      "summary_original": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "published_display": "2026-11-19",
-      "id": "8e85bad23a1f"
+      "id": "45c4e9b129a9"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Endüstriyel otomasyon: '27 dosyasında büyüme ve belirsizlik - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Endüstriyel otomasyon: '27'de büyüme ve belirsizlik A3 Otomasyonu Geliştirme Derneği",
+      "title": "Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation",
+      "summary": "Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEoyV2Q0T1dteU9TaWlkaWJsMjFqd3ZuaXdGRnA4bXpxRUFyald6MnJoZkFPd3k0V3FrM2Y0QzFSNFNlRjZQUmZTQ3d6bC01bDh0S2RwRm45WmFPNmZRRkFlU3FQU3M1YXlmZTRQR1lkRkszMzRIRDI0SW1EdHBGRXFkX1BsbDIxajJpNGF3eXVsS2xYNEdudkN1WTJZaVpFMElGYWN2T3pCMkJu?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -265,17 +265,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstriyel otomasyon: '27 dosyasında büyüme ve belirsizlik - A3 Otomasyonu Geliştirme Derneği Endüstriyel otomasyon: '27'de büyüme ve belirsizlik A3 Otomasyonu Geliştirme Derneği Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation",
       "summary_original": "Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation",
       "published_display": "2026-11-19",
-      "id": "3a216a8d8038"
+      "id": "7094fce53cca"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "ABD'li şirketler işgücü kıtlığı krizini hafifletmek için robotlara yöneliyor - Financial Times",
-      "summary": "ABD'li şirketler işgücü kıtlığı krizini hafifletmek için robotlara yöneliyor Financial Times",
+      "title": "US companies turn to robots to ease labour shortage crisis - Financial Times",
+      "summary": "US companies turn to robots to ease labour shortage crisis Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWlYYW0zV1NQX1RndndLREcxeDlGZnY4cnFGTC1OMFJyQkwwZThLTXItOGlmM1pBSzdSeEJtOVd3blpCUHJGbmJmQmxwYTBhQ1lnOHR3eEVqT3NXd1gwaFA0Unh1NktHUG1mRUw1RjJXdWJMb2FSdExTSGFsem1KSHh5ejQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -285,17 +285,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "ABD'li şirketler işgücü kıtlığı krizini hafifletmek için robotlara yöneliyor - Financial Times ABD'li şirketler işgücü kıtlığı krizini hafifletmek için robotlara yöneliyor Financial Times US companies turn to robots to ease labour shortage crisis - Financial Times US companies turn to robots to ease labour shortage crisis Financial Times Robotics Automation Industry",
+      "keywords": "US companies turn to robots to ease labour shortage crisis - Financial Times US companies turn to robots to ease labour shortage crisis Financial Times US companies turn to robots to ease labour shortage crisis - Financial Times US companies turn to robots to ease labour shortage crisis Financial Times Robotics Automation Industry",
       "title_original": "US companies turn to robots to ease labour shortage crisis - Financial Times",
       "summary_original": "US companies turn to robots to ease labour shortage crisis Financial Times",
       "published_display": "2026-11-19",
-      "id": "90a7be392400"
+      "id": "9ee90ef5eaa6"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "RobCo araştırmasına göre halihazırda robot kullanan fabrikalar otomasyon konusunda daha iyimser - Robotics & Automation News",
-      "summary": "RobCo'nun Robotics & Automation News adlı araştırmasına göre halihazırda robot kullanan fabrikalar otomasyon konusunda daha iyimser",
+      "title": "Factories already using robots more optimistic about automation, finds RobCo study - Robotics & Automation News",
+      "summary": "Factories already using robots more optimistic about automation, finds RobCo study Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2p5LWh6bGJBczZTeExoYnNvQXhiMnY1TVBoUUM2T1U0bk40RWxOcWpvcktkTm1EdlpEb3FkNEFoa1VGZVFFSHZtQ08ycWNzS2ZTQkMtS3luTm5HdzhIejNER3JjaElBX0lYcXc2UVkwWEF2VmlLWFpjbVRjQ2RtbnV0Mm9GajhfZFFCbjJjRzR5TFJ5UVJ6eGZuOVhZMkwwc2RLS2dUQTFMYnZMa0pTS2RLbkZ0ckdlR0VXY050Vk1BaDZyZlpId1B0SkJNeGlsM3NaWg?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -305,17 +305,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "RobCo araştırmasına göre halihazırda robot kullanan fabrikalar otomasyon konusunda daha iyimser - Robotics & Automation News RobCo'nun Robotics & Automation News adlı araştırmasına göre halihazırda robot kullanan fabrikalar otomasyon konusunda daha iyimser Factories already using robots more optimistic about automation, finds RobCo study - Robotics & Automation News Factories already using robots more optimistic about automation, finds RobCo study Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Factories already using robots more optimistic about automation, finds RobCo study - Robotics & Automation News Factories already using robots more optimistic about automation, finds RobCo study Robotics & Automation News Factories already using robots more optimistic about automation, finds RobCo study - Robotics & Automation News Factories already using robots more optimistic about automation, finds RobCo study Robotics & Automation News Robotics Automation Industry",
       "title_original": "Factories already using robots more optimistic about automation, finds RobCo study - Robotics & Automation News",
       "summary_original": "Factories already using robots more optimistic about automation, finds RobCo study Robotics & Automation News",
       "published_display": "2026-11-18",
-      "id": "6cd72fe756f0"
+      "id": "95cca881c759"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği",
-      "summary": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği",
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "summary": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUo2LVUycjMzcmxfQUE1XzEyRXUxWF9rbThOcFJIUFItQ3RCU0Q4Tm9nVXNXUVVYOWh6Zy01UDZCcFR2VVpodGZGbWZSS3hxSlJLTl9lVC02NVVoeXg1anFxRnNQcEhwOE9IM3NmSWpPYjY3U1VTUnZVYnRVOU9YaUFiQW9VVllYT2RqRlBadHNFQ1piNzF5TFczcHVFcU9zN0JZZ2ZrM0hhLUdsUXA4eGswOTlhZTA?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -325,17 +325,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En Çok Finansmanı - A3 Otomasyonu Geliştirme Derneği Sektör İçgörüleri: Robotik, Otomasyon ve Fiziksel Yapay Zeka için Haftanın En İyi Finansmanı A3 Otomasyonu Geliştirme Derneği Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
+      "keywords": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation Robotics Automation Industry",
       "title_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-11-18",
-      "id": "7be47e0fda18"
+      "id": "7ae21c8f3303"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Konferans raporu: İnşaat sektörü robotik alanında bir atılım yapmaya hazırlanıyor - Robotics & Automation News",
-      "summary": "Konferans raporu: İnşaat sektörü robotik alanında bir çığır açmaya hazırlanıyor Robotik ve Otomasyon Haberleri",
+      "title": "Conference report: Construction industry poised for a robotics breakthrough - Robotics & Automation News",
+      "summary": "Conference report: Construction industry poised for a robotics breakthrough Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLXpDcXlFVFBJVEJhbERQSFZXcEZvYng1eEVXLWR0Ry1ITzZKeTZiRHRNam43UlNJbzY3UUJiS0tObGtOTWp3RnI2NEVUcGpjNU5yZ3BKLVNUMzdEc2tNUnlEUl8wdnNuTlVZcDRfeDlCeGo5a0dYVHFZUFJleEZ2RkxXY0txNGMxLXJ3ZnZVTlBPdHNCN0tNQjhrRjRkNnlWYTlhSUVhYWFyeloyLU1vX01uQkQxZmJkTnBGNkpmVVBOQXo5dlduYy1lVlBLQzQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -345,17 +345,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Konferans raporu: İnşaat sektörü robotik alanında bir atılım yapmaya hazırlanıyor - Robotics & Automation News Konferans raporu: İnşaat sektörü robotik alanında bir çığır açmaya hazırlanıyor Robotik ve Otomasyon Haberleri Conference report: Construction industry poised for a robotics breakthrough - Robotics & Automation News Conference report: Construction industry poised for a robotics breakthrough Robotics & Automation News Robotics Automation Industry",
+      "keywords": "Conference report: Construction industry poised for a robotics breakthrough - Robotics & Automation News Conference report: Construction industry poised for a robotics breakthrough Robotics & Automation News Conference report: Construction industry poised for a robotics breakthrough - Robotics & Automation News Conference report: Construction industry poised for a robotics breakthrough Robotics & Automation News Robotics Automation Industry",
       "title_original": "Conference report: Construction industry poised for a robotics breakthrough - Robotics & Automation News",
       "summary_original": "Conference report: Construction industry poised for a robotics breakthrough Robotics & Automation News",
       "published_display": "2026-11-17",
-      "id": "a04ee4a89cd2"
+      "id": "ca3ef15a09e3"
     },
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Endüstriyel Operatörler Neden Yapay Zekaya Dayalı Robotik İçin Açık Platform Ekosistemlerine İhtiyaç Duyuyor - Otomasyon Dünyası",
-      "summary": "Endüstriyel Operatörler Yapay Zeka Odaklı Robotik Otomasyon Dünyası İçin Neden Açık Platform Ekosistemlerine İhtiyaç Duyuyor?",
+      "title": "Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics - Automation World",
+      "summary": "Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics Automation World",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGdzcW9tUzhMakdpZ2tXNWlhV1dQbXZ6Q2FhUnJYUTdYYy1YTkdIM01lcE45alIyU2lFT0dtMk5CTHJWYmZIS3RVVVN4ZzlPNlUtWEVYZmlNVHJQTXdOalNKa2J5Nk9KZkJtMGZDRjcwLU1jU0g3QWNINHQzQjVlVWVyclI3WGFQR243UjNOMThkeTF6emZPUHZVWVRhNlI1M3Fua0ZhY2k1ZkRuZF81ZUhjUmQ0dDBPckJRaXRrc09iWVQzUW83TnY3b1oxQ01hc0FoUFl3TQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
@@ -365,17 +365,17 @@
         "Automation",
         "Industry"
       ],
-      "keywords": "Endüstriyel Operatörler Neden Yapay Zekaya Dayalı Robotik İçin Açık Platform Ekosistemlerine İhtiyaç Duyuyor - Otomasyon Dünyası Endüstriyel Operatörler Yapay Zeka Odaklı Robotik Otomasyon Dünyası İçin Neden Açık Platform Ekosistemlerine İhtiyaç Duyuyor? Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics - Automation World Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics Automation World Robotics Automation Industry",
+      "keywords": "Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics - Automation World Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics Automation World Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics - Automation World Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics Automation World Robotics Automation Industry",
       "title_original": "Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics - Automation World",
       "summary_original": "Why Industrial Operators Need Open Platform Ecosystems For AI-Driven Robotics Automation World",
       "published_display": "2026-11-17",
-      "id": "8fc0e2aec163"
+      "id": "33e5147f087f"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Eylül ayında web platformuna yeni",
-      "summary": "Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "title": "New to the web platform in September",
+      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -385,17 +385,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Eylül ayında web platformuna yeni Eylül 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
+      "keywords": "New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. New to the web platform in September Discover some of the interesting features that have landed in stable and beta web browsers during September 2026. Web Performance Frontend",
       "title_original": "New to the web platform in September",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during September 2026.",
       "published_display": "2026-10-02",
-      "id": "b39291f2c779"
+      "id": "408e82c9a4bc"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Ağustos 2026 Temel aylık özet",
-      "summary": "Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "title": "August 2026 Baseline monthly digest",
+      "summary": "Read about various happenings with Baseline during August 2026.",
       "url": "https://web.dev/blog/baseline-digest-aug-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -405,17 +405,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Ağustos 2026 Temel aylık özet Ağustos 2026'da Baseline ile ilgili çeşitli olayları okuyun. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
+      "keywords": "August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. August 2026 Baseline monthly digest Read about various happenings with Baseline during August 2026. Web Performance Frontend",
       "title_original": "August 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during August 2026.",
       "published_display": "2026-09-28",
-      "id": "1285588553ae"
+      "id": "e508abcdedaa"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Kodlama aracınızla Interop 2027 için desteklenecek özellikleri bulun",
-      "summary": "Olumlu oylanacak Interop 2027 tekliflerini veya önerilecek özellikleri bulmak için kodlama aracınızı nasıl kullanabileceğinizi öğrenin.",
+      "title": "Find features to support for Interop 2027 with your coding agent",
+      "summary": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
       "url": "https://web.dev/blog/coding-agents-interop-proposals?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -425,17 +425,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Kodlama aracınızla Interop 2027 için desteklenecek özellikleri bulun Olumlu oylanacak Interop 2027 tekliflerini veya önerilecek özellikleri bulmak için kodlama aracınızı nasıl kullanabileceğinizi öğrenin. Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Web Performance Frontend",
+      "keywords": "Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Find features to support for Interop 2027 with your coding agent Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose. Web Performance Frontend",
       "title_original": "Find features to support for Interop 2027 with your coding agent",
       "summary_original": "Learn how you can use your coding agent to find Interop 2027 proposals to upvote, or find features to propose.",
       "published_display": "2026-09-18",
-      "id": "b0fc1fea72f2"
+      "id": "25b3b04990ea"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Interop 2027 için tekliflerinizi gönderin",
-      "summary": "Hangi web platformu özelliklerinin Interop 2027'nin parçası olması gerektiğini bize bildirmenin zamanı geldi.",
+      "title": "Submit your proposals for Interop 2027",
+      "summary": "It's time to let us know which web platform features should be part of Interop 2027.",
       "url": "https://web.dev/blog/interop-2027-proposals?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -445,17 +445,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Interop 2027 için tekliflerinizi gönderin Hangi web platformu özelliklerinin Interop 2027'nin parçası olması gerektiğini bize bildirmenin zamanı geldi. Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Web Performance Frontend",
+      "keywords": "Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Submit your proposals for Interop 2027 It's time to let us know which web platform features should be part of Interop 2027. Web Performance Frontend",
       "title_original": "Submit your proposals for Interop 2027",
       "summary_original": "It's time to let us know which web platform features should be part of Interop 2027.",
       "published_display": "2026-09-03",
-      "id": "7943b22010d8"
+      "id": "ac94551a1969"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Ağustos ayında web platformuna yeni",
-      "summary": "Ağustos 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin.",
+      "title": "New to the web platform in August",
+      "summary": "Discover some of the interesting features that have landed in stable and beta web browsers during August 2026.",
       "url": "https://web.dev/blog/web-platform-08-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -465,17 +465,17 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Ağustos ayında web platformuna yeni Ağustos 2026'da kararlı ve beta web tarayıcılarına sunulan ilginç özelliklerden bazılarını keşfedin. New to the web platform in August Discover some of the interesting features that have landed in stable and beta web browsers during August 2026. Web Performance Frontend",
+      "keywords": "New to the web platform in August Discover some of the interesting features that have landed in stable and beta web browsers during August 2026. New to the web platform in August Discover some of the interesting features that have landed in stable and beta web browsers during August 2026. Web Performance Frontend",
       "title_original": "New to the web platform in August",
       "summary_original": "Discover some of the interesting features that have landed in stable and beta web browsers during August 2026.",
       "published_display": "2026-08-28",
-      "id": "6ce5ee184b45"
+      "id": "3c96f0492623"
     },
     {
       "category": "web",
       "category_label": "Web Tasarimi",
-      "title": "Temmuz 2026 Temel aylık özet",
-      "summary": "Temmuz 2026'da Baseline ile ilgili çeşitli olayları okuyun.",
+      "title": "July 2026 Baseline monthly digest",
+      "summary": "Read about various happenings with Baseline during July 2026.",
       "url": "https://web.dev/blog/baseline-digest-jul-2026?hl=en",
       "image_url": null,
       "source": "web.dev",
@@ -485,17 +485,77 @@
         "Performance",
         "Frontend"
       ],
-      "keywords": "Temmuz 2026 Temel aylık özet Temmuz 2026'da Baseline ile ilgili çeşitli olayları okuyun. July 2026 Baseline monthly digest Read about various happenings with Baseline during July 2026. Web Performance Frontend",
+      "keywords": "July 2026 Baseline monthly digest Read about various happenings with Baseline during July 2026. July 2026 Baseline monthly digest Read about various happenings with Baseline during July 2026. Web Performance Frontend",
       "title_original": "July 2026 Baseline monthly digest",
       "summary_original": "Read about various happenings with Baseline during July 2026.",
       "published_display": "2026-08-10",
-      "id": "b5218533adc8"
+      "id": "7ce65a96eb3e"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "nginx2root: Beş yeni nginx güvenlik açığı ve Cloudflare'in kökenleri en kötülerinden nasıl koruduğu",
-      "summary": "Nginx'teki nginx2root adı verilen beş bellek bozulması hatası, kimliği doğrulanmamış bir saldırganın sunucuda kod çalıştırmasına izin verebilir. İşte nasıl çalıştıkları ve Cloudflare proxy'sinin arkasındaki kökenlerin neden bu hataların en ciddilerinden korunduğu.",
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+      "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X91CB1DQF7DRZ96WG5VETW.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-11-20T20:24:38Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825) ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap. How Cloudflare WAF protects against ruby2shell (CVE-2026-132825) ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap. Cloudflare Security Web",
+      "title_original": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "summary_original": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+      "published_display": "2026-11-20",
+      "id": "79256c0106cb"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+      "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X76DTFTZ4PHVTH5XWJ37KT.png",
+      "source": "Cloudflare Security",
+      "published_at": "2026-11-20T20:00:45Z",
+      "tags": [
+        "Cloudflare",
+        "Security",
+        "Web"
+      ],
+      "keywords": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release. How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release. Cloudflare Security Web",
+      "title_original": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "summary_original": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+      "published_display": "2026-11-20",
+      "id": "66d0f47dddd4"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnera...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-20T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "CISA Adds Four Known Exploited Vulnerabilities to Catalog CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnera... CISA Adds Four Known Exploited Vulnerabilities to Catalog CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnera... CISA Advisory Threat",
+      "title_original": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "summary_original": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnera...",
+      "published_display": "2026-11-20",
+      "id": "3ad22193c2af"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
       "url": "https://blog.cloudflare.com/nginx2root/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7V6N9XSHCT1GMC5KHVYE692.01M7V6NAA3FDH1YV1552W4P5P7.png",
       "source": "Cloudflare Security",
@@ -505,17 +565,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "nginx2root: Beş yeni nginx güvenlik açığı ve Cloudflare'in kökenleri en kötülerinden nasıl koruduğu Nginx'teki nginx2root adı verilen beş bellek bozulması hatası, kimliği doğrulanmamış bir saldırganın sunucuda kod çalıştırmasına izin verebilir. İşte nasıl çalıştıkları ve Cloudflare proxy'sinin arkasındaki kökenlerin neden bu hataların en ciddilerinden korunduğu. nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs. Cloudflare Security Web",
+      "keywords": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs. nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs. Cloudflare Security Web",
       "title_original": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
       "summary_original": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
       "published_display": "2026-11-20",
-      "id": "5f3bb43e5792"
+      "id": "34878740ddd1"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "2026 ABD ara seçimleri sırasında internet trafiği ve saldırılar",
-      "summary": "3 Kasım 2026'da ABD seçmenleri sandık başına gitti. İşte 1.400'den fazla korunan sitedeki Cloudflare verilerinin bize Seçim Günü İnternet trafiği ve siber saldırılar hakkında söyledikleri.",
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
       "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
       "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R61QF048WWQ6F9XZ3TXEG9.01M7R61R40AS8MPD7CDPFJVBQG.png",
       "source": "Cloudflare Security",
@@ -525,17 +585,17 @@
         "Security",
         "Web"
       ],
-      "keywords": "2026 ABD ara seçimleri sırasında internet trafiği ve saldırılar 3 Kasım 2026'da ABD seçmenleri sandık başına gitti. İşte 1.400'den fazla korunan sitedeki Cloudflare verilerinin bize Seçim Günü İnternet trafiği ve siber saldırılar hakkında söyledikleri. Internet traffic and attacks during the 2026 U.S. midterm elections On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks. Cloudflare Security Web",
+      "keywords": "Internet traffic and attacks during the 2026 U.S. midterm elections On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks. Internet traffic and attacks during the 2026 U.S. midterm elections On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks. Cloudflare Security Web",
       "title_original": "Internet traffic and attacks during the 2026 U.S. midterm elections",
       "summary_original": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
       "published_display": "2026-11-19",
-      "id": "bd33eed5ede3"
+      "id": "a9f97df64df6"
     },
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
       "title": "libumqtt",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, uzaktaki bir saldırganın hizmet reddine, bellek bozulmasına veya bilgilerin açığa çıkmasına neden olmasına olanak verebilir. Aşağıdaki libumqtt sürümleri etkilenir: libumqtt <=1.1.1 (...",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
       "image_url": null,
       "source": "CISA Advisories",
@@ -545,77 +605,17 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "libumqtt CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, uzaktaki bir saldırganın hizmet reddine, bellek bozulmasına veya bilgilerin açığa çıkmasına neden olmasına olanak verebilir. Aşağıdaki libumqtt sürümleri etkilenir: libumqtt <=1.1.1 (... libumqtt View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (... CISA Advisory Threat",
+      "keywords": "libumqtt View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (... libumqtt View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (... CISA Advisory Threat",
       "title_original": "libumqtt",
       "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (...",
       "published_display": "2026-11-19",
       "id": "7116cb2ee10a"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Özerklik Mantığı OpenPLC Çalışma Zamanı",
-      "summary": "CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, kimliği doğrulanmamış birden fazla yönetici hesabının oluşturulmasına olanak verebilir. Autonomy Logic OpenPLC Runtime'ın aşağıdaki sürümleri etkilenir: OpenPLC Runtime <=4.2.4 (CVE-2026-12...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-11-19T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Özerklik Mantığı OpenPLC Çalışma Zamanı CSAF Özetini Görüntüle Bu güvenlik açığından başarıyla yararlanılması, kimliği doğrulanmamış birden fazla yönetici hesabının oluşturulmasına olanak verebilir. Autonomy Logic OpenPLC Runtime'ın aşağıdaki sürümleri etkilenir: OpenPLC Runtime <=4.2.4 (CVE-2026-12... Autonomy Logic OpenPLC Runtime View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-12... CISA Advisory Threat",
-      "title_original": "Autonomy Logic OpenPLC Runtime",
-      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-12...",
-      "published_display": "2026-11-19",
-      "id": "e40a8ffa3730"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Elektrikli frenler EB2, VM1, ELBC2000",
-      "summary": "CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın bir treylerin frenlerinin kontrolünü ele geçirmesine, donanım yazılımını değiştirmesine, fren ışıklarını devre dışı bırakmasına, fren koşullarını değiştirmesine veya diğer kritik sistemleri devre dışı bırakmasına olanak tanıyabilir.",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-11-19T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "Elektrikli frenler EB2, VM1, ELBC2000 CSAF Özetini Görüntüleyin Bu güvenlik açıklarından başarıyla yararlanılması, bir saldırganın bir treylerin frenlerinin kontrolünü ele geçirmesine, donanım yazılımını değiştirmesine, fren ışıklarını devre dışı bırakmasına, fren koşullarını değiştirmesine veya diğer kritik sistemleri devre dışı bırakmasına olanak tanıyabilir. Elecbrakes EB2, VM1, ELBC2000 View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical s... CISA Advisory Threat",
-      "title_original": "Elecbrakes EB2, VM1, ELBC2000",
-      "summary_original": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical s...",
-      "published_display": "2026-11-19",
-      "id": "beb30d6be74d"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Cloudflare WAF, Java4Shell'e karşı korunmaya nasıl yardımcı olur (CVE-2026-114938)",
-      "summary": "Java4Shell, OpenJDK'nın Base64 kod çözücüsünde bulunan ve uzaktan kod yürütülmesine yol açabilen kritik bir bellek bozulması kusurudur. Cloudflare, ücretli planlar için eşleşen istekleri varsayılan olarak günlüğe kaydeden altı WAF tarafından yönetilen kural yayınladı. Java runt'ınızı düzeltin...",
-      "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7QEX0WPTPFDDEE77HAVYYGB.01M7QEX1A784VKSE3C9SPC0P30.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-11-18T14:52:10Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Cloudflare WAF, Java4Shell'e karşı korunmaya nasıl yardımcı olur (CVE-2026-114938) Java4Shell, OpenJDK'nın Base64 kod çözücüsünde bulunan ve uzaktan kod yürütülmesine yol açabilen kritik bir bellek bozulması kusurudur. Cloudflare, ücretli planlar için eşleşen istekleri varsayılan olarak günlüğe kaydeden altı WAF tarafından yönetilen kural yayınladı. Java runt'ınızı düzeltin... How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938) Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runt... Cloudflare Security Web",
-      "title_original": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
-      "summary_original": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runt...",
-      "published_display": "2026-11-18",
-      "id": "b5ebad533195"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com",
-      "summary": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com",
+      "title": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -625,17 +625,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol - Business.com Şirketinizin Güvenlik Kameralarından Faydalanabileceği 5 Yol Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "keywords": "5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
       "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
       "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
       "published_display": "2026-10-30",
-      "id": "50e5e9d0bb44"
+      "id": "35fc26b8735d"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri",
-      "summary": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
+      "summary": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDhSSkd2am02dnhMampDZEFUZS04ZUFIVkdDNkptVVlNV0xzTVVoZW9QX182SE9nQzZTTGVlQWQzbVAyeExCdTNiY0R6QXQ4SWZxZDg5d3VjZlJNNGdvOG1XeHN1QUktTFI3SXN3aDNsZEVGN0xNRWNNLTdLNzluZg?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -645,17 +645,17 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi - Hacker Haberleri Saldırganlar P2P Erişimi ve Kimlik Doğrulama Zayıflıklarını Kullanarak Ukrayna'daki Dahua IP Kameralarını Ele Geçirdi Hacker Haberleri Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
+      "keywords": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News IP Camera Video Surveillance",
       "title_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses - The Hacker News",
       "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "published_display": "2026-10-27",
-      "id": "d151b5a67629"
+      "id": "dea87be07742"
     },
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ",
-      "summary": "Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ",
+      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
+      "summary": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
@@ -665,11 +665,11 @@
         "Video",
         "Surveillance"
       ],
-      "keywords": "Video Kameralar Her Yerde ve Şimdi Savaş Amaçlı Hackleniyorlar - WSJ Video Kameralar Her Yerde ve Şimdi de Savaş Amaçlı Hackleniyorlar WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
+      "keywords": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
       "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
       "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
       "published_display": "2026-10-10",
-      "id": "33214d55f737"
+      "id": "7f766a2a98e6"
     }
   ]
 }
