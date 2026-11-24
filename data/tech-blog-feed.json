@@ -1,16 +1,56 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T21:20:00Z",
-  "total_posts": 33,
+  "updated_at": "2026-11-24T16:00:00Z",
+  "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 3
+    "kamera": 5
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "These are the gifts developers will actually want",
+      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The G...",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-11-24T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "These are the gifts developers will actually want The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The G... These are the gifts developers will actually want The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The G... GitHub Dev Platform",
+      "title_original": "These are the gifts developers will actually want",
+      "summary_original": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The G...",
+      "published_display": "2026-11-24",
+      "id": "cef4b509d6a2"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Is “sort by impact” just vibes?",
+      "summary": "You ask an agent for your top five, sorted by impact, and it hands you a confident list. But you never said what impact means, so what did the agent actually sort by? We ran four models through the same lists 1,500 times to find out, and...",
+      "url": "https://devblogs.microsoft.com/blog/is-sort-by-impact-just-vibes/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-11-24T15:23:13Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Is “sort by impact” just vibes? You ask an agent for your top five, sorted by impact, and it hands you a confident list. But you never said what impact means, so what did the agent actually sort by? We ran four models through the same lists 1,500 times to find out, and... Is “sort by impact” just vibes? You ask an agent for your top five, sorted by impact, and it hands you a confident list. But you never said what impact means, so what did the agent actually sort by? We ran four models through the same lists 1,500 times to find out, and... Microsoft Dev Cloud",
+      "title_original": "Is “sort by impact” just vibes?",
+      "summary_original": "You ask an agent for your top five, sorted by impact, and it hands you a confident list. But you never said what impact means, so what did the agent actually sort by? We ran four models through the same lists 1,500 times to find out, and...",
+      "published_display": "2026-11-24",
+      "id": "c2064146c1f2"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -92,44 +132,24 @@
       "id": "cf0bc5e068cd"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "GitHub availability report: October 2026",
-      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-11-13T00:20:16Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-24T16:00:00Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Product",
+        "Google"
       ],
-      "keywords": "GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog . GitHub availability report: October 2026 In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "GitHub availability report: October 2026",
-      "summary_original": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
-      "published_display": "2026-11-13",
-      "id": "8adf7a08da8a"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a...",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-11-12T22:54:52Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a... Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a... GitHub Dev Platform",
-      "title_original": "Build once, run on any agent: A practical guide to agent skills",
-      "summary_original": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to a...",
-      "published_display": "2026-11-12",
-      "id": "7c5a3396408c"
+      "keywords": "How Gemini is changing the game for Golden State's organization and fans. Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news. How Gemini is changing the game for Golden State's organization and fans. Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news. AI Product Google",
+      "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary_original": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "published_display": "2026-11-24",
+      "id": "0741ab16338c"
     },
     {
       "category": "ai",
@@ -232,24 +252,24 @@
       "id": "49c3e3734e84"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Perplexity and Intelligence",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics - IndexBox",
+      "summary": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORHRKZW8yZ2x1TEVxQlRGaXAyVnpWUUk1ajFTN2twTzNZbk9tMEZCWmNEY2w2S2ExVUpGRzVvRFF3UFpDcHNoTk1FOW9rREtXYWFDQzBucmZnMjRzRW1WVGg3RmRhcHdmM1lOcWRUc2dVXy1VTXU0S1FwU1htZjhvZ2FaOERIbVhCN3Eyb2NVSlNtRkFTWXhUWlZtUlFRWkdDUldqOTk3UUhtWmV0SmRmVG91c3QteVlneXYxeERQdndQNHl5SGtDWWNvTDVKZw?oc=5",
       "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-22T00:00:00Z",
+      "source": "Google News Robotics",
+      "published_at": "2026-11-24T04:01:04Z",
       "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
+        "Robotics",
+        "Automation",
+        "Industry"
       ],
-      "keywords": "Perplexity and Intelligence How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities. Perplexity and Intelligence How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities. AI OpenAI Model",
-      "title_original": "Perplexity and Intelligence",
-      "summary_original": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "published_display": "2026-11-22",
-      "id": "58173e87ea21"
+      "keywords": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics - IndexBox Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics IndexBox Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics - IndexBox Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics IndexBox Robotics Automation Industry",
+      "title_original": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics - IndexBox",
+      "summary_original": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics IndexBox",
+      "published_display": "2026-11-24",
+      "id": "b1329c31553f"
     },
     {
       "category": "robotik",
@@ -350,26 +370,6 @@
       "summary_original": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands Robotics & Automation News",
       "published_display": "2026-11-22",
       "id": "aac193bd1311"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News",
-      "summary": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZC1ubDU3dG01ajVncThzRkgyd0tCck1VVTRpWTViazh0Tl95ZXBPeDNZSE12RTVsZ1FDODlGV3dHYV85OFhfSFVIOHRDYWF5amltNmFHUzF3c1dqcVFBWFFRSXVUVDk5X2JJLWR4VUQwaUJJcEMzaEFzNFZGQU5vd2NpRURnLWZIZGNGNWVNZk0yVzV5Q0ZrQ0M0eFJDZ3ZMVGVvZnhlWGtMRk5DUnRuMUdhMlU0TDdhMDdzSVhqY2paWDhjMTlCVWFVUTZVUTBR?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-11-22T15:56:51Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News",
-      "summary_original": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News",
-      "published_display": "2026-11-22",
-      "id": "1ad4417eb741"
     },
     {
       "category": "web",
@@ -494,6 +494,66 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of mater...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Schneider Electric EcoStruxure Power Build Rapsody software View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of mater... Schneider Electric EcoStruxure Power Build Rapsody software View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of mater... CISA Advisory Threat",
+      "title_original": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "summary_original": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of mater...",
+      "published_display": "2026-11-24",
+      "id": "abda134ac089"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "Danfoss AK-SM 8xxA Series",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-12...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "Danfoss AK-SM 8xxA Series View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-12... Danfoss AK-SM 8xxA Series View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-12... CISA Advisory Threat",
+      "title_original": "Danfoss AK-SM 8xxA Series",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-12...",
+      "published_display": "2026-11-24",
+      "id": "0b70272c6258"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "AutomationDirect C-More EA9 Programming Software View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic... AutomationDirect C-More EA9 Programming Software View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic... CISA Advisory Threat",
+      "title_original": "AutomationDirect C-More EA9 Programming Software",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic...",
+      "published_display": "2026-11-24",
+      "id": "288d1576b2a0"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail As...",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -552,84 +612,44 @@
       "id": "66d0f47dddd4"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnera...",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "image_url": null,
-      "source": "CISA Advisories",
-      "published_at": "2026-11-20T12:00:00Z",
-      "tags": [
-        "CISA",
-        "Advisory",
-        "Threat"
-      ],
-      "keywords": "CISA Adds Four Known Exploited Vulnerabilities to Catalog CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnera... CISA Adds Four Known Exploited Vulnerabilities to Catalog CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnera... CISA Advisory Threat",
-      "title_original": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "summary_original": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnera...",
-      "published_display": "2026-11-20",
-      "id": "3ad22193c2af"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-      "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
-      "url": "https://blog.cloudflare.com/nginx2root/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7V6N9XSHCT1GMC5KHVYE692.01M7V6NAA3FDH1YV1552W4P5P7.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-11-20T01:58:29Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs. nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs. Cloudflare Security Web",
-      "title_original": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-      "summary_original": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
-      "published_display": "2026-11-20",
-      "id": "34878740ddd1"
-    },
-    {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
-      "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
-      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R61QF048WWQ6F9XZ3TXEG9.01M7R61R40AS8MPD7CDPFJVBQG.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-11-19T14:00:00Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "Internet traffic and attacks during the 2026 U.S. midterm elections On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks. Internet traffic and attacks during the 2026 U.S. midterm elections On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks. Cloudflare Security Web",
-      "title_original": "Internet traffic and attacks during the 2026 U.S. midterm elections",
-      "summary_original": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
-      "published_display": "2026-11-19",
-      "id": "a9f97df64df6"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
-      "summary": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
+      "title": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
+      "summary": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGdkejRkcDNGMzlSV3M5UWFCZGdMUE13Y0JtV1ZER3U1dGVEOUJ6TDlxN1VDaGg0U0l4S0JPYldwbFNoT0lCc25CMUMtcUxoUTJrUDRlTUJaX05zT2pyRzQ2YVpUVG11MUpITnN5T0ZfX0w5bmlXMmRDODZ2YUpYTA?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-10-30T07:00:00Z",
+      "published_at": "2026-11-15T08:06:02Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
-      "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
-      "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
-      "published_display": "2026-10-30",
-      "id": "35fc26b8735d"
+      "keywords": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
+      "summary_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
+      "published_display": "2026-11-15",
+      "id": "b5138c167bef"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
+      "summary": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-27T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
+      "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
+      "published_display": "2026-10-27",
+      "id": "afee413b1cf2"
     },
     {
       "category": "kamera",
@@ -654,22 +674,42 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
-      "summary": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ1ZOekFxajFMUEhZeUZQeEg2R3JmMkNDaFJIbGdUeG1pelc5Vlh4d2pZNDYyaVV3VmVQNjJBakM5QTdoLWppTjM3cmNZanV0czZuVENLeWljMHVfNHlWZ1hEZ285VmM1OG8yZVdwS1R4N3BVcWUteUVTQXRVZkRVV2I4SDM4Wm8?oc=5",
+      "title": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
+      "summary": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-10-12T07:00:00Z",
+      "published_at": "2026-10-15T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ IP Camera Video Surveillance",
-      "title_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War - WSJ",
-      "summary_original": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War WSJ",
-      "published_display": "2026-10-12",
-      "id": "7f766a2a98e6"
+      "keywords": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
+      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
+      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
+      "published_display": "2026-10-15",
+      "id": "a206d4b1a6bf"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
+      "summary": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-11T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
+      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
+      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
+      "published_display": "2026-10-11",
+      "id": "80d82e57e3e1"
     }
   ]
 }
