@@ -1,16 +1,76 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-25T08:06:06Z",
-  "total_posts": 32,
+  "updated_at": "2026-11-25T17:10:27Z",
+  "total_posts": 35,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 2
+    "kamera": 5
   },
   "posts": [
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Art of play in the age of AI",
+      "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+      "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-11-25T16:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "Art of play in the age of AI Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog . Art of play in the age of AI Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog . GitHub Dev Platform",
+      "title_original": "Art of play in the age of AI",
+      "summary_original": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+      "published_display": "2026-11-25",
+      "id": "64114c650829"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "How to choose the next safe step in application modernization",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Bl...",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "image_url": null,
+      "source": "GitHub Blog",
+      "published_at": "2026-11-25T15:00:00Z",
+      "tags": [
+        "GitHub",
+        "Dev",
+        "Platform"
+      ],
+      "keywords": "How to choose the next safe step in application modernization Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Bl... How to choose the next safe step in application modernization Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Bl... GitHub Dev Platform",
+      "title_original": "How to choose the next safe step in application modernization",
+      "summary_original": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Bl...",
+      "published_display": "2026-11-25",
+      "id": "7fb124d9fec0"
+    },
+    {
+      "category": "yazilim",
+      "category_label": "Yazilim Gelistirme",
+      "title": "Do inconsistent docs hurt AI coding agents?",
+      "summary": "Somewhere in your docs, two pages disagree. Coding agents often notice, follow the wrong page anyway, and pay for it in extra tokens or a broken build. The post Do inconsistent docs hurt AI coding agents? appeared first on Microsoft for...",
+      "url": "https://devblogs.microsoft.com/blog/do-inconsistent-docs-hurt-ai-coding-agents/",
+      "image_url": null,
+      "source": "Microsoft DevBlogs",
+      "published_at": "2026-11-25T11:46:06Z",
+      "tags": [
+        "Microsoft",
+        "Dev",
+        "Cloud"
+      ],
+      "keywords": "Do inconsistent docs hurt AI coding agents? Somewhere in your docs, two pages disagree. Coding agents often notice, follow the wrong page anyway, and pay for it in extra tokens or a broken build. The post Do inconsistent docs hurt AI coding agents? appeared first on Microsoft for... Do inconsistent docs hurt AI coding agents? Somewhere in your docs, two pages disagree. Coding agents often notice, follow the wrong page anyway, and pay for it in extra tokens or a broken build. The post Do inconsistent docs hurt AI coding agents? appeared first on Microsoft for... Microsoft Dev Cloud",
+      "title_original": "Do inconsistent docs hurt AI coding agents?",
+      "summary_original": "Somewhere in your docs, two pages disagree. Coding agents often notice, follow the wrong page anyway, and pay for it in extra tokens or a broken build. The post Do inconsistent docs hurt AI coding agents? appeared first on Microsoft for...",
+      "published_display": "2026-11-25",
+      "id": "0ff580be2596"
+    },
     {
       "category": "yazilim",
       "category_label": "Yazilim Gelistirme",
@@ -72,64 +132,24 @@
       "id": "9421c1e71bbe"
     },
     {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "The best things in open source are built together",
-      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
-      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-11-19T16:00:00Z",
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "summary": "Generative AI",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
+      "source": "Google Research Blog",
+      "published_at": "2026-11-25T17:10:27Z",
       "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
+        "AI",
+        "Research",
+        "Google"
       ],
-      "keywords": "The best things in open source are built together Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog . The best things in open source are built together Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog . GitHub Dev Platform",
-      "title_original": "The best things in open source are built together",
-      "summary_original": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
-      "published_display": "2026-11-19",
-      "id": "b59c43bf5c80"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
-      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post...",
-      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-11-17T18:29:29Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Maintainers don’t need more AI bug reports. They need fixes. In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post... Maintainers don’t need more AI bug reports. They need fixes. In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post... GitHub Dev Platform",
-      "title_original": "Maintainers don’t need more AI bug reports. They need fixes.",
-      "summary_original": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post...",
-      "published_display": "2026-11-17",
-      "id": "c2dad342cee7"
-    },
-    {
-      "category": "yazilim",
-      "category_label": "Yazilim Gelistirme",
-      "title": "Building the Agent Host Protocol for sessions that continue across devices",
-      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on...",
-      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-      "image_url": null,
-      "source": "GitHub Blog",
-      "published_at": "2026-11-17T18:20:40Z",
-      "tags": [
-        "GitHub",
-        "Dev",
-        "Platform"
-      ],
-      "keywords": "Building the Agent Host Protocol for sessions that continue across devices Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on... Building the Agent Host Protocol for sessions that continue across devices Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on... GitHub Dev Platform",
-      "title_original": "Building the Agent Host Protocol for sessions that continue across devices",
-      "summary_original": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on...",
-      "published_display": "2026-11-17",
-      "id": "cf0bc5e068cd"
+      "keywords": "Verifiable Social Reasoning for LLM Assistants Generative AI Verifiable Social Reasoning for LLM Assistants Generative AI AI Research Google",
+      "title_original": "Verifiable Social Reasoning for LLM Assistants",
+      "summary_original": "Generative AI",
+      "published_display": "2026-11-25",
+      "id": "afc9f98160f9"
     },
     {
       "category": "ai",
@@ -232,26 +252,6 @@
       "id": "4aab9b57cd37"
     },
     {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "How Intentful uses dots to make more time for growth",
-      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "url": "https://openai.com/business/customer-stories/intentful-dots",
-      "image_url": null,
-      "source": "OpenAI News",
-      "published_at": "2026-11-24T00:00:00Z",
-      "tags": [
-        "AI",
-        "OpenAI",
-        "Model"
-      ],
-      "keywords": "How Intentful uses dots to make more time for growth Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues. How Intentful uses dots to make more time for growth Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues. AI OpenAI Model",
-      "title_original": "How Intentful uses dots to make more time for growth",
-      "summary_original": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "published_display": "2026-11-24",
-      "id": "4078a13e9d14"
-    },
-    {
       "category": "robotik",
       "category_label": "Robotik",
       "title": "Bentic prepares for US expansion as physical AI robot installations approach 100 - Robotics & Automation News",
@@ -270,26 +270,6 @@
       "summary_original": "Bentic prepares for US expansion as physical AI robot installations approach 100 Robotics & Automation News",
       "published_display": "2026-11-25",
       "id": "d63ec5fdb851"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics - IndexBox",
-      "summary": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORHRKZW8yZ2x1TEVxQlRGaXAyVnpWUUk1ajFTN2twTzNZbk9tMEZCWmNEY2w2S2ExVUpGRzVvRFF3UFpDcHNoTk1FOW9rREtXYWFDQzBucmZnMjRzRW1WVGg3RmRhcHdmM1lOcWRUc2dVXy1VTXU0S1FwU1htZjhvZ2FaOERIbVhCN3Eyb2NVSlNtRkFTWXhUWlZtUlFRWkdDUldqOTk3UUhtWmV0SmRmVG91c3QteVlneXYxeERQdndQNHl5SGtDWWNvTDVKZw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-11-24T04:01:04Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics - IndexBox Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics IndexBox Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics - IndexBox Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics IndexBox Robotics Automation Industry",
-      "title_original": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics - IndexBox",
-      "summary_original": "Robot Suction Cups Market To 2035: Demand Rises on Flexible Automation and Cobot Adoption - News and Statistics IndexBox",
-      "published_display": "2026-11-24",
-      "id": "b1329c31553f"
     },
     {
       "category": "robotik",
@@ -334,22 +314,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows - Robotics & Automation News",
-      "summary": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY3lXYWhjdlk4eFo5OEllXzdkTDhnYWowOUFSZlNLakdEdXoxeG8xZTZjcWVMYWxxVTJCdEUycHZBdjhyMy1UUU9tcU9lMlFIb0t3cG85X1hNSWJLaGxnNEtSbVkyak0xLTJQVmNjSmwtQW80NVdGWU9sUmh0TGJhdWFLOTFRM1BONnZSOFE2YXpDREpxN2RIdnU0WXBGOTNtZ1dwNUVnTHpCOHdfU3VfVlRSVklsZ096TzBLNFlzUnFQVjJ3c0lJNHl3U0d0cGNPWkFYQTdfV01tRlZqYUJ2aHFGNXQwVlhX?oc=5",
+      "title": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News",
+      "summary": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZC1ubDU3dG01ajVncThzRkgyd0tCck1VVTRpWTViazh0Tl95ZXBPeDNZSE12RTVsZ1FDODlGV3dHYV85OFhfSFVIOHRDYWF5amltNmFHUzF3c1dqcVFBWFFRSXVUVDk5X2JJLWR4VUQwaUJJcEMzaEFzNFZGQU5vd2NpRURnLWZIZGNGNWVNZk0yVzV5Q0ZrQ0M0eFJDZ3ZMVGVvZnhlWGtMRk5DUnRuMUdhMlU0TDdhMDdzSVhqY2paWDhjMTlCVWFVUTZVUTBR?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-11-22T21:07:47Z",
+      "published_at": "2026-11-22T15:56:51Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows - Robotics & Automation News Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows Robotics & Automation News Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows - Robotics & Automation News Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows Robotics & Automation News Robotics Automation Industry",
-      "title_original": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows - Robotics & Automation News",
-      "summary_original": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows Robotics & Automation News",
+      "keywords": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News",
+      "summary_original": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News",
       "published_display": "2026-11-22",
-      "id": "dd0ac8ec17c2"
+      "id": "1ad4417eb741"
     },
     {
       "category": "robotik",
@@ -370,6 +350,26 @@
       "summary_original": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI A3 Association for Advancing Automation",
       "published_display": "2026-11-21",
       "id": "7ae21c8f3303"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation",
+      "summary": "Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEoyV2Q0T1dteU9TaWlkaWJsMjFqd3ZuaXdGRnA4bXpxRUFyald6MnJoZkFPd3k0V3FrM2Y0QzFSNFNlRjZQUmZTQ3d6bC01bDh0S2RwRm45WmFPNmZRRkFlU3FQU3M1YXlmZTRQR1lkRkszMzRIRDI0SW1EdHBGRXFkX1BsbDIxajJpNGF3eXVsS2xYNEdudkN1WTJZaVpFMElGYWN2T3pCMkJu?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-11-19T21:36:44Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation Robotics Automation Industry",
+      "title_original": "Industrial automation: Growth and uncertainty on '27 docket - A3 Association for Advancing Automation",
+      "summary_original": "Industrial automation: Growth and uncertainty on '27 docket A3 Association for Advancing Automation",
+      "published_display": "2026-11-19",
+      "id": "7094fce53cca"
     },
     {
       "category": "web",
@@ -614,22 +614,62 @@
     {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
-      "summary": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
+      "title": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
+      "summary": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGdkejRkcDNGMzlSV3M5UWFCZGdMUE13Y0JtV1ZER3U1dGVEOUJ6TDlxN1VDaGg0U0l4S0JPYldwbFNoT0lCc25CMUMtcUxoUTJrUDRlTUJaX05zT2pyRzQ2YVpUVG11MUpITnN5T0ZfX0w5bmlXMmRDODZ2YUpYTA?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-10-30T07:00:00Z",
+      "published_at": "2026-11-15T08:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
-      "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
-      "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
-      "published_display": "2026-10-30",
-      "id": "35fc26b8735d"
+      "keywords": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
+      "summary_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
+      "published_display": "2026-11-15",
+      "id": "b5138c167bef"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Cybersecurity experts raise concerns about new security cameras coming to Montreal streets - CBC",
+      "summary": "Cybersecurity experts raise concerns about new security cameras coming to Montreal streets CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fN0stZGRYb0xhb3plZUhuRG5wWU9qY2tXOVNCbHBUalhIbEd6NHJNN0JlZlBjUlptbVAtZzZERDg4dDhBVnZHUGZFVVpVYWtxbENYazQwY2N6UQ?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-11-03T08:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Cybersecurity experts raise concerns about new security cameras coming to Montreal streets - CBC Cybersecurity experts raise concerns about new security cameras coming to Montreal streets CBC Cybersecurity experts raise concerns about new security cameras coming to Montreal streets - CBC Cybersecurity experts raise concerns about new security cameras coming to Montreal streets CBC IP Camera Video Surveillance",
+      "title_original": "Cybersecurity experts raise concerns about new security cameras coming to Montreal streets - CBC",
+      "summary_original": "Cybersecurity experts raise concerns about new security cameras coming to Montreal streets CBC",
+      "published_display": "2026-11-03",
+      "id": "8529eec3c93e"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
+      "summary": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-27T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
+      "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
+      "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
+      "published_display": "2026-10-27",
+      "id": "afee413b1cf2"
     },
     {
       "category": "kamera",
@@ -650,6 +690,26 @@
       "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "published_display": "2026-10-27",
       "id": "dea87be07742"
+    },
+    {
+      "category": "kamera",
+      "category_label": "Kamera Sistemleri",
+      "title": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
+      "summary": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
+      "image_url": null,
+      "source": "Google News Camera Security",
+      "published_at": "2026-10-15T07:00:00Z",
+      "tags": [
+        "IP Camera",
+        "Video",
+        "Surveillance"
+      ],
+      "keywords": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
+      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
+      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
+      "published_display": "2026-10-15",
+      "id": "a206d4b1a6bf"
     }
   ]
 }
