@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "updated_at": "2026-11-24T16:00:00Z",
-  "total_posts": 35,
+  "total_posts": 32,
   "category_counts": {
     "yazilim": 6,
     "ai": 6,
     "robotik": 6,
     "web": 6,
     "siber": 6,
-    "kamera": 5
+    "kamera": 2
   },
   "posts": [
     {
@@ -154,102 +154,102 @@
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "image_url": null,
       "source": "OpenAI News",
-      "published_at": "2026-11-23T21:20:00Z",
+      "published_at": "2026-11-24T13:00:00Z",
       "tags": [
         "AI",
         "OpenAI",
         "Model"
       ],
-      "keywords": "OpenAI and Cisco introduce Shirudo OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches. OpenAI and Cisco introduce Shirudo OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches. AI OpenAI Model",
-      "title_original": "OpenAI and Cisco introduce Shirudo",
-      "summary_original": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-      "published_display": "2026-11-23",
-      "id": "dd8326159dfd"
+      "keywords": "GPT-6 models demonstrate intrinsic protein-design capabilities GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets. GPT-6 models demonstrate intrinsic protein-design capabilities GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets. AI OpenAI Model",
+      "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary_original": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "published_display": "2026-11-24",
+      "id": "e951ab291c66"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Supercharging transformer residual connections",
-      "summary": "Algorithms & Theory",
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
-      "source": "Google Research Blog",
-      "published_at": "2026-11-23T17:21:12Z",
-      "tags": [
-        "AI",
-        "Research",
-        "Google"
-      ],
-      "keywords": "Supercharging transformer residual connections Algorithms & Theory Supercharging transformer residual connections Algorithms & Theory AI Research Google",
-      "title_original": "Supercharging transformer residual connections",
-      "summary_original": "Algorithms & Theory",
-      "published_display": "2026-11-23",
-      "id": "7cb7116d36af"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-23T17:00:00Z",
-      "tags": [
-        "AI",
-        "Product",
-        "Google"
-      ],
-      "keywords": "A more tailored Google Search that’s uniquely yours Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode. A more tailored Google Search that’s uniquely yours Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode. AI Product Google",
-      "title_original": "A more tailored Google Search that’s uniquely yours",
-      "summary_original": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-      "published_display": "2026-11-23",
-      "id": "e752b9701f1d"
-    },
-    {
-      "category": "ai",
-      "category_label": "Yapay Zeka",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "title": "Searching for distant planets with Astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
       "image_url": null,
       "source": "OpenAI News",
-      "published_at": "2026-11-23T08:00:00Z",
+      "published_at": "2026-11-24T11:00:00Z",
       "tags": [
         "AI",
         "OpenAI",
         "Model"
       ],
-      "keywords": "Richpanel helps companies automate 50% of support in 30 days Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations. Richpanel helps companies automate 50% of support in 30 days Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations. AI OpenAI Model",
-      "title_original": "Richpanel helps companies automate 50% of support in 30 days",
-      "summary_original": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "published_display": "2026-11-23",
-      "id": "4054017cd877"
+      "keywords": "Searching for distant planets with Astra See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes. Searching for distant planets with Astra See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes. AI OpenAI Model",
+      "title_original": "Searching for distant planets with Astra",
+      "summary_original": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "published_display": "2026-11-24",
+      "id": "afda76bbd408"
     },
     {
       "category": "ai",
       "category_label": "Yapay Zeka",
-      "title": "Connected intelligence for in-house legal",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "image_url": null,
       "source": "OpenAI News",
-      "published_at": "2026-11-23T08:00:00Z",
+      "published_at": "2026-11-24T00:00:00Z",
       "tags": [
         "AI",
         "OpenAI",
         "Model"
       ],
-      "keywords": "Connected intelligence for in-house legal Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel. Connected intelligence for in-house legal Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel. AI OpenAI Model",
-      "title_original": "Connected intelligence for in-house legal",
-      "summary_original": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "published_display": "2026-11-23",
-      "id": "49c3e3734e84"
+      "keywords": "Clay helps sales teams win with Codex and ChatGPT ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning. Clay helps sales teams win with Codex and ChatGPT ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning. AI OpenAI Model",
+      "title_original": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary_original": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "published_display": "2026-11-24",
+      "id": "320f88ff56b1"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "summary": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-24T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "How iFood scales coding agents across 15,000 repositories How iFood scales coding agents across 15,000 repositories How iFood scales coding agents across 15,000 repositories How iFood scales coding agents across 15,000 repositories AI OpenAI Model",
+      "title_original": "How iFood scales coding agents across 15,000 repositories",
+      "summary_original": "How iFood scales coding agents across 15,000 repositories",
+      "published_display": "2026-11-24",
+      "id": "4aab9b57cd37"
+    },
+    {
+      "category": "ai",
+      "category_label": "Yapay Zeka",
+      "title": "How Intentful uses dots to make more time for growth",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "image_url": null,
+      "source": "OpenAI News",
+      "published_at": "2026-11-24T00:00:00Z",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Model"
+      ],
+      "keywords": "How Intentful uses dots to make more time for growth Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues. How Intentful uses dots to make more time for growth Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues. AI OpenAI Model",
+      "title_original": "How Intentful uses dots to make more time for growth",
+      "summary_original": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "published_display": "2026-11-24",
+      "id": "4078a13e9d14"
     },
     {
       "category": "robotik",
@@ -294,42 +294,22 @@
     {
       "category": "robotik",
       "category_label": "Robotik",
-      "title": "Battery Recycling Automation Market to Reach USD 22.5 Billion - openPR.com",
-      "summary": "Battery Recycling Automation Market to Reach USD 22.5 Billion openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1VyLVRMWUVvQUdLcVpDZ2F1djJCZHl1aE9veE43SnFXeU5CR2NBZVY0Y1M3V2lMSU8waXd0MnRZaXlLNVZPaWlJRlg4VnMzX2VDWjhpM1dFRWFEUlU2WERJTUdHNFNDRFhxUnhpTWQyZS0xN3drdnUxRGYxT3dQMG82Z0o4YXFCQnBWRGpSUGwyNDhobDVNVE1jX0xvQQ?oc=5",
+      "title": "UK Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "summary": "UK Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOXZkbDUyTFRJM25UcVhNVHpIMTRISlpRYnUtQkhvR1lQQXEycVdscG02cFRWNTZaY1lMMTNlS1RzT0VDaW1kZC03WXNvQzVXVVRLZEh5VXNrRy0wbDRtZjY2MkN0U1c1TE5Jdy12bVZfLWZSWGphMFhhb1hwOUlQcW55Y1lsekJYV2ZncDd0WW0tUQ?oc=5",
       "image_url": null,
       "source": "Google News Robotics",
-      "published_at": "2026-11-23T13:21:31Z",
+      "published_at": "2026-11-22T22:22:33Z",
       "tags": [
         "Robotics",
         "Automation",
         "Industry"
       ],
-      "keywords": "Battery Recycling Automation Market to Reach USD 22.5 Billion - openPR.com Battery Recycling Automation Market to Reach USD 22.5 Billion openPR.com Battery Recycling Automation Market to Reach USD 22.5 Billion - openPR.com Battery Recycling Automation Market to Reach USD 22.5 Billion openPR.com Robotics Automation Industry",
-      "title_original": "Battery Recycling Automation Market to Reach USD 22.5 Billion - openPR.com",
-      "summary_original": "Battery Recycling Automation Market to Reach USD 22.5 Billion openPR.com",
-      "published_display": "2026-11-23",
-      "id": "8f8b08b7e730"
-    },
-    {
-      "category": "robotik",
-      "category_label": "Robotik",
-      "title": "Robotics and Automation Actuators Market Forecast to Grow - openPR.com",
-      "summary": "Robotics and Automation Actuators Market Forecast to Grow openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2JKdlFVNW1pWUtJOFhvVHFOYkZ4Uk1OYmQ0Q1VWNjVjWkU2ajJQLUxqRzd6YV9GaDRKbV94SzdLRGYzbHhtU2N4N2tkUFB5N3F1T3pHU2NWUTVnSlo1NldSZVlIbjZhTFBoVXV5UGFBRmZYUjloZmZSLVE4THhxOWk4MkdOMFllVTRNRjhTeEpkVTJtR2E3Mw?oc=5",
-      "image_url": null,
-      "source": "Google News Robotics",
-      "published_at": "2026-11-23T08:47:08Z",
-      "tags": [
-        "Robotics",
-        "Automation",
-        "Industry"
-      ],
-      "keywords": "Robotics and Automation Actuators Market Forecast to Grow - openPR.com Robotics and Automation Actuators Market Forecast to Grow openPR.com Robotics and Automation Actuators Market Forecast to Grow - openPR.com Robotics and Automation Actuators Market Forecast to Grow openPR.com Robotics Automation Industry",
-      "title_original": "Robotics and Automation Actuators Market Forecast to Grow - openPR.com",
-      "summary_original": "Robotics and Automation Actuators Market Forecast to Grow openPR.com",
-      "published_display": "2026-11-23",
-      "id": "3a320b763fcf"
+      "keywords": "UK Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets UK Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets UK Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets UK Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets Robotics Automation Industry",
+      "title_original": "UK Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
+      "summary_original": "UK Industrial Robotics Market Size, Share,Trends, Growth Analysis Report, 2031 MarketsandMarkets",
+      "published_display": "2026-11-22",
+      "id": "cf36e3efd3d4"
     },
     {
       "category": "robotik",
@@ -370,6 +350,26 @@
       "summary_original": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands Robotics & Automation News",
       "published_display": "2026-11-22",
       "id": "aac193bd1311"
+    },
+    {
+      "category": "robotik",
+      "category_label": "Robotik",
+      "title": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News",
+      "summary": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZC1ubDU3dG01ajVncThzRkgyd0tCck1VVTRpWTViazh0Tl95ZXBPeDNZSE12RTVsZ1FDODlGV3dHYV85OFhfSFVIOHRDYWF5amltNmFHUzF3c1dqcVFBWFFRSXVUVDk5X2JJLWR4VUQwaUJJcEMzaEFzNFZGQU5vd2NpRURnLWZIZGNGNWVNZk0yVzV5Q0ZrQ0M0eFJDZ3ZMVGVvZnhlWGtMRk5DUnRuMUdhMlU0TDdhMDdzSVhqY2paWDhjMTlCVWFVUTZVUTBR?oc=5",
+      "image_url": null,
+      "source": "Google News Robotics",
+      "published_at": "2026-11-22T15:56:51Z",
+      "tags": [
+        "Robotics",
+        "Automation",
+        "Industry"
+      ],
+      "keywords": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News Robotics Automation Industry",
+      "title_original": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot - Robotics & Automation News",
+      "summary_original": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot Robotics & Automation News",
+      "published_display": "2026-11-22",
+      "id": "1ad4417eb741"
     },
     {
       "category": "web",
@@ -514,6 +514,26 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic...",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "image_url": null,
+      "source": "CISA Advisories",
+      "published_at": "2026-11-24T12:00:00Z",
+      "tags": [
+        "CISA",
+        "Advisory",
+        "Threat"
+      ],
+      "keywords": "AutomationDirect C-More EA9 Programming Software View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic... AutomationDirect C-More EA9 Programming Software View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic... CISA Advisory Threat",
+      "title_original": "AutomationDirect C-More EA9 Programming Software",
+      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic...",
+      "published_display": "2026-11-24",
+      "id": "288d1576b2a0"
+    },
+    {
+      "category": "siber",
+      "category_label": "Siber Guvenlik",
       "title": "Danfoss AK-SM 8xxA Series",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-12...",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
@@ -534,9 +554,9 @@
     {
       "category": "siber",
       "category_label": "Siber Guvenlik",
-      "title": "AutomationDirect C-More EA9 Programming Software",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic...",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Dru...",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "image_url": null,
       "source": "CISA Advisories",
       "published_at": "2026-11-24T12:00:00Z",
@@ -545,11 +565,11 @@
         "Advisory",
         "Threat"
       ],
-      "keywords": "AutomationDirect C-More EA9 Programming Software View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic... AutomationDirect C-More EA9 Programming Software View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic... CISA Advisory Threat",
-      "title_original": "AutomationDirect C-More EA9 Programming Software",
-      "summary_original": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic...",
+      "keywords": "CISA Adds Three Known Exploited Vulnerabilities to Catalog CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Dru... CISA Adds Three Known Exploited Vulnerabilities to Catalog CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Dru... CISA Advisory Threat",
+      "title_original": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "summary_original": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Dru...",
       "published_display": "2026-11-24",
-      "id": "288d1576b2a0"
+      "id": "4c2739bf8b40"
     },
     {
       "category": "siber",
@@ -592,64 +612,24 @@
       "id": "79256c0106cb"
     },
     {
-      "category": "siber",
-      "category_label": "Siber Guvenlik",
-      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
-      "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
-      "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
-      "image_url": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X76DTFTZ4PHVTH5XWJ37KT.png",
-      "source": "Cloudflare Security",
-      "published_at": "2026-11-20T20:00:45Z",
-      "tags": [
-        "Cloudflare",
-        "Security",
-        "Web"
-      ],
-      "keywords": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release. How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release. Cloudflare Security Web",
-      "title_original": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
-      "summary_original": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
-      "published_display": "2026-11-20",
-      "id": "66d0f47dddd4"
-    },
-    {
       "category": "kamera",
       "category_label": "Kamera Sistemleri",
-      "title": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
-      "summary": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcGdkejRkcDNGMzlSV3M5UWFCZGdMUE13Y0JtV1ZER3U1dGVEOUJ6TDlxN1VDaGg0U0l4S0JPYldwbFNoT0lCc25CMUMtcUxoUTJrUDRlTUJaX05zT2pyRzQ2YVpUVG11MUpITnN5T0ZfX0w5bmlXMmRDODZ2YUpYTA?oc=5",
+      "title": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpuQzhBaHJXYzZfM2lOa1dFY0ZJS0hEb3lFTDItdHNndzk1NnJONkMzRFlEV1Z6dTQ2dFU5UW9Hem9VTWhZeWZ3VXMyN1g5cDRvbTFGa1Q5RjYtQ0p2aHRzSVVQY3ZBNmwtclpWQUJjZnR0NEdSQ0ktaWRqU3llaERNcG52VWo3MHZnbDRCSnZjdw?oc=5",
       "image_url": null,
       "source": "Google News Camera Security",
-      "published_at": "2026-11-15T08:06:02Z",
+      "published_at": "2026-10-30T07:00:00Z",
       "tags": [
         "IP Camera",
         "Video",
         "Surveillance"
       ],
-      "keywords": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs - Pasquale Pillitteri",
-      "summary_original": "How to protect your smart home from hackers, ten steps for routers, cameras and TVs Pasquale Pillitteri",
-      "published_display": "2026-11-15",
-      "id": "b5138c167bef"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
-      "summary": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUw1OTVXTWlncHZfWXFrSUVMczM0SnVoamtFOUM0aWRLbFUzZVRweFpEbjc4clFYVUh5WWVKSm9qR2JmeVFZb1lKeDZxWGEzc0NubjVwRmN2TWp5enN0NjdtSTVXMjEyZlhTRFdmd1p3MjFvNk14OUZISkxwbGJpcEtoVVRrNGZYZWh3Z1VMRVI?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-27T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri IP Camera Video Surveillance",
-      "title_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP - Pasquale Pillitteri",
-      "summary_original": "Dahua IP cameras hacked in Ukraine, attack via P2P Easy4IP Pasquale Pillitteri",
-      "published_display": "2026-10-27",
-      "id": "afee413b1cf2"
+      "keywords": "5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com 5 Ways Your Company Can Benefit From Security Cameras - Business.com 5 Ways Your Company Can Benefit From Security Cameras Business.com IP Camera Video Surveillance",
+      "title_original": "5 Ways Your Company Can Benefit From Security Cameras - Business.com",
+      "summary_original": "5 Ways Your Company Can Benefit From Security Cameras Business.com",
+      "published_display": "2026-10-30",
+      "id": "35fc26b8735d"
     },
     {
       "category": "kamera",
@@ -670,46 +650,6 @@
       "summary_original": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses The Hacker News",
       "published_display": "2026-10-27",
       "id": "dea87be07742"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk1aSDM5UVR0TUhUeVptNm5xNkRVSkhYSXhOZE0wSnczSG1BNlVpSnNjOWFKUlBqSG9xU0FQajA4NTRRczRZSUljU1d2X25nWUo5ZWMzcFZDZjBOT2JBbGU1Q1VTZ2Q3X29SUGYzOXBsc3pSUEk1VWR0VnhYNWs3UEkwc0FPUUN2MlhKOWVoRUIxUm1RYkdRZm04ejNWRlVaQjMwbEVNRmYxZw?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-15T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed New i-PRO Remote Head Camera Extends Edge AI Security Security Informed IP Camera Video Surveillance",
-      "title_original": "New i-PRO Remote Head Camera Extends Edge AI Security - Security Informed",
-      "summary_original": "New i-PRO Remote Head Camera Extends Edge AI Security Security Informed",
-      "published_display": "2026-10-15",
-      "id": "a206d4b1a6bf"
-    },
-    {
-      "category": "kamera",
-      "category_label": "Kamera Sistemleri",
-      "title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVU5jM3RiSzl2aG9Dd05kNUFOUVRyLWozaEp5U0ptT3V6eFRfV01rZEdSNk5qbjFoRzRxQ3BySEd2ejNNMXRNMEIzX0VQN0szMkFkYzZ0NlJqa2M4azdTM1ZwX3FOSG1WNHJFTGJnOEJjSGdsSFFVT25vbDlwM0xxLU1RV3JLVHdWcmlmVWZoa3g1Tmw3WWxOd0RHQVRfZ3FIdFRGbVZwVzZ2MFYtN3ZndkF4MXJVZW1DaVlxTlU5anlyMXZfNFYxckZPRTZqay1sRkREWnVVa0tFRW9kZDd5Slk4RHkxNm1UMFFILVg3OXlWNHVnQThwTDZKc2JBOXdEcGpsVG1BTWVCN0dVSE9qd0JwdTg5dF9x?oc=5",
-      "image_url": null,
-      "source": "Google News Camera Security",
-      "published_at": "2026-10-11T07:00:00Z",
-      "tags": [
-        "IP Camera",
-        "Video",
-        "Surveillance"
-      ],
-      "keywords": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware IP Camera Video Surveillance",
-      "title_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns - Tom's Hardware",
-      "summary_original": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles, gets a visit from police — officers visit his home to express privacy concerns Tom's Hardware",
-      "published_display": "2026-10-11",
-      "id": "80d82e57e3e1"
     }
   ]
 }
